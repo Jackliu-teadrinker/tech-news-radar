@@ -22,8 +22,7 @@ FRAMEWORK_LAYERS: list[dict] = [
     {"id": "hardware", "name": "硬件底座", "description": "芯片、封测、设备、材料、光、电、航天硬件、能源电力"},
     {"id": "software", "name": "软件应用", "description": "大模型、Agent、B 端落地、数据与 AI 治理"},
     {"id": "terminal", "name": "终端场景", "description": "手机/PC/眼镜/车载/机器人整机，端侧推理与交互"},
-    {"id": "frontier", "name": "未来前沿", "description": "量子、光计算、太空计算、6G、脑机、核聚变（低权重观察）"},
-]
+    {"id": "frontier", "name": "未来前沿", "description": "量子、光计算、太空计算、6G、脑机、核聚变（低权重观察）"}]
 
 DIRECTIONS: list[dict] = [
     # ═══════════════ 硬件底座 ═══════════════
@@ -33,12 +32,11 @@ DIRECTIONS: list[dict] = [
         "framework_layer": "hardware",
         "companies": [
             "寒武纪", "海光", "燧原", "沐曦", "摩尔线程", "壁仞", "天数智芯",
-            "nvidia", "英伟达", "amd", "intel", "博通", "broadcom", "marvell",
+                        "nvidia", "英伟达", "amd", "intel", "博通", "broadcom", "marvell",
             "中际旭创", "新易盛", "旭创", "coherent", "光迅科技", "天孚通信",
             "沪电股份", "深南电路", "生益科技", "胜宏科技",
             "浪潮信息", "中科曙光", "超聚变", "新华三", "超微电脑",
-            "英维克", "申菱环境", "佳力图",
-        ],
+            "英维克", "申菱环境", "佳力图"],
         "keywords": [
             # 国产算力芯片/超节点
             "寒武纪", "海光", "燧原", "沐曦", "摩尔线程", "壁仞", "天数智芯",
@@ -60,13 +58,11 @@ DIRECTIONS: list[dict] = [
             # 数据中心
             "data center", "数据中心", "机柜", "pue",
             "算力", "tpu", "gpu", "npu", "asic", "inference",
-            "nvidia", "rtx", "geforce", "数据中心电力",
-        ],
+            "nvidia", "rtx", "geforce", "数据中心电力"],
         "points": [
             "国产训练/推理芯片、超节点、高速互连",
             "光模块/CPO、PCB/CCL、HBM 与存储",
-            "液冷 CDU、供配电/UPS/电源、预制化机房",
-        ],
+            "液冷 CDU、供配电/UPS/电源、预制化机房"],
     },
     {
         "id": "semiconductor",
@@ -75,15 +71,14 @@ DIRECTIONS: list[dict] = [
         "companies": [
             "nvidia", "英伟达", "amd", "intel", "高通", "博通", "联发科",
             "海光", "寒武纪", "华为海思", "marvell",
-            "中芯国际", "smic", "联", "tsmc", "台积电",
+            "中芯国际", "smic", "tsmc", "台积电",
             "日月光", "长电科技", "通富微电", "华天科技", "晶方科技",
             "北方华创", "中微", "拓荆", "盛美", "华海清科", "中科飞测",
             "amats", "东京电子", "asml",
             "沪硅产业", "立昂微", "sumco", "信越", "jmc",
             "synopsys", "cadence",
             "村田", "三环", "风华",
-            "禾赛", "速腾", "图达通",
-        ],
+            "禾赛", "速腾", "图达通"],
         "keywords": [
             # ① 芯片设计
             "cpu", "gpu", "asic", "fpga", "soc", "存储芯片",
@@ -95,19 +90,17 @@ DIRECTIONS: list[dict] = [
             "chiplet", "先进封装", "封测", "osat",
             # ③ 设备/材料/EDA
             "光刻", "光刻机", "asml", "涂胶显影",
-            "量测", "刻蚀", "c", "p", "cmp", "光刻胶",
+            "量测", "刻蚀", "cmp", "光刻胶",
             "硅片", "电子特气", "靶材", "eda",
             # ④ 元器件/光子
             "mlcc", "mems", "光芯片", "光收发", "光模块",
             "激光雷达", "光电", "高频高速", "光电器件",
-            "半导体", "集成电路", "国产替代", "国产化", "良率",
-        ],
+            "半导体", "集成电路", "国产替代", "国产化", "良率"],
         "points": [
             "芯片设计（CPU/GPU/ASIC/存储/模拟/传感）",
             "制造与先进封装（成熟+先进制程、CoWoS 类、三维集成）",
             "设备/材料/EDA（刻蚀、薄膜、量测、光刻胶、硅片）",
-            "元器件与光子（MLCC、MEMS、光芯片、光收发、激光雷达）",
-        ],
+            "元器件与光子（MLCC、MEMS、光芯片、光收发、激光雷达）"],
     },
     {
         "id": "space_hardware",
@@ -118,8 +111,7 @@ DIRECTIONS: list[dict] = [
             "天兵", "深蓝", "星河", "谷神星",
             "垣信", "千帆", "星网", "中国卫星", "上海瀚讯", "铖昌",
             "天银机电", "臻镭", "海格通信", "华测导航", "北斗星通",
-            "星测星联",
-        ],
+            "星测星联"],
         "keywords": [
             # 火箭
             "火箭", "rocket", "发射", "launch", "orbital", "回收",
@@ -131,13 +123,11 @@ DIRECTIONS: list[dict] = [
             "千帆", "垣信", "星网", "中国卫星", "上海瀚讯", "铖昌",
             "天银", "臻镭", "星敏", "星载", "信关站",
             "基带", "手机直连", "手机直连卫星", "车规卫星", "北斗",
-            "卫星互联网", "北斗芯片",
-        ],
+            "卫星互联网", "北斗芯片"],
         "points": [
             "火箭（可回收、一箭多星、海上发射）",
             "卫星总装与载荷、T/R/星敏/电源/相控阵",
-            "地面信关站、北斗芯片与终端、手机直连卫星",
-        ],
+            "地面信关站、北斗芯片与终端、手机直连卫星"],
     },
     {
         "id": "autonomous_hardware",
@@ -146,8 +136,7 @@ DIRECTIONS: list[dict] = [
         "companies": [
             "nvidia", "英伟达", "地平线", "黑芝麻", "华为",
             "禾赛", "速腾", "图达通", "robosense", "robotechnik",
-            "经纬恒润", "德赛西威", "均胜电子",
-        ],
+            "经纬恒润", "德赛西威", "均胜电子"],
         "keywords": [
             # 智驾芯片/域控
             "智驾", "驾驶芯片", "域控", "nvidia drive", "oem",
@@ -156,13 +145,11 @@ DIRECTIONS: list[dict] = [
             "camera", "惯导", "lidar",
             # 车路云
             "车路云", "路侧单元", "高精地图", "高精度地图",
-            "v2x", "cooperative", "北斗", "商用车",
-        ],
+            "v2x", "cooperative", "北斗", "商用车"],
         "points": [
             "智驾芯片/域控（英伟达、地平线、黑芝麻、华为 MDC）",
             "激光雷达/4D 毫米波/相机（禾赛、速腾、图达通）",
-            "高精地图/车路云（路侧单元、北斗终端）",
-        ],
+            "高精地图/车路云（路侧单元、北斗终端）"],
     },
     {
         "id": "robotics_hardware",
@@ -171,8 +158,7 @@ DIRECTIONS: list[dict] = [
         "companies": [
             "绿的", "鸣志", "柯力", "昊志", "汇川",
             "harmonic", "step",
-            "安川", "mazda",
-        ],
+            "安川", "mazda"],
         "keywords": [
             # 核心部件
             "减速器", "谐波", "行星", "滚柱", "harmonic",
@@ -181,13 +167,11 @@ DIRECTIONS: list[dict] = [
             "绿的", "鸣志", "柯力", "昊志", "汇川",
             # 工业机器人
             "工业机器", "四足", "无人机", "无人车",
-            "机器人", "robot",
-        ],
+            "机器人", "robot"],
         "points": [
             "减速器、伺服、力矩/视觉/IMU 传感器、控制器",
             "灵巧手、端侧控制器、微电机",
-            "工业机器人、四足、无人车/无人机",
-        ],
+            "工业机器人、四足、无人车/无人机"],
     },
     {
         "id": "energy_hardware",
@@ -195,8 +179,7 @@ DIRECTIONS: list[dict] = [
         "framework_layer": "hardware",
         "companies": [
             "宁德时代", "宁德", "国轩", "比亚迪", "孚能", "亿纬", "鹏辉",
-            "阳光电源", "华为数字能源", "士兰微", "斯达", "时代电气",
-        ],
+            "阳光电源", "华为数字能源", "士兰微", "斯达", "时代电气"],
         "keywords": [
             # 储能/电池
             "lithium", "锂电", "lithium battery", "sodium", "钠",
@@ -210,12 +193,10 @@ DIRECTIONS: list[dict] = [
             "备用电源", "绿电", "renewable",
             # 算电协同
             "pue", "绿电", "token 成本", "机柜功率",
-            "kwh", "电价", "data center power", "算电协同",
-        ],
+            "kwh", "电价", "data center power", "算电协同"],
         "points": [
             "储能、固态/钠电/液流、光伏与钙钛矿、电池回收",
-            "数据中心电力（HVDC、SiC/GaN、变压器、绿电微网）",
-        ],
+            "数据中心电力（HVDC、SiC/GaN、变压器、绿电微网）"],
     },
     # ═══════════════ 软件应用 ═══════════════
     {
@@ -226,8 +207,7 @@ DIRECTIONS: list[dict] = [
             "openai", "anthropic", "google", "gemini", "deepseek",
             "豆包", "字节", "通义", "阿里", "智谱", "月之暗面", "kimi",
             "minimax", "阶跃", "零一万物", "商汤", "百度", "腾讯",
-            "cursor", "perplexity", "meta",
-        ],
+            "cursor", "perplexity", "meta"],
         "keywords": [
             # 基础层：大模型迭代
             "gemini", "gpt", "claude", "deepseek", "豆包", "通义", "qwen",
@@ -237,16 +217,14 @@ DIRECTIONS: list[dict] = [
             "mcp", "tool use", "function calling", "reasoning",
             # 应用层：B 端落地
             "办公", "客服", "研发", "code", "编程", "财务",
-            "制造", "医疗", "教育", "enterprise", "s",
+            "制造", "医疗", "教育", "enterprise",
             "vertical ai", "copilot", "虚拟员工", "工单", "知识库",
             "openai", "anthropic", "cursor", "codex", "claude code",
             "github", "copilot", "ai 助手", "ai assistant", "融资", "funding",
-            "task", "seat",
-        ],
+            "task", "seat"],
         "points": [
             "基础层：大模型迭代、推理成本、多模态、Agent 工作流",
-            "应用层：办公、客服、研发、财务、制造、医疗、教育 B 端落地",
-        ],
+            "应用层：办公、客服、研发、财务、制造、医疗、教育 B 端落地"],
     },
     {
         "id": "security_governance",
@@ -254,8 +232,7 @@ DIRECTIONS: list[dict] = [
         "framework_layer": "software",
         "companies": [
             "安恒", "启明", "永信", "奇安信", "深信服", "绿盟", "天融信",
-            "360", "亚信", "中孚", "电科网安",
-        ],
+            "360", "亚信", "中孚", "电科网安"],
         "keywords": [
             # AI 治理
             "ai", "模型安全", "agent 权限", "agentic",
@@ -267,13 +244,11 @@ DIRECTIONS: list[dict] = [
             "数据资产", "入表", "数据确权", "反垄断", "在线平台",
             "平台合规", "不正当竞争", "数据安全",
             "vulnerability", "漏洞", "exploit", "ransomware", "cyber",
-            "零信任", "zero trust", "siem", "soc",
-        ],
+            "零信任", "zero trust", "siem", "soc"],
         "points": [
             "模型安全、Agent 权限、数据出境、隐私",
             "AI 侵权/深伪/自动驾驶责任",
-            "等保/靶场/合规测评",
-        ],
+            "等保/靶场/合规测评"],
     },
     # ═══════════════ 终端场景 ═══════════════
     {
@@ -284,8 +259,7 @@ DIRECTIONS: list[dict] = [
             "苹果", "apple", "iphone", "华为", "荣耀", "vivo", "oppo",
             "小米", "三星", "samsung", "魅族", "联想",
             "meta", "vision", "ray", "xreal", "rokid", "影目", "雷鸟",
-            "科大讯飞", "安克", "anker",
-        ],
+            "科大讯飞", "安克", "anker"],
         "keywords": [
             # 端侧 AI 手机/PC
             "iphone", "ipad", "mac", "macbook", "pixel", "galaxy",
@@ -304,13 +278,11 @@ DIRECTIONS: list[dict] = [
             # OS/端侧 Agent
             "系统", "agent", "跨app", "跨应用", "自动执行",
             "隐私", "harmony", "鸿蒙", "magicos", "aosp",
-            "android", "ios", "windows", "端侧大模型",
-        ],
+            "android", "ios", "windows", "端侧大模型"],
         "points": [
             "手机、PC、AI 眼镜/AR、可穿戴、视听终端、车载/工业/商业终端",
             "端侧推理芯片、NPU、LPDDR/存储、OS",
-            "端侧大模型与 Agent、隐私与跨 App 自动执行",
-        ],
+            "端侧大模型与 Agent、隐私与跨 App 自动执行"],
     },
     {
         "id": "autonomous_vehicle",
@@ -320,8 +292,7 @@ DIRECTIONS: list[dict] = [
             "特斯拉", "tesla", "fsd", "小鹏", "xiaopeng", "理想",
             "li auto", "蔚来", "nio", "华为", "问界", "赛力斯",
             "零跑", "leapmotor", "比亚迪", "byd", "小米汽车", "极氪",
-            "地平线", "黑芝麻", "momenta",
-        ],
+            "地平线", "黑芝麻", "momenta"],
         "keywords": [
             # 整车与渠道
             "赛力斯", "零跑", "leapmotor", "世界模型",
@@ -333,12 +304,10 @@ DIRECTIONS: list[dict] = [
             "渠道分账", "分账", "软件订阅", "subscription", "销量结构",
             "库存", "销售费用", "毛利", "软件毛利", "tco", "ota",
             "座舱", "cabin", "座舱 agent", "vla", "大模型智驾",
-            "world model", "物理ai", "physical ai",
-        ],
+            "world model", "物理ai", "physical ai"],
         "points": [
             "大模型智驾 VLA、座舱 Agent",
-            "整车看渠道分账、软件订阅、销量结构、库存与销售费用率",
-        ],
+            "整车看渠道分账、软件订阅、销量结构、库存与销售费用率"],
     },
     {
         "id": "robotics",
@@ -347,24 +316,21 @@ DIRECTIONS: list[dict] = [
         "companies": [
             "优必选", "ubtech", "宇树", "unitree", "智元", "zhiyuan",
             "乐聚", "legue", "东风", "小米", "figure",
-            "bo", "agibot",
-        ],
+            "agibot"],
         "keywords": [
             # 人形/工业具身
             "优必选", "宇树", "智元", "乐聚", "东风", "humanoid",
             "具身", "工业机器", "万台产线", "节拍", "故障率",
-            "figure", "bo", "bo", "小米",
+            "figure", "小米",
             # 仿真/数据/模型
             "遥操", "sim", "vla", "视觉", "数据闭环",
             "仿真", "simulation", "digital twin", "数字孪生",
             "robot", "robotics", "embodied", "四足", "灵巧", "人形",
-            "协作", "cooperative",
-        ],
+            "协作", "cooperative"],
         "points": [
             "人形、工业机器人、无人车/无人机",
             "仿真/数据/模型：遥操数据、Sim2Real、VLA",
-            "看万台产线、节拍、故障率、单台 TCO",
-        ],
+            "看万台产线、节拍、故障率、单台 TCO"],
     },
     # ═══════════════ 未来前沿（低权重观察） ═══════════════
     {
@@ -376,9 +342,8 @@ DIRECTIONS: list[dict] = [
             "quantinuum", "ionq", "rigetti", "国盾", "本源", "quantum",
             "国星宇航", "星算", "starlink",
             "neuralink", "强脑", "脑虎",
-            "低空", "e", "verde",
-            "能量奇点", "星环聚能", "诺瓦聚变",
-        ],
+            "低空", "verde",
+            "能量奇点", "星环聚能", "诺瓦聚变"],
         "keywords": [
             # 量子
             "quantum", "量子", "量子计算", "量子计算机", "qubit", "superconducting",
@@ -393,19 +358,16 @@ DIRECTIONS: list[dict] = [
             # 脑机接口
             "bci", "brain", "脑机", "neuralink", "强脑", "脑虎",
             # 低空
-            "低空", "evtol", "e", "verde", "无人机",
+            "低空", "evtol", "verde", "无人机",
             "drone", "vertol",
             # 核聚变
             "fusion", "核聚变", "可控核聚变", "tokamak", "stellar",
-            "能量奇点", "星环聚能", "诺瓦聚变",
-        ],
+            "能量奇点", "星环聚能", "诺瓦聚变"],
         "points": [
             "量子计算、光计算/类脑/存算一体",
             "太空计算、6G、脑机接口",
-            "低空飞行器、可控核聚变",
-        ],
-    },
-]
+            "低空飞行器、可控核聚变"],
+    }]
 
 DIRECTION_BY_ID = {d["id"]: d for d in DIRECTIONS}
 DIRECTION_ORDER = [d["id"] for d in DIRECTIONS]
