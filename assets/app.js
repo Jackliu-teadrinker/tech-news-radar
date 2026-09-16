@@ -27,6 +27,8 @@ const state = {
   dailyBrief: null,
   top3Personas: null,
   storiesMerged: null,
+  sectorsData: null,
+  sectorsDataUrl: "data/latest-24h-sectors.json",
   storiesDataUrl: "data/stories-merged.json",
   // 内容 tab：单值，默认 "all"（全部，无过滤）
   activeSection: "all",
@@ -133,6 +135,8 @@ const AIHOT_SUB_LABELS = { x: "X", wechat: "公众号", hn: "HN", rss: "RSS" };
 const AIHOT_SUB_TONES = { x: "builders", wechat: "creator", hn: "aggregate", rss: "newsletter" };
 
 // 单层内容 tab：全部（默认，无过滤）+ 全网科技栏目 + 社区 + 自媒体，互斥单值。
+// 板块 tab（ai_compute/semiconductor/…）在 init() 里从 latest-24h-sectors.json
+// 动态追加到 SECTION_DEFS 之后；无数据时自动不渲染。
 const SECTION_DEFS = [
   { id: "all", label: "全部", short: "全部", description: "不筛选内容栏目，查看全部信号" },
   { id: "models", label: "AI", short: "AI", description: "大模型、Agent、AI 产品与开源模型动态" },
@@ -144,6 +148,19 @@ const SECTION_DEFS = [
   { id: "community", label: "社区", short: "社区", description: "HN、中文技术社区与社群动态" },
   { id: "creator", label: "自媒体", short: "自媒体", description: "抖音、小红书等自媒体创作者内容" },
 ];
+
+// 8 大板块 tab（从 latest-24h-sectors.json 的 sectors 数组动态生成，
+// 在 init() 里把结果 push 到 SECTION_DEFS 末尾）。
+function sectorSectionDefs(sectorsData) {
+  if (!sectorsData || !Array.isArray(sectorsData.sectors)) return [];
+  return sectorsData.sectors.map((s) => ({
+    id: s.id,
+    label: s.name,
+    short: s.name,
+    description: (s.aliases || []).join(" / "),
+    sectorPoints: s.points || [],
+  }));
+}
 
 const SECTION_BY_ID = Object.fromEntries(SECTION_DEFS.map((section) => [section.id, section]));
 
@@ -414,6 +431,12 @@ function sectionTabCount(sectionId) {
 
 function renderSectionTabs() {
   if (!sectionTabsEl) return;
+  // 板块 tab：数据加载后动态注入（只注入一次，避免重复）
+  if (state.sectorsData && !sectionTabsEl.dataset.sectorsInjected) {
+    SECTION_DEFS.push(...sectorSectionDefs(state.sectorsData));
+    Object.assign(SECTION_BY_ID, Object.fromEntries(SECTION_DEFS.map((s) => [s.id, s])));
+    sectionTabsEl.dataset.sectorsInjected = "1";
+  }
   sectionTabsEl.innerHTML = "";
   SECTION_DEFS.forEach((section) => {
     const btn = document.createElement("button");
@@ -422,6 +445,10 @@ function renderSectionTabs() {
     btn.setAttribute("role", "tab");
     btn.setAttribute("aria-selected", state.activeSection === section.id ? "true" : "false");
     btn.dataset.section = section.id;
+    if (section.sectorPoints && section.sectorPoints.length) {
+      // 板块 tab：标题下挂观察点小字提示（title 属性 + 渲染后弹层）
+      btn.title = section.sectorPoints.join("\n");
+    }
     btn.innerHTML = `<span>${section.label}</span><strong>${fmtNumber(sectionTabCount(section.id))}</strong>`;
     btn.addEventListener("click", () => {
       if (state.activeSection === section.id) return;
@@ -814,6 +841,8 @@ function itemSection(item) {
   const group = itemSourceGroup(item);
   if (group === "creator") return "creator";
   if (group === "community") return "community";
+  // 优先用后端打好的板块标签（latest-24h-sectors.json 的 sector 字段）
+  if (item.sector && SECTION_BY_ID[item.sector]) return item.sector;
   const label = item.ai_label || "";
   const mapped = AI_LABEL_SECTION_MAP[label];
   if (mapped) return mapped;
@@ -1610,6 +1639,50 @@ function renderLoadingNotice(label, count) {
   newsListEl.appendChild(loading);
 }
 
+// 板块观察点面板：选中板块 tab 时在列表顶部展示"该板块在看什么"
+let sectorPointsEl = null;
+function renderSectorPoints() {
+  if (!sectorPointsEl) {
+    sectorPointsEl = document.getElementById("sectorPointsWrap");
+    if (!sectorPointsEl) return;
+  }
+  const sectionId = state.activeSection;
+  const section = SECTION_BY_ID[sectionId];
+  const points = section && section.sectorPoints ? section.sectorPoints : null;
+  const sectorMeta = (state.sectorsData && sectionId)
+    ? (state.sectorsData.stats || []).find((s) => s.sector_id === sectionId)
+    : null;
+  if (!points || !points.length) {
+    sectorPointsEl.hidden = true;
+    sectorPointsEl.innerHTML = "";
+    return;
+  }
+  sectorPointsEl.hidden = false;
+  sectorPointsEl.innerHTML = "";
+  const card = document.createElement("div");
+  card.className = "sector-points-card";
+  const head = document.createElement("div");
+  head.className = "sector-points-head";
+  const h3 = document.createElement("h3");
+  h3.textContent = `板块观察点 · ${section.short || section.label}`;
+  head.appendChild(h3);
+  if (sectorMeta) {
+    const badge = document.createElement("span");
+    badge.className = "sector-count-badge";
+    badge.textContent = `24h 命中 ${sectorMeta.count} 条`;
+    head.appendChild(badge);
+  }
+  const ul = document.createElement("ul");
+  ul.className = "sector-points-list";
+  points.forEach((p) => {
+    const li = document.createElement("li");
+    li.textContent = p;
+    ul.appendChild(li);
+  });
+  card.append(head, ul);
+  sectorPointsEl.appendChild(card);
+}
+
 function addLoadMoreButton(parent, label, onClick) {
   const moreBtn = document.createElement("button");
   moreBtn.type = "button";
@@ -1638,6 +1711,7 @@ function renderMainList() {
   const entries = mainListEntries();
   resultCountEl.textContent = `${fmtNumber(entries.length)} 条`;
   renderClearFiltersButton();
+  renderSectorPoints();
   if (modeHintEl) {
     modeHintEl.textContent = `${modeLabelText()} ${fmtNumber(entries.length)} 条`;
     modeHintEl.setAttribute("aria-label", `当前${modeLabelText()}模式，${fmtNumber(entries.length)} 条`);
@@ -2191,14 +2265,21 @@ async function loadStoriesData() {
   return res.json();
 }
 
+async function loadSectorsData() {
+  const res = await fetch(`${dataUrl(state.sectorsDataUrl)}?t=${Date.now()}`);
+  if (!res.ok) throw new Error(`加载 latest-24h-sectors.json 失败: ${res.status}`);
+  return res.json();
+}
+
 async function init() {
-  const [newsResult, waytoagiResult, statusResult, briefResult, storiesResult, personasResult] = await Promise.allSettled([
+  const [newsResult, waytoagiResult, statusResult, briefResult, storiesResult, personasResult, sectorsResult] = await Promise.allSettled([
     loadNewsData(),
     loadWaytoagiData(),
     loadSourceStatusData(),
     loadDailyBriefData(),
     loadStoriesData(),
     loadTop3PersonasData(),
+    loadSectorsData(),
   ]);
 
   if (briefResult.status === "fulfilled") {
@@ -2223,6 +2304,14 @@ async function init() {
     state.storiesMerged = storiesResult.value;
   } else {
     state.storiesMerged = null;
+  }
+
+  // 板块地图数据（latest-24h-sectors.json）：缺失或旧版文件静默降级，
+  // item.sector 字段不存在时板块 tab 自动不渲染。
+  if (sectorsResult.status === "fulfilled" && sectorsResult.value && Array.isArray(sectorsResult.value.sectors)) {
+    state.sectorsData = sectorsResult.value;
+  } else {
+    state.sectorsData = null;
   }
 
   if (newsResult.status === "fulfilled") {

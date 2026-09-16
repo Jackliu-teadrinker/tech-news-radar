@@ -2094,3 +2094,71 @@ summary:focus-visible {
   border-color: var(--accent);
 }
 
+/* ── 板块观察点面板（8 大板块 tab 联动） ───────────────────── */
+.sector-points-wrap {
+  margin: 0 0 14px;
+}
+
+.sector-points-card {
+  border: 1px solid var(--line, rgba(18, 106, 115, 0.18));
+  border-radius: 14px;
+  padding: 12px 14px;
+  background: rgba(18, 106, 115, 0.05);
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.sector-points-head {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+.sector-points-head h3 {
+  margin: 0;
+  font-size: 13px;
+  font-weight: 750;
+  color: var(--accent, #126a73);
+}
+
+.sector-count-badge {
+  border-radius: 999px;
+  padding: 2px 8px;
+  font-size: 11px;
+  font-weight: 700;
+  color: var(--accent, #126a73);
+  border: 1px solid rgba(18, 106, 115, 0.25);
+  background: rgba(18, 106, 115, 0.08);
+}
+
+.sector-points-list {
+  margin: 0;
+  padding-left: 18px;
+  color: var(--muted, #5f6b75);
+  font-size: 12.5px;
+  line-height: 1.7;
+}
+
+.sector-points-list li {
+  margin-bottom: 2px;
+}
+
+/* 板块 tab 视觉区分（8 个板块用青色描边，区别于主题栏目） */
+.section-tab[data-section="ai_compute"],
+.section-tab[data-section="semiconductor"],
+.section-tab[data-section="ai_apps"],
+.section-tab[data-section="space"],
+.section-tab[data-section="autonomous_vehicle"],
+.section-tab[data-section="robotics"],
+.section-tab[data-section="energy"],
+.section-tab[data-section="policy"] {
+  border-color: rgba(18, 106, 115, 0.4);
+}
+
+@media (max-width: 720px) {
+  .sector-points-card { padding: 10px 12px; }
+  .sector-points-list { font-size: 12px; }
+}
+

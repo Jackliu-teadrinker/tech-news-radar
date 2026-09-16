@@ -2314,6 +2314,67 @@ def fetch_ai_hubtoday(session: requests.Session, now: datetime) -> list[RawItem]
         )
     return out
 
+def fetch_sector_sources_rss(session: requests.Session, now: datetime) -> list[RawItem]:
+    """Fetch sector-specific sources via RSS (iThome / SemiAnalysis / 雷峰网 /
+    EE Times / TechCrunch / Verge). These fill the 8-sector map with
+    A-share chip / semiconductor / robotics / space / EV / energy coverage
+    that the generic AI radar misses.
+
+    All feeds are parsed locally from fetched bytes (hard 20s timeout each)
+    to avoid the feedparser-hang class of bug.
+    """
+    site_id = "sector_sources"
+    site_name = "Sector Sources"
+
+    feeds: list[tuple[str, str, str]] = [
+        # (title, xml_url, source_name)
+        ("iThome", "https://www.ithome.com/rss/", "IT Home"),
+        ("SemiAnalysis", "https://semianalysis.com/feed/", "SemiAnalysis"),
+        ("雷峰网", "https://www.leiphone.com/feed", "雷峰网"),
+        ("EE Times", "https://www.eetimes.com/feed/", "EE Times"),
+        ("TechCrunch", "https://techcrunch.com/feed/", "TechCrunch"),
+        ("The Verge", "https://www.theverge.com/rss/index.xml", "The Verge"),
+        ("Tom's Hardware", "https://www.tomshardware.com/feeds/news", "Tom's Hardware"),
+    ]
+
+    out: list[RawItem] = []
+    max_age_days = 30
+    for feed_title, xml_url, source_name in feeds:
+        try:
+            resp = session.get(xml_url, timeout=20, headers={"User-Agent": BROWSER_UA})
+            resp.raise_for_status()
+            if feedparser is None:
+                continue
+            parsed = feedparser.parse(resp.content)
+            entries = list(parsed.entries)[:30]
+            for entry in entries:
+                title = str(entry.get("title", "")).strip()
+                url = str(entry.get("link", "")).strip()
+                if not title or not url:
+                    continue
+                published = parse_date_any(
+                    entry.get("published") or entry.get("updated") or entry.get("pubDate"),
+                    now,
+                )
+                if published and published < now - timedelta(days=max_age_days):
+                    continue
+                out.append(
+                    RawItem(
+                        site_id=site_id,
+                        site_name=site_name,
+                        source=source_name,
+                        title=title,
+                        url=url,
+                        published_at=published,
+                        meta={"feed_title": feed_title},
+                    )
+                )
+        except Exception:
+            continue
+
+    return out
+
+
 def fetch_aibase(session: requests.Session, now: datetime) -> list[RawItem]:
     site_id = "aibase"
     site_name = "AIbase"
@@ -2657,6 +2718,7 @@ def collect_all(session: requests.Session, now: datetime) -> tuple[list[RawItem]
         ("hackernews", "Hacker News", fetch_hacker_news_algolia),
         ("aihubtoday", "AI HubToday", fetch_ai_hubtoday),
         ("aibase", "AIbase", fetch_aibase),
+        ("sector_sources", "Sector Sources", fetch_sector_sources_rss),
         ("aihot", "AI HOT", fetch_aihot),
         ("newsnow", "NewsNow", fetch_newsnow),
     ]
@@ -7093,6 +7155,12 @@ def main() -> int:
                 continue
             normalized = add_ai_relevance_fields(normalized)
             normalized = add_source_tier_fields(normalized)
+            try:
+                from sector_classifier import classify_sectors
+                normalized = classify_sectors(normalized)
+            except Exception:
+                normalized.setdefault("sector", "")
+                normalized.setdefault("sector_hits", [])
             latest_items_all_raw.append(normalized)
 
     latest_items_all_raw = normalize_aihubtoday_records(latest_items_all_raw)
@@ -7286,6 +7354,37 @@ def main() -> int:
         json.dumps(sanitize_public_payload(stories_merged_payload), ensure_ascii=False, separators=(",", ":")),
         encoding="utf-8",
     )
+    # Sector view: aggregate items by the 8-sector map so the UI can render
+    # "AI算力基础设施 / 半导体国产替代 / …" tabs with per-sector point lists.
+    try:
+        from sector_classifier import sector_meta_payload, sector_stats
+        sectors_payload = {
+            "schema_version": 1,
+            "generated_at": iso(now),
+            "window_hours": args.window_hours,
+            "sectors": sector_meta_payload(),
+            "stats": sector_stats(latest_items_all_raw_dedup),
+            "items_by_sector": {},
+            "top_items_by_sector": {},
+        }
+        # Group deduped items by primary sector; include top-3 sub-hits too.
+        from collections import defaultdict
+        by_sector: dict[str, list] = defaultdict(list)
+        for item in latest_items_all_raw_dedup:
+            sid = item.get("sector") or ""
+            if sid:
+                by_sector[sid].append(item)
+        for sid, items in by_sector.items():
+            items.sort(key=lambda x: event_time(x) or datetime.min.replace(tzinfo=UTC), reverse=True)
+            sectors_payload["items_by_sector"][sid] = items[:50]
+            sectors_payload["top_items_by_sector"][sid] = items[:8]
+        sectors_path = output_dir / "latest-24h-sectors.json"
+        sectors_path.write_text(
+            json.dumps(sanitize_public_payload(sectors_payload), ensure_ascii=False, separators=(",", ":")),
+            encoding="utf-8",
+        )
+    except Exception as exc:
+        print(f"[warn] sector payload generation failed: {exc}", file=sys.stderr)
     merge_log_path.write_text(
         json.dumps(sanitize_public_payload(merge_log_payload), ensure_ascii=False, indent=2),
         encoding="utf-8",
