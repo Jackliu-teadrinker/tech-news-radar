@@ -206,12 +206,15 @@ AI News Radar学习了现代新闻学的技术，不是简单堆信息源，一�
 
 - `data/daily-brief.json`：伯乐精选20条日报成品，v0.8 起含 persona 打分与点评字段
 - `data/top3-personas.json`：每日 TOP3 的三口味点评并排
-- `data/latest-24h.json`：最近24小时AI强相关消息
-- `data/latest-24h-all.json`：最近24小时广义AI相关消息（score >= 0.3）
+- `data/latest-24h.json`：最近24小时科技强相关消息
+- `data/latest-24h-all.json`：最近24小时广义科技相关消息（score >= 0.25）
 - `data/latest-24h-all-raw.json`：最近24小时零过滤全量消息（dev-only，不接入前端UI）
+- `data/latest-24h-sectors.json`：8 大板块观察地图（AI算力基础设施/半导体国产替代/AI应用与智能终端/商业航天/智能车/机器人/能源电子/政策合规），每个板块含观察点清单 + 24h 命中条目
 - `data/source-status.json`：来源抓取状态、成功率、站点覆盖和源健康
 - `data/stories-merged.json`：故事合并后的完整事件集合
 - `data/merge-log.json`：故事合并过程和命中记录，方便调试与审计
+
+板块观察地图（`latest-24h-sectors.json`）的 8 大板块由 `scripts/sector_config.py` 定义——每个板块带有关键词表和"在看什么"观察点（如"液冷 CDU 毛利率""千帆星座年度发包量""工厂场景 ROI 回收期"）。扩充板块/加公司/调观察点只改这一个文件，不用动采集脚本。前端选中板块 tab 时，列表顶部会展示该板块观察点卡片，tab 上也会挂"24h 命中 N 条"徽章。
 
 如果 `daily-brief.json` 暂时不存在，页面会回退到候选信号列表；如果 `stories-merged.json` 存在，页面会用完整故事池补齐后续故事线，避免只有少量精选故事被接入。
 
