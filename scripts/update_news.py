@@ -1153,18 +1153,39 @@ def waytoagi_updates_to_raw_items(payload: dict[str, Any], now: datetime) -> lis
 def create_session() -> requests.Session:
     session = requests.Session()
     retry = Retry(
-        total=3,
-        connect=3,
-        read=3,
-        backoff_factor=0.8,
+        total=2,
+        connect=2,
+        read=2,
+        backoff_factor=0.5,
         status_forcelist=[429, 500, 502, 503, 504],
         allowed_methods=frozenset(["GET", "POST"]),
+        raise_on_status=False,
     )
     adapter = HTTPAdapter(max_retries=retry)
     session.mount("http://", adapter)
     session.mount("https://", adapter)
     session.headers.update({"User-Agent": BROWSER_UA, "Accept-Language": "zh-CN,zh;q=0.9"})
+    # Global timeout so no single request can hang the whole pipeline.
+    # Per-call timeouts in fetch_* functions are still honored via the
+    # `timeout=` kwarg passed to session.get/post. The global default here
+    # is a safety net for any call that forgot the kwarg.
+    session.request = _patched_request(session.request)
     return session
+
+
+def _patched_request(original_request):
+    """Wrap session.request to enforce a hard 45-second total timeout on
+    any request that does not pass an explicit ``timeout`` argument."""
+    import functools
+    HARD_TIMEOUT_S = int(os.environ.get("RADAR_HARD_TIMEOUT_S", "45"))
+
+    @functools.wraps(original_request)
+    def wrapped(method, url, *args, **kwargs):
+        if "timeout" not in kwargs or kwargs["timeout"] is None:
+            kwargs["timeout"] = HARD_TIMEOUT_S
+        return original_request(method, url, *args, **kwargs)
+
+    return wrapped
 
 
 def extract_next_f_merged(html: str) -> str:
