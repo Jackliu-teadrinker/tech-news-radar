@@ -339,29 +339,34 @@ DIRECTIONS: list[dict] = [
         "framework_layer": "frontier",
         "weight": "low",
         "companies": [
-            "quantinuum", "ionq", "rigetti", "国盾", "本源", "quantum",
+            "quantinuum", "ionq", "rigetti", "d-wave", "国盾", "本源", "quantum",
             "国星宇航", "星算", "starlink",
-            "neuralink", "强脑", "脑虎",
-            "低空", "verde",
-            "能量奇点", "星环聚能", "诺瓦聚变"],
+            "neuralink", "synchron", "strong mind", "强脑", "脑虎",
+            "low altitude", "low-altitude", "evtol", "e-vtol", "vertol",
+            "low altitude economy", "low altitude logistics",
+            "fusion energy", "fusion reactor", "fusion core", "fusion plasma",
+            "tokamak", "stellarator", "sparks energy", "fusion power",
+            "energy singularity", "能量奇点", "星环聚能", "诺瓦聚变"],
         "keywords": [
             # 量子
-            "quantum", "量子", "量子计算", "量子计算机", "qubit", "superconducting",
-            "光计算", "photonics", "类脑", "neuromorphic",
+            "quantum", "量子", "量子计算", "量子计算机", "量子芯片",
+            "qubit", "quantum bit", "superconducting qubit", "ion trap",
+            "光计算", "photonics", "光量子", "类脑", "neuromorphic",
             "存算一体", "compute-in-memory",
-            # 太空计算
-            "space computing", "space ai", "星算", "国星宇航",
-            "在轨", "on-orbit", "satellite ai", "on-orbit inference",
-            "太空算力", "太空数据",
-            # 6G
-            "6g", "thz", "terahertz", "integrated sensing",
+            # 太空计算 / 在轨
+            "space computing", "space ai", "太空计算", "太空算力", "太空数据",
+            "星算", "国星宇航", "starlink", "on-orbit", "on-orbit inference",
+            "在轨", "satellite ai", "orbital data", "太空数据中心",
+            # 6G / 太赫兹
+            "6g", "thz", "terahertz", "太赫兹", "isac", "integrated sensing",
             # 脑机接口
-            "bci", "brain", "脑机", "neuralink", "强脑", "脑虎",
-            # 低空
-            "低空", "evtol", "verde", "无人机",
-            "drone", "vertol",
+            "bci", "脑机", "脑机接口", "neuralink", "强脑", "脑虎", "synchron",
+            "brain computer interface", "non-invasive bci", "invasive bci",
+            "low altitude economy", "低空经济", "e-vtol", "evtol", "vertol",
+            "drone", "无人机", "uav", "低空飞行器", "verde",
             # 核聚变
-            "fusion", "核聚变", "可控核聚变", "tokamak", "stellar",
+            "fusion", "fusion energy", "fusion reactor", "fusion power",
+            "核聚变", "可控核聚变", "tokamak", "stellarator", "sparks",
             "能量奇点", "星环聚能", "诺瓦聚变"],
         "points": [
             "量子计算、光计算/类脑/存算一体",
