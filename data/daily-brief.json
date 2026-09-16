@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-16T19:40:05.361674Z",
+  "generated_at": "2026-09-16T22:03:13.723219Z",
   "window_hours": 24,
-  "total_items": 17,
+  "total_items": 19,
   "items": [
     {
       "story_id": "story_2b45947d7367",
@@ -106,15 +106,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8995,
-      "importance": 0.8995,
-      "importance_score": 0.8995,
+      "score": 0.8939,
+      "importance": 0.8939,
+      "importance_score": 0.8939,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.9082,
+        "recency": 0.8774,
         "story_heat": 0.5
       },
       "category": "official",
@@ -142,7 +142,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T20:03:20.320490Z"
+        "scored_at": "2026-09-16T22:29:47.007498Z"
       }
     },
     {
@@ -277,15 +277,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8405,
-      "importance": 0.8405,
-      "importance_score": 0.8405,
+      "score": 0.8346,
+      "importance": 0.8346,
+      "importance_score": 0.8346,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.9603,
+        "recency": 0.9278,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -312,7 +312,172 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T20:03:20.320490Z"
+        "scored_at": "2026-09-16T22:29:47.007498Z"
+      }
+    },
+    {
+      "story_id": "story_76db13fd8fea",
+      "title": "Our framework for reporting model misalignment",
+      "url": "https://openai.com/index/model-misalignment-reporting-framework",
+      "primary_url": "https://openai.com/index/model-misalignment-reporting-framework",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "9bd9c39f2ea2df15db99f22e470944b351e04a12",
+          "title": "Our framework for reporting model misalignment",
+          "title_zh": null,
+          "title_en": "Our framework for reporting model misalignment",
+          "title_original": "Our framework for reporting model misalignment",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/model-misalignment-reporting-framework",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-16T17:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "9bd9c39f2ea2df15db99f22e470944b351e04a12",
+          "title": "Our framework for reporting model misalignment",
+          "title_zh": null,
+          "title_en": "Our framework for reporting model misalignment",
+          "title_original": "Our framework for reporting model misalignment",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/model-misalignment-reporting-framework",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-16T17:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8533,
+      "importance": 0.8533,
+      "importance_score": 0.8533,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.9296,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-16T17:00:00Z",
+      "latest_at": "2026-09-16T17:00:00Z",
+      "primary_item": {
+        "id": "9bd9c39f2ea2df15db99f22e470944b351e04a12",
+        "title": "Our framework for reporting model misalignment",
+        "title_zh": null,
+        "title_en": "Our framework for reporting model misalignment",
+        "title_original": "Our framework for reporting model misalignment",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/model-misalignment-reporting-framework",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-16T22:29:47.007498Z"
+      }
+    },
+    {
+      "story_id": "story_6210c4b108ab",
+      "title": "Copilot budget increase requests are generally available",
+      "url": "https://github.blog/changelog/2026-09-16-copilot-budget-increase-requests-are-generally-available",
+      "primary_url": "https://github.blog/changelog/2026-09-16-copilot-budget-increase-requests-are-generally-available",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "1442424c196ee010e9d62e063be8fb4b61e9ac14",
+          "title": "Copilot budget increase requests are generally available",
+          "title_zh": null,
+          "title_en": "Copilot budget increase requests are generally available",
+          "title_original": "Copilot budget increase requests are generally available",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-16-copilot-budget-increase-requests-are-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-16T20:17:18Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "1442424c196ee010e9d62e063be8fb4b61e9ac14",
+          "title": "Copilot budget increase requests are generally available",
+          "title_zh": null,
+          "title_en": "Copilot budget increase requests are generally available",
+          "title_original": "Copilot budget increase requests are generally available",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-16-copilot-budget-increase-requests-are-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-16T20:17:18Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8175,
+      "importance": 0.8175,
+      "importance_score": 0.8175,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.76,
+        "recency": 0.9748,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-16T20:17:18Z",
+      "latest_at": "2026-09-16T20:17:18Z",
+      "primary_item": {
+        "id": "1442424c196ee010e9d62e063be8fb4b61e9ac14",
+        "title": "Copilot budget increase requests are generally available",
+        "title_zh": null,
+        "title_en": "Copilot budget increase requests are generally available",
+        "title_original": "Copilot budget increase requests are generally available",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-09-16-copilot-budget-increase-requests-are-generally-available",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-16T22:29:47.007498Z"
       }
     },
     {
@@ -360,15 +525,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8567,
-      "importance": 0.8567,
-      "importance_score": 0.8567,
+      "score": 0.8509,
+      "importance": 0.8509,
+      "importance_score": 0.8509,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.9484,
+        "recency": 0.9163,
         "story_heat": 0.0
       },
       "category": "official",
@@ -395,30 +560,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T20:03:20.320490Z"
+        "scored_at": "2026-09-16T22:29:47.007498Z"
       }
     },
     {
-      "story_id": "story_b7506bc123b9",
-      "title": "Code scanning AI Scan no longer requires CodeQL default setup",
-      "url": "https://github.blog/changelog/2026-09-16-code-scanning-ai-scan-no-longer-requires-codeql-default-setup",
-      "primary_url": "https://github.blog/changelog/2026-09-16-code-scanning-ai-scan-no-longer-requires-codeql-default-setup",
+      "story_id": "story_d6e73104d607",
+      "title": "Automate SSO authorization for classic PATs and SSH keys",
+      "url": "https://github.blog/changelog/2026-09-16-automate-sso-authorization-for-classic-pats-and-ssh-keys",
+      "primary_url": "https://github.blog/changelog/2026-09-16-automate-sso-authorization-for-classic-pats-and-ssh-keys",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "f5774e94261bbdcfa0242d1d7361fbaff9da0b2b",
-          "title": "Code scanning AI Scan no longer requires CodeQL default setup",
+          "id": "6c6b67ad1666cd8cc4c191cd5e74c2220b3be9ff",
+          "title": "Automate SSO authorization for classic PATs and SSH keys",
           "title_zh": null,
-          "title_en": "Code scanning AI Scan no longer requires CodeQL default setup",
-          "title_original": "Code scanning AI Scan no longer requires CodeQL default setup",
+          "title_en": "Automate SSO authorization for classic PATs and SSH keys",
+          "title_original": "Automate SSO authorization for classic PATs and SSH keys",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-16-code-scanning-ai-scan-no-longer-requires-codeql-default-setup",
+          "url": "https://github.blog/changelog/2026-09-16-automate-sso-authorization-for-classic-pats-and-ssh-keys",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-16T13:26:06Z"
+          "published_at": "2026-09-16T20:20:16Z"
         }
       ],
       "source_count": 1,
@@ -427,31 +592,31 @@
       ],
       "items": [
         {
-          "id": "f5774e94261bbdcfa0242d1d7361fbaff9da0b2b",
-          "title": "Code scanning AI Scan no longer requires CodeQL default setup",
+          "id": "6c6b67ad1666cd8cc4c191cd5e74c2220b3be9ff",
+          "title": "Automate SSO authorization for classic PATs and SSH keys",
           "title_zh": null,
-          "title_en": "Code scanning AI Scan no longer requires CodeQL default setup",
-          "title_original": "Code scanning AI Scan no longer requires CodeQL default setup",
+          "title_en": "Automate SSO authorization for classic PATs and SSH keys",
+          "title_original": "Automate SSO authorization for classic PATs and SSH keys",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-16-code-scanning-ai-scan-no-longer-requires-codeql-default-setup",
+          "url": "https://github.blog/changelog/2026-09-16-automate-sso-authorization-for-classic-pats-and-ssh-keys",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-16T13:26:06Z"
+          "published_at": "2026-09-16T20:20:16Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8005,
-      "importance": 0.8005,
-      "importance_score": 0.8005,
+      "score": 0.8116,
+      "importance": 0.8116,
+      "importance_score": 0.8116,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.73,
-        "recency": 0.9139,
+        "recency": 0.9755,
         "story_heat": 0.0
       },
       "category": "official",
@@ -459,17 +624,17 @@
         "official_source",
         "high_importance"
       ],
-      "earliest_at": "2026-09-16T13:26:06Z",
-      "latest_at": "2026-09-16T13:26:06Z",
+      "earliest_at": "2026-09-16T20:20:16Z",
+      "latest_at": "2026-09-16T20:20:16Z",
       "primary_item": {
-        "id": "f5774e94261bbdcfa0242d1d7361fbaff9da0b2b",
-        "title": "Code scanning AI Scan no longer requires CodeQL default setup",
+        "id": "6c6b67ad1666cd8cc4c191cd5e74c2220b3be9ff",
+        "title": "Automate SSO authorization for classic PATs and SSH keys",
         "title_zh": null,
-        "title_en": "Code scanning AI Scan no longer requires CodeQL default setup",
-        "title_original": "Code scanning AI Scan no longer requires CodeQL default setup",
+        "title_en": "Automate SSO authorization for classic PATs and SSH keys",
+        "title_original": "Automate SSO authorization for classic PATs and SSH keys",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-16-code-scanning-ai-scan-no-longer-requires-codeql-default-setup",
+        "url": "https://github.blog/changelog/2026-09-16-automate-sso-authorization-for-classic-pats-and-ssh-keys",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -477,7 +642,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T20:03:20.320490Z"
+        "scored_at": "2026-09-16T22:29:47.007498Z"
       }
     },
     {
@@ -525,15 +690,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8471,
-      "importance": 0.8471,
-      "importance_score": 0.8471,
+      "score": 0.8417,
+      "importance": 0.8417,
+      "importance_score": 0.8417,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.8952,
+        "recency": 0.8649,
         "story_heat": 0.0
       },
       "category": "official",
@@ -560,171 +725,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T20:03:20.320490Z"
+        "scored_at": "2026-09-16T22:29:47.007498Z"
       }
     },
     {
-      "story_id": "story_20d27da6a9f4",
-      "title": "How workers are unlocking new ways of working",
-      "url": "https://openai.com/index/unlocking-new-ways-of-working",
-      "primary_url": "https://openai.com/index/unlocking-new-ways-of-working",
-      "source": "OpenAI News",
+      "story_id": "story_4b28983f879b",
+      "title": "SCIM user responses now include a profileUrl attribute",
+      "url": "https://github.blog/changelog/2026-09-16-scim-user-responses-now-include-a-profileurl-attribute",
+      "primary_url": "https://github.blog/changelog/2026-09-16-scim-user-responses-now-include-a-profileurl-attribute",
+      "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "f8d3a08c3fc26b24d1b8bfacd22d569ddb26f73a",
-          "title": "How workers are unlocking new ways of working",
+          "id": "edc42651c4c906e5c16654b86eb3922d6b59130b",
+          "title": "SCIM user responses now include a profileUrl attribute",
           "title_zh": null,
-          "title_en": "How workers are unlocking new ways of working",
-          "title_original": "How workers are unlocking new ways of working",
+          "title_en": "SCIM user responses now include a profileUrl attribute",
+          "title_original": "SCIM user responses now include a profileUrl attribute",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/unlocking-new-ways-of-working",
-          "source": "OpenAI News",
+          "url": "https://github.blog/changelog/2026-09-16-scim-user-responses-now-include-a-profileurl-attribute",
+          "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-16T09:00:00Z"
+          "published_at": "2026-09-16T20:19:58Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "OpenAI News"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "f8d3a08c3fc26b24d1b8bfacd22d569ddb26f73a",
-          "title": "How workers are unlocking new ways of working",
+          "id": "edc42651c4c906e5c16654b86eb3922d6b59130b",
+          "title": "SCIM user responses now include a profileUrl attribute",
           "title_zh": null,
-          "title_en": "How workers are unlocking new ways of working",
-          "title_original": "How workers are unlocking new ways of working",
+          "title_en": "SCIM user responses now include a profileUrl attribute",
+          "title_original": "SCIM user responses now include a profileUrl attribute",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/unlocking-new-ways-of-working",
-          "source": "OpenAI News",
+          "url": "https://github.blog/changelog/2026-09-16-scim-user-responses-now-include-a-profileurl-attribute",
+          "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-16T09:00:00Z"
+          "published_at": "2026-09-16T20:19:58Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8403,
-      "importance": 0.8403,
-      "importance_score": 0.8403,
+      "score": 0.8116,
+      "importance": 0.8116,
+      "importance_score": 0.8116,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.8572,
+        "ai_relevance": 0.73,
+        "recency": 0.9755,
         "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-16T09:00:00Z",
-      "latest_at": "2026-09-16T09:00:00Z",
+      "earliest_at": "2026-09-16T20:19:58Z",
+      "latest_at": "2026-09-16T20:19:58Z",
       "primary_item": {
-        "id": "f8d3a08c3fc26b24d1b8bfacd22d569ddb26f73a",
-        "title": "How workers are unlocking new ways of working",
+        "id": "edc42651c4c906e5c16654b86eb3922d6b59130b",
+        "title": "SCIM user responses now include a profileUrl attribute",
         "title_zh": null,
-        "title_en": "How workers are unlocking new ways of working",
-        "title_original": "How workers are unlocking new ways of working",
+        "title_en": "SCIM user responses now include a profileUrl attribute",
+        "title_original": "SCIM user responses now include a profileUrl attribute",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/unlocking-new-ways-of-working",
-        "source": "OpenAI News",
+        "url": "https://github.blog/changelog/2026-09-16-scim-user-responses-now-include-a-profileurl-attribute",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T20:03:20.320490Z"
-      }
-    },
-    {
-      "story_id": "story_180d89046d07",
-      "title": "Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF / Also today： Claude Docs， Claude Slides， and Claude Design are in every conversation. Ask Claude for…",
-      "url": "https://x.com/bcherny/status/2100260544087535639",
-      "primary_url": "https://x.com/bcherny/status/2100260544087535639",
-      "source": "X：Boris Cherny (@bcherny)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "d15aed4f022f2680da8f62bfae9fd9574ecd93ca",
-          "title": "Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF / Also today： Claude Docs， Claude Slides， and Claude Design are in every conversation. Ask Claude for…",
-          "title_zh": "Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF",
-          "title_en": "Also today： Claude Docs， Claude Slides， and Claude Design are in every conversation. Ask Claude for…",
-          "title_original": "Also today： Claude Docs， Claude Slides， and Claude Design are in every conversation. Ask Claude for…",
-          "summary": "Anthropic 的 Boris Cherny 宣布 Claude Docs、Claude Slides 和 Claude Design 已进入每段对话，直接在聊天中生成演示、文档和设计。生成的演示可打开、编辑并导出为 PowerPoint 或 PDF，无需跳转到单独工具。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/bcherny/status/2100260544087535639",
-          "source": "X：Boris Cherny (@bcherny)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-16T16:28:29Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Boris Cherny (@bcherny)"
-      ],
-      "items": [
-        {
-          "id": "d15aed4f022f2680da8f62bfae9fd9574ecd93ca",
-          "title": "Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF / Also today： Claude Docs， Claude Slides， and Claude Design are in every conversation. Ask Claude for…",
-          "title_zh": "Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF",
-          "title_en": "Also today： Claude Docs， Claude Slides， and Claude Design are in every conversation. Ask Claude for…",
-          "title_original": "Also today： Claude Docs， Claude Slides， and Claude Design are in every conversation. Ask Claude for…",
-          "summary": "Anthropic 的 Boris Cherny 宣布 Claude Docs、Claude Slides 和 Claude Design 已进入每段对话，直接在聊天中生成演示、文档和设计。生成的演示可打开、编辑并导出为 PowerPoint 或 PDF，无需跳转到单独工具。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/bcherny/status/2100260544087535639",
-          "source": "X：Boris Cherny (@bcherny)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-16T16:28:29Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7405,
-      "importance": 0.7405,
-      "importance_score": 0.7405,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.69,
-        "source_tier": 0.78,
-        "ai_relevance": 0.95,
-        "recency": 0.9549,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-16T16:28:29Z",
-      "latest_at": "2026-09-16T16:28:29Z",
-      "primary_item": {
-        "id": "d15aed4f022f2680da8f62bfae9fd9574ecd93ca",
-        "title": "Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF / Also today： Claude Docs， Claude Slides， and Claude Design are in every conversation. Ask Claude for…",
-        "title_zh": "Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF",
-        "title_en": "Also today： Claude Docs， Claude Slides， and Claude Design are in every conversation. Ask Claude for…",
-        "title_original": "Also today： Claude Docs， Claude Slides， and Claude Design are in every conversation. Ask Claude for…",
-        "summary": "Anthropic 的 Boris Cherny 宣布 Claude Docs、Claude Slides 和 Claude Design 已进入每段对话，直接在聊天中生成演示、文档和设计。生成的演示可打开、编辑并导出为 PowerPoint 或 PDF，无需跳转到单独工具。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/bcherny/status/2100260544087535639",
-        "source": "X：Boris Cherny (@bcherny)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-16T20:03:20.320490Z"
+        "scored_at": "2026-09-16T22:29:47.007498Z"
       }
     },
     {
@@ -801,15 +884,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.74,
-      "importance": 0.74,
-      "importance_score": 0.74,
+      "score": 0.735,
+      "importance": 0.735,
+      "importance_score": 0.735,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.684,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.8232,
+        "recency": 0.7953,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -835,7 +918,253 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T20:03:20.320490Z"
+        "scored_at": "2026-09-16T22:29:47.007498Z"
+      }
+    },
+    {
+      "story_id": "story_180d89046d07",
+      "title": "Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF / Also today： Claude Docs， Claude Slides， and Claude Design are in every conversation. Ask Claude for…",
+      "url": "https://x.com/bcherny/status/2100260544087535639",
+      "primary_url": "https://x.com/bcherny/status/2100260544087535639",
+      "source": "X：Boris Cherny (@bcherny)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "d15aed4f022f2680da8f62bfae9fd9574ecd93ca",
+          "title": "Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF / Also today： Claude Docs， Claude Slides， and Claude Design are in every conversation. Ask Claude for…",
+          "title_zh": "Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF",
+          "title_en": "Also today： Claude Docs， Claude Slides， and Claude Design are in every conversation. Ask Claude for…",
+          "title_original": "Also today： Claude Docs， Claude Slides， and Claude Design are in every conversation. Ask Claude for…",
+          "summary": "Anthropic 的 Boris Cherny 宣布 Claude Docs、Claude Slides 和 Claude Design 已进入每段对话，直接在聊天中生成演示、文档和设计。生成的演示可打开、编辑并导出为 PowerPoint 或 PDF，无需跳转到单独工具。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/bcherny/status/2100260544087535639",
+          "source": "X：Boris Cherny (@bcherny)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-16T16:28:29Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Boris Cherny (@bcherny)"
+      ],
+      "items": [
+        {
+          "id": "d15aed4f022f2680da8f62bfae9fd9574ecd93ca",
+          "title": "Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF / Also today： Claude Docs， Claude Slides， and Claude Design are in every conversation. Ask Claude for…",
+          "title_zh": "Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF",
+          "title_en": "Also today： Claude Docs， Claude Slides， and Claude Design are in every conversation. Ask Claude for…",
+          "title_original": "Also today： Claude Docs， Claude Slides， and Claude Design are in every conversation. Ask Claude for…",
+          "summary": "Anthropic 的 Boris Cherny 宣布 Claude Docs、Claude Slides 和 Claude Design 已进入每段对话，直接在聊天中生成演示、文档和设计。生成的演示可打开、编辑并导出为 PowerPoint 或 PDF，无需跳转到单独工具。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/bcherny/status/2100260544087535639",
+          "source": "X：Boris Cherny (@bcherny)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-16T16:28:29Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7347,
+      "importance": 0.7347,
+      "importance_score": 0.7347,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.69,
+        "source_tier": 0.78,
+        "ai_relevance": 0.95,
+        "recency": 0.9226,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-16T16:28:29Z",
+      "latest_at": "2026-09-16T16:28:29Z",
+      "primary_item": {
+        "id": "d15aed4f022f2680da8f62bfae9fd9574ecd93ca",
+        "title": "Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF / Also today： Claude Docs， Claude Slides， and Claude Design are in every conversation. Ask Claude for…",
+        "title_zh": "Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF",
+        "title_en": "Also today： Claude Docs， Claude Slides， and Claude Design are in every conversation. Ask Claude for…",
+        "title_original": "Also today： Claude Docs， Claude Slides， and Claude Design are in every conversation. Ask Claude for…",
+        "summary": "Anthropic 的 Boris Cherny 宣布 Claude Docs、Claude Slides 和 Claude Design 已进入每段对话，直接在聊天中生成演示、文档和设计。生成的演示可打开、编辑并导出为 PowerPoint 或 PDF，无需跳转到单独工具。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/bcherny/status/2100260544087535639",
+        "source": "X：Boris Cherny (@bcherny)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-16T22:29:47.007498Z"
+      }
+    },
+    {
+      "story_id": "story_20d27da6a9f4",
+      "title": "How workers are unlocking new ways of working",
+      "url": "https://openai.com/index/unlocking-new-ways-of-working",
+      "primary_url": "https://openai.com/index/unlocking-new-ways-of-working",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "f8d3a08c3fc26b24d1b8bfacd22d569ddb26f73a",
+          "title": "How workers are unlocking new ways of working",
+          "title_zh": null,
+          "title_en": "How workers are unlocking new ways of working",
+          "title_original": "How workers are unlocking new ways of working",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/unlocking-new-ways-of-working",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-16T09:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "f8d3a08c3fc26b24d1b8bfacd22d569ddb26f73a",
+          "title": "How workers are unlocking new ways of working",
+          "title_zh": null,
+          "title_en": "How workers are unlocking new ways of working",
+          "title_original": "How workers are unlocking new ways of working",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/unlocking-new-ways-of-working",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-16T09:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8351,
+      "importance": 0.8351,
+      "importance_score": 0.8351,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.8282,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-16T09:00:00Z",
+      "latest_at": "2026-09-16T09:00:00Z",
+      "primary_item": {
+        "id": "f8d3a08c3fc26b24d1b8bfacd22d569ddb26f73a",
+        "title": "How workers are unlocking new ways of working",
+        "title_zh": null,
+        "title_en": "How workers are unlocking new ways of working",
+        "title_original": "How workers are unlocking new ways of working",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/unlocking-new-ways-of-working",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-16T22:29:47.007498Z"
+      }
+    },
+    {
+      "story_id": "story_b7506bc123b9",
+      "title": "Code scanning AI Scan no longer requires CodeQL default setup",
+      "url": "https://github.blog/changelog/2026-09-16-code-scanning-ai-scan-no-longer-requires-codeql-default-setup",
+      "primary_url": "https://github.blog/changelog/2026-09-16-code-scanning-ai-scan-no-longer-requires-codeql-default-setup",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "f5774e94261bbdcfa0242d1d7361fbaff9da0b2b",
+          "title": "Code scanning AI Scan no longer requires CodeQL default setup",
+          "title_zh": null,
+          "title_en": "Code scanning AI Scan no longer requires CodeQL default setup",
+          "title_original": "Code scanning AI Scan no longer requires CodeQL default setup",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-16-code-scanning-ai-scan-no-longer-requires-codeql-default-setup",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-16T13:26:06Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "f5774e94261bbdcfa0242d1d7361fbaff9da0b2b",
+          "title": "Code scanning AI Scan no longer requires CodeQL default setup",
+          "title_zh": null,
+          "title_en": "Code scanning AI Scan no longer requires CodeQL default setup",
+          "title_original": "Code scanning AI Scan no longer requires CodeQL default setup",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-16-code-scanning-ai-scan-no-longer-requires-codeql-default-setup",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-16T13:26:06Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7949,
+      "importance": 0.7949,
+      "importance_score": 0.7949,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.73,
+        "recency": 0.883,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-16T13:26:06Z",
+      "latest_at": "2026-09-16T13:26:06Z",
+      "primary_item": {
+        "id": "f5774e94261bbdcfa0242d1d7361fbaff9da0b2b",
+        "title": "Code scanning AI Scan no longer requires CodeQL default setup",
+        "title_zh": null,
+        "title_en": "Code scanning AI Scan no longer requires CodeQL default setup",
+        "title_original": "Code scanning AI Scan no longer requires CodeQL default setup",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-09-16-code-scanning-ai-scan-no-longer-requires-codeql-default-setup",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-16T22:29:47.007498Z"
       }
     },
     {
@@ -912,15 +1241,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.737,
-      "importance": 0.737,
-      "importance_score": 0.737,
+      "score": 0.7321,
+      "importance": 0.7321,
+      "importance_score": 0.7321,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.684,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.8068,
+        "recency": 0.7795,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -946,7 +1275,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T20:03:20.320490Z"
+        "scored_at": "2026-09-16T22:29:47.007498Z"
       }
     },
     {
@@ -1052,15 +1381,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6765,
-      "importance": 0.6765,
-      "importance_score": 0.6765,
+      "score": 0.671,
+      "importance": 0.671,
+      "importance_score": 0.671,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5832,
         "source_tier": 0.58,
         "ai_relevance": 0.81,
-        "recency": 0.8995,
+        "recency": 0.869,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1086,88 +1415,118 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T20:03:20.320490Z"
+        "scored_at": "2026-09-16T22:29:47.007498Z"
       }
     },
     {
-      "story_id": "story_d140633e4958",
-      "title": "Anthropic 签下澳大利亚首份数据中心协议：锁定 2.16 吉瓦容量，2027 年投运",
-      "url": "https://www.aibase.com/news/31099",
-      "primary_url": "https://www.aibase.com/news/31099",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_e7ce85bdeee7",
+      "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
+      "url": "https://arxiv.org/abs/2609.16338",
+      "primary_url": "https://arxiv.org/abs/2609.16338",
+      "source": "Hacker News front page",
+      "source_name": "Curated Media",
       "sources": [
         {
-          "id": "c0523e50fa28d4845b6b6890ad09d93940d8ae66",
-          "title": "Anthropic 签下澳大利亚首份数据中心协议：锁定 2.16 吉瓦容量，2027 年投运",
-          "title_zh": "Anthropic 签下澳大利亚首份数据中心协议：锁定 2.16 吉瓦容量，2027 年投运",
-          "title_en": null,
-          "title_original": "Anthropic 签下澳大利亚首份数据中心协议：锁定 2.16 吉瓦容量，2027 年投运",
+          "id": "220177aa10fcd0c1bf9117e126206cf103f1f642",
+          "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
+          "title_zh": null,
+          "title_en": "Breaking the 1.58-bit Barrier for Ternary LLMs",
+          "title_original": "Breaking the 1.58-bit Barrier for Ternary LLMs",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31099",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-16T09:28:30.681415Z"
+          "url": "https://arxiv.org/abs/2609.16338",
+          "source": "Hacker News front page",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-16T20:59:24Z"
+        },
+        {
+          "id": "0b84002066af70e017be58aa50516bb7bfd4025d",
+          "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
+          "title_zh": null,
+          "title_en": "Breaking the 1.58-bit Barrier for Ternary LLMs",
+          "title_original": "Breaking the 1.58-bit Barrier for Ternary LLMs",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49732931",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-16T20:59:24Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "Hacker News front page",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "c0523e50fa28d4845b6b6890ad09d93940d8ae66",
-          "title": "Anthropic 签下澳大利亚首份数据中心协议：锁定 2.16 吉瓦容量，2027 年投运",
-          "title_zh": "Anthropic 签下澳大利亚首份数据中心协议：锁定 2.16 吉瓦容量，2027 年投运",
-          "title_en": null,
-          "title_original": "Anthropic 签下澳大利亚首份数据中心协议：锁定 2.16 吉瓦容量，2027 年投运",
+          "id": "220177aa10fcd0c1bf9117e126206cf103f1f642",
+          "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
+          "title_zh": null,
+          "title_en": "Breaking the 1.58-bit Barrier for Ternary LLMs",
+          "title_original": "Breaking the 1.58-bit Barrier for Ternary LLMs",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31099",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-16T09:28:30.681415Z"
+          "url": "https://arxiv.org/abs/2609.16338",
+          "source": "Hacker News front page",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-16T20:59:24Z"
+        },
+        {
+          "id": "0b84002066af70e017be58aa50516bb7bfd4025d",
+          "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
+          "title_zh": null,
+          "title_en": "Breaking the 1.58-bit Barrier for Ternary LLMs",
+          "title_original": "Breaking the 1.58-bit Barrier for Ternary LLMs",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49732931",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-16T20:59:24Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7222,
-      "importance": 0.7222,
-      "importance_score": 0.7222,
-      "importance_label": "行业动态",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6668,
+      "importance": 0.6668,
+      "importance_score": 0.6668,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.684,
-        "source_tier": 0.78,
-        "ai_relevance": 0.95,
-        "recency": 0.8631,
-        "story_heat": 0.0
+        "editorial": 0.5832,
+        "source_tier": 0.58,
+        "ai_relevance": 0.81,
+        "recency": 0.9848,
+        "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
+        "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-16T09:28:30.681415Z",
-      "latest_at": "2026-09-16T09:28:30.681415Z",
+      "earliest_at": "2026-09-16T20:59:24Z",
+      "latest_at": "2026-09-16T20:59:24Z",
       "primary_item": {
-        "id": "c0523e50fa28d4845b6b6890ad09d93940d8ae66",
-        "title": "Anthropic 签下澳大利亚首份数据中心协议：锁定 2.16 吉瓦容量，2027 年投运",
-        "title_zh": "Anthropic 签下澳大利亚首份数据中心协议：锁定 2.16 吉瓦容量，2027 年投运",
-        "title_en": null,
-        "title_original": "Anthropic 签下澳大利亚首份数据中心协议：锁定 2.16 吉瓦容量，2027 年投运",
+        "id": "220177aa10fcd0c1bf9117e126206cf103f1f642",
+        "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
+        "title_zh": null,
+        "title_en": "Breaking the 1.58-bit Barrier for Ternary LLMs",
+        "title_original": "Breaking the 1.58-bit Barrier for Ternary LLMs",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31099",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "url": "https://arxiv.org/abs/2609.16338",
+        "source": "Hacker News front page",
+        "source_name": "Curated Media"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T20:03:20.320490Z"
+        "scored_at": "2026-09-16T22:29:47.007498Z"
       }
     },
     {
@@ -1244,15 +1603,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6691,
-      "importance": 0.6691,
-      "importance_score": 0.6691,
+      "score": 0.6635,
+      "importance": 0.6635,
+      "importance_score": 0.6635,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.6048,
         "source_tier": 0.58,
         "ai_relevance": 0.84,
-        "recency": 0.9282,
+        "recency": 0.8968,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1278,280 +1637,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T20:03:20.320490Z"
-      }
-    },
-    {
-      "story_id": "story_518b2b8d3d74",
-      "title": "硅谷科技巨头安保人员计划罢工：谷歌、OpenAI、Anthropic 等办公室或受影响",
-      "url": "https://www.aibase.com/news/31100",
-      "primary_url": "https://www.aibase.com/news/31100",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "3a6692c2be0c0432499880beddf0a78cd6fbd1e3",
-          "title": "硅谷科技巨头安保人员计划罢工：谷歌、OpenAI、Anthropic 等办公室或受影响",
-          "title_zh": "硅谷科技巨头安保人员计划罢工：谷歌、OpenAI、Anthropic 等办公室或受影响",
-          "title_en": null,
-          "title_original": "硅谷科技巨头安保人员计划罢工：谷歌、OpenAI、Anthropic 等办公室或受影响",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31100",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-16T09:28:30.681415Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "3a6692c2be0c0432499880beddf0a78cd6fbd1e3",
-          "title": "硅谷科技巨头安保人员计划罢工：谷歌、OpenAI、Anthropic 等办公室或受影响",
-          "title_zh": "硅谷科技巨头安保人员计划罢工：谷歌、OpenAI、Anthropic 等办公室或受影响",
-          "title_en": null,
-          "title_original": "硅谷科技巨头安保人员计划罢工：谷歌、OpenAI、Anthropic 等办公室或受影响",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31100",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-16T09:28:30.681415Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7222,
-      "importance": 0.7222,
-      "importance_score": 0.7222,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.684,
-        "source_tier": 0.78,
-        "ai_relevance": 0.95,
-        "recency": 0.8631,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-16T09:28:30.681415Z",
-      "latest_at": "2026-09-16T09:28:30.681415Z",
-      "primary_item": {
-        "id": "3a6692c2be0c0432499880beddf0a78cd6fbd1e3",
-        "title": "硅谷科技巨头安保人员计划罢工：谷歌、OpenAI、Anthropic 等办公室或受影响",
-        "title_zh": "硅谷科技巨头安保人员计划罢工：谷歌、OpenAI、Anthropic 等办公室或受影响",
-        "title_en": null,
-        "title_original": "硅谷科技巨头安保人员计划罢工：谷歌、OpenAI、Anthropic 等办公室或受影响",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31100",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-16T20:03:20.320490Z"
-      }
-    },
-    {
-      "story_id": "story_35bc6825e9ab",
-      "title": "讯飞星火语音基座大模型上线：0.65B 编码器配 30B MoE，纯国产算力训练",
-      "url": "https://www.aibase.com/news/31102",
-      "primary_url": "https://www.aibase.com/news/31102",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "7298f001a2d72a1c66c02501b670037a9bcacfa8",
-          "title": "讯飞星火语音基座大模型上线：0.65B 编码器配 30B MoE，纯国产算力训练",
-          "title_zh": "讯飞星火语音基座大模型上线：0.65B 编码器配 30B MoE，纯国产算力训练",
-          "title_en": null,
-          "title_original": "讯飞星火语音基座大模型上线：0.65B 编码器配 30B MoE，纯国产算力训练",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31102",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-16T09:28:30.681415Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "7298f001a2d72a1c66c02501b670037a9bcacfa8",
-          "title": "讯飞星火语音基座大模型上线：0.65B 编码器配 30B MoE，纯国产算力训练",
-          "title_zh": "讯飞星火语音基座大模型上线：0.65B 编码器配 30B MoE，纯国产算力训练",
-          "title_en": null,
-          "title_original": "讯飞星火语音基座大模型上线：0.65B 编码器配 30B MoE，纯国产算力训练",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31102",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-16T09:28:30.681415Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7222,
-      "importance": 0.7222,
-      "importance_score": 0.7222,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.684,
-        "source_tier": 0.78,
-        "ai_relevance": 0.95,
-        "recency": 0.8631,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-16T09:28:30.681415Z",
-      "latest_at": "2026-09-16T09:28:30.681415Z",
-      "primary_item": {
-        "id": "7298f001a2d72a1c66c02501b670037a9bcacfa8",
-        "title": "讯飞星火语音基座大模型上线：0.65B 编码器配 30B MoE，纯国产算力训练",
-        "title_zh": "讯飞星火语音基座大模型上线：0.65B 编码器配 30B MoE，纯国产算力训练",
-        "title_en": null,
-        "title_original": "讯飞星火语音基座大模型上线：0.65B 编码器配 30B MoE，纯国产算力训练",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31102",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-16T20:03:20.320490Z"
-      }
-    },
-    {
-      "story_id": "story_e505711c206e",
-      "title": "在大语言模型时代学习编程 / Learning Programming in an Age of LLMs",
-      "url": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms",
-      "primary_url": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms",
-      "source": "Hacker News front page",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "f4a76f98f4d518d0e489f768c143dbf7b16c7017",
-          "title": "在大语言模型时代学习编程 / Learning Programming in an Age of LLMs",
-          "title_zh": "在大语言模型时代学习编程",
-          "title_en": "Learning Programming in an Age of LLMs",
-          "title_original": "Learning Programming in an Age of LLMs",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms",
-          "source": "Hacker News front page",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-16T09:12:34Z"
-        },
-        {
-          "id": "977c903b86124a6d7ed5f70eea4b5af0f4c6e6b5",
-          "title": "Learning Programming in an Age of LLMs",
-          "title_zh": null,
-          "title_en": "Learning Programming in an Age of LLMs",
-          "title_original": "Learning Programming in an Age of LLMs",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49723873",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-16T09:12:34Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News front page",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "f4a76f98f4d518d0e489f768c143dbf7b16c7017",
-          "title": "在大语言模型时代学习编程 / Learning Programming in an Age of LLMs",
-          "title_zh": "在大语言模型时代学习编程",
-          "title_en": "Learning Programming in an Age of LLMs",
-          "title_original": "Learning Programming in an Age of LLMs",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms",
-          "source": "Hacker News front page",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-16T09:12:34Z"
-        },
-        {
-          "id": "977c903b86124a6d7ed5f70eea4b5af0f4c6e6b5",
-          "title": "Learning Programming in an Age of LLMs",
-          "title_zh": null,
-          "title_en": "Learning Programming in an Age of LLMs",
-          "title_original": "Learning Programming in an Age of LLMs",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49723873",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-16T09:12:34Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6443,
-      "importance": 0.6443,
-      "importance_score": 0.6443,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.5832,
-        "source_tier": 0.58,
-        "ai_relevance": 0.81,
-        "recency": 0.8598,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-16T09:12:34Z",
-      "latest_at": "2026-09-16T09:12:34Z",
-      "primary_item": {
-        "id": "f4a76f98f4d518d0e489f768c143dbf7b16c7017",
-        "title": "在大语言模型时代学习编程 / Learning Programming in an Age of LLMs",
-        "title_zh": "在大语言模型时代学习编程",
-        "title_en": "Learning Programming in an Age of LLMs",
-        "title_original": "Learning Programming in an Age of LLMs",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms",
-        "source": "Hacker News front page",
-        "source_name": "Curated Media"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-16T20:03:20.320490Z"
+        "scored_at": "2026-09-16T22:29:47.007498Z"
       }
     },
     {
@@ -1628,15 +1714,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5633,
-      "importance": 0.5633,
-      "importance_score": 0.5633,
+      "score": 0.5579,
+      "importance": 0.5579,
+      "importance_score": 0.5579,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.45,
         "source_tier": 0.58,
         "ai_relevance": 0.59,
-        "recency": 0.876,
+        "recency": 0.8463,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1661,7 +1747,118 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T20:03:20.320490Z"
+        "scored_at": "2026-09-16T22:29:47.007498Z"
+      }
+    },
+    {
+      "story_id": "story_e505711c206e",
+      "title": "在大语言模型时代学习编程 / Learning Programming in an Age of LLMs",
+      "url": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms",
+      "primary_url": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms",
+      "source": "Hacker News front page",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "f4a76f98f4d518d0e489f768c143dbf7b16c7017",
+          "title": "在大语言模型时代学习编程 / Learning Programming in an Age of LLMs",
+          "title_zh": "在大语言模型时代学习编程",
+          "title_en": "Learning Programming in an Age of LLMs",
+          "title_original": "Learning Programming in an Age of LLMs",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms",
+          "source": "Hacker News front page",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-16T09:12:34Z"
+        },
+        {
+          "id": "977c903b86124a6d7ed5f70eea4b5af0f4c6e6b5",
+          "title": "Learning Programming in an Age of LLMs",
+          "title_zh": null,
+          "title_en": "Learning Programming in an Age of LLMs",
+          "title_original": "Learning Programming in an Age of LLMs",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49723873",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-16T09:12:34Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News front page",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "f4a76f98f4d518d0e489f768c143dbf7b16c7017",
+          "title": "在大语言模型时代学习编程 / Learning Programming in an Age of LLMs",
+          "title_zh": "在大语言模型时代学习编程",
+          "title_en": "Learning Programming in an Age of LLMs",
+          "title_original": "Learning Programming in an Age of LLMs",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms",
+          "source": "Hacker News front page",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-16T09:12:34Z"
+        },
+        {
+          "id": "977c903b86124a6d7ed5f70eea4b5af0f4c6e6b5",
+          "title": "Learning Programming in an Age of LLMs",
+          "title_zh": null,
+          "title_en": "Learning Programming in an Age of LLMs",
+          "title_original": "Learning Programming in an Age of LLMs",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49723873",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-16T09:12:34Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6391,
+      "importance": 0.6391,
+      "importance_score": 0.6391,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5832,
+        "source_tier": 0.58,
+        "ai_relevance": 0.81,
+        "recency": 0.8307,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-16T09:12:34Z",
+      "latest_at": "2026-09-16T09:12:34Z",
+      "primary_item": {
+        "id": "f4a76f98f4d518d0e489f768c143dbf7b16c7017",
+        "title": "在大语言模型时代学习编程 / Learning Programming in an Age of LLMs",
+        "title_zh": "在大语言模型时代学习编程",
+        "title_en": "Learning Programming in an Age of LLMs",
+        "title_original": "Learning Programming in an Age of LLMs",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms",
+        "source": "Hacker News front page",
+        "source_name": "Curated Media"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-16T22:29:47.007498Z"
       }
     },
     {
@@ -1738,15 +1935,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6102,
-      "importance": 0.6102,
-      "importance_score": 0.6102,
+      "score": 0.6053,
+      "importance": 0.6053,
+      "importance_score": 0.6053,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.54,
         "source_tier": 0.58,
         "ai_relevance": 0.75,
-        "recency": 0.8088,
+        "recency": 0.7815,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1771,7 +1968,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T20:03:20.320490Z"
+        "scored_at": "2026-09-16T22:29:47.007498Z"
       }
     }
   ]
