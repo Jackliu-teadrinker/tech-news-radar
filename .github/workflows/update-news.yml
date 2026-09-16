@@ -1,0 +1,102 @@
+name: Update Tech News Snapshot
+
+on:
+  workflow_dispatch:
+    inputs:
+      force_tikhub:
+        description: "Force a paid TikHub refresh even before its normal interval"
+        required: false
+        default: false
+        type: boolean
+  schedule:
+    # 全网科技雷达 v1：每 2 小时一轮（UTC 7,9,11,13,15,17,19,21 和 37分 2,4,...,22 交替）
+    - cron: "7 7,9,11,13,15,17,19,21 * * *"
+    - cron: "37 2,4,6,8,10,12,14,16,18,20,22 * * *"
+
+concurrency:
+  group: update-tech-news-${{ github.ref }}
+  cancel-in-progress: true
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    timeout-minutes: 40
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+
+      - name: Setup Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.11"
+          cache: "pip"
+          cache-dependency-path: "requirements.txt"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Prepare OPML
+        env:
+          FOLLOW_OPML_B64: ${{ secrets.FOLLOW_OPML_B64 }}
+        run: |
+          mkdir -p feeds
+          if [ -n "$FOLLOW_OPML_B64" ]; then
+            echo "$FOLLOW_OPML_B64" | base64 --decode > feeds/follow.opml
+            echo "Loaded feeds/follow.opml from FOLLOW_OPML_B64 secret"
+          elif [ -f feeds/follow.example.opml ]; then
+            cp feeds/follow.example.opml feeds/follow.opml
+            echo "Loaded public demo OPML from feeds/follow.example.opml"
+          else
+            echo "No OPML file available; RSS OPML is optional"
+          fi
+
+      - name: Run collector
+        env:
+          TITLE_ENHANCE_API_KEY: ${{ secrets.TITLE_ENHANCE_API_KEY }}
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+          DEEPSEEK_API_BASE_URL: ${{ vars.DEEPSEEK_API_BASE_URL }}
+          DEEPSEEK_MODEL: ${{ vars.DEEPSEEK_MODEL }}
+          TITLE_ENHANCE_MAX_PER_RUN: ${{ vars.TITLE_ENHANCE_MAX_PER_RUN }}
+        run: |
+          if [ -f feeds/follow.opml ]; then
+            python scripts/update_news.py --output-dir data --window-hours 24 --archive-days 21 --rss-opml feeds/follow.opml --rss-max-feeds "${RSS_MAX_FEEDS:-20}"
+          else
+            python scripts/update_news.py --output-dir data --window-hours 24 --archive-days 21
+          fi
+
+      - name: Persona scoring
+        env:
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+          DEEPSEEK_API_BASE_URL: ${{ vars.DEEPSEEK_API_BASE_URL }}
+          DEEPSEEK_MODEL: ${{ vars.DEEPSEEK_MODEL }}
+        run: python scripts/persona_score.py --data-dir data
+
+      - name: Generate RSS feed
+        run: python scripts/generate_feed.py --data-dir data
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if [ -n "$(git status --porcelain --untracked-files=all -- data/ | grep -v '^[MADRC]' || true)" ]; then
+            echo "::error::Generated files under data/ were not staged:"
+            git status --porcelain --untracked-files=all -- data/ | grep -v '^[MADRC]'
+            exit 1
+          fi
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+          git commit -m "chore: update tech news snapshot"
+          for attempt in 1 2 3; do
+            git push && exit 0
+            echo "push rejected (attempt $attempt), rebasing onto latest remote..."
+            git pull --rebase origin "${GITHUB_REF_NAME}" || { git rebase --abort || true; exit 1; }
+          done
+          git push
