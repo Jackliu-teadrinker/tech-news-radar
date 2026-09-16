@@ -1372,8 +1372,14 @@ def fetch_iris(session: requests.Session, now: datetime) -> list[RawItem]:
         if len(out) >= DISCUSSION_FETCH_CAP:
             break
         try:
+            # Fetch the feed bytes ourselves with a hard timeout, then parse
+            # locally. ``feedparser.parse(url)`` opens its own socket with
+            # no timeout and was hanging the entire pipeline (20+ min) when a
+            # single feed endpoint stalled.
+            feed_resp = session.get(feed_url, timeout=15, headers={"User-Agent": BROWSER_UA})
+            feed_resp.raise_for_status()
             if feedparser is not None:
-                parsed = feedparser.parse(feed_url)
+                parsed = feedparser.parse(feed_resp.content)
                 source_name = str(feed_name or getattr(parsed, "feed", {}).get("title") or "Iris Feed")
                 for entry in parsed.entries:
                     if len(out) >= DISCUSSION_FETCH_CAP:
