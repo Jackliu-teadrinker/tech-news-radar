@@ -54,7 +54,8 @@ TECH_CORE_KEYWORDS = [
     "编程", "代码", "软件", "开源", "沙箱", "服务器", "数据库", "漏洞",
     # hardware / devices
     "iphone", "ipad", "macbook", "iphone", "pixel", "galaxy", "playstation",
-    "xbox", "switch", "nintendo", "samsung", "apple", "tesla", "robotaxi",
+    "xbox", "switch", "nintendo", "samsung", "m5", "m4", "m5 macbook", "apple watch",
+    "apple silicon", "apple m5", "postgres", "mariadb", "tesla", "robotaxi",
     "autonomous", "self-driving", "drones", "drone", "satellite", "starlink",
     "手机", "平板", "笔记本", "智能眼镜", "可穿戴", "无人机", "卫星",
     "自动驾驶", "robotaxi",
