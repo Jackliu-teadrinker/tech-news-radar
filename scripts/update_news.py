@@ -7161,11 +7161,12 @@ def main() -> int:
                 _sp = str(_P(__file__).resolve().parent)
                 if _sp not in sys.path:
                     sys.path.insert(0, _sp)
-                from sector_classifier import classify_sectors
-                normalized = classify_sectors(normalized)
+                from sector_classifier import classify_directions
+                normalized = classify_directions(normalized)
             except Exception:
-                normalized.setdefault("sector", "")
-                normalized.setdefault("sector_hits", [])
+                normalized.setdefault("direction", "")
+                normalized.setdefault("direction_hits", [])
+                normalized.setdefault("companies", [])
             latest_items_all_raw.append(normalized)
 
     latest_items_all_raw = normalize_aihubtoday_records(latest_items_all_raw)
@@ -7359,42 +7360,54 @@ def main() -> int:
         json.dumps(sanitize_public_payload(stories_merged_payload), ensure_ascii=False, separators=(",", ":")),
         encoding="utf-8",
     )
-    # Sector view: aggregate items by the 8-sector map so the UI can render
-    # "AI算力基础设施 / 半导体国产替代 / …" tabs with per-sector point lists.
+    # Direction view: aggregate items by the 10 news directions + 4-layer
+    # framework + company map so the UI can render direction tabs, layer
+    # switch, and per-company filters.
     try:
         import sys
         from pathlib import Path as _P
         _sp = str(_P(__file__).resolve().parent)
         if _sp not in sys.path:
             sys.path.insert(0, _sp)
-        from sector_classifier import sector_meta_payload, sector_stats
-        sectors_payload = {
-            "schema_version": 1,
+        from sector_classifier import direction_meta_payload, direction_stats, framework_layers_payload
+        directions_payload = {
+            "schema_version": 2,
             "generated_at": iso(now),
             "window_hours": args.window_hours,
-            "sectors": sector_meta_payload(),
-            "stats": sector_stats(latest_items_all_raw_dedup),
-            "items_by_sector": {},
-            "top_items_by_sector": {},
+            "framework_layers": framework_layers_payload(),
+            "directions": direction_meta_payload(),
+            "stats": direction_stats(latest_items_all_raw_dedup),
+            "items_by_direction": {},
+            "top_items_by_direction": {},
         }
-        # Group deduped items by primary sector; include top-3 sub-hits too.
+        # Group deduped items by primary direction.
         from collections import defaultdict
-        by_sector: dict[str, list] = defaultdict(list)
+        by_direction: dict[str, list] = defaultdict(list)
         for item in latest_items_all_raw_dedup:
-            sid = item.get("sector") or ""
-            if sid:
-                by_sector[sid].append(item)
-        for sid, items in by_sector.items():
+            did = item.get("direction") or ""
+            if did:
+                by_direction[did].append(item)
+        for did, items in by_direction.items():
             items.sort(key=lambda x: event_time(x) or datetime.min.replace(tzinfo=UTC), reverse=True)
-            sectors_payload["items_by_sector"][sid] = items[:50]
-            sectors_payload["top_items_by_sector"][sid] = items[:8]
-        sectors_path = output_dir / "latest-24h-sectors.json"
-        sectors_path.write_text(
-            json.dumps(sanitize_public_payload(sectors_payload), ensure_ascii=False, separators=(",", ":")),
+            directions_payload["items_by_direction"][did] = items[:50]
+            directions_payload["top_items_by_direction"][did] = items[:8]
+        # Company frequency: which watched companies surfaced most this window.
+        company_counts: dict[str, int] = defaultdict(int)
+        for item in latest_items_all_raw_dedup:
+            for c in item.get("companies", []):
+                if c:
+                    company_counts[c] += 1
+        directions_payload["companies_trending"] = [
+            {"name": name, "count": count}
+            for name, count in sorted(company_counts.items(), key=lambda kv: -kv[1])[:30]
+        ]
+        directions_path = output_dir / "latest-24h-sectors.json"
+        directions_path.write_text(
+            json.dumps(sanitize_public_payload(directions_payload), ensure_ascii=False, separators=(",", ":")),
             encoding="utf-8",
         )
     except Exception as exc:
-        print(f"[warn] sector payload generation failed: {exc}", file=sys.stderr)
+        print(f"[warn] direction payload generation failed: {exc}", file=sys.stderr)
     merge_log_path.write_text(
         json.dumps(sanitize_public_payload(merge_log_payload), ensure_ascii=False, indent=2),
         encoding="utf-8",

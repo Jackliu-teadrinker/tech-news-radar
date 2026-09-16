@@ -2145,16 +2145,52 @@ summary:focus-visible {
   margin-bottom: 2px;
 }
 
-/* 板块 tab 视觉区分（8 个板块用青色描边，区别于主题栏目） */
-.section-tab[data-section="ai_compute"],
+/* 方向 tab 视觉区分（10 个方向用青色描边，区别于主题栏目） */
+.section-tab[data-section="compute_dc"],
 .section-tab[data-section="semiconductor"],
-.section-tab[data-section="ai_apps"],
-.section-tab[data-section="space"],
+.section-tab[data-section="space_hardware"],
+.section-tab[data-section="autonomous_hardware"],
+.section-tab[data-section="robotics_hardware"],
+.section-tab[data-section="energy_hardware"],
+.section-tab[data-section="ai_models_apps"],
+.section-tab[data-section="security_governance"],
+.section-tab[data-section="ai_terminal"],
 .section-tab[data-section="autonomous_vehicle"],
 .section-tab[data-section="robotics"],
-.section-tab[data-section="energy"],
-.section-tab[data-section="policy"] {
+.section-tab[data-section="frontier"] {
   border-color: rgba(18, 106, 115, 0.4);
+}
+
+/* 低权重观察方向（frontier）：淡化处理 */
+.section-tab.tab-low-weight {
+  opacity: 0.65;
+  border-style: dashed;
+}
+
+/* 关注企业 chips */
+.sector-companies-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px;
+  align-items: center;
+  margin-top: 4px;
+}
+
+.sector-companies-label {
+  font-size: 11px;
+  font-weight: 700;
+  color: var(--muted, #5f6b75);
+  margin-right: 4px;
+}
+
+.sector-company-chip {
+  border: 1px solid rgba(18, 106, 115, 0.22);
+  border-radius: 999px;
+  padding: 2px 8px;
+  font-size: 11px;
+  color: var(--accent, #126a73);
+  background: rgba(18, 106, 115, 0.06);
+  cursor: default;
 }
 
 @media (max-width: 720px) {

@@ -149,16 +149,19 @@ const SECTION_DEFS = [
   { id: "creator", label: "自媒体", short: "自媒体", description: "抖音、小红书等自媒体创作者内容" },
 ];
 
-// 8 大板块 tab（从 latest-24h-sectors.json 的 sectors 数组动态生成，
+// 10 个新闻方向 tab（从 latest-24h-sectors.json 的 directions 数组动态生成，
 // 在 init() 里把结果 push 到 SECTION_DEFS 末尾）。
-function sectorSectionDefs(sectorsData) {
-  if (!sectorsData || !Array.isArray(sectorsData.sectors)) return [];
-  return sectorsData.sectors.map((s) => ({
-    id: s.id,
-    label: s.name,
-    short: s.name,
-    description: (s.aliases || []).join(" / "),
-    sectorPoints: s.points || [],
+function directionSectionDefs(sectorsData) {
+  if (!sectorsData || !Array.isArray(sectorsData.directions)) return [];
+  return sectorsData.directions.map((d) => ({
+    id: d.id,
+    label: d.name,
+    short: d.name,
+    description: (d.points || []).join("；"),
+    sectorPoints: d.points || [],
+    frameworkLayer: d.framework_layer || "",
+    weight: d.weight || "normal",
+    companies: d.companies || [],
   }));
 }
 
@@ -431,9 +434,9 @@ function sectionTabCount(sectionId) {
 
 function renderSectionTabs() {
   if (!sectionTabsEl) return;
-  // 板块 tab：数据加载后动态注入（只注入一次，避免重复）
+  // 方向 tab：数据加载后动态注入（只注入一次，避免重复）
   if (state.sectorsData && !sectionTabsEl.dataset.sectorsInjected) {
-    SECTION_DEFS.push(...sectorSectionDefs(state.sectorsData));
+    SECTION_DEFS.push(...directionSectionDefs(state.sectorsData));
     Object.assign(SECTION_BY_ID, Object.fromEntries(SECTION_DEFS.map((s) => [s.id, s])));
     sectionTabsEl.dataset.sectorsInjected = "1";
   }
@@ -446,8 +449,12 @@ function renderSectionTabs() {
     btn.setAttribute("aria-selected", state.activeSection === section.id ? "true" : "false");
     btn.dataset.section = section.id;
     if (section.sectorPoints && section.sectorPoints.length) {
-      // 板块 tab：标题下挂观察点小字提示（title 属性 + 渲染后弹层）
-      btn.title = section.sectorPoints.join("\n");
+      // 方向 tab：标题下挂观察点 + 企业小字提示
+      const parts = [];
+      if (section.frameworkLayer) parts.push(LAYER_LABELS[section.frameworkLayer] || "");
+      parts.push(...section.sectorPoints);
+      btn.title = parts.filter(Boolean).join("\n");
+      if (section.weight === "low") btn.classList.add("tab-low-weight");
     }
     btn.innerHTML = `<span>${section.label}</span><strong>${fmtNumber(sectionTabCount(section.id))}</strong>`;
     btn.addEventListener("click", () => {
@@ -841,8 +848,8 @@ function itemSection(item) {
   const group = itemSourceGroup(item);
   if (group === "creator") return "creator";
   if (group === "community") return "community";
-  // 优先用后端打好的板块标签（latest-24h-sectors.json 的 sector 字段）
-  if (item.sector && SECTION_BY_ID[item.sector]) return item.sector;
+  // 优先用后端打好的方向标签（latest-24h-sectors.json 的 direction 字段）
+  if (item.direction && SECTION_BY_ID[item.direction]) return item.direction;
   const label = item.ai_label || "";
   const mapped = AI_LABEL_SECTION_MAP[label];
   if (mapped) return mapped;
@@ -1641,6 +1648,11 @@ function renderLoadingNotice(label, count) {
 
 // 板块观察点面板：选中板块 tab 时在列表顶部展示"该板块在看什么"
 let sectorPointsEl = null;
+const LAYER_LABELS = { hardware: "硬件底座", software: "软件应用", terminal: "终端场景", frontier: "未来前沿" };
+function layerLabel(layerId) {
+  return LAYER_LABELS[layerId] || layerId || "";
+}
+
 function renderSectorPoints() {
   if (!sectorPointsEl) {
     sectorPointsEl = document.getElementById("sectorPointsWrap");
@@ -1649,8 +1661,11 @@ function renderSectorPoints() {
   const sectionId = state.activeSection;
   const section = SECTION_BY_ID[sectionId];
   const points = section && section.sectorPoints ? section.sectorPoints : null;
-  const sectorMeta = (state.sectorsData && sectionId)
-    ? (state.sectorsData.stats || []).find((s) => s.sector_id === sectionId)
+  const dirMeta = (state.sectorsData && sectionId)
+    ? (state.sectorsData.stats || []).find((s) => s.direction_id === sectionId)
+    : null;
+  const dirSection = (state.sectorsData && sectionId)
+    ? (state.sectorsData.directions || []).find((d) => d.id === sectionId)
     : null;
   if (!points || !points.length) {
     sectorPointsEl.hidden = true;
@@ -1664,12 +1679,13 @@ function renderSectorPoints() {
   const head = document.createElement("div");
   head.className = "sector-points-head";
   const h3 = document.createElement("h3");
-  h3.textContent = `板块观察点 · ${section.short || section.label}`;
+  const layerName = dirSection ? layerLabel(dirSection.framework_layer) : "";
+  h3.textContent = `方向观察点 · ${section.short || section.label}${layerName ? " · " + layerName : ""}`;
   head.appendChild(h3);
-  if (sectorMeta) {
+  if (dirMeta) {
     const badge = document.createElement("span");
     badge.className = "sector-count-badge";
-    badge.textContent = `24h 命中 ${sectorMeta.count} 条`;
+    badge.textContent = `24h 命中 ${dirMeta.count} 条`;
     head.appendChild(badge);
   }
   const ul = document.createElement("ul");
@@ -1680,6 +1696,23 @@ function renderSectorPoints() {
     ul.appendChild(li);
   });
   card.append(head, ul);
+  // 关注企业列表
+  if (dirSection && Array.isArray(dirSection.companies) && dirSection.companies.length) {
+    const companiesRow = document.createElement("div");
+    companiesRow.className = "sector-companies-row";
+    const label = document.createElement("span");
+    label.className = "sector-companies-label";
+    label.textContent = "关注企业";
+    companiesRow.appendChild(label);
+    dirSection.companies.slice(0, 18).forEach((c) => {
+      const chip = document.createElement("span");
+      chip.className = "sector-company-chip";
+      chip.textContent = c;
+      chip.title = c;
+      companiesRow.appendChild(chip);
+    });
+    card.appendChild(companiesRow);
+  }
   sectorPointsEl.appendChild(card);
 }
 
@@ -2308,7 +2341,7 @@ async function init() {
 
   // 板块地图数据（latest-24h-sectors.json）：缺失或旧版文件静默降级，
   // item.sector 字段不存在时板块 tab 自动不渲染。
-  if (sectorsResult.status === "fulfilled" && sectorsResult.value && Array.isArray(sectorsResult.value.sectors)) {
+  if (sectorsResult.status === "fulfilled" && sectorsResult.value && Array.isArray(sectorsResult.value.directions)) {
     state.sectorsData = sectorsResult.value;
   } else {
     state.sectorsData = null;
