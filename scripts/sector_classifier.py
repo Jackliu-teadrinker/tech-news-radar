@@ -61,7 +61,15 @@ def _score_sector(sector_id: str, title: str, source: str, url: str,
 
     # Require at least 2 keyword hits for a sector to be "assigned"
     # (avoids a single generic word like "agent" matching ai_apps).
+    # For broad sectors (semiconductor/energy) also require the top hit to
+    # be a *specific* keyword (len >= 4 or a known CJK term) to stop
+    # promotion/entertainment items from leaking in.
     if len(matched) < 2 and score < 1.2:
+        return 0.0, matched
+    # Broad-sector guard: at least one matched keyword must be specific.
+    if sector_id in {"semiconductor", "energy"} and not any(
+        len(k) >= 4 for k in matched
+    ):
         return 0.0, matched
 
     return score, matched
