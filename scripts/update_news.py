@@ -7156,6 +7156,11 @@ def main() -> int:
             normalized = add_ai_relevance_fields(normalized)
             normalized = add_source_tier_fields(normalized)
             try:
+                import sys
+                from pathlib import Path as _P
+                _sp = str(_P(__file__).resolve().parent)
+                if _sp not in sys.path:
+                    sys.path.insert(0, _sp)
                 from sector_classifier import classify_sectors
                 normalized = classify_sectors(normalized)
             except Exception:
@@ -7357,6 +7362,11 @@ def main() -> int:
     # Sector view: aggregate items by the 8-sector map so the UI can render
     # "AI算力基础设施 / 半导体国产替代 / …" tabs with per-sector point lists.
     try:
+        import sys
+        from pathlib import Path as _P
+        _sp = str(_P(__file__).resolve().parent)
+        if _sp not in sys.path:
+            sys.path.insert(0, _sp)
         from sector_classifier import sector_meta_payload, sector_stats
         sectors_payload = {
             "schema_version": 1,
