@@ -107,8 +107,8 @@ DIRECTIONS: list[dict] = [
         "name": "商业航天/卫星/时空信息（硬件）",
         "framework_layer": "hardware",
         "companies": [
-            "蓝箭", "朱雀", "东方空间", "引力", "快",
-            "天兵", "深蓝", "星河", "谷神星",
+            "蓝箭", "朱雀", "东方空间", "引力一号",
+            "天兵", "深蓝", "星河", "谷神星", "快舟",
             "垣信", "千帆", "星网", "中国卫星", "上海瀚讯", "铖昌",
             "天银机电", "臻镭", "海格通信", "华测导航", "北斗星通",
             "星测星联"],
@@ -116,7 +116,7 @@ DIRECTIONS: list[dict] = [
             # 火箭
             "火箭", "rocket", "发射", "launch", "orbital", "回收",
             "一箭多星", "海上发射", "可复用", "朱雀", "引力", "长征",
-            "快", "深蓝", "天兵", "星河",
+            "快舟", "深蓝", "天兵", "星河",
             # 卫星总装与载荷
             "卫星", "satellite", "载荷", "payload",
             "相控阵", "starlink",
@@ -157,7 +157,7 @@ DIRECTIONS: list[dict] = [
         "framework_layer": "hardware",
         "companies": [
             "绿的", "鸣志", "柯力", "昊志", "汇川",
-            "harmonic", "step",
+            "harmonic", "step 伺服",
             "安川", "mazda"],
         "keywords": [
             # 核心部件
@@ -182,13 +182,13 @@ DIRECTIONS: list[dict] = [
             "阳光电源", "华为数字能源", "士兰微", "斯达", "时代电气"],
         "keywords": [
             # 储能/电池
-            "lithium", "锂电", "lithium battery", "sodium", "钠",
-            "固态电池", "all", "液流", "flow",
-            "储能", "ess", "inverter", "逆变器", "光伏", "solar",
-            "组件", "光伏组件", "钙钛矿", "perovskite", "动力电池",
+            "lithium", "锂电", "lithium battery", "钠电",
+            "固态电池", "液流", "flow battery",
+            "储能", "ess", "inverter", "逆变器", "光伏", "solar panel",
+            "光伏组件", "钙钛矿", "perovskite", "动力电池",
             "电池回收", "recycling",
             # 数据中心电力
-            "ups", "hvdc", "si", "ga", "变压器",
+            "ups", "hvdc", "sic", "gan", "变压器",
             "generator", "microgrid", "机房用电", "电力",
             "备用电源", "绿电", "renewable",
             # 算电协同
