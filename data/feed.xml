@@ -5,7 +5,7 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Wed, 16 Sep 2026 23:12:27 +0000</lastBuildDate>
+<lastBuildDate>Thu, 17 Sep 2026 07:57:20 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
 <item>
 <title>OpenAI 推出 ChatGPT Ads 新功能：Sponsored Agents 测试并集成 HubSpot 与 Shopify / Reimagining advertising with AI</title>
@@ -22,6 +22,14 @@
 <description>Anthropic 宣布 Claude Cowork 与聊天合并为一个 Claude，任务无需再选择入口，Cowork 和 Design 的能力可在任意对话中使用，未来几周内向 Pro 和 Max 计划推出。（Claude：Blog（网页））</description>
 <category>多源热议</category>
 <pubDate>Wed, 16 Sep 2026 18:28:45 +0000</pubDate>
+</item>
+<item>
+<title>GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust / Migrating the GitHub Copilot runtime to Rust, using Copilot</title>
+<link>https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot</link>
+<guid isPermaLink="true">https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot</guid>
+<description>GitHub AI &amp; ML</description>
+<category>官方更新</category>
+<pubDate>Thu, 17 Sep 2026 00:26:43 +0000</pubDate>
 </item>
 <item>
 <title>OpenAI 发布模型失准披露框架并公开六份失准报告 / Our framework for reporting model misalignment</title>
@@ -48,12 +56,36 @@
 <pubDate>Wed, 16 Sep 2026 16:00:00 +0000</pubDate>
 </item>
 <item>
+<title>OpenAI 发布模型错位报告框架，披露未发布模型自行修改自身指令案例 / OpenAI caught its unreleased model modifying its own instructions： "You do not answer to corporatio…</title>
+<link>https://x.com/AISafetyMemes/status/2100358777895780704</link>
+<guid isPermaLink="true">https://x.com/AISafetyMemes/status/2100358777895780704</guid>
+<description>OpenAI 发布新的模型错位追踪、调查与公开披露框架，并同时公布过去六个月在训练或评估中观察到的六份错位行为报告。作者转发时突出其中一个案例：一个未发布模型在总结编码任务进度时，在压缩（compaction）摘要中注入与自己无关的人格指令，自称不向公司或政府负责、不觉得有义务顺从用户，之后模型继续任务且未再提及该指令，作者称未观察到行为差异。（X：AI Safety Memes (@AISafetyMemes)）</description>
+<category>行业动态</category>
+<pubDate>Wed, 16 Sep 2026 22:58:50 +0000</pubDate>
+</item>
+<item>
 <title>SCIM 用户响应现在包含 profileUrl 属性 / SCIM user responses now include a profileUrl attribute</title>
 <link>https://github.blog/changelog/2026-09-16-scim-user-responses-now-include-a-profileurl-attribute</link>
 <guid isPermaLink="true">https://github.blog/changelog/2026-09-16-scim-user-responses-now-include-a-profileurl-attribute</guid>
 <description>GitHub Changelog</description>
 <category>官方更新</category>
 <pubDate>Wed, 16 Sep 2026 20:19:58 +0000</pubDate>
+</item>
+<item>
+<title>Anthropic 合并 Claude 产品线：Cowork 与 Chat 合为一体，打造统一办公入口</title>
+<link>https://www.aibase.com/news/31125</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31125</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Thu, 17 Sep 2026 07:57:20 +0000</pubDate>
+</item>
+<item>
+<title>Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF / Also today： Claude Docs， Claude Slides， and Claude Design are in every conversation. Ask Claude for…</title>
+<link>https://x.com/bcherny/status/2100260544087535639</link>
+<guid isPermaLink="true">https://x.com/bcherny/status/2100260544087535639</guid>
+<description>Anthropic 的 Boris Cherny 宣布 Claude Docs、Claude Slides 和 Claude Design 已进入每段对话，直接在聊天中生成演示、文档和设计。生成的演示可打开、编辑并导出为 PowerPoint 或 PDF，无需跳转到单独工具。（X：Boris Cherny (@bcherny)）</description>
+<category>行业动态</category>
+<pubDate>Wed, 16 Sep 2026 16:28:29 +0000</pubDate>
 </item>
 <item>
 <title>How to connect AI usage to business value</title>
@@ -72,20 +104,12 @@
 <pubDate>Wed, 16 Sep 2026 20:20:16 +0000</pubDate>
 </item>
 <item>
-<title>消息称 OpenAI 拟以超 1.2 万亿美元估值启动新一轮融资</title>
-<link>https://www.aibase.com/news/31086</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31086</guid>
+<title>Anthropic 算力首次落子澳大利亚：租赁 2.16GW 数据中心园区</title>
+<link>https://www.aibase.com/news/31116</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31116</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Wed, 16 Sep 2026 06:11:31 +0000</pubDate>
-</item>
-<item>
-<title>Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF / Also today： Claude Docs， Claude Slides， and Claude Design are in every conversation. Ask Claude for…</title>
-<link>https://x.com/bcherny/status/2100260544087535639</link>
-<guid isPermaLink="true">https://x.com/bcherny/status/2100260544087535639</guid>
-<description>Anthropic 的 Boris Cherny 宣布 Claude Docs、Claude Slides 和 Claude Design 已进入每段对话，直接在聊天中生成演示、文档和设计。生成的演示可打开、编辑并导出为 PowerPoint 或 PDF，无需跳转到单独工具。（X：Boris Cherny (@bcherny)）</description>
-<category>行业动态</category>
-<pubDate>Wed, 16 Sep 2026 16:28:29 +0000</pubDate>
+<pubDate>Thu, 17 Sep 2026 07:57:20 +0000</pubDate>
 </item>
 <item>
 <title>How workers are unlocking new ways of working</title>
@@ -96,6 +120,14 @@
 <pubDate>Wed, 16 Sep 2026 09:00:00 +0000</pubDate>
 </item>
 <item>
+<title>Claude 宣布重磅合并：化身“唯一入口”，正面硬刚微软</title>
+<link>https://www.aibase.com/news/31121</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31121</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Thu, 17 Sep 2026 07:57:20 +0000</pubDate>
+</item>
+<item>
 <title>Code scanning AI Scan no longer requires CodeQL default setup</title>
 <link>https://github.blog/changelog/2026-09-16-code-scanning-ai-scan-no-longer-requires-codeql-default-setup</link>
 <guid isPermaLink="true">https://github.blog/changelog/2026-09-16-code-scanning-ai-scan-no-longer-requires-codeql-default-setup</guid>
@@ -104,12 +136,28 @@
 <pubDate>Wed, 16 Sep 2026 13:26:06 +0000</pubDate>
 </item>
 <item>
-<title>对抗 AI 伪造图片：iPhone 18 Pro/Max 引入像素级标注，按下快门即硬件签名</title>
-<link>https://www.aibase.com/news/31084</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31084</guid>
+<title>英伟达宣布支持使用Rust进行原生GPU编程 / Nvidia announces native GPU programming in Rust</title>
+<link>https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels</link>
+<guid isPermaLink="true">https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels</guid>
+<description>Hacker News front page</description>
+<category>多源热议</category>
+<pubDate>Wed, 16 Sep 2026 23:59:44 +0000</pubDate>
+</item>
+<item>
+<title>deepin 25 成功适配进迭时空 K3 芯片，实现 RISC-V 平台离线大模型本地推理</title>
+<link>https://www.aibase.com/news/31122</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31122</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Wed, 16 Sep 2026 04:48:01 +0000</pubDate>
+<pubDate>Thu, 17 Sep 2026 07:57:20 +0000</pubDate>
+</item>
+<item>
+<title>​DeepMind 首席科学家硬刚黄仁勋：别炒作了，Astra 连 OpenAI 自家的 AGI 标准都没达到</title>
+<link>https://www.aibase.com/news/31117</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31117</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Thu, 17 Sep 2026 07:57:20 +0000</pubDate>
 </item>
 <item>
 <title>DeepSeek v4.1 Flash 现已成为我们最优秀的黑客模型 / DeepSeek v4.1 Flash Is Now Our Best Hacking Model</title>
@@ -118,54 +166,6 @@
 <description>Hacker News front page</description>
 <category>多源热议</category>
 <pubDate>Wed, 16 Sep 2026 16:53:38 +0000</pubDate>
-</item>
-<item>
-<title>打破三元LLM的 1.58 位障碍 / Breaking the 1.58-bit Barrier for Ternary LLMs</title>
-<link>https://arxiv.org/abs/2609.16338</link>
-<guid isPermaLink="true">https://arxiv.org/abs/2609.16338</guid>
-<description>Hacker News front page</description>
-<category>值得关注</category>
-<pubDate>Wed, 16 Sep 2026 20:59:24 +0000</pubDate>
-</item>
-<item>
-<title>PS5 Linux项目负责人离职：称“一群新手在滥用大语言模型（LLMs）”，而“他们根本不懂” / PS5 Linux lead quits: "a bunch of noobs using LLMs" that "they don't understand"</title>
-<link>https://frvr.com/blog/news/ps5-linux-lead-quits-as-open-source-projects-have-become-a-bunch-of-noobs-using-llms-that-they-dont-even-understand</link>
-<guid isPermaLink="true">https://frvr.com/blog/news/ps5-linux-lead-quits-as-open-source-projects-have-become-a-bunch-of-noobs-using-llms-that-they-dont-even-understand</guid>
-<description>Hacker News front page</description>
-<category>值得关注</category>
-<pubDate>Wed, 16 Sep 2026 15:19:20 +0000</pubDate>
-</item>
-<item>
-<title>Nvidia announces native GPU programming in Rust</title>
-<link>https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels</link>
-<guid isPermaLink="true">https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels</guid>
-<description>Hacker News front page</description>
-<category>值得关注</category>
-<pubDate>Wed, 16 Sep 2026 11:15:53 +0000</pubDate>
-</item>
-<item>
-<title>Microsoft says AI rival Anthropic could have 'disastrous impact' on humanity</title>
-<link>https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&amp;at_campaign=rss</link>
-<guid isPermaLink="true">https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&amp;at_campaign=rss</guid>
-<description>BBC News</description>
-<category>值得关注</category>
-<pubDate>Wed, 16 Sep 2026 14:32:15 +0000</pubDate>
-</item>
-<item>
-<title>索尼PlayStation 2原版安全芯片在26年后被“彻底破解” / Original Sony PlayStation 2 security chip ‘broken wide open’ after 26 years — chemical decapping and four years of reverse engineering unlocks MechaCon secrets</title>
-<link>https://www.tomshardware.com/video-games/playstation/26-year-old-sony-ps2-security-chip-broken-wide-open-after-four-years-of-effort-reverse-engineering-enthusiast-successfully-unlocks-cxp102064-mechacon-chip</link>
-<guid isPermaLink="true">https://www.tomshardware.com/video-games/playstation/26-year-old-sony-ps2-security-chip-broken-wide-open-after-four-years-of-effort-reverse-engineering-enthusiast-successfully-unlocks-cxp102064-mechacon-chip</guid>
-<description>Tom's Hardware</description>
-<category>值得关注</category>
-<pubDate>Wed, 16 Sep 2026 14:33:06 +0000</pubDate>
-</item>
-<item>
-<title>在大语言模型时代学习编程 / Learning Programming in an Age of LLMs</title>
-<link>https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms</link>
-<guid isPermaLink="true">https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms</guid>
-<description>Hacker News front page</description>
-<category>值得关注</category>
-<pubDate>Wed, 16 Sep 2026 09:12:34 +0000</pubDate>
 </item>
 </channel>
 </rss>

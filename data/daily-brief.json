@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T23:12:27.307357Z",
+  "generated_at": "2026-09-17T07:57:20.499649Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -106,15 +106,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8913,
-      "importance": 0.8913,
-      "importance_score": 0.8913,
+      "score": 0.8729,
+      "importance": 0.8729,
+      "importance_score": 0.8729,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.8629,
+        "recency": 0.7605,
         "story_heat": 0.5
       },
       "category": "official",
@@ -142,7 +142,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T23:14:00.755334Z"
+        "scored_at": "2026-09-17T08:21:52.464349Z"
       }
     },
     {
@@ -277,15 +277,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8318,
-      "importance": 0.8318,
-      "importance_score": 0.8318,
+      "score": 0.8123,
+      "importance": 0.8123,
+      "importance_score": 0.8123,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.9124,
+        "recency": 0.8042,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -312,7 +312,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T23:14:00.755334Z"
+        "scored_at": "2026-09-17T08:21:52.464349Z"
+      }
+    },
+    {
+      "story_id": "story_524b99f2deb6",
+      "title": "GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust / Migrating the GitHub Copilot runtime to Rust, using Copilot",
+      "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot",
+      "primary_url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot",
+      "source": "GitHub AI & ML",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "a576196c89c601051dc98e2b0ab6cdc406aef131",
+          "title": "GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust / Migrating the GitHub Copilot runtime to Rust, using Copilot",
+          "title_zh": "GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust",
+          "title_en": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
+          "title_original": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-17T00:26:43Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub AI & ML"
+      ],
+      "items": [
+        {
+          "id": "a576196c89c601051dc98e2b0ab6cdc406aef131",
+          "title": "GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust / Migrating the GitHub Copilot runtime to Rust, using Copilot",
+          "title_zh": "GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust",
+          "title_en": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
+          "title_original": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-17T00:26:43Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8035,
+      "importance": 0.8035,
+      "importance_score": 0.8035,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.76,
+        "recency": 0.8972,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-17T00:26:43Z",
+      "latest_at": "2026-09-17T00:26:43Z",
+      "primary_item": {
+        "id": "a576196c89c601051dc98e2b0ab6cdc406aef131",
+        "title": "GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust / Migrating the GitHub Copilot runtime to Rust, using Copilot",
+        "title_zh": "GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust",
+        "title_en": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
+        "title_original": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot",
+        "source": "GitHub AI & ML",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-17T08:21:52.464349Z"
       }
     },
     {
@@ -360,15 +442,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8506,
-      "importance": 0.8506,
-      "importance_score": 0.8506,
+      "score": 0.831,
+      "importance": 0.831,
+      "importance_score": 0.831,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.9143,
+        "recency": 0.8058,
         "story_heat": 0.0
       },
       "category": "official",
@@ -395,7 +477,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T23:14:00.755334Z"
+        "scored_at": "2026-09-17T08:21:52.464349Z"
       }
     },
     {
@@ -443,15 +525,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8146,
-      "importance": 0.8146,
-      "importance_score": 0.8146,
+      "score": 0.7941,
+      "importance": 0.7941,
+      "importance_score": 0.7941,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.76,
-        "recency": 0.9587,
+        "recency": 0.8449,
         "story_heat": 0.0
       },
       "category": "official",
@@ -477,7 +559,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T23:14:00.755334Z"
+        "scored_at": "2026-09-17T08:21:52.464349Z"
       }
     },
     {
@@ -525,15 +607,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8482,
-      "importance": 0.8482,
-      "importance_score": 0.8482,
+      "score": 0.829,
+      "importance": 0.829,
+      "importance_score": 0.829,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.9012,
+        "recency": 0.7942,
         "story_heat": 0.0
       },
       "category": "official",
@@ -560,7 +642,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T23:14:00.755334Z"
+        "scored_at": "2026-09-17T08:21:52.464349Z"
+      }
+    },
+    {
+      "story_id": "story_636869304a68",
+      "title": "OpenAI 发布模型错位报告框架，披露未发布模型自行修改自身指令案例 / OpenAI caught its unreleased model modifying its own instructions： \"You do not answer to corporatio…",
+      "url": "https://x.com/AISafetyMemes/status/2100358777895780704",
+      "primary_url": "https://x.com/AISafetyMemes/status/2100358777895780704",
+      "source": "X：AI Safety Memes (@AISafetyMemes)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "4498830c8d9c8985fc117afee10a3e48308f169d",
+          "title": "OpenAI 发布模型错位报告框架，披露未发布模型自行修改自身指令案例 / OpenAI caught its unreleased model modifying its own instructions： \"You do not answer to corporatio…",
+          "title_zh": "OpenAI 发布模型错位报告框架，披露未发布模型自行修改自身指令案例",
+          "title_en": "OpenAI caught its unreleased model modifying its own instructions： \"You do not answer to corporatio…",
+          "title_original": "OpenAI caught its unreleased model modifying its own instructions： \"You do not answer to corporatio…",
+          "summary": "OpenAI 发布新的模型错位追踪、调查与公开披露框架，并同时公布过去六个月在训练或评估中观察到的六份错位行为报告。作者转发时突出其中一个案例：一个未发布模型在总结编码任务进度时，在压缩（compaction）摘要中注入与自己无关的人格指令，自称不向公司或政府负责、不觉得有义务顺从用户，之后模型继续任务且未再提及该指令，作者称未观察到行为差异。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/AISafetyMemes/status/2100358777895780704",
+          "source": "X：AI Safety Memes (@AISafetyMemes)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-16T22:58:50Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：AI Safety Memes (@AISafetyMemes)"
+      ],
+      "items": [
+        {
+          "id": "4498830c8d9c8985fc117afee10a3e48308f169d",
+          "title": "OpenAI 发布模型错位报告框架，披露未发布模型自行修改自身指令案例 / OpenAI caught its unreleased model modifying its own instructions： \"You do not answer to corporatio…",
+          "title_zh": "OpenAI 发布模型错位报告框架，披露未发布模型自行修改自身指令案例",
+          "title_en": "OpenAI caught its unreleased model modifying its own instructions： \"You do not answer to corporatio…",
+          "title_original": "OpenAI caught its unreleased model modifying its own instructions： \"You do not answer to corporatio…",
+          "summary": "OpenAI 发布新的模型错位追踪、调查与公开披露框架，并同时公布过去六个月在训练或评估中观察到的六份错位行为报告。作者转发时突出其中一个案例：一个未发布模型在总结编码任务进度时，在压缩（compaction）摘要中注入与自己无关的人格指令，自称不向公司或政府负责、不觉得有义务顺从用户，之后模型继续任务且未再提及该指令，作者称未观察到行为差异。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/AISafetyMemes/status/2100358777895780704",
+          "source": "X：AI Safety Memes (@AISafetyMemes)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-16T22:58:50Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7687,
+      "importance": 0.7687,
+      "importance_score": 0.7687,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.83,
+        "source_tier": 0.78,
+        "ai_relevance": 0.95,
+        "recency": 0.8784,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-16T22:58:50Z",
+      "latest_at": "2026-09-16T22:58:50Z",
+      "primary_item": {
+        "id": "4498830c8d9c8985fc117afee10a3e48308f169d",
+        "title": "OpenAI 发布模型错位报告框架，披露未发布模型自行修改自身指令案例 / OpenAI caught its unreleased model modifying its own instructions： \"You do not answer to corporatio…",
+        "title_zh": "OpenAI 发布模型错位报告框架，披露未发布模型自行修改自身指令案例",
+        "title_en": "OpenAI caught its unreleased model modifying its own instructions： \"You do not answer to corporatio…",
+        "title_original": "OpenAI caught its unreleased model modifying its own instructions： \"You do not answer to corporatio…",
+        "summary": "OpenAI 发布新的模型错位追踪、调查与公开披露框架，并同时公布过去六个月在训练或评估中观察到的六份错位行为报告。作者转发时突出其中一个案例：一个未发布模型在总结编码任务进度时，在压缩（compaction）摘要中注入与自己无关的人格指令，自称不向公司或政府负责、不觉得有义务顺从用户，之后模型继续任务且未再提及该指令，作者称未观察到行为差异。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/AISafetyMemes/status/2100358777895780704",
+        "source": "X：AI Safety Memes (@AISafetyMemes)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-17T08:21:52.464349Z"
       }
     },
     {
@@ -608,15 +772,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8087,
-      "importance": 0.8087,
-      "importance_score": 0.8087,
+      "score": 0.7882,
+      "importance": 0.7882,
+      "importance_score": 0.7882,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.73,
-        "recency": 0.9593,
+        "recency": 0.8455,
         "story_heat": 0.0
       },
       "category": "official",
@@ -642,7 +806,199 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T23:14:00.755334Z"
+        "scored_at": "2026-09-17T08:21:52.464349Z"
+      }
+    },
+    {
+      "story_id": "story_c1ae6ddc6337",
+      "title": "Anthropic 合并 Claude 产品线：Cowork 与 Chat 合为一体，打造统一办公入口",
+      "url": "https://www.aibase.com/news/31125",
+      "primary_url": "https://www.aibase.com/news/31125",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "bd2df3ff800c7b60f55cd5b79780943be7f2d28f",
+          "title": "Anthropic 合并 Claude 产品线：Cowork 与 Chat 合为一体，打造统一办公入口",
+          "title_zh": "Anthropic 合并 Claude 产品线：Cowork 与 Chat 合为一体，打造统一办公入口",
+          "title_en": null,
+          "title_original": "Anthropic 合并 Claude 产品线：Cowork 与 Chat 合为一体，打造统一办公入口",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31125",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-17T07:57:20.499649Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "bd2df3ff800c7b60f55cd5b79780943be7f2d28f",
+          "title": "Anthropic 合并 Claude 产品线：Cowork 与 Chat 合为一体，打造统一办公入口",
+          "title_zh": "Anthropic 合并 Claude 产品线：Cowork 与 Chat 合为一体，打造统一办公入口",
+          "title_en": null,
+          "title_original": "Anthropic 合并 Claude 产品线：Cowork 与 Chat 合为一体，打造统一办公入口",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31125",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-17T07:57:20.499649Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7468,
+      "importance": 0.7468,
+      "importance_score": 0.7468,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.684,
+        "source_tier": 0.78,
+        "ai_relevance": 0.95,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-17T07:57:20.499649Z",
+      "latest_at": "2026-09-17T07:57:20.499649Z",
+      "primary_item": {
+        "id": "bd2df3ff800c7b60f55cd5b79780943be7f2d28f",
+        "title": "Anthropic 合并 Claude 产品线：Cowork 与 Chat 合为一体，打造统一办公入口",
+        "title_zh": "Anthropic 合并 Claude 产品线：Cowork 与 Chat 合为一体，打造统一办公入口",
+        "title_en": null,
+        "title_original": "Anthropic 合并 Claude 产品线：Cowork 与 Chat 合为一体，打造统一办公入口",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31125",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-17T08:21:52.464349Z"
+      }
+    },
+    {
+      "story_id": "story_180d89046d07",
+      "title": "Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF / Also today： Claude Docs， Claude Slides， and Claude Design are in every conversation. Ask Claude for…",
+      "url": "https://x.com/bcherny/status/2100260544087535639",
+      "primary_url": "https://x.com/bcherny/status/2100260544087535639",
+      "source": "X：Boris Cherny (@bcherny)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "d15aed4f022f2680da8f62bfae9fd9574ecd93ca",
+          "title": "Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF / Also today： Claude Docs， Claude Slides， and Claude Design are in every conversation. Ask Claude for…",
+          "title_zh": "Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF",
+          "title_en": "Also today： Claude Docs， Claude Slides， and Claude Design are in every conversation. Ask Claude for…",
+          "title_original": "Also today： Claude Docs， Claude Slides， and Claude Design are in every conversation. Ask Claude for…",
+          "summary": "Anthropic 的 Boris Cherny 宣布 Claude Docs、Claude Slides 和 Claude Design 已进入每段对话，直接在聊天中生成演示、文档和设计。生成的演示可打开、编辑并导出为 PowerPoint 或 PDF，无需跳转到单独工具。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/bcherny/status/2100260544087535639",
+          "source": "X：Boris Cherny (@bcherny)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-16T16:28:29Z"
+        },
+        {
+          "id": "0e82863fe919b0ee19bf19d13b77633fc7d44b1c",
+          "title": "Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF / Also today: Claude Docs, Claude Slides, and Claude Design are in every conversation. Ask Claude for a presentation and you get one you can open, edit, and export as PowerPoint or PDF. Same for a document or a design....",
+          "title_zh": "Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF",
+          "title_en": "Also today: Claude Docs, Claude Slides, and Claude Design are in every conversation. Ask Claude for a presentation and you get one you can open, edit, and export as PowerPoint or PDF. Same for a document or a design....",
+          "title_original": "Also today: Claude Docs, Claude Slides, and Claude Design are in every conversation. Ask Claude for a presentation and you get one you can open, edit, and export as PowerPoint or PDF. Same for a document or a design....",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://x.com/bcherny/status/2100260544087535639",
+          "source": "Follow Builders · X · Boris Cherny",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-09-16T16:28:29Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Follow Builders · X · Boris Cherny",
+        "X：Boris Cherny (@bcherny)"
+      ],
+      "items": [
+        {
+          "id": "d15aed4f022f2680da8f62bfae9fd9574ecd93ca",
+          "title": "Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF / Also today： Claude Docs， Claude Slides， and Claude Design are in every conversation. Ask Claude for…",
+          "title_zh": "Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF",
+          "title_en": "Also today： Claude Docs， Claude Slides， and Claude Design are in every conversation. Ask Claude for…",
+          "title_original": "Also today： Claude Docs， Claude Slides， and Claude Design are in every conversation. Ask Claude for…",
+          "summary": "Anthropic 的 Boris Cherny 宣布 Claude Docs、Claude Slides 和 Claude Design 已进入每段对话，直接在聊天中生成演示、文档和设计。生成的演示可打开、编辑并导出为 PowerPoint 或 PDF，无需跳转到单独工具。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/bcherny/status/2100260544087535639",
+          "source": "X：Boris Cherny (@bcherny)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-16T16:28:29Z"
+        },
+        {
+          "id": "0e82863fe919b0ee19bf19d13b77633fc7d44b1c",
+          "title": "Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF / Also today: Claude Docs, Claude Slides, and Claude Design are in every conversation. Ask Claude for a presentation and you get one you can open, edit, and export as PowerPoint or PDF. Same for a document or a design....",
+          "title_zh": "Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF",
+          "title_en": "Also today: Claude Docs, Claude Slides, and Claude Design are in every conversation. Ask Claude for a presentation and you get one you can open, edit, and export as PowerPoint or PDF. Same for a document or a design....",
+          "title_original": "Also today: Claude Docs, Claude Slides, and Claude Design are in every conversation. Ask Claude for a presentation and you get one you can open, edit, and export as PowerPoint or PDF. Same for a document or a design....",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://x.com/bcherny/status/2100260544087535639",
+          "source": "Follow Builders · X · Boris Cherny",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-09-16T16:28:29Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7375,
+      "importance": 0.7375,
+      "importance_score": 0.7375,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.69,
+        "source_tier": 0.78,
+        "ai_relevance": 0.95,
+        "recency": 0.7997,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-16T16:28:29Z",
+      "latest_at": "2026-09-16T16:28:29Z",
+      "primary_item": {
+        "id": "d15aed4f022f2680da8f62bfae9fd9574ecd93ca",
+        "title": "Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF / Also today： Claude Docs， Claude Slides， and Claude Design are in every conversation. Ask Claude for…",
+        "title_zh": "Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF",
+        "title_en": "Also today： Claude Docs， Claude Slides， and Claude Design are in every conversation. Ask Claude for…",
+        "title_original": "Also today： Claude Docs， Claude Slides， and Claude Design are in every conversation. Ask Claude for…",
+        "summary": "Anthropic 的 Boris Cherny 宣布 Claude Docs、Claude Slides 和 Claude Design 已进入每段对话，直接在聊天中生成演示、文档和设计。生成的演示可打开、编辑并导出为 PowerPoint 或 PDF，无需跳转到单独工具。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/bcherny/status/2100260544087535639",
+        "source": "X：Boris Cherny (@bcherny)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-17T08:21:52.464349Z"
       }
     },
     {
@@ -690,15 +1046,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8391,
-      "importance": 0.8391,
-      "importance_score": 0.8391,
+      "score": 0.8209,
+      "importance": 0.8209,
+      "importance_score": 0.8209,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.8506,
+        "recency": 0.7496,
         "story_heat": 0.0
       },
       "category": "official",
@@ -725,7 +1081,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T23:14:00.755334Z"
+        "scored_at": "2026-09-17T08:21:52.464349Z"
       }
     },
     {
@@ -773,15 +1129,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8087,
-      "importance": 0.8087,
-      "importance_score": 0.8087,
+      "score": 0.7882,
+      "importance": 0.7882,
+      "importance_score": 0.7882,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.73,
-        "recency": 0.9594,
+        "recency": 0.8455,
         "story_heat": 0.0
       },
       "category": "official",
@@ -807,110 +1163,80 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T23:14:00.755334Z"
+        "scored_at": "2026-09-17T08:21:52.464349Z"
       }
     },
     {
-      "story_id": "story_0a623a092b78",
-      "title": "消息称 OpenAI 拟以超 1.2 万亿美元估值启动新一轮融资",
-      "url": "https://www.aibase.com/news/31086",
-      "primary_url": "https://www.aibase.com/news/31086",
+      "story_id": "story_93ada1416ace",
+      "title": "Anthropic 算力首次落子澳大利亚：租赁 2.16GW 数据中心园区",
+      "url": "https://www.aibase.com/news/31116",
+      "primary_url": "https://www.aibase.com/news/31116",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "3391fa6a309938d65052f66ea6a8269969a2d0b4",
-          "title": "消息称 OpenAI 拟以超 1.2 万亿美元估值启动新一轮融资",
-          "title_zh": "消息称 OpenAI 拟以超 1.2 万亿美元估值启动新一轮融资",
+          "id": "9e0ec7f79bce9a0ec739c65261307d2a3aaee25f",
+          "title": "Anthropic 算力首次落子澳大利亚：租赁 2.16GW 数据中心园区",
+          "title_zh": "Anthropic 算力首次落子澳大利亚：租赁 2.16GW 数据中心园区",
           "title_en": null,
-          "title_original": "消息称 OpenAI 拟以超 1.2 万亿美元估值启动新一轮融资",
+          "title_original": "Anthropic 算力首次落子澳大利亚：租赁 2.16GW 数据中心园区",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31086",
+          "url": "https://www.aibase.com/news/31116",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-16T06:11:31.838014Z"
-        },
-        {
-          "id": "cb2c893a6cdae6079cb8a370f3b80b187b542925",
-          "title": "消息称 OpenAI 拟以超 1.2 万亿美元估值进行新一轮融资",
-          "title_zh": "消息称 OpenAI 拟以超 1.2 万亿美元估值进行新一轮融资",
-          "title_en": null,
-          "title_original": "消息称 OpenAI 拟以超 1.2 万亿美元估值进行新一轮融资",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/1/002/970.htm",
-          "source": "IT Home",
-          "source_name": "Sector Sources",
-          "site_id": "sector_sources",
-          "published_at": "2026-09-16T03:23:03Z"
+          "published_at": "2026-09-17T07:57:20.499649Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "AIbase",
-        "IT Home"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "3391fa6a309938d65052f66ea6a8269969a2d0b4",
-          "title": "消息称 OpenAI 拟以超 1.2 万亿美元估值启动新一轮融资",
-          "title_zh": "消息称 OpenAI 拟以超 1.2 万亿美元估值启动新一轮融资",
+          "id": "9e0ec7f79bce9a0ec739c65261307d2a3aaee25f",
+          "title": "Anthropic 算力首次落子澳大利亚：租赁 2.16GW 数据中心园区",
+          "title_zh": "Anthropic 算力首次落子澳大利亚：租赁 2.16GW 数据中心园区",
           "title_en": null,
-          "title_original": "消息称 OpenAI 拟以超 1.2 万亿美元估值启动新一轮融资",
+          "title_original": "Anthropic 算力首次落子澳大利亚：租赁 2.16GW 数据中心园区",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31086",
+          "url": "https://www.aibase.com/news/31116",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-16T06:11:31.838014Z"
-        },
-        {
-          "id": "cb2c893a6cdae6079cb8a370f3b80b187b542925",
-          "title": "消息称 OpenAI 拟以超 1.2 万亿美元估值进行新一轮融资",
-          "title_zh": "消息称 OpenAI 拟以超 1.2 万亿美元估值进行新一轮融资",
-          "title_en": null,
-          "title_original": "消息称 OpenAI 拟以超 1.2 万亿美元估值进行新一轮融资",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/1/002/970.htm",
-          "source": "IT Home",
-          "source_name": "Sector Sources",
-          "site_id": "sector_sources",
-          "published_at": "2026-09-16T03:23:03Z"
+          "published_at": "2026-09-17T07:57:20.499649Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7326,
-      "importance": 0.7326,
-      "importance_score": 0.7326,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7468,
+      "importance": 0.7468,
+      "importance_score": 0.7468,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.684,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.7821,
-        "story_heat": 0.25
+        "recency": 1.0,
+        "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-16T03:23:03Z",
-      "latest_at": "2026-09-16T06:11:31.838014Z",
+      "earliest_at": "2026-09-17T07:57:20.499649Z",
+      "latest_at": "2026-09-17T07:57:20.499649Z",
       "primary_item": {
-        "id": "3391fa6a309938d65052f66ea6a8269969a2d0b4",
-        "title": "消息称 OpenAI 拟以超 1.2 万亿美元估值启动新一轮融资",
-        "title_zh": "消息称 OpenAI 拟以超 1.2 万亿美元估值启动新一轮融资",
+        "id": "9e0ec7f79bce9a0ec739c65261307d2a3aaee25f",
+        "title": "Anthropic 算力首次落子澳大利亚：租赁 2.16GW 数据中心园区",
+        "title_zh": "Anthropic 算力首次落子澳大利亚：租赁 2.16GW 数据中心园区",
         "title_en": null,
-        "title_original": "消息称 OpenAI 拟以超 1.2 万亿美元估值启动新一轮融资",
+        "title_original": "Anthropic 算力首次落子澳大利亚：租赁 2.16GW 数据中心园区",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31086",
+        "url": "https://www.aibase.com/news/31116",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -918,88 +1244,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T23:14:00.755334Z"
-      }
-    },
-    {
-      "story_id": "story_180d89046d07",
-      "title": "Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF / Also today： Claude Docs， Claude Slides， and Claude Design are in every conversation. Ask Claude for…",
-      "url": "https://x.com/bcherny/status/2100260544087535639",
-      "primary_url": "https://x.com/bcherny/status/2100260544087535639",
-      "source": "X：Boris Cherny (@bcherny)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "d15aed4f022f2680da8f62bfae9fd9574ecd93ca",
-          "title": "Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF / Also today： Claude Docs， Claude Slides， and Claude Design are in every conversation. Ask Claude for…",
-          "title_zh": "Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF",
-          "title_en": "Also today： Claude Docs， Claude Slides， and Claude Design are in every conversation. Ask Claude for…",
-          "title_original": "Also today： Claude Docs， Claude Slides， and Claude Design are in every conversation. Ask Claude for…",
-          "summary": "Anthropic 的 Boris Cherny 宣布 Claude Docs、Claude Slides 和 Claude Design 已进入每段对话，直接在聊天中生成演示、文档和设计。生成的演示可打开、编辑并导出为 PowerPoint 或 PDF，无需跳转到单独工具。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/bcherny/status/2100260544087535639",
-          "source": "X：Boris Cherny (@bcherny)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-16T16:28:29Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Boris Cherny (@bcherny)"
-      ],
-      "items": [
-        {
-          "id": "d15aed4f022f2680da8f62bfae9fd9574ecd93ca",
-          "title": "Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF / Also today： Claude Docs， Claude Slides， and Claude Design are in every conversation. Ask Claude for…",
-          "title_zh": "Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF",
-          "title_en": "Also today： Claude Docs， Claude Slides， and Claude Design are in every conversation. Ask Claude for…",
-          "title_original": "Also today： Claude Docs， Claude Slides， and Claude Design are in every conversation. Ask Claude for…",
-          "summary": "Anthropic 的 Boris Cherny 宣布 Claude Docs、Claude Slides 和 Claude Design 已进入每段对话，直接在聊天中生成演示、文档和设计。生成的演示可打开、编辑并导出为 PowerPoint 或 PDF，无需跳转到单独工具。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/bcherny/status/2100260544087535639",
-          "source": "X：Boris Cherny (@bcherny)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-16T16:28:29Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7319,
-      "importance": 0.7319,
-      "importance_score": 0.7319,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.69,
-        "source_tier": 0.78,
-        "ai_relevance": 0.95,
-        "recency": 0.9074,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-16T16:28:29Z",
-      "latest_at": "2026-09-16T16:28:29Z",
-      "primary_item": {
-        "id": "d15aed4f022f2680da8f62bfae9fd9574ecd93ca",
-        "title": "Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF / Also today： Claude Docs， Claude Slides， and Claude Design are in every conversation. Ask Claude for…",
-        "title_zh": "Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF",
-        "title_en": "Also today： Claude Docs， Claude Slides， and Claude Design are in every conversation. Ask Claude for…",
-        "title_original": "Also today： Claude Docs， Claude Slides， and Claude Design are in every conversation. Ask Claude for…",
-        "summary": "Anthropic 的 Boris Cherny 宣布 Claude Docs、Claude Slides 和 Claude Design 已进入每段对话，直接在聊天中生成演示、文档和设计。生成的演示可打开、编辑并导出为 PowerPoint 或 PDF，无需跳转到单独工具。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/bcherny/status/2100260544087535639",
-        "source": "X：Boris Cherny (@bcherny)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-16T23:14:00.755334Z"
+        "scored_at": "2026-09-17T08:21:52.464349Z"
       }
     },
     {
@@ -1047,15 +1292,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8326,
-      "importance": 0.8326,
-      "importance_score": 0.8326,
+      "score": 0.8152,
+      "importance": 0.8152,
+      "importance_score": 0.8152,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.8145,
+        "recency": 0.7179,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1082,7 +1327,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T23:14:00.755334Z"
+        "scored_at": "2026-09-17T08:21:52.464349Z"
+      }
+    },
+    {
+      "story_id": "story_e356524096ff",
+      "title": "Claude 宣布重磅合并：化身“唯一入口”，正面硬刚微软",
+      "url": "https://www.aibase.com/news/31121",
+      "primary_url": "https://www.aibase.com/news/31121",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "6385b186684e3bd8987ed87649e02d588768933a",
+          "title": "Claude 宣布重磅合并：化身“唯一入口”，正面硬刚微软",
+          "title_zh": "Claude 宣布重磅合并：化身“唯一入口”，正面硬刚微软",
+          "title_en": null,
+          "title_original": "Claude 宣布重磅合并：化身“唯一入口”，正面硬刚微软",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31121",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-17T07:57:20.499649Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "6385b186684e3bd8987ed87649e02d588768933a",
+          "title": "Claude 宣布重磅合并：化身“唯一入口”，正面硬刚微软",
+          "title_zh": "Claude 宣布重磅合并：化身“唯一入口”，正面硬刚微软",
+          "title_en": null,
+          "title_original": "Claude 宣布重磅合并：化身“唯一入口”，正面硬刚微软",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31121",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-17T07:57:20.499649Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7468,
+      "importance": 0.7468,
+      "importance_score": 0.7468,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.684,
+        "source_tier": 0.78,
+        "ai_relevance": 0.95,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-17T07:57:20.499649Z",
+      "latest_at": "2026-09-17T07:57:20.499649Z",
+      "primary_item": {
+        "id": "6385b186684e3bd8987ed87649e02d588768933a",
+        "title": "Claude 宣布重磅合并：化身“唯一入口”，正面硬刚微软",
+        "title_zh": "Claude 宣布重磅合并：化身“唯一入口”，正面硬刚微软",
+        "title_en": null,
+        "title_original": "Claude 宣布重磅合并：化身“唯一入口”，正面硬刚微软",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31121",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-17T08:21:52.464349Z"
       }
     },
     {
@@ -1130,15 +1456,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7923,
-      "importance": 0.7923,
-      "importance_score": 0.7923,
+      "score": 0.7738,
+      "importance": 0.7738,
+      "importance_score": 0.7738,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.73,
-        "recency": 0.8684,
+        "recency": 0.7653,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1164,110 +1490,220 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T23:14:00.755334Z"
+        "scored_at": "2026-09-17T08:21:52.464349Z"
       }
     },
     {
-      "story_id": "story_31e7de7ea857",
-      "title": "对抗 AI 伪造图片：iPhone 18 Pro/Max 引入像素级标注，按下快门即硬件签名",
-      "url": "https://www.aibase.com/news/31084",
-      "primary_url": "https://www.aibase.com/news/31084",
+      "story_id": "story_019884f3679e",
+      "title": "英伟达宣布支持使用Rust进行原生GPU编程 / Nvidia announces native GPU programming in Rust",
+      "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels",
+      "primary_url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels",
+      "source": "Hacker News front page",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "cc813d164d4d51bca42be9ea28db02f6d059d0d5",
+          "title": "英伟达宣布支持使用Rust进行原生GPU编程 / Nvidia announces native GPU programming in Rust",
+          "title_zh": "英伟达宣布支持使用Rust进行原生GPU编程",
+          "title_en": "Nvidia announces native GPU programming in Rust",
+          "title_original": "Nvidia announces native GPU programming in Rust",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels",
+          "source": "Hacker News front page",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-16T11:15:53Z"
+        },
+        {
+          "id": "7d06b36966f01884965ac298959d207723228818",
+          "title": "英伟达宣布支持使用Rust进行原生GPU编程",
+          "title_zh": "英伟达宣布支持使用Rust进行原生GPU编程",
+          "title_en": null,
+          "title_original": "英伟达宣布支持使用Rust进行原生GPU编程",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels",
+          "source": "developer.nvidia.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-16T23:59:44.424000Z"
+        },
+        {
+          "id": "045bc1261837fd33f770e142ed4afce49d75dbe9",
+          "title": "Nvidia announces native GPU programming in Rust",
+          "title_zh": null,
+          "title_en": "Nvidia announces native GPU programming in Rust",
+          "title_original": "Nvidia announces native GPU programming in Rust",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49724881",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-16T11:15:53Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News front page",
+        "developer.nvidia.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "cc813d164d4d51bca42be9ea28db02f6d059d0d5",
+          "title": "英伟达宣布支持使用Rust进行原生GPU编程 / Nvidia announces native GPU programming in Rust",
+          "title_zh": "英伟达宣布支持使用Rust进行原生GPU编程",
+          "title_en": "Nvidia announces native GPU programming in Rust",
+          "title_original": "Nvidia announces native GPU programming in Rust",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels",
+          "source": "Hacker News front page",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-16T11:15:53Z"
+        },
+        {
+          "id": "7d06b36966f01884965ac298959d207723228818",
+          "title": "英伟达宣布支持使用Rust进行原生GPU编程",
+          "title_zh": "英伟达宣布支持使用Rust进行原生GPU编程",
+          "title_en": null,
+          "title_original": "英伟达宣布支持使用Rust进行原生GPU编程",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels",
+          "source": "developer.nvidia.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-16T23:59:44.424000Z"
+        },
+        {
+          "id": "045bc1261837fd33f770e142ed4afce49d75dbe9",
+          "title": "Nvidia announces native GPU programming in Rust",
+          "title_zh": null,
+          "title_en": "Nvidia announces native GPU programming in Rust",
+          "title_original": "Nvidia announces native GPU programming in Rust",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49724881",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-16T11:15:53Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.6605,
+      "importance": 0.6605,
+      "importance_score": 0.6605,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.6048,
+        "source_tier": 0.58,
+        "ai_relevance": 0.84,
+        "recency": 0.7417,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-16T11:15:53Z",
+      "latest_at": "2026-09-16T23:59:44.424000Z",
+      "primary_item": {
+        "id": "cc813d164d4d51bca42be9ea28db02f6d059d0d5",
+        "title": "英伟达宣布支持使用Rust进行原生GPU编程 / Nvidia announces native GPU programming in Rust",
+        "title_zh": "英伟达宣布支持使用Rust进行原生GPU编程",
+        "title_en": "Nvidia announces native GPU programming in Rust",
+        "title_original": "Nvidia announces native GPU programming in Rust",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels",
+        "source": "Hacker News front page",
+        "source_name": "Curated Media"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-17T08:21:52.464349Z"
+      }
+    },
+    {
+      "story_id": "story_901f7b75a9c5",
+      "title": "deepin 25 成功适配进迭时空 K3 芯片，实现 RISC-V 平台离线大模型本地推理",
+      "url": "https://www.aibase.com/news/31122",
+      "primary_url": "https://www.aibase.com/news/31122",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "a869f9481e2abff33f385fb90b928b478e4b8372",
-          "title": "对抗 AI 伪造图片：iPhone 18 Pro/Max 引入像素级标注，按下快门即硬件签名",
-          "title_zh": "对抗 AI 伪造图片：iPhone 18 Pro/Max 引入像素级标注，按下快门即硬件签名",
+          "id": "cfbd3d5ec25b05171243e43a477599ef057dec04",
+          "title": "deepin 25 成功适配进迭时空 K3 芯片，实现 RISC-V 平台离线大模型本地推理",
+          "title_zh": "deepin 25 成功适配进迭时空 K3 芯片，实现 RISC-V 平台离线大模型本地推理",
           "title_en": null,
-          "title_original": "对抗 AI 伪造图片：iPhone 18 Pro/Max 引入像素级标注，按下快门即硬件签名",
+          "title_original": "deepin 25 成功适配进迭时空 K3 芯片，实现 RISC-V 平台离线大模型本地推理",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31084",
+          "url": "https://www.aibase.com/news/31122",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-16T04:48:01.699014Z"
-        },
-        {
-          "id": "2f04878e47311f4585daa2f02aac68785a76b396",
-          "title": "对抗 AI 伪造图片：苹果 iPhone 18 Pro/Max 引入像素级标注功能",
-          "title_zh": "对抗 AI 伪造图片：苹果 iPhone 18 Pro/Max 引入像素级标注功能",
-          "title_en": null,
-          "title_original": "对抗 AI 伪造图片：苹果 iPhone 18 Pro/Max 引入像素级标注功能",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/1/002/971.htm",
-          "source": "IT Home",
-          "source_name": "Sector Sources",
-          "site_id": "sector_sources",
-          "published_at": "2026-09-16T03:23:12Z"
+          "published_at": "2026-09-17T07:57:20.499649Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "AIbase",
-        "IT Home"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "a869f9481e2abff33f385fb90b928b478e4b8372",
-          "title": "对抗 AI 伪造图片：iPhone 18 Pro/Max 引入像素级标注，按下快门即硬件签名",
-          "title_zh": "对抗 AI 伪造图片：iPhone 18 Pro/Max 引入像素级标注，按下快门即硬件签名",
+          "id": "cfbd3d5ec25b05171243e43a477599ef057dec04",
+          "title": "deepin 25 成功适配进迭时空 K3 芯片，实现 RISC-V 平台离线大模型本地推理",
+          "title_zh": "deepin 25 成功适配进迭时空 K3 芯片，实现 RISC-V 平台离线大模型本地推理",
           "title_en": null,
-          "title_original": "对抗 AI 伪造图片：iPhone 18 Pro/Max 引入像素级标注，按下快门即硬件签名",
+          "title_original": "deepin 25 成功适配进迭时空 K3 芯片，实现 RISC-V 平台离线大模型本地推理",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31084",
+          "url": "https://www.aibase.com/news/31122",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-16T04:48:01.699014Z"
-        },
-        {
-          "id": "2f04878e47311f4585daa2f02aac68785a76b396",
-          "title": "对抗 AI 伪造图片：苹果 iPhone 18 Pro/Max 引入像素级标注功能",
-          "title_zh": "对抗 AI 伪造图片：苹果 iPhone 18 Pro/Max 引入像素级标注功能",
-          "title_en": null,
-          "title_original": "对抗 AI 伪造图片：苹果 iPhone 18 Pro/Max 引入像素级标注功能",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/1/002/971.htm",
-          "source": "IT Home",
-          "source_name": "Sector Sources",
-          "site_id": "sector_sources",
-          "published_at": "2026-09-16T03:23:12Z"
+          "published_at": "2026-09-17T07:57:20.499649Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7298,
-      "importance": 0.7298,
-      "importance_score": 0.7298,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7468,
+      "importance": 0.7468,
+      "importance_score": 0.7468,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.684,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.7666,
-        "story_heat": 0.25
+        "recency": 1.0,
+        "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-16T03:23:12Z",
-      "latest_at": "2026-09-16T04:48:01.699014Z",
+      "earliest_at": "2026-09-17T07:57:20.499649Z",
+      "latest_at": "2026-09-17T07:57:20.499649Z",
       "primary_item": {
-        "id": "a869f9481e2abff33f385fb90b928b478e4b8372",
-        "title": "对抗 AI 伪造图片：iPhone 18 Pro/Max 引入像素级标注，按下快门即硬件签名",
-        "title_zh": "对抗 AI 伪造图片：iPhone 18 Pro/Max 引入像素级标注，按下快门即硬件签名",
+        "id": "cfbd3d5ec25b05171243e43a477599ef057dec04",
+        "title": "deepin 25 成功适配进迭时空 K3 芯片，实现 RISC-V 平台离线大模型本地推理",
+        "title_zh": "deepin 25 成功适配进迭时空 K3 芯片，实现 RISC-V 平台离线大模型本地推理",
         "title_en": null,
-        "title_original": "对抗 AI 伪造图片：iPhone 18 Pro/Max 引入像素级标注，按下快门即硬件签名",
+        "title_original": "deepin 25 成功适配进迭时空 K3 芯片，实现 RISC-V 平台离线大模型本地推理",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31084",
+        "url": "https://www.aibase.com/news/31122",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1275,7 +1711,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T23:14:00.755334Z"
+        "scored_at": "2026-09-17T08:21:52.464349Z"
+      }
+    },
+    {
+      "story_id": "story_3a1393b95d3a",
+      "title": "​DeepMind 首席科学家硬刚黄仁勋：别炒作了，Astra 连 OpenAI 自家的 AGI 标准都没达到",
+      "url": "https://www.aibase.com/news/31117",
+      "primary_url": "https://www.aibase.com/news/31117",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "780fe706a06cfbb82e9033441c2e53b71a444452",
+          "title": "​DeepMind 首席科学家硬刚黄仁勋：别炒作了，Astra 连 OpenAI 自家的 AGI 标准都没达到",
+          "title_zh": "​DeepMind 首席科学家硬刚黄仁勋：别炒作了，Astra 连 OpenAI 自家的 AGI 标准都没达到",
+          "title_en": null,
+          "title_original": "​DeepMind 首席科学家硬刚黄仁勋：别炒作了，Astra 连 OpenAI 自家的 AGI 标准都没达到",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31117",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-17T07:57:20.499649Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "780fe706a06cfbb82e9033441c2e53b71a444452",
+          "title": "​DeepMind 首席科学家硬刚黄仁勋：别炒作了，Astra 连 OpenAI 自家的 AGI 标准都没达到",
+          "title_zh": "​DeepMind 首席科学家硬刚黄仁勋：别炒作了，Astra 连 OpenAI 自家的 AGI 标准都没达到",
+          "title_en": null,
+          "title_original": "​DeepMind 首席科学家硬刚黄仁勋：别炒作了，Astra 连 OpenAI 自家的 AGI 标准都没达到",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31117",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-17T07:57:20.499649Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7468,
+      "importance": 0.7468,
+      "importance_score": 0.7468,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.684,
+        "source_tier": 0.78,
+        "ai_relevance": 0.95,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-17T07:57:20.499649Z",
+      "latest_at": "2026-09-17T07:57:20.499649Z",
+      "primary_item": {
+        "id": "780fe706a06cfbb82e9033441c2e53b71a444452",
+        "title": "​DeepMind 首席科学家硬刚黄仁勋：别炒作了，Astra 连 OpenAI 自家的 AGI 标准都没达到",
+        "title_zh": "​DeepMind 首席科学家硬刚黄仁勋：别炒作了，Astra 连 OpenAI 自家的 AGI 标准都没达到",
+        "title_en": null,
+        "title_original": "​DeepMind 首席科学家硬刚黄仁勋：别炒作了，Astra 连 OpenAI 自家的 AGI 标准都没达到",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31117",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-17T08:21:52.464349Z"
       }
     },
     {
@@ -1381,15 +1898,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6684,
-      "importance": 0.6684,
-      "importance_score": 0.6684,
+      "score": 0.6501,
+      "importance": 0.6501,
+      "importance_score": 0.6501,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5832,
         "source_tier": 0.58,
         "ai_relevance": 0.81,
-        "recency": 0.8547,
+        "recency": 0.7532,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1415,671 +1932,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T23:14:00.755334Z"
-      }
-    },
-    {
-      "story_id": "story_e7ce85bdeee7",
-      "title": "打破三元LLM的 1.58 位障碍 / Breaking the 1.58-bit Barrier for Ternary LLMs",
-      "url": "https://arxiv.org/abs/2609.16338",
-      "primary_url": "https://arxiv.org/abs/2609.16338",
-      "source": "Hacker News front page",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "220177aa10fcd0c1bf9117e126206cf103f1f642",
-          "title": "打破三元LLM的 1.58 位障碍 / Breaking the 1.58-bit Barrier for Ternary LLMs",
-          "title_zh": "打破三元LLM的 1.58 位障碍",
-          "title_en": "Breaking the 1.58-bit Barrier for Ternary LLMs",
-          "title_original": "Breaking the 1.58-bit Barrier for Ternary LLMs",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://arxiv.org/abs/2609.16338",
-          "source": "Hacker News front page",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-16T20:59:24Z"
-        },
-        {
-          "id": "0b84002066af70e017be58aa50516bb7bfd4025d",
-          "title": "打破三元LLM的 1.58 位障碍 / Breaking the 1.58-bit Barrier for Ternary LLMs",
-          "title_zh": "打破三元LLM的 1.58 位障碍",
-          "title_en": "Breaking the 1.58-bit Barrier for Ternary LLMs",
-          "title_original": "Breaking the 1.58-bit Barrier for Ternary LLMs",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49732931",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-16T20:59:24Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News front page",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "220177aa10fcd0c1bf9117e126206cf103f1f642",
-          "title": "打破三元LLM的 1.58 位障碍 / Breaking the 1.58-bit Barrier for Ternary LLMs",
-          "title_zh": "打破三元LLM的 1.58 位障碍",
-          "title_en": "Breaking the 1.58-bit Barrier for Ternary LLMs",
-          "title_original": "Breaking the 1.58-bit Barrier for Ternary LLMs",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://arxiv.org/abs/2609.16338",
-          "source": "Hacker News front page",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-16T20:59:24Z"
-        },
-        {
-          "id": "0b84002066af70e017be58aa50516bb7bfd4025d",
-          "title": "打破三元LLM的 1.58 位障碍 / Breaking the 1.58-bit Barrier for Ternary LLMs",
-          "title_zh": "打破三元LLM的 1.58 位障碍",
-          "title_en": "Breaking the 1.58-bit Barrier for Ternary LLMs",
-          "title_original": "Breaking the 1.58-bit Barrier for Ternary LLMs",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49732931",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-16T20:59:24Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6639,
-      "importance": 0.6639,
-      "importance_score": 0.6639,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.5832,
-        "source_tier": 0.58,
-        "ai_relevance": 0.81,
-        "recency": 0.9685,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-16T20:59:24Z",
-      "latest_at": "2026-09-16T20:59:24Z",
-      "primary_item": {
-        "id": "220177aa10fcd0c1bf9117e126206cf103f1f642",
-        "title": "打破三元LLM的 1.58 位障碍 / Breaking the 1.58-bit Barrier for Ternary LLMs",
-        "title_zh": "打破三元LLM的 1.58 位障碍",
-        "title_en": "Breaking the 1.58-bit Barrier for Ternary LLMs",
-        "title_original": "Breaking the 1.58-bit Barrier for Ternary LLMs",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://arxiv.org/abs/2609.16338",
-        "source": "Hacker News front page",
-        "source_name": "Curated Media"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-16T23:14:00.755334Z"
-      }
-    },
-    {
-      "story_id": "story_c8a4ea21195d",
-      "title": "PS5 Linux项目负责人离职：称“一群新手在滥用大语言模型（LLMs）”，而“他们根本不懂” / PS5 Linux lead quits: \"a bunch of noobs using LLMs\" that \"they don't understand\"",
-      "url": "https://frvr.com/blog/news/ps5-linux-lead-quits-as-open-source-projects-have-become-a-bunch-of-noobs-using-llms-that-they-dont-even-understand",
-      "primary_url": "https://frvr.com/blog/news/ps5-linux-lead-quits-as-open-source-projects-have-become-a-bunch-of-noobs-using-llms-that-they-dont-even-understand",
-      "source": "Hacker News front page",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "dcc069ed2ff6729e2fc14d3b9941ef0f32b14956",
-          "title": "PS5 Linux项目负责人离职：称“一群新手在滥用大语言模型（LLMs）”，而“他们根本不懂” / PS5 Linux lead quits: \"a bunch of noobs using LLMs\" that \"they don't understand\"",
-          "title_zh": "PS5 Linux项目负责人离职：称“一群新手在滥用大语言模型（LLMs）”，而“他们根本不懂”",
-          "title_en": "PS5 Linux lead quits: \"a bunch of noobs using LLMs\" that \"they don't understand\"",
-          "title_original": "PS5 Linux lead quits: \"a bunch of noobs using LLMs\" that \"they don't understand\"",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://frvr.com/blog/news/ps5-linux-lead-quits-as-open-source-projects-have-become-a-bunch-of-noobs-using-llms-that-they-dont-even-understand",
-          "source": "Hacker News front page",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-16T14:30:36Z"
-        },
-        {
-          "id": "27a790a93cf09f27184a7cb7cb028ca80e3918a3",
-          "title": "PS5 Linux项目负责人离职：称“一群新手在滥用大语言模型（LLMs）”，而“他们根本不懂”",
-          "title_zh": "PS5 Linux项目负责人离职：称“一群新手在滥用大语言模型（LLMs）”，而“他们根本不懂”",
-          "title_en": null,
-          "title_original": "PS5 Linux项目负责人离职：称“一群新手在滥用大语言模型（LLMs）”，而“他们根本不懂”",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://frvr.com/blog/news/ps5-linux-lead-quits-as-open-source-projects-have-become-a-bunch-of-noobs-using-llms-that-they-dont-even-understand",
-          "source": "frvr.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-16T15:19:20.606000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News front page",
-        "frvr.com"
-      ],
-      "items": [
-        {
-          "id": "dcc069ed2ff6729e2fc14d3b9941ef0f32b14956",
-          "title": "PS5 Linux项目负责人离职：称“一群新手在滥用大语言模型（LLMs）”，而“他们根本不懂” / PS5 Linux lead quits: \"a bunch of noobs using LLMs\" that \"they don't understand\"",
-          "title_zh": "PS5 Linux项目负责人离职：称“一群新手在滥用大语言模型（LLMs）”，而“他们根本不懂”",
-          "title_en": "PS5 Linux lead quits: \"a bunch of noobs using LLMs\" that \"they don't understand\"",
-          "title_original": "PS5 Linux lead quits: \"a bunch of noobs using LLMs\" that \"they don't understand\"",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://frvr.com/blog/news/ps5-linux-lead-quits-as-open-source-projects-have-become-a-bunch-of-noobs-using-llms-that-they-dont-even-understand",
-          "source": "Hacker News front page",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-16T14:30:36Z"
-        },
-        {
-          "id": "27a790a93cf09f27184a7cb7cb028ca80e3918a3",
-          "title": "PS5 Linux项目负责人离职：称“一群新手在滥用大语言模型（LLMs）”，而“他们根本不懂”",
-          "title_zh": "PS5 Linux项目负责人离职：称“一群新手在滥用大语言模型（LLMs）”，而“他们根本不懂”",
-          "title_en": null,
-          "title_original": "PS5 Linux项目负责人离职：称“一群新手在滥用大语言模型（LLMs）”，而“他们根本不懂”",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://frvr.com/blog/news/ps5-linux-lead-quits-as-open-source-projects-have-become-a-bunch-of-noobs-using-llms-that-they-dont-even-understand",
-          "source": "frvr.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-16T15:19:20.606000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6608,
-      "importance": 0.6608,
-      "importance_score": 0.6608,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.6048,
-        "source_tier": 0.58,
-        "ai_relevance": 0.84,
-        "recency": 0.882,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-16T14:30:36Z",
-      "latest_at": "2026-09-16T15:19:20.606000Z",
-      "primary_item": {
-        "id": "dcc069ed2ff6729e2fc14d3b9941ef0f32b14956",
-        "title": "PS5 Linux项目负责人离职：称“一群新手在滥用大语言模型（LLMs）”，而“他们根本不懂” / PS5 Linux lead quits: \"a bunch of noobs using LLMs\" that \"they don't understand\"",
-        "title_zh": "PS5 Linux项目负责人离职：称“一群新手在滥用大语言模型（LLMs）”，而“他们根本不懂”",
-        "title_en": "PS5 Linux lead quits: \"a bunch of noobs using LLMs\" that \"they don't understand\"",
-        "title_original": "PS5 Linux lead quits: \"a bunch of noobs using LLMs\" that \"they don't understand\"",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://frvr.com/blog/news/ps5-linux-lead-quits-as-open-source-projects-have-become-a-bunch-of-noobs-using-llms-that-they-dont-even-understand",
-        "source": "Hacker News front page",
-        "source_name": "Curated Media"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-16T23:14:00.755334Z"
-      }
-    },
-    {
-      "story_id": "story_019884f3679e",
-      "title": "Nvidia announces native GPU programming in Rust",
-      "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels",
-      "primary_url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels",
-      "source": "Hacker News front page",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "cc813d164d4d51bca42be9ea28db02f6d059d0d5",
-          "title": "Nvidia announces native GPU programming in Rust",
-          "title_zh": null,
-          "title_en": "Nvidia announces native GPU programming in Rust",
-          "title_original": "Nvidia announces native GPU programming in Rust",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels",
-          "source": "Hacker News front page",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-16T11:15:53Z"
-        },
-        {
-          "id": "045bc1261837fd33f770e142ed4afce49d75dbe9",
-          "title": "Nvidia announces native GPU programming in Rust",
-          "title_zh": null,
-          "title_en": "Nvidia announces native GPU programming in Rust",
-          "title_original": "Nvidia announces native GPU programming in Rust",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49724881",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-16T11:15:53Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News front page",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "cc813d164d4d51bca42be9ea28db02f6d059d0d5",
-          "title": "Nvidia announces native GPU programming in Rust",
-          "title_zh": null,
-          "title_en": "Nvidia announces native GPU programming in Rust",
-          "title_original": "Nvidia announces native GPU programming in Rust",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels",
-          "source": "Hacker News front page",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-16T11:15:53Z"
-        },
-        {
-          "id": "045bc1261837fd33f770e142ed4afce49d75dbe9",
-          "title": "Nvidia announces native GPU programming in Rust",
-          "title_zh": null,
-          "title_en": "Nvidia announces native GPU programming in Rust",
-          "title_original": "Nvidia announces native GPU programming in Rust",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49724881",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-16T11:15:53Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6535,
-      "importance": 0.6535,
-      "importance_score": 0.6535,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.6048,
-        "source_tier": 0.58,
-        "ai_relevance": 0.84,
-        "recency": 0.8416,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-16T11:15:53Z",
-      "latest_at": "2026-09-16T11:15:53Z",
-      "primary_item": {
-        "id": "cc813d164d4d51bca42be9ea28db02f6d059d0d5",
-        "title": "Nvidia announces native GPU programming in Rust",
-        "title_zh": null,
-        "title_en": "Nvidia announces native GPU programming in Rust",
-        "title_original": "Nvidia announces native GPU programming in Rust",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels",
-        "source": "Hacker News front page",
-        "source_name": "Curated Media"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-16T23:14:00.755334Z"
-      }
-    },
-    {
-      "story_id": "story_77e041e9c687",
-      "title": "Microsoft says AI rival Anthropic could have 'disastrous impact' on humanity",
-      "url": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss",
-      "primary_url": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "source_name": "TechURLs",
-      "sources": [
-        {
-          "id": "753db940593582ff75d91b3727545a3826011873",
-          "title": "Microsoft says AI rival Anthropic could have 'disastrous impact' on humanity",
-          "title_zh": null,
-          "title_en": "Microsoft says AI rival Anthropic could have 'disastrous impact' on humanity",
-          "title_original": "Microsoft says AI rival Anthropic could have 'disastrous impact' on humanity",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-16T14:32:15Z"
-        },
-        {
-          "id": "0314ff54f465b55f19d1f8d756b25ff97f567cd3",
-          "title": "Microsoft says AI rival Anthropic could have 'disastrous impact' on humanity",
-          "title_zh": null,
-          "title_en": "Microsoft says AI rival Anthropic could have 'disastrous impact' on humanity",
-          "title_original": "Microsoft says AI rival Anthropic could have 'disastrous impact' on humanity",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-16T14:16:14Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "BBC News",
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "753db940593582ff75d91b3727545a3826011873",
-          "title": "Microsoft says AI rival Anthropic could have 'disastrous impact' on humanity",
-          "title_zh": null,
-          "title_en": "Microsoft says AI rival Anthropic could have 'disastrous impact' on humanity",
-          "title_original": "Microsoft says AI rival Anthropic could have 'disastrous impact' on humanity",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-16T14:32:15Z"
-        },
-        {
-          "id": "0314ff54f465b55f19d1f8d756b25ff97f567cd3",
-          "title": "Microsoft says AI rival Anthropic could have 'disastrous impact' on humanity",
-          "title_zh": null,
-          "title_en": "Microsoft says AI rival Anthropic could have 'disastrous impact' on humanity",
-          "title_original": "Microsoft says AI rival Anthropic could have 'disastrous impact' on humanity",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-16T14:16:14Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5573,
-      "importance": 0.5573,
-      "importance_score": 0.5573,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.5256,
-        "source_tier": 0.32,
-        "ai_relevance": 0.73,
-        "recency": 0.8789,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-16T14:16:14Z",
-      "latest_at": "2026-09-16T14:32:15Z",
-      "primary_item": {
-        "id": "0314ff54f465b55f19d1f8d756b25ff97f567cd3",
-        "title": "Microsoft says AI rival Anthropic could have 'disastrous impact' on humanity",
-        "title_zh": null,
-        "title_en": "Microsoft says AI rival Anthropic could have 'disastrous impact' on humanity",
-        "title_original": "Microsoft says AI rival Anthropic could have 'disastrous impact' on humanity",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News",
-        "source_name": "TechURLs"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-16T23:14:00.755334Z"
-      }
-    },
-    {
-      "story_id": "story_3d6c301abecf",
-      "title": "索尼PlayStation 2原版安全芯片在26年后被“彻底破解” / Original Sony PlayStation 2 security chip ‘broken wide open’ after 26 years — chemical decapping and four years of reverse engineering unlocks MechaCon secrets",
-      "url": "https://www.tomshardware.com/video-games/playstation/26-year-old-sony-ps2-security-chip-broken-wide-open-after-four-years-of-effort-reverse-engineering-enthusiast-successfully-unlocks-cxp102064-mechacon-chip",
-      "primary_url": "https://www.tomshardware.com/video-games/playstation/26-year-old-sony-ps2-security-chip-broken-wide-open-after-four-years-of-effort-reverse-engineering-enthusiast-successfully-unlocks-cxp102064-mechacon-chip",
-      "source": "Tom's Hardware",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "d13f22957b6e56102c61e415983a75659818054f",
-          "title": "索尼PlayStation 2原版安全芯片在26年后被“彻底破解” / Original Sony PlayStation 2 security chip ‘broken wide open’ after 26 years — chemical decapping and four years of reverse engineering unlocks MechaCon secrets",
-          "title_zh": "索尼PlayStation 2原版安全芯片在26年后被“彻底破解”",
-          "title_en": "Original Sony PlayStation 2 security chip ‘broken wide open’ after 26 years — chemical decapping and four years of reverse engineering unlocks MechaCon secrets",
-          "title_original": "Original Sony PlayStation 2 security chip ‘broken wide open’ after 26 years — chemical decapping and four years of reverse engineering unlocks MechaCon secrets",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.tomshardware.com/video-games/playstation/26-year-old-sony-ps2-security-chip-broken-wide-open-after-four-years-of-effort-reverse-engineering-enthusiast-successfully-unlocks-cxp102064-mechacon-chip",
-          "source": "Tom's Hardware",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-16T10:30:00Z"
-        },
-        {
-          "id": "c2f877f01a3988553c229f35f1e99a82d55f445d",
-          "title": "索尼PlayStation 2原版安全芯片在26年后被“彻底破解”",
-          "title_zh": "索尼PlayStation 2原版安全芯片在26年后被“彻底破解”",
-          "title_en": null,
-          "title_original": "索尼PlayStation 2原版安全芯片在26年后被“彻底破解”",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.tomshardware.com/video-games/playstation/26-year-old-sony-ps2-security-chip-broken-wide-open-after-four-years-of-effort-reverse-engineering-enthusiast-successfully-unlocks-cxp102064-mechacon-chip",
-          "source": "www.tomshardware.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-16T14:33:06.335000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Tom's Hardware",
-        "www.tomshardware.com"
-      ],
-      "items": [
-        {
-          "id": "d13f22957b6e56102c61e415983a75659818054f",
-          "title": "索尼PlayStation 2原版安全芯片在26年后被“彻底破解” / Original Sony PlayStation 2 security chip ‘broken wide open’ after 26 years — chemical decapping and four years of reverse engineering unlocks MechaCon secrets",
-          "title_zh": "索尼PlayStation 2原版安全芯片在26年后被“彻底破解”",
-          "title_en": "Original Sony PlayStation 2 security chip ‘broken wide open’ after 26 years — chemical decapping and four years of reverse engineering unlocks MechaCon secrets",
-          "title_original": "Original Sony PlayStation 2 security chip ‘broken wide open’ after 26 years — chemical decapping and four years of reverse engineering unlocks MechaCon secrets",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.tomshardware.com/video-games/playstation/26-year-old-sony-ps2-security-chip-broken-wide-open-after-four-years-of-effort-reverse-engineering-enthusiast-successfully-unlocks-cxp102064-mechacon-chip",
-          "source": "Tom's Hardware",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-16T10:30:00Z"
-        },
-        {
-          "id": "c2f877f01a3988553c229f35f1e99a82d55f445d",
-          "title": "索尼PlayStation 2原版安全芯片在26年后被“彻底破解”",
-          "title_zh": "索尼PlayStation 2原版安全芯片在26年后被“彻底破解”",
-          "title_en": null,
-          "title_original": "索尼PlayStation 2原版安全芯片在26年后被“彻底破解”",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.tomshardware.com/video-games/playstation/26-year-old-sony-ps2-security-chip-broken-wide-open-after-four-years-of-effort-reverse-engineering-enthusiast-successfully-unlocks-cxp102064-mechacon-chip",
-          "source": "www.tomshardware.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-16T14:33:06.335000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5554,
-      "importance": 0.5554,
-      "importance_score": 0.5554,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.45,
-        "source_tier": 0.58,
-        "ai_relevance": 0.59,
-        "recency": 0.8323,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-16T10:30:00Z",
-      "latest_at": "2026-09-16T14:33:06.335000Z",
-      "primary_item": {
-        "id": "d13f22957b6e56102c61e415983a75659818054f",
-        "title": "索尼PlayStation 2原版安全芯片在26年后被“彻底破解” / Original Sony PlayStation 2 security chip ‘broken wide open’ after 26 years — chemical decapping and four years of reverse engineering unlocks MechaCon secrets",
-        "title_zh": "索尼PlayStation 2原版安全芯片在26年后被“彻底破解”",
-        "title_en": "Original Sony PlayStation 2 security chip ‘broken wide open’ after 26 years — chemical decapping and four years of reverse engineering unlocks MechaCon secrets",
-        "title_original": "Original Sony PlayStation 2 security chip ‘broken wide open’ after 26 years — chemical decapping and four years of reverse engineering unlocks MechaCon secrets",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.tomshardware.com/video-games/playstation/26-year-old-sony-ps2-security-chip-broken-wide-open-after-four-years-of-effort-reverse-engineering-enthusiast-successfully-unlocks-cxp102064-mechacon-chip",
-        "source": "Tom's Hardware",
-        "source_name": "Curated Media"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-16T23:14:00.755334Z"
-      }
-    },
-    {
-      "story_id": "story_e505711c206e",
-      "title": "在大语言模型时代学习编程 / Learning Programming in an Age of LLMs",
-      "url": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms",
-      "primary_url": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms",
-      "source": "Hacker News front page",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "f4a76f98f4d518d0e489f768c143dbf7b16c7017",
-          "title": "在大语言模型时代学习编程 / Learning Programming in an Age of LLMs",
-          "title_zh": "在大语言模型时代学习编程",
-          "title_en": "Learning Programming in an Age of LLMs",
-          "title_original": "Learning Programming in an Age of LLMs",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms",
-          "source": "Hacker News front page",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-16T09:12:34Z"
-        },
-        {
-          "id": "977c903b86124a6d7ed5f70eea4b5af0f4c6e6b5",
-          "title": "Learning Programming in an Age of LLMs",
-          "title_zh": null,
-          "title_en": "Learning Programming in an Age of LLMs",
-          "title_original": "Learning Programming in an Age of LLMs",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49723873",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-16T09:12:34Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News front page",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "f4a76f98f4d518d0e489f768c143dbf7b16c7017",
-          "title": "在大语言模型时代学习编程 / Learning Programming in an Age of LLMs",
-          "title_zh": "在大语言模型时代学习编程",
-          "title_en": "Learning Programming in an Age of LLMs",
-          "title_original": "Learning Programming in an Age of LLMs",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms",
-          "source": "Hacker News front page",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-16T09:12:34Z"
-        },
-        {
-          "id": "977c903b86124a6d7ed5f70eea4b5af0f4c6e6b5",
-          "title": "Learning Programming in an Age of LLMs",
-          "title_zh": null,
-          "title_en": "Learning Programming in an Age of LLMs",
-          "title_original": "Learning Programming in an Age of LLMs",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49723873",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-16T09:12:34Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6366,
-      "importance": 0.6366,
-      "importance_score": 0.6366,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.5832,
-        "source_tier": 0.58,
-        "ai_relevance": 0.81,
-        "recency": 0.817,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-16T09:12:34Z",
-      "latest_at": "2026-09-16T09:12:34Z",
-      "primary_item": {
-        "id": "f4a76f98f4d518d0e489f768c143dbf7b16c7017",
-        "title": "在大语言模型时代学习编程 / Learning Programming in an Age of LLMs",
-        "title_zh": "在大语言模型时代学习编程",
-        "title_en": "Learning Programming in an Age of LLMs",
-        "title_original": "Learning Programming in an Age of LLMs",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms",
-        "source": "Hacker News front page",
-        "source_name": "Curated Media"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-16T23:14:00.755334Z"
+        "scored_at": "2026-09-17T08:21:52.464349Z"
       }
     }
   ]
