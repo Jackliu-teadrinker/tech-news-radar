@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T07:57:20.499649Z",
+  "generated_at": "2026-09-17T12:33:07.376800Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -106,15 +106,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8729,
-      "importance": 0.8729,
-      "importance_score": 0.8729,
+      "score": 0.8641,
+      "importance": 0.8641,
+      "importance_score": 0.8641,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7605,
+        "recency": 0.7117,
         "story_heat": 0.5
       },
       "category": "official",
@@ -142,7 +142,120 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T08:21:52.464349Z"
+        "scored_at": "2026-09-17T12:56:04.156602Z"
+      }
+    },
+    {
+      "story_id": "story_76db13fd8fea",
+      "title": "OpenAI 发布模型失准披露框架并公开六份失准报告 / Our framework for reporting model misalignment",
+      "url": "https://openai.com/index/model-misalignment-reporting-framework",
+      "primary_url": "https://openai.com/index/model-misalignment-reporting-framework",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "9bd9c39f2ea2df15db99f22e470944b351e04a12",
+          "title": "OpenAI 发布模型失准披露框架并公开六份失准报告 / Our framework for reporting model misalignment",
+          "title_zh": "OpenAI 发布模型失准披露框架并公开六份失准报告",
+          "title_en": "Our framework for reporting model misalignment",
+          "title_original": "Our framework for reporting model misalignment",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/model-misalignment-reporting-framework",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-16T17:00:00Z"
+        },
+        {
+          "id": "02629937dd7cb9516ce7601580e191ad1ac1e54e",
+          "title": "OpenAI 发布模型失准披露框架并公开六份失准报告 / OpenAI Model Misalignment Report",
+          "title_zh": "OpenAI 发布模型失准披露框架并公开六份失准报告",
+          "title_en": "OpenAI Model Misalignment Report",
+          "title_original": "OpenAI Model Misalignment Report",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/model-misalignment-reporting-framework",
+          "source": "Hacker News front page",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-17T07:21:19Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News front page",
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "9bd9c39f2ea2df15db99f22e470944b351e04a12",
+          "title": "OpenAI 发布模型失准披露框架并公开六份失准报告 / Our framework for reporting model misalignment",
+          "title_zh": "OpenAI 发布模型失准披露框架并公开六份失准报告",
+          "title_en": "Our framework for reporting model misalignment",
+          "title_original": "Our framework for reporting model misalignment",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/model-misalignment-reporting-framework",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-16T17:00:00Z"
+        },
+        {
+          "id": "02629937dd7cb9516ce7601580e191ad1ac1e54e",
+          "title": "OpenAI 发布模型失准披露框架并公开六份失准报告 / OpenAI Model Misalignment Report",
+          "title_zh": "OpenAI 发布模型失准披露框架并公开六份失准报告",
+          "title_en": "OpenAI Model Misalignment Report",
+          "title_original": "OpenAI Model Misalignment Report",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/model-misalignment-reporting-framework",
+          "source": "Hacker News front page",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-17T07:21:19Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8467,
+      "importance": 0.8467,
+      "importance_score": 0.8467,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.754,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-16T17:00:00Z",
+      "latest_at": "2026-09-17T07:21:19Z",
+      "primary_item": {
+        "id": "9bd9c39f2ea2df15db99f22e470944b351e04a12",
+        "title": "OpenAI 发布模型失准披露框架并公开六份失准报告 / Our framework for reporting model misalignment",
+        "title_zh": "OpenAI 发布模型失准披露框架并公开六份失准报告",
+        "title_en": "Our framework for reporting model misalignment",
+        "title_original": "Our framework for reporting model misalignment",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/model-misalignment-reporting-framework",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-17T12:56:04.156602Z"
       }
     },
     {
@@ -277,15 +390,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8123,
-      "importance": 0.8123,
-      "importance_score": 0.8123,
+      "score": 0.8031,
+      "importance": 0.8031,
+      "importance_score": 0.8031,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.8042,
+        "recency": 0.7525,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -312,7 +425,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T08:21:52.464349Z"
+        "scored_at": "2026-09-17T12:56:04.156602Z"
       }
     },
     {
@@ -360,15 +473,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8035,
-      "importance": 0.8035,
-      "importance_score": 0.8035,
+      "score": 0.7931,
+      "importance": 0.7931,
+      "importance_score": 0.7931,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.76,
-        "recency": 0.8972,
+        "recency": 0.8396,
         "story_heat": 0.0
       },
       "category": "official",
@@ -394,90 +507,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T08:21:52.464349Z"
-      }
-    },
-    {
-      "story_id": "story_76db13fd8fea",
-      "title": "OpenAI 发布模型失准披露框架并公开六份失准报告 / Our framework for reporting model misalignment",
-      "url": "https://openai.com/index/model-misalignment-reporting-framework",
-      "primary_url": "https://openai.com/index/model-misalignment-reporting-framework",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "9bd9c39f2ea2df15db99f22e470944b351e04a12",
-          "title": "OpenAI 发布模型失准披露框架并公开六份失准报告 / Our framework for reporting model misalignment",
-          "title_zh": "OpenAI 发布模型失准披露框架并公开六份失准报告",
-          "title_en": "Our framework for reporting model misalignment",
-          "title_original": "Our framework for reporting model misalignment",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/model-misalignment-reporting-framework",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-16T17:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "9bd9c39f2ea2df15db99f22e470944b351e04a12",
-          "title": "OpenAI 发布模型失准披露框架并公开六份失准报告 / Our framework for reporting model misalignment",
-          "title_zh": "OpenAI 发布模型失准披露框架并公开六份失准报告",
-          "title_en": "Our framework for reporting model misalignment",
-          "title_original": "Our framework for reporting model misalignment",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/model-misalignment-reporting-framework",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-16T17:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.831,
-      "importance": 0.831,
-      "importance_score": 0.831,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.8058,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-16T17:00:00Z",
-      "latest_at": "2026-09-16T17:00:00Z",
-      "primary_item": {
-        "id": "9bd9c39f2ea2df15db99f22e470944b351e04a12",
-        "title": "OpenAI 发布模型失准披露框架并公开六份失准报告 / Our framework for reporting model misalignment",
-        "title_zh": "OpenAI 发布模型失准披露框架并公开六份失准报告",
-        "title_en": "Our framework for reporting model misalignment",
-        "title_original": "Our framework for reporting model misalignment",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/model-misalignment-reporting-framework",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-17T08:21:52.464349Z"
+        "scored_at": "2026-09-17T12:56:04.156602Z"
       }
     },
     {
@@ -525,15 +555,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7941,
-      "importance": 0.7941,
-      "importance_score": 0.7941,
+      "score": 0.7843,
+      "importance": 0.7843,
+      "importance_score": 0.7843,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.76,
-        "recency": 0.8449,
+        "recency": 0.7907,
         "story_heat": 0.0
       },
       "category": "official",
@@ -559,7 +589,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T08:21:52.464349Z"
+        "scored_at": "2026-09-17T12:56:04.156602Z"
       }
     },
     {
@@ -607,15 +637,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.829,
-      "importance": 0.829,
-      "importance_score": 0.829,
+      "score": 0.8198,
+      "importance": 0.8198,
+      "importance_score": 0.8198,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7942,
+        "recency": 0.7432,
         "story_heat": 0.0
       },
       "category": "official",
@@ -642,7 +672,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T08:21:52.464349Z"
+        "scored_at": "2026-09-17T12:56:04.156602Z"
       }
     },
     {
@@ -690,15 +720,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7687,
-      "importance": 0.7687,
-      "importance_score": 0.7687,
+      "score": 0.7586,
+      "importance": 0.7586,
+      "importance_score": 0.7586,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.8784,
+        "recency": 0.822,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -724,7 +754,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T08:21:52.464349Z"
+        "scored_at": "2026-09-17T12:56:04.156602Z"
       }
     },
     {
@@ -772,15 +802,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7882,
-      "importance": 0.7882,
-      "importance_score": 0.7882,
+      "score": 0.7784,
+      "importance": 0.7784,
+      "importance_score": 0.7784,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.73,
-        "recency": 0.8455,
+        "recency": 0.7912,
         "story_heat": 0.0
       },
       "category": "official",
@@ -806,30 +836,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T08:21:52.464349Z"
+        "scored_at": "2026-09-17T12:56:04.156602Z"
       }
     },
     {
-      "story_id": "story_c1ae6ddc6337",
-      "title": "Anthropic 合并 Claude 产品线：Cowork 与 Chat 合为一体，打造统一办公入口",
-      "url": "https://www.aibase.com/news/31125",
-      "primary_url": "https://www.aibase.com/news/31125",
+      "story_id": "story_52a7858a1b06",
+      "title": "​Anthropic大动作：将Chat与Cowork合并，推出Docs与Slides全新功能",
+      "url": "https://www.aibase.com/news/31134",
+      "primary_url": "https://www.aibase.com/news/31134",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "bd2df3ff800c7b60f55cd5b79780943be7f2d28f",
-          "title": "Anthropic 合并 Claude 产品线：Cowork 与 Chat 合为一体，打造统一办公入口",
-          "title_zh": "Anthropic 合并 Claude 产品线：Cowork 与 Chat 合为一体，打造统一办公入口",
+          "id": "3f1aca2baf650fb511f98091068f781cf2822fbe",
+          "title": "​Anthropic大动作：将Chat与Cowork合并，推出Docs与Slides全新功能",
+          "title_zh": "​Anthropic大动作：将Chat与Cowork合并，推出Docs与Slides全新功能",
           "title_en": null,
-          "title_original": "Anthropic 合并 Claude 产品线：Cowork 与 Chat 合为一体，打造统一办公入口",
+          "title_original": "​Anthropic大动作：将Chat与Cowork合并，推出Docs与Slides全新功能",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31125",
+          "url": "https://www.aibase.com/news/31134",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-17T07:57:20.499649Z"
+          "published_at": "2026-09-17T12:33:07.376800Z"
         }
       ],
       "source_count": 1,
@@ -838,18 +868,18 @@
       ],
       "items": [
         {
-          "id": "bd2df3ff800c7b60f55cd5b79780943be7f2d28f",
-          "title": "Anthropic 合并 Claude 产品线：Cowork 与 Chat 合为一体，打造统一办公入口",
-          "title_zh": "Anthropic 合并 Claude 产品线：Cowork 与 Chat 合为一体，打造统一办公入口",
+          "id": "3f1aca2baf650fb511f98091068f781cf2822fbe",
+          "title": "​Anthropic大动作：将Chat与Cowork合并，推出Docs与Slides全新功能",
+          "title_zh": "​Anthropic大动作：将Chat与Cowork合并，推出Docs与Slides全新功能",
           "title_en": null,
-          "title_original": "Anthropic 合并 Claude 产品线：Cowork 与 Chat 合为一体，打造统一办公入口",
+          "title_original": "​Anthropic大动作：将Chat与Cowork合并，推出Docs与Slides全新功能",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31125",
+          "url": "https://www.aibase.com/news/31134",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-17T07:57:20.499649Z"
+          "published_at": "2026-09-17T12:33:07.376800Z"
         }
       ],
       "item_count": 1,
@@ -869,17 +899,17 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-17T07:57:20.499649Z",
-      "latest_at": "2026-09-17T07:57:20.499649Z",
+      "earliest_at": "2026-09-17T12:33:07.376800Z",
+      "latest_at": "2026-09-17T12:33:07.376800Z",
       "primary_item": {
-        "id": "bd2df3ff800c7b60f55cd5b79780943be7f2d28f",
-        "title": "Anthropic 合并 Claude 产品线：Cowork 与 Chat 合为一体，打造统一办公入口",
-        "title_zh": "Anthropic 合并 Claude 产品线：Cowork 与 Chat 合为一体，打造统一办公入口",
+        "id": "3f1aca2baf650fb511f98091068f781cf2822fbe",
+        "title": "​Anthropic大动作：将Chat与Cowork合并，推出Docs与Slides全新功能",
+        "title_zh": "​Anthropic大动作：将Chat与Cowork合并，推出Docs与Slides全新功能",
         "title_en": null,
-        "title_original": "Anthropic 合并 Claude 产品线：Cowork 与 Chat 合为一体，打造统一办公入口",
+        "title_original": "​Anthropic大动作：将Chat与Cowork合并，推出Docs与Slides全新功能",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31125",
+        "url": "https://www.aibase.com/news/31134",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -887,7 +917,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T08:21:52.464349Z"
+        "scored_at": "2026-09-17T12:56:04.156602Z"
       }
     },
     {
@@ -964,15 +994,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7375,
-      "importance": 0.7375,
-      "importance_score": 0.7375,
+      "score": 0.7283,
+      "importance": 0.7283,
+      "importance_score": 0.7283,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.7997,
+        "recency": 0.7483,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -998,90 +1028,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T08:21:52.464349Z"
-      }
-    },
-    {
-      "story_id": "story_8c35cf0772a6",
-      "title": "How to connect AI usage to business value",
-      "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
-      "primary_url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "240870ecd56cd902b085ad5440133358690656e0",
-          "title": "How to connect AI usage to business value",
-          "title_zh": null,
-          "title_en": "How to connect AI usage to business value",
-          "title_original": "How to connect AI usage to business value",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-16T12:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "240870ecd56cd902b085ad5440133358690656e0",
-          "title": "How to connect AI usage to business value",
-          "title_zh": null,
-          "title_en": "How to connect AI usage to business value",
-          "title_original": "How to connect AI usage to business value",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-16T12:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8209,
-      "importance": 0.8209,
-      "importance_score": 0.8209,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.7496,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-16T12:00:00Z",
-      "latest_at": "2026-09-16T12:00:00Z",
-      "primary_item": {
-        "id": "240870ecd56cd902b085ad5440133358690656e0",
-        "title": "How to connect AI usage to business value",
-        "title_zh": null,
-        "title_en": "How to connect AI usage to business value",
-        "title_original": "How to connect AI usage to business value",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-17T08:21:52.464349Z"
+        "scored_at": "2026-09-17T12:56:04.156602Z"
       }
     },
     {
@@ -1129,15 +1076,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7882,
-      "importance": 0.7882,
-      "importance_score": 0.7882,
+      "score": 0.7784,
+      "importance": 0.7784,
+      "importance_score": 0.7784,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.73,
-        "recency": 0.8455,
+        "recency": 0.7912,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1163,7 +1110,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T08:21:52.464349Z"
+        "scored_at": "2026-09-17T12:56:04.156602Z"
+      }
+    },
+    {
+      "story_id": "story_c1ae6ddc6337",
+      "title": "Anthropic 合并 Claude 产品线：Cowork 与 Chat 合为一体，打造统一办公入口",
+      "url": "https://www.aibase.com/news/31125",
+      "primary_url": "https://www.aibase.com/news/31125",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "bd2df3ff800c7b60f55cd5b79780943be7f2d28f",
+          "title": "Anthropic 合并 Claude 产品线：Cowork 与 Chat 合为一体，打造统一办公入口",
+          "title_zh": "Anthropic 合并 Claude 产品线：Cowork 与 Chat 合为一体，打造统一办公入口",
+          "title_en": null,
+          "title_original": "Anthropic 合并 Claude 产品线：Cowork 与 Chat 合为一体，打造统一办公入口",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31125",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-17T07:57:20.499649Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "bd2df3ff800c7b60f55cd5b79780943be7f2d28f",
+          "title": "Anthropic 合并 Claude 产品线：Cowork 与 Chat 合为一体，打造统一办公入口",
+          "title_zh": "Anthropic 合并 Claude 产品线：Cowork 与 Chat 合为一体，打造统一办公入口",
+          "title_en": null,
+          "title_original": "Anthropic 合并 Claude 产品线：Cowork 与 Chat 合为一体，打造统一办公入口",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31125",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-17T07:57:20.499649Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7352,
+      "importance": 0.7352,
+      "importance_score": 0.7352,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.684,
+        "source_tier": 0.78,
+        "ai_relevance": 0.95,
+        "recency": 0.9358,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-17T07:57:20.499649Z",
+      "latest_at": "2026-09-17T07:57:20.499649Z",
+      "primary_item": {
+        "id": "bd2df3ff800c7b60f55cd5b79780943be7f2d28f",
+        "title": "Anthropic 合并 Claude 产品线：Cowork 与 Chat 合为一体，打造统一办公入口",
+        "title_zh": "Anthropic 合并 Claude 产品线：Cowork 与 Chat 合为一体，打造统一办公入口",
+        "title_en": null,
+        "title_original": "Anthropic 合并 Claude 产品线：Cowork 与 Chat 合为一体，打造统一办公入口",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31125",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-17T12:56:04.156602Z"
       }
     },
     {
@@ -1211,15 +1239,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7468,
-      "importance": 0.7468,
-      "importance_score": 0.7468,
+      "score": 0.7352,
+      "importance": 0.7352,
+      "importance_score": 0.7352,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.684,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 1.0,
+        "recency": 0.9358,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1244,171 +1272,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T08:21:52.464349Z"
-      }
-    },
-    {
-      "story_id": "story_20d27da6a9f4",
-      "title": "How workers are unlocking new ways of working",
-      "url": "https://openai.com/index/unlocking-new-ways-of-working",
-      "primary_url": "https://openai.com/index/unlocking-new-ways-of-working",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "f8d3a08c3fc26b24d1b8bfacd22d569ddb26f73a",
-          "title": "How workers are unlocking new ways of working",
-          "title_zh": null,
-          "title_en": "How workers are unlocking new ways of working",
-          "title_original": "How workers are unlocking new ways of working",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/unlocking-new-ways-of-working",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-16T09:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "f8d3a08c3fc26b24d1b8bfacd22d569ddb26f73a",
-          "title": "How workers are unlocking new ways of working",
-          "title_zh": null,
-          "title_en": "How workers are unlocking new ways of working",
-          "title_original": "How workers are unlocking new ways of working",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/unlocking-new-ways-of-working",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-16T09:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8152,
-      "importance": 0.8152,
-      "importance_score": 0.8152,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.7179,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-16T09:00:00Z",
-      "latest_at": "2026-09-16T09:00:00Z",
-      "primary_item": {
-        "id": "f8d3a08c3fc26b24d1b8bfacd22d569ddb26f73a",
-        "title": "How workers are unlocking new ways of working",
-        "title_zh": null,
-        "title_en": "How workers are unlocking new ways of working",
-        "title_original": "How workers are unlocking new ways of working",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/unlocking-new-ways-of-working",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-17T08:21:52.464349Z"
-      }
-    },
-    {
-      "story_id": "story_e356524096ff",
-      "title": "Claude 宣布重磅合并：化身“唯一入口”，正面硬刚微软",
-      "url": "https://www.aibase.com/news/31121",
-      "primary_url": "https://www.aibase.com/news/31121",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "6385b186684e3bd8987ed87649e02d588768933a",
-          "title": "Claude 宣布重磅合并：化身“唯一入口”，正面硬刚微软",
-          "title_zh": "Claude 宣布重磅合并：化身“唯一入口”，正面硬刚微软",
-          "title_en": null,
-          "title_original": "Claude 宣布重磅合并：化身“唯一入口”，正面硬刚微软",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31121",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-17T07:57:20.499649Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "6385b186684e3bd8987ed87649e02d588768933a",
-          "title": "Claude 宣布重磅合并：化身“唯一入口”，正面硬刚微软",
-          "title_zh": "Claude 宣布重磅合并：化身“唯一入口”，正面硬刚微软",
-          "title_en": null,
-          "title_original": "Claude 宣布重磅合并：化身“唯一入口”，正面硬刚微软",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31121",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-17T07:57:20.499649Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7468,
-      "importance": 0.7468,
-      "importance_score": 0.7468,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.684,
-        "source_tier": 0.78,
-        "ai_relevance": 0.95,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-17T07:57:20.499649Z",
-      "latest_at": "2026-09-17T07:57:20.499649Z",
-      "primary_item": {
-        "id": "6385b186684e3bd8987ed87649e02d588768933a",
-        "title": "Claude 宣布重磅合并：化身“唯一入口”，正面硬刚微软",
-        "title_zh": "Claude 宣布重磅合并：化身“唯一入口”，正面硬刚微软",
-        "title_en": null,
-        "title_original": "Claude 宣布重磅合并：化身“唯一入口”，正面硬刚微软",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31121",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-17T08:21:52.464349Z"
+        "scored_at": "2026-09-17T12:56:04.156602Z"
       }
     },
     {
@@ -1456,15 +1320,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7738,
-      "importance": 0.7738,
-      "importance_score": 0.7738,
+      "score": 0.7649,
+      "importance": 0.7649,
+      "importance_score": 0.7649,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.73,
-        "recency": 0.7653,
+        "recency": 0.7162,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1490,139 +1354,191 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T08:21:52.464349Z"
+        "scored_at": "2026-09-17T12:56:04.156602Z"
       }
     },
     {
-      "story_id": "story_019884f3679e",
-      "title": "英伟达宣布支持使用Rust进行原生GPU编程 / Nvidia announces native GPU programming in Rust",
-      "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels",
-      "primary_url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels",
+      "story_id": "story_e356524096ff",
+      "title": "Claude 宣布重磅合并：化身“唯一入口”，正面硬刚微软",
+      "url": "https://www.aibase.com/news/31121",
+      "primary_url": "https://www.aibase.com/news/31121",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "6385b186684e3bd8987ed87649e02d588768933a",
+          "title": "Claude 宣布重磅合并：化身“唯一入口”，正面硬刚微软",
+          "title_zh": "Claude 宣布重磅合并：化身“唯一入口”，正面硬刚微软",
+          "title_en": null,
+          "title_original": "Claude 宣布重磅合并：化身“唯一入口”，正面硬刚微软",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31121",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-17T07:57:20.499649Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "6385b186684e3bd8987ed87649e02d588768933a",
+          "title": "Claude 宣布重磅合并：化身“唯一入口”，正面硬刚微软",
+          "title_zh": "Claude 宣布重磅合并：化身“唯一入口”，正面硬刚微软",
+          "title_en": null,
+          "title_original": "Claude 宣布重磅合并：化身“唯一入口”，正面硬刚微软",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31121",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-17T07:57:20.499649Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7352,
+      "importance": 0.7352,
+      "importance_score": 0.7352,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.684,
+        "source_tier": 0.78,
+        "ai_relevance": 0.95,
+        "recency": 0.9358,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-17T07:57:20.499649Z",
+      "latest_at": "2026-09-17T07:57:20.499649Z",
+      "primary_item": {
+        "id": "6385b186684e3bd8987ed87649e02d588768933a",
+        "title": "Claude 宣布重磅合并：化身“唯一入口”，正面硬刚微软",
+        "title_zh": "Claude 宣布重磅合并：化身“唯一入口”，正面硬刚微软",
+        "title_en": null,
+        "title_original": "Claude 宣布重磅合并：化身“唯一入口”，正面硬刚微软",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31121",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-17T12:56:04.156602Z"
+      }
+    },
+    {
+      "story_id": "story_e7ce85bdeee7",
+      "title": "三元大语言模型突破1.58比特障碍 / Breaking the 1.58-bit Barrier for Ternary LLMs",
+      "url": "https://arxiv.org/abs/2609.16338",
+      "primary_url": "https://arxiv.org/abs/2609.16338",
       "source": "Hacker News front page",
       "source_name": "Curated Media",
       "sources": [
         {
-          "id": "cc813d164d4d51bca42be9ea28db02f6d059d0d5",
-          "title": "英伟达宣布支持使用Rust进行原生GPU编程 / Nvidia announces native GPU programming in Rust",
-          "title_zh": "英伟达宣布支持使用Rust进行原生GPU编程",
-          "title_en": "Nvidia announces native GPU programming in Rust",
-          "title_original": "Nvidia announces native GPU programming in Rust",
+          "id": "220177aa10fcd0c1bf9117e126206cf103f1f642",
+          "title": "三元大语言模型突破1.58比特障碍 / Breaking the 1.58-bit Barrier for Ternary LLMs",
+          "title_zh": "三元大语言模型突破1.58比特障碍",
+          "title_en": "Breaking the 1.58-bit Barrier for Ternary LLMs",
+          "title_original": "Breaking the 1.58-bit Barrier for Ternary LLMs",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels",
+          "url": "https://arxiv.org/abs/2609.16338",
           "source": "Hacker News front page",
           "source_name": "Curated Media",
           "site_id": "curated_media",
-          "published_at": "2026-09-16T11:15:53Z"
+          "published_at": "2026-09-16T20:59:24Z"
         },
         {
-          "id": "7d06b36966f01884965ac298959d207723228818",
-          "title": "英伟达宣布支持使用Rust进行原生GPU编程",
-          "title_zh": "英伟达宣布支持使用Rust进行原生GPU编程",
-          "title_en": null,
-          "title_original": "英伟达宣布支持使用Rust进行原生GPU编程",
+          "id": "0b84002066af70e017be58aa50516bb7bfd4025d",
+          "title": "打破三元LLM的 1.58 位障碍 / Breaking the 1.58-bit Barrier for Ternary LLMs",
+          "title_zh": "打破三元LLM的 1.58 位障碍",
+          "title_en": "Breaking the 1.58-bit Barrier for Ternary LLMs",
+          "title_original": "Breaking the 1.58-bit Barrier for Ternary LLMs",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels",
-          "source": "developer.nvidia.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-16T23:59:44.424000Z"
-        },
-        {
-          "id": "045bc1261837fd33f770e142ed4afce49d75dbe9",
-          "title": "Nvidia announces native GPU programming in Rust",
-          "title_zh": null,
-          "title_en": "Nvidia announces native GPU programming in Rust",
-          "title_original": "Nvidia announces native GPU programming in Rust",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49724881",
+          "url": "https://news.ycombinator.com/item?id=49732931",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-09-16T11:15:53Z"
+          "published_at": "2026-09-16T20:59:24Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 2,
       "source_names": [
         "Hacker News front page",
-        "developer.nvidia.com",
         "hackernews"
       ],
       "items": [
         {
-          "id": "cc813d164d4d51bca42be9ea28db02f6d059d0d5",
-          "title": "英伟达宣布支持使用Rust进行原生GPU编程 / Nvidia announces native GPU programming in Rust",
-          "title_zh": "英伟达宣布支持使用Rust进行原生GPU编程",
-          "title_en": "Nvidia announces native GPU programming in Rust",
-          "title_original": "Nvidia announces native GPU programming in Rust",
+          "id": "220177aa10fcd0c1bf9117e126206cf103f1f642",
+          "title": "三元大语言模型突破1.58比特障碍 / Breaking the 1.58-bit Barrier for Ternary LLMs",
+          "title_zh": "三元大语言模型突破1.58比特障碍",
+          "title_en": "Breaking the 1.58-bit Barrier for Ternary LLMs",
+          "title_original": "Breaking the 1.58-bit Barrier for Ternary LLMs",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels",
+          "url": "https://arxiv.org/abs/2609.16338",
           "source": "Hacker News front page",
           "source_name": "Curated Media",
           "site_id": "curated_media",
-          "published_at": "2026-09-16T11:15:53Z"
+          "published_at": "2026-09-16T20:59:24Z"
         },
         {
-          "id": "7d06b36966f01884965ac298959d207723228818",
-          "title": "英伟达宣布支持使用Rust进行原生GPU编程",
-          "title_zh": "英伟达宣布支持使用Rust进行原生GPU编程",
-          "title_en": null,
-          "title_original": "英伟达宣布支持使用Rust进行原生GPU编程",
+          "id": "0b84002066af70e017be58aa50516bb7bfd4025d",
+          "title": "打破三元LLM的 1.58 位障碍 / Breaking the 1.58-bit Barrier for Ternary LLMs",
+          "title_zh": "打破三元LLM的 1.58 位障碍",
+          "title_en": "Breaking the 1.58-bit Barrier for Ternary LLMs",
+          "title_original": "Breaking the 1.58-bit Barrier for Ternary LLMs",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels",
-          "source": "developer.nvidia.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-16T23:59:44.424000Z"
-        },
-        {
-          "id": "045bc1261837fd33f770e142ed4afce49d75dbe9",
-          "title": "Nvidia announces native GPU programming in Rust",
-          "title_zh": null,
-          "title_en": "Nvidia announces native GPU programming in Rust",
-          "title_original": "Nvidia announces native GPU programming in Rust",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49724881",
+          "url": "https://news.ycombinator.com/item?id=49732931",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-09-16T11:15:53Z"
+          "published_at": "2026-09-16T20:59:24Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.6605,
-      "importance": 0.6605,
-      "importance_score": 0.6605,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6333,
+      "importance": 0.6333,
+      "importance_score": 0.6333,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.6048,
+        "editorial": 0.5832,
         "source_tier": 0.58,
-        "ai_relevance": 0.84,
-        "recency": 0.7417,
-        "story_heat": 0.5
+        "ai_relevance": 0.81,
+        "recency": 0.7987,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "watch",
       "reasons": [
         "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-16T11:15:53Z",
-      "latest_at": "2026-09-16T23:59:44.424000Z",
+      "earliest_at": "2026-09-16T20:59:24Z",
+      "latest_at": "2026-09-16T20:59:24Z",
       "primary_item": {
-        "id": "cc813d164d4d51bca42be9ea28db02f6d059d0d5",
-        "title": "英伟达宣布支持使用Rust进行原生GPU编程 / Nvidia announces native GPU programming in Rust",
-        "title_zh": "英伟达宣布支持使用Rust进行原生GPU编程",
-        "title_en": "Nvidia announces native GPU programming in Rust",
-        "title_original": "Nvidia announces native GPU programming in Rust",
+        "id": "220177aa10fcd0c1bf9117e126206cf103f1f642",
+        "title": "三元大语言模型突破1.58比特障碍 / Breaking the 1.58-bit Barrier for Ternary LLMs",
+        "title_zh": "三元大语言模型突破1.58比特障碍",
+        "title_en": "Breaking the 1.58-bit Barrier for Ternary LLMs",
+        "title_original": "Breaking the 1.58-bit Barrier for Ternary LLMs",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels",
+        "url": "https://arxiv.org/abs/2609.16338",
         "source": "Hacker News front page",
         "source_name": "Curated Media"
       },
@@ -1630,7 +1546,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T08:21:52.464349Z"
+        "scored_at": "2026-09-17T12:56:04.156602Z"
       }
     },
     {
@@ -1678,15 +1594,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7468,
-      "importance": 0.7468,
-      "importance_score": 0.7468,
+      "score": 0.7352,
+      "importance": 0.7352,
+      "importance_score": 0.7352,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.684,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 1.0,
+        "recency": 0.9358,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1711,7 +1627,118 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T08:21:52.464349Z"
+        "scored_at": "2026-09-17T12:56:04.156602Z"
+      }
+    },
+    {
+      "story_id": "story_c8a4ea21195d",
+      "title": "PS5 Linux项目负责人离职：称“一群新手在滥用大语言模型（LLMs）”，而“他们根本不懂” / PS5 Linux lead quits: \"a bunch of noobs using LLMs\" that \"they don't understand\"",
+      "url": "https://frvr.com/blog/news/ps5-linux-lead-quits-as-open-source-projects-have-become-a-bunch-of-noobs-using-llms-that-they-dont-even-understand",
+      "primary_url": "https://frvr.com/blog/news/ps5-linux-lead-quits-as-open-source-projects-have-become-a-bunch-of-noobs-using-llms-that-they-dont-even-understand",
+      "source": "Hacker News front page",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "dcc069ed2ff6729e2fc14d3b9941ef0f32b14956",
+          "title": "PS5 Linux项目负责人离职：称“一群新手在滥用大语言模型（LLMs）”，而“他们根本不懂” / PS5 Linux lead quits: \"a bunch of noobs using LLMs\" that \"they don't understand\"",
+          "title_zh": "PS5 Linux项目负责人离职：称“一群新手在滥用大语言模型（LLMs）”，而“他们根本不懂”",
+          "title_en": "PS5 Linux lead quits: \"a bunch of noobs using LLMs\" that \"they don't understand\"",
+          "title_original": "PS5 Linux lead quits: \"a bunch of noobs using LLMs\" that \"they don't understand\"",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://frvr.com/blog/news/ps5-linux-lead-quits-as-open-source-projects-have-become-a-bunch-of-noobs-using-llms-that-they-dont-even-understand",
+          "source": "Hacker News front page",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-16T14:30:36Z"
+        },
+        {
+          "id": "27a790a93cf09f27184a7cb7cb028ca80e3918a3",
+          "title": "PS5 Linux项目负责人离职：称“一群新手在滥用大语言模型（LLMs）”，而“他们根本不懂”",
+          "title_zh": "PS5 Linux项目负责人离职：称“一群新手在滥用大语言模型（LLMs）”，而“他们根本不懂”",
+          "title_en": null,
+          "title_original": "PS5 Linux项目负责人离职：称“一群新手在滥用大语言模型（LLMs）”，而“他们根本不懂”",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://frvr.com/blog/news/ps5-linux-lead-quits-as-open-source-projects-have-become-a-bunch-of-noobs-using-llms-that-they-dont-even-understand",
+          "source": "frvr.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-16T15:19:20.606000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News front page",
+        "frvr.com"
+      ],
+      "items": [
+        {
+          "id": "dcc069ed2ff6729e2fc14d3b9941ef0f32b14956",
+          "title": "PS5 Linux项目负责人离职：称“一群新手在滥用大语言模型（LLMs）”，而“他们根本不懂” / PS5 Linux lead quits: \"a bunch of noobs using LLMs\" that \"they don't understand\"",
+          "title_zh": "PS5 Linux项目负责人离职：称“一群新手在滥用大语言模型（LLMs）”，而“他们根本不懂”",
+          "title_en": "PS5 Linux lead quits: \"a bunch of noobs using LLMs\" that \"they don't understand\"",
+          "title_original": "PS5 Linux lead quits: \"a bunch of noobs using LLMs\" that \"they don't understand\"",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://frvr.com/blog/news/ps5-linux-lead-quits-as-open-source-projects-have-become-a-bunch-of-noobs-using-llms-that-they-dont-even-understand",
+          "source": "Hacker News front page",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-16T14:30:36Z"
+        },
+        {
+          "id": "27a790a93cf09f27184a7cb7cb028ca80e3918a3",
+          "title": "PS5 Linux项目负责人离职：称“一群新手在滥用大语言模型（LLMs）”，而“他们根本不懂”",
+          "title_zh": "PS5 Linux项目负责人离职：称“一群新手在滥用大语言模型（LLMs）”，而“他们根本不懂”",
+          "title_en": null,
+          "title_original": "PS5 Linux项目负责人离职：称“一群新手在滥用大语言模型（LLMs）”，而“他们根本不懂”",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://frvr.com/blog/news/ps5-linux-lead-quits-as-open-source-projects-have-become-a-bunch-of-noobs-using-llms-that-they-dont-even-understand",
+          "source": "frvr.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-16T15:19:20.606000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.633,
+      "importance": 0.633,
+      "importance_score": 0.633,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.6048,
+        "source_tier": 0.58,
+        "ai_relevance": 0.84,
+        "recency": 0.7274,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-16T14:30:36Z",
+      "latest_at": "2026-09-16T15:19:20.606000Z",
+      "primary_item": {
+        "id": "dcc069ed2ff6729e2fc14d3b9941ef0f32b14956",
+        "title": "PS5 Linux项目负责人离职：称“一群新手在滥用大语言模型（LLMs）”，而“他们根本不懂” / PS5 Linux lead quits: \"a bunch of noobs using LLMs\" that \"they don't understand\"",
+        "title_zh": "PS5 Linux项目负责人离职：称“一群新手在滥用大语言模型（LLMs）”，而“他们根本不懂”",
+        "title_en": "PS5 Linux lead quits: \"a bunch of noobs using LLMs\" that \"they don't understand\"",
+        "title_original": "PS5 Linux lead quits: \"a bunch of noobs using LLMs\" that \"they don't understand\"",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://frvr.com/blog/news/ps5-linux-lead-quits-as-open-source-projects-have-become-a-bunch-of-noobs-using-llms-that-they-dont-even-understand",
+        "source": "Hacker News front page",
+        "source_name": "Curated Media"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-17T12:56:04.156602Z"
       }
     },
     {
@@ -1759,15 +1786,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7468,
-      "importance": 0.7468,
-      "importance_score": 0.7468,
+      "score": 0.7352,
+      "importance": 0.7352,
+      "importance_score": 0.7352,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.684,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 1.0,
+        "recency": 0.9358,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1792,139 +1819,109 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T08:21:52.464349Z"
+        "scored_at": "2026-09-17T12:56:04.156602Z"
       }
     },
     {
-      "story_id": "story_0fde9b3c225c",
-      "title": "DeepSeek v4.1 Flash 现已成为我们最优秀的黑客模型 / DeepSeek v4.1 Flash Is Now Our Best Hacking Model",
-      "url": "https://enclave.ai/blog/deepseek-v41-flash-is-now-our-best-hacking-model",
-      "primary_url": "https://enclave.ai/blog/deepseek-v41-flash-is-now-our-best-hacking-model",
+      "story_id": "story_dab8e1b0fb24",
+      "title": "Jev Ultrafast: A browser agent with a dynamic, indexed action space",
+      "url": "https://github.com/browser-use/jev-ultrafast",
+      "primary_url": "https://github.com/browser-use/jev-ultrafast",
       "source": "Hacker News front page",
       "source_name": "Curated Media",
       "sources": [
         {
-          "id": "448c68daf062bcca27c4a24c5a275e1fa37b6bfb",
-          "title": "DeepSeek v4.1 Flash 现已成为我们最优秀的黑客模型 / DeepSeek v4.1 Flash Is Now Our Best Hacking Model",
-          "title_zh": "DeepSeek v4.1 Flash 现已成为我们最优秀的黑客模型",
-          "title_en": "DeepSeek v4.1 Flash Is Now Our Best Hacking Model",
-          "title_original": "DeepSeek v4.1 Flash Is Now Our Best Hacking Model",
+          "id": "6a5774c2b14871c33268830100b4d689a2fb85f0",
+          "title": "Jev Ultrafast: A browser agent with a dynamic, indexed action space",
+          "title_zh": null,
+          "title_en": "Jev Ultrafast: A browser agent with a dynamic, indexed action space",
+          "title_original": "Jev Ultrafast: A browser agent with a dynamic, indexed action space",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://enclave.ai/blog/deepseek-v41-flash-is-now-our-best-hacking-model",
+          "url": "https://github.com/browser-use/jev-ultrafast",
           "source": "Hacker News front page",
           "source_name": "Curated Media",
           "site_id": "curated_media",
-          "published_at": "2026-09-16T12:19:55Z"
+          "published_at": "2026-09-17T03:12:05Z"
         },
         {
-          "id": "1885a860c6e7852e617b9481d525cbc4f5ca07ad",
-          "title": "DeepSeek v4.1 Flash 现已成为我们最优秀的黑客模型",
-          "title_zh": "DeepSeek v4.1 Flash 现已成为我们最优秀的黑客模型",
-          "title_en": null,
-          "title_original": "DeepSeek v4.1 Flash 现已成为我们最优秀的黑客模型",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://enclave.ai/blog/deepseek-v41-flash-is-now-our-best-hacking-model",
-          "source": "enclave.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-16T16:53:38.011000Z"
-        },
-        {
-          "id": "f6850e6d171b5eab4d58a46f382718e53ba50e97",
-          "title": "DeepSeek v4.1 Flash Is Now Our Best Hacking Model",
+          "id": "25060731fbbd917552828821916f67fd7c503645",
+          "title": "Jev Ultrafast: A browser agent with a dynamic, indexed action space",
           "title_zh": null,
-          "title_en": "DeepSeek v4.1 Flash Is Now Our Best Hacking Model",
-          "title_original": "DeepSeek v4.1 Flash Is Now Our Best Hacking Model",
+          "title_en": "Jev Ultrafast: A browser agent with a dynamic, indexed action space",
+          "title_original": "Jev Ultrafast: A browser agent with a dynamic, indexed action space",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49725800",
+          "url": "https://news.ycombinator.com/item?id=49735979",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-09-16T12:19:55Z"
+          "published_at": "2026-09-17T03:12:05Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 2,
       "source_names": [
         "Hacker News front page",
-        "enclave.ai",
         "hackernews"
       ],
       "items": [
         {
-          "id": "448c68daf062bcca27c4a24c5a275e1fa37b6bfb",
-          "title": "DeepSeek v4.1 Flash 现已成为我们最优秀的黑客模型 / DeepSeek v4.1 Flash Is Now Our Best Hacking Model",
-          "title_zh": "DeepSeek v4.1 Flash 现已成为我们最优秀的黑客模型",
-          "title_en": "DeepSeek v4.1 Flash Is Now Our Best Hacking Model",
-          "title_original": "DeepSeek v4.1 Flash Is Now Our Best Hacking Model",
+          "id": "6a5774c2b14871c33268830100b4d689a2fb85f0",
+          "title": "Jev Ultrafast: A browser agent with a dynamic, indexed action space",
+          "title_zh": null,
+          "title_en": "Jev Ultrafast: A browser agent with a dynamic, indexed action space",
+          "title_original": "Jev Ultrafast: A browser agent with a dynamic, indexed action space",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://enclave.ai/blog/deepseek-v41-flash-is-now-our-best-hacking-model",
+          "url": "https://github.com/browser-use/jev-ultrafast",
           "source": "Hacker News front page",
           "source_name": "Curated Media",
           "site_id": "curated_media",
-          "published_at": "2026-09-16T12:19:55Z"
+          "published_at": "2026-09-17T03:12:05Z"
         },
         {
-          "id": "1885a860c6e7852e617b9481d525cbc4f5ca07ad",
-          "title": "DeepSeek v4.1 Flash 现已成为我们最优秀的黑客模型",
-          "title_zh": "DeepSeek v4.1 Flash 现已成为我们最优秀的黑客模型",
-          "title_en": null,
-          "title_original": "DeepSeek v4.1 Flash 现已成为我们最优秀的黑客模型",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://enclave.ai/blog/deepseek-v41-flash-is-now-our-best-hacking-model",
-          "source": "enclave.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-16T16:53:38.011000Z"
-        },
-        {
-          "id": "f6850e6d171b5eab4d58a46f382718e53ba50e97",
-          "title": "DeepSeek v4.1 Flash Is Now Our Best Hacking Model",
+          "id": "25060731fbbd917552828821916f67fd7c503645",
+          "title": "Jev Ultrafast: A browser agent with a dynamic, indexed action space",
           "title_zh": null,
-          "title_en": "DeepSeek v4.1 Flash Is Now Our Best Hacking Model",
-          "title_original": "DeepSeek v4.1 Flash Is Now Our Best Hacking Model",
+          "title_en": "Jev Ultrafast: A browser agent with a dynamic, indexed action space",
+          "title_original": "Jev Ultrafast: A browser agent with a dynamic, indexed action space",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49725800",
+          "url": "https://news.ycombinator.com/item?id=49735979",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-09-16T12:19:55Z"
+          "published_at": "2026-09-17T03:12:05Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.6501,
-      "importance": 0.6501,
-      "importance_score": 0.6501,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6219,
+      "importance": 0.6219,
+      "importance_score": 0.6219,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.5832,
+        "editorial": 0.54,
         "source_tier": 0.58,
-        "ai_relevance": 0.81,
-        "recency": 0.7532,
-        "story_heat": 0.5
+        "ai_relevance": 0.75,
+        "recency": 0.8737,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "watch",
       "reasons": [
-        "multi_source",
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-09-16T12:19:55Z",
-      "latest_at": "2026-09-16T16:53:38.011000Z",
+      "earliest_at": "2026-09-17T03:12:05Z",
+      "latest_at": "2026-09-17T03:12:05Z",
       "primary_item": {
-        "id": "448c68daf062bcca27c4a24c5a275e1fa37b6bfb",
-        "title": "DeepSeek v4.1 Flash 现已成为我们最优秀的黑客模型 / DeepSeek v4.1 Flash Is Now Our Best Hacking Model",
-        "title_zh": "DeepSeek v4.1 Flash 现已成为我们最优秀的黑客模型",
-        "title_en": "DeepSeek v4.1 Flash Is Now Our Best Hacking Model",
-        "title_original": "DeepSeek v4.1 Flash Is Now Our Best Hacking Model",
+        "id": "6a5774c2b14871c33268830100b4d689a2fb85f0",
+        "title": "Jev Ultrafast: A browser agent with a dynamic, indexed action space",
+        "title_zh": null,
+        "title_en": "Jev Ultrafast: A browser agent with a dynamic, indexed action space",
+        "title_original": "Jev Ultrafast: A browser agent with a dynamic, indexed action space",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://enclave.ai/blog/deepseek-v41-flash-is-now-our-best-hacking-model",
+        "url": "https://github.com/browser-use/jev-ultrafast",
         "source": "Hacker News front page",
         "source_name": "Curated Media"
       },
@@ -1932,7 +1929,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T08:21:52.464349Z"
+        "scored_at": "2026-09-17T12:56:04.156602Z"
       }
     }
   ]
