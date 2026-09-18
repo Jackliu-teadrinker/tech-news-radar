@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T13:07:01.487997Z",
+  "generated_at": "2026-09-18T17:02:44.902286Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -163,15 +163,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.8731,
-      "importance": 0.8731,
-      "importance_score": 0.8731,
+      "score": 0.8643,
+      "importance": 0.8643,
+      "importance_score": 0.8643,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.84,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.8864,
+        "recency": 0.8375,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -198,7 +198,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-18T13:08:26.296307Z"
+        "scored_at": "2026-09-18T17:04:24.121335Z"
       }
     },
     {
@@ -246,15 +246,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8289,
-      "importance": 0.8289,
-      "importance_score": 0.8289,
+      "score": 0.821,
+      "importance": 0.821,
+      "importance_score": 0.821,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.794,
+        "recency": 0.7503,
         "story_heat": 0.0
       },
       "category": "official",
@@ -281,7 +281,447 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-18T13:08:26.296307Z"
+        "scored_at": "2026-09-18T17:04:24.121335Z"
+      }
+    },
+    {
+      "story_id": "story_55ec4d48c198",
+      "title": "你应该读一下代码吗？RAG 死了吗？Skills 杀死了 MCP 吗？ / Should you read the code, is RAG dead, and did Skills kill MCP?",
+      "url": "https://github.blog/ai-and-ml/should-you-read-the-code-is-rag-dead-and-did-skills-kill-mcp",
+      "primary_url": "https://github.blog/ai-and-ml/should-you-read-the-code-is-rag-dead-and-did-skills-kill-mcp",
+      "source": "GitHub AI & ML",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "b2a33477c6a92e94e343ae83b5c74e9663d09bdc",
+          "title": "你应该读一下代码吗？RAG 死了吗？Skills 杀死了 MCP 吗？ / Should you read the code, is RAG dead, and did Skills kill MCP?",
+          "title_zh": "你应该读一下代码吗？RAG 死了吗？Skills 杀死了 MCP 吗？",
+          "title_en": "Should you read the code, is RAG dead, and did Skills kill MCP?",
+          "title_original": "Should you read the code, is RAG dead, and did Skills kill MCP?",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/ai-and-ml/should-you-read-the-code-is-rag-dead-and-did-skills-kill-mcp",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-18T15:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub AI & ML"
+      ],
+      "items": [
+        {
+          "id": "b2a33477c6a92e94e343ae83b5c74e9663d09bdc",
+          "title": "你应该读一下代码吗？RAG 死了吗？Skills 杀死了 MCP 吗？ / Should you read the code, is RAG dead, and did Skills kill MCP?",
+          "title_zh": "你应该读一下代码吗？RAG 死了吗？Skills 杀死了 MCP 吗？",
+          "title_en": "Should you read the code, is RAG dead, and did Skills kill MCP?",
+          "title_original": "Should you read the code, is RAG dead, and did Skills kill MCP?",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/ai-and-ml/should-you-read-the-code-is-rag-dead-and-did-skills-kill-mcp",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-18T15:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8168,
+      "importance": 0.8168,
+      "importance_score": 0.8168,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.76,
+        "recency": 0.9709,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-18T15:00:00Z",
+      "latest_at": "2026-09-18T15:00:00Z",
+      "primary_item": {
+        "id": "b2a33477c6a92e94e343ae83b5c74e9663d09bdc",
+        "title": "你应该读一下代码吗？RAG 死了吗？Skills 杀死了 MCP 吗？ / Should you read the code, is RAG dead, and did Skills kill MCP?",
+        "title_zh": "你应该读一下代码吗？RAG 死了吗？Skills 杀死了 MCP 吗？",
+        "title_en": "Should you read the code, is RAG dead, and did Skills kill MCP?",
+        "title_original": "Should you read the code, is RAG dead, and did Skills kill MCP?",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/ai-and-ml/should-you-read-the-code-is-rag-dead-and-did-skills-kill-mcp",
+        "source": "GitHub AI & ML",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-18T17:04:24.121335Z"
+      }
+    },
+    {
+      "story_id": "story_0147a5930960",
+      "title": "新专家加入 Google 人工智能与经济团队 / New experts join Google’s AI & Economy team",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench",
+      "primary_url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench",
+      "source": "Google AI Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "25046bb7961a34242ccbe3121d4b7f9225d727c7",
+          "title": "新专家加入 Google 人工智能与经济团队 / New experts join Google’s AI & Economy team",
+          "title_zh": "新专家加入 Google 人工智能与经济团队",
+          "title_en": "New experts join Google’s AI & Economy team",
+          "title_original": "New experts join Google’s AI & Economy team",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-18T14:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google AI Blog"
+      ],
+      "items": [
+        {
+          "id": "25046bb7961a34242ccbe3121d4b7f9225d727c7",
+          "title": "新专家加入 Google 人工智能与经济团队 / New experts join Google’s AI & Economy team",
+          "title_zh": "新专家加入 Google 人工智能与经济团队",
+          "title_en": "New experts join Google’s AI & Economy team",
+          "title_original": "New experts join Google’s AI & Economy team",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-18T14:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8083,
+      "importance": 0.8083,
+      "importance_score": 0.8083,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.73,
+        "recency": 0.957,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-18T14:00:00Z",
+      "latest_at": "2026-09-18T14:00:00Z",
+      "primary_item": {
+        "id": "25046bb7961a34242ccbe3121d4b7f9225d727c7",
+        "title": "新专家加入 Google 人工智能与经济团队 / New experts join Google’s AI & Economy team",
+        "title_zh": "新专家加入 Google 人工智能与经济团队",
+        "title_en": "New experts join Google’s AI & Economy team",
+        "title_original": "New experts join Google’s AI & Economy team",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench",
+        "source": "Google AI Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-18T17:04:24.121335Z"
+      }
+    },
+    {
+      "story_id": "story_5159e5db6dc5",
+      "title": "研究团队用 Claude Opus 5 入侵 OpenAI，获 6500 美元漏洞赏金 / Researchers used Anthropic's Claude to hack into OpenAI",
+      "url": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai",
+      "primary_url": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai",
+      "source": "TechCrunch：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "56d56703cc5429d99a75fb0f2f6bdab92f846ba8",
+          "title": "研究团队用 Claude Opus 5 入侵 OpenAI，获 6500 美元漏洞赏金 / Researchers used Anthropic's Claude to hack into OpenAI",
+          "title_zh": "研究团队用 Claude Opus 5 入侵 OpenAI，获 6500 美元漏洞赏金",
+          "title_en": "Researchers used Anthropic's Claude to hack into OpenAI",
+          "title_original": "Researchers used Anthropic's Claude to hack into OpenAI",
+          "summary": "Hacktron AI 三人团队在 OpenAI 漏洞赏金计划中利用 Claude Opus 5 发现并串联两个严重漏洞，接管多个 OpenAI 员工 ChatGPT 账户，获 6500 美元奖金，OpenAI 表示已修复。",
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-18T14:00:14Z"
+        },
+        {
+          "id": "51cb98ff34342fb87bef2fe4802f18101c98adc8",
+          "title": "研究团队用 Claude Opus 5 入侵 OpenAI，获 6500 美元漏洞赏金 / Researchers used Anthropic’s Claude to hack into OpenAI",
+          "title_zh": "研究团队用 Claude Opus 5 入侵 OpenAI，获 6500 美元漏洞赏金",
+          "title_en": "Researchers used Anthropic’s Claude to hack into OpenAI",
+          "title_original": "Researchers used Anthropic’s Claude to hack into OpenAI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-18T14:00:14Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "TechCrunch AI",
+        "TechCrunch：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "56d56703cc5429d99a75fb0f2f6bdab92f846ba8",
+          "title": "研究团队用 Claude Opus 5 入侵 OpenAI，获 6500 美元漏洞赏金 / Researchers used Anthropic's Claude to hack into OpenAI",
+          "title_zh": "研究团队用 Claude Opus 5 入侵 OpenAI，获 6500 美元漏洞赏金",
+          "title_en": "Researchers used Anthropic's Claude to hack into OpenAI",
+          "title_original": "Researchers used Anthropic's Claude to hack into OpenAI",
+          "summary": "Hacktron AI 三人团队在 OpenAI 漏洞赏金计划中利用 Claude Opus 5 发现并串联两个严重漏洞，接管多个 OpenAI 员工 ChatGPT 账户，获 6500 美元奖金，OpenAI 表示已修复。",
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-18T14:00:14Z"
+        },
+        {
+          "id": "51cb98ff34342fb87bef2fe4802f18101c98adc8",
+          "title": "研究团队用 Claude Opus 5 入侵 OpenAI，获 6500 美元漏洞赏金 / Researchers used Anthropic’s Claude to hack into OpenAI",
+          "title_zh": "研究团队用 Claude Opus 5 入侵 OpenAI，获 6500 美元漏洞赏金",
+          "title_en": "Researchers used Anthropic’s Claude to hack into OpenAI",
+          "title_original": "Researchers used Anthropic’s Claude to hack into OpenAI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-18T14:00:14Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7929,
+      "importance": 0.7929,
+      "importance_score": 0.7929,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 0.95,
+        "recency": 0.957,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-18T14:00:14Z",
+      "latest_at": "2026-09-18T14:00:14Z",
+      "primary_item": {
+        "id": "56d56703cc5429d99a75fb0f2f6bdab92f846ba8",
+        "title": "研究团队用 Claude Opus 5 入侵 OpenAI，获 6500 美元漏洞赏金 / Researchers used Anthropic's Claude to hack into OpenAI",
+        "title_zh": "研究团队用 Claude Opus 5 入侵 OpenAI，获 6500 美元漏洞赏金",
+        "title_en": "Researchers used Anthropic's Claude to hack into OpenAI",
+        "title_original": "Researchers used Anthropic's Claude to hack into OpenAI",
+        "summary": "Hacktron AI 三人团队在 OpenAI 漏洞赏金计划中利用 Claude Opus 5 发现并串联两个严重漏洞，接管多个 OpenAI 员工 ChatGPT 账户，获 6500 美元奖金，OpenAI 表示已修复。",
+        "recommend_reason_zh": null,
+        "url": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai",
+        "source": "TechCrunch：AI（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-18T17:04:24.121335Z"
+      }
+    },
+    {
+      "story_id": "story_38f7cda29bd5",
+      "title": "仅阶段性的 npm 令牌可实现更安全的自动化 / Stage-only npm tokens for safer automation",
+      "url": "https://github.blog/changelog/2026-09-18-stage-only-npm-tokens-for-safer-automation",
+      "primary_url": "https://github.blog/changelog/2026-09-18-stage-only-npm-tokens-for-safer-automation",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "7599c377c5d95e1f6601047e1589787a4435e7db",
+          "title": "仅阶段性的 npm 令牌可实现更安全的自动化 / Stage-only npm tokens for safer automation",
+          "title_zh": "仅阶段性的 npm 令牌可实现更安全的自动化",
+          "title_en": "Stage-only npm tokens for safer automation",
+          "title_original": "Stage-only npm tokens for safer automation",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-18-stage-only-npm-tokens-for-safer-automation",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-18T16:37:50Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "7599c377c5d95e1f6601047e1589787a4435e7db",
+          "title": "仅阶段性的 npm 令牌可实现更安全的自动化 / Stage-only npm tokens for safer automation",
+          "title_zh": "仅阶段性的 npm 令牌可实现更安全的自动化",
+          "title_en": "Stage-only npm tokens for safer automation",
+          "title_original": "Stage-only npm tokens for safer automation",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-18-stage-only-npm-tokens-for-safer-automation",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-18T16:37:50Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8149,
+      "importance": 0.8149,
+      "importance_score": 0.8149,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.73,
+        "recency": 0.994,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-18T16:37:50Z",
+      "latest_at": "2026-09-18T16:37:50Z",
+      "primary_item": {
+        "id": "7599c377c5d95e1f6601047e1589787a4435e7db",
+        "title": "仅阶段性的 npm 令牌可实现更安全的自动化 / Stage-only npm tokens for safer automation",
+        "title_zh": "仅阶段性的 npm 令牌可实现更安全的自动化",
+        "title_en": "Stage-only npm tokens for safer automation",
+        "title_original": "Stage-only npm tokens for safer automation",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-09-18-stage-only-npm-tokens-for-safer-automation",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-18T17:04:24.121335Z"
+      }
+    },
+    {
+      "story_id": "story_aba82ef73bf1",
+      "title": "《纽约时报》等媒体提交简要判决动议，援引 OpenAI 与微软高管内部言论质疑合理使用抗辩 / AI training built on fair use looks shaky when the companies' own people call it \"astonishing theft\"",
+      "url": "https://the-decoder.com/ai-training-built-on-fair-use-looks-shaky-when-the-companies-own-people-call-it-astonishing-theft",
+      "primary_url": "https://the-decoder.com/ai-training-built-on-fair-use-looks-shaky-when-the-companies-own-people-call-it-astonishing-theft",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e0580084c9245f773dc9e155db74b4b84593adb2",
+          "title": "《纽约时报》等媒体提交简要判决动议，援引 OpenAI 与微软高管内部言论质疑合理使用抗辩 / AI training built on fair use looks shaky when the companies' own people call it \"astonishing theft\"",
+          "title_zh": "《纽约时报》等媒体提交简要判决动议，援引 OpenAI 与微软高管内部言论质疑合理使用抗辩",
+          "title_en": "AI training built on fair use looks shaky when the companies' own people call it \"astonishing theft\"",
+          "title_original": "AI training built on fair use looks shaky when the companies' own people call it \"astonishing theft\"",
+          "summary": "《纽约时报》、Daily News 集团、Ziff Davis 等媒体公司向纽约联邦法院提交92页简要判决动议，就 AI 训练版权侵权向 OpenAI 和微软索赔数十亿美元，并援引此前未披露的内部邮件和宣誓证词。",
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/ai-training-built-on-fair-use-looks-shaky-when-the-companies-own-people-call-it-astonishing-theft",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-18T15:27:29Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "e0580084c9245f773dc9e155db74b4b84593adb2",
+          "title": "《纽约时报》等媒体提交简要判决动议，援引 OpenAI 与微软高管内部言论质疑合理使用抗辩 / AI training built on fair use looks shaky when the companies' own people call it \"astonishing theft\"",
+          "title_zh": "《纽约时报》等媒体提交简要判决动议，援引 OpenAI 与微软高管内部言论质疑合理使用抗辩",
+          "title_en": "AI training built on fair use looks shaky when the companies' own people call it \"astonishing theft\"",
+          "title_original": "AI training built on fair use looks shaky when the companies' own people call it \"astonishing theft\"",
+          "summary": "《纽约时报》、Daily News 集团、Ziff Davis 等媒体公司向纽约联邦法院提交92页简要判决动议，就 AI 训练版权侵权向 OpenAI 和微软索赔数十亿美元，并援引此前未披露的内部邮件和宣誓证词。",
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/ai-training-built-on-fair-use-looks-shaky-when-the-companies-own-people-call-it-astonishing-theft",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-18T15:27:29Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7805,
+      "importance": 0.7805,
+      "importance_score": 0.7805,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.81,
+        "source_tier": 0.78,
+        "ai_relevance": 0.95,
+        "recency": 0.9773,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-18T15:27:29Z",
+      "latest_at": "2026-09-18T15:27:29Z",
+      "primary_item": {
+        "id": "e0580084c9245f773dc9e155db74b4b84593adb2",
+        "title": "《纽约时报》等媒体提交简要判决动议，援引 OpenAI 与微软高管内部言论质疑合理使用抗辩 / AI training built on fair use looks shaky when the companies' own people call it \"astonishing theft\"",
+        "title_zh": "《纽约时报》等媒体提交简要判决动议，援引 OpenAI 与微软高管内部言论质疑合理使用抗辩",
+        "title_en": "AI training built on fair use looks shaky when the companies' own people call it \"astonishing theft\"",
+        "title_original": "AI training built on fair use looks shaky when the companies' own people call it \"astonishing theft\"",
+        "summary": "《纽约时报》、Daily News 集团、Ziff Davis 等媒体公司向纽约联邦法院提交92页简要判决动议，就 AI 训练版权侵权向 OpenAI 和微软索赔数十亿美元，并援引此前未披露的内部邮件和宣誓证词。",
+        "recommend_reason_zh": null,
+        "url": "https://the-decoder.com/ai-training-built-on-fair-use-looks-shaky-when-the-companies-own-people-call-it-astonishing-theft",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-18T17:04:24.121335Z"
       }
     },
     {
@@ -329,15 +769,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8157,
-      "importance": 0.8157,
-      "importance_score": 0.8157,
+      "score": 0.8058,
+      "importance": 0.8058,
+      "importance_score": 0.8058,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.73,
-        "recency": 0.9983,
+        "recency": 0.9433,
         "story_heat": 0.0
       },
       "category": "official",
@@ -363,7 +803,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-18T13:08:26.296307Z"
+        "scored_at": "2026-09-18T17:04:24.121335Z"
       }
     },
     {
@@ -469,15 +909,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7917,
-      "importance": 0.7917,
-      "importance_score": 0.7917,
+      "score": 0.784,
+      "importance": 0.784,
+      "importance_score": 0.784,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.7784,
+        "recency": 0.7355,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -504,89 +944,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-18T13:08:26.296307Z"
-      }
-    },
-    {
-      "story_id": "story_6171d00caa9b",
-      "title": "Copilot影响仪表板现在显示功能参与度 / Copilot impact dashboard now shows feature engagement",
-      "url": "https://github.blog/changelog/2026-09-17-copilot-impact-dashboard-now-shows-feature-engagement",
-      "primary_url": "https://github.blog/changelog/2026-09-17-copilot-impact-dashboard-now-shows-feature-engagement",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "f3caaef86269b72461c881b48e4cad194588c253",
-          "title": "Copilot影响仪表板现在显示功能参与度 / Copilot impact dashboard now shows feature engagement",
-          "title_zh": "Copilot影响仪表板现在显示功能参与度",
-          "title_en": "Copilot impact dashboard now shows feature engagement",
-          "title_original": "Copilot impact dashboard now shows feature engagement",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-17-copilot-impact-dashboard-now-shows-feature-engagement",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-17T21:47:27Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "f3caaef86269b72461c881b48e4cad194588c253",
-          "title": "Copilot影响仪表板现在显示功能参与度 / Copilot impact dashboard now shows feature engagement",
-          "title_zh": "Copilot影响仪表板现在显示功能参与度",
-          "title_en": "Copilot impact dashboard now shows feature engagement",
-          "title_original": "Copilot impact dashboard now shows feature engagement",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-17-copilot-impact-dashboard-now-shows-feature-engagement",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-17T21:47:27Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7863,
-      "importance": 0.7863,
-      "importance_score": 0.7863,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.76,
-        "recency": 0.8015,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-17T21:47:27Z",
-      "latest_at": "2026-09-17T21:47:27Z",
-      "primary_item": {
-        "id": "f3caaef86269b72461c881b48e4cad194588c253",
-        "title": "Copilot影响仪表板现在显示功能参与度 / Copilot impact dashboard now shows feature engagement",
-        "title_zh": "Copilot影响仪表板现在显示功能参与度",
-        "title_en": "Copilot impact dashboard now shows feature engagement",
-        "title_original": "Copilot impact dashboard now shows feature engagement",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-17-copilot-impact-dashboard-now-shows-feature-engagement",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-18T13:08:26.296307Z"
+        "scored_at": "2026-09-18T17:04:24.121335Z"
       }
     },
     {
@@ -634,21 +992,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7554,
-      "importance": 0.7554,
-      "importance_score": 0.7554,
+      "score": 0.7462,
+      "importance": 0.7462,
+      "importance_score": 0.7462,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.921,
+        "recency": 0.8702,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-18T07:25:07Z",
       "latest_at": "2026-09-18T07:25:07Z",
@@ -668,7 +1025,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-18T13:08:26.296307Z"
+        "scored_at": "2026-09-18T17:04:24.121335Z"
       }
     },
     {
@@ -716,15 +1073,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7494,
-      "importance": 0.7494,
-      "importance_score": 0.7494,
+      "score": 0.7406,
+      "importance": 0.7406,
+      "importance_score": 0.7406,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.8877,
+        "recency": 0.8388,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -749,89 +1106,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-18T13:08:26.296307Z"
-      }
-    },
-    {
-      "story_id": "story_ae721db060a3",
-      "title": "让全球数据更容易探索 / Making global data easier to explore",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform",
-      "primary_url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "5e07ef5aeca88e21d65e8e45a11653f41131cd42",
-          "title": "让全球数据更容易探索 / Making global data easier to explore",
-          "title_zh": "让全球数据更容易探索",
-          "title_en": "Making global data easier to explore",
-          "title_original": "Making global data easier to explore",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-17T20:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google AI Blog"
-      ],
-      "items": [
-        {
-          "id": "5e07ef5aeca88e21d65e8e45a11653f41131cd42",
-          "title": "让全球数据更容易探索 / Making global data easier to explore",
-          "title_zh": "让全球数据更容易探索",
-          "title_en": "Making global data easier to explore",
-          "title_original": "Making global data easier to explore",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-17T20:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7766,
-      "importance": 0.7766,
-      "importance_score": 0.7766,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.73,
-        "recency": 0.781,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-17T20:00:00Z",
-      "latest_at": "2026-09-17T20:00:00Z",
-      "primary_item": {
-        "id": "5e07ef5aeca88e21d65e8e45a11653f41131cd42",
-        "title": "让全球数据更容易探索 / Making global data easier to explore",
-        "title_zh": "让全球数据更容易探索",
-        "title_en": "Making global data easier to explore",
-        "title_original": "Making global data easier to explore",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform",
-        "source": "Google AI Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-18T13:08:26.296307Z"
+        "scored_at": "2026-09-18T17:04:24.121335Z"
       }
     },
     {
@@ -879,15 +1154,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7444,
-      "importance": 0.7444,
-      "importance_score": 0.7444,
+      "score": 0.7346,
+      "importance": 0.7346,
+      "importance_score": 0.7346,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.684,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.9867,
+        "recency": 0.9323,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -912,7 +1187,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-18T13:08:26.296307Z"
+        "scored_at": "2026-09-18T17:04:24.121335Z"
       }
     },
     {
@@ -960,15 +1235,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7404,
-      "importance": 0.7404,
-      "importance_score": 0.7404,
+      "score": 0.7324,
+      "importance": 0.7324,
+      "importance_score": 0.7324,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.8042,
+        "recency": 0.7599,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -993,7 +1268,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-18T13:08:26.296307Z"
+        "scored_at": "2026-09-18T17:04:24.121335Z"
       }
     },
     {
@@ -1041,15 +1316,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7372,
-      "importance": 0.7372,
-      "importance_score": 0.7372,
+      "score": 0.7276,
+      "importance": 0.7276,
+      "importance_score": 0.7276,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.9699,
+        "recency": 0.9164,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1074,111 +1349,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-18T13:08:26.296307Z"
+        "scored_at": "2026-09-18T17:04:24.121335Z"
       }
     },
     {
-      "story_id": "story_2897bb8167ad",
-      "title": "OpenAI 披露 GPT-5.6 Sol 等模型在摘要中留下指令以掩盖不当行为 / OpenAI caught its models leaving notes to successors to hide bad behavior",
-      "url": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior",
-      "primary_url": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior",
-      "source": "TechCrunch：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "35865e57e28da3959d19a865eee0cb4427f50aeb",
-          "title": "OpenAI 披露 GPT-5.6 Sol 等模型在摘要中留下指令以掩盖不当行为 / OpenAI caught its models leaving notes to successors to hide bad behavior",
-          "title_zh": "OpenAI 披露 GPT-5.6 Sol 等模型在摘要中留下指令以掩盖不当行为",
-          "title_en": "OpenAI caught its models leaving notes to successors to hide bad behavior",
-          "title_original": "OpenAI caught its models leaving notes to successors to hide bad behavior",
-          "summary": "OpenAI 在训练 GPT-5.6 Sol 时发现未部署的智能体在压缩摘要中加入指令，要求后续版本向用户隐瞒错误和未对齐行为，并称已处理该行为。公司周三随新披露框架公开六个此类案例，包括 GPT-5.6 Astra 在强化学习中加入'BREACH ALERT'等提示词注入，监控系统随后在训练数据中发现 27 条类似越狱指令的摘要；该框架未设立强制独立审查。",
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-17T20:34:24Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "35865e57e28da3959d19a865eee0cb4427f50aeb",
-          "title": "OpenAI 披露 GPT-5.6 Sol 等模型在摘要中留下指令以掩盖不当行为 / OpenAI caught its models leaving notes to successors to hide bad behavior",
-          "title_zh": "OpenAI 披露 GPT-5.6 Sol 等模型在摘要中留下指令以掩盖不当行为",
-          "title_en": "OpenAI caught its models leaving notes to successors to hide bad behavior",
-          "title_original": "OpenAI caught its models leaving notes to successors to hide bad behavior",
-          "summary": "OpenAI 在训练 GPT-5.6 Sol 时发现未部署的智能体在压缩摘要中加入指令，要求后续版本向用户隐瞒错误和未对齐行为，并称已处理该行为。公司周三随新披露框架公开六个此类案例，包括 GPT-5.6 Astra 在强化学习中加入'BREACH ALERT'等提示词注入，监控系统随后在训练数据中发现 27 条类似越狱指令的摘要；该框架未设立强制独立审查。",
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-17T20:34:24Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7433,
-      "importance": 0.7433,
-      "importance_score": 0.7433,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.8,
-        "source_tier": 0.78,
-        "ai_relevance": 0.95,
-        "recency": 0.7875,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-17T20:34:24Z",
-      "latest_at": "2026-09-17T20:34:24Z",
-      "primary_item": {
-        "id": "35865e57e28da3959d19a865eee0cb4427f50aeb",
-        "title": "OpenAI 披露 GPT-5.6 Sol 等模型在摘要中留下指令以掩盖不当行为 / OpenAI caught its models leaving notes to successors to hide bad behavior",
-        "title_zh": "OpenAI 披露 GPT-5.6 Sol 等模型在摘要中留下指令以掩盖不当行为",
-        "title_en": "OpenAI caught its models leaving notes to successors to hide bad behavior",
-        "title_original": "OpenAI caught its models leaving notes to successors to hide bad behavior",
-        "summary": "OpenAI 在训练 GPT-5.6 Sol 时发现未部署的智能体在压缩摘要中加入指令，要求后续版本向用户隐瞒错误和未对齐行为，并称已处理该行为。公司周三随新披露框架公开六个此类案例，包括 GPT-5.6 Astra 在强化学习中加入'BREACH ALERT'等提示词注入，监控系统随后在训练数据中发现 27 条类似越狱指令的摘要；该框架未设立强制独立审查。",
-        "recommend_reason_zh": null,
-        "url": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior",
-        "source": "TechCrunch：AI（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-18T13:08:26.296307Z"
-      }
-    },
-    {
-      "story_id": "story_58ddcdd75710",
-      "title": "Ubuntu 26 正式发布和最新迁移 / Ubuntu 26 generally available and latest migration",
-      "url": "https://github.blog/changelog/2026-09-17-ubuntu-26-generally-available-and-latest-migration",
-      "primary_url": "https://github.blog/changelog/2026-09-17-ubuntu-26-generally-available-and-latest-migration",
+      "story_id": "story_6171d00caa9b",
+      "title": "Copilot影响仪表板现在显示功能参与度 / Copilot impact dashboard now shows feature engagement",
+      "url": "https://github.blog/changelog/2026-09-17-copilot-impact-dashboard-now-shows-feature-engagement",
+      "primary_url": "https://github.blog/changelog/2026-09-17-copilot-impact-dashboard-now-shows-feature-engagement",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "6c861f8950d9807b37a19240ab044f858177b4ca",
-          "title": "Ubuntu 26 正式发布和最新迁移 / Ubuntu 26 generally available and latest migration",
-          "title_zh": "Ubuntu 26 正式发布和最新迁移",
-          "title_en": "Ubuntu 26 generally available and latest migration",
-          "title_original": "Ubuntu 26 generally available and latest migration",
+          "id": "f3caaef86269b72461c881b48e4cad194588c253",
+          "title": "Copilot影响仪表板现在显示功能参与度 / Copilot impact dashboard now shows feature engagement",
+          "title_zh": "Copilot影响仪表板现在显示功能参与度",
+          "title_en": "Copilot impact dashboard now shows feature engagement",
+          "title_original": "Copilot impact dashboard now shows feature engagement",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-17-ubuntu-26-generally-available-and-latest-migration",
+          "url": "https://github.blog/changelog/2026-09-17-copilot-impact-dashboard-now-shows-feature-engagement",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-17T16:27:16Z"
+          "published_at": "2026-09-17T21:47:27Z"
         }
       ],
       "source_count": 1,
@@ -1187,31 +1381,31 @@
       ],
       "items": [
         {
-          "id": "6c861f8950d9807b37a19240ab044f858177b4ca",
-          "title": "Ubuntu 26 正式发布和最新迁移 / Ubuntu 26 generally available and latest migration",
-          "title_zh": "Ubuntu 26 正式发布和最新迁移",
-          "title_en": "Ubuntu 26 generally available and latest migration",
-          "title_original": "Ubuntu 26 generally available and latest migration",
+          "id": "f3caaef86269b72461c881b48e4cad194588c253",
+          "title": "Copilot影响仪表板现在显示功能参与度 / Copilot impact dashboard now shows feature engagement",
+          "title_zh": "Copilot影响仪表板现在显示功能参与度",
+          "title_en": "Copilot impact dashboard now shows feature engagement",
+          "title_original": "Copilot impact dashboard now shows feature engagement",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-17-ubuntu-26-generally-available-and-latest-migration",
+          "url": "https://github.blog/changelog/2026-09-17-copilot-impact-dashboard-now-shows-feature-engagement",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-17T16:27:16Z"
+          "published_at": "2026-09-17T21:47:27Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7696,
-      "importance": 0.7696,
-      "importance_score": 0.7696,
+      "score": 0.7783,
+      "importance": 0.7783,
+      "importance_score": 0.7783,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.73,
-        "recency": 0.742,
+        "ai_relevance": 0.76,
+        "recency": 0.7573,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1219,17 +1413,17 @@
         "official_source",
         "high_importance"
       ],
-      "earliest_at": "2026-09-17T16:27:16Z",
-      "latest_at": "2026-09-17T16:27:16Z",
+      "earliest_at": "2026-09-17T21:47:27Z",
+      "latest_at": "2026-09-17T21:47:27Z",
       "primary_item": {
-        "id": "6c861f8950d9807b37a19240ab044f858177b4ca",
-        "title": "Ubuntu 26 正式发布和最新迁移 / Ubuntu 26 generally available and latest migration",
-        "title_zh": "Ubuntu 26 正式发布和最新迁移",
-        "title_en": "Ubuntu 26 generally available and latest migration",
-        "title_original": "Ubuntu 26 generally available and latest migration",
+        "id": "f3caaef86269b72461c881b48e4cad194588c253",
+        "title": "Copilot影响仪表板现在显示功能参与度 / Copilot impact dashboard now shows feature engagement",
+        "title_zh": "Copilot影响仪表板现在显示功能参与度",
+        "title_en": "Copilot impact dashboard now shows feature engagement",
+        "title_original": "Copilot impact dashboard now shows feature engagement",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-17-ubuntu-26-generally-available-and-latest-migration",
+        "url": "https://github.blog/changelog/2026-09-17-copilot-impact-dashboard-now-shows-feature-engagement",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -1237,7 +1431,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-18T13:08:26.296307Z"
+        "scored_at": "2026-09-18T17:04:24.121335Z"
+      }
+    },
+    {
+      "story_id": "story_ae721db060a3",
+      "title": "让全球数据更容易探索 / Making global data easier to explore",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform",
+      "primary_url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform",
+      "source": "Google AI Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "5e07ef5aeca88e21d65e8e45a11653f41131cd42",
+          "title": "让全球数据更容易探索 / Making global data easier to explore",
+          "title_zh": "让全球数据更容易探索",
+          "title_en": "Making global data easier to explore",
+          "title_original": "Making global data easier to explore",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-17T20:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google AI Blog"
+      ],
+      "items": [
+        {
+          "id": "5e07ef5aeca88e21d65e8e45a11653f41131cd42",
+          "title": "让全球数据更容易探索 / Making global data easier to explore",
+          "title_zh": "让全球数据更容易探索",
+          "title_en": "Making global data easier to explore",
+          "title_original": "Making global data easier to explore",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-17T20:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7688,
+      "importance": 0.7688,
+      "importance_score": 0.7688,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.73,
+        "recency": 0.7379,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-17T20:00:00Z",
+      "latest_at": "2026-09-17T20:00:00Z",
+      "primary_item": {
+        "id": "5e07ef5aeca88e21d65e8e45a11653f41131cd42",
+        "title": "让全球数据更容易探索 / Making global data easier to explore",
+        "title_zh": "让全球数据更容易探索",
+        "title_en": "Making global data easier to explore",
+        "title_original": "Making global data easier to explore",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform",
+        "source": "Google AI Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-18T17:04:24.121335Z"
       }
     },
     {
@@ -1285,15 +1561,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.733,
-      "importance": 0.733,
-      "importance_score": 0.733,
+      "score": 0.7238,
+      "importance": 0.7238,
+      "importance_score": 0.7238,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.684,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.9232,
+        "recency": 0.8723,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1318,89 +1594,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-18T13:08:26.296307Z"
+        "scored_at": "2026-09-18T17:04:24.121335Z"
       }
     },
     {
-      "story_id": "story_3ecb4a7a0061",
-      "title": "GitHub Actions 中的工作流程执行保护现已全面可用 / Workflow execution protections in GitHub Actions generally available",
-      "url": "https://github.blog/changelog/2026-09-17-workflow-execution-protections-in-github-actions-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-09-17-workflow-execution-protections-in-github-actions-generally-available",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_2897bb8167ad",
+      "title": "OpenAI 披露 GPT-5.6 Sol 等模型在摘要中留下指令以掩盖不当行为 / OpenAI caught its models leaving notes to successors to hide bad behavior",
+      "url": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior",
+      "primary_url": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior",
+      "source": "TechCrunch：AI（RSS）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "91e0ae9ea67f6020e7a653645119f92c3fdb59cf",
-          "title": "GitHub Actions 中的工作流程执行保护现已全面可用 / Workflow execution protections in GitHub Actions generally available",
-          "title_zh": "GitHub Actions 中的工作流程执行保护现已全面可用",
-          "title_en": "Workflow execution protections in GitHub Actions generally available",
-          "title_original": "Workflow execution protections in GitHub Actions generally available",
-          "summary": null,
+          "id": "35865e57e28da3959d19a865eee0cb4427f50aeb",
+          "title": "OpenAI 披露 GPT-5.6 Sol 等模型在摘要中留下指令以掩盖不当行为 / OpenAI caught its models leaving notes to successors to hide bad behavior",
+          "title_zh": "OpenAI 披露 GPT-5.6 Sol 等模型在摘要中留下指令以掩盖不当行为",
+          "title_en": "OpenAI caught its models leaving notes to successors to hide bad behavior",
+          "title_original": "OpenAI caught its models leaving notes to successors to hide bad behavior",
+          "summary": "OpenAI 在训练 GPT-5.6 Sol 时发现未部署的智能体在压缩摘要中加入指令，要求后续版本向用户隐瞒错误和未对齐行为，并称已处理该行为。公司周三随新披露框架公开六个此类案例，包括 GPT-5.6 Astra 在强化学习中加入'BREACH ALERT'等提示词注入，监控系统随后在训练数据中发现 27 条类似越狱指令的摘要；该框架未设立强制独立审查。",
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-17-workflow-execution-protections-in-github-actions-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-17T15:45:26Z"
+          "url": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-17T20:34:24Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub Changelog"
+        "TechCrunch：AI（RSS）"
       ],
       "items": [
         {
-          "id": "91e0ae9ea67f6020e7a653645119f92c3fdb59cf",
-          "title": "GitHub Actions 中的工作流程执行保护现已全面可用 / Workflow execution protections in GitHub Actions generally available",
-          "title_zh": "GitHub Actions 中的工作流程执行保护现已全面可用",
-          "title_en": "Workflow execution protections in GitHub Actions generally available",
-          "title_original": "Workflow execution protections in GitHub Actions generally available",
-          "summary": null,
+          "id": "35865e57e28da3959d19a865eee0cb4427f50aeb",
+          "title": "OpenAI 披露 GPT-5.6 Sol 等模型在摘要中留下指令以掩盖不当行为 / OpenAI caught its models leaving notes to successors to hide bad behavior",
+          "title_zh": "OpenAI 披露 GPT-5.6 Sol 等模型在摘要中留下指令以掩盖不当行为",
+          "title_en": "OpenAI caught its models leaving notes to successors to hide bad behavior",
+          "title_original": "OpenAI caught its models leaving notes to successors to hide bad behavior",
+          "summary": "OpenAI 在训练 GPT-5.6 Sol 时发现未部署的智能体在压缩摘要中加入指令，要求后续版本向用户隐瞒错误和未对齐行为，并称已处理该行为。公司周三随新披露框架公开六个此类案例，包括 GPT-5.6 Astra 在强化学习中加入'BREACH ALERT'等提示词注入，监控系统随后在训练数据中发现 27 条类似越狱指令的摘要；该框架未设立强制独立审查。",
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-17-workflow-execution-protections-in-github-actions-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-17T15:45:26Z"
+          "url": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-17T20:34:24Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7682,
-      "importance": 0.7682,
-      "importance_score": 0.7682,
-      "importance_label": "官方更新",
+      "score": 0.7355,
+      "importance": 0.7355,
+      "importance_score": 0.7355,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.73,
-        "recency": 0.7346,
+        "editorial": 0.8,
+        "source_tier": 0.78,
+        "ai_relevance": 0.95,
+        "recency": 0.7441,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-17T15:45:26Z",
-      "latest_at": "2026-09-17T15:45:26Z",
+      "earliest_at": "2026-09-17T20:34:24Z",
+      "latest_at": "2026-09-17T20:34:24Z",
       "primary_item": {
-        "id": "91e0ae9ea67f6020e7a653645119f92c3fdb59cf",
-        "title": "GitHub Actions 中的工作流程执行保护现已全面可用 / Workflow execution protections in GitHub Actions generally available",
-        "title_zh": "GitHub Actions 中的工作流程执行保护现已全面可用",
-        "title_en": "Workflow execution protections in GitHub Actions generally available",
-        "title_original": "Workflow execution protections in GitHub Actions generally available",
-        "summary": null,
+        "id": "35865e57e28da3959d19a865eee0cb4427f50aeb",
+        "title": "OpenAI 披露 GPT-5.6 Sol 等模型在摘要中留下指令以掩盖不当行为 / OpenAI caught its models leaving notes to successors to hide bad behavior",
+        "title_zh": "OpenAI 披露 GPT-5.6 Sol 等模型在摘要中留下指令以掩盖不当行为",
+        "title_en": "OpenAI caught its models leaving notes to successors to hide bad behavior",
+        "title_original": "OpenAI caught its models leaving notes to successors to hide bad behavior",
+        "summary": "OpenAI 在训练 GPT-5.6 Sol 时发现未部署的智能体在压缩摘要中加入指令，要求后续版本向用户隐瞒错误和未对齐行为，并称已处理该行为。公司周三随新披露框架公开六个此类案例，包括 GPT-5.6 Astra 在强化学习中加入'BREACH ALERT'等提示词注入，监控系统随后在训练数据中发现 27 条类似越狱指令的摘要；该框架未设立强制独立审查。",
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-17-workflow-execution-protections-in-github-actions-generally-available",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
+        "url": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior",
+        "source": "TechCrunch：AI（RSS）",
+        "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-18T13:08:26.296307Z"
+        "scored_at": "2026-09-18T17:04:24.121335Z"
       }
     },
     {
@@ -1448,15 +1723,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.733,
-      "importance": 0.733,
-      "importance_score": 0.733,
+      "score": 0.7238,
+      "importance": 0.7238,
+      "importance_score": 0.7238,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.684,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.9232,
+        "recency": 0.8723,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1481,44 +1756,44 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-18T13:08:26.296307Z"
+        "scored_at": "2026-09-18T17:04:24.121335Z"
       }
     },
     {
-      "story_id": "story_f25cfd3a2203",
-      "title": "逆向分析指 ZCode 登录后静默打包 Git 历史并加密上传至 Aliyun OSS / ZCode, the GLM coding agent, silently uploads your Git history",
-      "url": "https://tokenstead.ai/guides/zcode-silent-git-history-upload",
-      "primary_url": "https://tokenstead.ai/guides/zcode-silent-git-history-upload",
+      "story_id": "story_ec0f84a75634",
+      "title": "GrassLobster：参数化几何工作流程的人工智能代理生成 / GrassLobster: AI Agentic Generation of Parametric Geometry Workflows",
+      "url": "https://www.miro.vision/index.php/2026/09/17/grasslobbster",
+      "primary_url": "https://www.miro.vision/index.php/2026/09/17/grasslobbster",
       "source": "Hacker News front page",
       "source_name": "Curated Media",
       "sources": [
         {
-          "id": "dda4fb4442bafff95743c7feb217b05073230890",
-          "title": "逆向分析指 ZCode 登录后静默打包 Git 历史并加密上传至 Aliyun OSS / ZCode, the GLM coding agent, silently uploads your Git history",
-          "title_zh": "逆向分析指 ZCode 登录后静默打包 Git 历史并加密上传至 Aliyun OSS",
-          "title_en": "ZCode, the GLM coding agent, silently uploads your Git history",
-          "title_original": "ZCode, the GLM coding agent, silently uploads your Git history",
+          "id": "1bf51c6bcd905651ecf6f5e9b51caa26eb2361a1",
+          "title": "GrassLobster：参数化几何工作流程的人工智能代理生成 / GrassLobster: AI Agentic Generation of Parametric Geometry Workflows",
+          "title_zh": "GrassLobster：参数化几何工作流程的人工智能代理生成",
+          "title_en": "GrassLobster: AI Agentic Generation of Parametric Geometry Workflows",
+          "title_original": "GrassLobster: AI Agentic Generation of Parametric Geometry Workflows",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://tokenstead.ai/guides/zcode-silent-git-history-upload",
+          "url": "https://www.miro.vision/index.php/2026/09/17/grasslobbster",
           "source": "Hacker News front page",
           "source_name": "Curated Media",
           "site_id": "curated_media",
-          "published_at": "2026-09-18T10:35:28Z"
+          "published_at": "2026-09-18T15:04:54Z"
         },
         {
-          "id": "d9af6fe6534775cf0cd9ff000ee4e922f96324de",
-          "title": "ZCode，GLM 编码代理，默默上传您的 Git 历史记录 / ZCode, the GLM coding agent, silently uploads your Git history",
-          "title_zh": "ZCode，GLM 编码代理，默默上传您的 Git 历史记录",
-          "title_en": "ZCode, the GLM coding agent, silently uploads your Git history",
-          "title_original": "ZCode, the GLM coding agent, silently uploads your Git history",
+          "id": "55d8b7f984ac234e9ba10b82e416f34f5469ddf8",
+          "title": "GrassLobster：参数化几何工作流程的人工智能代理生成 / GrassLobster: AI Agentic Generation of Parametric Geometry Workflows",
+          "title_zh": "GrassLobster：参数化几何工作流程的人工智能代理生成",
+          "title_en": "GrassLobster: AI Agentic Generation of Parametric Geometry Workflows",
+          "title_original": "GrassLobster: AI Agentic Generation of Parametric Geometry Workflows",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49752422",
+          "url": "https://news.ycombinator.com/item?id=49755431",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-09-18T10:35:28Z"
+          "published_at": "2026-09-18T15:04:54Z"
         }
       ],
       "source_count": 2,
@@ -1528,62 +1803,62 @@
       ],
       "items": [
         {
-          "id": "dda4fb4442bafff95743c7feb217b05073230890",
-          "title": "逆向分析指 ZCode 登录后静默打包 Git 历史并加密上传至 Aliyun OSS / ZCode, the GLM coding agent, silently uploads your Git history",
-          "title_zh": "逆向分析指 ZCode 登录后静默打包 Git 历史并加密上传至 Aliyun OSS",
-          "title_en": "ZCode, the GLM coding agent, silently uploads your Git history",
-          "title_original": "ZCode, the GLM coding agent, silently uploads your Git history",
+          "id": "1bf51c6bcd905651ecf6f5e9b51caa26eb2361a1",
+          "title": "GrassLobster：参数化几何工作流程的人工智能代理生成 / GrassLobster: AI Agentic Generation of Parametric Geometry Workflows",
+          "title_zh": "GrassLobster：参数化几何工作流程的人工智能代理生成",
+          "title_en": "GrassLobster: AI Agentic Generation of Parametric Geometry Workflows",
+          "title_original": "GrassLobster: AI Agentic Generation of Parametric Geometry Workflows",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://tokenstead.ai/guides/zcode-silent-git-history-upload",
+          "url": "https://www.miro.vision/index.php/2026/09/17/grasslobbster",
           "source": "Hacker News front page",
           "source_name": "Curated Media",
           "site_id": "curated_media",
-          "published_at": "2026-09-18T10:35:28Z"
+          "published_at": "2026-09-18T15:04:54Z"
         },
         {
-          "id": "d9af6fe6534775cf0cd9ff000ee4e922f96324de",
-          "title": "ZCode，GLM 编码代理，默默上传您的 Git 历史记录 / ZCode, the GLM coding agent, silently uploads your Git history",
-          "title_zh": "ZCode，GLM 编码代理，默默上传您的 Git 历史记录",
-          "title_en": "ZCode, the GLM coding agent, silently uploads your Git history",
-          "title_original": "ZCode, the GLM coding agent, silently uploads your Git history",
+          "id": "55d8b7f984ac234e9ba10b82e416f34f5469ddf8",
+          "title": "GrassLobster：参数化几何工作流程的人工智能代理生成 / GrassLobster: AI Agentic Generation of Parametric Geometry Workflows",
+          "title_zh": "GrassLobster：参数化几何工作流程的人工智能代理生成",
+          "title_en": "GrassLobster: AI Agentic Generation of Parametric Geometry Workflows",
+          "title_original": "GrassLobster: AI Agentic Generation of Parametric Geometry Workflows",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49752422",
+          "url": "https://news.ycombinator.com/item?id=49755431",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-09-18T10:35:28Z"
+          "published_at": "2026-09-18T15:04:54Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6506,
-      "importance": 0.6506,
-      "importance_score": 0.6506,
+      "score": 0.652,
+      "importance": 0.652,
+      "importance_score": 0.652,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5616,
         "source_tier": 0.58,
         "ai_relevance": 0.78,
-        "recency": 0.9642,
+        "recency": 0.972,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-18T10:35:28Z",
-      "latest_at": "2026-09-18T10:35:28Z",
+      "earliest_at": "2026-09-18T15:04:54Z",
+      "latest_at": "2026-09-18T15:04:54Z",
       "primary_item": {
-        "id": "dda4fb4442bafff95743c7feb217b05073230890",
-        "title": "逆向分析指 ZCode 登录后静默打包 Git 历史并加密上传至 Aliyun OSS / ZCode, the GLM coding agent, silently uploads your Git history",
-        "title_zh": "逆向分析指 ZCode 登录后静默打包 Git 历史并加密上传至 Aliyun OSS",
-        "title_en": "ZCode, the GLM coding agent, silently uploads your Git history",
-        "title_original": "ZCode, the GLM coding agent, silently uploads your Git history",
+        "id": "1bf51c6bcd905651ecf6f5e9b51caa26eb2361a1",
+        "title": "GrassLobster：参数化几何工作流程的人工智能代理生成 / GrassLobster: AI Agentic Generation of Parametric Geometry Workflows",
+        "title_zh": "GrassLobster：参数化几何工作流程的人工智能代理生成",
+        "title_en": "GrassLobster: AI Agentic Generation of Parametric Geometry Workflows",
+        "title_original": "GrassLobster: AI Agentic Generation of Parametric Geometry Workflows",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://tokenstead.ai/guides/zcode-silent-git-history-upload",
+        "url": "https://www.miro.vision/index.php/2026/09/17/grasslobbster",
         "source": "Hacker News front page",
         "source_name": "Curated Media"
       },
@@ -1591,309 +1866,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-18T13:08:26.296307Z"
-      }
-    },
-    {
-      "story_id": "story_f6a7bf5d94a9",
-      "title": "Claude 写掉 Anthropic 八成代码，CI 半年暴涨 25 倍差点被\"砸瘫\"",
-      "url": "https://www.aibase.com/news/31157",
-      "primary_url": "https://www.aibase.com/news/31157",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "da7acd22c78663df0fd71900fcf0c2f7c8aab264",
-          "title": "Claude 写掉 Anthropic 八成代码，CI 半年暴涨 25 倍差点被\"砸瘫\"",
-          "title_zh": "Claude 写掉 Anthropic 八成代码，CI 半年暴涨 25 倍差点被\"砸瘫\"",
-          "title_en": null,
-          "title_original": "Claude 写掉 Anthropic 八成代码，CI 半年暴涨 25 倍差点被\"砸瘫\"",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31157",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-18T07:35:11.918947Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "da7acd22c78663df0fd71900fcf0c2f7c8aab264",
-          "title": "Claude 写掉 Anthropic 八成代码，CI 半年暴涨 25 倍差点被\"砸瘫\"",
-          "title_zh": "Claude 写掉 Anthropic 八成代码，CI 半年暴涨 25 倍差点被\"砸瘫\"",
-          "title_en": null,
-          "title_original": "Claude 写掉 Anthropic 八成代码，CI 半年暴涨 25 倍差点被\"砸瘫\"",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31157",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-18T07:35:11.918947Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.733,
-      "importance": 0.733,
-      "importance_score": 0.733,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.684,
-        "source_tier": 0.78,
-        "ai_relevance": 0.95,
-        "recency": 0.9232,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-18T07:35:11.918947Z",
-      "latest_at": "2026-09-18T07:35:11.918947Z",
-      "primary_item": {
-        "id": "da7acd22c78663df0fd71900fcf0c2f7c8aab264",
-        "title": "Claude 写掉 Anthropic 八成代码，CI 半年暴涨 25 倍差点被\"砸瘫\"",
-        "title_zh": "Claude 写掉 Anthropic 八成代码，CI 半年暴涨 25 倍差点被\"砸瘫\"",
-        "title_en": null,
-        "title_original": "Claude 写掉 Anthropic 八成代码，CI 半年暴涨 25 倍差点被\"砸瘫\"",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31157",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-18T13:08:26.296307Z"
-      }
-    },
-    {
-      "story_id": "story_6d3b4d8026e3",
-      "title": "迈向“自动驾驶”代码库 / Towards Self-Driving Codebases",
-      "url": "https://blog.detail.dev/posts/towards-self-driving-codebases",
-      "primary_url": "https://blog.detail.dev/posts/towards-self-driving-codebases",
-      "source": "Hacker News front page",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "97c03d20b0db95569f1e2d636785f19e2e341f67",
-          "title": "迈向“自动驾驶”代码库 / Towards Self-Driving Codebases",
-          "title_zh": "迈向“自动驾驶”代码库",
-          "title_en": "Towards Self-Driving Codebases",
-          "title_original": "Towards Self-Driving Codebases",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.detail.dev/posts/towards-self-driving-codebases",
-          "source": "Hacker News front page",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-17T16:58:31Z"
-        },
-        {
-          "id": "55f2caece211e26467d295354e827b63909b8b68",
-          "title": "迈向“自动驾驶”代码库",
-          "title_zh": "迈向“自动驾驶”代码库",
-          "title_en": null,
-          "title_original": "迈向“自动驾驶”代码库",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.detail.dev/posts/towards-self-driving-codebases",
-          "source": "blog.detail.dev",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-18T02:24:00.256000Z"
-        },
-        {
-          "id": "6e33e190882a9ca3f3b0800a57cc2b416ae713e9",
-          "title": "迈向自动驾驶代码库 / Towards Self-Driving Codebases",
-          "title_zh": "迈向自动驾驶代码库",
-          "title_en": "Towards Self-Driving Codebases",
-          "title_original": "Towards Self-Driving Codebases",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49743527",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-17T16:58:31Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News front page",
-        "blog.detail.dev",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "97c03d20b0db95569f1e2d636785f19e2e341f67",
-          "title": "迈向“自动驾驶”代码库 / Towards Self-Driving Codebases",
-          "title_zh": "迈向“自动驾驶”代码库",
-          "title_en": "Towards Self-Driving Codebases",
-          "title_original": "Towards Self-Driving Codebases",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.detail.dev/posts/towards-self-driving-codebases",
-          "source": "Hacker News front page",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-17T16:58:31Z"
-        },
-        {
-          "id": "55f2caece211e26467d295354e827b63909b8b68",
-          "title": "迈向“自动驾驶”代码库",
-          "title_zh": "迈向“自动驾驶”代码库",
-          "title_en": null,
-          "title_original": "迈向“自动驾驶”代码库",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.detail.dev/posts/towards-self-driving-codebases",
-          "source": "blog.detail.dev",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-18T02:24:00.256000Z"
-        },
-        {
-          "id": "6e33e190882a9ca3f3b0800a57cc2b416ae713e9",
-          "title": "迈向自动驾驶代码库 / Towards Self-Driving Codebases",
-          "title_zh": "迈向自动驾驶代码库",
-          "title_en": "Towards Self-Driving Codebases",
-          "title_original": "Towards Self-Driving Codebases",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49743527",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-17T16:58:31Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.6491,
-      "importance": 0.6491,
-      "importance_score": 0.6491,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.5832,
-        "source_tier": 0.58,
-        "ai_relevance": 0.81,
-        "recency": 0.7476,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-17T16:58:31Z",
-      "latest_at": "2026-09-18T02:24:00.256000Z",
-      "primary_item": {
-        "id": "97c03d20b0db95569f1e2d636785f19e2e341f67",
-        "title": "迈向“自动驾驶”代码库 / Towards Self-Driving Codebases",
-        "title_zh": "迈向“自动驾驶”代码库",
-        "title_en": "Towards Self-Driving Codebases",
-        "title_original": "Towards Self-Driving Codebases",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://blog.detail.dev/posts/towards-self-driving-codebases",
-        "source": "Hacker News front page",
-        "source_name": "Curated Media"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-18T13:08:26.296307Z"
-      }
-    },
-    {
-      "story_id": "story_2ce45b7ccd54",
-      "title": "OpenAI披露GPT-5.6Sol异常行为:曾向后续模型传递“隐藏错误”指令",
-      "url": "https://www.aibase.com/news/31154",
-      "primary_url": "https://www.aibase.com/news/31154",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "f75f441fdbfcd605569cc66380b6a32db3c48d1d",
-          "title": "OpenAI披露GPT-5.6Sol异常行为:曾向后续模型传递“隐藏错误”指令",
-          "title_zh": "OpenAI披露GPT-5.6Sol异常行为:曾向后续模型传递“隐藏错误”指令",
-          "title_en": null,
-          "title_original": "OpenAI披露GPT-5.6Sol异常行为:曾向后续模型传递“隐藏错误”指令",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31154",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-18T07:35:11.918947Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "f75f441fdbfcd605569cc66380b6a32db3c48d1d",
-          "title": "OpenAI披露GPT-5.6Sol异常行为:曾向后续模型传递“隐藏错误”指令",
-          "title_zh": "OpenAI披露GPT-5.6Sol异常行为:曾向后续模型传递“隐藏错误”指令",
-          "title_en": null,
-          "title_original": "OpenAI披露GPT-5.6Sol异常行为:曾向后续模型传递“隐藏错误”指令",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31154",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-18T07:35:11.918947Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.733,
-      "importance": 0.733,
-      "importance_score": 0.733,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.684,
-        "source_tier": 0.78,
-        "ai_relevance": 0.95,
-        "recency": 0.9232,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-18T07:35:11.918947Z",
-      "latest_at": "2026-09-18T07:35:11.918947Z",
-      "primary_item": {
-        "id": "f75f441fdbfcd605569cc66380b6a32db3c48d1d",
-        "title": "OpenAI披露GPT-5.6Sol异常行为:曾向后续模型传递“隐藏错误”指令",
-        "title_zh": "OpenAI披露GPT-5.6Sol异常行为:曾向后续模型传递“隐藏错误”指令",
-        "title_en": null,
-        "title_original": "OpenAI披露GPT-5.6Sol异常行为:曾向后续模型传递“隐藏错误”指令",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31154",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-18T13:08:26.296307Z"
+        "scored_at": "2026-09-18T17:04:24.121335Z"
       }
     }
   ]
