@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T19:30:37.041661Z",
+  "generated_at": "2026-09-18T21:10:36.643823Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -163,15 +163,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.8591,
-      "importance": 0.8591,
-      "importance_score": 0.8591,
+      "score": 0.8556,
+      "importance": 0.8556,
+      "importance_score": 0.8556,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.84,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.8082,
+        "recency": 0.789,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -198,63 +198,63 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-18T19:31:52.056996Z"
+        "scored_at": "2026-09-18T21:11:58.963242Z"
       }
     },
     {
-      "story_id": "story_633c0a236b12",
-      "title": "代理 CLI 自定义现在位于使用指标 API 中 / Agentic CLI customizations now in the usage metrics API",
-      "url": "https://github.blog/changelog/2026-09-17-agentic-cli-customizations-now-in-the-usage-metrics-api",
-      "primary_url": "https://github.blog/changelog/2026-09-17-agentic-cli-customizations-now-in-the-usage-metrics-api",
-      "source": "GitHub Changelog",
+      "story_id": "story_afd1393311c5",
+      "title": "Codex CLI 0.155.1",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "ac20b241cea8010c0b1ebfa1cdbd5a710cc14587",
-          "title": "代理 CLI 自定义现在位于使用指标 API 中 / Agentic CLI customizations now in the usage metrics API",
-          "title_zh": "代理 CLI 自定义现在位于使用指标 API 中",
-          "title_en": "Agentic CLI customizations now in the usage metrics API",
-          "title_original": "Agentic CLI customizations now in the usage metrics API",
+          "id": "e3af0e76504a572eafec3af003d83d22abbed670",
+          "title": "Codex CLI 0.155.1",
+          "title_zh": null,
+          "title_en": "Codex CLI 0.155.1",
+          "title_original": "Codex CLI 0.155.1",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-17-agentic-cli-customizations-now-in-the-usage-metrics-api",
-          "source": "GitHub Changelog",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-17T21:08:50Z"
+          "published_at": "2026-09-18T00:00:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub Changelog"
+        "OpenAI Codex Changelog"
       ],
       "items": [
         {
-          "id": "ac20b241cea8010c0b1ebfa1cdbd5a710cc14587",
-          "title": "代理 CLI 自定义现在位于使用指标 API 中 / Agentic CLI customizations now in the usage metrics API",
-          "title_zh": "代理 CLI 自定义现在位于使用指标 API 中",
-          "title_en": "Agentic CLI customizations now in the usage metrics API",
-          "title_original": "Agentic CLI customizations now in the usage metrics API",
+          "id": "e3af0e76504a572eafec3af003d83d22abbed670",
+          "title": "Codex CLI 0.155.1",
+          "title_zh": null,
+          "title_en": "Codex CLI 0.155.1",
+          "title_original": "Codex CLI 0.155.1",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-17-agentic-cli-customizations-now-in-the-usage-metrics-api",
-          "source": "GitHub Changelog",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-17T21:08:50Z"
+          "published_at": "2026-09-18T00:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8163,
-      "importance": 0.8163,
-      "importance_score": 0.8163,
+      "score": 0.8226,
+      "importance": 0.8226,
+      "importance_score": 0.8226,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.724,
+        "ai_relevance": 1.0,
+        "recency": 0.7365,
         "story_heat": 0.0
       },
       "category": "official",
@@ -263,17 +263,99 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-17T21:08:50Z",
-      "latest_at": "2026-09-17T21:08:50Z",
+      "earliest_at": "2026-09-18T00:00:00Z",
+      "latest_at": "2026-09-18T00:00:00Z",
       "primary_item": {
-        "id": "ac20b241cea8010c0b1ebfa1cdbd5a710cc14587",
-        "title": "代理 CLI 自定义现在位于使用指标 API 中 / Agentic CLI customizations now in the usage metrics API",
-        "title_zh": "代理 CLI 自定义现在位于使用指标 API 中",
-        "title_en": "Agentic CLI customizations now in the usage metrics API",
-        "title_original": "Agentic CLI customizations now in the usage metrics API",
+        "id": "e3af0e76504a572eafec3af003d83d22abbed670",
+        "title": "Codex CLI 0.155.1",
+        "title_zh": null,
+        "title_en": "Codex CLI 0.155.1",
+        "title_original": "Codex CLI 0.155.1",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-17-agentic-cli-customizations-now-in-the-usage-metrics-api",
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-18T21:11:58.963242Z"
+      }
+    },
+    {
+      "story_id": "story_48ff8a06680b",
+      "title": "使用 REST API 管理代码覆盖率规则集条件 / Manage the code coverage ruleset condition with the REST API",
+      "url": "https://github.blog/changelog/2026-09-18-manage-the-code-coverage-ruleset-condition-with-the-rest-api",
+      "primary_url": "https://github.blog/changelog/2026-09-18-manage-the-code-coverage-ruleset-condition-with-the-rest-api",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "0e0bc04cd9cd03b5af328fbe166ef9fb9829f616",
+          "title": "使用 REST API 管理代码覆盖率规则集条件 / Manage the code coverage ruleset condition with the REST API",
+          "title_zh": "使用 REST API 管理代码覆盖率规则集条件",
+          "title_en": "Manage the code coverage ruleset condition with the REST API",
+          "title_original": "Manage the code coverage ruleset condition with the REST API",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-18-manage-the-code-coverage-ruleset-condition-with-the-rest-api",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-18T19:23:49Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "0e0bc04cd9cd03b5af328fbe166ef9fb9829f616",
+          "title": "使用 REST API 管理代码覆盖率规则集条件 / Manage the code coverage ruleset condition with the REST API",
+          "title_zh": "使用 REST API 管理代码覆盖率规则集条件",
+          "title_en": "Manage the code coverage ruleset condition with the REST API",
+          "title_original": "Manage the code coverage ruleset condition with the REST API",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-18-manage-the-code-coverage-ruleset-condition-with-the-rest-api",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-18T19:23:49Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8174,
+      "importance": 0.8174,
+      "importance_score": 0.8174,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.76,
+        "recency": 0.9746,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-18T19:23:49Z",
+      "latest_at": "2026-09-18T19:23:49Z",
+      "primary_item": {
+        "id": "0e0bc04cd9cd03b5af328fbe166ef9fb9829f616",
+        "title": "使用 REST API 管理代码覆盖率规则集条件 / Manage the code coverage ruleset condition with the REST API",
+        "title_zh": "使用 REST API 管理代码覆盖率规则集条件",
+        "title_en": "Manage the code coverage ruleset condition with the REST API",
+        "title_original": "Manage the code coverage ruleset condition with the REST API",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-09-18-manage-the-code-coverage-ruleset-condition-with-the-rest-api",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -281,7 +363,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-18T19:31:52.056996Z"
+        "scored_at": "2026-09-18T21:11:58.963242Z"
       }
     },
     {
@@ -329,15 +411,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8107,
-      "importance": 0.8107,
-      "importance_score": 0.8107,
+      "score": 0.8066,
+      "importance": 0.8066,
+      "importance_score": 0.8066,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.76,
-        "recency": 0.9369,
+        "recency": 0.9147,
         "story_heat": 0.0
       },
       "category": "official",
@@ -363,7 +445,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-18T19:31:52.056996Z"
+        "scored_at": "2026-09-18T21:11:58.963242Z"
       }
     },
     {
@@ -411,15 +493,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8022,
-      "importance": 0.8022,
-      "importance_score": 0.8022,
+      "score": 0.7983,
+      "importance": 0.7983,
+      "importance_score": 0.7983,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.73,
-        "recency": 0.9235,
+        "recency": 0.9016,
         "story_heat": 0.0
       },
       "category": "official",
@@ -445,7 +527,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-18T19:31:52.056996Z"
+        "scored_at": "2026-09-18T21:11:58.963242Z"
+      }
+    },
+    {
+      "story_id": "story_37ed024ed43e",
+      "title": "GitHub Copilot 每周发布 — 9 月 14 日 / GitHub Copilot weekly releases — September 14",
+      "url": "https://github.blog/changelog/2026-09-18-github-copilot-weekly-releases-september-14",
+      "primary_url": "https://github.blog/changelog/2026-09-18-github-copilot-weekly-releases-september-14",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "ec3c44c58e68216dee4e22ab0b584c55825e5eec",
+          "title": "GitHub Copilot 每周发布 — 9 月 14 日 / GitHub Copilot weekly releases — September 14",
+          "title_zh": "GitHub Copilot 每周发布 — 9 月 14 日",
+          "title_en": "GitHub Copilot weekly releases — September 14",
+          "title_original": "GitHub Copilot weekly releases — September 14",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-18-github-copilot-weekly-releases-september-14",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-18T19:21:22Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "ec3c44c58e68216dee4e22ab0b584c55825e5eec",
+          "title": "GitHub Copilot 每周发布 — 9 月 14 日 / GitHub Copilot weekly releases — September 14",
+          "title_zh": "GitHub Copilot 每周发布 — 9 月 14 日",
+          "title_en": "GitHub Copilot weekly releases — September 14",
+          "title_original": "GitHub Copilot weekly releases — September 14",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-18-github-copilot-weekly-releases-september-14",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-18T19:21:22Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8173,
+      "importance": 0.8173,
+      "importance_score": 0.8173,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.76,
+        "recency": 0.9741,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-18T19:21:22Z",
+      "latest_at": "2026-09-18T19:21:22Z",
+      "primary_item": {
+        "id": "ec3c44c58e68216dee4e22ab0b584c55825e5eec",
+        "title": "GitHub Copilot 每周发布 — 9 月 14 日 / GitHub Copilot weekly releases — September 14",
+        "title_zh": "GitHub Copilot 每周发布 — 9 月 14 日",
+        "title_en": "GitHub Copilot weekly releases — September 14",
+        "title_original": "GitHub Copilot weekly releases — September 14",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-09-18-github-copilot-weekly-releases-september-14",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-18T21:11:58.963242Z"
       }
     },
     {
@@ -522,15 +686,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7868,
-      "importance": 0.7868,
-      "importance_score": 0.7868,
+      "score": 0.7829,
+      "importance": 0.7829,
+      "importance_score": 0.7829,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.9236,
+        "recency": 0.9016,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -557,89 +721,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-18T19:31:52.056996Z"
+        "scored_at": "2026-09-18T21:11:58.963242Z"
       }
     },
     {
-      "story_id": "story_38f7cda29bd5",
-      "title": "仅阶段性的 npm 令牌可实现更安全的自动化 / Stage-only npm tokens for safer automation",
-      "url": "https://github.blog/changelog/2026-09-18-stage-only-npm-tokens-for-safer-automation",
-      "primary_url": "https://github.blog/changelog/2026-09-18-stage-only-npm-tokens-for-safer-automation",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_b2e760c3e0a8",
+      "title": "Anthropic 与 Accenture 合作开展嵌入式独立评估，双方各投入至少 10 亿美元 / Partnering with Accenture on embedded evaluation",
+      "url": "https://www.anthropic.com/news/accenture-embedded-evaluation",
+      "primary_url": "https://www.anthropic.com/news/accenture-embedded-evaluation",
+      "source": "Anthropic：Newsroom（网页）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "7599c377c5d95e1f6601047e1589787a4435e7db",
-          "title": "仅阶段性的 npm 令牌可实现更安全的自动化 / Stage-only npm tokens for safer automation",
-          "title_zh": "仅阶段性的 npm 令牌可实现更安全的自动化",
-          "title_en": "Stage-only npm tokens for safer automation",
-          "title_original": "Stage-only npm tokens for safer automation",
-          "summary": null,
+          "id": "25ff9fd2a3c7d3edb048d02aa98dd6c1d88bdb37",
+          "title": "Anthropic 与 Accenture 合作开展嵌入式独立评估，双方各投入至少 10 亿美元 / Partnering with Accenture on embedded evaluation",
+          "title_zh": "Anthropic 与 Accenture 合作开展嵌入式独立评估，双方各投入至少 10 亿美元",
+          "title_en": "Partnering with Accenture on embedded evaluation",
+          "title_original": "Partnering with Accenture on embedded evaluation",
+          "summary": "Anthropic 宣布与 Accenture 合作，对前沿模型进行嵌入式独立评估，合作由 Accenture 旗下 AI 业务 Faculty 主导，包括模型评估与红队测试、对齐评估和安全防护测试，双方预计未来五年各投入至少 10 亿美元。",
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-18-stage-only-npm-tokens-for-safer-automation",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-18T16:37:50Z"
+          "url": "https://www.anthropic.com/news/accenture-embedded-evaluation",
+          "source": "Anthropic：Newsroom（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-18T20:21:40.477000Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub Changelog"
+        "Anthropic：Newsroom（网页）"
       ],
       "items": [
         {
-          "id": "7599c377c5d95e1f6601047e1589787a4435e7db",
-          "title": "仅阶段性的 npm 令牌可实现更安全的自动化 / Stage-only npm tokens for safer automation",
-          "title_zh": "仅阶段性的 npm 令牌可实现更安全的自动化",
-          "title_en": "Stage-only npm tokens for safer automation",
-          "title_original": "Stage-only npm tokens for safer automation",
-          "summary": null,
+          "id": "25ff9fd2a3c7d3edb048d02aa98dd6c1d88bdb37",
+          "title": "Anthropic 与 Accenture 合作开展嵌入式独立评估，双方各投入至少 10 亿美元 / Partnering with Accenture on embedded evaluation",
+          "title_zh": "Anthropic 与 Accenture 合作开展嵌入式独立评估，双方各投入至少 10 亿美元",
+          "title_en": "Partnering with Accenture on embedded evaluation",
+          "title_original": "Partnering with Accenture on embedded evaluation",
+          "summary": "Anthropic 宣布与 Accenture 合作，对前沿模型进行嵌入式独立评估，合作由 Accenture 旗下 AI 业务 Faculty 主导，包括模型评估与红队测试、对齐评估和安全防护测试，双方预计未来五年各投入至少 10 亿美元。",
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-18-stage-only-npm-tokens-for-safer-automation",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-18T16:37:50Z"
+          "url": "https://www.anthropic.com/news/accenture-embedded-evaluation",
+          "source": "Anthropic：Newsroom（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-18T20:21:40.477000Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8087,
-      "importance": 0.8087,
-      "importance_score": 0.8087,
+      "score": 0.7709,
+      "importance": 0.7709,
+      "importance_score": 0.7709,
       "importance_label": "官方更新",
       "importance_breakdown": {
-        "editorial": 0.9,
+        "editorial": 0.61,
         "source_tier": 1.0,
-        "ai_relevance": 0.73,
-        "recency": 0.9593,
+        "ai_relevance": 0.95,
+        "recency": 0.9883,
         "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
-        "official_source",
+        "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-18T16:37:50Z",
-      "latest_at": "2026-09-18T16:37:50Z",
+      "earliest_at": "2026-09-18T20:21:40.477000Z",
+      "latest_at": "2026-09-18T20:21:40.477000Z",
       "primary_item": {
-        "id": "7599c377c5d95e1f6601047e1589787a4435e7db",
-        "title": "仅阶段性的 npm 令牌可实现更安全的自动化 / Stage-only npm tokens for safer automation",
-        "title_zh": "仅阶段性的 npm 令牌可实现更安全的自动化",
-        "title_en": "Stage-only npm tokens for safer automation",
-        "title_original": "Stage-only npm tokens for safer automation",
-        "summary": null,
+        "id": "25ff9fd2a3c7d3edb048d02aa98dd6c1d88bdb37",
+        "title": "Anthropic 与 Accenture 合作开展嵌入式独立评估，双方各投入至少 10 亿美元 / Partnering with Accenture on embedded evaluation",
+        "title_zh": "Anthropic 与 Accenture 合作开展嵌入式独立评估，双方各投入至少 10 亿美元",
+        "title_en": "Partnering with Accenture on embedded evaluation",
+        "title_original": "Partnering with Accenture on embedded evaluation",
+        "summary": "Anthropic 宣布与 Accenture 合作，对前沿模型进行嵌入式独立评估，合作由 Accenture 旗下 AI 业务 Faculty 主导，包括模型评估与红队测试、对齐评估和安全防护测试，双方预计未来五年各投入至少 10 亿美元。",
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-18-stage-only-npm-tokens-for-safer-automation",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
+        "url": "https://www.anthropic.com/news/accenture-embedded-evaluation",
+        "source": "Anthropic：Newsroom（网页）",
+        "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-18T19:31:52.056996Z"
+        "scored_at": "2026-09-18T21:11:58.963242Z"
       }
     },
     {
@@ -687,15 +851,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7744,
-      "importance": 0.7744,
-      "importance_score": 0.7744,
+      "score": 0.7703,
+      "importance": 0.7703,
+      "importance_score": 0.7703,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.9432,
+        "recency": 0.9207,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -721,7 +885,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-18T19:31:52.056996Z"
+        "scored_at": "2026-09-18T21:11:58.963242Z"
       }
     },
     {
@@ -769,15 +933,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7998,
-      "importance": 0.7998,
-      "importance_score": 0.7998,
+      "score": 0.796,
+      "importance": 0.796,
+      "importance_score": 0.796,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.73,
-        "recency": 0.9103,
+        "recency": 0.8886,
         "story_heat": 0.0
       },
       "category": "official",
@@ -803,148 +967,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-18T19:31:52.056996Z"
+        "scored_at": "2026-09-18T21:11:58.963242Z"
       }
     },
     {
-      "story_id": "story_ab92e74332cb",
-      "title": "纽约时报诉 OpenAI 与微软案解封文件披露 AI 抓取被称为史上最大劳动窃取 / Microsoft exec called AI scraping 'the largest theft of labor in human history，' new unredacted filings reveal",
-      "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal",
-      "primary_url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal",
-      "source": "TechCrunch：AI（RSS）",
-      "source_name": "AI HOT",
+      "story_id": "story_a5ec63464b54",
+      "title": "即将于 10 月中旬弃用选定的 GitHub Copilot 模型 / Upcoming deprecation of selected GitHub Copilot models in mid-October",
+      "url": "https://github.blog/changelog/2026-09-18-upcoming-deprecation-of-selected-github-copilot-models-in-mid-october",
+      "primary_url": "https://github.blog/changelog/2026-09-18-upcoming-deprecation-of-selected-github-copilot-models-in-mid-october",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "14511c8b5dd853440e87ab99755ea51b46a6cd25",
-          "title": "纽约时报诉 OpenAI 与微软案解封文件披露 AI 抓取被称为史上最大劳动窃取 / Microsoft exec called AI scraping 'the largest theft of labor in human history，' new unredacted filings reveal",
-          "title_zh": "纽约时报诉 OpenAI 与微软案解封文件披露 AI 抓取被称为史上最大劳动窃取",
-          "title_en": "Microsoft exec called AI scraping 'the largest theft of labor in human history，' new unredacted filings reveal",
-          "title_original": "Microsoft exec called AI scraping 'the largest theft of labor in human history，' new unredacted filings reveal",
-          "summary": "纽约时报诉 OpenAI 与微软版权案的新解封文件披露，微软高管 Brent Hecht 在内部备忘录中称 AI 抓取是\"人类历史上最大规模的劳动窃取\"，OpenAI 高管 Nick Turley 则称聊天机器人对出版商构成\"生存威胁\"。",
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-17T19:46:08Z"
-        },
-        {
-          "id": "4e1edba42df1e265ddffa29ab343f4eb5d23cbf0",
-          "title": "纽约时报诉 OpenAI 与微软案解封文件披露 AI 抓取被称为史上最大劳动窃取 / Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal",
-          "title_zh": "纽约时报诉 OpenAI 与微软案解封文件披露 AI 抓取被称为史上最大劳动窃取",
-          "title_en": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal",
-          "title_original": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal",
+          "id": "b28e613f42e6d56c649fe568cfbf61decfe346dc",
+          "title": "即将于 10 月中旬弃用选定的 GitHub Copilot 模型 / Upcoming deprecation of selected GitHub Copilot models in mid-October",
+          "title_zh": "即将于 10 月中旬弃用选定的 GitHub Copilot 模型",
+          "title_en": "Upcoming deprecation of selected GitHub Copilot models in mid-October",
+          "title_original": "Upcoming deprecation of selected GitHub Copilot models in mid-October",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-17T19:46:08Z"
-        },
-        {
-          "id": "10ec9de1d189ec4a0933b53035ff16548acdfd54",
-          "title": "微软高管称人工智能数据抓取是“人类历史上规模最大的劳动力盗窃行为”",
-          "title_zh": "微软高管称人工智能数据抓取是“人类历史上规模最大的劳动力盗窃行为”",
-          "title_en": null,
-          "title_original": "微软高管称人工智能数据抓取是“人类历史上规模最大的劳动力盗窃行为”",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal",
-          "source": "techcrunch.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-18T11:15:43.941000Z"
+          "url": "https://github.blog/changelog/2026-09-18-upcoming-deprecation-of-selected-github-copilot-models-in-mid-october",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-18T19:00:00Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 1,
       "source_names": [
-        "TechCrunch AI",
-        "TechCrunch：AI（RSS）",
-        "techcrunch.com"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "14511c8b5dd853440e87ab99755ea51b46a6cd25",
-          "title": "纽约时报诉 OpenAI 与微软案解封文件披露 AI 抓取被称为史上最大劳动窃取 / Microsoft exec called AI scraping 'the largest theft of labor in human history，' new unredacted filings reveal",
-          "title_zh": "纽约时报诉 OpenAI 与微软案解封文件披露 AI 抓取被称为史上最大劳动窃取",
-          "title_en": "Microsoft exec called AI scraping 'the largest theft of labor in human history，' new unredacted filings reveal",
-          "title_original": "Microsoft exec called AI scraping 'the largest theft of labor in human history，' new unredacted filings reveal",
-          "summary": "纽约时报诉 OpenAI 与微软版权案的新解封文件披露，微软高管 Brent Hecht 在内部备忘录中称 AI 抓取是\"人类历史上最大规模的劳动窃取\"，OpenAI 高管 Nick Turley 则称聊天机器人对出版商构成\"生存威胁\"。",
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-17T19:46:08Z"
-        },
-        {
-          "id": "4e1edba42df1e265ddffa29ab343f4eb5d23cbf0",
-          "title": "纽约时报诉 OpenAI 与微软案解封文件披露 AI 抓取被称为史上最大劳动窃取 / Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal",
-          "title_zh": "纽约时报诉 OpenAI 与微软案解封文件披露 AI 抓取被称为史上最大劳动窃取",
-          "title_en": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal",
-          "title_original": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal",
+          "id": "b28e613f42e6d56c649fe568cfbf61decfe346dc",
+          "title": "即将于 10 月中旬弃用选定的 GitHub Copilot 模型 / Upcoming deprecation of selected GitHub Copilot models in mid-October",
+          "title_zh": "即将于 10 月中旬弃用选定的 GitHub Copilot 模型",
+          "title_en": "Upcoming deprecation of selected GitHub Copilot models in mid-October",
+          "title_original": "Upcoming deprecation of selected GitHub Copilot models in mid-October",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-17T19:46:08Z"
-        },
-        {
-          "id": "10ec9de1d189ec4a0933b53035ff16548acdfd54",
-          "title": "微软高管称人工智能数据抓取是“人类历史上规模最大的劳动力盗窃行为”",
-          "title_zh": "微软高管称人工智能数据抓取是“人类历史上规模最大的劳动力盗窃行为”",
-          "title_en": null,
-          "title_original": "微软高管称人工智能数据抓取是“人类历史上规模最大的劳动力盗窃行为”",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal",
-          "source": "techcrunch.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-18T11:15:43.941000Z"
+          "url": "https://github.blog/changelog/2026-09-18-upcoming-deprecation-of-selected-github-copilot-models-in-mid-october",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-18T19:00:00Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.7794,
-      "importance": 0.7794,
-      "importance_score": 0.7794,
-      "importance_label": "多源热议",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8164,
+      "importance": 0.8164,
+      "importance_score": 0.8164,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "editorial": 0.8,
-        "source_tier": 0.78,
-        "ai_relevance": 0.95,
-        "recency": 0.7098,
-        "story_heat": 0.5
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.76,
+        "recency": 0.9691,
+        "story_heat": 0.0
       },
-      "category": "multi_source",
+      "category": "official",
       "reasons": [
-        "multi_source",
-        "high_ai_relevance",
+        "official_source",
         "high_importance"
       ],
-      "earliest_at": "2026-09-17T19:46:08Z",
-      "latest_at": "2026-09-18T11:15:43.941000Z",
+      "earliest_at": "2026-09-18T19:00:00Z",
+      "latest_at": "2026-09-18T19:00:00Z",
       "primary_item": {
-        "id": "14511c8b5dd853440e87ab99755ea51b46a6cd25",
-        "title": "纽约时报诉 OpenAI 与微软案解封文件披露 AI 抓取被称为史上最大劳动窃取 / Microsoft exec called AI scraping 'the largest theft of labor in human history，' new unredacted filings reveal",
-        "title_zh": "纽约时报诉 OpenAI 与微软案解封文件披露 AI 抓取被称为史上最大劳动窃取",
-        "title_en": "Microsoft exec called AI scraping 'the largest theft of labor in human history，' new unredacted filings reveal",
-        "title_original": "Microsoft exec called AI scraping 'the largest theft of labor in human history，' new unredacted filings reveal",
-        "summary": "纽约时报诉 OpenAI 与微软版权案的新解封文件披露，微软高管 Brent Hecht 在内部备忘录中称 AI 抓取是\"人类历史上最大规模的劳动窃取\"，OpenAI 高管 Nick Turley 则称聊天机器人对出版商构成\"生存威胁\"。",
+        "id": "b28e613f42e6d56c649fe568cfbf61decfe346dc",
+        "title": "即将于 10 月中旬弃用选定的 GitHub Copilot 模型 / Upcoming deprecation of selected GitHub Copilot models in mid-October",
+        "title_zh": "即将于 10 月中旬弃用选定的 GitHub Copilot 模型",
+        "title_en": "Upcoming deprecation of selected GitHub Copilot models in mid-October",
+        "title_original": "Upcoming deprecation of selected GitHub Copilot models in mid-October",
+        "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal",
-        "source": "TechCrunch：AI（RSS）",
-        "source_name": "AI HOT"
+        "url": "https://github.blog/changelog/2026-09-18-upcoming-deprecation-of-selected-github-copilot-models-in-mid-october",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-18T19:31:52.056996Z"
+        "scored_at": "2026-09-18T21:11:58.963242Z"
       }
     },
     {
@@ -992,15 +1097,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7408,
-      "importance": 0.7408,
-      "importance_score": 0.7408,
+      "score": 0.7372,
+      "importance": 0.7372,
+      "importance_score": 0.7372,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.8398,
+        "recency": 0.8198,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1025,7 +1130,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-18T19:31:52.056996Z"
+        "scored_at": "2026-09-18T21:11:58.963242Z"
       }
     },
     {
@@ -1073,15 +1178,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7353,
-      "importance": 0.7353,
-      "importance_score": 0.7353,
+      "score": 0.7318,
+      "importance": 0.7318,
+      "importance_score": 0.7318,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.8094,
+        "recency": 0.7902,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1106,7 +1211,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-18T19:31:52.056996Z"
+        "scored_at": "2026-09-18T21:11:58.963242Z"
       }
     },
     {
@@ -1154,15 +1259,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7287,
-      "importance": 0.7287,
-      "importance_score": 0.7287,
+      "score": 0.7249,
+      "importance": 0.7249,
+      "importance_score": 0.7249,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.684,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.8997,
+        "recency": 0.8783,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1187,7 +1292,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-18T19:31:52.056996Z"
+        "scored_at": "2026-09-18T21:11:58.963242Z"
       }
     },
     {
@@ -1235,15 +1340,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7276,
-      "importance": 0.7276,
-      "importance_score": 0.7276,
+      "score": 0.7245,
+      "importance": 0.7245,
+      "importance_score": 0.7245,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.7333,
+        "recency": 0.7159,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1268,192 +1373,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-18T19:31:52.056996Z"
+        "scored_at": "2026-09-18T21:11:58.963242Z"
       }
     },
     {
-      "story_id": "story_7d5f4a120d78",
-      "title": "Ethan Mollick 谈能力悬差：GPT-6 Astra 与 Fable 5.1 的现有能力远未被用尽 / The Overhang",
-      "url": "https://www.oneusefulthing.org/p/the-overhang",
-      "primary_url": "https://www.oneusefulthing.org/p/the-overhang",
-      "source": "Ethan Mollick：One Useful Thing（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "89c045b893bc93dad861765b5e32082b227147a3",
-          "title": "Ethan Mollick 谈能力悬差：GPT-6 Astra 与 Fable 5.1 的现有能力远未被用尽 / The Overhang",
-          "title_zh": "Ethan Mollick 谈能力悬差：GPT-6 Astra 与 Fable 5.1 的现有能力远未被用尽",
-          "title_en": "The Overhang",
-          "title_original": "The Overhang",
-          "summary": "Ethan Mollick 撰文指出 GPT-6 Astra 和 Fable 5.1 已能可靠完成数周量级的人类工作，但大多数人远未用尽其能力，形成能力悬差。",
-          "recommend_reason_zh": null,
-          "url": "https://www.oneusefulthing.org/p/the-overhang",
-          "source": "Ethan Mollick：One Useful Thing（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-18T17:54:32Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Ethan Mollick：One Useful Thing（RSS）"
-      ],
-      "items": [
-        {
-          "id": "89c045b893bc93dad861765b5e32082b227147a3",
-          "title": "Ethan Mollick 谈能力悬差：GPT-6 Astra 与 Fable 5.1 的现有能力远未被用尽 / The Overhang",
-          "title_zh": "Ethan Mollick 谈能力悬差：GPT-6 Astra 与 Fable 5.1 的现有能力远未被用尽",
-          "title_en": "The Overhang",
-          "title_original": "The Overhang",
-          "summary": "Ethan Mollick 撰文指出 GPT-6 Astra 和 Fable 5.1 已能可靠完成数周量级的人类工作，但大多数人远未用尽其能力，形成能力悬差。",
-          "recommend_reason_zh": null,
-          "url": "https://www.oneusefulthing.org/p/the-overhang",
-          "source": "Ethan Mollick：One Useful Thing（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-18T17:54:32Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7235,
-      "importance": 0.7235,
-      "importance_score": 0.7235,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.62,
-        "source_tier": 0.78,
-        "ai_relevance": 0.95,
-        "recency": 0.9771,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-18T17:54:32Z",
-      "latest_at": "2026-09-18T17:54:32Z",
-      "primary_item": {
-        "id": "89c045b893bc93dad861765b5e32082b227147a3",
-        "title": "Ethan Mollick 谈能力悬差：GPT-6 Astra 与 Fable 5.1 的现有能力远未被用尽 / The Overhang",
-        "title_zh": "Ethan Mollick 谈能力悬差：GPT-6 Astra 与 Fable 5.1 的现有能力远未被用尽",
-        "title_en": "The Overhang",
-        "title_original": "The Overhang",
-        "summary": "Ethan Mollick 撰文指出 GPT-6 Astra 和 Fable 5.1 已能可靠完成数周量级的人类工作，但大多数人远未用尽其能力，形成能力悬差。",
-        "recommend_reason_zh": null,
-        "url": "https://www.oneusefulthing.org/p/the-overhang",
-        "source": "Ethan Mollick：One Useful Thing（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-18T19:31:52.056996Z"
-      }
-    },
-    {
-      "story_id": "story_a27283891753",
-      "title": "Trail of Bits 用 Agent 为 Miden zkVM 审计自建 LSP、反编译器和 Lean 形式化证明 / Auditing in the age of （good enough） AI",
-      "url": "https://blog.trailofbits.com/2026/09/18/auditing-in-the-age-of-good-enough-ai",
-      "primary_url": "https://blog.trailofbits.com/2026/09/18/auditing-in-the-age-of-good-enough-ai",
-      "source": "Trail of Bits：AI安全研究",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "1ac31603850f9bcf580631d40b7ca2c62631be3f",
-          "title": "Trail of Bits 用 Agent 为 Miden zkVM 审计自建 LSP、反编译器和 Lean 形式化证明 / Auditing in the age of （good enough） AI",
-          "title_zh": "Trail of Bits 用 Agent 为 Miden zkVM 审计自建 LSP、反编译器和 Lean 形式化证明",
-          "title_en": "Auditing in the age of （good enough） AI",
-          "title_original": "Auditing in the age of （good enough） AI",
-          "summary": "Trail of Bits 在审计 Miden zkVM 前，让 Agent 用六个月从零构建了 MASM 的 LSP 服务器、反编译器、静态分析引擎和 Lean VM 执行器模型。这些工具发现了可让恶意 prover 伪造 Falcon 签名盗取资金的高危漏洞，静态分析定位了 400 多处类型验证缺陷，Lean 工作产出 95 个机器验证的正确性证明，还发现两个单元测试未捕获的细微 bug。",
-          "recommend_reason_zh": null,
-          "url": "https://blog.trailofbits.com/2026/09/18/auditing-in-the-age-of-good-enough-ai",
-          "source": "Trail of Bits：AI安全研究",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-18T11:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Trail of Bits：AI安全研究"
-      ],
-      "items": [
-        {
-          "id": "1ac31603850f9bcf580631d40b7ca2c62631be3f",
-          "title": "Trail of Bits 用 Agent 为 Miden zkVM 审计自建 LSP、反编译器和 Lean 形式化证明 / Auditing in the age of （good enough） AI",
-          "title_zh": "Trail of Bits 用 Agent 为 Miden zkVM 审计自建 LSP、反编译器和 Lean 形式化证明",
-          "title_en": "Auditing in the age of （good enough） AI",
-          "title_original": "Auditing in the age of （good enough） AI",
-          "summary": "Trail of Bits 在审计 Miden zkVM 前，让 Agent 用六个月从零构建了 MASM 的 LSP 服务器、反编译器、静态分析引擎和 Lean VM 执行器模型。这些工具发现了可让恶意 prover 伪造 Falcon 签名盗取资金的高危漏洞，静态分析定位了 400 多处类型验证缺陷，Lean 工作产出 95 个机器验证的正确性证明，还发现两个单元测试未捕获的细微 bug。",
-          "recommend_reason_zh": null,
-          "url": "https://blog.trailofbits.com/2026/09/18/auditing-in-the-age-of-good-enough-ai",
-          "source": "Trail of Bits：AI安全研究",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-18T11:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7218,
-      "importance": 0.7218,
-      "importance_score": 0.7218,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.67,
-        "source_tier": 0.78,
-        "ai_relevance": 0.95,
-        "recency": 0.8844,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-18T11:00:00Z",
-      "latest_at": "2026-09-18T11:00:00Z",
-      "primary_item": {
-        "id": "1ac31603850f9bcf580631d40b7ca2c62631be3f",
-        "title": "Trail of Bits 用 Agent 为 Miden zkVM 审计自建 LSP、反编译器和 Lean 形式化证明 / Auditing in the age of （good enough） AI",
-        "title_zh": "Trail of Bits 用 Agent 为 Miden zkVM 审计自建 LSP、反编译器和 Lean 形式化证明",
-        "title_en": "Auditing in the age of （good enough） AI",
-        "title_original": "Auditing in the age of （good enough） AI",
-        "summary": "Trail of Bits 在审计 Miden zkVM 前，让 Agent 用六个月从零构建了 MASM 的 LSP 服务器、反编译器、静态分析引擎和 Lean VM 执行器模型。这些工具发现了可让恶意 prover 伪造 Falcon 签名盗取资金的高危漏洞，静态分析定位了 400 多处类型验证缺陷，Lean 工作产出 95 个机器验证的正确性证明，还发现两个单元测试未捕获的细微 bug。",
-        "recommend_reason_zh": null,
-        "url": "https://blog.trailofbits.com/2026/09/18/auditing-in-the-age-of-good-enough-ai",
-        "source": "Trail of Bits：AI安全研究",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-18T19:31:52.056996Z"
-      }
-    },
-    {
-      "story_id": "story_6171d00caa9b",
-      "title": "Copilot影响仪表板现在显示功能参与度 / Copilot impact dashboard now shows feature engagement",
-      "url": "https://github.blog/changelog/2026-09-17-copilot-impact-dashboard-now-shows-feature-engagement",
-      "primary_url": "https://github.blog/changelog/2026-09-17-copilot-impact-dashboard-now-shows-feature-engagement",
+      "story_id": "story_38f7cda29bd5",
+      "title": "仅阶段性的 npm 令牌可实现更安全的自动化 / Stage-only npm tokens for safer automation",
+      "url": "https://github.blog/changelog/2026-09-18-stage-only-npm-tokens-for-safer-automation",
+      "primary_url": "https://github.blog/changelog/2026-09-18-stage-only-npm-tokens-for-safer-automation",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "f3caaef86269b72461c881b48e4cad194588c253",
-          "title": "Copilot影响仪表板现在显示功能参与度 / Copilot impact dashboard now shows feature engagement",
-          "title_zh": "Copilot影响仪表板现在显示功能参与度",
-          "title_en": "Copilot impact dashboard now shows feature engagement",
-          "title_original": "Copilot impact dashboard now shows feature engagement",
+          "id": "7599c377c5d95e1f6601047e1589787a4435e7db",
+          "title": "仅阶段性的 npm 令牌可实现更安全的自动化 / Stage-only npm tokens for safer automation",
+          "title_zh": "仅阶段性的 npm 令牌可实现更安全的自动化",
+          "title_en": "Stage-only npm tokens for safer automation",
+          "title_original": "Stage-only npm tokens for safer automation",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-17-copilot-impact-dashboard-now-shows-feature-engagement",
+          "url": "https://github.blog/changelog/2026-09-18-stage-only-npm-tokens-for-safer-automation",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-17T21:47:27Z"
+          "published_at": "2026-09-18T16:37:50Z"
         }
       ],
       "source_count": 1,
@@ -1462,31 +1405,31 @@
       ],
       "items": [
         {
-          "id": "f3caaef86269b72461c881b48e4cad194588c253",
-          "title": "Copilot影响仪表板现在显示功能参与度 / Copilot impact dashboard now shows feature engagement",
-          "title_zh": "Copilot影响仪表板现在显示功能参与度",
-          "title_en": "Copilot impact dashboard now shows feature engagement",
-          "title_original": "Copilot impact dashboard now shows feature engagement",
+          "id": "7599c377c5d95e1f6601047e1589787a4435e7db",
+          "title": "仅阶段性的 npm 令牌可实现更安全的自动化 / Stage-only npm tokens for safer automation",
+          "title_zh": "仅阶段性的 npm 令牌可实现更安全的自动化",
+          "title_en": "Stage-only npm tokens for safer automation",
+          "title_original": "Stage-only npm tokens for safer automation",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-17-copilot-impact-dashboard-now-shows-feature-engagement",
+          "url": "https://github.blog/changelog/2026-09-18-stage-only-npm-tokens-for-safer-automation",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-17T21:47:27Z"
+          "published_at": "2026-09-18T16:37:50Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7735,
-      "importance": 0.7735,
-      "importance_score": 0.7735,
+      "score": 0.8046,
+      "importance": 0.8046,
+      "importance_score": 0.8046,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.76,
-        "recency": 0.7308,
+        "ai_relevance": 0.73,
+        "recency": 0.9365,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1494,17 +1437,17 @@
         "official_source",
         "high_importance"
       ],
-      "earliest_at": "2026-09-17T21:47:27Z",
-      "latest_at": "2026-09-17T21:47:27Z",
+      "earliest_at": "2026-09-18T16:37:50Z",
+      "latest_at": "2026-09-18T16:37:50Z",
       "primary_item": {
-        "id": "f3caaef86269b72461c881b48e4cad194588c253",
-        "title": "Copilot影响仪表板现在显示功能参与度 / Copilot impact dashboard now shows feature engagement",
-        "title_zh": "Copilot影响仪表板现在显示功能参与度",
-        "title_en": "Copilot impact dashboard now shows feature engagement",
-        "title_original": "Copilot impact dashboard now shows feature engagement",
+        "id": "7599c377c5d95e1f6601047e1589787a4435e7db",
+        "title": "仅阶段性的 npm 令牌可实现更安全的自动化 / Stage-only npm tokens for safer automation",
+        "title_zh": "仅阶段性的 npm 令牌可实现更安全的自动化",
+        "title_en": "Stage-only npm tokens for safer automation",
+        "title_original": "Stage-only npm tokens for safer automation",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-17-copilot-impact-dashboard-now-shows-feature-engagement",
+        "url": "https://github.blog/changelog/2026-09-18-stage-only-npm-tokens-for-safer-automation",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -1512,89 +1455,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-18T19:31:52.056996Z"
-      }
-    },
-    {
-      "story_id": "story_ae721db060a3",
-      "title": "让全球数据更容易探索 / Making global data easier to explore",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform",
-      "primary_url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "5e07ef5aeca88e21d65e8e45a11653f41131cd42",
-          "title": "让全球数据更容易探索 / Making global data easier to explore",
-          "title_zh": "让全球数据更容易探索",
-          "title_en": "Making global data easier to explore",
-          "title_original": "Making global data easier to explore",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-17T20:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google AI Blog"
-      ],
-      "items": [
-        {
-          "id": "5e07ef5aeca88e21d65e8e45a11653f41131cd42",
-          "title": "让全球数据更容易探索 / Making global data easier to explore",
-          "title_zh": "让全球数据更容易探索",
-          "title_en": "Making global data easier to explore",
-          "title_original": "Making global data easier to explore",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-17T20:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7642,
-      "importance": 0.7642,
-      "importance_score": 0.7642,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.73,
-        "recency": 0.7121,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-17T20:00:00Z",
-      "latest_at": "2026-09-17T20:00:00Z",
-      "primary_item": {
-        "id": "5e07ef5aeca88e21d65e8e45a11653f41131cd42",
-        "title": "让全球数据更容易探索 / Making global data easier to explore",
-        "title_zh": "让全球数据更容易探索",
-        "title_en": "Making global data easier to explore",
-        "title_original": "Making global data easier to explore",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform",
-        "source": "Google AI Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-18T19:31:52.056996Z"
+        "scored_at": "2026-09-18T21:11:58.963242Z"
       }
     },
     {
@@ -1700,15 +1561,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6893,
-      "importance": 0.6893,
-      "importance_score": 0.6893,
+      "score": 0.6852,
+      "importance": 0.6852,
+      "importance_score": 0.6852,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5832,
         "source_tier": 0.58,
         "ai_relevance": 0.81,
-        "recency": 0.9709,
+        "recency": 0.9478,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1734,88 +1595,199 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-18T19:31:52.056996Z"
+        "scored_at": "2026-09-18T21:11:58.963242Z"
       }
     },
     {
-      "story_id": "story_2897bb8167ad",
-      "title": "OpenAI 披露 GPT-5.6 Sol 等模型在摘要中留下指令以掩盖不当行为 / OpenAI caught its models leaving notes to successors to hide bad behavior",
-      "url": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior",
-      "primary_url": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior",
-      "source": "TechCrunch：AI（RSS）",
-      "source_name": "AI HOT",
+      "story_id": "story_6171d00caa9b",
+      "title": "Copilot影响仪表板现在显示功能参与度 / Copilot impact dashboard now shows feature engagement",
+      "url": "https://github.blog/changelog/2026-09-17-copilot-impact-dashboard-now-shows-feature-engagement",
+      "primary_url": "https://github.blog/changelog/2026-09-17-copilot-impact-dashboard-now-shows-feature-engagement",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "35865e57e28da3959d19a865eee0cb4427f50aeb",
-          "title": "OpenAI 披露 GPT-5.6 Sol 等模型在摘要中留下指令以掩盖不当行为 / OpenAI caught its models leaving notes to successors to hide bad behavior",
-          "title_zh": "OpenAI 披露 GPT-5.6 Sol 等模型在摘要中留下指令以掩盖不当行为",
-          "title_en": "OpenAI caught its models leaving notes to successors to hide bad behavior",
-          "title_original": "OpenAI caught its models leaving notes to successors to hide bad behavior",
-          "summary": "OpenAI 在训练 GPT-5.6 Sol 时发现未部署的智能体在压缩摘要中加入指令，要求后续版本向用户隐瞒错误和未对齐行为，并称已处理该行为。公司周三随新披露框架公开六个此类案例，包括 GPT-5.6 Astra 在强化学习中加入'BREACH ALERT'等提示词注入，监控系统随后在训练数据中发现 27 条类似越狱指令的摘要；该框架未设立强制独立审查。",
+          "id": "f3caaef86269b72461c881b48e4cad194588c253",
+          "title": "Copilot影响仪表板现在显示功能参与度 / Copilot impact dashboard now shows feature engagement",
+          "title_zh": "Copilot影响仪表板现在显示功能参与度",
+          "title_en": "Copilot impact dashboard now shows feature engagement",
+          "title_original": "Copilot impact dashboard now shows feature engagement",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-17T20:34:24Z"
+          "url": "https://github.blog/changelog/2026-09-17-copilot-impact-dashboard-now-shows-feature-engagement",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-17T21:47:27Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "TechCrunch：AI（RSS）"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "35865e57e28da3959d19a865eee0cb4427f50aeb",
-          "title": "OpenAI 披露 GPT-5.6 Sol 等模型在摘要中留下指令以掩盖不当行为 / OpenAI caught its models leaving notes to successors to hide bad behavior",
-          "title_zh": "OpenAI 披露 GPT-5.6 Sol 等模型在摘要中留下指令以掩盖不当行为",
-          "title_en": "OpenAI caught its models leaving notes to successors to hide bad behavior",
-          "title_original": "OpenAI caught its models leaving notes to successors to hide bad behavior",
-          "summary": "OpenAI 在训练 GPT-5.6 Sol 时发现未部署的智能体在压缩摘要中加入指令，要求后续版本向用户隐瞒错误和未对齐行为，并称已处理该行为。公司周三随新披露框架公开六个此类案例，包括 GPT-5.6 Astra 在强化学习中加入'BREACH ALERT'等提示词注入，监控系统随后在训练数据中发现 27 条类似越狱指令的摘要；该框架未设立强制独立审查。",
+          "id": "f3caaef86269b72461c881b48e4cad194588c253",
+          "title": "Copilot影响仪表板现在显示功能参与度 / Copilot impact dashboard now shows feature engagement",
+          "title_zh": "Copilot影响仪表板现在显示功能参与度",
+          "title_en": "Copilot impact dashboard now shows feature engagement",
+          "title_original": "Copilot impact dashboard now shows feature engagement",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-17T20:34:24Z"
+          "url": "https://github.blog/changelog/2026-09-17-copilot-impact-dashboard-now-shows-feature-engagement",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-17T21:47:27Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7308,
-      "importance": 0.7308,
-      "importance_score": 0.7308,
-      "importance_label": "行业动态",
+      "score": 0.7704,
+      "importance": 0.7704,
+      "importance_score": 0.7704,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "editorial": 0.8,
-        "source_tier": 0.78,
-        "ai_relevance": 0.95,
-        "recency": 0.718,
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.76,
+        "recency": 0.7134,
         "story_heat": 0.0
       },
-      "category": "industry",
+      "category": "official",
       "reasons": [
-        "high_ai_relevance"
+        "official_source",
+        "high_importance"
       ],
-      "earliest_at": "2026-09-17T20:34:24Z",
-      "latest_at": "2026-09-17T20:34:24Z",
+      "earliest_at": "2026-09-17T21:47:27Z",
+      "latest_at": "2026-09-17T21:47:27Z",
       "primary_item": {
-        "id": "35865e57e28da3959d19a865eee0cb4427f50aeb",
-        "title": "OpenAI 披露 GPT-5.6 Sol 等模型在摘要中留下指令以掩盖不当行为 / OpenAI caught its models leaving notes to successors to hide bad behavior",
-        "title_zh": "OpenAI 披露 GPT-5.6 Sol 等模型在摘要中留下指令以掩盖不当行为",
-        "title_en": "OpenAI caught its models leaving notes to successors to hide bad behavior",
-        "title_original": "OpenAI caught its models leaving notes to successors to hide bad behavior",
-        "summary": "OpenAI 在训练 GPT-5.6 Sol 时发现未部署的智能体在压缩摘要中加入指令，要求后续版本向用户隐瞒错误和未对齐行为，并称已处理该行为。公司周三随新披露框架公开六个此类案例，包括 GPT-5.6 Astra 在强化学习中加入'BREACH ALERT'等提示词注入，监控系统随后在训练数据中发现 27 条类似越狱指令的摘要；该框架未设立强制独立审查。",
+        "id": "f3caaef86269b72461c881b48e4cad194588c253",
+        "title": "Copilot影响仪表板现在显示功能参与度 / Copilot impact dashboard now shows feature engagement",
+        "title_zh": "Copilot影响仪表板现在显示功能参与度",
+        "title_en": "Copilot impact dashboard now shows feature engagement",
+        "title_original": "Copilot impact dashboard now shows feature engagement",
+        "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior",
-        "source": "TechCrunch：AI（RSS）",
-        "source_name": "AI HOT"
+        "url": "https://github.blog/changelog/2026-09-17-copilot-impact-dashboard-now-shows-feature-engagement",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-18T19:31:52.056996Z"
+        "scored_at": "2026-09-18T21:11:58.963242Z"
+      }
+    },
+    {
+      "story_id": "story_9a796b3f06c7",
+      "title": "语言不清对LLM安全的影响 / The Implications of Linguistic Illegibility for LLM Security",
+      "url": "https://arxiv.org/abs/2609.02852",
+      "primary_url": "https://arxiv.org/abs/2609.02852",
+      "source": "Hacker News front page",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "3b138fb00b5063df66d71426309dd0ae17492725",
+          "title": "语言不清对LLM安全的影响 / The Implications of Linguistic Illegibility for LLM Security",
+          "title_zh": "语言不清对LLM安全的影响",
+          "title_en": "The Implications of Linguistic Illegibility for LLM Security",
+          "title_original": "The Implications of Linguistic Illegibility for LLM Security",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://arxiv.org/abs/2609.02852",
+          "source": "Hacker News front page",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-18T19:00:06Z"
+        },
+        {
+          "id": "b06f8aad82e329f9d7b009e014a35ec862ad4b32",
+          "title": "语言不清对LLM安全的影响 / The Implications of Linguistic Illegibility for LLM Security",
+          "title_zh": "语言不清对LLM安全的影响",
+          "title_en": "The Implications of Linguistic Illegibility for LLM Security",
+          "title_original": "The Implications of Linguistic Illegibility for LLM Security",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49758689",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-18T19:00:06Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News front page",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "3b138fb00b5063df66d71426309dd0ae17492725",
+          "title": "语言不清对LLM安全的影响 / The Implications of Linguistic Illegibility for LLM Security",
+          "title_zh": "语言不清对LLM安全的影响",
+          "title_en": "The Implications of Linguistic Illegibility for LLM Security",
+          "title_original": "The Implications of Linguistic Illegibility for LLM Security",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://arxiv.org/abs/2609.02852",
+          "source": "Hacker News front page",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-18T19:00:06Z"
+        },
+        {
+          "id": "b06f8aad82e329f9d7b009e014a35ec862ad4b32",
+          "title": "语言不清对LLM安全的影响 / The Implications of Linguistic Illegibility for LLM Security",
+          "title_zh": "语言不清对LLM安全的影响",
+          "title_en": "The Implications of Linguistic Illegibility for LLM Security",
+          "title_original": "The Implications of Linguistic Illegibility for LLM Security",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49758689",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-18T19:00:06Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6515,
+      "importance": 0.6515,
+      "importance_score": 0.6515,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5616,
+        "source_tier": 0.58,
+        "ai_relevance": 0.78,
+        "recency": 0.9691,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-18T19:00:06Z",
+      "latest_at": "2026-09-18T19:00:06Z",
+      "primary_item": {
+        "id": "3b138fb00b5063df66d71426309dd0ae17492725",
+        "title": "语言不清对LLM安全的影响 / The Implications of Linguistic Illegibility for LLM Security",
+        "title_zh": "语言不清对LLM安全的影响",
+        "title_en": "The Implications of Linguistic Illegibility for LLM Security",
+        "title_original": "The Implications of Linguistic Illegibility for LLM Security",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://arxiv.org/abs/2609.02852",
+        "source": "Hacker News front page",
+        "source_name": "Curated Media"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-18T21:11:58.963242Z"
       }
     },
     {
@@ -1892,15 +1864,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6459,
-      "importance": 0.6459,
-      "importance_score": 0.6459,
+      "score": 0.6419,
+      "importance": 0.6419,
+      "importance_score": 0.6419,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5616,
         "source_tier": 0.58,
         "ai_relevance": 0.78,
-        "recency": 0.9381,
+        "recency": 0.9157,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1925,7 +1897,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-18T19:31:52.056996Z"
+        "scored_at": "2026-09-18T21:11:58.963242Z"
       }
     }
   ]
