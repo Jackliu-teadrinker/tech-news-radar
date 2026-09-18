@@ -1,16 +1,56 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-18T21:10:36.643823Z",
+  "generated_at": "2026-09-18T23:11:36.730148Z",
   "ok": true,
-  "active_count": 0,
+  "active_count": 3,
   "providers": [
     {
       "id": "openai",
       "name": "OpenAI",
       "status_url": "https://status.openai.com/",
       "ok": true,
-      "active_count": 0
+      "active_count": 3
     }
   ],
-  "incidents": []
+  "incidents": [
+    {
+      "id": "01M2VBZB1RYSMXHZNRA25ZJ36X",
+      "provider": "OpenAI",
+      "title": "SSO sign-in and SCIM provisioning issues",
+      "title_zh": "SSO sign-in and SCIM provisioning issues",
+      "status": "monitoring",
+      "impact": "none",
+      "started_at": "2026-09-18T23:00:09Z",
+      "updated_at": "2026-09-18T23:10:37Z",
+      "message": "We have applied the mitigation and are monitoring the recovery.",
+      "affected_components": [],
+      "url": "https://status.openai.com/incidents/01M2VBZB1RYSMXHZNRA25ZJ36X"
+    },
+    {
+      "id": "01M2VA7X37P1ASADSNZ1CG4N4D",
+      "provider": "OpenAI",
+      "title": "Overbilling for OpenAI-hosted containers in the Agent API",
+      "title_zh": "Overbilling for OpenAI-hosted containers in the Agent API",
+      "status": "investigating",
+      "impact": "none",
+      "started_at": "2026-09-18T22:29:53Z",
+      "updated_at": "2026-09-18T22:29:53Z",
+      "message": "We’re investigating an issue causing higher-than-expected charges for OpenAI-hosted containers in the Agent API. We’re working on a fix and preparing refunds for affected customers. We’ll share further updates as we make progress.",
+      "affected_components": [],
+      "url": "https://status.openai.com/incidents/01M2VA7X37P1ASADSNZ1CG4N4D"
+    },
+    {
+      "id": "01M2V76GEPJB0HQGRA0QERRZ3T",
+      "provider": "OpenAI",
+      "title": "Delayed support responses",
+      "title_zh": "Delayed support responses",
+      "status": "monitoring",
+      "impact": "none",
+      "started_at": "2026-09-18T21:36:41Z",
+      "updated_at": "2026-09-18T21:59:34Z",
+      "message": "We have applied the mitigation and are monitoring the recovery. Some support responses by email and chat may still be delayed while we work through affected cases.",
+      "affected_components": [],
+      "url": "https://status.openai.com/incidents/01M2V76GEPJB0HQGRA0QERRZ3T"
+    }
+  ]
 }
