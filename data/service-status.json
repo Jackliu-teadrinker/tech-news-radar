@@ -1,31 +1,18 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-18T23:11:36.730148Z",
+  "generated_at": "2026-09-19T00:33:03.585522Z",
   "ok": true,
-  "active_count": 3,
+  "active_count": 2,
   "providers": [
     {
       "id": "openai",
       "name": "OpenAI",
       "status_url": "https://status.openai.com/",
       "ok": true,
-      "active_count": 3
+      "active_count": 2
     }
   ],
   "incidents": [
-    {
-      "id": "01M2VBZB1RYSMXHZNRA25ZJ36X",
-      "provider": "OpenAI",
-      "title": "SSO sign-in and SCIM provisioning issues",
-      "title_zh": "SSO sign-in and SCIM provisioning issues",
-      "status": "monitoring",
-      "impact": "none",
-      "started_at": "2026-09-18T23:00:09Z",
-      "updated_at": "2026-09-18T23:10:37Z",
-      "message": "We have applied the mitigation and are monitoring the recovery.",
-      "affected_components": [],
-      "url": "https://status.openai.com/incidents/01M2VBZB1RYSMXHZNRA25ZJ36X"
-    },
     {
       "id": "01M2VA7X37P1ASADSNZ1CG4N4D",
       "provider": "OpenAI",
@@ -34,8 +21,8 @@
       "status": "investigating",
       "impact": "none",
       "started_at": "2026-09-18T22:29:53Z",
-      "updated_at": "2026-09-18T22:29:53Z",
-      "message": "We’re investigating an issue causing higher-than-expected charges for OpenAI-hosted containers in the Agent API. We’re working on a fix and preparing refunds for affected customers. We’ll share further updates as we make progress.",
+      "updated_at": "2026-09-18T23:22:34Z",
+      "message": "We’re continuing to work on a fix for the container overbilling issue. We’re also reviewing affected usage to identify impacted customers and calculate refunds.",
       "affected_components": [],
       "url": "https://status.openai.com/incidents/01M2VA7X37P1ASADSNZ1CG4N4D"
     },
