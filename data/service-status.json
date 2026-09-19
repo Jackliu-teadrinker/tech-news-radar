@@ -1,15 +1,15 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-19T00:33:03.585522Z",
+  "generated_at": "2026-09-19T07:30:46.120138Z",
   "ok": true,
-  "active_count": 2,
+  "active_count": 1,
   "providers": [
     {
       "id": "openai",
       "name": "OpenAI",
       "status_url": "https://status.openai.com/",
       "ok": true,
-      "active_count": 2
+      "active_count": 1
     }
   ],
   "incidents": [
@@ -18,26 +18,13 @@
       "provider": "OpenAI",
       "title": "Overbilling for OpenAI-hosted containers in the Agent API",
       "title_zh": "Overbilling for OpenAI-hosted containers in the Agent API",
-      "status": "investigating",
-      "impact": "none",
-      "started_at": "2026-09-18T22:29:53Z",
-      "updated_at": "2026-09-18T23:22:34Z",
-      "message": "We’re continuing to work on a fix for the container overbilling issue. We’re also reviewing affected usage to identify impacted customers and calculate refunds.",
-      "affected_components": [],
-      "url": "https://status.openai.com/incidents/01M2VA7X37P1ASADSNZ1CG4N4D"
-    },
-    {
-      "id": "01M2V76GEPJB0HQGRA0QERRZ3T",
-      "provider": "OpenAI",
-      "title": "Delayed support responses",
-      "title_zh": "Delayed support responses",
       "status": "monitoring",
       "impact": "none",
-      "started_at": "2026-09-18T21:36:41Z",
-      "updated_at": "2026-09-18T21:59:34Z",
-      "message": "We have applied the mitigation and are monitoring the recovery. Some support responses by email and chat may still be delayed while we work through affected cases.",
+      "started_at": "2026-09-18T22:29:53Z",
+      "updated_at": "2026-09-19T05:00:57Z",
+      "message": "We have applied the mitigation, and any new sessions would not run into this issue. We are monitoring the recovery.",
       "affected_components": [],
-      "url": "https://status.openai.com/incidents/01M2V76GEPJB0HQGRA0QERRZ3T"
+      "url": "https://status.openai.com/incidents/01M2VA7X37P1ASADSNZ1CG4N4D"
     }
   ]
 }
