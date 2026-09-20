@@ -1,8 +1,178 @@
 {
-  "generated_at": "2026-09-20T17:37:45.082578Z",
+  "generated_at": "2026-09-20T19:20:36.289119Z",
   "window_hours": 24,
-  "total_items": 20,
+  "total_items": 13,
   "items": [
+    {
+      "story_id": "story_a682219ecb2e",
+      "title": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
+      "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
+      "primary_url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "844d7f12ef7fac27524e36cc5345e97f538ad2cc",
+          "title": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
+          "title_zh": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
+          "title_en": null,
+          "title_original": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
+          "summary": "作者通过自己手机上的流量捕获复现了 OpenAI 广告收集器机制：bzr.openai.com 在 .openai.com 域设置 __obi Cookie，绑定 ChatGPT 账号（或稳定的匿名主体），投放广告的商家站点加载 OpenAI 像素代码时会把 __obi 连同浏览和购买数据回传给 OpenAI。",
+          "recommend_reason_zh": null,
+          "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-20T18:05:38.317000Z"
+        },
+        {
+          "id": "d8898b561a942b4d528b999df63a8c0d9c0e9b10",
+          "title": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号 / ChatGPT now knows what you do on other websites via ad collector",
+          "title_zh": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
+          "title_en": "ChatGPT now knows what you do on other websites via ad collector",
+          "title_original": "ChatGPT now knows what you do on other websites via ad collector",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
+          "source": "Hacker News front page",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-20T15:18:44Z"
+        },
+        {
+          "id": "8a8492ac98d1392dfb3c8d3deb6f2957f4ba54ad",
+          "title": "ChatGPT 现在可以通过广告收集器了解你在其他网站上的行为",
+          "title_zh": "ChatGPT 现在可以通过广告收集器了解你在其他网站上的行为",
+          "title_en": null,
+          "title_original": "ChatGPT 现在可以通过广告收集器了解你在其他网站上的行为",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
+          "source": "www.buchodi.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-20T18:05:38.317000Z"
+        },
+        {
+          "id": "7d18b5731ef9e28fff4e0ab0474ddc3c6c89b701",
+          "title": "ChatGPT 现在通过广告收集器知道您在其他网站上做了什么 / ChatGPT now knows what you do on other websites via ad collector",
+          "title_zh": "ChatGPT 现在通过广告收集器知道您在其他网站上做了什么",
+          "title_en": "ChatGPT now knows what you do on other websites via ad collector",
+          "title_original": "ChatGPT now knows what you do on other websites via ad collector",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49776729",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-20T15:18:44Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "Hacker News front page",
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "hackernews",
+        "www.buchodi.com"
+      ],
+      "items": [
+        {
+          "id": "844d7f12ef7fac27524e36cc5345e97f538ad2cc",
+          "title": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
+          "title_zh": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
+          "title_en": null,
+          "title_original": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
+          "summary": "作者通过自己手机上的流量捕获复现了 OpenAI 广告收集器机制：bzr.openai.com 在 .openai.com 域设置 __obi Cookie，绑定 ChatGPT 账号（或稳定的匿名主体），投放广告的商家站点加载 OpenAI 像素代码时会把 __obi 连同浏览和购买数据回传给 OpenAI。",
+          "recommend_reason_zh": null,
+          "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-20T18:05:38.317000Z"
+        },
+        {
+          "id": "d8898b561a942b4d528b999df63a8c0d9c0e9b10",
+          "title": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号 / ChatGPT now knows what you do on other websites via ad collector",
+          "title_zh": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
+          "title_en": "ChatGPT now knows what you do on other websites via ad collector",
+          "title_original": "ChatGPT now knows what you do on other websites via ad collector",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
+          "source": "Hacker News front page",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-20T15:18:44Z"
+        },
+        {
+          "id": "8a8492ac98d1392dfb3c8d3deb6f2957f4ba54ad",
+          "title": "ChatGPT 现在可以通过广告收集器了解你在其他网站上的行为",
+          "title_zh": "ChatGPT 现在可以通过广告收集器了解你在其他网站上的行为",
+          "title_en": null,
+          "title_original": "ChatGPT 现在可以通过广告收集器了解你在其他网站上的行为",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
+          "source": "www.buchodi.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-20T18:05:38.317000Z"
+        },
+        {
+          "id": "7d18b5731ef9e28fff4e0ab0474ddc3c6c89b701",
+          "title": "ChatGPT 现在通过广告收集器知道您在其他网站上做了什么 / ChatGPT now knows what you do on other websites via ad collector",
+          "title_zh": "ChatGPT 现在通过广告收集器知道您在其他网站上做了什么",
+          "title_en": "ChatGPT now knows what you do on other websites via ad collector",
+          "title_original": "ChatGPT now knows what you do on other websites via ad collector",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49776729",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-20T15:18:44Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.8414,
+      "importance": 0.8414,
+      "importance_score": 0.8414,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 0.95,
+        "recency": 0.9821,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-20T15:18:44Z",
+      "latest_at": "2026-09-20T18:05:38.317000Z",
+      "primary_item": {
+        "id": "844d7f12ef7fac27524e36cc5345e97f538ad2cc",
+        "title": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
+        "title_zh": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
+        "title_en": null,
+        "title_original": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
+        "summary": "作者通过自己手机上的流量捕获复现了 OpenAI 广告收集器机制：bzr.openai.com 在 .openai.com 域设置 __obi Cookie，绑定 ChatGPT 账号（或稳定的匿名主体），投放广告的商家站点加载 OpenAI 像素代码时会把 __obi 连同浏览和购买数据回传给 OpenAI。",
+        "recommend_reason_zh": null,
+        "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-20T19:21:31.750189Z"
+      }
+    },
     {
       "story_id": "story_5f6ceee05c73",
       "title": "特朗普要给“人工智能”改名：18 万人投票，“卓越智能”暂时领先",
@@ -77,15 +247,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7583,
-      "importance": 0.7583,
-      "importance_score": 0.7583,
+      "score": 0.7542,
+      "importance": 0.7542,
+      "importance_score": 0.7542,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.684,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.9248,
+        "recency": 0.9022,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -112,7 +282,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T17:38:38.799080Z"
+        "scored_at": "2026-09-20T19:21:31.750189Z"
       }
     },
     {
@@ -160,15 +330,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7333,
-      "importance": 0.7333,
-      "importance_score": 0.7333,
+      "score": 0.7292,
+      "importance": 0.7292,
+      "importance_score": 0.7292,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.684,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.9248,
+        "recency": 0.9022,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -193,7 +363,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T17:38:38.799080Z"
+        "scored_at": "2026-09-20T19:21:31.750189Z"
       }
     },
     {
@@ -269,15 +439,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6914,
-      "importance": 0.6914,
-      "importance_score": 0.6914,
+      "score": 0.6873,
+      "importance": 0.6873,
+      "importance_score": 0.6873,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.648,
         "source_tier": 0.58,
         "ai_relevance": 0.9,
-        "recency": 0.9131,
+        "recency": 0.8908,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -303,7 +473,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T17:38:38.799080Z"
+        "scored_at": "2026-09-20T19:21:31.750189Z"
       }
     },
     {
@@ -351,15 +521,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7333,
-      "importance": 0.7333,
-      "importance_score": 0.7333,
+      "score": 0.7292,
+      "importance": 0.7292,
+      "importance_score": 0.7292,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.684,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.9248,
+        "recency": 0.9022,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -384,44 +554,44 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T17:38:38.799080Z"
+        "scored_at": "2026-09-20T19:21:31.750189Z"
       }
     },
     {
-      "story_id": "story_a682219ecb2e",
-      "title": "ChatGPT 现在通过广告收集器知道您在其他网站上做了什么 / ChatGPT now knows what you do on other websites via ad collector",
-      "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
-      "primary_url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
+      "story_id": "story_ba2ca1619666",
+      "title": "Show HN：三个同步锁相 RP2350B 组成一个控制台 – 每行 3k 精灵像素） / Show HN: Three genlocked RP2350B make a console – 3k sprite pixels per line)",
+      "url": "https://www.papydeck.eu",
+      "primary_url": "https://www.papydeck.eu",
       "source": "Hacker News front page",
       "source_name": "Curated Media",
       "sources": [
         {
-          "id": "d8898b561a942b4d528b999df63a8c0d9c0e9b10",
-          "title": "ChatGPT 现在通过广告收集器知道您在其他网站上做了什么 / ChatGPT now knows what you do on other websites via ad collector",
-          "title_zh": "ChatGPT 现在通过广告收集器知道您在其他网站上做了什么",
-          "title_en": "ChatGPT now knows what you do on other websites via ad collector",
-          "title_original": "ChatGPT now knows what you do on other websites via ad collector",
+          "id": "4b6ef19de49e48252d5226e6760b25d057b4d74c",
+          "title": "Show HN：三个同步锁相 RP2350B 组成一个控制台 – 每行 3k 精灵像素） / Show HN: Three genlocked RP2350B make a console – 3k sprite pixels per line)",
+          "title_zh": "Show HN：三个同步锁相 RP2350B 组成一个控制台 – 每行 3k 精灵像素）",
+          "title_en": "Show HN: Three genlocked RP2350B make a console – 3k sprite pixels per line)",
+          "title_original": "Show HN: Three genlocked RP2350B make a console – 3k sprite pixels per line)",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
+          "url": "https://www.papydeck.eu",
           "source": "Hacker News front page",
           "source_name": "Curated Media",
           "site_id": "curated_media",
-          "published_at": "2026-09-20T15:18:44Z"
+          "published_at": "2026-09-20T17:37:06Z"
         },
         {
-          "id": "7d18b5731ef9e28fff4e0ab0474ddc3c6c89b701",
-          "title": "ChatGPT 现在通过广告收集器知道您在其他网站上做了什么 / ChatGPT now knows what you do on other websites via ad collector",
-          "title_zh": "ChatGPT 现在通过广告收集器知道您在其他网站上做了什么",
-          "title_en": "ChatGPT now knows what you do on other websites via ad collector",
-          "title_original": "ChatGPT now knows what you do on other websites via ad collector",
+          "id": "43552ac776591c032f93ffbbf4d40d50a143694b",
+          "title": "Show HN：三个同步锁相 RP2350B 组成一个控制台 – 每行 3k 精灵像素） / Show HN: Three genlocked RP2350B make a console – 3k sprite pixels per line)",
+          "title_zh": "Show HN：三个同步锁相 RP2350B 组成一个控制台 – 每行 3k 精灵像素）",
+          "title_en": "Show HN: Three genlocked RP2350B make a console – 3k sprite pixels per line)",
+          "title_original": "Show HN: Three genlocked RP2350B make a console – 3k sprite pixels per line)",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49776729",
+          "url": "https://news.ycombinator.com/item?id=49778008",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-09-20T15:18:44Z"
+          "published_at": "2026-09-20T17:37:06Z"
         }
       ],
       "source_count": 2,
@@ -431,62 +601,62 @@
       ],
       "items": [
         {
-          "id": "d8898b561a942b4d528b999df63a8c0d9c0e9b10",
-          "title": "ChatGPT 现在通过广告收集器知道您在其他网站上做了什么 / ChatGPT now knows what you do on other websites via ad collector",
-          "title_zh": "ChatGPT 现在通过广告收集器知道您在其他网站上做了什么",
-          "title_en": "ChatGPT now knows what you do on other websites via ad collector",
-          "title_original": "ChatGPT now knows what you do on other websites via ad collector",
+          "id": "4b6ef19de49e48252d5226e6760b25d057b4d74c",
+          "title": "Show HN：三个同步锁相 RP2350B 组成一个控制台 – 每行 3k 精灵像素） / Show HN: Three genlocked RP2350B make a console – 3k sprite pixels per line)",
+          "title_zh": "Show HN：三个同步锁相 RP2350B 组成一个控制台 – 每行 3k 精灵像素）",
+          "title_en": "Show HN: Three genlocked RP2350B make a console – 3k sprite pixels per line)",
+          "title_original": "Show HN: Three genlocked RP2350B make a console – 3k sprite pixels per line)",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
+          "url": "https://www.papydeck.eu",
           "source": "Hacker News front page",
           "source_name": "Curated Media",
           "site_id": "curated_media",
-          "published_at": "2026-09-20T15:18:44Z"
+          "published_at": "2026-09-20T17:37:06Z"
         },
         {
-          "id": "7d18b5731ef9e28fff4e0ab0474ddc3c6c89b701",
-          "title": "ChatGPT 现在通过广告收集器知道您在其他网站上做了什么 / ChatGPT now knows what you do on other websites via ad collector",
-          "title_zh": "ChatGPT 现在通过广告收集器知道您在其他网站上做了什么",
-          "title_en": "ChatGPT now knows what you do on other websites via ad collector",
-          "title_original": "ChatGPT now knows what you do on other websites via ad collector",
+          "id": "43552ac776591c032f93ffbbf4d40d50a143694b",
+          "title": "Show HN：三个同步锁相 RP2350B 组成一个控制台 – 每行 3k 精灵像素） / Show HN: Three genlocked RP2350B make a console – 3k sprite pixels per line)",
+          "title_zh": "Show HN：三个同步锁相 RP2350B 组成一个控制台 – 每行 3k 精灵像素）",
+          "title_en": "Show HN: Three genlocked RP2350B make a console – 3k sprite pixels per line)",
+          "title_original": "Show HN: Three genlocked RP2350B make a console – 3k sprite pixels per line)",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49776729",
+          "url": "https://news.ycombinator.com/item?id=49778008",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-09-20T15:18:44Z"
+          "published_at": "2026-09-20T17:37:06Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6512,
-      "importance": 0.6512,
-      "importance_score": 0.6512,
+      "score": 0.6527,
+      "importance": 0.6527,
+      "importance_score": 0.6527,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5616,
         "source_tier": 0.58,
         "ai_relevance": 0.78,
-        "recency": 0.9671,
+        "recency": 0.9754,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-20T15:18:44Z",
-      "latest_at": "2026-09-20T15:18:44Z",
+      "earliest_at": "2026-09-20T17:37:06Z",
+      "latest_at": "2026-09-20T17:37:06Z",
       "primary_item": {
-        "id": "d8898b561a942b4d528b999df63a8c0d9c0e9b10",
-        "title": "ChatGPT 现在通过广告收集器知道您在其他网站上做了什么 / ChatGPT now knows what you do on other websites via ad collector",
-        "title_zh": "ChatGPT 现在通过广告收集器知道您在其他网站上做了什么",
-        "title_en": "ChatGPT now knows what you do on other websites via ad collector",
-        "title_original": "ChatGPT now knows what you do on other websites via ad collector",
+        "id": "4b6ef19de49e48252d5226e6760b25d057b4d74c",
+        "title": "Show HN：三个同步锁相 RP2350B 组成一个控制台 – 每行 3k 精灵像素） / Show HN: Three genlocked RP2350B make a console – 3k sprite pixels per line)",
+        "title_zh": "Show HN：三个同步锁相 RP2350B 组成一个控制台 – 每行 3k 精灵像素）",
+        "title_en": "Show HN: Three genlocked RP2350B make a console – 3k sprite pixels per line)",
+        "title_original": "Show HN: Three genlocked RP2350B make a console – 3k sprite pixels per line)",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
+        "url": "https://www.papydeck.eu",
         "source": "Hacker News front page",
         "source_name": "Curated Media"
       },
@@ -494,7 +664,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T17:38:38.799080Z"
+        "scored_at": "2026-09-20T19:21:31.750189Z"
       }
     },
     {
@@ -542,15 +712,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7333,
-      "importance": 0.7333,
-      "importance_score": 0.7333,
+      "score": 0.7292,
+      "importance": 0.7292,
+      "importance_score": 0.7292,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.684,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.9248,
+        "recency": 0.9022,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -575,7 +745,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T17:38:38.799080Z"
+        "scored_at": "2026-09-20T19:21:31.750189Z"
       }
     },
     {
@@ -652,15 +822,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.651,
-      "importance": 0.651,
-      "importance_score": 0.651,
+      "score": 0.6468,
+      "importance": 0.6468,
+      "importance_score": 0.6468,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5616,
         "source_tier": 0.58,
         "ai_relevance": 0.78,
-        "recency": 0.9665,
+        "recency": 0.9429,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -685,88 +855,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T17:38:38.799080Z"
-      }
-    },
-    {
-      "story_id": "story_768e87b81386",
-      "title": "Anthropic 把 IPO 推到 11 月：2 万亿美元估值剑指 SpaceX 纪录，安全警告成上市前的\"护身符\"",
-      "url": "https://www.aibase.com/news/31199",
-      "primary_url": "https://www.aibase.com/news/31199",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "8c3b0e698ba2c868806c1f6f036ca6441eeec335",
-          "title": "Anthropic 把 IPO 推到 11 月：2 万亿美元估值剑指 SpaceX 纪录，安全警告成上市前的\"护身符\"",
-          "title_zh": "Anthropic 把 IPO 推到 11 月：2 万亿美元估值剑指 SpaceX 纪录，安全警告成上市前的\"护身符\"",
-          "title_en": null,
-          "title_original": "Anthropic 把 IPO 推到 11 月：2 万亿美元估值剑指 SpaceX 纪录，安全警告成上市前的\"护身符\"",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31199",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T07:54:07.651896Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "8c3b0e698ba2c868806c1f6f036ca6441eeec335",
-          "title": "Anthropic 把 IPO 推到 11 月：2 万亿美元估值剑指 SpaceX 纪录，安全警告成上市前的\"护身符\"",
-          "title_zh": "Anthropic 把 IPO 推到 11 月：2 万亿美元估值剑指 SpaceX 纪录，安全警告成上市前的\"护身符\"",
-          "title_en": null,
-          "title_original": "Anthropic 把 IPO 推到 11 月：2 万亿美元估值剑指 SpaceX 纪录，安全警告成上市前的\"护身符\"",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31199",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T07:54:07.651896Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7232,
-      "importance": 0.7232,
-      "importance_score": 0.7232,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.684,
-        "source_tier": 0.78,
-        "ai_relevance": 0.95,
-        "recency": 0.869,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-20T07:54:07.651896Z",
-      "latest_at": "2026-09-20T07:54:07.651896Z",
-      "primary_item": {
-        "id": "8c3b0e698ba2c868806c1f6f036ca6441eeec335",
-        "title": "Anthropic 把 IPO 推到 11 月：2 万亿美元估值剑指 SpaceX 纪录，安全警告成上市前的\"护身符\"",
-        "title_zh": "Anthropic 把 IPO 推到 11 月：2 万亿美元估值剑指 SpaceX 纪录，安全警告成上市前的\"护身符\"",
-        "title_en": null,
-        "title_original": "Anthropic 把 IPO 推到 11 月：2 万亿美元估值剑指 SpaceX 纪录，安全警告成上市前的\"护身符\"",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31199",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-20T17:38:38.799080Z"
+        "scored_at": "2026-09-20T19:21:31.750189Z"
       }
     },
     {
@@ -843,15 +932,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6371,
-      "importance": 0.6371,
-      "importance_score": 0.6371,
+      "score": 0.6334,
+      "importance": 0.6334,
+      "importance_score": 0.6334,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.576,
         "source_tier": 0.58,
         "ai_relevance": 0.8,
-        "recency": 0.8426,
+        "recency": 0.822,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -877,88 +966,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T17:38:38.799080Z"
-      }
-    },
-    {
-      "story_id": "story_d1c800dec247",
-      "title": "Anthropic考虑推出新模型，拟应对OpenAI GPT-6Astra竞争",
-      "url": "https://www.aibase.com/news/31180",
-      "primary_url": "https://www.aibase.com/news/31180",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "97e0cc0aad5b39188ac19fd105397fe1e9575784",
-          "title": "Anthropic考虑推出新模型，拟应对OpenAI GPT-6Astra竞争",
-          "title_zh": "Anthropic考虑推出新模型，拟应对OpenAI GPT-6Astra竞争",
-          "title_en": null,
-          "title_original": "Anthropic考虑推出新模型，拟应对OpenAI GPT-6Astra竞争",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31180",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T07:54:07.651896Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "97e0cc0aad5b39188ac19fd105397fe1e9575784",
-          "title": "Anthropic考虑推出新模型，拟应对OpenAI GPT-6Astra竞争",
-          "title_zh": "Anthropic考虑推出新模型，拟应对OpenAI GPT-6Astra竞争",
-          "title_en": null,
-          "title_original": "Anthropic考虑推出新模型，拟应对OpenAI GPT-6Astra竞争",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31180",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T07:54:07.651896Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7232,
-      "importance": 0.7232,
-      "importance_score": 0.7232,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.684,
-        "source_tier": 0.78,
-        "ai_relevance": 0.95,
-        "recency": 0.869,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-20T07:54:07.651896Z",
-      "latest_at": "2026-09-20T07:54:07.651896Z",
-      "primary_item": {
-        "id": "97e0cc0aad5b39188ac19fd105397fe1e9575784",
-        "title": "Anthropic考虑推出新模型，拟应对OpenAI GPT-6Astra竞争",
-        "title_zh": "Anthropic考虑推出新模型，拟应对OpenAI GPT-6Astra竞争",
-        "title_en": null,
-        "title_original": "Anthropic考虑推出新模型，拟应对OpenAI GPT-6Astra竞争",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31180",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-20T17:38:38.799080Z"
+        "scored_at": "2026-09-20T19:21:31.750189Z"
       }
     },
     {
@@ -1035,15 +1043,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6363,
-      "importance": 0.6363,
-      "importance_score": 0.6363,
+      "score": 0.6324,
+      "importance": 0.6324,
+      "importance_score": 0.6324,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5616,
         "source_tier": 0.58,
         "ai_relevance": 0.78,
-        "recency": 0.8847,
+        "recency": 0.8631,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1068,331 +1076,226 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T17:38:38.799080Z"
+        "scored_at": "2026-09-20T19:21:31.750189Z"
       }
     },
     {
-      "story_id": "story_ddac4dc50eac",
-      "title": "B 站上线“AI 无限竞技场”：百大模型同台 PK，GPT-6 Astra 暂居榜首",
-      "url": "https://www.aibase.com/news/31193",
-      "primary_url": "https://www.aibase.com/news/31193",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_94df048bdfce",
+      "title": "苹果 iPhone 18 Pro 相机测试 / Apple iPhone 18 Pro Camera test",
+      "url": "https://www.dxomark.com/apple-iphone-18-pro-camera-test",
+      "primary_url": "https://www.dxomark.com/apple-iphone-18-pro-camera-test",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
       "sources": [
         {
-          "id": "a8bc0ebee88f1fa467aeb606ca5bdce3fbd99513",
-          "title": "B 站上线“AI 无限竞技场”：百大模型同台 PK，GPT-6 Astra 暂居榜首",
-          "title_zh": "B 站上线“AI 无限竞技场”：百大模型同台 PK，GPT-6 Astra 暂居榜首",
-          "title_en": null,
-          "title_original": "B 站上线“AI 无限竞技场”：百大模型同台 PK，GPT-6 Astra 暂居榜首",
+          "id": "046bdefa42fae0f22347153334bc39636b0759b5",
+          "title": "苹果 iPhone 18 Pro 相机测试 / Apple iPhone 18 Pro Camera test",
+          "title_zh": "苹果 iPhone 18 Pro 相机测试",
+          "title_en": "Apple iPhone 18 Pro Camera test",
+          "title_original": "Apple iPhone 18 Pro Camera test",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31193",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T07:54:07.651896Z"
+          "url": "https://www.dxomark.com/apple-iphone-18-pro-camera-test",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-20T00:00:47Z"
+        },
+        {
+          "id": "01e8f8f87e1652d669cd7adbc7c2678d80a7a93e",
+          "title": "苹果 iPhone 18 Pro 相机测试 / Apple iPhone 18 Pro Camera test",
+          "title_zh": "苹果 iPhone 18 Pro 相机测试",
+          "title_en": "Apple iPhone 18 Pro Camera test",
+          "title_original": "Apple iPhone 18 Pro Camera test",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49771218",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-20T00:00:47Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "Hacker News · 24h最热",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "a8bc0ebee88f1fa467aeb606ca5bdce3fbd99513",
-          "title": "B 站上线“AI 无限竞技场”：百大模型同台 PK，GPT-6 Astra 暂居榜首",
-          "title_zh": "B 站上线“AI 无限竞技场”：百大模型同台 PK，GPT-6 Astra 暂居榜首",
-          "title_en": null,
-          "title_original": "B 站上线“AI 无限竞技场”：百大模型同台 PK，GPT-6 Astra 暂居榜首",
+          "id": "046bdefa42fae0f22347153334bc39636b0759b5",
+          "title": "苹果 iPhone 18 Pro 相机测试 / Apple iPhone 18 Pro Camera test",
+          "title_zh": "苹果 iPhone 18 Pro 相机测试",
+          "title_en": "Apple iPhone 18 Pro Camera test",
+          "title_original": "Apple iPhone 18 Pro Camera test",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31193",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T07:54:07.651896Z"
+          "url": "https://www.dxomark.com/apple-iphone-18-pro-camera-test",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-20T00:00:47Z"
+        },
+        {
+          "id": "01e8f8f87e1652d669cd7adbc7c2678d80a7a93e",
+          "title": "苹果 iPhone 18 Pro 相机测试 / Apple iPhone 18 Pro Camera test",
+          "title_zh": "苹果 iPhone 18 Pro 相机测试",
+          "title_en": "Apple iPhone 18 Pro Camera test",
+          "title_original": "Apple iPhone 18 Pro Camera test",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49771218",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-20T00:00:47Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7232,
-      "importance": 0.7232,
-      "importance_score": 0.7232,
-      "importance_label": "行业动态",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.502,
+      "importance": 0.502,
+      "importance_score": 0.502,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.684,
-        "source_tier": 0.78,
-        "ai_relevance": 0.95,
-        "recency": 0.869,
-        "story_heat": 0.0
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7564,
+        "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-09-20T07:54:07.651896Z",
-      "latest_at": "2026-09-20T07:54:07.651896Z",
+      "earliest_at": "2026-09-20T00:00:47Z",
+      "latest_at": "2026-09-20T00:00:47Z",
       "primary_item": {
-        "id": "a8bc0ebee88f1fa467aeb606ca5bdce3fbd99513",
-        "title": "B 站上线“AI 无限竞技场”：百大模型同台 PK，GPT-6 Astra 暂居榜首",
-        "title_zh": "B 站上线“AI 无限竞技场”：百大模型同台 PK，GPT-6 Astra 暂居榜首",
-        "title_en": null,
-        "title_original": "B 站上线“AI 无限竞技场”：百大模型同台 PK，GPT-6 Astra 暂居榜首",
+        "id": "046bdefa42fae0f22347153334bc39636b0759b5",
+        "title": "苹果 iPhone 18 Pro 相机测试 / Apple iPhone 18 Pro Camera test",
+        "title_zh": "苹果 iPhone 18 Pro 相机测试",
+        "title_en": "Apple iPhone 18 Pro Camera test",
+        "title_original": "Apple iPhone 18 Pro Camera test",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31193",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "url": "https://www.dxomark.com/apple-iphone-18-pro-camera-test",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T17:38:38.799080Z"
+        "scored_at": "2026-09-20T19:21:31.750189Z"
       }
     },
     {
-      "story_id": "story_14c13d81a3a8",
-      "title": "B站上线\"AI 无限竞技场\"测评榜：上百模型同场厮杀，GPT-6 暂坐头把交椅",
-      "url": "https://www.aibase.com/news/31192",
-      "primary_url": "https://www.aibase.com/news/31192",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_8c6e00ff1c29",
+      "title": "Prompts Aren't Real",
+      "url": "https://evaluation.club",
+      "primary_url": "https://evaluation.club",
+      "source": "Hacker News front page",
+      "source_name": "Curated Media",
       "sources": [
         {
-          "id": "82999d0580f5197438f19f75ca06160e51996b3c",
-          "title": "B站上线\"AI 无限竞技场\"测评榜：上百模型同场厮杀，GPT-6 暂坐头把交椅",
-          "title_zh": "B站上线\"AI 无限竞技场\"测评榜：上百模型同场厮杀，GPT-6 暂坐头把交椅",
-          "title_en": null,
-          "title_original": "B站上线\"AI 无限竞技场\"测评榜：上百模型同场厮杀，GPT-6 暂坐头把交椅",
+          "id": "2bdad2eec632591c36a65f7f4943a748e0e7da09",
+          "title": "Prompts Aren't Real",
+          "title_zh": null,
+          "title_en": "Prompts Aren't Real",
+          "title_original": "Prompts Aren't Real",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31192",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T07:54:07.651896Z"
+          "url": "https://evaluation.club",
+          "source": "Hacker News front page",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-20T15:59:25Z"
+        },
+        {
+          "id": "762de099a9e382ca81a9544669ee317034187ecf",
+          "title": "Prompts aren’t Real",
+          "title_zh": null,
+          "title_en": "Prompts aren’t Real",
+          "title_original": "Prompts aren’t Real",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://evaluation.club",
+          "source": "Hacker News front page",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-20T15:59:25Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "Hacker News front page"
       ],
       "items": [
         {
-          "id": "82999d0580f5197438f19f75ca06160e51996b3c",
-          "title": "B站上线\"AI 无限竞技场\"测评榜：上百模型同场厮杀，GPT-6 暂坐头把交椅",
-          "title_zh": "B站上线\"AI 无限竞技场\"测评榜：上百模型同场厮杀，GPT-6 暂坐头把交椅",
-          "title_en": null,
-          "title_original": "B站上线\"AI 无限竞技场\"测评榜：上百模型同场厮杀，GPT-6 暂坐头把交椅",
+          "id": "2bdad2eec632591c36a65f7f4943a748e0e7da09",
+          "title": "Prompts Aren't Real",
+          "title_zh": null,
+          "title_en": "Prompts Aren't Real",
+          "title_original": "Prompts Aren't Real",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31192",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T07:54:07.651896Z"
+          "url": "https://evaluation.club",
+          "source": "Hacker News front page",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-20T15:59:25Z"
+        },
+        {
+          "id": "762de099a9e382ca81a9544669ee317034187ecf",
+          "title": "Prompts aren’t Real",
+          "title_zh": null,
+          "title_en": "Prompts aren’t Real",
+          "title_original": "Prompts aren’t Real",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://evaluation.club",
+          "source": "Hacker News front page",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-20T15:59:25Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7232,
-      "importance": 0.7232,
-      "importance_score": 0.7232,
-      "importance_label": "行业动态",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5711,
+      "importance": 0.5711,
+      "importance_score": 0.5711,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.684,
-        "source_tier": 0.78,
-        "ai_relevance": 0.95,
-        "recency": 0.869,
-        "story_heat": 0.0
+        "editorial": 0.45,
+        "source_tier": 0.58,
+        "ai_relevance": 0.56,
+        "recency": 0.9527,
+        "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-09-20T07:54:07.651896Z",
-      "latest_at": "2026-09-20T07:54:07.651896Z",
+      "earliest_at": "2026-09-20T15:59:25Z",
+      "latest_at": "2026-09-20T15:59:25Z",
       "primary_item": {
-        "id": "82999d0580f5197438f19f75ca06160e51996b3c",
-        "title": "B站上线\"AI 无限竞技场\"测评榜：上百模型同场厮杀，GPT-6 暂坐头把交椅",
-        "title_zh": "B站上线\"AI 无限竞技场\"测评榜：上百模型同场厮杀，GPT-6 暂坐头把交椅",
-        "title_en": null,
-        "title_original": "B站上线\"AI 无限竞技场\"测评榜：上百模型同场厮杀，GPT-6 暂坐头把交椅",
+        "id": "2bdad2eec632591c36a65f7f4943a748e0e7da09",
+        "title": "Prompts Aren't Real",
+        "title_zh": null,
+        "title_en": "Prompts Aren't Real",
+        "title_original": "Prompts Aren't Real",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31192",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "url": "https://evaluation.club",
+        "source": "Hacker News front page",
+        "source_name": "Curated Media"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T17:38:38.799080Z"
-      }
-    },
-    {
-      "story_id": "story_2cfaa4801b8e",
-      "title": "ChatGPT 正式入驻 Word：免费用户也能用，办公文档里三套 AI 同台厮杀",
-      "url": "https://www.aibase.com/news/31184",
-      "primary_url": "https://www.aibase.com/news/31184",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "d90342d5cace8758cb65582174d867ec5a6896f2",
-          "title": "ChatGPT 正式入驻 Word：免费用户也能用，办公文档里三套 AI 同台厮杀",
-          "title_zh": "ChatGPT 正式入驻 Word：免费用户也能用，办公文档里三套 AI 同台厮杀",
-          "title_en": null,
-          "title_original": "ChatGPT 正式入驻 Word：免费用户也能用，办公文档里三套 AI 同台厮杀",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31184",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T07:54:07.651896Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "d90342d5cace8758cb65582174d867ec5a6896f2",
-          "title": "ChatGPT 正式入驻 Word：免费用户也能用，办公文档里三套 AI 同台厮杀",
-          "title_zh": "ChatGPT 正式入驻 Word：免费用户也能用，办公文档里三套 AI 同台厮杀",
-          "title_en": null,
-          "title_original": "ChatGPT 正式入驻 Word：免费用户也能用，办公文档里三套 AI 同台厮杀",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31184",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T07:54:07.651896Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7232,
-      "importance": 0.7232,
-      "importance_score": 0.7232,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.684,
-        "source_tier": 0.78,
-        "ai_relevance": 0.95,
-        "recency": 0.869,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-20T07:54:07.651896Z",
-      "latest_at": "2026-09-20T07:54:07.651896Z",
-      "primary_item": {
-        "id": "d90342d5cace8758cb65582174d867ec5a6896f2",
-        "title": "ChatGPT 正式入驻 Word：免费用户也能用，办公文档里三套 AI 同台厮杀",
-        "title_zh": "ChatGPT 正式入驻 Word：免费用户也能用，办公文档里三套 AI 同台厮杀",
-        "title_en": null,
-        "title_original": "ChatGPT 正式入驻 Word：免费用户也能用，办公文档里三套 AI 同台厮杀",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31184",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-20T17:38:38.799080Z"
-      }
-    },
-    {
-      "story_id": "story_919e226efbae",
-      "title": "DeepSeek明确调休日计费规则，中秋国庆迎来十天\"半价窗口\"",
-      "url": "https://www.aibase.com/news/31191",
-      "primary_url": "https://www.aibase.com/news/31191",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "153c2fdd94c035054d3218ec0941a6dd0e4421f5",
-          "title": "DeepSeek明确调休日计费规则，中秋国庆迎来十天\"半价窗口\"",
-          "title_zh": "DeepSeek明确调休日计费规则，中秋国庆迎来十天\"半价窗口\"",
-          "title_en": null,
-          "title_original": "DeepSeek明确调休日计费规则，中秋国庆迎来十天\"半价窗口\"",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31191",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T07:54:07.651896Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "153c2fdd94c035054d3218ec0941a6dd0e4421f5",
-          "title": "DeepSeek明确调休日计费规则，中秋国庆迎来十天\"半价窗口\"",
-          "title_zh": "DeepSeek明确调休日计费规则，中秋国庆迎来十天\"半价窗口\"",
-          "title_en": null,
-          "title_original": "DeepSeek明确调休日计费规则，中秋国庆迎来十天\"半价窗口\"",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31191",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T07:54:07.651896Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7232,
-      "importance": 0.7232,
-      "importance_score": 0.7232,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.684,
-        "source_tier": 0.78,
-        "ai_relevance": 0.95,
-        "recency": 0.869,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-20T07:54:07.651896Z",
-      "latest_at": "2026-09-20T07:54:07.651896Z",
-      "primary_item": {
-        "id": "153c2fdd94c035054d3218ec0941a6dd0e4421f5",
-        "title": "DeepSeek明确调休日计费规则，中秋国庆迎来十天\"半价窗口\"",
-        "title_zh": "DeepSeek明确调休日计费规则，中秋国庆迎来十天\"半价窗口\"",
-        "title_en": null,
-        "title_original": "DeepSeek明确调休日计费规则，中秋国庆迎来十天\"半价窗口\"",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31191",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-20T17:38:38.799080Z"
+        "scored_at": "2026-09-20T19:21:31.750189Z"
       }
     },
     {
@@ -1469,15 +1372,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5611,
-      "importance": 0.5611,
-      "importance_score": 0.5611,
+      "score": 0.5572,
+      "importance": 0.5572,
+      "importance_score": 0.5572,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.45,
         "source_tier": 0.58,
         "ai_relevance": 0.56,
-        "recency": 0.8974,
+        "recency": 0.8754,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1502,331 +1405,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T17:38:38.799080Z"
-      }
-    },
-    {
-      "story_id": "story_c8c3263ec134",
-      "title": "GPT-6 Astra 联手人类攻破重大进展级数学难题：AI 不再只是解题机，成了规律发现者",
-      "url": "https://www.aibase.com/news/31195",
-      "primary_url": "https://www.aibase.com/news/31195",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "4e86e6d63db0480d4d8b1c50b780b041357d7fcc",
-          "title": "GPT-6 Astra 联手人类攻破重大进展级数学难题：AI 不再只是解题机，成了规律发现者",
-          "title_zh": "GPT-6 Astra 联手人类攻破重大进展级数学难题：AI 不再只是解题机，成了规律发现者",
-          "title_en": null,
-          "title_original": "GPT-6 Astra 联手人类攻破重大进展级数学难题：AI 不再只是解题机，成了规律发现者",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31195",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T07:54:07.651896Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "4e86e6d63db0480d4d8b1c50b780b041357d7fcc",
-          "title": "GPT-6 Astra 联手人类攻破重大进展级数学难题：AI 不再只是解题机，成了规律发现者",
-          "title_zh": "GPT-6 Astra 联手人类攻破重大进展级数学难题：AI 不再只是解题机，成了规律发现者",
-          "title_en": null,
-          "title_original": "GPT-6 Astra 联手人类攻破重大进展级数学难题：AI 不再只是解题机，成了规律发现者",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31195",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T07:54:07.651896Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7232,
-      "importance": 0.7232,
-      "importance_score": 0.7232,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.684,
-        "source_tier": 0.78,
-        "ai_relevance": 0.95,
-        "recency": 0.869,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-20T07:54:07.651896Z",
-      "latest_at": "2026-09-20T07:54:07.651896Z",
-      "primary_item": {
-        "id": "4e86e6d63db0480d4d8b1c50b780b041357d7fcc",
-        "title": "GPT-6 Astra 联手人类攻破重大进展级数学难题：AI 不再只是解题机，成了规律发现者",
-        "title_zh": "GPT-6 Astra 联手人类攻破重大进展级数学难题：AI 不再只是解题机，成了规律发现者",
-        "title_en": null,
-        "title_original": "GPT-6 Astra 联手人类攻破重大进展级数学难题：AI 不再只是解题机，成了规律发现者",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31195",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-20T17:38:38.799080Z"
-      }
-    },
-    {
-      "story_id": "story_f4d7dbb9fffa",
-      "title": "Unity 官宣 Claude Code 与 Codex 插件：31 项开发技能把 AI 代理绑上游戏引擎",
-      "url": "https://www.aibase.com/news/31188",
-      "primary_url": "https://www.aibase.com/news/31188",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "e183d27ed4cc78b69a3f36ac35f6a633adb28374",
-          "title": "Unity 官宣 Claude Code 与 Codex 插件：31 项开发技能把 AI 代理绑上游戏引擎",
-          "title_zh": "Unity 官宣 Claude Code 与 Codex 插件：31 项开发技能把 AI 代理绑上游戏引擎",
-          "title_en": null,
-          "title_original": "Unity 官宣 Claude Code 与 Codex 插件：31 项开发技能把 AI 代理绑上游戏引擎",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31188",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T07:54:07.651896Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "e183d27ed4cc78b69a3f36ac35f6a633adb28374",
-          "title": "Unity 官宣 Claude Code 与 Codex 插件：31 项开发技能把 AI 代理绑上游戏引擎",
-          "title_zh": "Unity 官宣 Claude Code 与 Codex 插件：31 项开发技能把 AI 代理绑上游戏引擎",
-          "title_en": null,
-          "title_original": "Unity 官宣 Claude Code 与 Codex 插件：31 项开发技能把 AI 代理绑上游戏引擎",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31188",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T07:54:07.651896Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7232,
-      "importance": 0.7232,
-      "importance_score": 0.7232,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.684,
-        "source_tier": 0.78,
-        "ai_relevance": 0.95,
-        "recency": 0.869,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-20T07:54:07.651896Z",
-      "latest_at": "2026-09-20T07:54:07.651896Z",
-      "primary_item": {
-        "id": "e183d27ed4cc78b69a3f36ac35f6a633adb28374",
-        "title": "Unity 官宣 Claude Code 与 Codex 插件：31 项开发技能把 AI 代理绑上游戏引擎",
-        "title_zh": "Unity 官宣 Claude Code 与 Codex 插件：31 项开发技能把 AI 代理绑上游戏引擎",
-        "title_en": null,
-        "title_original": "Unity 官宣 Claude Code 与 Codex 插件：31 项开发技能把 AI 代理绑上游戏引擎",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31188",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-20T17:38:38.799080Z"
-      }
-    },
-    {
-      "story_id": "story_874b8a85f11d",
-      "title": "千问发布 Qwen3.8-LiveTranslate 同声传译大模型：原文译文同屏出，字均延迟压到 2.3 秒",
-      "url": "https://www.aibase.com/news/31181",
-      "primary_url": "https://www.aibase.com/news/31181",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "4b688ff41821d920cce657e199a68248e2d32044",
-          "title": "千问发布 Qwen3.8-LiveTranslate 同声传译大模型：原文译文同屏出，字均延迟压到 2.3 秒",
-          "title_zh": "千问发布 Qwen3.8-LiveTranslate 同声传译大模型：原文译文同屏出，字均延迟压到 2.3 秒",
-          "title_en": null,
-          "title_original": "千问发布 Qwen3.8-LiveTranslate 同声传译大模型：原文译文同屏出，字均延迟压到 2.3 秒",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31181",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T07:54:07.651896Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "4b688ff41821d920cce657e199a68248e2d32044",
-          "title": "千问发布 Qwen3.8-LiveTranslate 同声传译大模型：原文译文同屏出，字均延迟压到 2.3 秒",
-          "title_zh": "千问发布 Qwen3.8-LiveTranslate 同声传译大模型：原文译文同屏出，字均延迟压到 2.3 秒",
-          "title_en": null,
-          "title_original": "千问发布 Qwen3.8-LiveTranslate 同声传译大模型：原文译文同屏出，字均延迟压到 2.3 秒",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31181",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T07:54:07.651896Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7232,
-      "importance": 0.7232,
-      "importance_score": 0.7232,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.684,
-        "source_tier": 0.78,
-        "ai_relevance": 0.95,
-        "recency": 0.869,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-20T07:54:07.651896Z",
-      "latest_at": "2026-09-20T07:54:07.651896Z",
-      "primary_item": {
-        "id": "4b688ff41821d920cce657e199a68248e2d32044",
-        "title": "千问发布 Qwen3.8-LiveTranslate 同声传译大模型：原文译文同屏出，字均延迟压到 2.3 秒",
-        "title_zh": "千问发布 Qwen3.8-LiveTranslate 同声传译大模型：原文译文同屏出，字均延迟压到 2.3 秒",
-        "title_en": null,
-        "title_original": "千问发布 Qwen3.8-LiveTranslate 同声传译大模型：原文译文同屏出，字均延迟压到 2.3 秒",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31181",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-20T17:38:38.799080Z"
-      }
-    },
-    {
-      "story_id": "story_c096011f87e1",
-      "title": "启元机器人接入腾讯云WorkBuddy，AI首次从屏幕\"走\"进物理世界",
-      "url": "https://www.aibase.com/news/31190",
-      "primary_url": "https://www.aibase.com/news/31190",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "98862ac4c8266264c05c1198d2854645bba8210f",
-          "title": "启元机器人接入腾讯云WorkBuddy，AI首次从屏幕\"走\"进物理世界",
-          "title_zh": "启元机器人接入腾讯云WorkBuddy，AI首次从屏幕\"走\"进物理世界",
-          "title_en": null,
-          "title_original": "启元机器人接入腾讯云WorkBuddy，AI首次从屏幕\"走\"进物理世界",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31190",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T07:54:07.651896Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "98862ac4c8266264c05c1198d2854645bba8210f",
-          "title": "启元机器人接入腾讯云WorkBuddy，AI首次从屏幕\"走\"进物理世界",
-          "title_zh": "启元机器人接入腾讯云WorkBuddy，AI首次从屏幕\"走\"进物理世界",
-          "title_en": null,
-          "title_original": "启元机器人接入腾讯云WorkBuddy，AI首次从屏幕\"走\"进物理世界",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31190",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T07:54:07.651896Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7232,
-      "importance": 0.7232,
-      "importance_score": 0.7232,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.684,
-        "source_tier": 0.78,
-        "ai_relevance": 0.95,
-        "recency": 0.869,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-20T07:54:07.651896Z",
-      "latest_at": "2026-09-20T07:54:07.651896Z",
-      "primary_item": {
-        "id": "98862ac4c8266264c05c1198d2854645bba8210f",
-        "title": "启元机器人接入腾讯云WorkBuddy，AI首次从屏幕\"走\"进物理世界",
-        "title_zh": "启元机器人接入腾讯云WorkBuddy，AI首次从屏幕\"走\"进物理世界",
-        "title_en": null,
-        "title_original": "启元机器人接入腾讯云WorkBuddy，AI首次从屏幕\"走\"进物理世界",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31190",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-20T17:38:38.799080Z"
+        "scored_at": "2026-09-20T19:21:31.750189Z"
       }
     }
   ]
