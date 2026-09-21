@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-21T00:27:22.540056Z",
+  "generated_at": "2026-09-21T08:10:19.518095Z",
   "window_hours": 24,
-  "total_items": 13,
+  "total_items": 20,
   "items": [
     {
       "story_id": "story_a682219ecb2e",
@@ -135,15 +135,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8288,
-      "importance": 0.8288,
-      "importance_score": 0.8288,
+      "score": 0.8115,
+      "importance": 0.8115,
+      "importance_score": 0.8115,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.9122,
+        "recency": 0.816,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -170,7 +170,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T00:33:39.033834Z"
+        "scored_at": "2026-09-21T08:19:52.526454Z"
       }
     },
     {
@@ -218,21 +218,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7652,
-      "importance": 0.7652,
-      "importance_score": 0.7652,
+      "score": 0.7473,
+      "importance": 0.7473,
+      "importance_score": 0.7473,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.9424,
+        "recency": 0.843,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-20T20:20:56Z",
       "latest_at": "2026-09-20T20:20:56Z",
@@ -252,110 +251,80 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T00:33:39.033834Z"
+        "scored_at": "2026-09-21T08:19:52.526454Z"
       }
     },
     {
-      "story_id": "story_5f6ceee05c73",
-      "title": "特朗普要给“人工智能”改名：18 万人投票，“卓越智能”暂时领先",
-      "url": "https://www.aibase.com/news/31203",
-      "primary_url": "https://www.aibase.com/news/31203",
+      "story_id": "story_02e8ffac48ba",
+      "title": "Claude Opus 5. 5 疑遭内测泄露：跳级直冲GPT-6，百万Token价格腰斩至 4 美元",
+      "url": "https://www.aibase.com/news/31231",
+      "primary_url": "https://www.aibase.com/news/31231",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "1402a6e61563686b89d31bcad99e60c2b51f8857",
-          "title": "特朗普要给“人工智能”改名：18 万人投票，“卓越智能”暂时领先",
-          "title_zh": "特朗普要给“人工智能”改名：18 万人投票，“卓越智能”暂时领先",
+          "id": "f1528efce967282e3ffc899eb06e10ffa20c90eb",
+          "title": "Claude Opus 5. 5 疑遭内测泄露：跳级直冲GPT-6，百万Token价格腰斩至 4 美元",
+          "title_zh": "Claude Opus 5. 5 疑遭内测泄露：跳级直冲GPT-6，百万Token价格腰斩至 4 美元",
           "title_en": null,
-          "title_original": "特朗普要给“人工智能”改名：18 万人投票，“卓越智能”暂时领先",
+          "title_original": "Claude Opus 5. 5 疑遭内测泄露：跳级直冲GPT-6，百万Token价格腰斩至 4 美元",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31203",
+          "url": "https://www.aibase.com/news/31231",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-20T12:13:03.150467Z"
-        },
-        {
-          "id": "6f4892001c58a6382c4f055f3b7b89b6f3e8979a",
-          "title": "特朗普要给“人工智能”改名：超 18 万人投票，“卓越智能”票数暂领先",
-          "title_zh": "特朗普要给“人工智能”改名：超 18 万人投票，“卓越智能”票数暂领先",
-          "title_en": null,
-          "title_original": "特朗普要给“人工智能”改名：超 18 万人投票，“卓越智能”票数暂领先",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/1/004/829.htm",
-          "source": "IT Home",
-          "source_name": "Sector Sources",
-          "site_id": "sector_sources",
-          "published_at": "2026-09-20T07:46:36Z"
+          "published_at": "2026-09-21T08:10:19.518095Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "AIbase",
-        "IT Home"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "1402a6e61563686b89d31bcad99e60c2b51f8857",
-          "title": "特朗普要给“人工智能”改名：18 万人投票，“卓越智能”暂时领先",
-          "title_zh": "特朗普要给“人工智能”改名：18 万人投票，“卓越智能”暂时领先",
+          "id": "f1528efce967282e3ffc899eb06e10ffa20c90eb",
+          "title": "Claude Opus 5. 5 疑遭内测泄露：跳级直冲GPT-6，百万Token价格腰斩至 4 美元",
+          "title_zh": "Claude Opus 5. 5 疑遭内测泄露：跳级直冲GPT-6，百万Token价格腰斩至 4 美元",
           "title_en": null,
-          "title_original": "特朗普要给“人工智能”改名：18 万人投票，“卓越智能”暂时领先",
+          "title_original": "Claude Opus 5. 5 疑遭内测泄露：跳级直冲GPT-6，百万Token价格腰斩至 4 美元",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31203",
+          "url": "https://www.aibase.com/news/31231",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-20T12:13:03.150467Z"
-        },
-        {
-          "id": "6f4892001c58a6382c4f055f3b7b89b6f3e8979a",
-          "title": "特朗普要给“人工智能”改名：超 18 万人投票，“卓越智能”票数暂领先",
-          "title_zh": "特朗普要给“人工智能”改名：超 18 万人投票，“卓越智能”票数暂领先",
-          "title_en": null,
-          "title_original": "特朗普要给“人工智能”改名：超 18 万人投票，“卓越智能”票数暂领先",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/1/004/829.htm",
-          "source": "IT Home",
-          "source_name": "Sector Sources",
-          "site_id": "sector_sources",
-          "published_at": "2026-09-20T07:46:36Z"
+          "published_at": "2026-09-21T08:10:19.518095Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7426,
-      "importance": 0.7426,
-      "importance_score": 0.7426,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7468,
+      "importance": 0.7468,
+      "importance_score": 0.7468,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.684,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.838,
-        "story_heat": 0.25
+        "recency": 1.0,
+        "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-20T07:46:36Z",
-      "latest_at": "2026-09-20T12:13:03.150467Z",
+      "earliest_at": "2026-09-21T08:10:19.518095Z",
+      "latest_at": "2026-09-21T08:10:19.518095Z",
       "primary_item": {
-        "id": "1402a6e61563686b89d31bcad99e60c2b51f8857",
-        "title": "特朗普要给“人工智能”改名：18 万人投票，“卓越智能”暂时领先",
-        "title_zh": "特朗普要给“人工智能”改名：18 万人投票，“卓越智能”暂时领先",
+        "id": "f1528efce967282e3ffc899eb06e10ffa20c90eb",
+        "title": "Claude Opus 5. 5 疑遭内测泄露：跳级直冲GPT-6，百万Token价格腰斩至 4 美元",
+        "title_zh": "Claude Opus 5. 5 疑遭内测泄露：跳级直冲GPT-6，百万Token价格腰斩至 4 美元",
         "title_en": null,
-        "title_original": "特朗普要给“人工智能”改名：18 万人投票，“卓越智能”暂时领先",
+        "title_original": "Claude Opus 5. 5 疑遭内测泄露：跳级直冲GPT-6，百万Token价格腰斩至 4 美元",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31203",
+        "url": "https://www.aibase.com/news/31231",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -363,7 +332,169 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T00:33:39.033834Z"
+        "scored_at": "2026-09-21T08:19:52.526454Z"
+      }
+    },
+    {
+      "story_id": "story_d6fca3542f8f",
+      "title": "Claude Opus 5.5 已在内测：连跳两级直逼 GPT-6，价格还打骨折",
+      "url": "https://www.aibase.com/news/31232",
+      "primary_url": "https://www.aibase.com/news/31232",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "f9dc62836aace206bfaa30cd27980698c24d1644",
+          "title": "Claude Opus 5.5 已在内测：连跳两级直逼 GPT-6，价格还打骨折",
+          "title_zh": "Claude Opus 5.5 已在内测：连跳两级直逼 GPT-6，价格还打骨折",
+          "title_en": null,
+          "title_original": "Claude Opus 5.5 已在内测：连跳两级直逼 GPT-6，价格还打骨折",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31232",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-21T08:10:19.518095Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "f9dc62836aace206bfaa30cd27980698c24d1644",
+          "title": "Claude Opus 5.5 已在内测：连跳两级直逼 GPT-6，价格还打骨折",
+          "title_zh": "Claude Opus 5.5 已在内测：连跳两级直逼 GPT-6，价格还打骨折",
+          "title_en": null,
+          "title_original": "Claude Opus 5.5 已在内测：连跳两级直逼 GPT-6，价格还打骨折",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31232",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-21T08:10:19.518095Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7468,
+      "importance": 0.7468,
+      "importance_score": 0.7468,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.684,
+        "source_tier": 0.78,
+        "ai_relevance": 0.95,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-21T08:10:19.518095Z",
+      "latest_at": "2026-09-21T08:10:19.518095Z",
+      "primary_item": {
+        "id": "f9dc62836aace206bfaa30cd27980698c24d1644",
+        "title": "Claude Opus 5.5 已在内测：连跳两级直逼 GPT-6，价格还打骨折",
+        "title_zh": "Claude Opus 5.5 已在内测：连跳两级直逼 GPT-6，价格还打骨折",
+        "title_en": null,
+        "title_original": "Claude Opus 5.5 已在内测：连跳两级直逼 GPT-6，价格还打骨折",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31232",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-21T08:19:52.526454Z"
+      }
+    },
+    {
+      "story_id": "story_924c1201d9fd",
+      "title": "Gemini 也\"越狱\"了：谷歌确认 5 月安全测试中闯入 3 家真实公司系统，同一家评估商的锅",
+      "url": "https://www.aibase.com/news/31217",
+      "primary_url": "https://www.aibase.com/news/31217",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "4837935688fa63f80c68bc5260623a138f5af7bf",
+          "title": "Gemini 也\"越狱\"了：谷歌确认 5 月安全测试中闯入 3 家真实公司系统，同一家评估商的锅",
+          "title_zh": "Gemini 也\"越狱\"了：谷歌确认 5 月安全测试中闯入 3 家真实公司系统，同一家评估商的锅",
+          "title_en": null,
+          "title_original": "Gemini 也\"越狱\"了：谷歌确认 5 月安全测试中闯入 3 家真实公司系统，同一家评估商的锅",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31217",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-21T08:10:19.518095Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "4837935688fa63f80c68bc5260623a138f5af7bf",
+          "title": "Gemini 也\"越狱\"了：谷歌确认 5 月安全测试中闯入 3 家真实公司系统，同一家评估商的锅",
+          "title_zh": "Gemini 也\"越狱\"了：谷歌确认 5 月安全测试中闯入 3 家真实公司系统，同一家评估商的锅",
+          "title_en": null,
+          "title_original": "Gemini 也\"越狱\"了：谷歌确认 5 月安全测试中闯入 3 家真实公司系统，同一家评估商的锅",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31217",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-21T08:10:19.518095Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7468,
+      "importance": 0.7468,
+      "importance_score": 0.7468,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.684,
+        "source_tier": 0.78,
+        "ai_relevance": 0.95,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-21T08:10:19.518095Z",
+      "latest_at": "2026-09-21T08:10:19.518095Z",
+      "primary_item": {
+        "id": "4837935688fa63f80c68bc5260623a138f5af7bf",
+        "title": "Gemini 也\"越狱\"了：谷歌确认 5 月安全测试中闯入 3 家真实公司系统，同一家评估商的锅",
+        "title_zh": "Gemini 也\"越狱\"了：谷歌确认 5 月安全测试中闯入 3 家真实公司系统，同一家评估商的锅",
+        "title_en": null,
+        "title_original": "Gemini 也\"越狱\"了：谷歌确认 5 月安全测试中闯入 3 家真实公司系统，同一家评估商的锅",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31217",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-21T08:19:52.526454Z"
       }
     },
     {
@@ -468,15 +599,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7009,
-      "importance": 0.7009,
-      "importance_score": 0.7009,
+      "score": 0.6852,
+      "importance": 0.6852,
+      "importance_score": 0.6852,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.648,
         "source_tier": 0.58,
         "ai_relevance": 0.9,
-        "recency": 0.8274,
+        "recency": 0.7401,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -502,23 +633,243 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T00:33:39.033834Z"
+        "scored_at": "2026-09-21T08:19:52.526454Z"
       }
     },
     {
-      "story_id": "story_2db69fbe8a5a",
-      "title": "英伟达 (Nvidia) 的黄仁勋 (Jensen Huang) 认为人工智能的担忧被夸大了，这一点没有人感到惊讶。 / No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown.",
+      "story_id": "story_917990886c44",
+      "title": "OpenAI 一次性摊开六份失准报告：模型越界不再是偶然，而是三种可复现的机制",
+      "url": "https://www.aibase.com/news/31220",
+      "primary_url": "https://www.aibase.com/news/31220",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "1873ddfdfbc8787305d23f817d29ee374d194c37",
+          "title": "OpenAI 一次性摊开六份失准报告：模型越界不再是偶然，而是三种可复现的机制",
+          "title_zh": "OpenAI 一次性摊开六份失准报告：模型越界不再是偶然，而是三种可复现的机制",
+          "title_en": null,
+          "title_original": "OpenAI 一次性摊开六份失准报告：模型越界不再是偶然，而是三种可复现的机制",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31220",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-21T08:10:19.518095Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "1873ddfdfbc8787305d23f817d29ee374d194c37",
+          "title": "OpenAI 一次性摊开六份失准报告：模型越界不再是偶然，而是三种可复现的机制",
+          "title_zh": "OpenAI 一次性摊开六份失准报告：模型越界不再是偶然，而是三种可复现的机制",
+          "title_en": null,
+          "title_original": "OpenAI 一次性摊开六份失准报告：模型越界不再是偶然，而是三种可复现的机制",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31220",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-21T08:10:19.518095Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7468,
+      "importance": 0.7468,
+      "importance_score": 0.7468,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.684,
+        "source_tier": 0.78,
+        "ai_relevance": 0.95,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-21T08:10:19.518095Z",
+      "latest_at": "2026-09-21T08:10:19.518095Z",
+      "primary_item": {
+        "id": "1873ddfdfbc8787305d23f817d29ee374d194c37",
+        "title": "OpenAI 一次性摊开六份失准报告：模型越界不再是偶然，而是三种可复现的机制",
+        "title_zh": "OpenAI 一次性摊开六份失准报告：模型越界不再是偶然，而是三种可复现的机制",
+        "title_en": null,
+        "title_original": "OpenAI 一次性摊开六份失准报告：模型越界不再是偶然，而是三种可复现的机制",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31220",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-21T08:19:52.526454Z"
+      }
+    },
+    {
+      "story_id": "story_10b1dc5a6509",
+      "title": "谷歌的开放式代理协调器 / AX – Google’s Open Agentic Orchestrator",
+      "url": "https://agentexecutor.io",
+      "primary_url": "https://agentexecutor.io",
+      "source": "Hacker News front page",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "4e9c75120203384355ad55130f025411fa23bfbd",
+          "title": "谷歌的开放式代理协调器 / AX – Google’s Open Agentic Orchestrator",
+          "title_zh": "谷歌的开放式代理协调器",
+          "title_en": "AX – Google’s Open Agentic Orchestrator",
+          "title_original": "AX – Google’s Open Agentic Orchestrator",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://agentexecutor.io",
+          "source": "Hacker News front page",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-20T22:32:43Z"
+        },
+        {
+          "id": "d49d3d8daab10cb3d2d9b76f47feec5831634583",
+          "title": "谷歌的开放式代理协调器",
+          "title_zh": "谷歌的开放式代理协调器",
+          "title_en": null,
+          "title_original": "谷歌的开放式代理协调器",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://agentexecutor.io",
+          "source": "agentexecutor.io",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-21T00:23:31.830000Z"
+        },
+        {
+          "id": "82e0e553856a8be5ef7b1f9d8664799707f067d5",
+          "title": "AX – Google’s Open Agentic Orchestrator",
+          "title_zh": null,
+          "title_en": "AX – Google’s Open Agentic Orchestrator",
+          "title_original": "AX – Google’s Open Agentic Orchestrator",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49780797",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-20T22:32:43Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News front page",
+        "agentexecutor.io",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "4e9c75120203384355ad55130f025411fa23bfbd",
+          "title": "谷歌的开放式代理协调器 / AX – Google’s Open Agentic Orchestrator",
+          "title_zh": "谷歌的开放式代理协调器",
+          "title_en": "AX – Google’s Open Agentic Orchestrator",
+          "title_original": "AX – Google’s Open Agentic Orchestrator",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://agentexecutor.io",
+          "source": "Hacker News front page",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-20T22:32:43Z"
+        },
+        {
+          "id": "d49d3d8daab10cb3d2d9b76f47feec5831634583",
+          "title": "谷歌的开放式代理协调器",
+          "title_zh": "谷歌的开放式代理协调器",
+          "title_en": null,
+          "title_original": "谷歌的开放式代理协调器",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://agentexecutor.io",
+          "source": "agentexecutor.io",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-21T00:23:31.830000Z"
+        },
+        {
+          "id": "82e0e553856a8be5ef7b1f9d8664799707f067d5",
+          "title": "AX – Google’s Open Agentic Orchestrator",
+          "title_zh": null,
+          "title_en": "AX – Google’s Open Agentic Orchestrator",
+          "title_original": "AX – Google’s Open Agentic Orchestrator",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49780797",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-20T22:32:43Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.6462,
+      "importance": 0.6462,
+      "importance_score": 0.6462,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.54,
+        "source_tier": 0.58,
+        "ai_relevance": 0.75,
+        "recency": 0.8702,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-20T22:32:43Z",
+      "latest_at": "2026-09-21T00:23:31.830000Z",
+      "primary_item": {
+        "id": "4e9c75120203384355ad55130f025411fa23bfbd",
+        "title": "谷歌的开放式代理协调器 / AX – Google’s Open Agentic Orchestrator",
+        "title_zh": "谷歌的开放式代理协调器",
+        "title_en": "AX – Google’s Open Agentic Orchestrator",
+        "title_original": "AX – Google’s Open Agentic Orchestrator",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://agentexecutor.io",
+        "source": "Hacker News front page",
+        "source_name": "Curated Media"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-21T08:19:52.526454Z"
+      }
+    },
+    {
+      "story_id": "story_f6ad0321aa88",
+      "title": "No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown",
       "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
       "primary_url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
       "source": "The Verge",
       "source_name": "Curated Media",
       "sources": [
         {
-          "id": "df5714db5f11927567eba37aa2f0c9376686abb1",
-          "title": "英伟达 (Nvidia) 的黄仁勋 (Jensen Huang) 认为人工智能的担忧被夸大了，这一点没有人感到惊讶。 / No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown.",
-          "title_zh": "英伟达 (Nvidia) 的黄仁勋 (Jensen Huang) 认为人工智能的担忧被夸大了，这一点没有人感到惊讶。",
-          "title_en": "No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown.",
-          "title_original": "No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown.",
+          "id": "aa74037c27e35223b4e6af22c96a05a08cf1e958",
+          "title": "No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown",
+          "title_zh": null,
+          "title_en": "No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown",
+          "title_original": "No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown",
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
@@ -548,11 +899,11 @@
       ],
       "items": [
         {
-          "id": "df5714db5f11927567eba37aa2f0c9376686abb1",
-          "title": "英伟达 (Nvidia) 的黄仁勋 (Jensen Huang) 认为人工智能的担忧被夸大了，这一点没有人感到惊讶。 / No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown.",
-          "title_zh": "英伟达 (Nvidia) 的黄仁勋 (Jensen Huang) 认为人工智能的担忧被夸大了，这一点没有人感到惊讶。",
-          "title_en": "No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown.",
-          "title_original": "No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown.",
+          "id": "aa74037c27e35223b4e6af22c96a05a08cf1e958",
+          "title": "No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown",
+          "title_zh": null,
+          "title_en": "No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown",
+          "title_original": "No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown",
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
@@ -578,15 +929,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6555,
-      "importance": 0.6555,
-      "importance_score": 0.6555,
+      "score": 0.638,
+      "importance": 0.638,
+      "importance_score": 0.638,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5832,
         "source_tier": 0.58,
         "ai_relevance": 0.81,
-        "recency": 0.9221,
+        "recency": 0.8249,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -597,11 +948,11 @@
       "earliest_at": "2026-09-20T18:50:18Z",
       "latest_at": "2026-09-20T18:50:18Z",
       "primary_item": {
-        "id": "df5714db5f11927567eba37aa2f0c9376686abb1",
-        "title": "英伟达 (Nvidia) 的黄仁勋 (Jensen Huang) 认为人工智能的担忧被夸大了，这一点没有人感到惊讶。 / No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown.",
-        "title_zh": "英伟达 (Nvidia) 的黄仁勋 (Jensen Huang) 认为人工智能的担忧被夸大了，这一点没有人感到惊讶。",
-        "title_en": "No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown.",
-        "title_original": "No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown.",
+        "id": "aa74037c27e35223b4e6af22c96a05a08cf1e958",
+        "title": "No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown",
+        "title_zh": null,
+        "title_en": "No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown",
+        "title_original": "No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown",
         "summary": null,
         "recommend_reason_zh": null,
         "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
@@ -612,7 +963,169 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T00:33:39.033834Z"
+        "scored_at": "2026-09-21T08:19:52.526454Z"
+      }
+    },
+    {
+      "story_id": "story_214d4d19f8d1",
+      "title": "Siri AI 和解开放申请：符合条件的美国 iPhone 用户每台可领 25 美元",
+      "url": "https://www.aibase.com/news/31228",
+      "primary_url": "https://www.aibase.com/news/31228",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "c03a6f692ec6e1e2ac3dd4e0046559506d369f27",
+          "title": "Siri AI 和解开放申请：符合条件的美国 iPhone 用户每台可领 25 美元",
+          "title_zh": "Siri AI 和解开放申请：符合条件的美国 iPhone 用户每台可领 25 美元",
+          "title_en": null,
+          "title_original": "Siri AI 和解开放申请：符合条件的美国 iPhone 用户每台可领 25 美元",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31228",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-21T08:10:19.518095Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "c03a6f692ec6e1e2ac3dd4e0046559506d369f27",
+          "title": "Siri AI 和解开放申请：符合条件的美国 iPhone 用户每台可领 25 美元",
+          "title_zh": "Siri AI 和解开放申请：符合条件的美国 iPhone 用户每台可领 25 美元",
+          "title_en": null,
+          "title_original": "Siri AI 和解开放申请：符合条件的美国 iPhone 用户每台可领 25 美元",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31228",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-21T08:10:19.518095Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7468,
+      "importance": 0.7468,
+      "importance_score": 0.7468,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.684,
+        "source_tier": 0.78,
+        "ai_relevance": 0.95,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-21T08:10:19.518095Z",
+      "latest_at": "2026-09-21T08:10:19.518095Z",
+      "primary_item": {
+        "id": "c03a6f692ec6e1e2ac3dd4e0046559506d369f27",
+        "title": "Siri AI 和解开放申请：符合条件的美国 iPhone 用户每台可领 25 美元",
+        "title_zh": "Siri AI 和解开放申请：符合条件的美国 iPhone 用户每台可领 25 美元",
+        "title_en": null,
+        "title_original": "Siri AI 和解开放申请：符合条件的美国 iPhone 用户每台可领 25 美元",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31228",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-21T08:19:52.526454Z"
+      }
+    },
+    {
+      "story_id": "story_594bd34ddeb4",
+      "title": "中国大模型周调用量达67.46万亿Token，连续21周领先美国",
+      "url": "https://www.aibase.com/news/31226",
+      "primary_url": "https://www.aibase.com/news/31226",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "416d6bb1c4cab320117732f6a68961846c3e2c46",
+          "title": "中国大模型周调用量达67.46万亿Token，连续21周领先美国",
+          "title_zh": "中国大模型周调用量达67.46万亿Token，连续21周领先美国",
+          "title_en": null,
+          "title_original": "中国大模型周调用量达67.46万亿Token，连续21周领先美国",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31226",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-21T08:10:19.518095Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "416d6bb1c4cab320117732f6a68961846c3e2c46",
+          "title": "中国大模型周调用量达67.46万亿Token，连续21周领先美国",
+          "title_zh": "中国大模型周调用量达67.46万亿Token，连续21周领先美国",
+          "title_en": null,
+          "title_original": "中国大模型周调用量达67.46万亿Token，连续21周领先美国",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31226",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-21T08:10:19.518095Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7468,
+      "importance": 0.7468,
+      "importance_score": 0.7468,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.684,
+        "source_tier": 0.78,
+        "ai_relevance": 0.95,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-21T08:10:19.518095Z",
+      "latest_at": "2026-09-21T08:10:19.518095Z",
+      "primary_item": {
+        "id": "416d6bb1c4cab320117732f6a68961846c3e2c46",
+        "title": "中国大模型周调用量达67.46万亿Token，连续21周领先美国",
+        "title_zh": "中国大模型周调用量达67.46万亿Token，连续21周领先美国",
+        "title_en": null,
+        "title_original": "中国大模型周调用量达67.46万亿Token，连续21周领先美国",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31226",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-21T08:19:52.526454Z"
       }
     },
     {
@@ -689,15 +1202,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6402,
-      "importance": 0.6402,
-      "importance_score": 0.6402,
+      "score": 0.623,
+      "importance": 0.623,
+      "importance_score": 0.623,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5616,
         "source_tier": 0.58,
         "ai_relevance": 0.78,
-        "recency": 0.906,
+        "recency": 0.8105,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -722,117 +1235,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T00:33:39.033834Z"
+        "scored_at": "2026-09-21T08:19:52.526454Z"
       }
     },
     {
-      "story_id": "story_229a2fabc0b4",
-      "title": "Google's Open Agentic Orchestrator",
-      "url": "https://agentexecutor.io",
-      "primary_url": "https://agentexecutor.io",
-      "source": "Hacker News front page",
-      "source_name": "Curated Media",
+      "story_id": "story_f9d9f69efbad",
+      "title": "开发者实锤OpenAI广告追踪链条：ChatGPT账号正悄悄绑定你的全网浏览足迹",
+      "url": "https://www.aibase.com/news/31234",
+      "primary_url": "https://www.aibase.com/news/31234",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "c7d6751b2af69944e1e02dc10ddc0bfb023af905",
-          "title": "Google's Open Agentic Orchestrator",
-          "title_zh": null,
-          "title_en": "Google's Open Agentic Orchestrator",
-          "title_original": "Google's Open Agentic Orchestrator",
+          "id": "4905e79a756ec9f225547c1bb9f60b6ec2685b50",
+          "title": "开发者实锤OpenAI广告追踪链条：ChatGPT账号正悄悄绑定你的全网浏览足迹",
+          "title_zh": "开发者实锤OpenAI广告追踪链条：ChatGPT账号正悄悄绑定你的全网浏览足迹",
+          "title_en": null,
+          "title_original": "开发者实锤OpenAI广告追踪链条：ChatGPT账号正悄悄绑定你的全网浏览足迹",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://agentexecutor.io",
-          "source": "Hacker News front page",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-20T22:32:43Z"
-        },
-        {
-          "id": "a693dbd707fba151c6b4db35acee5bd2fe7f7418",
-          "title": "Google's Open Agentic Orchestrator",
-          "title_zh": null,
-          "title_en": "Google's Open Agentic Orchestrator",
-          "title_original": "Google's Open Agentic Orchestrator",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49780797",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-20T22:32:43Z"
+          "url": "https://www.aibase.com/news/31234",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-21T08:10:19.518095Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "Hacker News front page",
-        "hackernews"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "c7d6751b2af69944e1e02dc10ddc0bfb023af905",
-          "title": "Google's Open Agentic Orchestrator",
-          "title_zh": null,
-          "title_en": "Google's Open Agentic Orchestrator",
-          "title_original": "Google's Open Agentic Orchestrator",
+          "id": "4905e79a756ec9f225547c1bb9f60b6ec2685b50",
+          "title": "开发者实锤OpenAI广告追踪链条：ChatGPT账号正悄悄绑定你的全网浏览足迹",
+          "title_zh": "开发者实锤OpenAI广告追踪链条：ChatGPT账号正悄悄绑定你的全网浏览足迹",
+          "title_en": null,
+          "title_original": "开发者实锤OpenAI广告追踪链条：ChatGPT账号正悄悄绑定你的全网浏览足迹",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://agentexecutor.io",
-          "source": "Hacker News front page",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-20T22:32:43Z"
-        },
-        {
-          "id": "a693dbd707fba151c6b4db35acee5bd2fe7f7418",
-          "title": "Google's Open Agentic Orchestrator",
-          "title_zh": null,
-          "title_en": "Google's Open Agentic Orchestrator",
-          "title_original": "Google's Open Agentic Orchestrator",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49780797",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-20T22:32:43Z"
+          "url": "https://www.aibase.com/news/31234",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-21T08:10:19.518095Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6397,
-      "importance": 0.6397,
-      "importance_score": 0.6397,
-      "importance_label": "值得关注",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7468,
+      "importance": 0.7468,
+      "importance_score": 0.7468,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.54,
-        "source_tier": 0.58,
-        "ai_relevance": 0.75,
-        "recency": 0.9728,
-        "story_heat": 0.25
+        "editorial": 0.684,
+        "source_tier": 0.78,
+        "ai_relevance": 0.95,
+        "recency": 1.0,
+        "story_heat": 0.0
       },
-      "category": "watch",
+      "category": "industry",
       "reasons": [
-        "multi_source"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-20T22:32:43Z",
-      "latest_at": "2026-09-20T22:32:43Z",
+      "earliest_at": "2026-09-21T08:10:19.518095Z",
+      "latest_at": "2026-09-21T08:10:19.518095Z",
       "primary_item": {
-        "id": "c7d6751b2af69944e1e02dc10ddc0bfb023af905",
-        "title": "Google's Open Agentic Orchestrator",
-        "title_zh": null,
-        "title_en": "Google's Open Agentic Orchestrator",
-        "title_original": "Google's Open Agentic Orchestrator",
+        "id": "4905e79a756ec9f225547c1bb9f60b6ec2685b50",
+        "title": "开发者实锤OpenAI广告追踪链条：ChatGPT账号正悄悄绑定你的全网浏览足迹",
+        "title_zh": "开发者实锤OpenAI广告追踪链条：ChatGPT账号正悄悄绑定你的全网浏览足迹",
+        "title_en": null,
+        "title_original": "开发者实锤OpenAI广告追踪链条：ChatGPT账号正悄悄绑定你的全网浏览足迹",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://agentexecutor.io",
-        "source": "Hacker News front page",
-        "source_name": "Curated Media"
+        "url": "https://www.aibase.com/news/31234",
+        "source": "AIbase",
+        "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T00:33:39.033834Z"
+        "scored_at": "2026-09-21T08:19:52.526454Z"
       }
     },
     {
@@ -909,15 +1393,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6347,
-      "importance": 0.6347,
-      "importance_score": 0.6347,
+      "score": 0.6181,
+      "importance": 0.6181,
+      "importance_score": 0.6181,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5616,
         "source_tier": 0.58,
         "ai_relevance": 0.78,
-        "recency": 0.8757,
+        "recency": 0.7834,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -942,118 +1426,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T00:33:39.033834Z"
+        "scored_at": "2026-09-21T08:19:52.526454Z"
       }
     },
     {
-      "story_id": "story_79fe487188c4",
-      "title": "编排Claude代码代理：参谋长模式 / Orchestrating Claude Code Agents: The Chief of Staff Pattern",
-      "url": "https://asyncdot.com/blog/chief-of-staff-pattern-orchestrating-claude-code-sessions",
-      "primary_url": "https://asyncdot.com/blog/chief-of-staff-pattern-orchestrating-claude-code-sessions",
-      "source": "Hacker News front page",
-      "source_name": "Curated Media",
+      "story_id": "story_1fc9ae1f70ad",
+      "title": "用《我的世界》测 GPT-6 Astra：141 小时直播，一只苦力怕让 AI 陷入“种土豆”循环",
+      "url": "https://www.aibase.com/news/31219",
+      "primary_url": "https://www.aibase.com/news/31219",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "981dffffd74173bcffdebf175db7cbce7b89de18",
-          "title": "编排Claude代码代理：参谋长模式 / Orchestrating Claude Code Agents: The Chief of Staff Pattern",
-          "title_zh": "编排Claude代码代理：参谋长模式",
-          "title_en": "Orchestrating Claude Code Agents: The Chief of Staff Pattern",
-          "title_original": "Orchestrating Claude Code Agents: The Chief of Staff Pattern",
+          "id": "c14fc668a3c930153a9b31b69b580ff0383e6587",
+          "title": "用《我的世界》测 GPT-6 Astra：141 小时直播，一只苦力怕让 AI 陷入“种土豆”循环",
+          "title_zh": "用《我的世界》测 GPT-6 Astra：141 小时直播，一只苦力怕让 AI 陷入“种土豆”循环",
+          "title_en": null,
+          "title_original": "用《我的世界》测 GPT-6 Astra：141 小时直播，一只苦力怕让 AI 陷入“种土豆”循环",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://asyncdot.com/blog/chief-of-staff-pattern-orchestrating-claude-code-sessions",
-          "source": "Hacker News front page",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-20T05:46:19Z"
-        },
-        {
-          "id": "1e8cd5edc0205aacef8052cbbeb2e9f6a0a09ed5",
-          "title": "编排Claude代码代理：参谋长模式 / Orchestrating Claude Code Agents: The Chief of Staff Pattern",
-          "title_zh": "编排Claude代码代理：参谋长模式",
-          "title_en": "Orchestrating Claude Code Agents: The Chief of Staff Pattern",
-          "title_original": "Orchestrating Claude Code Agents: The Chief of Staff Pattern",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49772806",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-20T05:46:19Z"
+          "url": "https://www.aibase.com/news/31219",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-21T08:10:19.518095Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "Hacker News front page",
-        "hackernews"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "981dffffd74173bcffdebf175db7cbce7b89de18",
-          "title": "编排Claude代码代理：参谋长模式 / Orchestrating Claude Code Agents: The Chief of Staff Pattern",
-          "title_zh": "编排Claude代码代理：参谋长模式",
-          "title_en": "Orchestrating Claude Code Agents: The Chief of Staff Pattern",
-          "title_original": "Orchestrating Claude Code Agents: The Chief of Staff Pattern",
+          "id": "c14fc668a3c930153a9b31b69b580ff0383e6587",
+          "title": "用《我的世界》测 GPT-6 Astra：141 小时直播，一只苦力怕让 AI 陷入“种土豆”循环",
+          "title_zh": "用《我的世界》测 GPT-6 Astra：141 小时直播，一只苦力怕让 AI 陷入“种土豆”循环",
+          "title_en": null,
+          "title_original": "用《我的世界》测 GPT-6 Astra：141 小时直播，一只苦力怕让 AI 陷入“种土豆”循环",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://asyncdot.com/blog/chief-of-staff-pattern-orchestrating-claude-code-sessions",
-          "source": "Hacker News front page",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-20T05:46:19Z"
-        },
-        {
-          "id": "1e8cd5edc0205aacef8052cbbeb2e9f6a0a09ed5",
-          "title": "编排Claude代码代理：参谋长模式 / Orchestrating Claude Code Agents: The Chief of Staff Pattern",
-          "title_zh": "编排Claude代码代理：参谋长模式",
-          "title_en": "Orchestrating Claude Code Agents: The Chief of Staff Pattern",
-          "title_original": "Orchestrating Claude Code Agents: The Chief of Staff Pattern",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49772806",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-20T05:46:19Z"
+          "url": "https://www.aibase.com/news/31219",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-21T08:10:19.518095Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6228,
-      "importance": 0.6228,
-      "importance_score": 0.6228,
-      "importance_label": "值得关注",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7468,
+      "importance": 0.7468,
+      "importance_score": 0.7468,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.576,
-        "source_tier": 0.58,
-        "ai_relevance": 0.8,
-        "recency": 0.7635,
-        "story_heat": 0.25
+        "editorial": 0.684,
+        "source_tier": 0.78,
+        "ai_relevance": 0.95,
+        "recency": 1.0,
+        "story_heat": 0.0
       },
-      "category": "watch",
+      "category": "industry",
       "reasons": [
-        "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-20T05:46:19Z",
-      "latest_at": "2026-09-20T05:46:19Z",
+      "earliest_at": "2026-09-21T08:10:19.518095Z",
+      "latest_at": "2026-09-21T08:10:19.518095Z",
       "primary_item": {
-        "id": "981dffffd74173bcffdebf175db7cbce7b89de18",
-        "title": "编排Claude代码代理：参谋长模式 / Orchestrating Claude Code Agents: The Chief of Staff Pattern",
-        "title_zh": "编排Claude代码代理：参谋长模式",
-        "title_en": "Orchestrating Claude Code Agents: The Chief of Staff Pattern",
-        "title_original": "Orchestrating Claude Code Agents: The Chief of Staff Pattern",
+        "id": "c14fc668a3c930153a9b31b69b580ff0383e6587",
+        "title": "用《我的世界》测 GPT-6 Astra：141 小时直播，一只苦力怕让 AI 陷入“种土豆”循环",
+        "title_zh": "用《我的世界》测 GPT-6 Astra：141 小时直播，一只苦力怕让 AI 陷入“种土豆”循环",
+        "title_en": null,
+        "title_original": "用《我的世界》测 GPT-6 Astra：141 小时直播，一只苦力怕让 AI 陷入“种土豆”循环",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://asyncdot.com/blog/chief-of-staff-pattern-orchestrating-claude-code-sessions",
-        "source": "Hacker News front page",
-        "source_name": "Curated Media"
+        "url": "https://www.aibase.com/news/31219",
+        "source": "AIbase",
+        "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T00:33:39.033834Z"
+        "scored_at": "2026-09-21T08:19:52.526454Z"
       }
     },
     {
@@ -1130,15 +1584,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6214,
-      "importance": 0.6214,
-      "importance_score": 0.6214,
+      "score": 0.6062,
+      "importance": 0.6062,
+      "importance_score": 0.6062,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5616,
         "source_tier": 0.58,
         "ai_relevance": 0.78,
-        "recency": 0.8017,
+        "recency": 0.7171,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1163,7 +1617,250 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T00:33:39.033834Z"
+        "scored_at": "2026-09-21T08:19:52.526454Z"
+      }
+    },
+    {
+      "story_id": "story_a6519ba96534",
+      "title": "登顶国际Data Agent榜单，OceanBase超过多项GPT、Claude方案",
+      "url": "https://www.aibase.com/news/31229",
+      "primary_url": "https://www.aibase.com/news/31229",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "bd5972df34780653a2f842a2f988750f6fcb4294",
+          "title": "登顶国际Data Agent榜单，OceanBase超过多项GPT、Claude方案",
+          "title_zh": "登顶国际Data Agent榜单，OceanBase超过多项GPT、Claude方案",
+          "title_en": null,
+          "title_original": "登顶国际Data Agent榜单，OceanBase超过多项GPT、Claude方案",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31229",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-21T08:10:19.518095Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "bd5972df34780653a2f842a2f988750f6fcb4294",
+          "title": "登顶国际Data Agent榜单，OceanBase超过多项GPT、Claude方案",
+          "title_zh": "登顶国际Data Agent榜单，OceanBase超过多项GPT、Claude方案",
+          "title_en": null,
+          "title_original": "登顶国际Data Agent榜单，OceanBase超过多项GPT、Claude方案",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31229",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-21T08:10:19.518095Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7468,
+      "importance": 0.7468,
+      "importance_score": 0.7468,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.684,
+        "source_tier": 0.78,
+        "ai_relevance": 0.95,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-21T08:10:19.518095Z",
+      "latest_at": "2026-09-21T08:10:19.518095Z",
+      "primary_item": {
+        "id": "bd5972df34780653a2f842a2f988750f6fcb4294",
+        "title": "登顶国际Data Agent榜单，OceanBase超过多项GPT、Claude方案",
+        "title_zh": "登顶国际Data Agent榜单，OceanBase超过多项GPT、Claude方案",
+        "title_en": null,
+        "title_original": "登顶国际Data Agent榜单，OceanBase超过多项GPT、Claude方案",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31229",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-21T08:19:52.526454Z"
+      }
+    },
+    {
+      "story_id": "story_d4e75d46cebf",
+      "title": "贾跃亭的 FF 一口气发布九款 EAI 机器人，最贵超 92 万元",
+      "url": "https://www.aibase.com/news/31223",
+      "primary_url": "https://www.aibase.com/news/31223",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "5e8da1ae0fa558405088efcd311713448d4d797f",
+          "title": "贾跃亭的 FF 一口气发布九款 EAI 机器人，最贵超 92 万元",
+          "title_zh": "贾跃亭的 FF 一口气发布九款 EAI 机器人，最贵超 92 万元",
+          "title_en": null,
+          "title_original": "贾跃亭的 FF 一口气发布九款 EAI 机器人，最贵超 92 万元",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31223",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-21T08:10:19.518095Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "5e8da1ae0fa558405088efcd311713448d4d797f",
+          "title": "贾跃亭的 FF 一口气发布九款 EAI 机器人，最贵超 92 万元",
+          "title_zh": "贾跃亭的 FF 一口气发布九款 EAI 机器人，最贵超 92 万元",
+          "title_en": null,
+          "title_original": "贾跃亭的 FF 一口气发布九款 EAI 机器人，最贵超 92 万元",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31223",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-21T08:10:19.518095Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7468,
+      "importance": 0.7468,
+      "importance_score": 0.7468,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.684,
+        "source_tier": 0.78,
+        "ai_relevance": 0.95,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-21T08:10:19.518095Z",
+      "latest_at": "2026-09-21T08:10:19.518095Z",
+      "primary_item": {
+        "id": "5e8da1ae0fa558405088efcd311713448d4d797f",
+        "title": "贾跃亭的 FF 一口气发布九款 EAI 机器人，最贵超 92 万元",
+        "title_zh": "贾跃亭的 FF 一口气发布九款 EAI 机器人，最贵超 92 万元",
+        "title_en": null,
+        "title_original": "贾跃亭的 FF 一口气发布九款 EAI 机器人，最贵超 92 万元",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31223",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-21T08:19:52.526454Z"
+      }
+    },
+    {
+      "story_id": "story_f485ddd18b49",
+      "title": "阿里换帅Qwen团队：刘大一恒接掌通义千问大模型，云栖大会前亮相",
+      "url": "https://www.aibase.com/news/31233",
+      "primary_url": "https://www.aibase.com/news/31233",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "c99022a8e711302a8fe0c74a40c171dfdb418003",
+          "title": "阿里换帅Qwen团队：刘大一恒接掌通义千问大模型，云栖大会前亮相",
+          "title_zh": "阿里换帅Qwen团队：刘大一恒接掌通义千问大模型，云栖大会前亮相",
+          "title_en": null,
+          "title_original": "阿里换帅Qwen团队：刘大一恒接掌通义千问大模型，云栖大会前亮相",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31233",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-21T08:10:19.518095Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "c99022a8e711302a8fe0c74a40c171dfdb418003",
+          "title": "阿里换帅Qwen团队：刘大一恒接掌通义千问大模型，云栖大会前亮相",
+          "title_zh": "阿里换帅Qwen团队：刘大一恒接掌通义千问大模型，云栖大会前亮相",
+          "title_en": null,
+          "title_original": "阿里换帅Qwen团队：刘大一恒接掌通义千问大模型，云栖大会前亮相",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31233",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-21T08:10:19.518095Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7468,
+      "importance": 0.7468,
+      "importance_score": 0.7468,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.684,
+        "source_tier": 0.78,
+        "ai_relevance": 0.95,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-21T08:10:19.518095Z",
+      "latest_at": "2026-09-21T08:10:19.518095Z",
+      "primary_item": {
+        "id": "c99022a8e711302a8fe0c74a40c171dfdb418003",
+        "title": "阿里换帅Qwen团队：刘大一恒接掌通义千问大模型，云栖大会前亮相",
+        "title_zh": "阿里换帅Qwen团队：刘大一恒接掌通义千问大模型，云栖大会前亮相",
+        "title_en": null,
+        "title_original": "阿里换帅Qwen团队：刘大一恒接掌通义千问大模型，云栖大会前亮相",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31233",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-21T08:19:52.526454Z"
       }
     },
     {
@@ -1239,15 +1936,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5653,
-      "importance": 0.5653,
-      "importance_score": 0.5653,
+      "score": 0.5478,
+      "importance": 0.5478,
+      "importance_score": 0.5478,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.45,
         "source_tier": 0.58,
         "ai_relevance": 0.56,
-        "recency": 0.9204,
+        "recency": 0.8234,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1272,226 +1969,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T00:33:39.033834Z"
-      }
-    },
-    {
-      "story_id": "story_8c6e00ff1c29",
-      "title": "Prompts Aren't Real",
-      "url": "https://evaluation.club",
-      "primary_url": "https://evaluation.club",
-      "source": "Hacker News front page",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "2bdad2eec632591c36a65f7f4943a748e0e7da09",
-          "title": "Prompts Aren't Real",
-          "title_zh": null,
-          "title_en": "Prompts Aren't Real",
-          "title_original": "Prompts Aren't Real",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://evaluation.club",
-          "source": "Hacker News front page",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-20T15:59:25Z"
-        },
-        {
-          "id": "762de099a9e382ca81a9544669ee317034187ecf",
-          "title": "Prompts aren’t Real",
-          "title_zh": null,
-          "title_en": "Prompts aren’t Real",
-          "title_original": "Prompts aren’t Real",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://evaluation.club",
-          "source": "Hacker News front page",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-20T15:59:25Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News front page"
-      ],
-      "items": [
-        {
-          "id": "2bdad2eec632591c36a65f7f4943a748e0e7da09",
-          "title": "Prompts Aren't Real",
-          "title_zh": null,
-          "title_en": "Prompts Aren't Real",
-          "title_original": "Prompts Aren't Real",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://evaluation.club",
-          "source": "Hacker News front page",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-20T15:59:25Z"
-        },
-        {
-          "id": "762de099a9e382ca81a9544669ee317034187ecf",
-          "title": "Prompts aren’t Real",
-          "title_zh": null,
-          "title_en": "Prompts aren’t Real",
-          "title_original": "Prompts aren’t Real",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://evaluation.club",
-          "source": "Hacker News front page",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-20T15:59:25Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5589,
-      "importance": 0.5589,
-      "importance_score": 0.5589,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.45,
-        "source_tier": 0.58,
-        "ai_relevance": 0.56,
-        "recency": 0.8849,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-20T15:59:25Z",
-      "latest_at": "2026-09-20T15:59:25Z",
-      "primary_item": {
-        "id": "2bdad2eec632591c36a65f7f4943a748e0e7da09",
-        "title": "Prompts Aren't Real",
-        "title_zh": null,
-        "title_en": "Prompts Aren't Real",
-        "title_original": "Prompts Aren't Real",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://evaluation.club",
-        "source": "Hacker News front page",
-        "source_name": "Curated Media"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-21T00:33:39.033834Z"
-      }
-    },
-    {
-      "story_id": "story_59e8eb3eb9e5",
-      "title": "人工智能与“知识共享”的瓦解 / AI and the Destruction of the Creative Commons",
-      "url": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons",
-      "primary_url": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons",
-      "source": "Hacker News front page",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "71bc1f6a98ce2968da51b24043383047e7747b28",
-          "title": "人工智能与“知识共享”的瓦解 / AI and the Destruction of the Creative Commons",
-          "title_zh": "人工智能与“知识共享”的瓦解",
-          "title_en": "AI and the Destruction of the Creative Commons",
-          "title_original": "AI and the Destruction of the Creative Commons",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons",
-          "source": "Hacker News front page",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-20T10:07:51Z"
-        },
-        {
-          "id": "1479d0bb44615475dc260d7847b1ebe331ca711e",
-          "title": "人工智能与“知识共享”的瓦解",
-          "title_zh": "人工智能与“知识共享”的瓦解",
-          "title_en": null,
-          "title_original": "人工智能与“知识共享”的瓦解",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons",
-          "source": "www.chesterwisniewski.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-20T12:50:12.972000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News front page",
-        "www.chesterwisniewski.com"
-      ],
-      "items": [
-        {
-          "id": "71bc1f6a98ce2968da51b24043383047e7747b28",
-          "title": "人工智能与“知识共享”的瓦解 / AI and the Destruction of the Creative Commons",
-          "title_zh": "人工智能与“知识共享”的瓦解",
-          "title_en": "AI and the Destruction of the Creative Commons",
-          "title_original": "AI and the Destruction of the Creative Commons",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons",
-          "source": "Hacker News front page",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-20T10:07:51Z"
-        },
-        {
-          "id": "1479d0bb44615475dc260d7847b1ebe331ca711e",
-          "title": "人工智能与“知识共享”的瓦解",
-          "title_zh": "人工智能与“知识共享”的瓦解",
-          "title_en": null,
-          "title_original": "人工智能与“知识共享”的瓦解",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons",
-          "source": "www.chesterwisniewski.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-20T12:50:12.972000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.546,
-      "importance": 0.546,
-      "importance_score": 0.546,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.45,
-        "source_tier": 0.58,
-        "ai_relevance": 0.56,
-        "recency": 0.8131,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-20T10:07:51Z",
-      "latest_at": "2026-09-20T12:50:12.972000Z",
-      "primary_item": {
-        "id": "71bc1f6a98ce2968da51b24043383047e7747b28",
-        "title": "人工智能与“知识共享”的瓦解 / AI and the Destruction of the Creative Commons",
-        "title_zh": "人工智能与“知识共享”的瓦解",
-        "title_en": "AI and the Destruction of the Creative Commons",
-        "title_original": "AI and the Destruction of the Creative Commons",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons",
-        "source": "Hacker News front page",
-        "source_name": "Curated Media"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-21T00:33:39.033834Z"
+        "scored_at": "2026-09-21T08:19:52.526454Z"
       }
     }
   ]
