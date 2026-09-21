@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T20:31:15.968731Z",
+  "generated_at": "2026-09-21T23:31:22.709813Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -77,15 +77,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8742,
-      "importance": 0.8742,
-      "importance_score": 0.8742,
+      "score": 0.8674,
+      "importance": 0.8674,
+      "importance_score": 0.8674,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8842,
+        "recency": 0.8467,
         "story_heat": 0.25
       },
       "category": "official",
@@ -113,7 +113,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T20:47:29.180680Z"
+        "scored_at": "2026-09-21T23:49:34.920860Z"
       }
     },
     {
@@ -161,15 +161,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8532,
-      "importance": 0.8532,
-      "importance_score": 0.8532,
+      "score": 0.8463,
+      "importance": 0.8463,
+      "importance_score": 0.8463,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9068,
+        "recency": 0.8683,
         "story_heat": 0.0
       },
       "category": "official",
@@ -196,7 +196,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T20:47:29.180680Z"
+        "scored_at": "2026-09-21T23:49:34.920860Z"
       }
     },
     {
@@ -244,15 +244,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8492,
-      "importance": 0.8492,
-      "importance_score": 0.8492,
+      "score": 0.8424,
+      "importance": 0.8424,
+      "importance_score": 0.8424,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8842,
+        "recency": 0.8467,
         "story_heat": 0.0
       },
       "category": "official",
@@ -279,7 +279,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T20:47:29.180680Z"
+        "scored_at": "2026-09-21T23:49:34.920860Z"
+      }
+    },
+    {
+      "story_id": "story_b01d49929f03",
+      "title": "GitHub Enterprise adds credential inventory exports",
+      "url": "https://github.blog/changelog/2026-09-21-github-enterprise-adds-credential-inventory-exports",
+      "primary_url": "https://github.blog/changelog/2026-09-21-github-enterprise-adds-credential-inventory-exports",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "c846158852b43fd9981654bd7ba4e0bd9a32e2c1",
+          "title": "GitHub Enterprise adds credential inventory exports",
+          "title_zh": null,
+          "title_en": "GitHub Enterprise adds credential inventory exports",
+          "title_original": "GitHub Enterprise adds credential inventory exports",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-21-github-enterprise-adds-credential-inventory-exports",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-21T21:13:18Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "c846158852b43fd9981654bd7ba4e0bd9a32e2c1",
+          "title": "GitHub Enterprise adds credential inventory exports",
+          "title_zh": null,
+          "title_en": "GitHub Enterprise adds credential inventory exports",
+          "title_original": "GitHub Enterprise adds credential inventory exports",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-21-github-enterprise-adds-credential-inventory-exports",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-21T21:13:18Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8101,
+      "importance": 0.8101,
+      "importance_score": 0.8101,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.73,
+        "recency": 0.9673,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-21T21:13:18Z",
+      "latest_at": "2026-09-21T21:13:18Z",
+      "primary_item": {
+        "id": "c846158852b43fd9981654bd7ba4e0bd9a32e2c1",
+        "title": "GitHub Enterprise adds credential inventory exports",
+        "title_zh": null,
+        "title_en": "GitHub Enterprise adds credential inventory exports",
+        "title_original": "GitHub Enterprise adds credential inventory exports",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-09-21-github-enterprise-adds-credential-inventory-exports",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-21T23:49:34.920860Z"
       }
     },
     {
@@ -327,15 +409,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.814,
-      "importance": 0.814,
-      "importance_score": 0.814,
+      "score": 0.8069,
+      "importance": 0.8069,
+      "importance_score": 0.8069,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.79,
-        "recency": 0.9221,
+        "recency": 0.883,
         "story_heat": 0.0
       },
       "category": "official",
@@ -361,7 +443,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T20:47:29.180680Z"
+        "scored_at": "2026-09-21T23:49:34.920860Z"
       }
     },
     {
@@ -409,15 +491,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8406,
-      "importance": 0.8406,
-      "importance_score": 0.8406,
+      "score": 0.8341,
+      "importance": 0.8341,
+      "importance_score": 0.8341,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.859,
+        "recency": 0.8226,
         "story_heat": 0.0
       },
       "category": "official",
@@ -444,7 +526,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T20:47:29.180680Z"
+        "scored_at": "2026-09-21T23:49:34.920860Z"
       }
     },
     {
@@ -492,15 +574,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7747,
-      "importance": 0.7747,
-      "importance_score": 0.7747,
+      "score": 0.7671,
+      "importance": 0.7671,
+      "importance_score": 0.7671,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.9953,
+        "recency": 0.953,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -526,7 +608,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T20:47:29.180680Z"
+        "scored_at": "2026-09-21T23:49:34.920860Z"
       }
     },
     {
@@ -574,15 +656,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7818,
-      "importance": 0.7818,
-      "importance_score": 0.7818,
+      "score": 0.7762,
+      "importance": 0.7762,
+      "importance_score": 0.7762,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.79,
-        "recency": 0.7435,
+        "recency": 0.712,
         "story_heat": 0.0
       },
       "category": "official",
@@ -608,7 +690,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T20:47:29.180680Z"
+        "scored_at": "2026-09-21T23:49:34.920860Z"
       }
     },
     {
@@ -656,15 +738,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8341,
-      "importance": 0.8341,
-      "importance_score": 0.8341,
+      "score": 0.8278,
+      "importance": 0.8278,
+      "importance_score": 0.8278,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.8226,
+        "recency": 0.7877,
         "story_heat": 0.0
       },
       "category": "official",
@@ -691,7 +773,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T20:47:29.180680Z"
+        "scored_at": "2026-09-21T23:49:34.920860Z"
       }
     },
     {
@@ -768,15 +850,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7424,
-      "importance": 0.7424,
-      "importance_score": 0.7424,
+      "score": 0.736,
+      "importance": 0.736,
+      "importance_score": 0.736,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.684,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.8367,
+        "recency": 0.8012,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -802,7 +884,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T20:47:29.180680Z"
+        "scored_at": "2026-09-21T23:49:34.920860Z"
       }
     },
     {
@@ -850,15 +932,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8238,
-      "importance": 0.8238,
-      "importance_score": 0.8238,
+      "score": 0.8182,
+      "importance": 0.8182,
+      "importance_score": 0.8182,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7435,
+        "recency": 0.712,
         "story_heat": 0.0
       },
       "category": "official",
@@ -885,7 +967,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T20:47:29.180680Z"
+        "scored_at": "2026-09-21T23:49:34.920860Z"
       }
     },
     {
@@ -933,15 +1015,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7304,
-      "importance": 0.7304,
-      "importance_score": 0.7304,
+      "score": 0.7235,
+      "importance": 0.7235,
+      "importance_score": 0.7235,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.684,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.9089,
+        "recency": 0.8704,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -966,7 +1048,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T20:47:29.180680Z"
+        "scored_at": "2026-09-21T23:49:34.920860Z"
       }
     },
     {
@@ -1072,15 +1154,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6744,
-      "importance": 0.6744,
-      "importance_score": 0.6744,
+      "score": 0.6671,
+      "importance": 0.6671,
+      "importance_score": 0.6671,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5616,
         "source_tier": 0.58,
         "ai_relevance": 0.78,
-        "recency": 0.9574,
+        "recency": 0.9168,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1105,7 +1187,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T20:47:29.180680Z"
+        "scored_at": "2026-09-21T23:49:34.920860Z"
       }
     },
     {
@@ -1153,15 +1235,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7304,
-      "importance": 0.7304,
-      "importance_score": 0.7304,
+      "score": 0.7235,
+      "importance": 0.7235,
+      "importance_score": 0.7235,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.684,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.9089,
+        "recency": 0.8704,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1186,7 +1268,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T20:47:29.180680Z"
+        "scored_at": "2026-09-21T23:49:34.920860Z"
       }
     },
     {
@@ -1262,15 +1344,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.665,
-      "importance": 0.665,
-      "importance_score": 0.665,
+      "score": 0.658,
+      "importance": 0.658,
+      "importance_score": 0.658,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.6048,
         "source_tier": 0.58,
         "ai_relevance": 0.84,
-        "recency": 0.9051,
+        "recency": 0.8667,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1296,7 +1378,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T20:47:29.180680Z"
+        "scored_at": "2026-09-21T23:49:34.920860Z"
       }
     },
     {
@@ -1373,15 +1455,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6607,
-      "importance": 0.6607,
-      "importance_score": 0.6607,
+      "score": 0.6534,
+      "importance": 0.6534,
+      "importance_score": 0.6534,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5832,
         "source_tier": 0.58,
         "ai_relevance": 0.81,
-        "recency": 0.9505,
+        "recency": 0.9102,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1407,7 +1489,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T20:47:29.180680Z"
+        "scored_at": "2026-09-21T23:49:34.920860Z"
       }
     },
     {
@@ -1484,15 +1566,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6531,
-      "importance": 0.6531,
-      "importance_score": 0.6531,
+      "score": 0.6462,
+      "importance": 0.6462,
+      "importance_score": 0.6462,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5832,
         "source_tier": 0.58,
         "ai_relevance": 0.81,
-        "recency": 0.9087,
+        "recency": 0.8701,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1518,138 +1600,109 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T20:47:29.180680Z"
+        "scored_at": "2026-09-21T23:49:34.920860Z"
       }
     },
     {
-      "story_id": "story_10b1dc5a6509",
-      "title": "谷歌的开放式代理协调器 / AX – Google’s Open Agentic Orchestrator",
-      "url": "https://agentexecutor.io",
-      "primary_url": "https://agentexecutor.io",
+      "story_id": "story_2898d561b6a0",
+      "title": "Show HN: Foremerge – Catch intent conflicts between parallel coding agents",
+      "url": "https://github.com/naw103/foremerge",
+      "primary_url": "https://github.com/naw103/foremerge",
       "source": "Hacker News front page",
       "source_name": "Curated Media",
       "sources": [
         {
-          "id": "4e9c75120203384355ad55130f025411fa23bfbd",
-          "title": "谷歌的开放式代理协调器 / AX – Google’s Open Agentic Orchestrator",
-          "title_zh": "谷歌的开放式代理协调器",
-          "title_en": "AX – Google’s Open Agentic Orchestrator",
-          "title_original": "AX – Google’s Open Agentic Orchestrator",
+          "id": "cd3d337d6d45b94c94ca9f91b0f665d0e6df1af6",
+          "title": "Show HN: Foremerge – Catch intent conflicts between parallel coding agents",
+          "title_zh": null,
+          "title_en": "Show HN: Foremerge – Catch intent conflicts between parallel coding agents",
+          "title_original": "Show HN: Foremerge – Catch intent conflicts between parallel coding agents",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://agentexecutor.io",
+          "url": "https://github.com/naw103/foremerge",
           "source": "Hacker News front page",
           "source_name": "Curated Media",
           "site_id": "curated_media",
-          "published_at": "2026-09-20T22:32:43Z"
+          "published_at": "2026-09-21T16:22:06Z"
         },
         {
-          "id": "d49d3d8daab10cb3d2d9b76f47feec5831634583",
-          "title": "谷歌的开放式代理协调器",
-          "title_zh": "谷歌的开放式代理协调器",
-          "title_en": null,
-          "title_original": "谷歌的开放式代理协调器",
+          "id": "44e18de9eebf01aa1782acf1c9bcf4f03da6e15c",
+          "title": "Show HN: Foremerge – Catch intent conflicts between parallel coding agents",
+          "title_zh": null,
+          "title_en": "Show HN: Foremerge – Catch intent conflicts between parallel coding agents",
+          "title_original": "Show HN: Foremerge – Catch intent conflicts between parallel coding agents",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://agentexecutor.io",
-          "source": "agentexecutor.io",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-21T00:23:31.830000Z"
-        },
-        {
-          "id": "82e0e553856a8be5ef7b1f9d8664799707f067d5",
-          "title": "AX – Google 的开放代理协调器 / AX – Google’s Open Agentic Orchestrator",
-          "title_zh": "AX – Google 的开放代理协调器",
-          "title_en": "AX – Google’s Open Agentic Orchestrator",
-          "title_original": "AX – Google’s Open Agentic Orchestrator",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49780797",
+          "url": "https://news.ycombinator.com/item?id=49789356",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-09-20T22:32:43Z"
+          "published_at": "2026-09-21T16:22:06Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 2,
       "source_names": [
         "Hacker News front page",
-        "agentexecutor.io",
         "hackernews"
       ],
       "items": [
         {
-          "id": "4e9c75120203384355ad55130f025411fa23bfbd",
-          "title": "谷歌的开放式代理协调器 / AX – Google’s Open Agentic Orchestrator",
-          "title_zh": "谷歌的开放式代理协调器",
-          "title_en": "AX – Google’s Open Agentic Orchestrator",
-          "title_original": "AX – Google’s Open Agentic Orchestrator",
+          "id": "cd3d337d6d45b94c94ca9f91b0f665d0e6df1af6",
+          "title": "Show HN: Foremerge – Catch intent conflicts between parallel coding agents",
+          "title_zh": null,
+          "title_en": "Show HN: Foremerge – Catch intent conflicts between parallel coding agents",
+          "title_original": "Show HN: Foremerge – Catch intent conflicts between parallel coding agents",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://agentexecutor.io",
+          "url": "https://github.com/naw103/foremerge",
           "source": "Hacker News front page",
           "source_name": "Curated Media",
           "site_id": "curated_media",
-          "published_at": "2026-09-20T22:32:43Z"
+          "published_at": "2026-09-21T16:22:06Z"
         },
         {
-          "id": "d49d3d8daab10cb3d2d9b76f47feec5831634583",
-          "title": "谷歌的开放式代理协调器",
-          "title_zh": "谷歌的开放式代理协调器",
-          "title_en": null,
-          "title_original": "谷歌的开放式代理协调器",
+          "id": "44e18de9eebf01aa1782acf1c9bcf4f03da6e15c",
+          "title": "Show HN: Foremerge – Catch intent conflicts between parallel coding agents",
+          "title_zh": null,
+          "title_en": "Show HN: Foremerge – Catch intent conflicts between parallel coding agents",
+          "title_original": "Show HN: Foremerge – Catch intent conflicts between parallel coding agents",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://agentexecutor.io",
-          "source": "agentexecutor.io",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-21T00:23:31.830000Z"
-        },
-        {
-          "id": "82e0e553856a8be5ef7b1f9d8664799707f067d5",
-          "title": "AX – Google 的开放代理协调器 / AX – Google’s Open Agentic Orchestrator",
-          "title_zh": "AX – Google 的开放代理协调器",
-          "title_en": "AX – Google’s Open Agentic Orchestrator",
-          "title_original": "AX – Google’s Open Agentic Orchestrator",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49780797",
+          "url": "https://news.ycombinator.com/item?id=49789356",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-09-20T22:32:43Z"
+          "published_at": "2026-09-21T16:22:06Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.6207,
-      "importance": 0.6207,
-      "importance_score": 0.6207,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6269,
+      "importance": 0.6269,
+      "importance_score": 0.6269,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.54,
         "source_tier": 0.58,
         "ai_relevance": 0.75,
-        "recency": 0.7281,
-        "story_heat": 0.5
+        "recency": 0.9018,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-20T22:32:43Z",
-      "latest_at": "2026-09-21T00:23:31.830000Z",
+      "earliest_at": "2026-09-21T16:22:06Z",
+      "latest_at": "2026-09-21T16:22:06Z",
       "primary_item": {
-        "id": "4e9c75120203384355ad55130f025411fa23bfbd",
-        "title": "谷歌的开放式代理协调器 / AX – Google’s Open Agentic Orchestrator",
-        "title_zh": "谷歌的开放式代理协调器",
-        "title_en": "AX – Google’s Open Agentic Orchestrator",
-        "title_original": "AX – Google’s Open Agentic Orchestrator",
+        "id": "cd3d337d6d45b94c94ca9f91b0f665d0e6df1af6",
+        "title": "Show HN: Foremerge – Catch intent conflicts between parallel coding agents",
+        "title_zh": null,
+        "title_en": "Show HN: Foremerge – Catch intent conflicts between parallel coding agents",
+        "title_original": "Show HN: Foremerge – Catch intent conflicts between parallel coding agents",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://agentexecutor.io",
+        "url": "https://github.com/naw103/foremerge",
         "source": "Hacker News front page",
         "source_name": "Curated Media"
       },
@@ -1657,7 +1710,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T20:47:29.180680Z"
+        "scored_at": "2026-09-21T23:49:34.920860Z"
       }
     },
     {
@@ -1734,15 +1787,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5669,
-      "importance": 0.5669,
-      "importance_score": 0.5669,
+      "score": 0.56,
+      "importance": 0.56,
+      "importance_score": 0.56,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.45,
         "source_tier": 0.58,
         "ai_relevance": 0.59,
-        "recency": 0.8959,
+        "recency": 0.8579,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1767,7 +1820,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T20:47:29.180680Z"
+        "scored_at": "2026-09-21T23:49:34.920860Z"
       }
     },
     {
@@ -1844,15 +1897,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5518,
-      "importance": 0.5518,
-      "importance_score": 0.5518,
+      "score": 0.5454,
+      "importance": 0.5454,
+      "importance_score": 0.5454,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.45,
         "source_tier": 0.58,
         "ai_relevance": 0.56,
-        "recency": 0.8457,
+        "recency": 0.8098,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1877,117 +1930,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T20:47:29.180680Z"
-      }
-    },
-    {
-      "story_id": "story_0478652bad4f",
-      "title": "AI聊天机器人在回答金融问题时“大多数时候”都会给出错误答案 / AI chatbots give wrong answers to financial queries 'most of the time'",
-      "url": "https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666",
-      "primary_url": "https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666",
-      "source": "Hacker News front page",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "b654dbadb7523dca34a638c68d7450e0a7077b20",
-          "title": "AI聊天机器人在回答金融问题时“大多数时候”都会给出错误答案 / AI chatbots give wrong answers to financial queries 'most of the time'",
-          "title_zh": "AI聊天机器人在回答金融问题时“大多数时候”都会给出错误答案",
-          "title_en": "AI chatbots give wrong answers to financial queries 'most of the time'",
-          "title_original": "AI chatbots give wrong answers to financial queries 'most of the time'",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666",
-          "source": "Hacker News front page",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-21T04:28:44Z"
-        },
-        {
-          "id": "f608c37b98dbd621517d0a6d66dee557e67cbc73",
-          "title": "AI聊天机器人在回答金融问题时“大多数时候”都会给出错误答案",
-          "title_zh": "AI聊天机器人在回答金融问题时“大多数时候”都会给出错误答案",
-          "title_en": null,
-          "title_original": "AI聊天机器人在回答金融问题时“大多数时候”都会给出错误答案",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666",
-          "source": "www.ft.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-21T09:51:28.311000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News front page",
-        "www.ft.com"
-      ],
-      "items": [
-        {
-          "id": "b654dbadb7523dca34a638c68d7450e0a7077b20",
-          "title": "AI聊天机器人在回答金融问题时“大多数时候”都会给出错误答案 / AI chatbots give wrong answers to financial queries 'most of the time'",
-          "title_zh": "AI聊天机器人在回答金融问题时“大多数时候”都会给出错误答案",
-          "title_en": "AI chatbots give wrong answers to financial queries 'most of the time'",
-          "title_original": "AI chatbots give wrong answers to financial queries 'most of the time'",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666",
-          "source": "Hacker News front page",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-21T04:28:44Z"
-        },
-        {
-          "id": "f608c37b98dbd621517d0a6d66dee557e67cbc73",
-          "title": "AI聊天机器人在回答金融问题时“大多数时候”都会给出错误答案",
-          "title_zh": "AI聊天机器人在回答金融问题时“大多数时候”都会给出错误答案",
-          "title_en": null,
-          "title_original": "AI聊天机器人在回答金融问题时“大多数时候”都会给出错误答案",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666",
-          "source": "www.ft.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-21T09:51:28.311000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5424,
-      "importance": 0.5424,
-      "importance_score": 0.5424,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.45,
-        "source_tier": 0.58,
-        "ai_relevance": 0.56,
-        "recency": 0.7932,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-21T04:28:44Z",
-      "latest_at": "2026-09-21T09:51:28.311000Z",
-      "primary_item": {
-        "id": "b654dbadb7523dca34a638c68d7450e0a7077b20",
-        "title": "AI聊天机器人在回答金融问题时“大多数时候”都会给出错误答案 / AI chatbots give wrong answers to financial queries 'most of the time'",
-        "title_zh": "AI聊天机器人在回答金融问题时“大多数时候”都会给出错误答案",
-        "title_en": "AI chatbots give wrong answers to financial queries 'most of the time'",
-        "title_original": "AI chatbots give wrong answers to financial queries 'most of the time'",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666",
-        "source": "Hacker News front page",
-        "source_name": "Curated Media"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-21T20:47:29.180680Z"
+        "scored_at": "2026-09-21T23:49:34.920860Z"
       }
     }
   ]
