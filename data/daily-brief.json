@@ -1,8 +1,121 @@
 {
-  "generated_at": "2026-09-21T15:17:29.747139Z",
+  "generated_at": "2026-09-21T19:56:36.245714Z",
   "window_hours": 24,
-  "total_items": 20,
+  "total_items": 17,
   "items": [
+    {
+      "story_id": "story_5b9140e8250f",
+      "title": "Advisory Group on Mathematics and Artificial Intelligence",
+      "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+      "primary_url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "bdf469aa53f96d483730507ef5d3ca8cc1c622c0",
+          "title": "Advisory Group on Mathematics and Artificial Intelligence",
+          "title_zh": null,
+          "title_en": "Advisory Group on Mathematics and Artificial Intelligence",
+          "title_original": "Advisory Group on Mathematics and Artificial Intelligence",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-21T12:00:00Z"
+        },
+        {
+          "id": "30f630630151045c2204c0ce550da30b2ce3cc56",
+          "title": "Advisory Group on Mathematics and Artificial Intelligence",
+          "title_zh": null,
+          "title_en": "Advisory Group on Mathematics and Artificial Intelligence",
+          "title_original": "Advisory Group on Mathematics and Artificial Intelligence",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49790389",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-21T17:27:49Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "OpenAI News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "bdf469aa53f96d483730507ef5d3ca8cc1c622c0",
+          "title": "Advisory Group on Mathematics and Artificial Intelligence",
+          "title_zh": null,
+          "title_en": "Advisory Group on Mathematics and Artificial Intelligence",
+          "title_original": "Advisory Group on Mathematics and Artificial Intelligence",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-21T12:00:00Z"
+        },
+        {
+          "id": "30f630630151045c2204c0ce550da30b2ce3cc56",
+          "title": "Advisory Group on Mathematics and Artificial Intelligence",
+          "title_zh": null,
+          "title_en": "Advisory Group on Mathematics and Artificial Intelligence",
+          "title_original": "Advisory Group on Mathematics and Artificial Intelligence",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49790389",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-21T17:27:49Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8755,
+      "importance": 0.8755,
+      "importance_score": 0.8755,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 1.0,
+        "recency": 0.8916,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-21T12:00:00Z",
+      "latest_at": "2026-09-21T17:27:49Z",
+      "primary_item": {
+        "id": "bdf469aa53f96d483730507ef5d3ca8cc1c622c0",
+        "title": "Advisory Group on Mathematics and Artificial Intelligence",
+        "title_zh": null,
+        "title_en": "Advisory Group on Mathematics and Artificial Intelligence",
+        "title_original": "Advisory Group on Mathematics and Artificial Intelligence",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-21T20:12:00.870830Z"
+      }
+    },
     {
       "story_id": "story_017e418e0a89",
       "title": "像物理学家一样修剪LLM：块去除作为伊辛优化问题 / Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
@@ -48,15 +161,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.866,
-      "importance": 0.866,
-      "importance_score": 0.866,
+      "score": 0.8546,
+      "importance": 0.8546,
+      "importance_score": 0.8546,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9779,
+        "recency": 0.9144,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,30 +196,112 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T15:19:00.195703Z"
+        "scored_at": "2026-09-21T20:12:00.870830Z"
       }
     },
     {
-      "story_id": "story_eed721e04523",
-      "title": "V7 如何为人工智能代理提供机构记忆 / How V7 gives AI agents institutional memory",
-      "url": "https://openai.com/index/v7",
-      "primary_url": "https://openai.com/index/v7",
+      "story_id": "story_3f10cf90ec97",
+      "title": "Grok 4.7 is now available in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-09-21-grok-4-7-is-now-available-in-github-copilot",
+      "primary_url": "https://github.blog/changelog/2026-09-21-grok-4-7-is-now-available-in-github-copilot",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "e32a2ae445e870d2c4e40b4cf02c3ec07327390d",
+          "title": "Grok 4.7 is now available in GitHub Copilot",
+          "title_zh": null,
+          "title_en": "Grok 4.7 is now available in GitHub Copilot",
+          "title_original": "Grok 4.7 is now available in GitHub Copilot",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-21-grok-4-7-is-now-available-in-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-21T14:54:12Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "e32a2ae445e870d2c4e40b4cf02c3ec07327390d",
+          "title": "Grok 4.7 is now available in GitHub Copilot",
+          "title_zh": null,
+          "title_en": "Grok 4.7 is now available in GitHub Copilot",
+          "title_original": "Grok 4.7 is now available in GitHub Copilot",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-21-grok-4-7-is-now-available-in-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-21T14:54:12Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8154,
+      "importance": 0.8154,
+      "importance_score": 0.8154,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.79,
+        "recency": 0.9298,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-21T14:54:12Z",
+      "latest_at": "2026-09-21T14:54:12Z",
+      "primary_item": {
+        "id": "e32a2ae445e870d2c4e40b4cf02c3ec07327390d",
+        "title": "Grok 4.7 is now available in GitHub Copilot",
+        "title_zh": null,
+        "title_en": "Grok 4.7 is now available in GitHub Copilot",
+        "title_original": "Grok 4.7 is now available in GitHub Copilot",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-09-21-grok-4-7-is-now-available-in-github-copilot",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-21T20:12:00.870830Z"
+      }
+    },
+    {
+      "story_id": "story_576291cb875d",
+      "title": "Building standards for the next phase of AI",
+      "url": "https://openai.com/index/building-standards-next-phase-ai",
+      "primary_url": "https://openai.com/index/building-standards-next-phase-ai",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "76c72136ab9549bbbee84bf82c5ff91ee0c65ce7",
-          "title": "V7 如何为人工智能代理提供机构记忆 / How V7 gives AI agents institutional memory",
-          "title_zh": "V7 如何为人工智能代理提供机构记忆",
-          "title_en": "How V7 gives AI agents institutional memory",
-          "title_original": "How V7 gives AI agents institutional memory",
+          "id": "4bdf05773fa238e0dc04ab378c0844200ade6e69",
+          "title": "Building standards for the next phase of AI",
+          "title_zh": null,
+          "title_en": "Building standards for the next phase of AI",
+          "title_original": "Building standards for the next phase of AI",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/v7",
+          "url": "https://openai.com/index/building-standards-next-phase-ai",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-21T00:00:00Z"
+          "published_at": "2026-09-21T10:00:00Z"
         }
       ],
       "source_count": 1,
@@ -115,31 +310,31 @@
       ],
       "items": [
         {
-          "id": "76c72136ab9549bbbee84bf82c5ff91ee0c65ce7",
-          "title": "V7 如何为人工智能代理提供机构记忆 / How V7 gives AI agents institutional memory",
-          "title_zh": "V7 如何为人工智能代理提供机构记忆",
-          "title_en": "How V7 gives AI agents institutional memory",
-          "title_original": "How V7 gives AI agents institutional memory",
+          "id": "4bdf05773fa238e0dc04ab378c0844200ade6e69",
+          "title": "Building standards for the next phase of AI",
+          "title_zh": null,
+          "title_en": "Building standards for the next phase of AI",
+          "title_original": "Building standards for the next phase of AI",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/v7",
+          "url": "https://openai.com/index/building-standards-next-phase-ai",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-21T00:00:00Z"
+          "published_at": "2026-09-21T10:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8343,
-      "importance": 0.8343,
-      "importance_score": 0.8343,
+      "score": 0.8419,
+      "importance": 0.8419,
+      "importance_score": 0.8419,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.8019,
+        "ai_relevance": 0.98,
+        "recency": 0.8662,
         "story_heat": 0.0
       },
       "category": "official",
@@ -148,17 +343,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-21T00:00:00Z",
-      "latest_at": "2026-09-21T00:00:00Z",
+      "earliest_at": "2026-09-21T10:00:00Z",
+      "latest_at": "2026-09-21T10:00:00Z",
       "primary_item": {
-        "id": "76c72136ab9549bbbee84bf82c5ff91ee0c65ce7",
-        "title": "V7 如何为人工智能代理提供机构记忆 / How V7 gives AI agents institutional memory",
-        "title_zh": "V7 如何为人工智能代理提供机构记忆",
-        "title_en": "How V7 gives AI agents institutional memory",
-        "title_original": "How V7 gives AI agents institutional memory",
+        "id": "4bdf05773fa238e0dc04ab378c0844200ade6e69",
+        "title": "Building standards for the next phase of AI",
+        "title_zh": null,
+        "title_en": "Building standards for the next phase of AI",
+        "title_original": "Building standards for the next phase of AI",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/v7",
+        "url": "https://openai.com/index/building-standards-next-phase-ai",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       },
@@ -166,177 +361,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T15:19:00.195703Z"
+        "scored_at": "2026-09-21T20:12:00.870830Z"
       }
     },
     {
-      "story_id": "story_a682219ecb2e",
-      "title": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
-      "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
-      "primary_url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
+      "story_id": "story_76f72fcfe612",
+      "title": "Expanding OpenAI Academy with new learning paths",
+      "url": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
+      "primary_url": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "844d7f12ef7fac27524e36cc5345e97f538ad2cc",
-          "title": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
-          "title_zh": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
-          "title_en": null,
-          "title_original": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
-          "summary": "作者通过自己手机上的流量捕获复现了 OpenAI 广告收集器机制：bzr.openai.com 在 .openai.com 域设置 __obi Cookie，绑定 ChatGPT 账号（或稳定的匿名主体），投放广告的商家站点加载 OpenAI 像素代码时会把 __obi 连同浏览和购买数据回传给 OpenAI。",
-          "recommend_reason_zh": null,
-          "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-20T18:05:38.317000Z"
-        },
-        {
-          "id": "d8898b561a942b4d528b999df63a8c0d9c0e9b10",
-          "title": "ChatGPT 现在可以通过广告收集器了解你在其他网站上的行为 / ChatGPT now knows what you do on other websites via ad collector",
-          "title_zh": "ChatGPT 现在可以通过广告收集器了解你在其他网站上的行为",
-          "title_en": "ChatGPT now knows what you do on other websites via ad collector",
-          "title_original": "ChatGPT now knows what you do on other websites via ad collector",
+          "id": "b5aafa50f62c10a69f52a8b6441c46712c874f1a",
+          "title": "Expanding OpenAI Academy with new learning paths",
+          "title_zh": null,
+          "title_en": "Expanding OpenAI Academy with new learning paths",
+          "title_original": "Expanding OpenAI Academy with new learning paths",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
-          "source": "Hacker News front page",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-20T15:18:44Z"
-        },
-        {
-          "id": "8a8492ac98d1392dfb3c8d3deb6f2957f4ba54ad",
-          "title": "ChatGPT 现在可以通过广告收集器了解你在其他网站上的行为",
-          "title_zh": "ChatGPT 现在可以通过广告收集器了解你在其他网站上的行为",
-          "title_en": null,
-          "title_original": "ChatGPT 现在可以通过广告收集器了解你在其他网站上的行为",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
-          "source": "www.buchodi.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-20T18:05:38.317000Z"
-        },
-        {
-          "id": "7d18b5731ef9e28fff4e0ab0474ddc3c6c89b701",
-          "title": "ChatGPT 现在通过广告收集器知道您在其他网站上做了什么 / ChatGPT now knows what you do on other websites via ad collector",
-          "title_zh": "ChatGPT 现在通过广告收集器知道您在其他网站上做了什么",
-          "title_en": "ChatGPT now knows what you do on other websites via ad collector",
-          "title_original": "ChatGPT now knows what you do on other websites via ad collector",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49776729",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-20T15:18:44Z"
+          "url": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-21T07:00:00Z"
         }
       ],
-      "source_count": 4,
+      "source_count": 1,
       "source_names": [
-        "Hacker News front page",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "hackernews",
-        "www.buchodi.com"
+        "OpenAI News"
       ],
       "items": [
         {
-          "id": "844d7f12ef7fac27524e36cc5345e97f538ad2cc",
-          "title": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
-          "title_zh": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
-          "title_en": null,
-          "title_original": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
-          "summary": "作者通过自己手机上的流量捕获复现了 OpenAI 广告收集器机制：bzr.openai.com 在 .openai.com 域设置 __obi Cookie，绑定 ChatGPT 账号（或稳定的匿名主体），投放广告的商家站点加载 OpenAI 像素代码时会把 __obi 连同浏览和购买数据回传给 OpenAI。",
-          "recommend_reason_zh": null,
-          "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-20T18:05:38.317000Z"
-        },
-        {
-          "id": "d8898b561a942b4d528b999df63a8c0d9c0e9b10",
-          "title": "ChatGPT 现在可以通过广告收集器了解你在其他网站上的行为 / ChatGPT now knows what you do on other websites via ad collector",
-          "title_zh": "ChatGPT 现在可以通过广告收集器了解你在其他网站上的行为",
-          "title_en": "ChatGPT now knows what you do on other websites via ad collector",
-          "title_original": "ChatGPT now knows what you do on other websites via ad collector",
+          "id": "b5aafa50f62c10a69f52a8b6441c46712c874f1a",
+          "title": "Expanding OpenAI Academy with new learning paths",
+          "title_zh": null,
+          "title_en": "Expanding OpenAI Academy with new learning paths",
+          "title_original": "Expanding OpenAI Academy with new learning paths",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
-          "source": "Hacker News front page",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-20T15:18:44Z"
-        },
-        {
-          "id": "8a8492ac98d1392dfb3c8d3deb6f2957f4ba54ad",
-          "title": "ChatGPT 现在可以通过广告收集器了解你在其他网站上的行为",
-          "title_zh": "ChatGPT 现在可以通过广告收集器了解你在其他网站上的行为",
-          "title_en": null,
-          "title_original": "ChatGPT 现在可以通过广告收集器了解你在其他网站上的行为",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
-          "source": "www.buchodi.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-20T18:05:38.317000Z"
-        },
-        {
-          "id": "7d18b5731ef9e28fff4e0ab0474ddc3c6c89b701",
-          "title": "ChatGPT 现在通过广告收集器知道您在其他网站上做了什么 / ChatGPT now knows what you do on other websites via ad collector",
-          "title_zh": "ChatGPT 现在通过广告收集器知道您在其他网站上做了什么",
-          "title_en": "ChatGPT now knows what you do on other websites via ad collector",
-          "title_original": "ChatGPT now knows what you do on other websites via ad collector",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49776729",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-20T15:18:44Z"
+          "url": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-21T07:00:00Z"
         }
       ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.7971,
-      "importance": 0.7971,
-      "importance_score": 0.7971,
-      "importance_label": "多源热议",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8353,
+      "importance": 0.8353,
+      "importance_score": 0.8353,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 0.95,
-        "recency": 0.7363,
-        "story_heat": 0.75
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.8295,
+        "story_heat": 0.0
       },
-      "category": "multi_source",
+      "category": "official",
       "reasons": [
-        "multi_source",
+        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-20T15:18:44Z",
-      "latest_at": "2026-09-20T18:05:38.317000Z",
+      "earliest_at": "2026-09-21T07:00:00Z",
+      "latest_at": "2026-09-21T07:00:00Z",
       "primary_item": {
-        "id": "844d7f12ef7fac27524e36cc5345e97f538ad2cc",
-        "title": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
-        "title_zh": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
-        "title_en": null,
-        "title_original": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
-        "summary": "作者通过自己手机上的流量捕获复现了 OpenAI 广告收集器机制：bzr.openai.com 在 .openai.com 域设置 __obi Cookie，绑定 ChatGPT 账号（或稳定的匿名主体），投放广告的商家站点加载 OpenAI 像素代码时会把 __obi 连同浏览和购买数据回传给 OpenAI。",
+        "id": "b5aafa50f62c10a69f52a8b6441c46712c874f1a",
+        "title": "Expanding OpenAI Academy with new learning paths",
+        "title_zh": null,
+        "title_en": "Expanding OpenAI Academy with new learning paths",
+        "title_original": "Expanding OpenAI Academy with new learning paths",
+        "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
+        "url": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T15:19:00.195703Z"
+        "scored_at": "2026-09-21T20:12:00.870830Z"
       }
     },
     {
@@ -384,15 +492,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7923,
-      "importance": 0.7923,
-      "importance_score": 0.7923,
+      "score": 0.783,
+      "importance": 0.783,
+      "importance_score": 0.783,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.79,
-        "recency": 0.8019,
+        "recency": 0.7498,
         "story_heat": 0.0
       },
       "category": "official",
@@ -418,7 +526,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T15:19:00.195703Z"
+        "scored_at": "2026-09-21T20:12:00.870830Z"
       }
     },
     {
@@ -495,22 +603,21 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7542,
-      "importance": 0.7542,
-      "importance_score": 0.7542,
+      "score": 0.7437,
+      "importance": 0.7437,
+      "importance_score": 0.7437,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.684,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.9023,
+        "recency": 0.8437,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-21T07:20:00Z",
       "latest_at": "2026-09-21T08:10:19.518095Z",
@@ -530,7 +637,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T15:19:00.195703Z"
+        "scored_at": "2026-09-21T20:12:00.870830Z"
+      }
+    },
+    {
+      "story_id": "story_eed721e04523",
+      "title": "V7 如何为人工智能代理提供机构记忆 / How V7 gives AI agents institutional memory",
+      "url": "https://openai.com/index/v7",
+      "primary_url": "https://openai.com/index/v7",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "76c72136ab9549bbbee84bf82c5ff91ee0c65ce7",
+          "title": "V7 如何为人工智能代理提供机构记忆 / How V7 gives AI agents institutional memory",
+          "title_zh": "V7 如何为人工智能代理提供机构记忆",
+          "title_en": "How V7 gives AI agents institutional memory",
+          "title_original": "How V7 gives AI agents institutional memory",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/v7",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-21T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "76c72136ab9549bbbee84bf82c5ff91ee0c65ce7",
+          "title": "V7 如何为人工智能代理提供机构记忆 / How V7 gives AI agents institutional memory",
+          "title_zh": "V7 如何为人工智能代理提供机构记忆",
+          "title_en": "How V7 gives AI agents institutional memory",
+          "title_original": "How V7 gives AI agents institutional memory",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/v7",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-21T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.825,
+      "importance": 0.825,
+      "importance_score": 0.825,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 1.0,
+        "recency": 0.7498,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-21T00:00:00Z",
+      "latest_at": "2026-09-21T00:00:00Z",
+      "primary_item": {
+        "id": "76c72136ab9549bbbee84bf82c5ff91ee0c65ce7",
+        "title": "V7 如何为人工智能代理提供机构记忆 / How V7 gives AI agents institutional memory",
+        "title_zh": "V7 如何为人工智能代理提供机构记忆",
+        "title_en": "How V7 gives AI agents institutional memory",
+        "title_original": "How V7 gives AI agents institutional memory",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/v7",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-21T20:12:00.870830Z"
       }
     },
     {
@@ -578,15 +768,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7325,
-      "importance": 0.7325,
-      "importance_score": 0.7325,
+      "score": 0.7236,
+      "importance": 0.7236,
+      "importance_score": 0.7236,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.7607,
+        "recency": 0.7113,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -611,7 +801,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T15:19:00.195703Z"
+        "scored_at": "2026-09-21T20:12:00.870830Z"
       }
     },
     {
@@ -659,15 +849,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7432,
-      "importance": 0.7432,
-      "importance_score": 0.7432,
+      "score": 0.7318,
+      "importance": 0.7318,
+      "importance_score": 0.7318,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.684,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.9802,
+        "recency": 0.9165,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -692,7 +882,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T15:19:00.195703Z"
+        "scored_at": "2026-09-21T20:12:00.870830Z"
       }
     },
     {
@@ -740,15 +930,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7432,
-      "importance": 0.7432,
-      "importance_score": 0.7432,
+      "score": 0.7318,
+      "importance": 0.7318,
+      "importance_score": 0.7318,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.684,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.9802,
+        "recency": 0.9165,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -773,7 +963,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T15:19:00.195703Z"
+        "scored_at": "2026-09-21T20:12:00.870830Z"
       }
     },
     {
@@ -849,15 +1039,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6777,
-      "importance": 0.6777,
-      "importance_score": 0.6777,
+      "score": 0.6663,
+      "importance": 0.6663,
+      "importance_score": 0.6663,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.6048,
         "source_tier": 0.58,
         "ai_relevance": 0.84,
-        "recency": 0.9761,
+        "recency": 0.9127,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -883,7 +1073,118 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T15:19:00.195703Z"
+        "scored_at": "2026-09-21T20:12:00.870830Z"
+      }
+    },
+    {
+      "story_id": "story_2fffdc8fb58f",
+      "title": "Amazon blocks Meta’s new Muse AI agent from shopping on amazon.com",
+      "url": "https://www.forbes.com/sites/jonmarkman/2026/09/21/amazon-blocks-metas-new-muse-ai-agent-from-shopping-on-amazoncom",
+      "primary_url": "https://www.forbes.com/sites/jonmarkman/2026/09/21/amazon-blocks-metas-new-muse-ai-agent-from-shopping-on-amazoncom",
+      "source": "Hacker News front page",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "5a8754846cbb45640e151ce6f749ceefa47654c6",
+          "title": "Amazon blocks Meta’s new Muse AI agent from shopping on amazon.com",
+          "title_zh": null,
+          "title_en": "Amazon blocks Meta’s new Muse AI agent from shopping on amazon.com",
+          "title_original": "Amazon blocks Meta’s new Muse AI agent from shopping on amazon.com",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.forbes.com/sites/jonmarkman/2026/09/21/amazon-blocks-metas-new-muse-ai-agent-from-shopping-on-amazoncom",
+          "source": "Hacker News front page",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-21T17:00:23Z"
+        },
+        {
+          "id": "47865bb95ae39319b45b7a35e74006d276a0d62d",
+          "title": "Amazon blocks Meta’s new Muse AI agent from shopping on amazon.com",
+          "title_zh": null,
+          "title_en": "Amazon blocks Meta’s new Muse AI agent from shopping on amazon.com",
+          "title_original": "Amazon blocks Meta’s new Muse AI agent from shopping on amazon.com",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49789982",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-21T17:00:23Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News front page",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "5a8754846cbb45640e151ce6f749ceefa47654c6",
+          "title": "Amazon blocks Meta’s new Muse AI agent from shopping on amazon.com",
+          "title_zh": null,
+          "title_en": "Amazon blocks Meta’s new Muse AI agent from shopping on amazon.com",
+          "title_original": "Amazon blocks Meta’s new Muse AI agent from shopping on amazon.com",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.forbes.com/sites/jonmarkman/2026/09/21/amazon-blocks-metas-new-muse-ai-agent-from-shopping-on-amazoncom",
+          "source": "Hacker News front page",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-21T17:00:23Z"
+        },
+        {
+          "id": "47865bb95ae39319b45b7a35e74006d276a0d62d",
+          "title": "Amazon blocks Meta’s new Muse AI agent from shopping on amazon.com",
+          "title_zh": null,
+          "title_en": "Amazon blocks Meta’s new Muse AI agent from shopping on amazon.com",
+          "title_original": "Amazon blocks Meta’s new Muse AI agent from shopping on amazon.com",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49789982",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-21T17:00:23Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6621,
+      "importance": 0.6621,
+      "importance_score": 0.6621,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5832,
+        "source_tier": 0.58,
+        "ai_relevance": 0.81,
+        "recency": 0.9585,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-21T17:00:23Z",
+      "latest_at": "2026-09-21T17:00:23Z",
+      "primary_item": {
+        "id": "5a8754846cbb45640e151ce6f749ceefa47654c6",
+        "title": "Amazon blocks Meta’s new Muse AI agent from shopping on amazon.com",
+        "title_zh": null,
+        "title_en": "Amazon blocks Meta’s new Muse AI agent from shopping on amazon.com",
+        "title_original": "Amazon blocks Meta’s new Muse AI agent from shopping on amazon.com",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.forbes.com/sites/jonmarkman/2026/09/21/amazon-blocks-metas-new-muse-ai-agent-from-shopping-on-amazoncom",
+        "source": "Hacker News front page",
+        "source_name": "Curated Media"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-21T20:12:00.870830Z"
       }
     },
     {
@@ -960,15 +1261,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.666,
-      "importance": 0.666,
-      "importance_score": 0.666,
+      "score": 0.6545,
+      "importance": 0.6545,
+      "importance_score": 0.6545,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5832,
         "source_tier": 0.58,
         "ai_relevance": 0.81,
-        "recency": 0.98,
+        "recency": 0.9163,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -994,169 +1295,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T15:19:00.195703Z"
+        "scored_at": "2026-09-21T20:12:00.870830Z"
       }
     },
     {
-      "story_id": "story_02e8ffac48ba",
-      "title": "Claude Opus 5. 5 疑遭内测泄露：跳级直冲GPT-6，百万Token价格腰斩至 4 美元",
-      "url": "https://www.aibase.com/news/31231",
-      "primary_url": "https://www.aibase.com/news/31231",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_87ed53008420",
+      "title": "Turn off and restrict access to Apple Intelligence features on Mac",
+      "url": "https://support.apple.com/guide/mac-help/turn-restrict-access-apple-intelligence-mchlb2e44f94/mac",
+      "primary_url": "https://support.apple.com/guide/mac-help/turn-restrict-access-apple-intelligence-mchlb2e44f94/mac",
+      "source": "Hacker News front page",
+      "source_name": "Curated Media",
       "sources": [
         {
-          "id": "f1528efce967282e3ffc899eb06e10ffa20c90eb",
-          "title": "Claude Opus 5. 5 疑遭内测泄露：跳级直冲GPT-6，百万Token价格腰斩至 4 美元",
-          "title_zh": "Claude Opus 5. 5 疑遭内测泄露：跳级直冲GPT-6，百万Token价格腰斩至 4 美元",
-          "title_en": null,
-          "title_original": "Claude Opus 5. 5 疑遭内测泄露：跳级直冲GPT-6，百万Token价格腰斩至 4 美元",
+          "id": "6761dab8c6a4058d30034322850c59c4110c37f7",
+          "title": "Turn off and restrict access to Apple Intelligence features on Mac",
+          "title_zh": null,
+          "title_en": "Turn off and restrict access to Apple Intelligence features on Mac",
+          "title_original": "Turn off and restrict access to Apple Intelligence features on Mac",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31231",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-21T08:10:19.518095Z"
+          "url": "https://support.apple.com/guide/mac-help/turn-restrict-access-apple-intelligence-mchlb2e44f94/mac",
+          "source": "Hacker News front page",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-21T17:30:21Z"
+        },
+        {
+          "id": "fb58e11d7faf57e8693d1bafee3dc1b03ebbd2d1",
+          "title": "Turn off and restrict access to Apple Intelligence features on Mac",
+          "title_zh": null,
+          "title_en": "Turn off and restrict access to Apple Intelligence features on Mac",
+          "title_original": "Turn off and restrict access to Apple Intelligence features on Mac",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49790409",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-21T17:30:21Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "Hacker News front page",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "f1528efce967282e3ffc899eb06e10ffa20c90eb",
-          "title": "Claude Opus 5. 5 疑遭内测泄露：跳级直冲GPT-6，百万Token价格腰斩至 4 美元",
-          "title_zh": "Claude Opus 5. 5 疑遭内测泄露：跳级直冲GPT-6，百万Token价格腰斩至 4 美元",
-          "title_en": null,
-          "title_original": "Claude Opus 5. 5 疑遭内测泄露：跳级直冲GPT-6，百万Token价格腰斩至 4 美元",
+          "id": "6761dab8c6a4058d30034322850c59c4110c37f7",
+          "title": "Turn off and restrict access to Apple Intelligence features on Mac",
+          "title_zh": null,
+          "title_en": "Turn off and restrict access to Apple Intelligence features on Mac",
+          "title_original": "Turn off and restrict access to Apple Intelligence features on Mac",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31231",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-21T08:10:19.518095Z"
+          "url": "https://support.apple.com/guide/mac-help/turn-restrict-access-apple-intelligence-mchlb2e44f94/mac",
+          "source": "Hacker News front page",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-21T17:30:21Z"
+        },
+        {
+          "id": "fb58e11d7faf57e8693d1bafee3dc1b03ebbd2d1",
+          "title": "Turn off and restrict access to Apple Intelligence features on Mac",
+          "title_zh": null,
+          "title_en": "Turn off and restrict access to Apple Intelligence features on Mac",
+          "title_original": "Turn off and restrict access to Apple Intelligence features on Mac",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49790409",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-21T17:30:21Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7292,
-      "importance": 0.7292,
-      "importance_score": 0.7292,
-      "importance_label": "行业动态",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6509,
+      "importance": 0.6509,
+      "importance_score": 0.6509,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.684,
-        "source_tier": 0.78,
-        "ai_relevance": 0.95,
-        "recency": 0.9023,
-        "story_heat": 0.0
+        "editorial": 0.5616,
+        "source_tier": 0.58,
+        "ai_relevance": 0.78,
+        "recency": 0.9654,
+        "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-09-21T08:10:19.518095Z",
-      "latest_at": "2026-09-21T08:10:19.518095Z",
+      "earliest_at": "2026-09-21T17:30:21Z",
+      "latest_at": "2026-09-21T17:30:21Z",
       "primary_item": {
-        "id": "f1528efce967282e3ffc899eb06e10ffa20c90eb",
-        "title": "Claude Opus 5. 5 疑遭内测泄露：跳级直冲GPT-6，百万Token价格腰斩至 4 美元",
-        "title_zh": "Claude Opus 5. 5 疑遭内测泄露：跳级直冲GPT-6，百万Token价格腰斩至 4 美元",
-        "title_en": null,
-        "title_original": "Claude Opus 5. 5 疑遭内测泄露：跳级直冲GPT-6，百万Token价格腰斩至 4 美元",
+        "id": "6761dab8c6a4058d30034322850c59c4110c37f7",
+        "title": "Turn off and restrict access to Apple Intelligence features on Mac",
+        "title_zh": null,
+        "title_en": "Turn off and restrict access to Apple Intelligence features on Mac",
+        "title_original": "Turn off and restrict access to Apple Intelligence features on Mac",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31231",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "url": "https://support.apple.com/guide/mac-help/turn-restrict-access-apple-intelligence-mchlb2e44f94/mac",
+        "source": "Hacker News front page",
+        "source_name": "Curated Media"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T15:19:00.195703Z"
-      }
-    },
-    {
-      "story_id": "story_d6fca3542f8f",
-      "title": "Claude Opus 5.5 已在内测：连跳两级直逼 GPT-6，价格还打骨折",
-      "url": "https://www.aibase.com/news/31232",
-      "primary_url": "https://www.aibase.com/news/31232",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "f9dc62836aace206bfaa30cd27980698c24d1644",
-          "title": "Claude Opus 5.5 已在内测：连跳两级直逼 GPT-6，价格还打骨折",
-          "title_zh": "Claude Opus 5.5 已在内测：连跳两级直逼 GPT-6，价格还打骨折",
-          "title_en": null,
-          "title_original": "Claude Opus 5.5 已在内测：连跳两级直逼 GPT-6，价格还打骨折",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31232",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-21T08:10:19.518095Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "f9dc62836aace206bfaa30cd27980698c24d1644",
-          "title": "Claude Opus 5.5 已在内测：连跳两级直逼 GPT-6，价格还打骨折",
-          "title_zh": "Claude Opus 5.5 已在内测：连跳两级直逼 GPT-6，价格还打骨折",
-          "title_en": null,
-          "title_original": "Claude Opus 5.5 已在内测：连跳两级直逼 GPT-6，价格还打骨折",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31232",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-21T08:10:19.518095Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7292,
-      "importance": 0.7292,
-      "importance_score": 0.7292,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.684,
-        "source_tier": 0.78,
-        "ai_relevance": 0.95,
-        "recency": 0.9023,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-21T08:10:19.518095Z",
-      "latest_at": "2026-09-21T08:10:19.518095Z",
-      "primary_item": {
-        "id": "f9dc62836aace206bfaa30cd27980698c24d1644",
-        "title": "Claude Opus 5.5 已在内测：连跳两级直逼 GPT-6，价格还打骨折",
-        "title_zh": "Claude Opus 5.5 已在内测：连跳两级直逼 GPT-6，价格还打骨折",
-        "title_en": null,
-        "title_original": "Claude Opus 5.5 已在内测：连跳两级直逼 GPT-6，价格还打骨折",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31232",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-21T15:19:00.195703Z"
+        "scored_at": "2026-09-21T20:12:00.870830Z"
       }
     },
     {
@@ -1262,15 +1511,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6309,
-      "importance": 0.6309,
-      "importance_score": 0.6309,
+      "score": 0.6218,
+      "importance": 0.6218,
+      "importance_score": 0.6218,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.54,
         "source_tier": 0.58,
         "ai_relevance": 0.75,
-        "recency": 0.7852,
+        "recency": 0.7342,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1295,551 +1544,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T15:19:00.195703Z"
-      }
-    },
-    {
-      "story_id": "story_f6ad0321aa88",
-      "title": "英伟达 (Nvidia) 的黄仁勋 (Jensen Huang) 认为人工智能的担忧被夸大了，这一点没有人感到惊讶 / No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
-      "source": "The Verge",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "aa74037c27e35223b4e6af22c96a05a08cf1e958",
-          "title": "英伟达 (Nvidia) 的黄仁勋 (Jensen Huang) 认为人工智能的担忧被夸大了，这一点没有人感到惊讶 / No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown",
-          "title_zh": "英伟达 (Nvidia) 的黄仁勋 (Jensen Huang) 认为人工智能的担忧被夸大了，这一点没有人感到惊讶",
-          "title_en": "No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown",
-          "title_original": "No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-20T18:50:18Z"
-        },
-        {
-          "id": "4c2db2373e60e802256489099a61485b7afa431a",
-          "title": "英伟达 (Nvidia) 的黄仁勋 (Jensen Huang) 认为人工智能的担忧被夸大了，这一点没有人感到惊讶。 / No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown.",
-          "title_zh": "英伟达 (Nvidia) 的黄仁勋 (Jensen Huang) 认为人工智能的担忧被夸大了，这一点没有人感到惊讶。",
-          "title_en": "No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown.",
-          "title_original": "No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown.",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
-          "source": "The Verge",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-20T18:50:18Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "The Verge"
-      ],
-      "items": [
-        {
-          "id": "aa74037c27e35223b4e6af22c96a05a08cf1e958",
-          "title": "英伟达 (Nvidia) 的黄仁勋 (Jensen Huang) 认为人工智能的担忧被夸大了，这一点没有人感到惊讶 / No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown",
-          "title_zh": "英伟达 (Nvidia) 的黄仁勋 (Jensen Huang) 认为人工智能的担忧被夸大了，这一点没有人感到惊讶",
-          "title_en": "No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown",
-          "title_original": "No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-20T18:50:18Z"
-        },
-        {
-          "id": "4c2db2373e60e802256489099a61485b7afa431a",
-          "title": "英伟达 (Nvidia) 的黄仁勋 (Jensen Huang) 认为人工智能的担忧被夸大了，这一点没有人感到惊讶。 / No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown.",
-          "title_zh": "英伟达 (Nvidia) 的黄仁勋 (Jensen Huang) 认为人工智能的担忧被夸大了，这一点没有人感到惊讶。",
-          "title_en": "No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown.",
-          "title_original": "No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown.",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
-          "source": "The Verge",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-20T18:50:18Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6235,
-      "importance": 0.6235,
-      "importance_score": 0.6235,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.5832,
-        "source_tier": 0.58,
-        "ai_relevance": 0.81,
-        "recency": 0.7443,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-20T18:50:18Z",
-      "latest_at": "2026-09-20T18:50:18Z",
-      "primary_item": {
-        "id": "aa74037c27e35223b4e6af22c96a05a08cf1e958",
-        "title": "英伟达 (Nvidia) 的黄仁勋 (Jensen Huang) 认为人工智能的担忧被夸大了，这一点没有人感到惊讶 / No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown",
-        "title_zh": "英伟达 (Nvidia) 的黄仁勋 (Jensen Huang) 认为人工智能的担忧被夸大了，这一点没有人感到惊讶",
-        "title_en": "No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown",
-        "title_original": "No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
-        "source": "The Verge",
-        "source_name": "Curated Media"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-21T15:19:00.195703Z"
-      }
-    },
-    {
-      "story_id": "story_924c1201d9fd",
-      "title": "Gemini 也\"越狱\"了：谷歌确认 5 月安全测试中闯入 3 家真实公司系统，同一家评估商的锅",
-      "url": "https://www.aibase.com/news/31217",
-      "primary_url": "https://www.aibase.com/news/31217",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "4837935688fa63f80c68bc5260623a138f5af7bf",
-          "title": "Gemini 也\"越狱\"了：谷歌确认 5 月安全测试中闯入 3 家真实公司系统，同一家评估商的锅",
-          "title_zh": "Gemini 也\"越狱\"了：谷歌确认 5 月安全测试中闯入 3 家真实公司系统，同一家评估商的锅",
-          "title_en": null,
-          "title_original": "Gemini 也\"越狱\"了：谷歌确认 5 月安全测试中闯入 3 家真实公司系统，同一家评估商的锅",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31217",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-21T08:10:19.518095Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "4837935688fa63f80c68bc5260623a138f5af7bf",
-          "title": "Gemini 也\"越狱\"了：谷歌确认 5 月安全测试中闯入 3 家真实公司系统，同一家评估商的锅",
-          "title_zh": "Gemini 也\"越狱\"了：谷歌确认 5 月安全测试中闯入 3 家真实公司系统，同一家评估商的锅",
-          "title_en": null,
-          "title_original": "Gemini 也\"越狱\"了：谷歌确认 5 月安全测试中闯入 3 家真实公司系统，同一家评估商的锅",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31217",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-21T08:10:19.518095Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7292,
-      "importance": 0.7292,
-      "importance_score": 0.7292,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.684,
-        "source_tier": 0.78,
-        "ai_relevance": 0.95,
-        "recency": 0.9023,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-21T08:10:19.518095Z",
-      "latest_at": "2026-09-21T08:10:19.518095Z",
-      "primary_item": {
-        "id": "4837935688fa63f80c68bc5260623a138f5af7bf",
-        "title": "Gemini 也\"越狱\"了：谷歌确认 5 月安全测试中闯入 3 家真实公司系统，同一家评估商的锅",
-        "title_zh": "Gemini 也\"越狱\"了：谷歌确认 5 月安全测试中闯入 3 家真实公司系统，同一家评估商的锅",
-        "title_en": null,
-        "title_original": "Gemini 也\"越狱\"了：谷歌确认 5 月安全测试中闯入 3 家真实公司系统，同一家评估商的锅",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31217",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-21T15:19:00.195703Z"
-      }
-    },
-    {
-      "story_id": "story_917990886c44",
-      "title": "OpenAI 一次性摊开六份失准报告：模型越界不再是偶然，而是三种可复现的机制",
-      "url": "https://www.aibase.com/news/31220",
-      "primary_url": "https://www.aibase.com/news/31220",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "1873ddfdfbc8787305d23f817d29ee374d194c37",
-          "title": "OpenAI 一次性摊开六份失准报告：模型越界不再是偶然，而是三种可复现的机制",
-          "title_zh": "OpenAI 一次性摊开六份失准报告：模型越界不再是偶然，而是三种可复现的机制",
-          "title_en": null,
-          "title_original": "OpenAI 一次性摊开六份失准报告：模型越界不再是偶然，而是三种可复现的机制",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31220",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-21T08:10:19.518095Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "1873ddfdfbc8787305d23f817d29ee374d194c37",
-          "title": "OpenAI 一次性摊开六份失准报告：模型越界不再是偶然，而是三种可复现的机制",
-          "title_zh": "OpenAI 一次性摊开六份失准报告：模型越界不再是偶然，而是三种可复现的机制",
-          "title_en": null,
-          "title_original": "OpenAI 一次性摊开六份失准报告：模型越界不再是偶然，而是三种可复现的机制",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31220",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-21T08:10:19.518095Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7292,
-      "importance": 0.7292,
-      "importance_score": 0.7292,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.684,
-        "source_tier": 0.78,
-        "ai_relevance": 0.95,
-        "recency": 0.9023,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-21T08:10:19.518095Z",
-      "latest_at": "2026-09-21T08:10:19.518095Z",
-      "primary_item": {
-        "id": "1873ddfdfbc8787305d23f817d29ee374d194c37",
-        "title": "OpenAI 一次性摊开六份失准报告：模型越界不再是偶然，而是三种可复现的机制",
-        "title_zh": "OpenAI 一次性摊开六份失准报告：模型越界不再是偶然，而是三种可复现的机制",
-        "title_en": null,
-        "title_original": "OpenAI 一次性摊开六份失准报告：模型越界不再是偶然，而是三种可复现的机制",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31220",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-21T15:19:00.195703Z"
-      }
-    },
-    {
-      "story_id": "story_ba2ca1619666",
-      "title": "Show HN：三个同步锁相 RP2350B 组成一个控制台 – 每行 3k 精灵像素） / Show HN: Three genlocked RP2350B make a console – 3k sprite pixels per line)",
-      "url": "https://www.papydeck.eu",
-      "primary_url": "https://www.papydeck.eu",
-      "source": "Hacker News front page",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "4b6ef19de49e48252d5226e6760b25d057b4d74c",
-          "title": "Show HN：三个同步锁相 RP2350B 组成一个控制台 – 每行 3k 精灵像素） / Show HN: Three genlocked RP2350B make a console – 3k sprite pixels per line)",
-          "title_zh": "Show HN：三个同步锁相 RP2350B 组成一个控制台 – 每行 3k 精灵像素）",
-          "title_en": "Show HN: Three genlocked RP2350B make a console – 3k sprite pixels per line)",
-          "title_original": "Show HN: Three genlocked RP2350B make a console – 3k sprite pixels per line)",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.papydeck.eu",
-          "source": "Hacker News front page",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-20T17:37:06Z"
-        },
-        {
-          "id": "43552ac776591c032f93ffbbf4d40d50a143694b",
-          "title": "Show HN：三个同步锁相 RP2350B 组成一个控制台 – 每行 3k 精灵像素） / Show HN: Three genlocked RP2350B make a console – 3k sprite pixels per line)",
-          "title_zh": "Show HN：三个同步锁相 RP2350B 组成一个控制台 – 每行 3k 精灵像素）",
-          "title_en": "Show HN: Three genlocked RP2350B make a console – 3k sprite pixels per line)",
-          "title_original": "Show HN: Three genlocked RP2350B make a console – 3k sprite pixels per line)",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49778008",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-20T17:37:06Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News front page",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "4b6ef19de49e48252d5226e6760b25d057b4d74c",
-          "title": "Show HN：三个同步锁相 RP2350B 组成一个控制台 – 每行 3k 精灵像素） / Show HN: Three genlocked RP2350B make a console – 3k sprite pixels per line)",
-          "title_zh": "Show HN：三个同步锁相 RP2350B 组成一个控制台 – 每行 3k 精灵像素）",
-          "title_en": "Show HN: Three genlocked RP2350B make a console – 3k sprite pixels per line)",
-          "title_original": "Show HN: Three genlocked RP2350B make a console – 3k sprite pixels per line)",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.papydeck.eu",
-          "source": "Hacker News front page",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-20T17:37:06Z"
-        },
-        {
-          "id": "43552ac776591c032f93ffbbf4d40d50a143694b",
-          "title": "Show HN：三个同步锁相 RP2350B 组成一个控制台 – 每行 3k 精灵像素） / Show HN: Three genlocked RP2350B make a console – 3k sprite pixels per line)",
-          "title_zh": "Show HN：三个同步锁相 RP2350B 组成一个控制台 – 每行 3k 精灵像素）",
-          "title_en": "Show HN: Three genlocked RP2350B make a console – 3k sprite pixels per line)",
-          "title_original": "Show HN: Three genlocked RP2350B make a console – 3k sprite pixels per line)",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49778008",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-20T17:37:06Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6087,
-      "importance": 0.6087,
-      "importance_score": 0.6087,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.5616,
-        "source_tier": 0.58,
-        "ai_relevance": 0.78,
-        "recency": 0.7313,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-20T17:37:06Z",
-      "latest_at": "2026-09-20T17:37:06Z",
-      "primary_item": {
-        "id": "4b6ef19de49e48252d5226e6760b25d057b4d74c",
-        "title": "Show HN：三个同步锁相 RP2350B 组成一个控制台 – 每行 3k 精灵像素） / Show HN: Three genlocked RP2350B make a console – 3k sprite pixels per line)",
-        "title_zh": "Show HN：三个同步锁相 RP2350B 组成一个控制台 – 每行 3k 精灵像素）",
-        "title_en": "Show HN: Three genlocked RP2350B make a console – 3k sprite pixels per line)",
-        "title_original": "Show HN: Three genlocked RP2350B make a console – 3k sprite pixels per line)",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.papydeck.eu",
-        "source": "Hacker News front page",
-        "source_name": "Curated Media"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-21T15:19:00.195703Z"
-      }
-    },
-    {
-      "story_id": "story_214d4d19f8d1",
-      "title": "Siri AI 和解开放申请：符合条件的美国 iPhone 用户每台可领 25 美元",
-      "url": "https://www.aibase.com/news/31228",
-      "primary_url": "https://www.aibase.com/news/31228",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "c03a6f692ec6e1e2ac3dd4e0046559506d369f27",
-          "title": "Siri AI 和解开放申请：符合条件的美国 iPhone 用户每台可领 25 美元",
-          "title_zh": "Siri AI 和解开放申请：符合条件的美国 iPhone 用户每台可领 25 美元",
-          "title_en": null,
-          "title_original": "Siri AI 和解开放申请：符合条件的美国 iPhone 用户每台可领 25 美元",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31228",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-21T08:10:19.518095Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "c03a6f692ec6e1e2ac3dd4e0046559506d369f27",
-          "title": "Siri AI 和解开放申请：符合条件的美国 iPhone 用户每台可领 25 美元",
-          "title_zh": "Siri AI 和解开放申请：符合条件的美国 iPhone 用户每台可领 25 美元",
-          "title_en": null,
-          "title_original": "Siri AI 和解开放申请：符合条件的美国 iPhone 用户每台可领 25 美元",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31228",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-21T08:10:19.518095Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7292,
-      "importance": 0.7292,
-      "importance_score": 0.7292,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.684,
-        "source_tier": 0.78,
-        "ai_relevance": 0.95,
-        "recency": 0.9023,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-21T08:10:19.518095Z",
-      "latest_at": "2026-09-21T08:10:19.518095Z",
-      "primary_item": {
-        "id": "c03a6f692ec6e1e2ac3dd4e0046559506d369f27",
-        "title": "Siri AI 和解开放申请：符合条件的美国 iPhone 用户每台可领 25 美元",
-        "title_zh": "Siri AI 和解开放申请：符合条件的美国 iPhone 用户每台可领 25 美元",
-        "title_en": null,
-        "title_original": "Siri AI 和解开放申请：符合条件的美国 iPhone 用户每台可领 25 美元",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31228",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-21T15:19:00.195703Z"
-      }
-    },
-    {
-      "story_id": "story_594bd34ddeb4",
-      "title": "中国大模型周调用量达67.46万亿Token，连续21周领先美国",
-      "url": "https://www.aibase.com/news/31226",
-      "primary_url": "https://www.aibase.com/news/31226",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "416d6bb1c4cab320117732f6a68961846c3e2c46",
-          "title": "中国大模型周调用量达67.46万亿Token，连续21周领先美国",
-          "title_zh": "中国大模型周调用量达67.46万亿Token，连续21周领先美国",
-          "title_en": null,
-          "title_original": "中国大模型周调用量达67.46万亿Token，连续21周领先美国",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31226",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-21T08:10:19.518095Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "416d6bb1c4cab320117732f6a68961846c3e2c46",
-          "title": "中国大模型周调用量达67.46万亿Token，连续21周领先美国",
-          "title_zh": "中国大模型周调用量达67.46万亿Token，连续21周领先美国",
-          "title_en": null,
-          "title_original": "中国大模型周调用量达67.46万亿Token，连续21周领先美国",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31226",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-21T08:10:19.518095Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7292,
-      "importance": 0.7292,
-      "importance_score": 0.7292,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.684,
-        "source_tier": 0.78,
-        "ai_relevance": 0.95,
-        "recency": 0.9023,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-21T08:10:19.518095Z",
-      "latest_at": "2026-09-21T08:10:19.518095Z",
-      "primary_item": {
-        "id": "416d6bb1c4cab320117732f6a68961846c3e2c46",
-        "title": "中国大模型周调用量达67.46万亿Token，连续21周领先美国",
-        "title_zh": "中国大模型周调用量达67.46万亿Token，连续21周领先美国",
-        "title_en": null,
-        "title_original": "中国大模型周调用量达67.46万亿Token，连续21周领先美国",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31226",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-21T15:19:00.195703Z"
+        "scored_at": "2026-09-21T20:12:00.870830Z"
       }
     },
     {
@@ -1916,15 +1621,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5536,
-      "importance": 0.5536,
-      "importance_score": 0.5536,
+      "score": 0.5436,
+      "importance": 0.5436,
+      "importance_score": 0.5436,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.45,
         "source_tier": 0.58,
         "ai_relevance": 0.56,
-        "recency": 0.8554,
+        "recency": 0.7999,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1949,7 +1654,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T15:19:00.195703Z"
+        "scored_at": "2026-09-21T20:12:00.870830Z"
       }
     }
   ]
