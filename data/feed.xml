@@ -5,15 +5,23 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Tue, 22 Sep 2026 13:37:39 +0000</lastBuildDate>
+<lastBuildDate>Tue, 22 Sep 2026 17:36:21 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
 <item>
-<title>像物理学家一样修剪LLM：块去除作为伊辛优化问题 / Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem</title>
-<link>https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an</link>
-<guid isPermaLink="true">https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an</guid>
-<description>Hugging Face Blog</description>
+<title>Anthropic 发布 Claude Opus 5.5，成本较 Opus 5 降低 40% / Introducing Claude Opus 5.5</title>
+<link>https://www.anthropic.com/claude-opus-5-5</link>
+<guid isPermaLink="true">https://www.anthropic.com/claude-opus-5-5</guid>
+<description>Anthropic 发布 Claude Opus 5.5，为 Claude 5.5 系列首个模型，在多数工作上达到 Fable 5.1 水平，典型负载成本较 Opus 5 低 40%。（Anthropic：Newsroom（网页））</description>
 <category>官方更新</category>
-<pubDate>Mon, 21 Sep 2026 13:44:34 +0000</pubDate>
+<pubDate>Tue, 22 Sep 2026 16:53:30 +0000</pubDate>
+</item>
+<item>
+<title>Claude Code v2.1.280 发布，新增 Claude Opus 5.5 为默认 Opus 模型</title>
+<link>https://github.com/anthropics/claude-code/releases/tag/v2.1.280</link>
+<guid isPermaLink="true">https://github.com/anthropics/claude-code/releases/tag/v2.1.280</guid>
+<description>Claude Code 发布 v2.1.280，新增 Claude Opus 5.5（claude-opus-5-5）为默认 Opus 模型，支持 1M 上下文，价格为 $4/$20 per Mtok、缓存读取 $0.20/Mtok；同时将 Pro 和 Team Standard 计划的默认模型从 Sonnet 改为 Opus。（Claude Code：GitHub Releases（RSS））</description>
+<category>官方更新</category>
+<pubDate>Tue, 22 Sep 2026 16:38:14 +0000</pubDate>
 </item>
 <item>
 <title>弃用通知：全平台 CodeQL 捆绑包 / Deprecation notice: All-platform CodeQL bundle</title>
@@ -32,6 +40,54 @@
 <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
+<title>Anthropic 发布 Claude Opus 5.5，成本降低 40% 且速度提升 30% / Claude Opus 5.5 is here. More capable， faster， and substantially cheaper. @AnthropicAI keeps pushing…</title>
+<link>https://x.com/mark_k/status/2102437510731219218</link>
+<guid isPermaLink="true">https://x.com/mark_k/status/2102437510731219218</guid>
+<description>Anthropic 发布 Claude Opus 5.5，官方称典型工作负载成本比 Opus 5 低 40%，输出速度提升超 30%。（@mark_k）</description>
+<category>行业动态</category>
+<pubDate>Tue, 22 Sep 2026 16:38:58 +0000</pubDate>
+</item>
+<item>
+<title>Claude Opus 5.5 登顶 Artificial Analysis Intelligence Index，并降价 20% / Claude Opus 5.5 takes the top spot on the Artificial Analysis Intelligence Index， along with a 20% p…</title>
+<link>https://x.com/ArtificialAnlys/status/2102438210798514391</link>
+<guid isPermaLink="true">https://x.com/ArtificialAnlys/status/2102438210798514391</guid>
+<description>Artificial Analysis 评测显示 Claude Opus 5.5 以 58 分登顶 Artificial Analysis Intelligence Index，为其实测最高分。（X：Artificial Analysis (@ArtificialAnlys)）</description>
+<category>行业动态</category>
+<pubDate>Tue, 22 Sep 2026 16:41:45 +0000</pubDate>
+</item>
+<item>
+<title>oMLX 创建者和维护者 Jun Kim 加入 Hugging Face 以支持 MLX 社区 / Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community</title>
+<link>https://huggingface.co/blog/omlx</link>
+<guid isPermaLink="true">https://huggingface.co/blog/omlx</guid>
+<description>Hugging Face Blog</description>
+<category>官方更新</category>
+<pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Claude Opus 5.5 上线 OpenRouter，智能体编码等能力领先 Opus 5 / Claude Opus 5.5 from @AnthropicAI is live on OpenRouter！ The first model in the Claude 5.5 family l…</title>
+<link>https://x.com/OpenRouter/status/2102438921213014078</link>
+<guid isPermaLink="true">https://x.com/OpenRouter/status/2102438921213014078</guid>
+<description>Anthropic 的 Claude Opus 5.5 上线 OpenRouter，是 Claude 5.5 系列首个模型，在智能体编码、知识工作和计算机使用上领先 Opus 5 和 Fable 5.1。提供 1M 上下文窗口，定价为每百万输入 token $4、输出 $20，比 Opus 5 低 20%。（X：OpenRouter (@OpenRouter)）</description>
+<category>行业动态</category>
+<pubDate>Tue, 22 Sep 2026 16:44:34 +0000</pubDate>
+</item>
+<item>
+<title>Boris Cherny 实测 Claude Opus 5.5：比 Fable 5.1 快且便宜 51% / Opus 5.5 is a really good model. It's been my daily driver the last few weeks. We had Opus 5.5 and …</title>
+<link>https://x.com/bcherny/status/2102439069053747549</link>
+<guid isPermaLink="true">https://x.com/bcherny/status/2102439069053747549</guid>
+<description>Anthropic 的 Boris Cherny 称 Claude Opus 5.5 近几周是他的日常主力模型。他让 Opus 5.5 和 Fable 5.1 各自把 HAProxy 从 C 移植到 Rust，两者都通过了几乎所有测试，但 Opus 5.5 用时 9.5 小时，快于 Fable 5.1 的 12 小时，成本低 51%。引用的官方介绍称 Opus 5.5 是 Claude 5.5 家族首个模型，多数任务达到 Fable 5.1 水平，运行成本比 Opus 5 低 40%。（X：Boris Cherny (@bcherny)）</description>
+<category>行业动态</category>
+<pubDate>Tue, 22 Sep 2026 16:45:10 +0000</pubDate>
+</item>
+<item>
+<title>Anthropic 发布 Claude Opus 5.5，Claude 5.5 系列首个模型 / Introducing Claude Opus 5.5， the first model in our new Claude 5.5 family. It performs at the level…</title>
+<link>https://x.com/claudeai/status/2102435511222890900</link>
+<guid isPermaLink="true">https://x.com/claudeai/status/2102435511222890900</guid>
+<description>Anthropic 发布 Claude Opus 5.5，是 Claude 5.5 系列的首个模型。官方称其在多数任务上达到 Claude Fable 5.1 的水平，运行成本比 Opus 5 低 40%。（X：Claude (@claudeai)）</description>
+<category>行业动态</category>
+<pubDate>Tue, 22 Sep 2026 16:31:01 +0000</pubDate>
+</item>
+<item>
 <title>刷新的代码仓库拉取请求页面现已可用 / Refreshed repository pull requests page generally available</title>
 <link>https://github.blog/changelog/2026-09-21-refreshed-repository-pull-requests-page-generally-available</link>
 <guid isPermaLink="true">https://github.blog/changelog/2026-09-21-refreshed-repository-pull-requests-page-generally-available</guid>
@@ -48,14 +104,6 @@
 <pubDate>Tue, 22 Sep 2026 12:31:54 +0000</pubDate>
 </item>
 <item>
-<title>oMLX 创建者和维护者 Jun Kim 加入 Hugging Face 以支持 MLX 社区 / Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community</title>
-<link>https://huggingface.co/blog/omlx</link>
-<guid isPermaLink="true">https://huggingface.co/blog/omlx</guid>
-<description>Hugging Face Blog</description>
-<category>官方更新</category>
-<pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
 <title>不列颠哥伦比亚省起诉 OpenAI，指其未在枪击案前将 flagged ChatGPT 活动转介警方 / Bloomberg： British Columbia sued OpenAI in California， alleging flagged ChatGPT activity should have…</title>
 <link>https://x.com/rohanpaul_ai/status/2102128625126605059</link>
 <guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2102128625126605059</guid>
@@ -64,7 +112,23 @@
 <pubDate>Mon, 21 Sep 2026 20:11:34 +0000</pubDate>
 </item>
 <item>
-<title>GitHub Enterprise adds credential inventory exports</title>
+<title>英国 AISI 和 EvalEval 如何使基准结果可重复 / How UK AISI and EvalEval Are Making Benchmark Results Reproducible</title>
+<link>https://huggingface.co/blog/evaleval-aisi</link>
+<guid isPermaLink="true">https://huggingface.co/blog/evaleval-aisi</guid>
+<description>Hugging Face Blog</description>
+<category>官方更新</category>
+<pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>OpenAI 具备得天独厚的优势，能够紧随 Jev 的步伐 / OpenAI is well positioned to fast-follow Jev</title>
+<link>https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch</link>
+<guid isPermaLink="true">https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch</guid>
+<description>Hacker News front page</description>
+<category>多源热议</category>
+<pubDate>Tue, 22 Sep 2026 16:37:52 +0000</pubDate>
+</item>
+<item>
+<title>GitHub Enterprise 添加凭证库存导出 / GitHub Enterprise adds credential inventory exports</title>
 <link>https://github.blog/changelog/2026-09-21-github-enterprise-adds-credential-inventory-exports</link>
 <guid isPermaLink="true">https://github.blog/changelog/2026-09-21-github-enterprise-adds-credential-inventory-exports</guid>
 <description>GitHub Changelog</description>
@@ -80,12 +144,12 @@
 <pubDate>Tue, 22 Sep 2026 12:31:54 +0000</pubDate>
 </item>
 <item>
-<title>Grok 4.7 is now available in GitHub Copilot</title>
-<link>https://github.blog/changelog/2026-09-21-grok-4-7-is-now-available-in-github-copilot</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-09-21-grok-4-7-is-now-available-in-github-copilot</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Mon, 21 Sep 2026 14:54:12 +0000</pubDate>
+<title>OpenAI的GPT–6 Astra破解了自2005年以来一直未能破解的“埃尼格玛”密码 / OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005</title>
+<link>https://www.cryptocellar.org/bgac/the-mvueh-break.html</link>
+<guid isPermaLink="true">https://www.cryptocellar.org/bgac/the-mvueh-break.html</guid>
+<description>Hacker News front page</description>
+<category>多源热议</category>
+<pubDate>Tue, 22 Sep 2026 14:45:25 +0000</pubDate>
 </item>
 <item>
 <title>小米18 Pro系列首发传奇一瞬大模型影像，用端到端大模型把相机级光学虚化装进手机</title>
@@ -102,70 +166,6 @@
 <description>AIbase</description>
 <category>行业动态</category>
 <pubDate>Tue, 22 Sep 2026 12:31:54 +0000</pubDate>
-</item>
-<item>
-<title>开源会在取代它的代理中幸存下来吗？ / Will Open Source Survive the Agents That Replaced It?</title>
-<link>https://albertoarena.it/posts/will-open-source-survive-the-agents-that-replaced-it</link>
-<guid isPermaLink="true">https://albertoarena.it/posts/will-open-source-survive-the-agents-that-replaced-it</guid>
-<description>Hacker News front page</description>
-<category>值得关注</category>
-<pubDate>Tue, 22 Sep 2026 12:05:17 +0000</pubDate>
-</item>
-<item>
-<title>AMD beats Intel to the trillion-dollar club as stock price soars — firm joins Nvidia, Broadcom, and SK hynix for companies worth over $1 trillion</title>
-<link>https://www.tomshardware.com/tech-industry/amd-beats-intel-to-the-trillion-dollar-club-as-stock-price-soars-firm-joins-nvidia-broadcom-and-sk-hynix-for-companies-worth-over-usd1-trillion</link>
-<guid isPermaLink="true">https://www.tomshardware.com/tech-industry/amd-beats-intel-to-the-trillion-dollar-club-as-stock-price-soars-firm-joins-nvidia-broadcom-and-sk-hynix-for-companies-worth-over-usd1-trillion</guid>
-<description>Tom's Hardware</description>
-<category>值得关注</category>
-<pubDate>Mon, 21 Sep 2026 15:42:55 +0000</pubDate>
-</item>
-<item>
-<title>Claude 状态——多个模型的错误率上升 / Claude Status – Elevated errors for multiple models</title>
-<link>https://status.claude.com/incidents/7g1qpkyz5gxh</link>
-<guid isPermaLink="true">https://status.claude.com/incidents/7g1qpkyz5gxh</guid>
-<description>Hacker News front page</description>
-<category>多源热议</category>
-<pubDate>Tue, 22 Sep 2026 08:47:46 +0000</pubDate>
-</item>
-<item>
-<title>消息称高瓴创投合伙人严文韬加入DeepSeek，担任CFO</title>
-<link>https://www.aibase.com/news/31265</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31265</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Tue, 22 Sep 2026 07:55:26 +0000</pubDate>
-</item>
-<item>
-<title>JetBrains Air：用于代理软件开发的产品系统 / JetBrains Air: A System of Products for Agentic Software Development</title>
-<link>https://blog.jetbrains.com/blog/2026/09/22/introducing-jetbrains-air</link>
-<guid isPermaLink="true">https://blog.jetbrains.com/blog/2026/09/22/introducing-jetbrains-air</guid>
-<description>Hacker News front page</description>
-<category>值得关注</category>
-<pubDate>Tue, 22 Sep 2026 11:00:58 +0000</pubDate>
-</item>
-<item>
-<title>福布斯美国最年轻 10 位亿万富豪：7 人靠 AI 上榜，4 人来自 Anthropic</title>
-<link>https://www.aibase.com/news/31254</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31254</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Tue, 22 Sep 2026 07:55:26 +0000</pubDate>
-</item>
-<item>
-<title>iPhone 18 Pro Max storage can drop lower than a hard drive at 1.1 MB/s during heavy writes — QLC NAND offers higher capacity but reportedly suffers 38% drop compared to TLC-based Pro</title>
-<link>https://www.tomshardware.com/pc-components/ssds/iphone-18-pro-max-storage-can-drop-lower-than-a-hard-drive-at-1-1-mb-s-during-heavy-writes-qlc-nand-offers-higher-capacity-but-reportedly-suffers-38-percent-drop-compared-to-tlc-based-pro</link>
-<guid isPermaLink="true">https://www.tomshardware.com/pc-components/ssds/iphone-18-pro-max-storage-can-drop-lower-than-a-hard-drive-at-1-1-mb-s-during-heavy-writes-qlc-nand-offers-higher-capacity-but-reportedly-suffers-38-percent-drop-compared-to-tlc-based-pro</guid>
-<description>Tom's Hardware</description>
-<category>值得关注</category>
-<pubDate>Mon, 21 Sep 2026 17:34:47 +0000</pubDate>
-</item>
-<item>
-<title>MiMo-v2.6-Pro：智能性、性能与价格分析 / MiMo-v2.6-Pro: Intelligence, Performance and Price Analysis</title>
-<link>https://artificialanalysis.ai/models/mimo-v2-6-pro</link>
-<guid isPermaLink="true">https://artificialanalysis.ai/models/mimo-v2-6-pro</guid>
-<description>Hacker News front page</description>
-<category>值得关注</category>
-<pubDate>Tue, 22 Sep 2026 04:02:09 +0000</pubDate>
 </item>
 </channel>
 </rss>
