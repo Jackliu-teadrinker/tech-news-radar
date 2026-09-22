@@ -5,7 +5,7 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Tue, 22 Sep 2026 17:36:21 +0000</lastBuildDate>
+<lastBuildDate>Tue, 22 Sep 2026 18:14:39 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
 <item>
 <title>Anthropic 发布 Claude Opus 5.5，成本较 Opus 5 降低 40% / Introducing Claude Opus 5.5</title>
@@ -16,20 +16,44 @@
 <pubDate>Tue, 22 Sep 2026 16:53:30 +0000</pubDate>
 </item>
 <item>
+<title>Claude Opus 5.5 is now available in GitHub Copilot</title>
+<link>https://github.blog/changelog/2026-09-22-claude-opus-5-5-is-now-available-in-github-copilot</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-09-22-claude-opus-5-5-is-now-available-in-github-copilot</guid>
+<description>GitHub Changelog</description>
+<category>官方更新</category>
+<pubDate>Tue, 22 Sep 2026 17:10:23 +0000</pubDate>
+</item>
+<item>
+<title>GPT-6 Sol and Luna in Codex and ChatGPT Work</title>
+<link>https://developers.openai.com/codex/changelog</link>
+<guid isPermaLink="true">https://developers.openai.com/codex/changelog</guid>
+<description>OpenAI Codex Changelog</description>
+<category>官方更新</category>
+<pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>有效第三方评估的优先事项和原则 / Priorities and principles for effective third party assessments</title>
+<link>https://openai.com/index/priorities-principles-third-party-assessments</link>
+<guid isPermaLink="true">https://openai.com/index/priorities-principles-third-party-assessments</guid>
+<description>OpenAI News</description>
+<category>官方更新</category>
+<pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Claude Opus 5.5 登顶 Artificial Analysis 智能指数，得分 58 / Claude Opus 5.5 takes the top spot on the Artificial Analysis Intelligence Index</title>
+<link>https://artificialanalysis.ai/articles/claude-opus-5-5</link>
+<guid isPermaLink="true">https://artificialanalysis.ai/articles/claude-opus-5-5</guid>
+<description>Artificial Analysis 评测显示 Claude Opus 5.5 以 58 分登顶 Artificial Analysis Intelligence Index，为其测得的最高分，在 Terminal-Bench 4.0 上与 GPT-6 Astra 持平（59.6%）。（Artificial Analysis 完整文章（网页））</description>
+<category>行业动态</category>
+<pubDate>Tue, 22 Sep 2026 17:41:36 +0000</pubDate>
+</item>
+<item>
 <title>Claude Code v2.1.280 发布，新增 Claude Opus 5.5 为默认 Opus 模型</title>
 <link>https://github.com/anthropics/claude-code/releases/tag/v2.1.280</link>
 <guid isPermaLink="true">https://github.com/anthropics/claude-code/releases/tag/v2.1.280</guid>
 <description>Claude Code 发布 v2.1.280，新增 Claude Opus 5.5（claude-opus-5-5）为默认 Opus 模型，支持 1M 上下文，价格为 $4/$20 per Mtok、缓存读取 $0.20/Mtok；同时将 Pro 和 Team Standard 计划的默认模型从 Sonnet 改为 Opus。（Claude Code：GitHub Releases（RSS））</description>
 <category>官方更新</category>
 <pubDate>Tue, 22 Sep 2026 16:38:14 +0000</pubDate>
-</item>
-<item>
-<title>弃用通知：全平台 CodeQL 捆绑包 / Deprecation notice: All-platform CodeQL bundle</title>
-<link>https://github.blog/changelog/2026-09-22-deprecation-notice-all-platform-codeql-bundle</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-09-22-deprecation-notice-all-platform-codeql-bundle</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Tue, 22 Sep 2026 09:21:03 +0000</pubDate>
 </item>
 <item>
 <title>transformers 支持直接加载 GGUF 量化模型，本地推理性能接近 llama.cpp / Transformers now runs llama.cpp quants</title>
@@ -48,12 +72,20 @@
 <pubDate>Tue, 22 Sep 2026 16:38:58 +0000</pubDate>
 </item>
 <item>
-<title>Claude Opus 5.5 登顶 Artificial Analysis Intelligence Index，并降价 20% / Claude Opus 5.5 takes the top spot on the Artificial Analysis Intelligence Index， along with a 20% p…</title>
-<link>https://x.com/ArtificialAnlys/status/2102438210798514391</link>
-<guid isPermaLink="true">https://x.com/ArtificialAnlys/status/2102438210798514391</guid>
-<description>Artificial Analysis 评测显示 Claude Opus 5.5 以 58 分登顶 Artificial Analysis Intelligence Index，为其实测最高分。（X：Artificial Analysis (@ArtificialAnlys)）</description>
+<title>弃用通知：全平台 CodeQL 捆绑包 / Deprecation notice: All-platform CodeQL bundle</title>
+<link>https://github.blog/changelog/2026-09-22-deprecation-notice-all-platform-codeql-bundle</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-09-22-deprecation-notice-all-platform-codeql-bundle</guid>
+<description>GitHub Changelog</description>
+<category>官方更新</category>
+<pubDate>Tue, 22 Sep 2026 09:21:03 +0000</pubDate>
+</item>
+<item>
+<title>Claude Opus 5.5 上架 Arena 的 Agent Arena 与 Battle Mode / Claude Opus 5.5 by @AnthropicAI is now in the Agent Arena！ Your votes drive the @arena leaderboards…</title>
+<link>https://x.com/arena/status/2102454952576868638</link>
+<guid isPermaLink="true">https://x.com/arena/status/2102454952576868638</guid>
+<description>Arena 宣布 Anthropic 的 Claude Opus 5.5 已进入 Agent Arena，用户可通过投票驱动排行榜。Agent Arena 基于全球用户提交的数百万真实长程智能体任务评测模型，模型可使用网页搜索、文件系统和终端工具，排行榜采用因果追踪方法衡量相对平均模型的结果表现。（X：Arena (@arena)）</description>
 <category>行业动态</category>
-<pubDate>Tue, 22 Sep 2026 16:41:45 +0000</pubDate>
+<pubDate>Tue, 22 Sep 2026 17:48:17 +0000</pubDate>
 </item>
 <item>
 <title>oMLX 创建者和维护者 Jun Kim 加入 Hugging Face 以支持 MLX 社区 / Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community</title>
@@ -88,14 +120,6 @@
 <pubDate>Tue, 22 Sep 2026 16:31:01 +0000</pubDate>
 </item>
 <item>
-<title>刷新的代码仓库拉取请求页面现已可用 / Refreshed repository pull requests page generally available</title>
-<link>https://github.blog/changelog/2026-09-21-refreshed-repository-pull-requests-page-generally-available</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-09-21-refreshed-repository-pull-requests-page-generally-available</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Tue, 22 Sep 2026 01:25:53 +0000</pubDate>
-</item>
-<item>
 <title>OpenAI内部AI已能自主训练模型，奥特曼发布全球安全倡议应对RSI逼近</title>
 <link>https://www.aibase.com/news/31271</link>
 <guid isPermaLink="true">https://www.aibase.com/news/31271</guid>
@@ -120,6 +144,14 @@
 <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
+<title>刷新的代码仓库拉取请求页面现已可用 / Refreshed repository pull requests page generally available</title>
+<link>https://github.blog/changelog/2026-09-21-refreshed-repository-pull-requests-page-generally-available</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-09-21-refreshed-repository-pull-requests-page-generally-available</guid>
+<description>GitHub Changelog</description>
+<category>官方更新</category>
+<pubDate>Tue, 22 Sep 2026 01:25:53 +0000</pubDate>
+</item>
+<item>
 <title>OpenAI 具备得天独厚的优势，能够紧随 Jev 的步伐 / OpenAI is well positioned to fast-follow Jev</title>
 <link>https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch</link>
 <guid isPermaLink="true">https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch</guid>
@@ -128,41 +160,9 @@
 <pubDate>Tue, 22 Sep 2026 16:37:52 +0000</pubDate>
 </item>
 <item>
-<title>GitHub Enterprise 添加凭证库存导出 / GitHub Enterprise adds credential inventory exports</title>
-<link>https://github.blog/changelog/2026-09-21-github-enterprise-adds-credential-inventory-exports</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-09-21-github-enterprise-adds-credential-inventory-exports</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Mon, 21 Sep 2026 21:13:18 +0000</pubDate>
-</item>
-<item>
 <title>办公桌上的 AI 新物种！阿里千问办公首款桌面机器人 QwenNote Eva 正式发布，售价 899 元</title>
 <link>https://www.aibase.com/news/31276</link>
 <guid isPermaLink="true">https://www.aibase.com/news/31276</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Tue, 22 Sep 2026 12:31:54 +0000</pubDate>
-</item>
-<item>
-<title>OpenAI的GPT–6 Astra破解了自2005年以来一直未能破解的“埃尼格玛”密码 / OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005</title>
-<link>https://www.cryptocellar.org/bgac/the-mvueh-break.html</link>
-<guid isPermaLink="true">https://www.cryptocellar.org/bgac/the-mvueh-break.html</guid>
-<description>Hacker News front page</description>
-<category>多源热议</category>
-<pubDate>Tue, 22 Sep 2026 14:45:25 +0000</pubDate>
-</item>
-<item>
-<title>小米18 Pro系列首发传奇一瞬大模型影像，用端到端大模型把相机级光学虚化装进手机</title>
-<link>https://www.aibase.com/news/31272</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31272</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Tue, 22 Sep 2026 12:31:54 +0000</pubDate>
-</item>
-<item>
-<title>阿里千问办公发布 Agent 全家桶:从自动化脚本到"有身份、担责任"的数字员工</title>
-<link>https://www.aibase.com/news/31273</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31273</guid>
 <description>AIbase</description>
 <category>行业动态</category>
 <pubDate>Tue, 22 Sep 2026 12:31:54 +0000</pubDate>

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T17:36:21.790563Z",
+  "generated_at": "2026-09-22T18:14:39.473632Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -106,15 +106,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8962,
-      "importance": 0.8962,
-      "importance_score": 0.8962,
+      "score": 0.8945,
+      "importance": 0.8945,
+      "importance_score": 0.8945,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.86,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9897,
+        "recency": 0.9807,
         "story_heat": 0.5
       },
       "category": "official",
@@ -141,7 +141,368 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-22T17:37:58.285223Z"
+        "scored_at": "2026-09-22T18:26:41.273538Z"
+      }
+    },
+    {
+      "story_id": "story_6bb8789d9f07",
+      "title": "Claude Opus 5.5 is now available in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-09-22-claude-opus-5-5-is-now-available-in-github-copilot",
+      "primary_url": "https://github.blog/changelog/2026-09-22-claude-opus-5-5-is-now-available-in-github-copilot",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "061f1fc50aeba385d91a82797281fa7d29c40ee6",
+          "title": "Claude Opus 5.5 is now available in GitHub Copilot",
+          "title_zh": null,
+          "title_en": "Claude Opus 5.5 is now available in GitHub Copilot",
+          "title_original": "Claude Opus 5.5 is now available in GitHub Copilot",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-22-claude-opus-5-5-is-now-available-in-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-22T17:10:23Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "061f1fc50aeba385d91a82797281fa7d29c40ee6",
+          "title": "Claude Opus 5.5 is now available in GitHub Copilot",
+          "title_zh": null,
+          "title_en": "Claude Opus 5.5 is now available in GitHub Copilot",
+          "title_original": "Claude Opus 5.5 is now available in GitHub Copilot",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-22-claude-opus-5-5-is-now-available-in-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-22T17:10:23Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8672,
+      "importance": 0.8672,
+      "importance_score": 0.8672,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 1.0,
+        "recency": 0.9846,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-22T17:10:23Z",
+      "latest_at": "2026-09-22T17:10:23Z",
+      "primary_item": {
+        "id": "061f1fc50aeba385d91a82797281fa7d29c40ee6",
+        "title": "Claude Opus 5.5 is now available in GitHub Copilot",
+        "title_zh": null,
+        "title_en": "Claude Opus 5.5 is now available in GitHub Copilot",
+        "title_original": "Claude Opus 5.5 is now available in GitHub Copilot",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-09-22-claude-opus-5-5-is-now-available-in-github-copilot",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-22T18:26:41.273538Z"
+      }
+    },
+    {
+      "story_id": "story_3de84024ac7c",
+      "title": "GPT-6 Sol and Luna in Codex and ChatGPT Work",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "aa41c270e9d5431219a2c0938a23890bfb0e9678",
+          "title": "GPT-6 Sol and Luna in Codex and ChatGPT Work",
+          "title_zh": null,
+          "title_en": "GPT-6 Sol and Luna in Codex and ChatGPT Work",
+          "title_original": "GPT-6 Sol and Luna in Codex and ChatGPT Work",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-22T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI Codex Changelog"
+      ],
+      "items": [
+        {
+          "id": "aa41c270e9d5431219a2c0938a23890bfb0e9678",
+          "title": "GPT-6 Sol and Luna in Codex and ChatGPT Work",
+          "title_zh": null,
+          "title_en": "GPT-6 Sol and Luna in Codex and ChatGPT Work",
+          "title_original": "GPT-6 Sol and Luna in Codex and ChatGPT Work",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-22T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8283,
+      "importance": 0.8283,
+      "importance_score": 0.8283,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 1.0,
+        "recency": 0.7684,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-22T00:00:00Z",
+      "latest_at": "2026-09-22T00:00:00Z",
+      "primary_item": {
+        "id": "aa41c270e9d5431219a2c0938a23890bfb0e9678",
+        "title": "GPT-6 Sol and Luna in Codex and ChatGPT Work",
+        "title_zh": null,
+        "title_en": "GPT-6 Sol and Luna in Codex and ChatGPT Work",
+        "title_original": "GPT-6 Sol and Luna in Codex and ChatGPT Work",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-22T18:26:41.273538Z"
+      }
+    },
+    {
+      "story_id": "story_d73345def75c",
+      "title": "有效第三方评估的优先事项和原则 / Priorities and principles for effective third party assessments",
+      "url": "https://openai.com/index/priorities-principles-third-party-assessments",
+      "primary_url": "https://openai.com/index/priorities-principles-third-party-assessments",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "e5b7a13ffae3b8e3e84c903864a7d862db0206f1",
+          "title": "有效第三方评估的优先事项和原则 / Priorities and principles for effective third party assessments",
+          "title_zh": "有效第三方评估的优先事项和原则",
+          "title_en": "Priorities and principles for effective third party assessments",
+          "title_original": "Priorities and principles for effective third party assessments",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/priorities-principles-third-party-assessments",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-22T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "e5b7a13ffae3b8e3e84c903864a7d862db0206f1",
+          "title": "有效第三方评估的优先事项和原则 / Priorities and principles for effective third party assessments",
+          "title_zh": "有效第三方评估的优先事项和原则",
+          "title_en": "Priorities and principles for effective third party assessments",
+          "title_original": "Priorities and principles for effective third party assessments",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/priorities-principles-third-party-assessments",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-22T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8243,
+      "importance": 0.8243,
+      "importance_score": 0.8243,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.7684,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-22T00:00:00Z",
+      "latest_at": "2026-09-22T00:00:00Z",
+      "primary_item": {
+        "id": "e5b7a13ffae3b8e3e84c903864a7d862db0206f1",
+        "title": "有效第三方评估的优先事项和原则 / Priorities and principles for effective third party assessments",
+        "title_zh": "有效第三方评估的优先事项和原则",
+        "title_en": "Priorities and principles for effective third party assessments",
+        "title_original": "Priorities and principles for effective third party assessments",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/priorities-principles-third-party-assessments",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-22T18:26:41.273538Z"
+      }
+    },
+    {
+      "story_id": "story_dd6c00c25605",
+      "title": "Claude Opus 5.5 登顶 Artificial Analysis 智能指数，得分 58 / Claude Opus 5.5 takes the top spot on the Artificial Analysis Intelligence Index",
+      "url": "https://artificialanalysis.ai/articles/claude-opus-5-5",
+      "primary_url": "https://artificialanalysis.ai/articles/claude-opus-5-5",
+      "source": "Artificial Analysis 完整文章（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "1541abae265f3c9579c862d5b6440dd57020c3bc",
+          "title": "Claude Opus 5.5 登顶 Artificial Analysis 智能指数，得分 58 / Claude Opus 5.5 takes the top spot on the Artificial Analysis Intelligence Index",
+          "title_zh": "Claude Opus 5.5 登顶 Artificial Analysis 智能指数，得分 58",
+          "title_en": "Claude Opus 5.5 takes the top spot on the Artificial Analysis Intelligence Index",
+          "title_original": "Claude Opus 5.5 takes the top spot on the Artificial Analysis Intelligence Index",
+          "summary": "Artificial Analysis 评测显示 Claude Opus 5.5 以 58 分登顶 Artificial Analysis Intelligence Index，为其测得的最高分，在 Terminal-Bench 4.0 上与 GPT-6 Astra 持平（59.6%）。",
+          "recommend_reason_zh": null,
+          "url": "https://artificialanalysis.ai/articles/claude-opus-5-5",
+          "source": "Artificial Analysis 完整文章（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-22T17:41:36.934000Z"
+        },
+        {
+          "id": "6a8ca796a816ed8176056297a444a3d87cc9ef3d",
+          "title": "Claude Opus 5.5 登顶 Artificial Analysis Intelligence Index，并降价 20% / Claude Opus 5.5 takes the top spot on the Artificial Analysis Intelligence Index， along with a 20% p…",
+          "title_zh": "Claude Opus 5.5 登顶 Artificial Analysis Intelligence Index，并降价 20%",
+          "title_en": "Claude Opus 5.5 takes the top spot on the Artificial Analysis Intelligence Index， along with a 20% p…",
+          "title_original": "Claude Opus 5.5 takes the top spot on the Artificial Analysis Intelligence Index， along with a 20% p…",
+          "summary": "Artificial Analysis 评测显示 Claude Opus 5.5 以 58 分登顶 Artificial Analysis Intelligence Index，为其实测最高分。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/ArtificialAnlys/status/2102438210798514391",
+          "source": "X：Artificial Analysis (@ArtificialAnlys)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-22T16:41:45Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Artificial Analysis 完整文章（网页）",
+        "X：Artificial Analysis (@ArtificialAnlys)"
+      ],
+      "items": [
+        {
+          "id": "1541abae265f3c9579c862d5b6440dd57020c3bc",
+          "title": "Claude Opus 5.5 登顶 Artificial Analysis 智能指数，得分 58 / Claude Opus 5.5 takes the top spot on the Artificial Analysis Intelligence Index",
+          "title_zh": "Claude Opus 5.5 登顶 Artificial Analysis 智能指数，得分 58",
+          "title_en": "Claude Opus 5.5 takes the top spot on the Artificial Analysis Intelligence Index",
+          "title_original": "Claude Opus 5.5 takes the top spot on the Artificial Analysis Intelligence Index",
+          "summary": "Artificial Analysis 评测显示 Claude Opus 5.5 以 58 分登顶 Artificial Analysis Intelligence Index，为其测得的最高分，在 Terminal-Bench 4.0 上与 GPT-6 Astra 持平（59.6%）。",
+          "recommend_reason_zh": null,
+          "url": "https://artificialanalysis.ai/articles/claude-opus-5-5",
+          "source": "Artificial Analysis 完整文章（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-22T17:41:36.934000Z"
+        },
+        {
+          "id": "6a8ca796a816ed8176056297a444a3d87cc9ef3d",
+          "title": "Claude Opus 5.5 登顶 Artificial Analysis Intelligence Index，并降价 20% / Claude Opus 5.5 takes the top spot on the Artificial Analysis Intelligence Index， along with a 20% p…",
+          "title_zh": "Claude Opus 5.5 登顶 Artificial Analysis Intelligence Index，并降价 20%",
+          "title_en": "Claude Opus 5.5 takes the top spot on the Artificial Analysis Intelligence Index， along with a 20% p…",
+          "title_original": "Claude Opus 5.5 takes the top spot on the Artificial Analysis Intelligence Index， along with a 20% p…",
+          "summary": "Artificial Analysis 评测显示 Claude Opus 5.5 以 58 分登顶 Artificial Analysis Intelligence Index，为其实测最高分。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/ArtificialAnlys/status/2102438210798514391",
+          "source": "X：Artificial Analysis (@ArtificialAnlys)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-22T16:41:45Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8202,
+      "importance": 0.8202,
+      "importance_score": 0.8202,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.85,
+        "source_tier": 0.78,
+        "ai_relevance": 0.95,
+        "recency": 0.9921,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-22T16:41:45Z",
+      "latest_at": "2026-09-22T17:41:36.934000Z",
+      "primary_item": {
+        "id": "1541abae265f3c9579c862d5b6440dd57020c3bc",
+        "title": "Claude Opus 5.5 登顶 Artificial Analysis 智能指数，得分 58 / Claude Opus 5.5 takes the top spot on the Artificial Analysis Intelligence Index",
+        "title_zh": "Claude Opus 5.5 登顶 Artificial Analysis 智能指数，得分 58",
+        "title_en": "Claude Opus 5.5 takes the top spot on the Artificial Analysis Intelligence Index",
+        "title_original": "Claude Opus 5.5 takes the top spot on the Artificial Analysis Intelligence Index",
+        "summary": "Artificial Analysis 评测显示 Claude Opus 5.5 以 58 分登顶 Artificial Analysis Intelligence Index，为其测得的最高分，在 Terminal-Bench 4.0 上与 GPT-6 Astra 持平（59.6%）。",
+        "recommend_reason_zh": null,
+        "url": "https://artificialanalysis.ai/articles/claude-opus-5-5",
+        "source": "Artificial Analysis 完整文章（网页）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-22T18:26:41.273538Z"
       }
     },
     {
@@ -218,15 +579,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8165,
-      "importance": 0.8165,
-      "importance_score": 0.8165,
+      "score": 0.8149,
+      "importance": 0.8149,
+      "importance_score": 0.8149,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9861,
+        "recency": 0.9771,
         "story_heat": 0.25
       },
       "category": "official",
@@ -253,89 +614,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-22T17:37:58.285223Z"
-      }
-    },
-    {
-      "story_id": "story_a2908ae72b38",
-      "title": "弃用通知：全平台 CodeQL 捆绑包 / Deprecation notice: All-platform CodeQL bundle",
-      "url": "https://github.blog/changelog/2026-09-22-deprecation-notice-all-platform-codeql-bundle",
-      "primary_url": "https://github.blog/changelog/2026-09-22-deprecation-notice-all-platform-codeql-bundle",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "4a35cc0153a58845023103cb85f335de7f79b7c8",
-          "title": "弃用通知：全平台 CodeQL 捆绑包 / Deprecation notice: All-platform CodeQL bundle",
-          "title_zh": "弃用通知：全平台 CodeQL 捆绑包",
-          "title_en": "Deprecation notice: All-platform CodeQL bundle",
-          "title_original": "Deprecation notice: All-platform CodeQL bundle",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-22-deprecation-notice-all-platform-codeql-bundle",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-22T09:21:03Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "4a35cc0153a58845023103cb85f335de7f79b7c8",
-          "title": "弃用通知：全平台 CodeQL 捆绑包 / Deprecation notice: All-platform CodeQL bundle",
-          "title_zh": "弃用通知：全平台 CodeQL 捆绑包",
-          "title_en": "Deprecation notice: All-platform CodeQL bundle",
-          "title_original": "Deprecation notice: All-platform CodeQL bundle",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-22-deprecation-notice-all-platform-codeql-bundle",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-22T09:21:03Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7958,
-      "importance": 0.7958,
-      "importance_score": 0.7958,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.73,
-        "recency": 0.8876,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-22T09:21:03Z",
-      "latest_at": "2026-09-22T09:21:03Z",
-      "primary_item": {
-        "id": "4a35cc0153a58845023103cb85f335de7f79b7c8",
-        "title": "弃用通知：全平台 CodeQL 捆绑包 / Deprecation notice: All-platform CodeQL bundle",
-        "title_zh": "弃用通知：全平台 CodeQL 捆绑包",
-        "title_en": "Deprecation notice: All-platform CodeQL bundle",
-        "title_original": "Deprecation notice: All-platform CodeQL bundle",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-22-deprecation-notice-all-platform-codeql-bundle",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-22T17:37:58.285223Z"
+        "scored_at": "2026-09-22T18:26:41.273538Z"
       }
     },
     {
@@ -383,15 +662,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7936,
-      "importance": 0.7936,
-      "importance_score": 0.7936,
+      "score": 0.7923,
+      "importance": 0.7923,
+      "importance_score": 0.7923,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.82,
-        "recency": 0.7755,
+        "recency": 0.7684,
         "story_heat": 0.0
       },
       "category": "official",
@@ -418,7 +697,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-22T17:37:58.285223Z"
+        "scored_at": "2026-09-22T18:26:41.273538Z"
       }
     },
     {
@@ -466,15 +745,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7881,
-      "importance": 0.7881,
-      "importance_score": 0.7881,
+      "score": 0.7865,
+      "importance": 0.7865,
+      "importance_score": 0.7865,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.9863,
+        "recency": 0.9772,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -500,63 +779,145 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-22T17:37:58.285223Z"
+        "scored_at": "2026-09-22T18:26:41.273538Z"
       }
     },
     {
-      "story_id": "story_dd6c00c25605",
-      "title": "Claude Opus 5.5 登顶 Artificial Analysis Intelligence Index，并降价 20% / Claude Opus 5.5 takes the top spot on the Artificial Analysis Intelligence Index， along with a 20% p…",
-      "url": "https://x.com/ArtificialAnlys/status/2102438210798514391",
-      "primary_url": "https://x.com/ArtificialAnlys/status/2102438210798514391",
-      "source": "X：Artificial Analysis (@ArtificialAnlys)",
-      "source_name": "AI HOT",
+      "story_id": "story_a2908ae72b38",
+      "title": "弃用通知：全平台 CodeQL 捆绑包 / Deprecation notice: All-platform CodeQL bundle",
+      "url": "https://github.blog/changelog/2026-09-22-deprecation-notice-all-platform-codeql-bundle",
+      "primary_url": "https://github.blog/changelog/2026-09-22-deprecation-notice-all-platform-codeql-bundle",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "6a8ca796a816ed8176056297a444a3d87cc9ef3d",
-          "title": "Claude Opus 5.5 登顶 Artificial Analysis Intelligence Index，并降价 20% / Claude Opus 5.5 takes the top spot on the Artificial Analysis Intelligence Index， along with a 20% p…",
-          "title_zh": "Claude Opus 5.5 登顶 Artificial Analysis Intelligence Index，并降价 20%",
-          "title_en": "Claude Opus 5.5 takes the top spot on the Artificial Analysis Intelligence Index， along with a 20% p…",
-          "title_original": "Claude Opus 5.5 takes the top spot on the Artificial Analysis Intelligence Index， along with a 20% p…",
-          "summary": "Artificial Analysis 评测显示 Claude Opus 5.5 以 58 分登顶 Artificial Analysis Intelligence Index，为其实测最高分。",
+          "id": "4a35cc0153a58845023103cb85f335de7f79b7c8",
+          "title": "弃用通知：全平台 CodeQL 捆绑包 / Deprecation notice: All-platform CodeQL bundle",
+          "title_zh": "弃用通知：全平台 CodeQL 捆绑包",
+          "title_en": "Deprecation notice: All-platform CodeQL bundle",
+          "title_original": "Deprecation notice: All-platform CodeQL bundle",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://x.com/ArtificialAnlys/status/2102438210798514391",
-          "source": "X：Artificial Analysis (@ArtificialAnlys)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-22T16:41:45Z"
+          "url": "https://github.blog/changelog/2026-09-22-deprecation-notice-all-platform-codeql-bundle",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-22T09:21:03Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：Artificial Analysis (@ArtificialAnlys)"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "6a8ca796a816ed8176056297a444a3d87cc9ef3d",
-          "title": "Claude Opus 5.5 登顶 Artificial Analysis Intelligence Index，并降价 20% / Claude Opus 5.5 takes the top spot on the Artificial Analysis Intelligence Index， along with a 20% p…",
-          "title_zh": "Claude Opus 5.5 登顶 Artificial Analysis Intelligence Index，并降价 20%",
-          "title_en": "Claude Opus 5.5 takes the top spot on the Artificial Analysis Intelligence Index， along with a 20% p…",
-          "title_original": "Claude Opus 5.5 takes the top spot on the Artificial Analysis Intelligence Index， along with a 20% p…",
-          "summary": "Artificial Analysis 评测显示 Claude Opus 5.5 以 58 分登顶 Artificial Analysis Intelligence Index，为其实测最高分。",
+          "id": "4a35cc0153a58845023103cb85f335de7f79b7c8",
+          "title": "弃用通知：全平台 CodeQL 捆绑包 / Deprecation notice: All-platform CodeQL bundle",
+          "title_zh": "弃用通知：全平台 CodeQL 捆绑包",
+          "title_en": "Deprecation notice: All-platform CodeQL bundle",
+          "title_original": "Deprecation notice: All-platform CodeQL bundle",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://x.com/ArtificialAnlys/status/2102438210798514391",
-          "source": "X：Artificial Analysis (@ArtificialAnlys)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-22T16:41:45Z"
+          "url": "https://github.blog/changelog/2026-09-22-deprecation-notice-all-platform-codeql-bundle",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-22T09:21:03Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7762,
-      "importance": 0.7762,
-      "importance_score": 0.7762,
+      "score": 0.7943,
+      "importance": 0.7943,
+      "importance_score": 0.7943,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.73,
+        "recency": 0.8795,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-22T09:21:03Z",
+      "latest_at": "2026-09-22T09:21:03Z",
+      "primary_item": {
+        "id": "4a35cc0153a58845023103cb85f335de7f79b7c8",
+        "title": "弃用通知：全平台 CodeQL 捆绑包 / Deprecation notice: All-platform CodeQL bundle",
+        "title_zh": "弃用通知：全平台 CodeQL 捆绑包",
+        "title_en": "Deprecation notice: All-platform CodeQL bundle",
+        "title_original": "Deprecation notice: All-platform CodeQL bundle",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-09-22-deprecation-notice-all-platform-codeql-bundle",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-22T18:26:41.273538Z"
+      }
+    },
+    {
+      "story_id": "story_beeb9d5822be",
+      "title": "Claude Opus 5.5 上架 Arena 的 Agent Arena 与 Battle Mode / Claude Opus 5.5 by @AnthropicAI is now in the Agent Arena！ Your votes drive the @arena leaderboards…",
+      "url": "https://x.com/arena/status/2102454952576868638",
+      "primary_url": "https://x.com/arena/status/2102454952576868638",
+      "source": "X：Arena (@arena)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "0fd214e4f72453ef7c9fa61303455d67e6f03f6e",
+          "title": "Claude Opus 5.5 上架 Arena 的 Agent Arena 与 Battle Mode / Claude Opus 5.5 by @AnthropicAI is now in the Agent Arena！ Your votes drive the @arena leaderboards…",
+          "title_zh": "Claude Opus 5.5 上架 Arena 的 Agent Arena 与 Battle Mode",
+          "title_en": "Claude Opus 5.5 by @AnthropicAI is now in the Agent Arena！ Your votes drive the @arena leaderboards…",
+          "title_original": "Claude Opus 5.5 by @AnthropicAI is now in the Agent Arena！ Your votes drive the @arena leaderboards…",
+          "summary": "Arena 宣布 Anthropic 的 Claude Opus 5.5 已进入 Agent Arena，用户可通过投票驱动排行榜。Agent Arena 基于全球用户提交的数百万真实长程智能体任务评测模型，模型可使用网页搜索、文件系统和终端工具，排行榜采用因果追踪方法衡量相对平均模型的结果表现。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/arena/status/2102454952576868638",
+          "source": "X：Arena (@arena)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-22T17:48:17Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Arena (@arena)"
+      ],
+      "items": [
+        {
+          "id": "0fd214e4f72453ef7c9fa61303455d67e6f03f6e",
+          "title": "Claude Opus 5.5 上架 Arena 的 Agent Arena 与 Battle Mode / Claude Opus 5.5 by @AnthropicAI is now in the Agent Arena！ Your votes drive the @arena leaderboards…",
+          "title_zh": "Claude Opus 5.5 上架 Arena 的 Agent Arena 与 Battle Mode",
+          "title_en": "Claude Opus 5.5 by @AnthropicAI is now in the Agent Arena！ Your votes drive the @arena leaderboards…",
+          "title_original": "Claude Opus 5.5 by @AnthropicAI is now in the Agent Arena！ Your votes drive the @arena leaderboards…",
+          "summary": "Arena 宣布 Anthropic 的 Claude Opus 5.5 已进入 Agent Arena，用户可通过投票驱动排行榜。Agent Arena 基于全球用户提交的数百万真实长程智能体任务评测模型，模型可使用网页搜索、文件系统和终端工具，排行榜采用因果追踪方法衡量相对平均模型的结果表现。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/arena/status/2102454952576868638",
+          "source": "X：Arena (@arena)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-22T17:48:17Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7565,
+      "importance": 0.7565,
+      "importance_score": 0.7565,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.79,
+        "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.9869,
+        "recency": 0.9937,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -564,25 +925,25 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-22T16:41:45Z",
-      "latest_at": "2026-09-22T16:41:45Z",
+      "earliest_at": "2026-09-22T17:48:17Z",
+      "latest_at": "2026-09-22T17:48:17Z",
       "primary_item": {
-        "id": "6a8ca796a816ed8176056297a444a3d87cc9ef3d",
-        "title": "Claude Opus 5.5 登顶 Artificial Analysis Intelligence Index，并降价 20% / Claude Opus 5.5 takes the top spot on the Artificial Analysis Intelligence Index， along with a 20% p…",
-        "title_zh": "Claude Opus 5.5 登顶 Artificial Analysis Intelligence Index，并降价 20%",
-        "title_en": "Claude Opus 5.5 takes the top spot on the Artificial Analysis Intelligence Index， along with a 20% p…",
-        "title_original": "Claude Opus 5.5 takes the top spot on the Artificial Analysis Intelligence Index， along with a 20% p…",
-        "summary": "Artificial Analysis 评测显示 Claude Opus 5.5 以 58 分登顶 Artificial Analysis Intelligence Index，为其实测最高分。",
+        "id": "0fd214e4f72453ef7c9fa61303455d67e6f03f6e",
+        "title": "Claude Opus 5.5 上架 Arena 的 Agent Arena 与 Battle Mode / Claude Opus 5.5 by @AnthropicAI is now in the Agent Arena！ Your votes drive the @arena leaderboards…",
+        "title_zh": "Claude Opus 5.5 上架 Arena 的 Agent Arena 与 Battle Mode",
+        "title_en": "Claude Opus 5.5 by @AnthropicAI is now in the Agent Arena！ Your votes drive the @arena leaderboards…",
+        "title_original": "Claude Opus 5.5 by @AnthropicAI is now in the Agent Arena！ Your votes drive the @arena leaderboards…",
+        "summary": "Arena 宣布 Anthropic 的 Claude Opus 5.5 已进入 Agent Arena，用户可通过投票驱动排行榜。Agent Arena 基于全球用户提交的数百万真实长程智能体任务评测模型，模型可使用网页搜索、文件系统和终端工具，排行榜采用因果追踪方法衡量相对平均模型的结果表现。",
         "recommend_reason_zh": null,
-        "url": "https://x.com/ArtificialAnlys/status/2102438210798514391",
-        "source": "X：Artificial Analysis (@ArtificialAnlys)",
+        "url": "https://x.com/arena/status/2102454952576868638",
+        "source": "X：Arena (@arena)",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-22T17:37:58.285223Z"
+        "scored_at": "2026-09-22T18:26:41.273538Z"
       }
     },
     {
@@ -630,15 +991,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7876,
-      "importance": 0.7876,
-      "importance_score": 0.7876,
+      "score": 0.7863,
+      "importance": 0.7863,
+      "importance_score": 0.7863,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.79,
-        "recency": 0.7755,
+        "recency": 0.7684,
         "story_heat": 0.0
       },
       "category": "official",
@@ -664,7 +1025,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-22T17:37:58.285223Z"
+        "scored_at": "2026-09-22T18:26:41.273538Z"
       }
     },
     {
@@ -712,15 +1073,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7554,
-      "importance": 0.7554,
-      "importance_score": 0.7554,
+      "score": 0.7537,
+      "importance": 0.7537,
+      "importance_score": 0.7537,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.9876,
+        "recency": 0.9786,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -746,7 +1107,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-22T17:37:58.285223Z"
+        "scored_at": "2026-09-22T18:26:41.273538Z"
       }
     },
     {
@@ -794,15 +1155,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7524,
-      "importance": 0.7524,
-      "importance_score": 0.7524,
+      "score": 0.7508,
+      "importance": 0.7508,
+      "importance_score": 0.7508,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.9878,
+        "recency": 0.9787,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -828,7 +1189,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-22T17:37:58.285223Z"
+        "scored_at": "2026-09-22T18:26:41.273538Z"
       }
     },
     {
@@ -876,15 +1237,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7488,
-      "importance": 0.7488,
-      "importance_score": 0.7488,
+      "score": 0.7472,
+      "importance": 0.7472,
+      "importance_score": 0.7472,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.9844,
+        "recency": 0.9754,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -909,89 +1270,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-22T17:37:58.285223Z"
-      }
-    },
-    {
-      "story_id": "story_c1fb35598aba",
-      "title": "刷新的代码仓库拉取请求页面现已可用 / Refreshed repository pull requests page generally available",
-      "url": "https://github.blog/changelog/2026-09-21-refreshed-repository-pull-requests-page-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-09-21-refreshed-repository-pull-requests-page-generally-available",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "1d7449a96d5b3fac40aea1fe9334626568c41059",
-          "title": "刷新的代码仓库拉取请求页面现已可用 / Refreshed repository pull requests page generally available",
-          "title_zh": "刷新的代码仓库拉取请求页面现已可用",
-          "title_en": "Refreshed repository pull requests page generally available",
-          "title_original": "Refreshed repository pull requests page generally available",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-21-refreshed-repository-pull-requests-page-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-22T01:25:53Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "1d7449a96d5b3fac40aea1fe9334626568c41059",
-          "title": "刷新的代码仓库拉取请求页面现已可用 / Refreshed repository pull requests page generally available",
-          "title_zh": "刷新的代码仓库拉取请求页面现已可用",
-          "title_en": "Refreshed repository pull requests page generally available",
-          "title_original": "Refreshed repository pull requests page generally available",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-21-refreshed-repository-pull-requests-page-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-22T01:25:53Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7785,
-      "importance": 0.7785,
-      "importance_score": 0.7785,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.73,
-        "recency": 0.7917,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-22T01:25:53Z",
-      "latest_at": "2026-09-22T01:25:53Z",
-      "primary_item": {
-        "id": "1d7449a96d5b3fac40aea1fe9334626568c41059",
-        "title": "刷新的代码仓库拉取请求页面现已可用 / Refreshed repository pull requests page generally available",
-        "title_zh": "刷新的代码仓库拉取请求页面现已可用",
-        "title_en": "Refreshed repository pull requests page generally available",
-        "title_original": "Refreshed repository pull requests page generally available",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-21-refreshed-repository-pull-requests-page-generally-available",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-22T17:37:58.285223Z"
+        "scored_at": "2026-09-22T18:26:41.273538Z"
       }
     },
     {
@@ -1039,15 +1318,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7341,
-      "importance": 0.7341,
-      "importance_score": 0.7341,
+      "score": 0.7325,
+      "importance": 0.7325,
+      "importance_score": 0.7325,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.684,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.9293,
+        "recency": 0.9208,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1072,7 +1351,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-22T17:37:58.285223Z"
+        "scored_at": "2026-09-22T18:26:41.273538Z"
       }
     },
     {
@@ -1120,15 +1399,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7277,
-      "importance": 0.7277,
-      "importance_score": 0.7277,
+      "score": 0.7265,
+      "importance": 0.7265,
+      "importance_score": 0.7265,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.734,
+        "recency": 0.7273,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1153,7 +1432,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-22T17:37:58.285223Z"
+        "scored_at": "2026-09-22T18:26:41.273538Z"
       }
     },
     {
@@ -1201,15 +1480,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7876,
-      "importance": 0.7876,
-      "importance_score": 0.7876,
+      "score": 0.7863,
+      "importance": 0.7863,
+      "importance_score": 0.7863,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.79,
-        "recency": 0.7755,
+        "recency": 0.7684,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1235,7 +1514,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-22T17:37:58.285223Z"
+        "scored_at": "2026-09-22T18:26:41.273538Z"
+      }
+    },
+    {
+      "story_id": "story_c1fb35598aba",
+      "title": "刷新的代码仓库拉取请求页面现已可用 / Refreshed repository pull requests page generally available",
+      "url": "https://github.blog/changelog/2026-09-21-refreshed-repository-pull-requests-page-generally-available",
+      "primary_url": "https://github.blog/changelog/2026-09-21-refreshed-repository-pull-requests-page-generally-available",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "1d7449a96d5b3fac40aea1fe9334626568c41059",
+          "title": "刷新的代码仓库拉取请求页面现已可用 / Refreshed repository pull requests page generally available",
+          "title_zh": "刷新的代码仓库拉取请求页面现已可用",
+          "title_en": "Refreshed repository pull requests page generally available",
+          "title_original": "Refreshed repository pull requests page generally available",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-21-refreshed-repository-pull-requests-page-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-22T01:25:53Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "1d7449a96d5b3fac40aea1fe9334626568c41059",
+          "title": "刷新的代码仓库拉取请求页面现已可用 / Refreshed repository pull requests page generally available",
+          "title_zh": "刷新的代码仓库拉取请求页面现已可用",
+          "title_en": "Refreshed repository pull requests page generally available",
+          "title_original": "Refreshed repository pull requests page generally available",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-21-refreshed-repository-pull-requests-page-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-22T01:25:53Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7772,
+      "importance": 0.7772,
+      "importance_score": 0.7772,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.73,
+        "recency": 0.7844,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-22T01:25:53Z",
+      "latest_at": "2026-09-22T01:25:53Z",
+      "primary_item": {
+        "id": "1d7449a96d5b3fac40aea1fe9334626568c41059",
+        "title": "刷新的代码仓库拉取请求页面现已可用 / Refreshed repository pull requests page generally available",
+        "title_zh": "刷新的代码仓库拉取请求页面现已可用",
+        "title_en": "Refreshed repository pull requests page generally available",
+        "title_original": "Refreshed repository pull requests page generally available",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-09-21-refreshed-repository-pull-requests-page-generally-available",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-22T18:26:41.273538Z"
       }
     },
     {
@@ -1370,15 +1731,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.7122,
-      "importance": 0.7122,
-      "importance_score": 0.7122,
+      "score": 0.7106,
+      "importance": 0.7106,
+      "importance_score": 0.7106,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5832,
         "source_tier": 0.58,
         "ai_relevance": 0.81,
-        "recency": 0.9591,
+        "recency": 0.9503,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1404,89 +1765,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-22T17:37:58.285223Z"
-      }
-    },
-    {
-      "story_id": "story_b01d49929f03",
-      "title": "GitHub Enterprise 添加凭证库存导出 / GitHub Enterprise adds credential inventory exports",
-      "url": "https://github.blog/changelog/2026-09-21-github-enterprise-adds-credential-inventory-exports",
-      "primary_url": "https://github.blog/changelog/2026-09-21-github-enterprise-adds-credential-inventory-exports",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "c846158852b43fd9981654bd7ba4e0bd9a32e2c1",
-          "title": "GitHub Enterprise 添加凭证库存导出 / GitHub Enterprise adds credential inventory exports",
-          "title_zh": "GitHub Enterprise 添加凭证库存导出",
-          "title_en": "GitHub Enterprise adds credential inventory exports",
-          "title_original": "GitHub Enterprise adds credential inventory exports",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-21-github-enterprise-adds-credential-inventory-exports",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-21T21:13:18Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "c846158852b43fd9981654bd7ba4e0bd9a32e2c1",
-          "title": "GitHub Enterprise 添加凭证库存导出 / GitHub Enterprise adds credential inventory exports",
-          "title_zh": "GitHub Enterprise 添加凭证库存导出",
-          "title_en": "GitHub Enterprise adds credential inventory exports",
-          "title_original": "GitHub Enterprise adds credential inventory exports",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-21-github-enterprise-adds-credential-inventory-exports",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-21T21:13:18Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7701,
-      "importance": 0.7701,
-      "importance_score": 0.7701,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.73,
-        "recency": 0.745,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-21T21:13:18Z",
-      "latest_at": "2026-09-21T21:13:18Z",
-      "primary_item": {
-        "id": "c846158852b43fd9981654bd7ba4e0bd9a32e2c1",
-        "title": "GitHub Enterprise 添加凭证库存导出 / GitHub Enterprise adds credential inventory exports",
-        "title_zh": "GitHub Enterprise 添加凭证库存导出",
-        "title_en": "GitHub Enterprise adds credential inventory exports",
-        "title_original": "GitHub Enterprise adds credential inventory exports",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-21-github-enterprise-adds-credential-inventory-exports",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-22T17:37:58.285223Z"
+        "scored_at": "2026-09-22T18:26:41.273538Z"
       }
     },
     {
@@ -1534,15 +1813,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7341,
-      "importance": 0.7341,
-      "importance_score": 0.7341,
+      "score": 0.7325,
+      "importance": 0.7325,
+      "importance_score": 0.7325,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.684,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.9293,
+        "recency": 0.9208,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1567,309 +1846,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-22T17:37:58.285223Z"
-      }
-    },
-    {
-      "story_id": "story_faa225db3b35",
-      "title": "OpenAI的GPT–6 Astra破解了自2005年以来一直未能破解的“埃尼格玛”密码 / OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
-      "url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
-      "primary_url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
-      "source": "Hacker News front page",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "f8380225adc5dc14c8b80c686e50602ac5ab4c94",
-          "title": "OpenAI的GPT–6 Astra破解了自2005年以来一直未能破解的“埃尼格玛”密码 / OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
-          "title_zh": "OpenAI的GPT–6 Astra破解了自2005年以来一直未能破解的“埃尼格玛”密码",
-          "title_en": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
-          "title_original": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
-          "source": "Hacker News front page",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-22T13:52:15Z"
-        },
-        {
-          "id": "bd7131b5e8d7fc15af64a6845cc1a9352f31bc3b",
-          "title": "OpenAI的GPT–6 Astra破解了自2005年以来一直未能破解的“埃尼格玛”密码",
-          "title_zh": "OpenAI的GPT–6 Astra破解了自2005年以来一直未能破解的“埃尼格玛”密码",
-          "title_en": null,
-          "title_original": "OpenAI的GPT–6 Astra破解了自2005年以来一直未能破解的“埃尼格玛”密码",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
-          "source": "www.cryptocellar.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-22T14:45:25.428000Z"
-        },
-        {
-          "id": "a7b80e91eda4abf866a54e54f158c1c405cddaa7",
-          "title": "OpenAI GPT-6 Astra 打破了自 2005 年以来一直抵制解决方案的 Enigma 消息 / OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
-          "title_zh": "OpenAI GPT-6 Astra 打破了自 2005 年以来一直抵制解决方案的 Enigma 消息",
-          "title_en": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
-          "title_original": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49801324",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-22T13:52:15Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News front page",
-        "hackernews",
-        "www.cryptocellar.org"
-      ],
-      "items": [
-        {
-          "id": "f8380225adc5dc14c8b80c686e50602ac5ab4c94",
-          "title": "OpenAI的GPT–6 Astra破解了自2005年以来一直未能破解的“埃尼格玛”密码 / OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
-          "title_zh": "OpenAI的GPT–6 Astra破解了自2005年以来一直未能破解的“埃尼格玛”密码",
-          "title_en": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
-          "title_original": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
-          "source": "Hacker News front page",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-22T13:52:15Z"
-        },
-        {
-          "id": "bd7131b5e8d7fc15af64a6845cc1a9352f31bc3b",
-          "title": "OpenAI的GPT–6 Astra破解了自2005年以来一直未能破解的“埃尼格玛”密码",
-          "title_zh": "OpenAI的GPT–6 Astra破解了自2005年以来一直未能破解的“埃尼格玛”密码",
-          "title_en": null,
-          "title_original": "OpenAI的GPT–6 Astra破解了自2005年以来一直未能破解的“埃尼格玛”密码",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
-          "source": "www.cryptocellar.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-22T14:45:25.428000Z"
-        },
-        {
-          "id": "a7b80e91eda4abf866a54e54f158c1c405cddaa7",
-          "title": "OpenAI GPT-6 Astra 打破了自 2005 年以来一直抵制解决方案的 Enigma 消息 / OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
-          "title_zh": "OpenAI GPT-6 Astra 打破了自 2005 年以来一直抵制解决方案的 Enigma 消息",
-          "title_en": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
-          "title_original": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49801324",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-22T13:52:15Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.7059,
-      "importance": 0.7059,
-      "importance_score": 0.7059,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.6192,
-        "source_tier": 0.58,
-        "ai_relevance": 0.86,
-        "recency": 0.9475,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-22T13:52:15Z",
-      "latest_at": "2026-09-22T14:45:25.428000Z",
-      "primary_item": {
-        "id": "f8380225adc5dc14c8b80c686e50602ac5ab4c94",
-        "title": "OpenAI的GPT–6 Astra破解了自2005年以来一直未能破解的“埃尼格玛”密码 / OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
-        "title_zh": "OpenAI的GPT–6 Astra破解了自2005年以来一直未能破解的“埃尼格玛”密码",
-        "title_en": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
-        "title_original": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
-        "source": "Hacker News front page",
-        "source_name": "Curated Media"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-22T17:37:58.285223Z"
-      }
-    },
-    {
-      "story_id": "story_cfd2a350821a",
-      "title": "小米18 Pro系列首发传奇一瞬大模型影像，用端到端大模型把相机级光学虚化装进手机",
-      "url": "https://www.aibase.com/news/31272",
-      "primary_url": "https://www.aibase.com/news/31272",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "6fba15cc8d5a53afa18228b2322c0920d43c512f",
-          "title": "小米18 Pro系列首发传奇一瞬大模型影像，用端到端大模型把相机级光学虚化装进手机",
-          "title_zh": "小米18 Pro系列首发传奇一瞬大模型影像，用端到端大模型把相机级光学虚化装进手机",
-          "title_en": null,
-          "title_original": "小米18 Pro系列首发传奇一瞬大模型影像，用端到端大模型把相机级光学虚化装进手机",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31272",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-22T12:31:54.161326Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "6fba15cc8d5a53afa18228b2322c0920d43c512f",
-          "title": "小米18 Pro系列首发传奇一瞬大模型影像，用端到端大模型把相机级光学虚化装进手机",
-          "title_zh": "小米18 Pro系列首发传奇一瞬大模型影像，用端到端大模型把相机级光学虚化装进手机",
-          "title_en": null,
-          "title_original": "小米18 Pro系列首发传奇一瞬大模型影像，用端到端大模型把相机级光学虚化装进手机",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31272",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-22T12:31:54.161326Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7341,
-      "importance": 0.7341,
-      "importance_score": 0.7341,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.684,
-        "source_tier": 0.78,
-        "ai_relevance": 0.95,
-        "recency": 0.9293,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-22T12:31:54.161326Z",
-      "latest_at": "2026-09-22T12:31:54.161326Z",
-      "primary_item": {
-        "id": "6fba15cc8d5a53afa18228b2322c0920d43c512f",
-        "title": "小米18 Pro系列首发传奇一瞬大模型影像，用端到端大模型把相机级光学虚化装进手机",
-        "title_zh": "小米18 Pro系列首发传奇一瞬大模型影像，用端到端大模型把相机级光学虚化装进手机",
-        "title_en": null,
-        "title_original": "小米18 Pro系列首发传奇一瞬大模型影像，用端到端大模型把相机级光学虚化装进手机",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31272",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-22T17:37:58.285223Z"
-      }
-    },
-    {
-      "story_id": "story_a8f977c83e48",
-      "title": "阿里千问办公发布 Agent 全家桶:从自动化脚本到\"有身份、担责任\"的数字员工",
-      "url": "https://www.aibase.com/news/31273",
-      "primary_url": "https://www.aibase.com/news/31273",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "be590ac0c2e7526aa423ee5700fd33688976ef4c",
-          "title": "阿里千问办公发布 Agent 全家桶:从自动化脚本到\"有身份、担责任\"的数字员工",
-          "title_zh": "阿里千问办公发布 Agent 全家桶:从自动化脚本到\"有身份、担责任\"的数字员工",
-          "title_en": null,
-          "title_original": "阿里千问办公发布 Agent 全家桶:从自动化脚本到\"有身份、担责任\"的数字员工",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31273",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-22T12:31:54.161326Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "be590ac0c2e7526aa423ee5700fd33688976ef4c",
-          "title": "阿里千问办公发布 Agent 全家桶:从自动化脚本到\"有身份、担责任\"的数字员工",
-          "title_zh": "阿里千问办公发布 Agent 全家桶:从自动化脚本到\"有身份、担责任\"的数字员工",
-          "title_en": null,
-          "title_original": "阿里千问办公发布 Agent 全家桶:从自动化脚本到\"有身份、担责任\"的数字员工",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31273",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-22T12:31:54.161326Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7341,
-      "importance": 0.7341,
-      "importance_score": 0.7341,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.684,
-        "source_tier": 0.78,
-        "ai_relevance": 0.95,
-        "recency": 0.9293,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-22T12:31:54.161326Z",
-      "latest_at": "2026-09-22T12:31:54.161326Z",
-      "primary_item": {
-        "id": "be590ac0c2e7526aa423ee5700fd33688976ef4c",
-        "title": "阿里千问办公发布 Agent 全家桶:从自动化脚本到\"有身份、担责任\"的数字员工",
-        "title_zh": "阿里千问办公发布 Agent 全家桶:从自动化脚本到\"有身份、担责任\"的数字员工",
-        "title_en": null,
-        "title_original": "阿里千问办公发布 Agent 全家桶:从自动化脚本到\"有身份、担责任\"的数字员工",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31273",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-22T17:37:58.285223Z"
+        "scored_at": "2026-09-22T18:26:41.273538Z"
       }
     }
   ]
