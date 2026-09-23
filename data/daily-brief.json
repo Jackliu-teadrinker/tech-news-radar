@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T00:52:57.587269Z",
+  "generated_at": "2026-09-23T07:56:21.936056Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -106,15 +106,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.903,
-      "importance": 0.903,
-      "importance_score": 0.903,
+      "score": 0.8872,
+      "importance": 0.8872,
+      "importance_score": 0.8872,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9054,
+        "recency": 0.8177,
         "story_heat": 0.5
       },
       "category": "official",
@@ -142,7 +142,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T00:55:30.673200Z"
+        "scored_at": "2026-09-23T07:58:19.341158Z"
       }
     },
     {
@@ -248,15 +248,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8784,
-      "importance": 0.8784,
-      "importance_score": 0.8784,
+      "score": 0.8628,
+      "importance": 0.8628,
+      "importance_score": 0.8628,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.86,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.891,
+        "recency": 0.8047,
         "story_heat": 0.5
       },
       "category": "official",
@@ -283,12 +283,95 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T00:55:30.673200Z"
+        "scored_at": "2026-09-23T07:58:19.341158Z"
+      }
+    },
+    {
+      "story_id": "story_bf530929af3e",
+      "title": "Codex CLI 0.156.1",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "1673cf098377ad515b7921904f29c746b731cb0a",
+          "title": "Codex CLI 0.156.1",
+          "title_zh": null,
+          "title_en": "Codex CLI 0.156.1",
+          "title_original": "Codex CLI 0.156.1",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-23T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI Codex Changelog"
+      ],
+      "items": [
+        {
+          "id": "1673cf098377ad515b7921904f29c746b731cb0a",
+          "title": "Codex CLI 0.156.1",
+          "title_zh": null,
+          "title_en": "Codex CLI 0.156.1",
+          "title_original": "Codex CLI 0.156.1",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-23T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8505,
+      "importance": 0.8505,
+      "importance_score": 0.8505,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 1.0,
+        "recency": 0.8917,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-23T00:00:00Z",
+      "latest_at": "2026-09-23T00:00:00Z",
+      "primary_item": {
+        "id": "1673cf098377ad515b7921904f29c746b731cb0a",
+        "title": "Codex CLI 0.156.1",
+        "title_zh": null,
+        "title_en": "Codex CLI 0.156.1",
+        "title_original": "Codex CLI 0.156.1",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-23T07:58:19.341158Z"
       }
     },
     {
       "story_id": "story_5d947096dc73",
-      "title": "Faster C++ code intelligence with whole codebase indexing",
+      "title": "通过整个代码库索引加快 C++ 代码智能 / Faster C++ code intelligence with whole codebase indexing",
       "url": "https://github.blog/changelog/2026-09-22-faster-c-code-intelligence-with-whole-codebase-indexing",
       "primary_url": "https://github.blog/changelog/2026-09-22-faster-c-code-intelligence-with-whole-codebase-indexing",
       "source": "GitHub Changelog",
@@ -296,8 +379,8 @@
       "sources": [
         {
           "id": "94aa85a4ffcee947b773ed704cd816388e28578d",
-          "title": "Faster C++ code intelligence with whole codebase indexing",
-          "title_zh": null,
+          "title": "通过整个代码库索引加快 C++ 代码智能 / Faster C++ code intelligence with whole codebase indexing",
+          "title_zh": "通过整个代码库索引加快 C++ 代码智能",
           "title_en": "Faster C++ code intelligence with whole codebase indexing",
           "title_original": "Faster C++ code intelligence with whole codebase indexing",
           "summary": null,
@@ -316,8 +399,8 @@
       "items": [
         {
           "id": "94aa85a4ffcee947b773ed704cd816388e28578d",
-          "title": "Faster C++ code intelligence with whole codebase indexing",
-          "title_zh": null,
+          "title": "通过整个代码库索引加快 C++ 代码智能 / Faster C++ code intelligence with whole codebase indexing",
+          "title_zh": "通过整个代码库索引加快 C++ 代码智能",
           "title_en": "Faster C++ code intelligence with whole codebase indexing",
           "title_original": "Faster C++ code intelligence with whole codebase indexing",
           "summary": null,
@@ -331,15 +414,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8597,
-      "importance": 0.8597,
-      "importance_score": 0.8597,
+      "score": 0.8429,
+      "importance": 0.8429,
+      "importance_score": 0.8429,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.965,
+        "recency": 0.8715,
         "story_heat": 0.0
       },
       "category": "official",
@@ -352,8 +435,8 @@
       "latest_at": "2026-09-22T22:24:48Z",
       "primary_item": {
         "id": "94aa85a4ffcee947b773ed704cd816388e28578d",
-        "title": "Faster C++ code intelligence with whole codebase indexing",
-        "title_zh": null,
+        "title": "通过整个代码库索引加快 C++ 代码智能 / Faster C++ code intelligence with whole codebase indexing",
+        "title_zh": "通过整个代码库索引加快 C++ 代码智能",
         "title_en": "Faster C++ code intelligence with whole codebase indexing",
         "title_original": "Faster C++ code intelligence with whole codebase indexing",
         "summary": null,
@@ -366,7 +449,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T00:55:30.673200Z"
+        "scored_at": "2026-09-23T07:58:19.341158Z"
       }
     },
     {
@@ -414,15 +497,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8602,
-      "importance": 0.8602,
-      "importance_score": 0.8602,
+      "score": 0.8437,
+      "importance": 0.8437,
+      "importance_score": 0.8437,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9455,
+        "recency": 0.8539,
         "story_heat": 0.0
       },
       "category": "official",
@@ -449,7 +532,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T00:55:30.673200Z"
+        "scored_at": "2026-09-23T07:58:19.341158Z"
       }
     },
     {
@@ -497,15 +580,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.851,
-      "importance": 0.851,
-      "importance_score": 0.851,
+      "score": 0.8354,
+      "importance": 0.8354,
+      "importance_score": 0.8354,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8946,
+        "recency": 0.808,
         "story_heat": 0.0
       },
       "category": "official",
@@ -532,7 +615,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T00:55:30.673200Z"
+        "scored_at": "2026-09-23T07:58:19.341158Z"
       }
     },
     {
@@ -609,15 +692,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8068,
-      "importance": 0.8068,
-      "importance_score": 0.8068,
+      "score": 0.7896,
+      "importance": 0.7896,
+      "importance_score": 0.7896,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.9842,
+        "recency": 0.8888,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -644,7 +727,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T00:55:30.673200Z"
+        "scored_at": "2026-09-23T07:58:19.341158Z"
       }
     },
     {
@@ -721,15 +804,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8039,
-      "importance": 0.8039,
-      "importance_score": 0.8039,
+      "score": 0.7881,
+      "importance": 0.7881,
+      "importance_score": 0.7881,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.9014,
+        "recency": 0.8141,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -756,7 +839,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T00:55:30.673200Z"
+        "scored_at": "2026-09-23T07:58:19.341158Z"
       }
     },
     {
@@ -833,15 +916,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7988,
-      "importance": 0.7988,
-      "importance_score": 0.7988,
+      "score": 0.7833,
+      "importance": 0.7833,
+      "importance_score": 0.7833,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8877,
+        "recency": 0.8017,
         "story_heat": 0.25
       },
       "category": "official",
@@ -868,7 +951,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T00:55:30.673200Z"
+        "scored_at": "2026-09-23T07:58:19.341158Z"
+      }
+    },
+    {
+      "story_id": "story_8270efdbfdab",
+      "title": "OpenAI 发布 GPT-6 Sol 与 Luna，API 定价降至五折并公布基准成绩 / OpenAI Releases GPT-6 Sol and Luna： 50% Cheaper API Pricing and Benchmarks",
+      "url": "https://www.marktechpost.com/2026/09/22/openai-releases-gpt-6-sol-and-luna-50-cheaper-api-pricing-and-benchmarks",
+      "primary_url": "https://www.marktechpost.com/2026/09/22/openai-releases-gpt-6-sol-and-luna-50-cheaper-api-pricing-and-benchmarks",
+      "source": "MarkTechPost（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "46ab56f051cd2fb216ac50b26897f251f6a547d6",
+          "title": "OpenAI 发布 GPT-6 Sol 与 Luna，API 定价降至五折并公布基准成绩 / OpenAI Releases GPT-6 Sol and Luna： 50% Cheaper API Pricing and Benchmarks",
+          "title_zh": "OpenAI 发布 GPT-6 Sol 与 Luna，API 定价降至五折并公布基准成绩",
+          "title_en": "OpenAI Releases GPT-6 Sol and Luna： 50% Cheaper API Pricing and Benchmarks",
+          "title_original": "OpenAI Releases GPT-6 Sol and Luna： 50% Cheaper API Pricing and Benchmarks",
+          "summary": "OpenAI 发布 GPT-6 系列两款新模型 GPT-6 Sol 与 Luna，API 定价相比 GPT-5.6 促销价下调约 50%，Sol 为每 1M tokens 输入 $2、输出 $10，Luna 为 $0.10、$0.50，两者已上线 API。",
+          "recommend_reason_zh": null,
+          "url": "https://www.marktechpost.com/2026/09/22/openai-releases-gpt-6-sol-and-luna-50-cheaper-api-pricing-and-benchmarks",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-23T05:18:36Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "MarkTechPost（RSS）"
+      ],
+      "items": [
+        {
+          "id": "46ab56f051cd2fb216ac50b26897f251f6a547d6",
+          "title": "OpenAI 发布 GPT-6 Sol 与 Luna，API 定价降至五折并公布基准成绩 / OpenAI Releases GPT-6 Sol and Luna： 50% Cheaper API Pricing and Benchmarks",
+          "title_zh": "OpenAI 发布 GPT-6 Sol 与 Luna，API 定价降至五折并公布基准成绩",
+          "title_en": "OpenAI Releases GPT-6 Sol and Luna： 50% Cheaper API Pricing and Benchmarks",
+          "title_original": "OpenAI Releases GPT-6 Sol and Luna： 50% Cheaper API Pricing and Benchmarks",
+          "summary": "OpenAI 发布 GPT-6 系列两款新模型 GPT-6 Sol 与 Luna，API 定价相比 GPT-5.6 促销价下调约 50%，Sol 为每 1M tokens 输入 $2、输出 $10，Luna 为 $0.10、$0.50，两者已上线 API。",
+          "recommend_reason_zh": null,
+          "url": "https://www.marktechpost.com/2026/09/22/openai-releases-gpt-6-sol-and-luna-50-cheaper-api-pricing-and-benchmarks",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-23T05:18:36Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7779,
+      "importance": 0.7779,
+      "importance_score": 0.7779,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.81,
+        "source_tier": 0.78,
+        "ai_relevance": 0.95,
+        "recency": 0.9627,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-23T05:18:36Z",
+      "latest_at": "2026-09-23T05:18:36Z",
+      "primary_item": {
+        "id": "46ab56f051cd2fb216ac50b26897f251f6a547d6",
+        "title": "OpenAI 发布 GPT-6 Sol 与 Luna，API 定价降至五折并公布基准成绩 / OpenAI Releases GPT-6 Sol and Luna： 50% Cheaper API Pricing and Benchmarks",
+        "title_zh": "OpenAI 发布 GPT-6 Sol 与 Luna，API 定价降至五折并公布基准成绩",
+        "title_en": "OpenAI Releases GPT-6 Sol and Luna： 50% Cheaper API Pricing and Benchmarks",
+        "title_original": "OpenAI Releases GPT-6 Sol and Luna： 50% Cheaper API Pricing and Benchmarks",
+        "summary": "OpenAI 发布 GPT-6 系列两款新模型 GPT-6 Sol 与 Luna，API 定价相比 GPT-5.6 促销价下调约 50%，Sol 为每 1M tokens 输入 $2、输出 $10，Luna 为 $0.10、$0.50，两者已上线 API。",
+        "recommend_reason_zh": null,
+        "url": "https://www.marktechpost.com/2026/09/22/openai-releases-gpt-6-sol-and-luna-50-cheaper-api-pricing-and-benchmarks",
+        "source": "MarkTechPost（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-23T07:58:19.341158Z"
       }
     },
     {
@@ -916,15 +1081,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8506,
-      "importance": 0.8506,
-      "importance_score": 0.8506,
+      "score": 0.8351,
+      "importance": 0.8351,
+      "importance_score": 0.8351,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8925,
+        "recency": 0.806,
         "story_heat": 0.0
       },
       "category": "official",
@@ -951,7 +1116,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T00:55:30.673200Z"
+        "scored_at": "2026-09-23T07:58:19.341158Z"
       }
     },
     {
@@ -999,15 +1164,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8394,
-      "importance": 0.8394,
-      "importance_score": 0.8394,
+      "score": 0.825,
+      "importance": 0.825,
+      "importance_score": 0.825,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8302,
+        "recency": 0.7498,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1034,89 +1199,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T00:55:30.673200Z"
-      }
-    },
-    {
-      "story_id": "story_cb40729325c2",
-      "title": "Anthropic 发布 Claude Opus 5.5：性能对标 Fable 5.1，运行成本比 Opus 5 低 40% / Anthropic Releases Claude Opus 5.5： Fable 5.1-Level Performance at 40% Lower Running Cost Than Opus 5",
-      "url": "https://www.marktechpost.com/2026/09/22/anthropic-claude-opus-5-5-release",
-      "primary_url": "https://www.marktechpost.com/2026/09/22/anthropic-claude-opus-5-5-release",
-      "source": "MarkTechPost（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "42efef65cb6e3db66d10732e009702ceb3f60d99",
-          "title": "Anthropic 发布 Claude Opus 5.5：性能对标 Fable 5.1，运行成本比 Opus 5 低 40% / Anthropic Releases Claude Opus 5.5： Fable 5.1-Level Performance at 40% Lower Running Cost Than Opus 5",
-          "title_zh": "Anthropic 发布 Claude Opus 5.5：性能对标 Fable 5.1，运行成本比 Opus 5 低 40%",
-          "title_en": "Anthropic Releases Claude Opus 5.5： Fable 5.1-Level Performance at 40% Lower Running Cost Than Opus 5",
-          "title_original": "Anthropic Releases Claude Opus 5.5： Fable 5.1-Level Performance at 40% Lower Running Cost Than Opus 5",
-          "summary": "Anthropic 发布 Claude 5.5 家族首个模型 Claude Opus 5.5，称其在多数工作上达到 Fable 5.1 水平，典型工作负载运行成本比 Opus 5 低 40%，输出速度快 30% 以上。",
-          "recommend_reason_zh": null,
-          "url": "https://www.marktechpost.com/2026/09/22/anthropic-claude-opus-5-5-release",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-22T18:59:35Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "MarkTechPost（RSS）"
-      ],
-      "items": [
-        {
-          "id": "42efef65cb6e3db66d10732e009702ceb3f60d99",
-          "title": "Anthropic 发布 Claude Opus 5.5：性能对标 Fable 5.1，运行成本比 Opus 5 低 40% / Anthropic Releases Claude Opus 5.5： Fable 5.1-Level Performance at 40% Lower Running Cost Than Opus 5",
-          "title_zh": "Anthropic 发布 Claude Opus 5.5：性能对标 Fable 5.1，运行成本比 Opus 5 低 40%",
-          "title_en": "Anthropic Releases Claude Opus 5.5： Fable 5.1-Level Performance at 40% Lower Running Cost Than Opus 5",
-          "title_original": "Anthropic Releases Claude Opus 5.5： Fable 5.1-Level Performance at 40% Lower Running Cost Than Opus 5",
-          "summary": "Anthropic 发布 Claude 5.5 家族首个模型 Claude Opus 5.5，称其在多数工作上达到 Fable 5.1 水平，典型工作负载运行成本比 Opus 5 低 40%，输出速度快 30% 以上。",
-          "recommend_reason_zh": null,
-          "url": "https://www.marktechpost.com/2026/09/22/anthropic-claude-opus-5-5-release",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-22T18:59:35Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7789,
-      "importance": 0.7789,
-      "importance_score": 0.7789,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.84,
-        "source_tier": 0.78,
-        "ai_relevance": 0.95,
-        "recency": 0.9185,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-22T18:59:35Z",
-      "latest_at": "2026-09-22T18:59:35Z",
-      "primary_item": {
-        "id": "42efef65cb6e3db66d10732e009702ceb3f60d99",
-        "title": "Anthropic 发布 Claude Opus 5.5：性能对标 Fable 5.1，运行成本比 Opus 5 低 40% / Anthropic Releases Claude Opus 5.5： Fable 5.1-Level Performance at 40% Lower Running Cost Than Opus 5",
-        "title_zh": "Anthropic 发布 Claude Opus 5.5：性能对标 Fable 5.1，运行成本比 Opus 5 低 40%",
-        "title_en": "Anthropic Releases Claude Opus 5.5： Fable 5.1-Level Performance at 40% Lower Running Cost Than Opus 5",
-        "title_original": "Anthropic Releases Claude Opus 5.5： Fable 5.1-Level Performance at 40% Lower Running Cost Than Opus 5",
-        "summary": "Anthropic 发布 Claude 5.5 家族首个模型 Claude Opus 5.5，称其在多数工作上达到 Fable 5.1 水平，典型工作负载运行成本比 Opus 5 低 40%，输出速度快 30% 以上。",
-        "recommend_reason_zh": null,
-        "url": "https://www.marktechpost.com/2026/09/22/anthropic-claude-opus-5-5-release",
-        "source": "MarkTechPost（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-23T00:55:30.673200Z"
+        "scored_at": "2026-09-23T07:58:19.341158Z"
       }
     },
     {
@@ -1164,15 +1247,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7774,
-      "importance": 0.7774,
-      "importance_score": 0.7774,
+      "score": 0.7615,
+      "importance": 0.7615,
+      "importance_score": 0.7615,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.84,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.9098,
+        "recency": 0.8216,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1198,7 +1281,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T00:55:30.673200Z"
+        "scored_at": "2026-09-23T07:58:19.341158Z"
       }
     },
     {
@@ -1246,15 +1329,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7704,
-      "importance": 0.7704,
-      "importance_score": 0.7704,
+      "score": 0.7549,
+      "importance": 0.7549,
+      "importance_score": 0.7549,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.8879,
+        "recency": 0.8019,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1280,7 +1363,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T00:55:30.673200Z"
+        "scored_at": "2026-09-23T07:58:19.341158Z"
+      }
+    },
+    {
+      "story_id": "story_2cd65f3d29da",
+      "title": "Claude Code v2.1. 280 落地：Opus 5. 5 正式接棒默认王座，百万上下文配 4 美元骨折价把账单压进地心",
+      "url": "https://www.aibase.com/news/31294",
+      "primary_url": "https://www.aibase.com/news/31294",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "04911bd33577cdc6c709b1c82d55379239892a34",
+          "title": "Claude Code v2.1. 280 落地：Opus 5. 5 正式接棒默认王座，百万上下文配 4 美元骨折价把账单压进地心",
+          "title_zh": "Claude Code v2.1. 280 落地：Opus 5. 5 正式接棒默认王座，百万上下文配 4 美元骨折价把账单压进地心",
+          "title_en": null,
+          "title_original": "Claude Code v2.1. 280 落地：Opus 5. 5 正式接棒默认王座，百万上下文配 4 美元骨折价把账单压进地心",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31294",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-23T07:56:21.936056Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "04911bd33577cdc6c709b1c82d55379239892a34",
+          "title": "Claude Code v2.1. 280 落地：Opus 5. 5 正式接棒默认王座，百万上下文配 4 美元骨折价把账单压进地心",
+          "title_zh": "Claude Code v2.1. 280 落地：Opus 5. 5 正式接棒默认王座，百万上下文配 4 美元骨折价把账单压进地心",
+          "title_en": null,
+          "title_original": "Claude Code v2.1. 280 落地：Opus 5. 5 正式接棒默认王座，百万上下文配 4 美元骨折价把账单压进地心",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31294",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-23T07:56:21.936056Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7468,
+      "importance": 0.7468,
+      "importance_score": 0.7468,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.684,
+        "source_tier": 0.78,
+        "ai_relevance": 0.95,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-23T07:56:21.936056Z",
+      "latest_at": "2026-09-23T07:56:21.936056Z",
+      "primary_item": {
+        "id": "04911bd33577cdc6c709b1c82d55379239892a34",
+        "title": "Claude Code v2.1. 280 落地：Opus 5. 5 正式接棒默认王座，百万上下文配 4 美元骨折价把账单压进地心",
+        "title_zh": "Claude Code v2.1. 280 落地：Opus 5. 5 正式接棒默认王座，百万上下文配 4 美元骨折价把账单压进地心",
+        "title_en": null,
+        "title_original": "Claude Code v2.1. 280 落地：Opus 5. 5 正式接棒默认王座，百万上下文配 4 美元骨折价把账单压进地心",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31294",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-23T07:58:19.341158Z"
       }
     },
     {
@@ -1328,21 +1492,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7609,
-      "importance": 0.7609,
-      "importance_score": 0.7609,
+      "score": 0.7446,
+      "importance": 0.7446,
+      "importance_score": 0.7446,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.9347,
+        "recency": 0.8442,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-22T20:12:31Z",
       "latest_at": "2026-09-22T20:12:31Z",
@@ -1362,7 +1525,118 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T00:55:30.673200Z"
+        "scored_at": "2026-09-23T07:58:19.341158Z"
+      }
+    },
+    {
+      "story_id": "story_acb3fe8a3aa9",
+      "title": "Boris Cherny 实测 Claude Opus 5.5：比 Fable 5.1 快且便宜 51% / Opus 5.5 is a really good model. It's been my daily driver the last few weeks. We had Opus 5.5 and …",
+      "url": "https://x.com/bcherny/status/2102439069053747549",
+      "primary_url": "https://x.com/bcherny/status/2102439069053747549",
+      "source": "X：Boris Cherny (@bcherny)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "a2b659216292efe729e3b3f29c73140ed3cadc55",
+          "title": "Boris Cherny 实测 Claude Opus 5.5：比 Fable 5.1 快且便宜 51% / Opus 5.5 is a really good model. It's been my daily driver the last few weeks. We had Opus 5.5 and …",
+          "title_zh": "Boris Cherny 实测 Claude Opus 5.5：比 Fable 5.1 快且便宜 51%",
+          "title_en": "Opus 5.5 is a really good model. It's been my daily driver the last few weeks. We had Opus 5.5 and …",
+          "title_original": "Opus 5.5 is a really good model. It's been my daily driver the last few weeks. We had Opus 5.5 and …",
+          "summary": "Anthropic 的 Boris Cherny 称 Claude Opus 5.5 近几周是他的日常主力模型。他让 Opus 5.5 和 Fable 5.1 各自把 HAProxy 从 C 移植到 Rust，两者都通过了几乎所有测试，但 Opus 5.5 用时 9.5 小时，快于 Fable 5.1 的 12 小时，成本低 51%。引用的官方介绍称 Opus 5.5 是 Claude 5.5 家族首个模型，多数任务达到 Fable 5.1 水平，运行成本比 Opus 5 低 40%。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/bcherny/status/2102439069053747549",
+          "source": "X：Boris Cherny (@bcherny)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-22T16:45:10Z"
+        },
+        {
+          "id": "4a7f6caf0f489ec8e38ce1f6136500bed81da398",
+          "title": "Boris Cherny 实测 Claude Opus 5.5：比 Fable 5.1 快且便宜 51% / Opus 5.5 is a really good model. It's been my daily driver the last few weeks. We had Opus 5.5 and Fable 5.1 each port HAProxy from C to Rust. Both passed nearly all of HAProxy's tests, but Opus 5.5 finished in 9.5 ho...",
+          "title_zh": "Boris Cherny 实测 Claude Opus 5.5：比 Fable 5.1 快且便宜 51%",
+          "title_en": "Opus 5.5 is a really good model. It's been my daily driver the last few weeks. We had Opus 5.5 and Fable 5.1 each port HAProxy from C to Rust. Both passed nearly all of HAProxy's tests, but Opus 5.5 finished in 9.5 ho...",
+          "title_original": "Opus 5.5 is a really good model. It's been my daily driver the last few weeks. We had Opus 5.5 and Fable 5.1 each port HAProxy from C to Rust. Both passed nearly all of HAProxy's tests, but Opus 5.5 finished in 9.5 ho...",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://x.com/bcherny/status/2102439069053747549",
+          "source": "Follow Builders · X · Boris Cherny",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-09-22T16:45:10Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Follow Builders · X · Boris Cherny",
+        "X：Boris Cherny (@bcherny)"
+      ],
+      "items": [
+        {
+          "id": "a2b659216292efe729e3b3f29c73140ed3cadc55",
+          "title": "Boris Cherny 实测 Claude Opus 5.5：比 Fable 5.1 快且便宜 51% / Opus 5.5 is a really good model. It's been my daily driver the last few weeks. We had Opus 5.5 and …",
+          "title_zh": "Boris Cherny 实测 Claude Opus 5.5：比 Fable 5.1 快且便宜 51%",
+          "title_en": "Opus 5.5 is a really good model. It's been my daily driver the last few weeks. We had Opus 5.5 and …",
+          "title_original": "Opus 5.5 is a really good model. It's been my daily driver the last few weeks. We had Opus 5.5 and …",
+          "summary": "Anthropic 的 Boris Cherny 称 Claude Opus 5.5 近几周是他的日常主力模型。他让 Opus 5.5 和 Fable 5.1 各自把 HAProxy 从 C 移植到 Rust，两者都通过了几乎所有测试，但 Opus 5.5 用时 9.5 小时，快于 Fable 5.1 的 12 小时，成本低 51%。引用的官方介绍称 Opus 5.5 是 Claude 5.5 家族首个模型，多数任务达到 Fable 5.1 水平，运行成本比 Opus 5 低 40%。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/bcherny/status/2102439069053747549",
+          "source": "X：Boris Cherny (@bcherny)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-22T16:45:10Z"
+        },
+        {
+          "id": "4a7f6caf0f489ec8e38ce1f6136500bed81da398",
+          "title": "Boris Cherny 实测 Claude Opus 5.5：比 Fable 5.1 快且便宜 51% / Opus 5.5 is a really good model. It's been my daily driver the last few weeks. We had Opus 5.5 and Fable 5.1 each port HAProxy from C to Rust. Both passed nearly all of HAProxy's tests, but Opus 5.5 finished in 9.5 ho...",
+          "title_zh": "Boris Cherny 实测 Claude Opus 5.5：比 Fable 5.1 快且便宜 51%",
+          "title_en": "Opus 5.5 is a really good model. It's been my daily driver the last few weeks. We had Opus 5.5 and Fable 5.1 each port HAProxy from C to Rust. Both passed nearly all of HAProxy's tests, but Opus 5.5 finished in 9.5 ho...",
+          "title_original": "Opus 5.5 is a really good model. It's been my daily driver the last few weeks. We had Opus 5.5 and Fable 5.1 each port HAProxy from C to Rust. Both passed nearly all of HAProxy's tests, but Opus 5.5 finished in 9.5 ho...",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://x.com/bcherny/status/2102439069053747549",
+          "source": "Follow Builders · X · Boris Cherny",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-09-22T16:45:10Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7442,
+      "importance": 0.7442,
+      "importance_score": 0.7442,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 0.95,
+        "recency": 0.8031,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-22T16:45:10Z",
+      "latest_at": "2026-09-22T16:45:10Z",
+      "primary_item": {
+        "id": "a2b659216292efe729e3b3f29c73140ed3cadc55",
+        "title": "Boris Cherny 实测 Claude Opus 5.5：比 Fable 5.1 快且便宜 51% / Opus 5.5 is a really good model. It's been my daily driver the last few weeks. We had Opus 5.5 and …",
+        "title_zh": "Boris Cherny 实测 Claude Opus 5.5：比 Fable 5.1 快且便宜 51%",
+        "title_en": "Opus 5.5 is a really good model. It's been my daily driver the last few weeks. We had Opus 5.5 and …",
+        "title_original": "Opus 5.5 is a really good model. It's been my daily driver the last few weeks. We had Opus 5.5 and …",
+        "summary": "Anthropic 的 Boris Cherny 称 Claude Opus 5.5 近几周是他的日常主力模型。他让 Opus 5.5 和 Fable 5.1 各自把 HAProxy 从 C 移植到 Rust，两者都通过了几乎所有测试，但 Opus 5.5 用时 9.5 小时，快于 Fable 5.1 的 12 小时，成本低 51%。引用的官方介绍称 Opus 5.5 是 Claude 5.5 家族首个模型，多数任务达到 Fable 5.1 水平，运行成本比 Opus 5 低 40%。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/bcherny/status/2102439069053747549",
+        "source": "X：Boris Cherny (@bcherny)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-23T07:58:19.341158Z"
       }
     },
     {
@@ -1410,21 +1684,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7565,
-      "importance": 0.7565,
-      "importance_score": 0.7565,
+      "score": 0.7406,
+      "importance": 0.7406,
+      "importance_score": 0.7406,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.9105,
+        "recency": 0.8223,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-22T18:23:35Z",
       "latest_at": "2026-09-22T18:23:35Z",
@@ -1444,7 +1717,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T00:55:30.673200Z"
+        "scored_at": "2026-09-23T07:58:19.341158Z"
       }
     },
     {
@@ -1492,21 +1765,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7563,
-      "importance": 0.7563,
-      "importance_score": 0.7563,
+      "score": 0.7405,
+      "importance": 0.7405,
+      "importance_score": 0.7405,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.9096,
+        "recency": 0.8215,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-22T18:19:24Z",
       "latest_at": "2026-09-22T18:19:24Z",
@@ -1526,7 +1798,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T00:55:30.673200Z"
+        "scored_at": "2026-09-23T07:58:19.341158Z"
       }
     },
     {
@@ -1574,21 +1846,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7562,
-      "importance": 0.7562,
-      "importance_score": 0.7562,
+      "score": 0.7404,
+      "importance": 0.7404,
+      "importance_score": 0.7404,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.909,
+        "recency": 0.8209,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-22T18:16:22Z",
       "latest_at": "2026-09-22T18:16:22Z",
@@ -1608,251 +1879,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T00:55:30.673200Z"
-      }
-    },
-    {
-      "story_id": "story_51009185ced8",
-      "title": "OpenAI 发布 GPT-6 Sol 和 GPT-6 Luna，API 价格较 GPT-5.6 促销价低 50% / Maybe our cutest launch so far. But still packing the biggest punch.",
-      "url": "https://x.com/thsottiaux/status/2102509507415048245",
-      "primary_url": "https://x.com/thsottiaux/status/2102509507415048245",
-      "source": "X：Tibo (@thsottiaux)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "aecfaa648cec2e91d17359dd41dd2bea367662e7",
-          "title": "OpenAI 发布 GPT-6 Sol 和 GPT-6 Luna，API 价格较 GPT-5.6 促销价低 50% / Maybe our cutest launch so far. But still packing the biggest punch.",
-          "title_zh": "OpenAI 发布 GPT-6 Sol 和 GPT-6 Luna，API 价格较 GPT-5.6 促销价低 50%",
-          "title_en": "Maybe our cutest launch so far. But still packing the biggest punch.",
-          "title_original": "Maybe our cutest launch so far. But still packing the biggest punch.",
-          "summary": "OpenAI 欢迎两个新模型加入 GPT-6 系列。GPT-6 Sol 和 Luna 基于 GPT-6 Astra 的技术成果，将大部分能力带入更快、更便宜、支持大规模工作的模型中。通过提升缓存和推理效率，两款模型 API 价格比 GPT-5.6 促销定价低 50%。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/thsottiaux/status/2102509507415048245",
-          "source": "X：Tibo (@thsottiaux)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-22T21:25:03Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Tibo (@thsottiaux)"
-      ],
-      "items": [
-        {
-          "id": "aecfaa648cec2e91d17359dd41dd2bea367662e7",
-          "title": "OpenAI 发布 GPT-6 Sol 和 GPT-6 Luna，API 价格较 GPT-5.6 促销价低 50% / Maybe our cutest launch so far. But still packing the biggest punch.",
-          "title_zh": "OpenAI 发布 GPT-6 Sol 和 GPT-6 Luna，API 价格较 GPT-5.6 促销价低 50%",
-          "title_en": "Maybe our cutest launch so far. But still packing the biggest punch.",
-          "title_original": "Maybe our cutest launch so far. But still packing the biggest punch.",
-          "summary": "OpenAI 欢迎两个新模型加入 GPT-6 系列。GPT-6 Sol 和 Luna 基于 GPT-6 Astra 的技术成果，将大部分能力带入更快、更便宜、支持大规模工作的模型中。通过提升缓存和推理效率，两款模型 API 价格比 GPT-5.6 促销定价低 50%。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/thsottiaux/status/2102509507415048245",
-          "source": "X：Tibo (@thsottiaux)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-22T21:25:03Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7548,
-      "importance": 0.7548,
-      "importance_score": 0.7548,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.74,
-        "source_tier": 0.78,
-        "ai_relevance": 0.95,
-        "recency": 0.9512,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-22T21:25:03Z",
-      "latest_at": "2026-09-22T21:25:03Z",
-      "primary_item": {
-        "id": "aecfaa648cec2e91d17359dd41dd2bea367662e7",
-        "title": "OpenAI 发布 GPT-6 Sol 和 GPT-6 Luna，API 价格较 GPT-5.6 促销价低 50% / Maybe our cutest launch so far. But still packing the biggest punch.",
-        "title_zh": "OpenAI 发布 GPT-6 Sol 和 GPT-6 Luna，API 价格较 GPT-5.6 促销价低 50%",
-        "title_en": "Maybe our cutest launch so far. But still packing the biggest punch.",
-        "title_original": "Maybe our cutest launch so far. But still packing the biggest punch.",
-        "summary": "OpenAI 欢迎两个新模型加入 GPT-6 系列。GPT-6 Sol 和 Luna 基于 GPT-6 Astra 的技术成果，将大部分能力带入更快、更便宜、支持大规模工作的模型中。通过提升缓存和推理效率，两款模型 API 价格比 GPT-5.6 促销定价低 50%。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/thsottiaux/status/2102509507415048245",
-        "source": "X：Tibo (@thsottiaux)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-23T00:55:30.673200Z"
-      }
-    },
-    {
-      "story_id": "story_780d89a974b7",
-      "title": "Anthropic上线Claude Opus 5.5 ，任务成本大降 40%",
-      "url": "https://www.aibase.com/news/31277",
-      "primary_url": "https://www.aibase.com/news/31277",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "ea6ec639cb7eea5eb2f6d485f61b9fd14ad2afbc",
-          "title": "Anthropic上线Claude Opus 5.5 ，任务成本大降 40%",
-          "title_zh": "Anthropic上线Claude Opus 5.5 ，任务成本大降 40%",
-          "title_en": null,
-          "title_original": "Anthropic上线Claude Opus 5.5 ，任务成本大降 40%",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31277",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-23T00:52:57.587269Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "ea6ec639cb7eea5eb2f6d485f61b9fd14ad2afbc",
-          "title": "Anthropic上线Claude Opus 5.5 ，任务成本大降 40%",
-          "title_zh": "Anthropic上线Claude Opus 5.5 ，任务成本大降 40%",
-          "title_en": null,
-          "title_original": "Anthropic上线Claude Opus 5.5 ，任务成本大降 40%",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31277",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-23T00:52:57.587269Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7468,
-      "importance": 0.7468,
-      "importance_score": 0.7468,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.684,
-        "source_tier": 0.78,
-        "ai_relevance": 0.95,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-23T00:52:57.587269Z",
-      "latest_at": "2026-09-23T00:52:57.587269Z",
-      "primary_item": {
-        "id": "ea6ec639cb7eea5eb2f6d485f61b9fd14ad2afbc",
-        "title": "Anthropic上线Claude Opus 5.5 ，任务成本大降 40%",
-        "title_zh": "Anthropic上线Claude Opus 5.5 ，任务成本大降 40%",
-        "title_en": null,
-        "title_original": "Anthropic上线Claude Opus 5.5 ，任务成本大降 40%",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31277",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-23T00:55:30.673200Z"
-      }
-    },
-    {
-      "story_id": "story_f1545268658e",
-      "title": "OpenAI 发布 GPT-6 Sol 和 GPT-6 Luna，API 价格比 GPT-5.6 促销价低 50% / GPT-6 Sol and Luna are great models but also these characters are so cute",
-      "url": "https://x.com/sama/status/2102464201335984392",
-      "primary_url": "https://x.com/sama/status/2102464201335984392",
-      "source": "X：Sam Altman (@sama)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "e88a485535a69f331d23133204af51b26e002bc8",
-          "title": "OpenAI 发布 GPT-6 Sol 和 GPT-6 Luna，API 价格比 GPT-5.6 促销价低 50% / GPT-6 Sol and Luna are great models but also these characters are so cute",
-          "title_zh": "OpenAI 发布 GPT-6 Sol 和 GPT-6 Luna，API 价格比 GPT-5.6 促销价低 50%",
-          "title_en": "GPT-6 Sol and Luna are great models but also these characters are so cute",
-          "title_original": "GPT-6 Sol and Luna are great models but also these characters are so cute",
-          "summary": "OpenAI 推出 GPT-6 Sol 和 GPT-6 Luna，基于 GPT-6 Astra 的技术，以更快、更实惠的模型支持大规模工作。两款模型通过更高效的缓存和推理降低成本，API 价格比 GPT-5.6 促销定价低 50%。Sam Altman 转发该公告并称这些角色形象很可爱。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/sama/status/2102464201335984392",
-          "source": "X：Sam Altman (@sama)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-22T18:25:02Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Sam Altman (@sama)"
-      ],
-      "items": [
-        {
-          "id": "e88a485535a69f331d23133204af51b26e002bc8",
-          "title": "OpenAI 发布 GPT-6 Sol 和 GPT-6 Luna，API 价格比 GPT-5.6 促销价低 50% / GPT-6 Sol and Luna are great models but also these characters are so cute",
-          "title_zh": "OpenAI 发布 GPT-6 Sol 和 GPT-6 Luna，API 价格比 GPT-5.6 促销价低 50%",
-          "title_en": "GPT-6 Sol and Luna are great models but also these characters are so cute",
-          "title_original": "GPT-6 Sol and Luna are great models but also these characters are so cute",
-          "summary": "OpenAI 推出 GPT-6 Sol 和 GPT-6 Luna，基于 GPT-6 Astra 的技术，以更快、更实惠的模型支持大规模工作。两款模型通过更高效的缓存和推理降低成本，API 价格比 GPT-5.6 促销定价低 50%。Sam Altman 转发该公告并称这些角色形象很可爱。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/sama/status/2102464201335984392",
-          "source": "X：Sam Altman (@sama)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-22T18:25:02Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7416,
-      "importance": 0.7416,
-      "importance_score": 0.7416,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 0.95,
-        "recency": 0.9109,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-22T18:25:02Z",
-      "latest_at": "2026-09-22T18:25:02Z",
-      "primary_item": {
-        "id": "e88a485535a69f331d23133204af51b26e002bc8",
-        "title": "OpenAI 发布 GPT-6 Sol 和 GPT-6 Luna，API 价格比 GPT-5.6 促销价低 50% / GPT-6 Sol and Luna are great models but also these characters are so cute",
-        "title_zh": "OpenAI 发布 GPT-6 Sol 和 GPT-6 Luna，API 价格比 GPT-5.6 促销价低 50%",
-        "title_en": "GPT-6 Sol and Luna are great models but also these characters are so cute",
-        "title_original": "GPT-6 Sol and Luna are great models but also these characters are so cute",
-        "summary": "OpenAI 推出 GPT-6 Sol 和 GPT-6 Luna，基于 GPT-6 Astra 的技术，以更快、更实惠的模型支持大规模工作。两款模型通过更高效的缓存和推理降低成本，API 价格比 GPT-5.6 促销定价低 50%。Sam Altman 转发该公告并称这些角色形象很可爱。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/sama/status/2102464201335984392",
-        "source": "X：Sam Altman (@sama)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-23T00:55:30.673200Z"
+        "scored_at": "2026-09-23T07:58:19.341158Z"
       }
     }
   ]
