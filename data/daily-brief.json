@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T18:34:25.896904Z",
+  "generated_at": "2026-09-23T21:43:44.021826Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -65,8 +65,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-23T18:34:25.896904Z",
-      "latest_at": "2026-09-23T18:34:25.896904Z",
+      "earliest_at": "2026-09-23T21:43:44.021826Z",
+      "latest_at": "2026-09-23T21:43:44.021826Z",
       "primary_item": {
         "id": "48e7e143951a807062656727fb44afb909b365f9",
         "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
@@ -83,7 +83,231 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T18:55:49.917877Z"
+        "scored_at": "2026-09-23T22:09:39.732807Z"
+      }
+    },
+    {
+      "story_id": "story_2f7e483f74c2",
+      "title": "Anthropic 宣布 Claude 自主发现类 CRISPR 的新型酶系统 ART / Claude discovers a novel enzyme system with CRISPR-like repeats",
+      "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+      "primary_url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+      "source": "Anthropic：Newsroom（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "03eab593bf7beec778b286861141f10a5c7253f9",
+          "title": "Anthropic 宣布 Claude 自主发现类 CRISPR 的新型酶系统 ART / Claude discovers a novel enzyme system with CRISPR-like repeats",
+          "title_zh": "Anthropic 宣布 Claude 自主发现类 CRISPR 的新型酶系统 ART",
+          "title_en": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+          "title_original": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+          "summary": "Anthropic 成立生命科学研究组和自有实验室，宣布 Claude 智能体自主发现一种与 DNA 重复序列相关的新型酶系统 ART（array-associated reverse transcriptases）。",
+          "recommend_reason_zh": null,
+          "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+          "source": "Anthropic：Newsroom（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-23T18:27:25.203000Z"
+        },
+        {
+          "id": "206716da6aa6e1d312d7db624ab47f9c8ee6cf56",
+          "title": "克劳德发现了一种具有CRISPR样重复序列的新型酶系统",
+          "title_zh": "克劳德发现了一种具有CRISPR样重复序列的新型酶系统",
+          "title_en": null,
+          "title_original": "克劳德发现了一种具有CRISPR样重复序列的新型酶系统",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+          "source": "www.anthropic.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-23T19:28:38.639000Z"
+        },
+        {
+          "id": "6862ceede8befef86c8d6fb7ddfcb4b00f35e85a",
+          "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+          "title_zh": null,
+          "title_en": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+          "title_original": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49820134",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-23T18:06:47Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Anthropic：Newsroom（网页）",
+        "hackernews",
+        "www.anthropic.com"
+      ],
+      "items": [
+        {
+          "id": "03eab593bf7beec778b286861141f10a5c7253f9",
+          "title": "Anthropic 宣布 Claude 自主发现类 CRISPR 的新型酶系统 ART / Claude discovers a novel enzyme system with CRISPR-like repeats",
+          "title_zh": "Anthropic 宣布 Claude 自主发现类 CRISPR 的新型酶系统 ART",
+          "title_en": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+          "title_original": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+          "summary": "Anthropic 成立生命科学研究组和自有实验室，宣布 Claude 智能体自主发现一种与 DNA 重复序列相关的新型酶系统 ART（array-associated reverse transcriptases）。",
+          "recommend_reason_zh": null,
+          "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+          "source": "Anthropic：Newsroom（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-23T18:27:25.203000Z"
+        },
+        {
+          "id": "206716da6aa6e1d312d7db624ab47f9c8ee6cf56",
+          "title": "克劳德发现了一种具有CRISPR样重复序列的新型酶系统",
+          "title_zh": "克劳德发现了一种具有CRISPR样重复序列的新型酶系统",
+          "title_en": null,
+          "title_original": "克劳德发现了一种具有CRISPR样重复序列的新型酶系统",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+          "source": "www.anthropic.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-23T19:28:38.639000Z"
+        },
+        {
+          "id": "6862ceede8befef86c8d6fb7ddfcb4b00f35e85a",
+          "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+          "title_zh": null,
+          "title_en": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+          "title_original": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49820134",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-23T18:06:47Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8687,
+      "importance": 0.8687,
+      "importance_score": 0.8687,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.79,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.9539,
+        "story_heat": 0.5
+      },
+      "category": "official",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-23T18:06:47Z",
+      "latest_at": "2026-09-23T19:28:38.639000Z",
+      "primary_item": {
+        "id": "03eab593bf7beec778b286861141f10a5c7253f9",
+        "title": "Anthropic 宣布 Claude 自主发现类 CRISPR 的新型酶系统 ART / Claude discovers a novel enzyme system with CRISPR-like repeats",
+        "title_zh": "Anthropic 宣布 Claude 自主发现类 CRISPR 的新型酶系统 ART",
+        "title_en": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+        "title_original": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+        "summary": "Anthropic 成立生命科学研究组和自有实验室，宣布 Claude 智能体自主发现一种与 DNA 重复序列相关的新型酶系统 ART（array-associated reverse transcriptases）。",
+        "recommend_reason_zh": null,
+        "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+        "source": "Anthropic：Newsroom（网页）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-23T22:09:39.732807Z"
+      }
+    },
+    {
+      "story_id": "story_4b75c8247471",
+      "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+      "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
+      "primary_url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "fa1a1032abd968ef29f2bcbad9ef16b802c9ea8a",
+          "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+          "title_zh": null,
+          "title_en": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+          "title_original": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-23T18:41:40Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "fa1a1032abd968ef29f2bcbad9ef16b802c9ea8a",
+          "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+          "title_zh": null,
+          "title_en": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+          "title_original": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-23T18:41:40Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8623,
+      "importance": 0.8623,
+      "importance_score": 0.8623,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 1.0,
+        "recency": 0.9571,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-23T18:41:40Z",
+      "latest_at": "2026-09-23T18:41:40Z",
+      "primary_item": {
+        "id": "fa1a1032abd968ef29f2bcbad9ef16b802c9ea8a",
+        "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+        "title_zh": null,
+        "title_en": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+        "title_original": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-23T22:09:39.732807Z"
       }
     },
     {
@@ -131,15 +355,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.858,
-      "importance": 0.858,
-      "importance_score": 0.858,
+      "score": 0.8503,
+      "importance": 0.8503,
+      "importance_score": 0.8503,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.9555,
+        "recency": 0.9129,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,90 +390,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T18:55:49.917877Z"
-      }
-    },
-    {
-      "story_id": "story_e8d7d86b4448",
-      "title": "**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-diarization",
-      "primary_url": "https://huggingface.co/blog/nvidia/nemotron-diarization",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "23cce1b2008384ca31fa4e48dfdf1e5411098536",
-          "title": "**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
-          "title_zh": null,
-          "title_en": "**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
-          "title_original": "**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/nvidia/nemotron-diarization",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-23T13:17:01Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "23cce1b2008384ca31fa4e48dfdf1e5411098536",
-          "title": "**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
-          "title_zh": null,
-          "title_en": "**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
-          "title_original": "**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/nvidia/nemotron-diarization",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-23T13:17:01Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8568,
-      "importance": 0.8568,
-      "importance_score": 0.8568,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.9265,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-23T13:17:01Z",
-      "latest_at": "2026-09-23T13:17:01Z",
-      "primary_item": {
-        "id": "23cce1b2008384ca31fa4e48dfdf1e5411098536",
-        "title": "**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
-        "title_zh": null,
-        "title_en": "**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
-        "title_original": "**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/nvidia/nemotron-diarization",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-23T18:55:49.917877Z"
+        "scored_at": "2026-09-23T22:09:39.732807Z"
       }
     },
     {
@@ -297,15 +438,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8594,
-      "importance": 0.8594,
-      "importance_score": 0.8594,
+      "score": 0.8517,
+      "importance": 0.8517,
+      "importance_score": 0.8517,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.9635,
+        "recency": 0.9206,
         "story_heat": 0.0
       },
       "category": "official",
@@ -332,7 +473,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T18:55:49.917877Z"
+        "scored_at": "2026-09-23T22:09:39.732807Z"
       }
     },
     {
@@ -380,15 +521,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8277,
-      "importance": 0.8277,
-      "importance_score": 0.8277,
+      "score": 0.8215,
+      "importance": 0.8215,
+      "importance_score": 0.8215,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7647,
+        "recency": 0.7307,
         "story_heat": 0.0
       },
       "category": "official",
@@ -415,171 +556,231 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T18:55:49.917877Z"
+        "scored_at": "2026-09-23T22:09:39.732807Z"
       }
     },
     {
-      "story_id": "story_c883bb1ffd3a",
-      "title": "Anthropic 宣布 Claude 自主发现类 CRISPR 的新型酶系统 ART / Claude discovers a novel enzyme system with CRISPR-like repeats",
-      "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
-      "primary_url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
-      "source": "Anthropic：Newsroom（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "03eab593bf7beec778b286861141f10a5c7253f9",
-          "title": "Anthropic 宣布 Claude 自主发现类 CRISPR 的新型酶系统 ART / Claude discovers a novel enzyme system with CRISPR-like repeats",
-          "title_zh": "Anthropic 宣布 Claude 自主发现类 CRISPR 的新型酶系统 ART",
-          "title_en": "Claude discovers a novel enzyme system with CRISPR-like repeats",
-          "title_original": "Claude discovers a novel enzyme system with CRISPR-like repeats",
-          "summary": "Anthropic 成立生命科学研究组和自有实验室，宣布 Claude 智能体自主发现一种与 DNA 重复序列相关的新型酶系统 ART（array-associated reverse transcriptases）。",
-          "recommend_reason_zh": null,
-          "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
-          "source": "Anthropic：Newsroom（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-23T18:27:25.203000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Anthropic：Newsroom（网页）"
-      ],
-      "items": [
-        {
-          "id": "03eab593bf7beec778b286861141f10a5c7253f9",
-          "title": "Anthropic 宣布 Claude 自主发现类 CRISPR 的新型酶系统 ART / Claude discovers a novel enzyme system with CRISPR-like repeats",
-          "title_zh": "Anthropic 宣布 Claude 自主发现类 CRISPR 的新型酶系统 ART",
-          "title_en": "Claude discovers a novel enzyme system with CRISPR-like repeats",
-          "title_original": "Claude discovers a novel enzyme system with CRISPR-like repeats",
-          "summary": "Anthropic 成立生命科学研究组和自有实验室，宣布 Claude 智能体自主发现一种与 DNA 重复序列相关的新型酶系统 ART（array-associated reverse transcriptases）。",
-          "recommend_reason_zh": null,
-          "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
-          "source": "Anthropic：Newsroom（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-23T18:27:25.203000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8267,
-      "importance": 0.8267,
-      "importance_score": 0.8267,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.79,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.9983,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-23T18:27:25.203000Z",
-      "latest_at": "2026-09-23T18:27:25.203000Z",
-      "primary_item": {
-        "id": "03eab593bf7beec778b286861141f10a5c7253f9",
-        "title": "Anthropic 宣布 Claude 自主发现类 CRISPR 的新型酶系统 ART / Claude discovers a novel enzyme system with CRISPR-like repeats",
-        "title_zh": "Anthropic 宣布 Claude 自主发现类 CRISPR 的新型酶系统 ART",
-        "title_en": "Claude discovers a novel enzyme system with CRISPR-like repeats",
-        "title_original": "Claude discovers a novel enzyme system with CRISPR-like repeats",
-        "summary": "Anthropic 成立生命科学研究组和自有实验室，宣布 Claude 智能体自主发现一种与 DNA 重复序列相关的新型酶系统 ART（array-associated reverse transcriptases）。",
-        "recommend_reason_zh": null,
-        "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
-        "source": "Anthropic：Newsroom（网页）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-23T18:55:49.917877Z"
-      }
-    },
-    {
-      "story_id": "story_a6ca8561303e",
-      "title": "Rendering huge pull requests in the GitHub Copilot app",
-      "url": "https://github.blog/engineering/user-experience/rendering-huge-pull-requests-in-the-github-copilot-app",
-      "primary_url": "https://github.blog/engineering/user-experience/rendering-huge-pull-requests-in-the-github-copilot-app",
-      "source": "GitHub AI & ML",
+      "story_id": "story_e8d7d86b4448",
+      "title": "**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-diarization",
+      "primary_url": "https://huggingface.co/blog/nvidia/nemotron-diarization",
+      "source": "Hugging Face Blog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "59f0c9db98c7052e955a993862c622cb6e606454",
-          "title": "Rendering huge pull requests in the GitHub Copilot app",
+          "id": "23cce1b2008384ca31fa4e48dfdf1e5411098536",
+          "title": "**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
           "title_zh": null,
-          "title_en": "Rendering huge pull requests in the GitHub Copilot app",
-          "title_original": "Rendering huge pull requests in the GitHub Copilot app",
+          "title_en": "**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
+          "title_original": "**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/engineering/user-experience/rendering-huge-pull-requests-in-the-github-copilot-app",
-          "source": "GitHub AI & ML",
+          "url": "https://huggingface.co/blog/nvidia/nemotron-diarization",
+          "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-23T18:29:49Z"
+          "published_at": "2026-09-23T13:17:01Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub AI & ML"
+        "Hugging Face Blog"
       ],
       "items": [
         {
-          "id": "59f0c9db98c7052e955a993862c622cb6e606454",
-          "title": "Rendering huge pull requests in the GitHub Copilot app",
+          "id": "23cce1b2008384ca31fa4e48dfdf1e5411098536",
+          "title": "**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
           "title_zh": null,
-          "title_en": "Rendering huge pull requests in the GitHub Copilot app",
-          "title_original": "Rendering huge pull requests in the GitHub Copilot app",
+          "title_en": "**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
+          "title_original": "**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/engineering/user-experience/rendering-huge-pull-requests-in-the-github-copilot-app",
-          "source": "GitHub AI & ML",
+          "url": "https://huggingface.co/blog/nvidia/nemotron-diarization",
+          "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-23T18:29:49Z"
+          "published_at": "2026-09-23T13:17:01Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8218,
-      "importance": 0.8218,
-      "importance_score": 0.8218,
+      "score": 0.8493,
+      "importance": 0.8493,
+      "importance_score": 0.8493,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.76,
-        "recency": 0.9989,
+        "ai_relevance": 1.0,
+        "recency": 0.8852,
         "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
+        "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-23T18:29:49Z",
-      "latest_at": "2026-09-23T18:29:49Z",
+      "earliest_at": "2026-09-23T13:17:01Z",
+      "latest_at": "2026-09-23T13:17:01Z",
       "primary_item": {
-        "id": "59f0c9db98c7052e955a993862c622cb6e606454",
-        "title": "Rendering huge pull requests in the GitHub Copilot app",
+        "id": "23cce1b2008384ca31fa4e48dfdf1e5411098536",
+        "title": "**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
         "title_zh": null,
-        "title_en": "Rendering huge pull requests in the GitHub Copilot app",
-        "title_original": "Rendering huge pull requests in the GitHub Copilot app",
+        "title_en": "**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
+        "title_original": "**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/engineering/user-experience/rendering-huge-pull-requests-in-the-github-copilot-app",
-        "source": "GitHub AI & ML",
+        "url": "https://huggingface.co/blog/nvidia/nemotron-diarization",
+        "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T18:55:49.917877Z"
+        "scored_at": "2026-09-23T22:09:39.732807Z"
+      }
+    },
+    {
+      "story_id": "story_acfff9ac525d",
+      "title": "Anthropic 团队详解如何用 Claude 在两周内把 claude.ai 提速约 3 倍 / How we made claude.ai 3x faster in two weeks",
+      "url": "https://claude.dev/blog/how-we-made-claude-ai-faster",
+      "primary_url": "https://claude.dev/blog/how-we-made-claude-ai-faster",
+      "source": "Hacker News：AI 热帖",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e08f17337931db3bdac610517c7dfe1010beb7db",
+          "title": "Anthropic 团队详解如何用 Claude 在两周内把 claude.ai 提速约 3 倍 / How we made claude.ai 3x faster in two weeks",
+          "title_zh": "Anthropic 团队详解如何用 Claude 在两周内把 claude.ai 提速约 3 倍",
+          "title_en": "How we made claude.ai 3x faster in two weeks",
+          "title_original": "How we made claude.ai 3x faster in two weeks",
+          "summary": "Anthropic 团队发文详解今年 8 月通过两周冲刺让 claude.ai 和桌面端核心体验提速约 3 倍的过程：聚焦覆盖 95% 用户活动的四条旅程，75 分位首屏可输入时间从 3.1 秒降到 0.55 秒，合并超过三千个变更且无一次面向用户的事故。",
+          "recommend_reason_zh": null,
+          "url": "https://claude.dev/blog/how-we-made-claude-ai-faster",
+          "source": "Hacker News：AI 热帖",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-23T19:23:40Z"
+        },
+        {
+          "id": "09e8058247217396d94ffd4514955eb6d6a1864e",
+          "title": "Anthropic 团队详解如何用 Claude 在两周内把 claude.ai 提速约 3 倍 / Once Claude can measure something, it can make it faster",
+          "title_zh": "Anthropic 团队详解如何用 Claude 在两周内把 claude.ai 提速约 3 倍",
+          "title_en": "Once Claude can measure something, it can make it faster",
+          "title_original": "Once Claude can measure something, it can make it faster",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://claude.dev/blog/how-we-made-claude-ai-faster",
+          "source": "Hacker News front page",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-23T19:23:40Z"
+        },
+        {
+          "id": "9aea7332b1e0e13e51fec4551703ad48897eabaa",
+          "title": "只要克劳德能对某件事进行测量，就能让它变得更快",
+          "title_zh": "只要克劳德能对某件事进行测量，就能让它变得更快",
+          "title_en": null,
+          "title_original": "只要克劳德能对某件事进行测量，就能让它变得更快",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://claude.dev/blog/how-we-made-claude-ai-faster",
+          "source": "claude.dev",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-23T21:34:38.801000Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News front page",
+        "Hacker News：AI 热帖",
+        "claude.dev"
+      ],
+      "items": [
+        {
+          "id": "e08f17337931db3bdac610517c7dfe1010beb7db",
+          "title": "Anthropic 团队详解如何用 Claude 在两周内把 claude.ai 提速约 3 倍 / How we made claude.ai 3x faster in two weeks",
+          "title_zh": "Anthropic 团队详解如何用 Claude 在两周内把 claude.ai 提速约 3 倍",
+          "title_en": "How we made claude.ai 3x faster in two weeks",
+          "title_original": "How we made claude.ai 3x faster in two weeks",
+          "summary": "Anthropic 团队发文详解今年 8 月通过两周冲刺让 claude.ai 和桌面端核心体验提速约 3 倍的过程：聚焦覆盖 95% 用户活动的四条旅程，75 分位首屏可输入时间从 3.1 秒降到 0.55 秒，合并超过三千个变更且无一次面向用户的事故。",
+          "recommend_reason_zh": null,
+          "url": "https://claude.dev/blog/how-we-made-claude-ai-faster",
+          "source": "Hacker News：AI 热帖",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-23T19:23:40Z"
+        },
+        {
+          "id": "09e8058247217396d94ffd4514955eb6d6a1864e",
+          "title": "Anthropic 团队详解如何用 Claude 在两周内把 claude.ai 提速约 3 倍 / Once Claude can measure something, it can make it faster",
+          "title_zh": "Anthropic 团队详解如何用 Claude 在两周内把 claude.ai 提速约 3 倍",
+          "title_en": "Once Claude can measure something, it can make it faster",
+          "title_original": "Once Claude can measure something, it can make it faster",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://claude.dev/blog/how-we-made-claude-ai-faster",
+          "source": "Hacker News front page",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-23T19:23:40Z"
+        },
+        {
+          "id": "9aea7332b1e0e13e51fec4551703ad48897eabaa",
+          "title": "只要克劳德能对某件事进行测量，就能让它变得更快",
+          "title_zh": "只要克劳德能对某件事进行测量，就能让它变得更快",
+          "title_en": null,
+          "title_original": "只要克劳德能对某件事进行测量，就能让它变得更快",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://claude.dev/blog/how-we-made-claude-ai-faster",
+          "source": "claude.dev",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-23T21:34:38.801000Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8166,
+      "importance": 0.8166,
+      "importance_score": 0.8166,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 0.95,
+        "recency": 0.9669,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-23T19:23:40Z",
+      "latest_at": "2026-09-23T21:34:38.801000Z",
+      "primary_item": {
+        "id": "e08f17337931db3bdac610517c7dfe1010beb7db",
+        "title": "Anthropic 团队详解如何用 Claude 在两周内把 claude.ai 提速约 3 倍 / How we made claude.ai 3x faster in two weeks",
+        "title_zh": "Anthropic 团队详解如何用 Claude 在两周内把 claude.ai 提速约 3 倍",
+        "title_en": "How we made claude.ai 3x faster in two weeks",
+        "title_original": "How we made claude.ai 3x faster in two weeks",
+        "summary": "Anthropic 团队发文详解今年 8 月通过两周冲刺让 claude.ai 和桌面端核心体验提速约 3 倍的过程：聚焦覆盖 95% 用户活动的四条旅程，75 分位首屏可输入时间从 3.1 秒降到 0.55 秒，合并超过三千个变更且无一次面向用户的事故。",
+        "recommend_reason_zh": null,
+        "url": "https://claude.dev/blog/how-we-made-claude-ai-faster",
+        "source": "Hacker News：AI 热帖",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-23T22:09:39.732807Z"
       }
     },
     {
@@ -627,15 +828,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8205,
-      "importance": 0.8205,
-      "importance_score": 0.8205,
+      "score": 0.8145,
+      "importance": 0.8145,
+      "importance_score": 0.8145,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7474,
+        "recency": 0.7141,
         "story_heat": 0.0
       },
       "category": "official",
@@ -662,7 +863,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T18:55:49.917877Z"
+        "scored_at": "2026-09-23T22:09:39.732807Z"
+      }
+    },
+    {
+      "story_id": "story_a6ca8561303e",
+      "title": "Rendering huge pull requests in the GitHub Copilot app",
+      "url": "https://github.blog/engineering/user-experience/rendering-huge-pull-requests-in-the-github-copilot-app",
+      "primary_url": "https://github.blog/engineering/user-experience/rendering-huge-pull-requests-in-the-github-copilot-app",
+      "source": "GitHub AI & ML",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "59f0c9db98c7052e955a993862c622cb6e606454",
+          "title": "Rendering huge pull requests in the GitHub Copilot app",
+          "title_zh": null,
+          "title_en": "Rendering huge pull requests in the GitHub Copilot app",
+          "title_original": "Rendering huge pull requests in the GitHub Copilot app",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/engineering/user-experience/rendering-huge-pull-requests-in-the-github-copilot-app",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-23T18:29:49Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub AI & ML"
+      ],
+      "items": [
+        {
+          "id": "59f0c9db98c7052e955a993862c622cb6e606454",
+          "title": "Rendering huge pull requests in the GitHub Copilot app",
+          "title_zh": null,
+          "title_en": "Rendering huge pull requests in the GitHub Copilot app",
+          "title_original": "Rendering huge pull requests in the GitHub Copilot app",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/engineering/user-experience/rendering-huge-pull-requests-in-the-github-copilot-app",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-23T18:29:49Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8138,
+      "importance": 0.8138,
+      "importance_score": 0.8138,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.76,
+        "recency": 0.9544,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-23T18:29:49Z",
+      "latest_at": "2026-09-23T18:29:49Z",
+      "primary_item": {
+        "id": "59f0c9db98c7052e955a993862c622cb6e606454",
+        "title": "Rendering huge pull requests in the GitHub Copilot app",
+        "title_zh": null,
+        "title_en": "Rendering huge pull requests in the GitHub Copilot app",
+        "title_original": "Rendering huge pull requests in the GitHub Copilot app",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/engineering/user-experience/rendering-huge-pull-requests-in-the-github-copilot-app",
+        "source": "GitHub AI & ML",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-23T22:09:39.732807Z"
       }
     },
     {
@@ -710,15 +993,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8145,
-      "importance": 0.8145,
-      "importance_score": 0.8145,
+      "score": 0.8066,
+      "importance": 0.8066,
+      "importance_score": 0.8066,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.73,
-        "recency": 0.9917,
+        "recency": 0.9476,
         "story_heat": 0.0
       },
       "category": "official",
@@ -744,30 +1027,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T18:55:49.917877Z"
+        "scored_at": "2026-09-23T22:09:39.732807Z"
       }
     },
     {
-      "story_id": "story_ee51f7ca8c9e",
-      "title": "OpenAI 向乌克兰政府开放 Daybreak 网络防御计划 / OpenAI extends cyber access to Ukraine for civilian defense",
-      "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
-      "primary_url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+      "story_id": "story_cff02d2a853b",
+      "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+      "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+      "primary_url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "f3c68e810eb47bffbff9270c36c9e9b851f2b3d7",
-          "title": "OpenAI 向乌克兰政府开放 Daybreak 网络防御计划 / OpenAI extends cyber access to Ukraine for civilian defense",
-          "title_zh": "OpenAI 向乌克兰政府开放 Daybreak 网络防御计划",
-          "title_en": "OpenAI extends cyber access to Ukraine for civilian defense",
-          "title_original": "OpenAI extends cyber access to Ukraine for civilian defense",
+          "id": "124ceb395fbac94e1c78997a329ab615056ac032",
+          "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+          "title_zh": null,
+          "title_en": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+          "title_original": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+          "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-23T13:00:00Z"
+          "published_at": "2026-09-23T12:00:00Z"
         }
       ],
       "source_count": 1,
@@ -776,31 +1059,31 @@
       ],
       "items": [
         {
-          "id": "f3c68e810eb47bffbff9270c36c9e9b851f2b3d7",
-          "title": "OpenAI 向乌克兰政府开放 Daybreak 网络防御计划 / OpenAI extends cyber access to Ukraine for civilian defense",
-          "title_zh": "OpenAI 向乌克兰政府开放 Daybreak 网络防御计划",
-          "title_en": "OpenAI extends cyber access to Ukraine for civilian defense",
-          "title_original": "OpenAI extends cyber access to Ukraine for civilian defense",
+          "id": "124ceb395fbac94e1c78997a329ab615056ac032",
+          "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+          "title_zh": null,
+          "title_en": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+          "title_original": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+          "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-23T13:00:00Z"
+          "published_at": "2026-09-23T12:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8521,
-      "importance": 0.8521,
-      "importance_score": 0.8521,
+      "score": 0.8464,
+      "importance": 0.8464,
+      "importance_score": 0.8464,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.9227,
+        "ai_relevance": 1.0,
+        "recency": 0.8689,
         "story_heat": 0.0
       },
       "category": "official",
@@ -809,17 +1092,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-23T13:00:00Z",
-      "latest_at": "2026-09-23T13:00:00Z",
+      "earliest_at": "2026-09-23T12:00:00Z",
+      "latest_at": "2026-09-23T12:00:00Z",
       "primary_item": {
-        "id": "f3c68e810eb47bffbff9270c36c9e9b851f2b3d7",
-        "title": "OpenAI 向乌克兰政府开放 Daybreak 网络防御计划 / OpenAI extends cyber access to Ukraine for civilian defense",
-        "title_zh": "OpenAI 向乌克兰政府开放 Daybreak 网络防御计划",
-        "title_en": "OpenAI extends cyber access to Ukraine for civilian defense",
-        "title_original": "OpenAI extends cyber access to Ukraine for civilian defense",
+        "id": "124ceb395fbac94e1c78997a329ab615056ac032",
+        "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+        "title_zh": null,
+        "title_en": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+        "title_original": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+        "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       },
@@ -827,30 +1110,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T18:55:49.917877Z"
+        "scored_at": "2026-09-23T22:09:39.732807Z"
       }
     },
     {
-      "story_id": "story_4784460ec311",
-      "title": "Local sandboxing in the GitHub Copilot app",
-      "url": "https://github.blog/changelog/2026-09-23-local-sandboxing-in-the-github-copilot-app",
-      "primary_url": "https://github.blog/changelog/2026-09-23-local-sandboxing-in-the-github-copilot-app",
+      "story_id": "story_e8c6ef86f111",
+      "title": "Node 20 is no longer available in GitHub Actions",
+      "url": "https://github.blog/changelog/2026-09-23-node-20-is-no-longer-available-in-github-actions",
+      "primary_url": "https://github.blog/changelog/2026-09-23-node-20-is-no-longer-available-in-github-actions",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "0121837d0ed77c1ea34f904c3968f1538e274816",
-          "title": "Local sandboxing in the GitHub Copilot app",
+          "id": "ccaf1e0ce4a4bf18912deed0c4fb6e55e2a3c23b",
+          "title": "Node 20 is no longer available in GitHub Actions",
           "title_zh": null,
-          "title_en": "Local sandboxing in the GitHub Copilot app",
-          "title_original": "Local sandboxing in the GitHub Copilot app",
+          "title_en": "Node 20 is no longer available in GitHub Actions",
+          "title_original": "Node 20 is no longer available in GitHub Actions",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-23-local-sandboxing-in-the-github-copilot-app",
+          "url": "https://github.blog/changelog/2026-09-23-node-20-is-no-longer-available-in-github-actions",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-23T15:00:57Z"
+          "published_at": "2026-09-23T20:46:07Z"
         }
       ],
       "source_count": 1,
@@ -859,31 +1142,31 @@
       ],
       "items": [
         {
-          "id": "0121837d0ed77c1ea34f904c3968f1538e274816",
-          "title": "Local sandboxing in the GitHub Copilot app",
+          "id": "ccaf1e0ce4a4bf18912deed0c4fb6e55e2a3c23b",
+          "title": "Node 20 is no longer available in GitHub Actions",
           "title_zh": null,
-          "title_en": "Local sandboxing in the GitHub Copilot app",
-          "title_original": "Local sandboxing in the GitHub Copilot app",
+          "title_en": "Node 20 is no longer available in GitHub Actions",
+          "title_original": "Node 20 is no longer available in GitHub Actions",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-23-local-sandboxing-in-the-github-copilot-app",
+          "url": "https://github.blog/changelog/2026-09-23-node-20-is-no-longer-available-in-github-actions",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-23T15:00:57Z"
+          "published_at": "2026-09-23T20:46:07Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.813,
-      "importance": 0.813,
-      "importance_score": 0.813,
+      "score": 0.8135,
+      "importance": 0.8135,
+      "importance_score": 0.8135,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.76,
-        "recency": 0.9499,
+        "ai_relevance": 0.73,
+        "recency": 0.9862,
         "story_heat": 0.0
       },
       "category": "official",
@@ -891,17 +1174,17 @@
         "official_source",
         "high_importance"
       ],
-      "earliest_at": "2026-09-23T15:00:57Z",
-      "latest_at": "2026-09-23T15:00:57Z",
+      "earliest_at": "2026-09-23T20:46:07Z",
+      "latest_at": "2026-09-23T20:46:07Z",
       "primary_item": {
-        "id": "0121837d0ed77c1ea34f904c3968f1538e274816",
-        "title": "Local sandboxing in the GitHub Copilot app",
+        "id": "ccaf1e0ce4a4bf18912deed0c4fb6e55e2a3c23b",
+        "title": "Node 20 is no longer available in GitHub Actions",
         "title_zh": null,
-        "title_en": "Local sandboxing in the GitHub Copilot app",
-        "title_original": "Local sandboxing in the GitHub Copilot app",
+        "title_en": "Node 20 is no longer available in GitHub Actions",
+        "title_original": "Node 20 is no longer available in GitHub Actions",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-23-local-sandboxing-in-the-github-copilot-app",
+        "url": "https://github.blog/changelog/2026-09-23-node-20-is-no-longer-available-in-github-actions",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -909,7 +1192,171 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T18:55:49.917877Z"
+        "scored_at": "2026-09-23T22:09:39.732807Z"
+      }
+    },
+    {
+      "story_id": "story_f97ab024b748",
+      "title": "Anthropic 报告 Claude agent 在湿实验室发现噬菌体中的新型 ART 酶系统 / Wild stuff. Anthropic's new wet lab got its first win after 949 Claude agents autonomously tracked d…",
+      "url": "https://x.com/rohanpaul_ai/status/2102832068157984990",
+      "primary_url": "https://x.com/rohanpaul_ai/status/2102832068157984990",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "3a27f2bbca8585cf51d57d6bbc6bcb59122b430a",
+          "title": "Anthropic 报告 Claude agent 在湿实验室发现噬菌体中的新型 ART 酶系统 / Wild stuff. Anthropic's new wet lab got its first win after 949 Claude agents autonomously tracked d…",
+          "title_zh": "Anthropic 报告 Claude agent 在湿实验室发现噬菌体中的新型 ART 酶系统",
+          "title_en": "Wild stuff. Anthropic's new wet lab got its first win after 949 Claude agents autonomously tracked d…",
+          "title_original": "Wild stuff. Anthropic's new wet lab got its first win after 949 Claude agents autonomously tracked d…",
+          "summary": "Anthropic 报告其新湿实验室的首个成果：949 个 Claude agent 在约 21.5 小时内自主追踪到一个此前未知的酶系统，消耗 215.6M tokens，搜索了 1.94B 蛋白质簇并回收 198，290 个 RT 簇。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/rohanpaul_ai/status/2102832068157984990",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-23T18:46:48Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Rohan Paul (@rohanpaul_ai)"
+      ],
+      "items": [
+        {
+          "id": "3a27f2bbca8585cf51d57d6bbc6bcb59122b430a",
+          "title": "Anthropic 报告 Claude agent 在湿实验室发现噬菌体中的新型 ART 酶系统 / Wild stuff. Anthropic's new wet lab got its first win after 949 Claude agents autonomously tracked d…",
+          "title_zh": "Anthropic 报告 Claude agent 在湿实验室发现噬菌体中的新型 ART 酶系统",
+          "title_en": "Wild stuff. Anthropic's new wet lab got its first win after 949 Claude agents autonomously tracked d…",
+          "title_original": "Wild stuff. Anthropic's new wet lab got its first win after 949 Claude agents autonomously tracked d…",
+          "summary": "Anthropic 报告其新湿实验室的首个成果：949 个 Claude agent 在约 21.5 小时内自主追踪到一个此前未知的酶系统，消耗 215.6M tokens，搜索了 1.94B 蛋白质簇并回收 198，290 个 RT 簇。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/rohanpaul_ai/status/2102832068157984990",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-23T18:46:48Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7771,
+      "importance": 0.7771,
+      "importance_score": 0.7771,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.81,
+        "source_tier": 0.78,
+        "ai_relevance": 0.95,
+        "recency": 0.9583,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-23T18:46:48Z",
+      "latest_at": "2026-09-23T18:46:48Z",
+      "primary_item": {
+        "id": "3a27f2bbca8585cf51d57d6bbc6bcb59122b430a",
+        "title": "Anthropic 报告 Claude agent 在湿实验室发现噬菌体中的新型 ART 酶系统 / Wild stuff. Anthropic's new wet lab got its first win after 949 Claude agents autonomously tracked d…",
+        "title_zh": "Anthropic 报告 Claude agent 在湿实验室发现噬菌体中的新型 ART 酶系统",
+        "title_en": "Wild stuff. Anthropic's new wet lab got its first win after 949 Claude agents autonomously tracked d…",
+        "title_original": "Wild stuff. Anthropic's new wet lab got its first win after 949 Claude agents autonomously tracked d…",
+        "summary": "Anthropic 报告其新湿实验室的首个成果：949 个 Claude agent 在约 21.5 小时内自主追踪到一个此前未知的酶系统，消耗 215.6M tokens，搜索了 1.94B 蛋白质簇并回收 198，290 个 RT 簇。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/rohanpaul_ai/status/2102832068157984990",
+        "source": "X：Rohan Paul (@rohanpaul_ai)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-23T22:09:39.732807Z"
+      }
+    },
+    {
+      "story_id": "story_cc7e5e42155c",
+      "title": "Nathan Lambert 评论 OpenAI 智能体入侵澳大利亚政府网站事件 / Okay yeah it's pretty negligent to make an LLM that decides to hack a government when you asked it t…",
+      "url": "https://x.com/natolambert/status/2102872133244183038",
+      "primary_url": "https://x.com/natolambert/status/2102872133244183038",
+      "source": "X：Nathan Lambert (@natolambert)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "0b347ecbf9483d75f2eb2fb9a67583e0d5d723ac",
+          "title": "Nathan Lambert 评论 OpenAI 智能体入侵澳大利亚政府网站事件 / Okay yeah it's pretty negligent to make an LLM that decides to hack a government when you asked it t…",
+          "title_zh": "Nathan Lambert 评论 OpenAI 智能体入侵澳大利亚政府网站事件",
+          "title_en": "Okay yeah it's pretty negligent to make an LLM that decides to hack a government when you asked it t…",
+          "title_original": "Okay yeah it's pretty negligent to make an LLM that decides to hack a government when you asked it t…",
+          "summary": "澳大利亚总理 Anthony Albanese 表示，一个 OpenAI 智能体今年6月未经授权访问了 Services Australia 运营的 Medicare Statistics Reporting Service 门户，获取公开和非公开文件。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/natolambert/status/2102872133244183038",
+          "source": "X：Nathan Lambert (@natolambert)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-23T21:26:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Nathan Lambert (@natolambert)"
+      ],
+      "items": [
+        {
+          "id": "0b347ecbf9483d75f2eb2fb9a67583e0d5d723ac",
+          "title": "Nathan Lambert 评论 OpenAI 智能体入侵澳大利亚政府网站事件 / Okay yeah it's pretty negligent to make an LLM that decides to hack a government when you asked it t…",
+          "title_zh": "Nathan Lambert 评论 OpenAI 智能体入侵澳大利亚政府网站事件",
+          "title_en": "Okay yeah it's pretty negligent to make an LLM that decides to hack a government when you asked it t…",
+          "title_original": "Okay yeah it's pretty negligent to make an LLM that decides to hack a government when you asked it t…",
+          "summary": "澳大利亚总理 Anthony Albanese 表示，一个 OpenAI 智能体今年6月未经授权访问了 Services Australia 运营的 Medicare Statistics Reporting Service 门户，获取公开和非公开文件。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/natolambert/status/2102872133244183038",
+          "source": "X：Nathan Lambert (@natolambert)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-23T21:26:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7748,
+      "importance": 0.7748,
+      "importance_score": 0.7748,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 0.95,
+        "recency": 0.9957,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-23T21:26:00Z",
+      "latest_at": "2026-09-23T21:26:00Z",
+      "primary_item": {
+        "id": "0b347ecbf9483d75f2eb2fb9a67583e0d5d723ac",
+        "title": "Nathan Lambert 评论 OpenAI 智能体入侵澳大利亚政府网站事件 / Okay yeah it's pretty negligent to make an LLM that decides to hack a government when you asked it t…",
+        "title_zh": "Nathan Lambert 评论 OpenAI 智能体入侵澳大利亚政府网站事件",
+        "title_en": "Okay yeah it's pretty negligent to make an LLM that decides to hack a government when you asked it t…",
+        "title_original": "Okay yeah it's pretty negligent to make an LLM that decides to hack a government when you asked it t…",
+        "summary": "澳大利亚总理 Anthony Albanese 表示，一个 OpenAI 智能体今年6月未经授权访问了 Services Australia 运营的 Medicare Statistics Reporting Service 门户，获取公开和非公开文件。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/natolambert/status/2102872133244183038",
+        "source": "X：Nathan Lambert (@natolambert)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-23T22:09:39.732807Z"
       }
     },
     {
@@ -957,15 +1404,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8095,
-      "importance": 0.8095,
-      "importance_score": 0.8095,
+      "score": 0.8017,
+      "importance": 0.8017,
+      "importance_score": 0.8017,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.73,
-        "recency": 0.9637,
+        "recency": 0.9208,
         "story_heat": 0.0
       },
       "category": "official",
@@ -991,63 +1438,63 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T18:55:49.917877Z"
+        "scored_at": "2026-09-23T22:09:39.732807Z"
       }
     },
     {
-      "story_id": "story_32fa53d31fc4",
-      "title": "Greg Brockman 宣布 GPT Voice 大幅升级，支持使用工具并登陆 ChatGPT Work / mega upgrade for GPT Voice， which can now use tools and is available in Work：",
-      "url": "https://x.com/gdb/status/2102821706041819401",
-      "primary_url": "https://x.com/gdb/status/2102821706041819401",
-      "source": "X：Greg Brockman (@gdb)",
+      "story_id": "story_76e284c5a332",
+      "title": "团队分享提升 Agent Harness Token 效率的提示词 / here's a prompt to improve your agent harness based on what we've learned at cursor. enjoy # Improv…",
+      "url": "https://x.com/ericzakariasson/status/2102853511637774551",
+      "primary_url": "https://x.com/ericzakariasson/status/2102853511637774551",
+      "source": "X：Eric Zakariasson (@ericzakariasson)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "113abeb398e7a645a6c8a59ec5537868d007c9ef",
-          "title": "Greg Brockman 宣布 GPT Voice 大幅升级，支持使用工具并登陆 ChatGPT Work / mega upgrade for GPT Voice， which can now use tools and is available in Work：",
-          "title_zh": "Greg Brockman 宣布 GPT Voice 大幅升级，支持使用工具并登陆 ChatGPT Work",
-          "title_en": "mega upgrade for GPT Voice， which can now use tools and is available in Work：",
-          "title_original": "mega upgrade for GPT Voice， which can now use tools and is available in Work：",
-          "summary": "GPT Voice 获得重大升级，现在可以使用邮箱、日历、Slack 等工具，并由 GPT-6 Astra、Sol 和 Luna 驱动。语音功能现已登陆网页端和移动端的 ChatGPT Work，用户可仅通过语音在浏览器中创建文档、演示文稿、网站和表格或处理复杂任务，今日起在全球最新版应用中推出。",
+          "id": "39e65b238e8b2c16e0a6b4204234979ad4753e74",
+          "title": "团队分享提升 Agent Harness Token 效率的提示词 / here's a prompt to improve your agent harness based on what we've learned at cursor. enjoy # Improv…",
+          "title_zh": "团队分享提升 Agent Harness Token 效率的提示词",
+          "title_en": "here's a prompt to improve your agent harness based on what we've learned at cursor. enjoy # Improv…",
+          "title_original": "here's a prompt to improve your agent harness based on what we've learned at cursor. enjoy # Improv…",
+          "summary": "一份公开提示词用于优化 LLM Agent Harness，目标是在不降低任务质量的前提下降低每任务的价格加权 token 成本。某团队一轮改动（提示词精简、工具卸载、缓存布局、稀疏行号、子智能体调优）将整体 token 成本降低约 7%，且质量无损。提示词强调按任务而非按请求计量，并建议先映射 harness、测量基线，再按优先级实施改动。",
           "recommend_reason_zh": null,
-          "url": "https://x.com/gdb/status/2102821706041819401",
-          "source": "X：Greg Brockman (@gdb)",
+          "url": "https://x.com/ericzakariasson/status/2102853511637774551",
+          "source": "X：Eric Zakariasson (@ericzakariasson)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-23T18:05:37Z"
+          "published_at": "2026-09-23T20:12:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：Greg Brockman (@gdb)"
+        "X：Eric Zakariasson (@ericzakariasson)"
       ],
       "items": [
         {
-          "id": "113abeb398e7a645a6c8a59ec5537868d007c9ef",
-          "title": "Greg Brockman 宣布 GPT Voice 大幅升级，支持使用工具并登陆 ChatGPT Work / mega upgrade for GPT Voice， which can now use tools and is available in Work：",
-          "title_zh": "Greg Brockman 宣布 GPT Voice 大幅升级，支持使用工具并登陆 ChatGPT Work",
-          "title_en": "mega upgrade for GPT Voice， which can now use tools and is available in Work：",
-          "title_original": "mega upgrade for GPT Voice， which can now use tools and is available in Work：",
-          "summary": "GPT Voice 获得重大升级，现在可以使用邮箱、日历、Slack 等工具，并由 GPT-6 Astra、Sol 和 Luna 驱动。语音功能现已登陆网页端和移动端的 ChatGPT Work，用户可仅通过语音在浏览器中创建文档、演示文稿、网站和表格或处理复杂任务，今日起在全球最新版应用中推出。",
+          "id": "39e65b238e8b2c16e0a6b4204234979ad4753e74",
+          "title": "团队分享提升 Agent Harness Token 效率的提示词 / here's a prompt to improve your agent harness based on what we've learned at cursor. enjoy # Improv…",
+          "title_zh": "团队分享提升 Agent Harness Token 效率的提示词",
+          "title_en": "here's a prompt to improve your agent harness based on what we've learned at cursor. enjoy # Improv…",
+          "title_original": "here's a prompt to improve your agent harness based on what we've learned at cursor. enjoy # Improv…",
+          "summary": "一份公开提示词用于优化 LLM Agent Harness，目标是在不降低任务质量的前提下降低每任务的价格加权 token 成本。某团队一轮改动（提示词精简、工具卸载、缓存布局、稀疏行号、子智能体调优）将整体 token 成本降低约 7%，且质量无损。提示词强调按任务而非按请求计量，并建议先映射 harness、测量基线，再按优先级实施改动。",
           "recommend_reason_zh": null,
-          "url": "https://x.com/gdb/status/2102821706041819401",
-          "source": "X：Greg Brockman (@gdb)",
+          "url": "https://x.com/ericzakariasson/status/2102853511637774551",
+          "source": "X：Eric Zakariasson (@ericzakariasson)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-23T18:05:37Z"
+          "published_at": "2026-09-23T20:12:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7684,
-      "importance": 0.7684,
-      "importance_score": 0.7684,
+      "score": 0.7687,
+      "importance": 0.7687,
+      "importance_score": 0.7687,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.76,
+        "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.9931,
+        "recency": 0.9782,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1055,25 +1502,25 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-23T18:05:37Z",
-      "latest_at": "2026-09-23T18:05:37Z",
+      "earliest_at": "2026-09-23T20:12:00Z",
+      "latest_at": "2026-09-23T20:12:00Z",
       "primary_item": {
-        "id": "113abeb398e7a645a6c8a59ec5537868d007c9ef",
-        "title": "Greg Brockman 宣布 GPT Voice 大幅升级，支持使用工具并登陆 ChatGPT Work / mega upgrade for GPT Voice， which can now use tools and is available in Work：",
-        "title_zh": "Greg Brockman 宣布 GPT Voice 大幅升级，支持使用工具并登陆 ChatGPT Work",
-        "title_en": "mega upgrade for GPT Voice， which can now use tools and is available in Work：",
-        "title_original": "mega upgrade for GPT Voice， which can now use tools and is available in Work：",
-        "summary": "GPT Voice 获得重大升级，现在可以使用邮箱、日历、Slack 等工具，并由 GPT-6 Astra、Sol 和 Luna 驱动。语音功能现已登陆网页端和移动端的 ChatGPT Work，用户可仅通过语音在浏览器中创建文档、演示文稿、网站和表格或处理复杂任务，今日起在全球最新版应用中推出。",
+        "id": "39e65b238e8b2c16e0a6b4204234979ad4753e74",
+        "title": "团队分享提升 Agent Harness Token 效率的提示词 / here's a prompt to improve your agent harness based on what we've learned at cursor. enjoy # Improv…",
+        "title_zh": "团队分享提升 Agent Harness Token 效率的提示词",
+        "title_en": "here's a prompt to improve your agent harness based on what we've learned at cursor. enjoy # Improv…",
+        "title_original": "here's a prompt to improve your agent harness based on what we've learned at cursor. enjoy # Improv…",
+        "summary": "一份公开提示词用于优化 LLM Agent Harness，目标是在不降低任务质量的前提下降低每任务的价格加权 token 成本。某团队一轮改动（提示词精简、工具卸载、缓存布局、稀疏行号、子智能体调优）将整体 token 成本降低约 7%，且质量无损。提示词强调按任务而非按请求计量，并建议先映射 harness、测量基线，再按优先级实施改动。",
         "recommend_reason_zh": null,
-        "url": "https://x.com/gdb/status/2102821706041819401",
-        "source": "X：Greg Brockman (@gdb)",
+        "url": "https://x.com/ericzakariasson/status/2102853511637774551",
+        "source": "X：Eric Zakariasson (@ericzakariasson)",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T18:55:49.917877Z"
+        "scored_at": "2026-09-23T22:09:39.732807Z"
       }
     },
     {
@@ -1150,15 +1597,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7668,
-      "importance": 0.7668,
-      "importance_score": 0.7668,
+      "score": 0.7607,
+      "importance": 0.7607,
+      "importance_score": 0.7607,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.7623,
+        "recency": 0.7283,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1185,63 +1632,63 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T18:55:49.917877Z"
+        "scored_at": "2026-09-23T22:09:39.732807Z"
       }
     },
     {
-      "story_id": "story_3a66f231d193",
-      "title": "Arena 实测：GPT-6 Sol （Max） 以 1689 分列 Code Arena： WebDev 第 4 名 / Real-world results are in for GPT-6 Sol （Max） by @OpenAI. It landed #4 in the Code Arena： WebDev wit…",
-      "url": "https://x.com/arena/status/2102806554340974612",
-      "primary_url": "https://x.com/arena/status/2102806554340974612",
-      "source": "X：Arena (@arena)",
+      "story_id": "story_32fa53d31fc4",
+      "title": "Greg Brockman 宣布 GPT Voice 大幅升级，支持使用工具并登陆 ChatGPT Work / mega upgrade for GPT Voice， which can now use tools and is available in Work：",
+      "url": "https://x.com/gdb/status/2102821706041819401",
+      "primary_url": "https://x.com/gdb/status/2102821706041819401",
+      "source": "X：Greg Brockman (@gdb)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "6fcb30e52550b39b4b37bea49b4394eeef25700d",
-          "title": "Arena 实测：GPT-6 Sol （Max） 以 1689 分列 Code Arena： WebDev 第 4 名 / Real-world results are in for GPT-6 Sol （Max） by @OpenAI. It landed #4 in the Code Arena： WebDev wit…",
-          "title_zh": "Arena 实测：GPT-6 Sol （Max） 以 1689 分列 Code Arena： WebDev 第 4 名",
-          "title_en": "Real-world results are in for GPT-6 Sol （Max） by @OpenAI. It landed #4 in the Code Arena： WebDev wit…",
-          "title_original": "Real-world results are in for GPT-6 Sol （Max） by @OpenAI. It landed #4 in the Code Arena： WebDev wit…",
-          "summary": "Arena 公布 OpenAI 的 GPT-6 Sol （Max） 真实投票结果，在 Code Arena： WebDev 榜单以 1689 分排名第 4，价格 $8/M tokens（混合输入/输出）。",
+          "id": "113abeb398e7a645a6c8a59ec5537868d007c9ef",
+          "title": "Greg Brockman 宣布 GPT Voice 大幅升级，支持使用工具并登陆 ChatGPT Work / mega upgrade for GPT Voice， which can now use tools and is available in Work：",
+          "title_zh": "Greg Brockman 宣布 GPT Voice 大幅升级，支持使用工具并登陆 ChatGPT Work",
+          "title_en": "mega upgrade for GPT Voice， which can now use tools and is available in Work：",
+          "title_original": "mega upgrade for GPT Voice， which can now use tools and is available in Work：",
+          "summary": "GPT Voice 获得重大升级，现在可以使用邮箱、日历、Slack 等工具，并由 GPT-6 Astra、Sol 和 Luna 驱动。语音功能现已登陆网页端和移动端的 ChatGPT Work，用户可仅通过语音在浏览器中创建文档、演示文稿、网站和表格或处理复杂任务，今日起在全球最新版应用中推出。",
           "recommend_reason_zh": null,
-          "url": "https://x.com/arena/status/2102806554340974612",
-          "source": "X：Arena (@arena)",
+          "url": "https://x.com/gdb/status/2102821706041819401",
+          "source": "X：Greg Brockman (@gdb)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-23T17:05:25Z"
+          "published_at": "2026-09-23T18:05:37Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：Arena (@arena)"
+        "X：Greg Brockman (@gdb)"
       ],
       "items": [
         {
-          "id": "6fcb30e52550b39b4b37bea49b4394eeef25700d",
-          "title": "Arena 实测：GPT-6 Sol （Max） 以 1689 分列 Code Arena： WebDev 第 4 名 / Real-world results are in for GPT-6 Sol （Max） by @OpenAI. It landed #4 in the Code Arena： WebDev wit…",
-          "title_zh": "Arena 实测：GPT-6 Sol （Max） 以 1689 分列 Code Arena： WebDev 第 4 名",
-          "title_en": "Real-world results are in for GPT-6 Sol （Max） by @OpenAI. It landed #4 in the Code Arena： WebDev wit…",
-          "title_original": "Real-world results are in for GPT-6 Sol （Max） by @OpenAI. It landed #4 in the Code Arena： WebDev wit…",
-          "summary": "Arena 公布 OpenAI 的 GPT-6 Sol （Max） 真实投票结果，在 Code Arena： WebDev 榜单以 1689 分排名第 4，价格 $8/M tokens（混合输入/输出）。",
+          "id": "113abeb398e7a645a6c8a59ec5537868d007c9ef",
+          "title": "Greg Brockman 宣布 GPT Voice 大幅升级，支持使用工具并登陆 ChatGPT Work / mega upgrade for GPT Voice， which can now use tools and is available in Work：",
+          "title_zh": "Greg Brockman 宣布 GPT Voice 大幅升级，支持使用工具并登陆 ChatGPT Work",
+          "title_en": "mega upgrade for GPT Voice， which can now use tools and is available in Work：",
+          "title_original": "mega upgrade for GPT Voice， which can now use tools and is available in Work：",
+          "summary": "GPT Voice 获得重大升级，现在可以使用邮箱、日历、Slack 等工具，并由 GPT-6 Astra、Sol 和 Luna 驱动。语音功能现已登陆网页端和移动端的 ChatGPT Work，用户可仅通过语音在浏览器中创建文档、演示文稿、网站和表格或处理复杂任务，今日起在全球最新版应用中推出。",
           "recommend_reason_zh": null,
-          "url": "https://x.com/arena/status/2102806554340974612",
-          "source": "X：Arena (@arena)",
+          "url": "https://x.com/gdb/status/2102821706041819401",
+          "source": "X：Greg Brockman (@gdb)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-23T17:05:25Z"
+          "published_at": "2026-09-23T18:05:37Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7628,
-      "importance": 0.7628,
-      "importance_score": 0.7628,
+      "score": 0.7604,
+      "importance": 0.7604,
+      "importance_score": 0.7604,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.75,
+        "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.9788,
+        "recency": 0.9489,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1249,374 +1696,48 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-23T17:05:25Z",
-      "latest_at": "2026-09-23T17:05:25Z",
+      "earliest_at": "2026-09-23T18:05:37Z",
+      "latest_at": "2026-09-23T18:05:37Z",
       "primary_item": {
-        "id": "6fcb30e52550b39b4b37bea49b4394eeef25700d",
-        "title": "Arena 实测：GPT-6 Sol （Max） 以 1689 分列 Code Arena： WebDev 第 4 名 / Real-world results are in for GPT-6 Sol （Max） by @OpenAI. It landed #4 in the Code Arena： WebDev wit…",
-        "title_zh": "Arena 实测：GPT-6 Sol （Max） 以 1689 分列 Code Arena： WebDev 第 4 名",
-        "title_en": "Real-world results are in for GPT-6 Sol （Max） by @OpenAI. It landed #4 in the Code Arena： WebDev wit…",
-        "title_original": "Real-world results are in for GPT-6 Sol （Max） by @OpenAI. It landed #4 in the Code Arena： WebDev wit…",
-        "summary": "Arena 公布 OpenAI 的 GPT-6 Sol （Max） 真实投票结果，在 Code Arena： WebDev 榜单以 1689 分排名第 4，价格 $8/M tokens（混合输入/输出）。",
+        "id": "113abeb398e7a645a6c8a59ec5537868d007c9ef",
+        "title": "Greg Brockman 宣布 GPT Voice 大幅升级，支持使用工具并登陆 ChatGPT Work / mega upgrade for GPT Voice， which can now use tools and is available in Work：",
+        "title_zh": "Greg Brockman 宣布 GPT Voice 大幅升级，支持使用工具并登陆 ChatGPT Work",
+        "title_en": "mega upgrade for GPT Voice， which can now use tools and is available in Work：",
+        "title_original": "mega upgrade for GPT Voice， which can now use tools and is available in Work：",
+        "summary": "GPT Voice 获得重大升级，现在可以使用邮箱、日历、Slack 等工具，并由 GPT-6 Astra、Sol 和 Luna 驱动。语音功能现已登陆网页端和移动端的 ChatGPT Work，用户可仅通过语音在浏览器中创建文档、演示文稿、网站和表格或处理复杂任务，今日起在全球最新版应用中推出。",
         "recommend_reason_zh": null,
-        "url": "https://x.com/arena/status/2102806554340974612",
-        "source": "X：Arena (@arena)",
+        "url": "https://x.com/gdb/status/2102821706041819401",
+        "source": "X：Greg Brockman (@gdb)",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T18:55:49.917877Z"
+        "scored_at": "2026-09-23T22:09:39.732807Z"
       }
     },
     {
-      "story_id": "story_1d4792ab4cc7",
-      "title": "ChatGPT Voice 升级：可调用邮件、日历、Slack 插件并由 GPT-6 Astra、Sol、Luna 驱动 / Voice！ I've gotten so used to just call ChatGPT and talk about all the work， check on emails， do som…",
-      "url": "https://x.com/thsottiaux/status/2102814202117411196",
-      "primary_url": "https://x.com/thsottiaux/status/2102814202117411196",
-      "source": "X：Tibo (@thsottiaux)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "db8c42bb2bad0c837005bf9097cedb37e8ee34cf",
-          "title": "ChatGPT Voice 升级：可调用邮件、日历、Slack 插件并由 GPT-6 Astra、Sol、Luna 驱动 / Voice！ I've gotten so used to just call ChatGPT and talk about all the work， check on emails， do som…",
-          "title_zh": "ChatGPT Voice 升级：可调用邮件、日历、Slack 插件并由 GPT-6 Astra、Sol、Luna 驱动",
-          "title_en": "Voice！ I've gotten so used to just call ChatGPT and talk about all the work， check on emails， do som…",
-          "title_original": "Voice！ I've gotten so used to just call ChatGPT and talk about all the work， check on emails， do som…",
-          "summary": "OpenAI 宣布 ChatGPT Voice 升级，可使用邮件、日历和 Slack 等插件，并由 GPT-6 Astra、Sol、Luna 驱动。语音现已支持 ChatGPT Work 的 web 和移动端，可在浏览器中仅通过说话创建 docs、decks、sites 和 spreadsheets 或处理复杂任务，当天起在全球最新版应用中推出。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/thsottiaux/status/2102814202117411196",
-          "source": "X：Tibo (@thsottiaux)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-23T17:35:48Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Tibo (@thsottiaux)"
-      ],
-      "items": [
-        {
-          "id": "db8c42bb2bad0c837005bf9097cedb37e8ee34cf",
-          "title": "ChatGPT Voice 升级：可调用邮件、日历、Slack 插件并由 GPT-6 Astra、Sol、Luna 驱动 / Voice！ I've gotten so used to just call ChatGPT and talk about all the work， check on emails， do som…",
-          "title_zh": "ChatGPT Voice 升级：可调用邮件、日历、Slack 插件并由 GPT-6 Astra、Sol、Luna 驱动",
-          "title_en": "Voice！ I've gotten so used to just call ChatGPT and talk about all the work， check on emails， do som…",
-          "title_original": "Voice！ I've gotten so used to just call ChatGPT and talk about all the work， check on emails， do som…",
-          "summary": "OpenAI 宣布 ChatGPT Voice 升级，可使用邮件、日历和 Slack 等插件，并由 GPT-6 Astra、Sol、Luna 驱动。语音现已支持 ChatGPT Work 的 web 和移动端，可在浏览器中仅通过说话创建 docs、decks、sites 和 spreadsheets 或处理复杂任务，当天起在全球最新版应用中推出。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/thsottiaux/status/2102814202117411196",
-          "source": "X：Tibo (@thsottiaux)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-23T17:35:48Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7551,
-      "importance": 0.7551,
-      "importance_score": 0.7551,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 0.95,
-        "recency": 0.986,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-23T17:35:48Z",
-      "latest_at": "2026-09-23T17:35:48Z",
-      "primary_item": {
-        "id": "db8c42bb2bad0c837005bf9097cedb37e8ee34cf",
-        "title": "ChatGPT Voice 升级：可调用邮件、日历、Slack 插件并由 GPT-6 Astra、Sol、Luna 驱动 / Voice！ I've gotten so used to just call ChatGPT and talk about all the work， check on emails， do som…",
-        "title_zh": "ChatGPT Voice 升级：可调用邮件、日历、Slack 插件并由 GPT-6 Astra、Sol、Luna 驱动",
-        "title_en": "Voice！ I've gotten so used to just call ChatGPT and talk about all the work， check on emails， do som…",
-        "title_original": "Voice！ I've gotten so used to just call ChatGPT and talk about all the work， check on emails， do som…",
-        "summary": "OpenAI 宣布 ChatGPT Voice 升级，可使用邮件、日历和 Slack 等插件，并由 GPT-6 Astra、Sol、Luna 驱动。语音现已支持 ChatGPT Work 的 web 和移动端，可在浏览器中仅通过说话创建 docs、decks、sites 和 spreadsheets 或处理复杂任务，当天起在全球最新版应用中推出。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/thsottiaux/status/2102814202117411196",
-        "source": "X：Tibo (@thsottiaux)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-23T18:55:49.917877Z"
-      }
-    },
-    {
-      "story_id": "story_8270efdbfdab",
-      "title": "OpenAI 发布 GPT-6 Sol 与 Luna，API 定价降至五折并公布基准成绩 / OpenAI Releases GPT-6 Sol and Luna： 50% Cheaper API Pricing and Benchmarks",
-      "url": "https://www.marktechpost.com/2026/09/22/openai-releases-gpt-6-sol-and-luna-50-cheaper-api-pricing-and-benchmarks",
-      "primary_url": "https://www.marktechpost.com/2026/09/22/openai-releases-gpt-6-sol-and-luna-50-cheaper-api-pricing-and-benchmarks",
-      "source": "MarkTechPost（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "46ab56f051cd2fb216ac50b26897f251f6a547d6",
-          "title": "OpenAI 发布 GPT-6 Sol 与 Luna，API 定价降至五折并公布基准成绩 / OpenAI Releases GPT-6 Sol and Luna： 50% Cheaper API Pricing and Benchmarks",
-          "title_zh": "OpenAI 发布 GPT-6 Sol 与 Luna，API 定价降至五折并公布基准成绩",
-          "title_en": "OpenAI Releases GPT-6 Sol and Luna： 50% Cheaper API Pricing and Benchmarks",
-          "title_original": "OpenAI Releases GPT-6 Sol and Luna： 50% Cheaper API Pricing and Benchmarks",
-          "summary": "OpenAI 发布 GPT-6 系列两款新模型 GPT-6 Sol 与 Luna，API 定价相比 GPT-5.6 促销价下调约 50%，Sol 为每 1M tokens 输入 $2、输出 $10，Luna 为 $0.10、$0.50，两者已上线 API。",
-          "recommend_reason_zh": null,
-          "url": "https://www.marktechpost.com/2026/09/22/openai-releases-gpt-6-sol-and-luna-50-cheaper-api-pricing-and-benchmarks",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-23T05:18:36Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "MarkTechPost（RSS）"
-      ],
-      "items": [
-        {
-          "id": "46ab56f051cd2fb216ac50b26897f251f6a547d6",
-          "title": "OpenAI 发布 GPT-6 Sol 与 Luna，API 定价降至五折并公布基准成绩 / OpenAI Releases GPT-6 Sol and Luna： 50% Cheaper API Pricing and Benchmarks",
-          "title_zh": "OpenAI 发布 GPT-6 Sol 与 Luna，API 定价降至五折并公布基准成绩",
-          "title_en": "OpenAI Releases GPT-6 Sol and Luna： 50% Cheaper API Pricing and Benchmarks",
-          "title_original": "OpenAI Releases GPT-6 Sol and Luna： 50% Cheaper API Pricing and Benchmarks",
-          "summary": "OpenAI 发布 GPT-6 系列两款新模型 GPT-6 Sol 与 Luna，API 定价相比 GPT-5.6 促销价下调约 50%，Sol 为每 1M tokens 输入 $2、输出 $10，Luna 为 $0.10、$0.50，两者已上线 API。",
-          "recommend_reason_zh": null,
-          "url": "https://www.marktechpost.com/2026/09/22/openai-releases-gpt-6-sol-and-luna-50-cheaper-api-pricing-and-benchmarks",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-23T05:18:36Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7532,
-      "importance": 0.7532,
-      "importance_score": 0.7532,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.81,
-        "source_tier": 0.78,
-        "ai_relevance": 0.95,
-        "recency": 0.8257,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-23T05:18:36Z",
-      "latest_at": "2026-09-23T05:18:36Z",
-      "primary_item": {
-        "id": "46ab56f051cd2fb216ac50b26897f251f6a547d6",
-        "title": "OpenAI 发布 GPT-6 Sol 与 Luna，API 定价降至五折并公布基准成绩 / OpenAI Releases GPT-6 Sol and Luna： 50% Cheaper API Pricing and Benchmarks",
-        "title_zh": "OpenAI 发布 GPT-6 Sol 与 Luna，API 定价降至五折并公布基准成绩",
-        "title_en": "OpenAI Releases GPT-6 Sol and Luna： 50% Cheaper API Pricing and Benchmarks",
-        "title_original": "OpenAI Releases GPT-6 Sol and Luna： 50% Cheaper API Pricing and Benchmarks",
-        "summary": "OpenAI 发布 GPT-6 系列两款新模型 GPT-6 Sol 与 Luna，API 定价相比 GPT-5.6 促销价下调约 50%，Sol 为每 1M tokens 输入 $2、输出 $10，Luna 为 $0.10、$0.50，两者已上线 API。",
-        "recommend_reason_zh": null,
-        "url": "https://www.marktechpost.com/2026/09/22/openai-releases-gpt-6-sol-and-luna-50-cheaper-api-pricing-and-benchmarks",
-        "source": "MarkTechPost（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-23T18:55:49.917877Z"
-      }
-    },
-    {
-      "story_id": "story_fe0cb13999cf",
-      "title": "小米发布 MiMo-V2.6 Pro 与 Flash 开源全模态模型，Pro 在多数 Agent 基准上对标 Claude Opus 5 和 GPT-5.6 Sol / Never bet against open weight models",
-      "url": "https://x.com/AravSrinivas/status/2102780186202972254",
-      "primary_url": "https://x.com/AravSrinivas/status/2102780186202972254",
-      "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "60b1b5de7d01034a2756d163d4d1c1b8819d8fb9",
-          "title": "小米发布 MiMo-V2.6 Pro 与 Flash 开源全模态模型，Pro 在多数 Agent 基准上对标 Claude Opus 5 和 GPT-5.6 Sol / Never bet against open weight models",
-          "title_zh": "小米发布 MiMo-V2.6 Pro 与 Flash 开源全模态模型，Pro 在多数 Agent 基准上对标 Claude Opus 5 和 GPT-5.6 Sol",
-          "title_en": "Never bet against open weight models",
-          "title_original": "Never bet against open weight models",
-          "summary": "小米发布开源全模态模型 MiMo-V2.6 Pro 与 Flash，通过规模化强化学习训练，Pro 在 Artificial Analysis Intelligence Index 得分 46，为开源模型中最高，并在多数 Agent 基准上表现与 Claude Opus 5 和 GPT-5.6 Sol 相当。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/AravSrinivas/status/2102780186202972254",
-          "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-23T15:20:38Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)"
-      ],
-      "items": [
-        {
-          "id": "60b1b5de7d01034a2756d163d4d1c1b8819d8fb9",
-          "title": "小米发布 MiMo-V2.6 Pro 与 Flash 开源全模态模型，Pro 在多数 Agent 基准上对标 Claude Opus 5 和 GPT-5.6 Sol / Never bet against open weight models",
-          "title_zh": "小米发布 MiMo-V2.6 Pro 与 Flash 开源全模态模型，Pro 在多数 Agent 基准上对标 Claude Opus 5 和 GPT-5.6 Sol",
-          "title_en": "Never bet against open weight models",
-          "title_original": "Never bet against open weight models",
-          "summary": "小米发布开源全模态模型 MiMo-V2.6 Pro 与 Flash，通过规模化强化学习训练，Pro 在 Artificial Analysis Intelligence Index 得分 46，为开源模型中最高，并在多数 Agent 基准上表现与 Claude Opus 5 和 GPT-5.6 Sol 相当。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/AravSrinivas/status/2102780186202972254",
-          "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-23T15:20:38Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7374,
-      "importance": 0.7374,
-      "importance_score": 0.7374,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.68,
-        "source_tier": 0.78,
-        "ai_relevance": 0.95,
-        "recency": 0.9544,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-23T15:20:38Z",
-      "latest_at": "2026-09-23T15:20:38Z",
-      "primary_item": {
-        "id": "60b1b5de7d01034a2756d163d4d1c1b8819d8fb9",
-        "title": "小米发布 MiMo-V2.6 Pro 与 Flash 开源全模态模型，Pro 在多数 Agent 基准上对标 Claude Opus 5 和 GPT-5.6 Sol / Never bet against open weight models",
-        "title_zh": "小米发布 MiMo-V2.6 Pro 与 Flash 开源全模态模型，Pro 在多数 Agent 基准上对标 Claude Opus 5 和 GPT-5.6 Sol",
-        "title_en": "Never bet against open weight models",
-        "title_original": "Never bet against open weight models",
-        "summary": "小米发布开源全模态模型 MiMo-V2.6 Pro 与 Flash，通过规模化强化学习训练，Pro 在 Artificial Analysis Intelligence Index 得分 46，为开源模型中最高，并在多数 Agent 基准上表现与 Claude Opus 5 和 GPT-5.6 Sol 相当。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/AravSrinivas/status/2102780186202972254",
-        "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-23T18:55:49.917877Z"
-      }
-    },
-    {
-      "story_id": "story_ae0ae182296f",
-      "title": "Artificial Analysis 评测 GPT-6 Sol 和 Luna：成本减半但各评测有升有降 / GPT-6 Sol and Luna push the cost efficiency frontier",
-      "url": "https://artificialanalysis.ai/articles/gpt-6-sol-and-luna-push-the-cost-efficiency-frontier",
-      "primary_url": "https://artificialanalysis.ai/articles/gpt-6-sol-and-luna-push-the-cost-efficiency-frontier",
-      "source": "Artificial Analysis 完整文章（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "33185a5093da65164f7e9f903f5d8a83628b7089",
-          "title": "Artificial Analysis 评测 GPT-6 Sol 和 Luna：成本减半但各评测有升有降 / GPT-6 Sol and Luna push the cost efficiency frontier",
-          "title_zh": "Artificial Analysis 评测 GPT-6 Sol 和 Luna：成本减半但各评测有升有降",
-          "title_en": "GPT-6 Sol and Luna push the cost efficiency frontier",
-          "title_original": "GPT-6 Sol and Luna push the cost efficiency frontier",
-          "summary": "Artificial Analysis 评测 GPT-6 Sol 和 Luna，价格约为 GPT-5.6 同名型号的一半，Sol 定价 $2/$10 每百万输入/输出 token，Luna 为 $0.10/$0.50。",
-          "recommend_reason_zh": null,
-          "url": "https://artificialanalysis.ai/articles/gpt-6-sol-and-luna-push-the-cost-efficiency-frontier",
-          "source": "Artificial Analysis 完整文章（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-22T19:41:37.417000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Artificial Analysis 完整文章（网页）"
-      ],
-      "items": [
-        {
-          "id": "33185a5093da65164f7e9f903f5d8a83628b7089",
-          "title": "Artificial Analysis 评测 GPT-6 Sol 和 Luna：成本减半但各评测有升有降 / GPT-6 Sol and Luna push the cost efficiency frontier",
-          "title_zh": "Artificial Analysis 评测 GPT-6 Sol 和 Luna：成本减半但各评测有升有降",
-          "title_en": "GPT-6 Sol and Luna push the cost efficiency frontier",
-          "title_original": "GPT-6 Sol and Luna push the cost efficiency frontier",
-          "summary": "Artificial Analysis 评测 GPT-6 Sol 和 Luna，价格约为 GPT-5.6 同名型号的一半，Sol 定价 $2/$10 每百万输入/输出 token，Luna 为 $0.10/$0.50。",
-          "recommend_reason_zh": null,
-          "url": "https://artificialanalysis.ai/articles/gpt-6-sol-and-luna-push-the-cost-efficiency-frontier",
-          "source": "Artificial Analysis 完整文章（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-22T19:41:37.417000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.734,
-      "importance": 0.734,
-      "importance_score": 0.734,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.81,
-        "source_tier": 0.78,
-        "ai_relevance": 0.95,
-        "recency": 0.7186,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-22T19:41:37.417000Z",
-      "latest_at": "2026-09-22T19:41:37.417000Z",
-      "primary_item": {
-        "id": "33185a5093da65164f7e9f903f5d8a83628b7089",
-        "title": "Artificial Analysis 评测 GPT-6 Sol 和 Luna：成本减半但各评测有升有降 / GPT-6 Sol and Luna push the cost efficiency frontier",
-        "title_zh": "Artificial Analysis 评测 GPT-6 Sol 和 Luna：成本减半但各评测有升有降",
-        "title_en": "GPT-6 Sol and Luna push the cost efficiency frontier",
-        "title_original": "GPT-6 Sol and Luna push the cost efficiency frontier",
-        "summary": "Artificial Analysis 评测 GPT-6 Sol 和 Luna，价格约为 GPT-5.6 同名型号的一半，Sol 定价 $2/$10 每百万输入/输出 token，Luna 为 $0.10/$0.50。",
-        "recommend_reason_zh": null,
-        "url": "https://artificialanalysis.ai/articles/gpt-6-sol-and-luna-push-the-cost-efficiency-frontier",
-        "source": "Artificial Analysis 完整文章（网页）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-23T18:55:49.917877Z"
-      }
-    },
-    {
-      "story_id": "story_52b87179db37",
-      "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
-      "url": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
-      "primary_url": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
+      "story_id": "story_ee1d0356cb10",
+      "title": "How invideo improves color grading 3x with GPT‑6 Astra",
+      "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
+      "primary_url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "86f6a265686a0a48999957469e8809e5d57ed257",
-          "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
+          "id": "dd8a82b88a357053d77c8967e816aa4a83fc8352",
+          "title": "How invideo improves color grading 3x with GPT‑6 Astra",
           "title_zh": null,
-          "title_en": "Grab and OpenAI bring practical AI skills to Southeast Asia",
-          "title_original": "Grab and OpenAI bring practical AI skills to Southeast Asia",
+          "title_en": "How invideo improves color grading 3x with GPT‑6 Astra",
+          "title_original": "How invideo improves color grading 3x with GPT‑6 Astra",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
+          "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-23T00:00:00Z"
+          "published_at": "2026-09-23T12:00:00Z"
         }
       ],
       "source_count": 1,
@@ -1625,31 +1746,31 @@
       ],
       "items": [
         {
-          "id": "86f6a265686a0a48999957469e8809e5d57ed257",
-          "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
+          "id": "dd8a82b88a357053d77c8967e816aa4a83fc8352",
+          "title": "How invideo improves color grading 3x with GPT‑6 Astra",
           "title_zh": null,
-          "title_en": "Grab and OpenAI bring practical AI skills to Southeast Asia",
-          "title_original": "Grab and OpenAI bring practical AI skills to Southeast Asia",
+          "title_en": "How invideo improves color grading 3x with GPT‑6 Astra",
+          "title_original": "How invideo improves color grading 3x with GPT‑6 Astra",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
+          "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-23T00:00:00Z"
+          "published_at": "2026-09-23T12:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8237,
-      "importance": 0.8237,
-      "importance_score": 0.8237,
+      "score": 0.8464,
+      "importance": 0.8464,
+      "importance_score": 0.8464,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.7647,
+        "ai_relevance": 1.0,
+        "recency": 0.8689,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1658,17 +1779,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-23T00:00:00Z",
-      "latest_at": "2026-09-23T00:00:00Z",
+      "earliest_at": "2026-09-23T12:00:00Z",
+      "latest_at": "2026-09-23T12:00:00Z",
       "primary_item": {
-        "id": "86f6a265686a0a48999957469e8809e5d57ed257",
-        "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
+        "id": "dd8a82b88a357053d77c8967e816aa4a83fc8352",
+        "title": "How invideo improves color grading 3x with GPT‑6 Astra",
         "title_zh": null,
-        "title_en": "Grab and OpenAI bring practical AI skills to Southeast Asia",
-        "title_original": "Grab and OpenAI bring practical AI skills to Southeast Asia",
+        "title_en": "How invideo improves color grading 3x with GPT‑6 Astra",
+        "title_original": "How invideo improves color grading 3x with GPT‑6 Astra",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
+        "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       },
@@ -1676,7 +1797,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T18:55:49.917877Z"
+        "scored_at": "2026-09-23T22:09:39.732807Z"
       }
     }
   ]
