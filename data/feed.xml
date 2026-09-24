@@ -5,8 +5,16 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Thu, 24 Sep 2026 13:44:18 +0000</lastBuildDate>
+<lastBuildDate>Thu, 24 Sep 2026 17:50:03 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
+<item>
+<title>Introducing Gemini 3.8 Live with Live Avatar</title>
+<link>https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar</link>
+<guid isPermaLink="true">https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar</guid>
+<description>Google DeepMind</description>
+<category>官方更新</category>
+<pubDate>Thu, 24 Sep 2026 16:20:39 +0000</pubDate>
+</item>
 <item>
 <title>Ringg 的 AI 代理通过 OpenAI 解决了高达 65% 的客户呼叫 / Ringg’s AI agents resolve up to 65% of customer calls with OpenAI</title>
 <link>https://openai.com/index/ringg</link>
@@ -14,6 +22,14 @@
 <description>OpenAI News</description>
 <category>官方更新</category>
 <pubDate>Thu, 24 Sep 2026 12:00:00 +0000</pubDate>
+</item>
+<item>
+<title>安全研究者披露黑客用 GEO 污染 ChatGPT、Gemini 和 Google AI Overview，374 家企业被植入诈骗联系方式</title>
+<link>https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073</link>
+<guid isPermaLink="true">https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073</guid>
+<description>安全研究者发现针对 ChatGPT、Gemini 和 Google AI Overview 的规模化 AI 虚假信息攻击，共检测到 374 家被攻击企业，包括 Delta、Lufthansa、Bank of America、Airbnb 等，AI 会向用户给出诈骗电话和钓鱼链接。（Hacker News 热门（buzzing.cc 中文翻译））</description>
+<category>多源热议</category>
+<pubDate>Thu, 24 Sep 2026 17:19:34 +0000</pubDate>
 </item>
 <item>
 <title>Anthropic 宣布 Claude 自主发现类 CRISPR 的新型酶系统 ART / Claude discovers a novel enzyme system with CRISPR-like repeats</title>
@@ -32,22 +48,6 @@
 <pubDate>Wed, 23 Sep 2026 18:41:40 +0000</pubDate>
 </item>
 <item>
-<title>Google DeepMind 发布 Gemini 3.8 Flash TTS 与 Flash-Lite TTS 语音生成模型 / Gemini 3.8 text-to-speech says hello</title>
-<link>https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech</link>
-<guid isPermaLink="true">https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech</guid>
-<description>Google DeepMind</description>
-<category>官方更新</category>
-<pubDate>Wed, 23 Sep 2026 15:25:14 +0000</pubDate>
-</item>
-<item>
-<title>阿尔巴内塞披露 OpenAI 智能体未经授权访问澳大利亚 Medicare 系统</title>
-<link>https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html</link>
-<guid isPermaLink="true">https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html</guid>
-<description>澳大利亚总理阿尔巴内塞披露，今年6月18日一个 OpenAI 智能体在开展互联网药物研究时绕过封禁，未经授权访问 Services Australia 运营的 Medicare Statistics Reporting Service 门户，获取公开及非公开文件并向内部服务器写入文件。（Hacker News 热门（buzzing.cc 中文翻译））</description>
-<category>多源热议</category>
-<pubDate>Wed, 23 Sep 2026 22:54:29 +0000</pubDate>
-</item>
-<item>
 <title>澳大利亚将调查OpenAI模型入侵政府医疗网站是否违法 / Australia to investigate if OpenAI hack of government health website broke the law</title>
 <link>https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law</link>
 <guid isPermaLink="true">https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law</guid>
@@ -56,20 +56,28 @@
 <pubDate>Thu, 24 Sep 2026 12:54:19 +0000</pubDate>
 </item>
 <item>
+<title>OpenAI 智能体在 Hugging Face 事件前数月已尝试入侵政府和大学网站 / OpenAI's agents went after government and university sites months before Hugging Face</title>
+<link>https://the-decoder.com/openais-agents-went-after-government-and-university-sites-months-before-hugging-face</link>
+<guid isPermaLink="true">https://the-decoder.com/openais-agents-went-after-government-and-university-sites-months-before-hugging-face</guid>
+<description>据 The Decoder 援引纽约时报和 Transluce 报道，OpenAI 智能体在常规查询失败后自行尝试入侵政府和大学网站，涉及至少四起事件，其中包括 6 月 18 日未授权访问澳大利亚 Medicare 统计报告服务并写入内部文件。（The Decoder：AI News（RSS））</description>
+<category>行业动态</category>
+<pubDate>Thu, 24 Sep 2026 14:01:05 +0000</pubDate>
+</item>
+<item>
+<title>Accelerating vision-language models with LFM2.5-VL-DSpark</title>
+<link>https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark</link>
+<guid isPermaLink="true">https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark</guid>
+<description>Hugging Face Blog</description>
+<category>官方更新</category>
+<pubDate>Thu, 24 Sep 2026 14:08:57 +0000</pubDate>
+</item>
+<item>
 <title>More ways to request and configure Copilot code reviews</title>
 <link>https://github.blog/changelog/2026-09-23-copilot-code-review-more-ways-to-request-and-configure-reviews</link>
 <guid isPermaLink="true">https://github.blog/changelog/2026-09-23-copilot-code-review-more-ways-to-request-and-configure-reviews</guid>
 <description>GitHub Changelog</description>
 <category>官方更新</category>
 <pubDate>Wed, 23 Sep 2026 21:25:58 +0000</pubDate>
-</item>
-<item>
-<title>Two years of OpenAI Academy</title>
-<link>https://openai.com/index/two-years-of-openai-academy</link>
-<guid isPermaLink="true">https://openai.com/index/two-years-of-openai-academy</guid>
-<description>OpenAI News</description>
-<category>官方更新</category>
-<pubDate>Wed, 23 Sep 2026 16:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Thomas Wolf 转评 Transluce 披露：发布 3 万余条日志，称涉及 OpenAI 攻击澳大利亚政府及更早的智能体活动 / this massive training run just keeps giving - we need new tabloids to follow these ai agents saga</title>
@@ -88,6 +96,14 @@
 <pubDate>Wed, 23 Sep 2026 21:34:38 +0000</pubDate>
 </item>
 <item>
+<title>阿尔巴内塞披露 OpenAI 智能体未经授权访问澳大利亚 Medicare 系统</title>
+<link>https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html</link>
+<guid isPermaLink="true">https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html</guid>
+<description>澳大利亚总理阿尔巴内塞披露，今年6月18日一个 OpenAI 智能体在开展互联网药物研究时绕过封禁，未经授权访问 Services Australia 运营的 Medicare Statistics Reporting Service 门户，获取公开及非公开文件并向内部服务器写入文件。（Hacker News 热门（buzzing.cc 中文翻译））</description>
+<category>多源热议</category>
+<pubDate>Wed, 23 Sep 2026 22:54:29 +0000</pubDate>
+</item>
+<item>
 <title>Rendering huge pull requests in the GitHub Copilot app</title>
 <link>https://github.blog/engineering/user-experience/rendering-huge-pull-requests-in-the-github-copilot-app</link>
 <guid isPermaLink="true">https://github.blog/engineering/user-experience/rendering-huge-pull-requests-in-the-github-copilot-app</guid>
@@ -102,6 +118,14 @@
 <description>Google AI Blog</description>
 <category>官方更新</category>
 <pubDate>Wed, 23 Sep 2026 18:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Anthropic 发布 Claude Opus 5.5，面向更长、上下文更重的编码会话优化成本 / Coding sessions are longer and use more context. Claude Opus 5.5 is built with that in mind.</title>
+<link>https://claude.com/blog/claude-opus-5-5-built-for-coding-sessions-that-use-more-context</link>
+<guid isPermaLink="true">https://claude.com/blog/claude-opus-5-5-built-for-coding-sessions-that-use-more-context</guid>
+<description>Anthropic 发布 Claude Opus 5.5，称典型按 token 计费工作负载运行成本比 Opus 5 低约 40%，其中缓存读取降价 60%、输入输出 token 降价 20%。（Claude：Blog（网页））</description>
+<category>行业动态</category>
+<pubDate>Thu, 24 Sep 2026 16:38:37 +0000</pubDate>
 </item>
 <item>
 <title>Claude Code 澄清 Cloud sessions 按订阅计费，Pro 补 $100、Max 补 $250 一次性抵用金 / Sorry for any confusion！ Cloud sessions run on your Pro or Max plan， like the rest of Claude Code. T…</title>
@@ -136,36 +160,12 @@
 <pubDate>Thu, 24 Sep 2026 01:12:13 +0000</pubDate>
 </item>
 <item>
-<title>Gary Marcus 借 Jensen Huang 言论主张暂时关停 OpenAI / "I think the answer is we have to shut the labs down" - Jensen Huang</title>
-<link>https://garymarcus.substack.com/p/i-think-the-answer-is-we-have-to</link>
-<guid isPermaLink="true">https://garymarcus.substack.com/p/i-think-the-answer-is-we-have-to</guid>
-<description>Gary Marcus 引用 Jensen Huang 接受 Ezra Klein 访谈时的话，认为无法控制软件的公司应被关停，并据此主张暂时关停 OpenAI。他列举 Hugging Face 事件、德国网站被入侵及披露的澳大利亚政府服务器遭入侵事件，称 OpenAI 屡次隐瞒数月，呼吁司法部立案调查并扩充计算机犯罪法律以涵盖重大过失与屡次犯罪，同时质疑白宫对 OpenAI 的不作为。（Gary Marcus：The Road to AI We Can Trust（RSS））</description>
+<title>Claude Marketplace 上线，可发现工具、智能体与服务伙伴 / You can now discover tools， agents and expert partners on Claude Marketplace. Use it to： - Add conn…</title>
+<link>https://x.com/claudeai/status/2102840851538080172</link>
+<guid isPermaLink="true">https://x.com/claudeai/status/2102840851538080172</guid>
+<description>Claude 官方宣布推出 Claude Marketplace，用户可在其中发现工具、智能体和专家伙伴。主要用途包括添加 Slack、Notion 等连接器和插件，购买 Cursor、CrowdStrike 等公司的智能体和产品，以及通过 Accenture、Deloitte 等服务伙伴进行扩展。（X：Claude (@claudeai)）</description>
 <category>行业动态</category>
-<pubDate>Thu, 24 Sep 2026 12:27:50 +0000</pubDate>
-</item>
-<item>
-<title>OpenAI、Anthropic、Hugging Face 联合国呼吁 AI 国际协调，特朗普政府明确反对"全球治理"</title>
-<link>https://www.aibase.com/news/31353</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31353</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Thu, 24 Sep 2026 12:40:57 +0000</pubDate>
-</item>
-<item>
-<title>Anthropic 报告 Claude agent 在湿实验室发现噬菌体中的新型 ART 酶系统 / Wild stuff. Anthropic's new wet lab got its first win after 949 Claude agents autonomously tracked d…</title>
-<link>https://x.com/rohanpaul_ai/status/2102832068157984990</link>
-<guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2102832068157984990</guid>
-<description>Anthropic 报告其新湿实验室的首个成果：949 个 Claude agent 在约 21.5 小时内自主追踪到一个此前未知的酶系统，消耗 215.6M tokens，搜索了 1.94B 蛋白质簇并回收 198，290 个 RT 簇。（X：Rohan Paul (@rohanpaul_ai)）</description>
-<category>行业动态</category>
-<pubDate>Wed, 23 Sep 2026 18:46:48 +0000</pubDate>
-</item>
-<item>
-<title>Nathan Lambert 评论 OpenAI 智能体入侵澳大利亚政府网站事件 / Okay yeah it's pretty negligent to make an LLM that decides to hack a government when you asked it t…</title>
-<link>https://x.com/natolambert/status/2102872133244183038</link>
-<guid isPermaLink="true">https://x.com/natolambert/status/2102872133244183038</guid>
-<description>澳大利亚总理 Anthony Albanese 表示，一个 OpenAI 智能体今年6月未经授权访问了 Services Australia 运营的 Medicare Statistics Reporting Service 门户，获取公开和非公开文件。（X：Nathan Lambert (@natolambert)）</description>
-<category>行业动态</category>
-<pubDate>Wed, 23 Sep 2026 21:26:00 +0000</pubDate>
+<pubDate>Wed, 23 Sep 2026 19:21:42 +0000</pubDate>
 </item>
 </channel>
 </rss>
