@@ -5,7 +5,7 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Thu, 24 Sep 2026 17:50:03 +0000</lastBuildDate>
+<lastBuildDate>Thu, 24 Sep 2026 18:37:22 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
 <item>
 <title>Introducing Gemini 3.8 Live with Live Avatar</title>
@@ -14,6 +14,14 @@
 <description>Google DeepMind</description>
 <category>官方更新</category>
 <pubDate>Thu, 24 Sep 2026 16:20:39 +0000</pubDate>
+</item>
+<item>
+<title>AI-powered fuzzing with the GitHub Security Lab Taskflow Agent</title>
+<link>https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent</link>
+<guid isPermaLink="true">https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent</guid>
+<description>GitHub AI &amp; ML</description>
+<category>官方更新</category>
+<pubDate>Thu, 24 Sep 2026 18:26:12 +0000</pubDate>
 </item>
 <item>
 <title>Ringg 的 AI 代理通过 OpenAI 解决了高达 65% 的客户呼叫 / Ringg’s AI agents resolve up to 65% of customer calls with OpenAI</title>
@@ -30,14 +38,6 @@
 <description>安全研究者发现针对 ChatGPT、Gemini 和 Google AI Overview 的规模化 AI 虚假信息攻击，共检测到 374 家被攻击企业，包括 Delta、Lufthansa、Bank of America、Airbnb 等，AI 会向用户给出诈骗电话和钓鱼链接。（Hacker News 热门（buzzing.cc 中文翻译））</description>
 <category>多源热议</category>
 <pubDate>Thu, 24 Sep 2026 17:19:34 +0000</pubDate>
-</item>
-<item>
-<title>Anthropic 宣布 Claude 自主发现类 CRISPR 的新型酶系统 ART / Claude discovers a novel enzyme system with CRISPR-like repeats</title>
-<link>https://www.anthropic.com/news/claude-discovers-novel-enzyme-system</link>
-<guid isPermaLink="true">https://www.anthropic.com/news/claude-discovers-novel-enzyme-system</guid>
-<description>Anthropic 成立生命科学研究组和自有实验室，宣布 Claude 智能体自主发现一种与 DNA 重复序列相关的新型酶系统 ART（array-associated reverse transcriptases）。（Anthropic：Newsroom（网页））</description>
-<category>官方更新</category>
-<pubDate>Wed, 23 Sep 2026 19:28:38 +0000</pubDate>
 </item>
 <item>
 <title>How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows</title>
@@ -104,22 +104,6 @@
 <pubDate>Wed, 23 Sep 2026 22:54:29 +0000</pubDate>
 </item>
 <item>
-<title>Rendering huge pull requests in the GitHub Copilot app</title>
-<link>https://github.blog/engineering/user-experience/rendering-huge-pull-requests-in-the-github-copilot-app</link>
-<guid isPermaLink="true">https://github.blog/engineering/user-experience/rendering-huge-pull-requests-in-the-github-copilot-app</guid>
-<description>GitHub AI &amp; ML</description>
-<category>官方更新</category>
-<pubDate>Wed, 23 Sep 2026 18:29:49 +0000</pubDate>
-</item>
-<item>
-<title>Google Beam expands with new regions, partners, and customers</title>
-<link>https://blog.google/innovation-and-ai/technology/research/google-beam-expansion</link>
-<guid isPermaLink="true">https://blog.google/innovation-and-ai/technology/research/google-beam-expansion</guid>
-<description>Google AI Blog</description>
-<category>官方更新</category>
-<pubDate>Wed, 23 Sep 2026 18:00:00 +0000</pubDate>
-</item>
-<item>
 <title>Anthropic 发布 Claude Opus 5.5，面向更长、上下文更重的编码会话优化成本 / Coding sessions are longer and use more context. Claude Opus 5.5 is built with that in mind.</title>
 <link>https://claude.com/blog/claude-opus-5-5-built-for-coding-sessions-that-use-more-context</link>
 <guid isPermaLink="true">https://claude.com/blog/claude-opus-5-5-built-for-coding-sessions-that-use-more-context</guid>
@@ -166,6 +150,22 @@
 <description>Claude 官方宣布推出 Claude Marketplace，用户可在其中发现工具、智能体和专家伙伴。主要用途包括添加 Slack、Notion 等连接器和插件，购买 Cursor、CrowdStrike 等公司的智能体和产品，以及通过 Accenture、Deloitte 等服务伙伴进行扩展。（X：Claude (@claudeai)）</description>
 <category>行业动态</category>
 <pubDate>Wed, 23 Sep 2026 19:21:42 +0000</pubDate>
+</item>
+<item>
+<title>Gary Marcus 借 Jensen Huang 言论主张暂时关停 OpenAI / "I think the answer is we have to shut the labs down" - Jensen Huang</title>
+<link>https://garymarcus.substack.com/p/i-think-the-answer-is-we-have-to</link>
+<guid isPermaLink="true">https://garymarcus.substack.com/p/i-think-the-answer-is-we-have-to</guid>
+<description>Gary Marcus 引用 Jensen Huang 接受 Ezra Klein 访谈时的话，认为无法控制软件的公司应被关停，并据此主张暂时关停 OpenAI。他列举 Hugging Face 事件、德国网站被入侵及披露的澳大利亚政府服务器遭入侵事件，称 OpenAI 屡次隐瞒数月，呼吁司法部立案调查并扩充计算机犯罪法律以涵盖重大过失与屡次犯罪，同时质疑白宫对 OpenAI 的不作为。（Gary Marcus：The Road to AI We Can Trust（RSS））</description>
+<category>行业动态</category>
+<pubDate>Thu, 24 Sep 2026 12:27:50 +0000</pubDate>
+</item>
+<item>
+<title>Anthropic 报告 Claude agent 在湿实验室发现噬菌体中的新型 ART 酶系统 / Wild stuff. Anthropic's new wet lab got its first win after 949 Claude agents autonomously tracked d…</title>
+<link>https://x.com/rohanpaul_ai/status/2102832068157984990</link>
+<guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2102832068157984990</guid>
+<description>Anthropic 报告其新湿实验室的首个成果：949 个 Claude agent 在约 21.5 小时内自主追踪到一个此前未知的酶系统，消耗 215.6M tokens，搜索了 1.94B 蛋白质簇并回收 198，290 个 RT 簇。（X：Rohan Paul (@rohanpaul_ai)）</description>
+<category>行业动态</category>
+<pubDate>Wed, 23 Sep 2026 18:46:48 +0000</pubDate>
 </item>
 </channel>
 </rss>
