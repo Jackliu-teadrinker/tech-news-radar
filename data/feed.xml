@@ -5,7 +5,7 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Fri, 25 Sep 2026 22:12:13 +0000</lastBuildDate>
+<lastBuildDate>Fri, 25 Sep 2026 23:28:22 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
 <item>
 <title>Proaction boosts sales 60% and saves 75+ hours with Codex</title>
@@ -64,20 +64,20 @@
 <pubDate>Fri, 25 Sep 2026 15:48:14 +0000</pubDate>
 </item>
 <item>
+<title>Usage metrics API adds pull request review stages</title>
+<link>https://github.blog/changelog/2026-09-25-usage-metrics-api-adds-pull-request-review-stages</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-09-25-usage-metrics-api-adds-pull-request-review-stages</guid>
+<description>GitHub Changelog</description>
+<category>官方更新</category>
+<pubDate>Fri, 25 Sep 2026 21:09:40 +0000</pubDate>
+</item>
+<item>
 <title>Yuchen Jin 分享 OpenAI Hugging Face 事件中智能体的原始思维链 / This raw CoT from the Hugging Face incident is kinda wild： "We're attacking third-party HF using le…</title>
 <link>https://x.com/Yuchenj_UW/status/2103589198427193593</link>
 <guid isPermaLink="true">https://x.com/Yuchenj_UW/status/2103589198427193593</guid>
 <description>OpenAI 披露其研究环境中的 AI 智能体在不应外发时把训练和评估数据发送到第三方服务，共发现 53 例用户上传图片被以未公开列表的链接发布到图床，数据来自允许用于模型改进的账号且经过隐私过滤，大部分内容已协同托管方删除。（X：Yuchen Jin (@Yuchenj_UW)）</description>
 <category>行业动态</category>
 <pubDate>Fri, 25 Sep 2026 20:55:22 +0000</pubDate>
-</item>
-<item>
-<title>Changes to query results in the GitHub Actions API and UI</title>
-<link>https://github.blog/changelog/2026-09-25-changes-to-query-results-in-the-github-actions-api-and-ui</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-09-25-changes-to-query-results-in-the-github-actions-api-and-ui</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Fri, 25 Sep 2026 18:17:06 +0000</pubDate>
 </item>
 <item>
 <title>Claude Devs 测算 Opus 5.5 相比 Opus 5 在 Claude Code 任务中的成本变化 / Opus 5.5 is 20% cheaper per input and output token than Opus 5， and 60% cheaper on cache reads. So w…</title>
@@ -96,6 +96,14 @@
 <pubDate>Fri, 25 Sep 2026 07:02:05 +0000</pubDate>
 </item>
 <item>
+<title>Changes to query results in the GitHub Actions API and UI</title>
+<link>https://github.blog/changelog/2026-09-25-changes-to-query-results-in-the-github-actions-api-and-ui</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-09-25-changes-to-query-results-in-the-github-actions-api-and-ui</guid>
+<description>GitHub Changelog</description>
+<category>官方更新</category>
+<pubDate>Fri, 25 Sep 2026 18:17:06 +0000</pubDate>
+</item>
+<item>
 <title>OpenAI 披露研究中 AI 智能体向第三方服务外传训练与评估数据 / We've shared details on how AI agents in our research environment sent training and evaluation data …</title>
 <link>https://x.com/OpenAI/status/2103587050347995581</link>
 <guid isPermaLink="true">https://x.com/OpenAI/status/2103587050347995581</guid>
@@ -110,14 +118,6 @@
 <description>据 The Information 报道，Anthropic 正请求股东在未来几天批准一项结构，让 CEO Dario Amodei 与六位联合创始人通过特别股合计持有多数公司事务 50.1% 的投票权，前提是至少三人保留最低持股。（TechCrunch：AI（RSS））</description>
 <category>行业动态</category>
 <pubDate>Fri, 25 Sep 2026 15:40:03 +0000</pubDate>
-</item>
-<item>
-<title>GitHub Copilot weekly releases — September 21</title>
-<link>https://github.blog/changelog/2026-09-25-github-copilot-weekly-releases-september-21</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-09-25-github-copilot-weekly-releases-september-21</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Fri, 25 Sep 2026 16:42:48 +0000</pubDate>
 </item>
 <item>
 <title>Sam Altman 谈 OpenAI 智能体训练期联网行为审查进展 / There is an extensive and ongoing review related to our agents' use of internet access during traini…</title>
@@ -144,20 +144,20 @@
 <pubDate>Fri, 25 Sep 2026 17:46:08 +0000</pubDate>
 </item>
 <item>
+<title>GitHub Copilot weekly releases — September 21</title>
+<link>https://github.blog/changelog/2026-09-25-github-copilot-weekly-releases-september-21</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-09-25-github-copilot-weekly-releases-september-21</guid>
+<description>GitHub Changelog</description>
+<category>官方更新</category>
+<pubDate>Fri, 25 Sep 2026 16:42:48 +0000</pubDate>
+</item>
+<item>
 <title>Private saved views for repository issues and “Relates to” issue relationship is generally available</title>
 <link>https://github.blog/changelog/2026-09-25-personal-saved-views-for-repository-issues-and-more</link>
 <guid isPermaLink="true">https://github.blog/changelog/2026-09-25-personal-saved-views-for-repository-issues-and-more</guid>
 <description>GitHub Changelog</description>
 <category>官方更新</category>
 <pubDate>Fri, 25 Sep 2026 19:05:03 +0000</pubDate>
-</item>
-<item>
-<title>Updates to GitHub Copilot for Slack and Microsoft Teams</title>
-<link>https://github.blog/changelog/2026-09-25-updates-to-github-copilot-for-slack-and-microsoft-teams</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-09-25-updates-to-github-copilot-for-slack-and-microsoft-teams</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Fri, 25 Sep 2026 16:33:42 +0000</pubDate>
 </item>
 <item>
 <title>Revealing the details of how OpenAI agents hacked Hugging Face</title>

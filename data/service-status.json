@@ -1,16 +1,30 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-25T22:12:13.169069Z",
+  "generated_at": "2026-09-25T23:28:22.650114Z",
   "ok": true,
-  "active_count": 0,
+  "active_count": 1,
   "providers": [
     {
       "id": "openai",
       "name": "OpenAI",
       "status_url": "https://status.openai.com/",
       "ok": true,
-      "active_count": 0
+      "active_count": 1
     }
   ],
-  "incidents": []
+  "incidents": [
+    {
+      "id": "01M3DCNWMW57HYK8FJ5FBFPA39",
+      "provider": "OpenAI",
+      "title": "Issues with Codex",
+      "title_zh": "Codex 出现问题",
+      "status": "identified",
+      "impact": "critical",
+      "started_at": "2026-09-25T22:58:48Z",
+      "updated_at": "2026-09-25T23:19:11Z",
+      "message": "Login via API key will unblock access at this time.",
+      "affected_components": [],
+      "url": "https://status.openai.com/incidents/01M3DCNWMW57HYK8FJ5FBFPA39"
+    }
+  ]
 }
