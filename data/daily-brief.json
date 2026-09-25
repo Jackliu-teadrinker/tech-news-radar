@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-25T17:53:31.653528Z",
+  "generated_at": "2026-09-25T18:50:10.091044Z",
   "window_hours": 24,
-  "total_items": 19,
+  "total_items": 20,
   "items": [
     {
       "story_id": "story_31f780f81dc1",
@@ -65,8 +65,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-25T17:53:31.653528Z",
-      "latest_at": "2026-09-25T17:53:31.653528Z",
+      "earliest_at": "2026-09-25T19:00:00Z",
+      "latest_at": "2026-09-25T19:00:00Z",
       "primary_item": {
         "id": "66813550b19620d0f21a2f5a0f52320a576eb1a2",
         "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
@@ -83,7 +83,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-25T18:07:39.450031Z"
+        "scored_at": "2026-09-25T19:05:26.603124Z"
+      }
+    },
+    {
+      "story_id": "story_3086a0a8d592",
+      "title": "Agentic autofix now uses Copilot Memory",
+      "url": "https://github.blog/changelog/2026-09-25-agentic-autofix-now-uses-copilot-memory",
+      "primary_url": "https://github.blog/changelog/2026-09-25-agentic-autofix-now-uses-copilot-memory",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "8ee32335c685465498d95a79a418cfcd20e01eaa",
+          "title": "Agentic autofix now uses Copilot Memory",
+          "title_zh": null,
+          "title_en": "Agentic autofix now uses Copilot Memory",
+          "title_original": "Agentic autofix now uses Copilot Memory",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-25-agentic-autofix-now-uses-copilot-memory",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-25T17:25:50Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "8ee32335c685465498d95a79a418cfcd20e01eaa",
+          "title": "Agentic autofix now uses Copilot Memory",
+          "title_zh": null,
+          "title_en": "Agentic autofix now uses Copilot Memory",
+          "title_original": "Agentic autofix now uses Copilot Memory",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-25-agentic-autofix-now-uses-copilot-memory",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-25T17:25:50Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8624,
+      "importance": 0.8624,
+      "importance_score": 0.8624,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.9799,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-25T17:25:50Z",
+      "latest_at": "2026-09-25T17:25:50Z",
+      "primary_item": {
+        "id": "8ee32335c685465498d95a79a418cfcd20e01eaa",
+        "title": "Agentic autofix now uses Copilot Memory",
+        "title_zh": null,
+        "title_en": "Agentic autofix now uses Copilot Memory",
+        "title_original": "Agentic autofix now uses Copilot Memory",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-09-25-agentic-autofix-now-uses-copilot-memory",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-25T19:05:26.603124Z"
       }
     },
     {
@@ -131,15 +214,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.829,
-      "importance": 0.829,
-      "importance_score": 0.829,
+      "score": 0.8271,
+      "importance": 0.8271,
+      "importance_score": 0.8271,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7723,
+        "recency": 0.7619,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,112 +249,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-25T18:07:39.450031Z"
+        "scored_at": "2026-09-25T19:05:26.603124Z"
       }
     },
     {
-      "story_id": "story_383980d6bba6",
-      "title": "GitHub Copilot weekly releases — September 21",
-      "url": "https://github.blog/changelog/2026-09-25-github-copilot-weekly-releases-september-21",
-      "primary_url": "https://github.blog/changelog/2026-09-25-github-copilot-weekly-releases-september-21",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "9c2fcd83c6f33548bf3d0523fa51f632c69d43a6",
-          "title": "GitHub Copilot weekly releases — September 21",
-          "title_zh": null,
-          "title_en": "GitHub Copilot weekly releases — September 21",
-          "title_original": "GitHub Copilot weekly releases — September 21",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-25-github-copilot-weekly-releases-september-21",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-25T16:42:48Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "9c2fcd83c6f33548bf3d0523fa51f632c69d43a6",
-          "title": "GitHub Copilot weekly releases — September 21",
-          "title_zh": null,
-          "title_en": "GitHub Copilot weekly releases — September 21",
-          "title_original": "GitHub Copilot weekly releases — September 21",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-25-github-copilot-weekly-releases-september-21",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-25T16:42:48Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.819,
-      "importance": 0.819,
-      "importance_score": 0.819,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.76,
-        "recency": 0.9831,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-25T16:42:48Z",
-      "latest_at": "2026-09-25T16:42:48Z",
-      "primary_item": {
-        "id": "9c2fcd83c6f33548bf3d0523fa51f632c69d43a6",
-        "title": "GitHub Copilot weekly releases — September 21",
-        "title_zh": null,
-        "title_en": "GitHub Copilot weekly releases — September 21",
-        "title_original": "GitHub Copilot weekly releases — September 21",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-25-github-copilot-weekly-releases-september-21",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-25T18:07:39.450031Z"
-      }
-    },
-    {
-      "story_id": "story_66517b370dff",
-      "title": "GitHub Security Lab 发布 LLM 驱动的 Fuzzing Taskflow，自动完成 C/C++ 项目模糊测试全流程 / AI-powered fuzzing with the GitHub Security Lab Taskflow Agent",
-      "url": "https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent",
-      "primary_url": "https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent",
+      "story_id": "story_a304aaf0894c",
+      "title": "GitHub Copilot app 新手教程：如何用 canvases 构建自定义工作流 / GitHub Copilot app for Beginners: How to build custom workflows with canvases",
+      "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-build-custom-workflows-with-canvases",
+      "primary_url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-build-custom-workflows-with-canvases",
       "source": "GitHub AI & ML",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "a5fc1c85525e4315776fcd9e8d968cdd61cedfa4",
-          "title": "GitHub Security Lab 发布 LLM 驱动的 Fuzzing Taskflow，自动完成 C/C++ 项目模糊测试全流程 / AI-powered fuzzing with the GitHub Security Lab Taskflow Agent",
-          "title_zh": "GitHub Security Lab 发布 LLM 驱动的 Fuzzing Taskflow，自动完成 C/C++ 项目模糊测试全流程",
-          "title_en": "AI-powered fuzzing with the GitHub Security Lab Taskflow Agent",
-          "title_original": "AI-powered fuzzing with the GitHub Security Lab Taskflow Agent",
+          "id": "282dcfb0d128a91f99f7e7a3e0ea249f739bfecb",
+          "title": "GitHub Copilot app 新手教程：如何用 canvases 构建自定义工作流 / GitHub Copilot app for Beginners: How to build custom workflows with canvases",
+          "title_zh": "GitHub Copilot app 新手教程：如何用 canvases 构建自定义工作流",
+          "title_en": "GitHub Copilot app for Beginners: How to build custom workflows with canvases",
+          "title_original": "GitHub Copilot app for Beginners: How to build custom workflows with canvases",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent",
+          "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-build-custom-workflows-with-canvases",
           "source": "GitHub AI & ML",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-24T18:26:12Z"
+          "published_at": "2026-09-25T18:00:00Z"
         }
       ],
       "source_count": 1,
@@ -280,50 +281,49 @@
       ],
       "items": [
         {
-          "id": "a5fc1c85525e4315776fcd9e8d968cdd61cedfa4",
-          "title": "GitHub Security Lab 发布 LLM 驱动的 Fuzzing Taskflow，自动完成 C/C++ 项目模糊测试全流程 / AI-powered fuzzing with the GitHub Security Lab Taskflow Agent",
-          "title_zh": "GitHub Security Lab 发布 LLM 驱动的 Fuzzing Taskflow，自动完成 C/C++ 项目模糊测试全流程",
-          "title_en": "AI-powered fuzzing with the GitHub Security Lab Taskflow Agent",
-          "title_original": "AI-powered fuzzing with the GitHub Security Lab Taskflow Agent",
+          "id": "282dcfb0d128a91f99f7e7a3e0ea249f739bfecb",
+          "title": "GitHub Copilot app 新手教程：如何用 canvases 构建自定义工作流 / GitHub Copilot app for Beginners: How to build custom workflows with canvases",
+          "title_zh": "GitHub Copilot app 新手教程：如何用 canvases 构建自定义工作流",
+          "title_en": "GitHub Copilot app for Beginners: How to build custom workflows with canvases",
+          "title_original": "GitHub Copilot app for Beginners: How to build custom workflows with canvases",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent",
+          "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-build-custom-workflows-with-canvases",
           "source": "GitHub AI & ML",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-24T18:26:12Z"
+          "published_at": "2026-09-25T18:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8083,
-      "importance": 0.8083,
-      "importance_score": 0.8083,
+      "score": 0.8198,
+      "importance": 0.8198,
+      "importance_score": 0.8198,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7127,
+        "ai_relevance": 0.76,
+        "recency": 0.988,
         "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-24T18:26:12Z",
-      "latest_at": "2026-09-24T18:26:12Z",
+      "earliest_at": "2026-09-25T18:00:00Z",
+      "latest_at": "2026-09-25T18:00:00Z",
       "primary_item": {
-        "id": "a5fc1c85525e4315776fcd9e8d968cdd61cedfa4",
-        "title": "GitHub Security Lab 发布 LLM 驱动的 Fuzzing Taskflow，自动完成 C/C++ 项目模糊测试全流程 / AI-powered fuzzing with the GitHub Security Lab Taskflow Agent",
-        "title_zh": "GitHub Security Lab 发布 LLM 驱动的 Fuzzing Taskflow，自动完成 C/C++ 项目模糊测试全流程",
-        "title_en": "AI-powered fuzzing with the GitHub Security Lab Taskflow Agent",
-        "title_original": "AI-powered fuzzing with the GitHub Security Lab Taskflow Agent",
+        "id": "282dcfb0d128a91f99f7e7a3e0ea249f739bfecb",
+        "title": "GitHub Copilot app 新手教程：如何用 canvases 构建自定义工作流 / GitHub Copilot app for Beginners: How to build custom workflows with canvases",
+        "title_zh": "GitHub Copilot app 新手教程：如何用 canvases 构建自定义工作流",
+        "title_en": "GitHub Copilot app for Beginners: How to build custom workflows with canvases",
+        "title_original": "GitHub Copilot app for Beginners: How to build custom workflows with canvases",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent",
+        "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-build-custom-workflows-with-canvases",
         "source": "GitHub AI & ML",
         "source_name": "Official AI Updates"
       },
@@ -331,7 +331,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-25T18:07:39.450031Z"
+        "scored_at": "2026-09-25T19:05:26.603124Z"
       }
     },
     {
@@ -408,15 +408,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8043,
-      "importance": 0.8043,
-      "importance_score": 0.8043,
+      "score": 0.8019,
+      "importance": 0.8019,
+      "importance_score": 0.8019,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.9703,
+        "recency": 0.9572,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -443,7 +443,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-25T18:07:39.450031Z"
+        "scored_at": "2026-09-25T19:05:26.603124Z"
       }
     },
     {
@@ -520,15 +520,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7975,
-      "importance": 0.7975,
-      "importance_score": 0.7975,
+      "score": 0.7951,
+      "importance": 0.7951,
+      "importance_score": 0.7951,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.9659,
+        "recency": 0.9528,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -555,30 +555,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-25T18:07:39.450031Z"
+        "scored_at": "2026-09-25T19:05:26.603124Z"
       }
     },
     {
-      "story_id": "story_42a4c6c0a2d7",
-      "title": "Updates to GitHub Copilot for Slack and Microsoft Teams",
-      "url": "https://github.blog/changelog/2026-09-25-updates-to-github-copilot-for-slack-and-microsoft-teams",
-      "primary_url": "https://github.blog/changelog/2026-09-25-updates-to-github-copilot-for-slack-and-microsoft-teams",
+      "story_id": "story_72aea9f90037",
+      "title": "Changes to query results in the GitHub Actions API and UI",
+      "url": "https://github.blog/changelog/2026-09-25-changes-to-query-results-in-the-github-actions-api-and-ui",
+      "primary_url": "https://github.blog/changelog/2026-09-25-changes-to-query-results-in-the-github-actions-api-and-ui",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "258f7545dc1f75de09b8800d8db521fd4d5db997",
-          "title": "Updates to GitHub Copilot for Slack and Microsoft Teams",
+          "id": "77b432d22ebadd6ef41512adf700ca06057e4c84",
+          "title": "Changes to query results in the GitHub Actions API and UI",
           "title_zh": null,
-          "title_en": "Updates to GitHub Copilot for Slack and Microsoft Teams",
-          "title_original": "Updates to GitHub Copilot for Slack and Microsoft Teams",
+          "title_en": "Changes to query results in the GitHub Actions API and UI",
+          "title_original": "Changes to query results in the GitHub Actions API and UI",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-25-updates-to-github-copilot-for-slack-and-microsoft-teams",
+          "url": "https://github.blog/changelog/2026-09-25-changes-to-query-results-in-the-github-actions-api-and-ui",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-25T16:33:42Z"
+          "published_at": "2026-09-25T18:17:06Z"
         }
       ],
       "source_count": 1,
@@ -587,31 +587,31 @@
       ],
       "items": [
         {
-          "id": "258f7545dc1f75de09b8800d8db521fd4d5db997",
-          "title": "Updates to GitHub Copilot for Slack and Microsoft Teams",
+          "id": "77b432d22ebadd6ef41512adf700ca06057e4c84",
+          "title": "Changes to query results in the GitHub Actions API and UI",
           "title_zh": null,
-          "title_en": "Updates to GitHub Copilot for Slack and Microsoft Teams",
-          "title_original": "Updates to GitHub Copilot for Slack and Microsoft Teams",
+          "title_en": "Changes to query results in the GitHub Actions API and UI",
+          "title_original": "Changes to query results in the GitHub Actions API and UI",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-25-updates-to-github-copilot-for-slack-and-microsoft-teams",
+          "url": "https://github.blog/changelog/2026-09-25-changes-to-query-results-in-the-github-actions-api-and-ui",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-25T16:33:42Z"
+          "published_at": "2026-09-25T18:17:06Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8186,
-      "importance": 0.8186,
-      "importance_score": 0.8186,
+      "score": 0.8206,
+      "importance": 0.8206,
+      "importance_score": 0.8206,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.76,
-        "recency": 0.981,
+        "recency": 0.9921,
         "story_heat": 0.0
       },
       "category": "official",
@@ -619,17 +619,17 @@
         "official_source",
         "high_importance"
       ],
-      "earliest_at": "2026-09-25T16:33:42Z",
-      "latest_at": "2026-09-25T16:33:42Z",
+      "earliest_at": "2026-09-25T18:17:06Z",
+      "latest_at": "2026-09-25T18:17:06Z",
       "primary_item": {
-        "id": "258f7545dc1f75de09b8800d8db521fd4d5db997",
-        "title": "Updates to GitHub Copilot for Slack and Microsoft Teams",
+        "id": "77b432d22ebadd6ef41512adf700ca06057e4c84",
+        "title": "Changes to query results in the GitHub Actions API and UI",
         "title_zh": null,
-        "title_en": "Updates to GitHub Copilot for Slack and Microsoft Teams",
-        "title_original": "Updates to GitHub Copilot for Slack and Microsoft Teams",
+        "title_en": "Changes to query results in the GitHub Actions API and UI",
+        "title_original": "Changes to query results in the GitHub Actions API and UI",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-25-updates-to-github-copilot-for-slack-and-microsoft-teams",
+        "url": "https://github.blog/changelog/2026-09-25-changes-to-query-results-in-the-github-actions-api-and-ui",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -637,7 +637,201 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-25T18:07:39.450031Z"
+        "scored_at": "2026-09-25T19:05:26.603124Z"
+      }
+    },
+    {
+      "story_id": "story_fa6f9d4b24a5",
+      "title": "Claude Devs 测算 Opus 5.5 相比 Opus 5 在 Claude Code 任务中的成本变化 / Opus 5.5 is 20% cheaper per input and output token than Opus 5， and 60% cheaper on cache reads. So w…",
+      "url": "https://x.com/ClaudeDevs/status/2103548467729887677",
+      "primary_url": "https://x.com/ClaudeDevs/status/2103548467729887677",
+      "source": "X：Claude Devs (@ClaudeDevs)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "7b1e1539fbd3d3b77dcd2a97b8093fc66c4b347d",
+          "title": "Claude Devs 测算 Opus 5.5 相比 Opus 5 在 Claude Code 任务中的成本变化 / Opus 5.5 is 20% cheaper per input and output token than Opus 5， and 60% cheaper on cache reads. So w…",
+          "title_zh": "Claude Devs 测算 Opus 5.5 相比 Opus 5 在 Claude Code 任务中的成本变化",
+          "title_en": "Opus 5.5 is 20% cheaper per input and output token than Opus 5， and 60% cheaper on cache reads. So w…",
+          "title_original": "Opus 5.5 is 20% cheaper per input and output token than Opus 5， and 60% cheaper on cache reads. So w…",
+          "summary": "Opus 5.5 每输入和输出 token 比 Opus 5 便宜 20%，缓存读取便宜 60%。作者据此计算了在 Claude Code 中完成一个任务的实际成本变化，并发布了计算器，读者可从 /usage 运行自己的测算，详见 https://claude.dev/blog/what-a-task-costs-on-opus-5-5/。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/ClaudeDevs/status/2103548467729887677",
+          "source": "X：Claude Devs (@ClaudeDevs)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-25T18:13:31Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Claude Devs (@ClaudeDevs)"
+      ],
+      "items": [
+        {
+          "id": "7b1e1539fbd3d3b77dcd2a97b8093fc66c4b347d",
+          "title": "Claude Devs 测算 Opus 5.5 相比 Opus 5 在 Claude Code 任务中的成本变化 / Opus 5.5 is 20% cheaper per input and output token than Opus 5， and 60% cheaper on cache reads. So w…",
+          "title_zh": "Claude Devs 测算 Opus 5.5 相比 Opus 5 在 Claude Code 任务中的成本变化",
+          "title_en": "Opus 5.5 is 20% cheaper per input and output token than Opus 5， and 60% cheaper on cache reads. So w…",
+          "title_original": "Opus 5.5 is 20% cheaper per input and output token than Opus 5， and 60% cheaper on cache reads. So w…",
+          "summary": "Opus 5.5 每输入和输出 token 比 Opus 5 便宜 20%，缓存读取便宜 60%。作者据此计算了在 Claude Code 中完成一个任务的实际成本变化，并发布了计算器，读者可从 /usage 运行自己的测算，详见 https://claude.dev/blog/what-a-task-costs-on-opus-5-5/。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/ClaudeDevs/status/2103548467729887677",
+          "source": "X：Claude Devs (@ClaudeDevs)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-25T18:13:31Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7864,
+      "importance": 0.7864,
+      "importance_score": 0.7864,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.66,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.9912,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-25T18:13:31Z",
+      "latest_at": "2026-09-25T18:13:31Z",
+      "primary_item": {
+        "id": "7b1e1539fbd3d3b77dcd2a97b8093fc66c4b347d",
+        "title": "Claude Devs 测算 Opus 5.5 相比 Opus 5 在 Claude Code 任务中的成本变化 / Opus 5.5 is 20% cheaper per input and output token than Opus 5， and 60% cheaper on cache reads. So w…",
+        "title_zh": "Claude Devs 测算 Opus 5.5 相比 Opus 5 在 Claude Code 任务中的成本变化",
+        "title_en": "Opus 5.5 is 20% cheaper per input and output token than Opus 5， and 60% cheaper on cache reads. So w…",
+        "title_original": "Opus 5.5 is 20% cheaper per input and output token than Opus 5， and 60% cheaper on cache reads. So w…",
+        "summary": "Opus 5.5 每输入和输出 token 比 Opus 5 便宜 20%，缓存读取便宜 60%。作者据此计算了在 Claude Code 中完成一个任务的实际成本变化，并发布了计算器，读者可从 /usage 运行自己的测算，详见 https://claude.dev/blog/what-a-task-costs-on-opus-5-5/。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/ClaudeDevs/status/2103548467729887677",
+        "source": "X：Claude Devs (@ClaudeDevs)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-25T19:05:26.603124Z"
+      }
+    },
+    {
+      "story_id": "story_7535491ae20c",
+      "title": "Claude 完成 N=4 超对称 Yang-Mills 九圈振幅计算，物理学家 Matt von Hippel 复盘挑战始末 / Yes， Claude can do Nine Loops",
+      "url": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops",
+      "primary_url": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops",
+      "source": "Anthropic：Research（发表成果 · 网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "18ad5d1949272a639d0b3e28920046d68ba92876",
+          "title": "Claude 完成 N=4 超对称 Yang-Mills 九圈振幅计算，物理学家 Matt von Hippel 复盘挑战始末 / Yes， Claude can do Nine Loops",
+          "title_zh": "Claude 完成 N=4 超对称 Yang-Mills 九圈振幅计算，物理学家 Matt von Hippel 复盘挑战始末",
+          "title_en": "Yes， Claude can do Nine Loops",
+          "title_original": "Yes， Claude can do Nine Loops",
+          "summary": "物理学家 Matt von Hippel 发文复盘：Anthropic 的 Liam Fitzpatrick 和 Siddharth Mishra-Sharma 用 Claude Science（Fable 5.1）以约一两千美元预算完成平面 N=4 超对称 Yang-Mills 六粒子九圈振幅计算。",
+          "recommend_reason_zh": null,
+          "url": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops",
+          "source": "Anthropic：Research（发表成果 · 网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-25T17:59:19.824000Z"
+        },
+        {
+          "id": "39558116cd1695f916f5156f29d598a0d445df7f",
+          "title": "Claude 完成 N=4 超对称 Yang-Mills 九圈振幅计算，物理学家 Matt von Hippel 复盘挑战始末 / Yes, Claude can do Nine Loops",
+          "title_zh": "Claude 完成 N=4 超对称 Yang-Mills 九圈振幅计算，物理学家 Matt von Hippel 复盘挑战始末",
+          "title_en": "Yes, Claude can do Nine Loops",
+          "title_original": "Yes, Claude can do Nine Loops",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops",
+          "source": "Hacker News front page",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-25T18:11:48Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Anthropic：Research（发表成果 · 网页）",
+        "Hacker News front page"
+      ],
+      "items": [
+        {
+          "id": "18ad5d1949272a639d0b3e28920046d68ba92876",
+          "title": "Claude 完成 N=4 超对称 Yang-Mills 九圈振幅计算，物理学家 Matt von Hippel 复盘挑战始末 / Yes， Claude can do Nine Loops",
+          "title_zh": "Claude 完成 N=4 超对称 Yang-Mills 九圈振幅计算，物理学家 Matt von Hippel 复盘挑战始末",
+          "title_en": "Yes， Claude can do Nine Loops",
+          "title_original": "Yes， Claude can do Nine Loops",
+          "summary": "物理学家 Matt von Hippel 发文复盘：Anthropic 的 Liam Fitzpatrick 和 Siddharth Mishra-Sharma 用 Claude Science（Fable 5.1）以约一两千美元预算完成平面 N=4 超对称 Yang-Mills 六粒子九圈振幅计算。",
+          "recommend_reason_zh": null,
+          "url": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops",
+          "source": "Anthropic：Research（发表成果 · 网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-25T17:59:19.824000Z"
+        },
+        {
+          "id": "39558116cd1695f916f5156f29d598a0d445df7f",
+          "title": "Claude 完成 N=4 超对称 Yang-Mills 九圈振幅计算，物理学家 Matt von Hippel 复盘挑战始末 / Yes, Claude can do Nine Loops",
+          "title_zh": "Claude 完成 N=4 超对称 Yang-Mills 九圈振幅计算，物理学家 Matt von Hippel 复盘挑战始末",
+          "title_en": "Yes, Claude can do Nine Loops",
+          "title_original": "Yes, Claude can do Nine Loops",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops",
+          "source": "Hacker News front page",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-25T18:11:48Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7864,
+      "importance": 0.7864,
+      "importance_score": 0.7864,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.74,
+        "source_tier": 0.78,
+        "ai_relevance": 0.95,
+        "recency": 0.9878,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-25T17:59:19.824000Z",
+      "latest_at": "2026-09-25T18:11:48Z",
+      "primary_item": {
+        "id": "18ad5d1949272a639d0b3e28920046d68ba92876",
+        "title": "Claude 完成 N=4 超对称 Yang-Mills 九圈振幅计算，物理学家 Matt von Hippel 复盘挑战始末 / Yes， Claude can do Nine Loops",
+        "title_zh": "Claude 完成 N=4 超对称 Yang-Mills 九圈振幅计算，物理学家 Matt von Hippel 复盘挑战始末",
+        "title_en": "Yes， Claude can do Nine Loops",
+        "title_original": "Yes， Claude can do Nine Loops",
+        "summary": "物理学家 Matt von Hippel 发文复盘：Anthropic 的 Liam Fitzpatrick 和 Siddharth Mishra-Sharma 用 Claude Science（Fable 5.1）以约一两千美元预算完成平面 N=4 超对称 Yang-Mills 六粒子九圈振幅计算。",
+        "recommend_reason_zh": null,
+        "url": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops",
+        "source": "Anthropic：Research（发表成果 · 网页）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-25T19:05:26.603124Z"
       }
     },
     {
@@ -714,15 +908,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7775,
-      "importance": 0.7775,
-      "importance_score": 0.7775,
+      "score": 0.7754,
+      "importance": 0.7754,
+      "importance_score": 0.7754,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.8549,
+        "recency": 0.8433,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -749,7 +943,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-25T18:07:39.450031Z"
+        "scored_at": "2026-09-25T19:05:26.603124Z"
+      }
+    },
+    {
+      "story_id": "story_383980d6bba6",
+      "title": "GitHub Copilot weekly releases — September 21",
+      "url": "https://github.blog/changelog/2026-09-25-github-copilot-weekly-releases-september-21",
+      "primary_url": "https://github.blog/changelog/2026-09-25-github-copilot-weekly-releases-september-21",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "9c2fcd83c6f33548bf3d0523fa51f632c69d43a6",
+          "title": "GitHub Copilot weekly releases — September 21",
+          "title_zh": null,
+          "title_en": "GitHub Copilot weekly releases — September 21",
+          "title_original": "GitHub Copilot weekly releases — September 21",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-25-github-copilot-weekly-releases-september-21",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-25T16:42:48Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "9c2fcd83c6f33548bf3d0523fa51f632c69d43a6",
+          "title": "GitHub Copilot weekly releases — September 21",
+          "title_zh": null,
+          "title_en": "GitHub Copilot weekly releases — September 21",
+          "title_original": "GitHub Copilot weekly releases — September 21",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-25-github-copilot-weekly-releases-september-21",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-25T16:42:48Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8166,
+      "importance": 0.8166,
+      "importance_score": 0.8166,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.76,
+        "recency": 0.9698,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-25T16:42:48Z",
+      "latest_at": "2026-09-25T16:42:48Z",
+      "primary_item": {
+        "id": "9c2fcd83c6f33548bf3d0523fa51f632c69d43a6",
+        "title": "GitHub Copilot weekly releases — September 21",
+        "title_zh": null,
+        "title_en": "GitHub Copilot weekly releases — September 21",
+        "title_original": "GitHub Copilot weekly releases — September 21",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-09-25-github-copilot-weekly-releases-september-21",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-25T19:05:26.603124Z"
       }
     },
     {
@@ -826,15 +1102,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7889,
-      "importance": 0.7889,
-      "importance_score": 0.7889,
+      "score": 0.7865,
+      "importance": 0.7865,
+      "importance_score": 0.7865,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.9684,
+        "recency": 0.9553,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -861,7 +1137,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-25T18:07:39.450031Z"
+        "scored_at": "2026-09-25T19:05:26.603124Z"
+      }
+    },
+    {
+      "story_id": "story_26f22a2693b5",
+      "title": "Anthropic 称 Claude 完成平面 N=4 超杨-米尔斯理论九圈散射振幅计算 / New on the Science Blog： Yes， Claude can do Nine Loops. Theoretical physicists predict how particle…",
+      "url": "https://x.com/AnthropicAI/status/2103541577083719888",
+      "primary_url": "https://x.com/AnthropicAI/status/2103541577083719888",
+      "source": "X：Anthropic (@AnthropicAI)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "1292abec7e144a9d760e60cd4094159cff9d78b7",
+          "title": "Anthropic 称 Claude 完成平面 N=4 超杨-米尔斯理论九圈散射振幅计算 / New on the Science Blog： Yes， Claude can do Nine Loops. Theoretical physicists predict how particle…",
+          "title_zh": "Anthropic 称 Claude 完成平面 N=4 超杨-米尔斯理论九圈散射振幅计算",
+          "title_en": "New on the Science Blog： Yes， Claude can do Nine Loops. Theoretical physicists predict how particle…",
+          "title_original": "New on the Science Blog： Yes， Claude can do Nine Loops. Theoretical physicists predict how particle…",
+          "summary": "Anthropic 在科学博客称，物理学家 @4gravitons 发起挑战后，Claude 在 Claude Science 中依据单个提示词 largely unsupervised 地运行数天，在平面 N=4 超杨-米尔斯模型中完成九圈散射振幅计算，总成本约几千美元。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/AnthropicAI/status/2103541577083719888",
+          "source": "X：Anthropic (@AnthropicAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-25T17:46:08Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Anthropic (@AnthropicAI)"
+      ],
+      "items": [
+        {
+          "id": "1292abec7e144a9d760e60cd4094159cff9d78b7",
+          "title": "Anthropic 称 Claude 完成平面 N=4 超杨-米尔斯理论九圈散射振幅计算 / New on the Science Blog： Yes， Claude can do Nine Loops. Theoretical physicists predict how particle…",
+          "title_zh": "Anthropic 称 Claude 完成平面 N=4 超杨-米尔斯理论九圈散射振幅计算",
+          "title_en": "New on the Science Blog： Yes， Claude can do Nine Loops. Theoretical physicists predict how particle…",
+          "title_original": "New on the Science Blog： Yes， Claude can do Nine Loops. Theoretical physicists predict how particle…",
+          "summary": "Anthropic 在科学博客称，物理学家 @4gravitons 发起挑战后，Claude 在 Claude Science 中依据单个提示词 largely unsupervised 地运行数天，在平面 N=4 超杨-米尔斯模型中完成九圈散射振幅计算，总成本约几千美元。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/AnthropicAI/status/2103541577083719888",
+          "source": "X：Anthropic (@AnthropicAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-25T17:46:08Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7398,
+      "importance": 0.7398,
+      "importance_score": 0.7398,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.67,
+        "source_tier": 0.78,
+        "ai_relevance": 0.95,
+        "recency": 0.9847,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-25T17:46:08Z",
+      "latest_at": "2026-09-25T17:46:08Z",
+      "primary_item": {
+        "id": "1292abec7e144a9d760e60cd4094159cff9d78b7",
+        "title": "Anthropic 称 Claude 完成平面 N=4 超杨-米尔斯理论九圈散射振幅计算 / New on the Science Blog： Yes， Claude can do Nine Loops. Theoretical physicists predict how particle…",
+        "title_zh": "Anthropic 称 Claude 完成平面 N=4 超杨-米尔斯理论九圈散射振幅计算",
+        "title_en": "New on the Science Blog： Yes， Claude can do Nine Loops. Theoretical physicists predict how particle…",
+        "title_original": "New on the Science Blog： Yes， Claude can do Nine Loops. Theoretical physicists predict how particle…",
+        "summary": "Anthropic 在科学博客称，物理学家 @4gravitons 发起挑战后，Claude 在 Claude Science 中依据单个提示词 largely unsupervised 地运行数天，在平面 N=4 超杨-米尔斯模型中完成九圈散射振幅计算，总成本约几千美元。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/AnthropicAI/status/2103541577083719888",
+        "source": "X：Anthropic (@AnthropicAI)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-25T19:05:26.603124Z"
       }
     },
     {
@@ -909,15 +1266,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7672,
-      "importance": 0.7672,
-      "importance_score": 0.7672,
+      "score": 0.7654,
+      "importance": 0.7654,
+      "importance_score": 0.7654,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.73,
-        "recency": 0.729,
+        "recency": 0.7191,
         "story_heat": 0.0
       },
       "category": "official",
@@ -943,7 +1300,280 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-25T18:07:39.450031Z"
+        "scored_at": "2026-09-25T19:05:26.603124Z"
+      }
+    },
+    {
+      "story_id": "story_42a4c6c0a2d7",
+      "title": "Updates to GitHub Copilot for Slack and Microsoft Teams",
+      "url": "https://github.blog/changelog/2026-09-25-updates-to-github-copilot-for-slack-and-microsoft-teams",
+      "primary_url": "https://github.blog/changelog/2026-09-25-updates-to-github-copilot-for-slack-and-microsoft-teams",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "258f7545dc1f75de09b8800d8db521fd4d5db997",
+          "title": "Updates to GitHub Copilot for Slack and Microsoft Teams",
+          "title_zh": null,
+          "title_en": "Updates to GitHub Copilot for Slack and Microsoft Teams",
+          "title_original": "Updates to GitHub Copilot for Slack and Microsoft Teams",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-25-updates-to-github-copilot-for-slack-and-microsoft-teams",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-25T16:33:42Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "258f7545dc1f75de09b8800d8db521fd4d5db997",
+          "title": "Updates to GitHub Copilot for Slack and Microsoft Teams",
+          "title_zh": null,
+          "title_en": "Updates to GitHub Copilot for Slack and Microsoft Teams",
+          "title_original": "Updates to GitHub Copilot for Slack and Microsoft Teams",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-25-updates-to-github-copilot-for-slack-and-microsoft-teams",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-25T16:33:42Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8162,
+      "importance": 0.8162,
+      "importance_score": 0.8162,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.76,
+        "recency": 0.9677,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-25T16:33:42Z",
+      "latest_at": "2026-09-25T16:33:42Z",
+      "primary_item": {
+        "id": "258f7545dc1f75de09b8800d8db521fd4d5db997",
+        "title": "Updates to GitHub Copilot for Slack and Microsoft Teams",
+        "title_zh": null,
+        "title_en": "Updates to GitHub Copilot for Slack and Microsoft Teams",
+        "title_original": "Updates to GitHub Copilot for Slack and Microsoft Teams",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-09-25-updates-to-github-copilot-for-slack-and-microsoft-teams",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-25T19:05:26.603124Z"
+      }
+    },
+    {
+      "story_id": "story_6caff5a1f26b",
+      "title": "Claude 开放插件目录提交门户，Plugins 成为第三方扩展的主要方式 / Build plugins for Claude",
+      "url": "https://claude.com/blog/build-plugins-for-claude",
+      "primary_url": "https://claude.com/blog/build-plugins-for-claude",
+      "source": "Claude：Blog（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "c690e01af7ae8fd59931b9f175ac8035174d8e6e",
+          "title": "Claude 开放插件目录提交门户，Plugins 成为第三方扩展的主要方式 / Build plugins for Claude",
+          "title_zh": "Claude 开放插件目录提交门户，Plugins 成为第三方扩展的主要方式",
+          "title_en": "Build plugins for Claude",
+          "title_original": "Build plugins for Claude",
+          "summary": "Anthropic 宣布 Plugins 是为 Claude 构建第三方扩展的主要方式，插件可打包 MCP 连接器、Agent Skills 或两者，经新的目录提交门户审核后上架 Claude 目录。",
+          "recommend_reason_zh": null,
+          "url": "https://claude.com/blog/build-plugins-for-claude",
+          "source": "Claude：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-25T18:09:06.824000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Claude：Blog（网页）"
+      ],
+      "items": [
+        {
+          "id": "c690e01af7ae8fd59931b9f175ac8035174d8e6e",
+          "title": "Claude 开放插件目录提交门户，Plugins 成为第三方扩展的主要方式 / Build plugins for Claude",
+          "title_zh": "Claude 开放插件目录提交门户，Plugins 成为第三方扩展的主要方式",
+          "title_en": "Build plugins for Claude",
+          "title_original": "Build plugins for Claude",
+          "summary": "Anthropic 宣布 Plugins 是为 Claude 构建第三方扩展的主要方式，插件可打包 MCP 连接器、Agent Skills 或两者，经新的目录提交门户审核后上架 Claude 目录。",
+          "recommend_reason_zh": null,
+          "url": "https://claude.com/blog/build-plugins-for-claude",
+          "source": "Claude：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-25T18:09:06.824000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7258,
+      "importance": 0.7258,
+      "importance_score": 0.7258,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.62,
+        "source_tier": 0.78,
+        "ai_relevance": 0.95,
+        "recency": 0.9902,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-25T18:09:06.824000Z",
+      "latest_at": "2026-09-25T18:09:06.824000Z",
+      "primary_item": {
+        "id": "c690e01af7ae8fd59931b9f175ac8035174d8e6e",
+        "title": "Claude 开放插件目录提交门户，Plugins 成为第三方扩展的主要方式 / Build plugins for Claude",
+        "title_zh": "Claude 开放插件目录提交门户，Plugins 成为第三方扩展的主要方式",
+        "title_en": "Build plugins for Claude",
+        "title_original": "Build plugins for Claude",
+        "summary": "Anthropic 宣布 Plugins 是为 Claude 构建第三方扩展的主要方式，插件可打包 MCP 连接器、Agent Skills 或两者，经新的目录提交门户审核后上架 Claude 目录。",
+        "recommend_reason_zh": null,
+        "url": "https://claude.com/blog/build-plugins-for-claude",
+        "source": "Claude：Blog（网页）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-25T19:05:26.603124Z"
+      }
+    },
+    {
+      "story_id": "story_2e83e1e63bd9",
+      "title": "Tesla&#8217;s Optimus robot is going through growing pains",
+      "url": "https://www.theverge.com/tech/1000794/tesla-optimus-production-issues-hands",
+      "primary_url": "https://www.theverge.com/tech/1000794/tesla-optimus-production-issues-hands",
+      "source": "The Verge",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "fb04fe7a050f34c4385428390cbf62d199f715de",
+          "title": "Tesla&#8217;s Optimus robot is going through growing pains",
+          "title_zh": null,
+          "title_en": "Tesla&#8217;s Optimus robot is going through growing pains",
+          "title_original": "Tesla&#8217;s Optimus robot is going through growing pains",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/tech/1000794/tesla-optimus-production-issues-hands",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-25T17:01:36Z"
+        },
+        {
+          "id": "019c58c6f04027929f3070f6a45647a478f31182",
+          "title": "Tesla’s Optimus robot is going through growing pains",
+          "title_zh": null,
+          "title_en": "Tesla’s Optimus robot is going through growing pains",
+          "title_original": "Tesla’s Optimus robot is going through growing pains",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/tech/1000794/tesla-optimus-production-issues-hands",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-25T17:01:36Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Verge"
+      ],
+      "items": [
+        {
+          "id": "fb04fe7a050f34c4385428390cbf62d199f715de",
+          "title": "Tesla&#8217;s Optimus robot is going through growing pains",
+          "title_zh": null,
+          "title_en": "Tesla&#8217;s Optimus robot is going through growing pains",
+          "title_original": "Tesla&#8217;s Optimus robot is going through growing pains",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/tech/1000794/tesla-optimus-production-issues-hands",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-25T17:01:36Z"
+        },
+        {
+          "id": "019c58c6f04027929f3070f6a45647a478f31182",
+          "title": "Tesla’s Optimus robot is going through growing pains",
+          "title_zh": null,
+          "title_en": "Tesla’s Optimus robot is going through growing pains",
+          "title_original": "Tesla’s Optimus robot is going through growing pains",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/tech/1000794/tesla-optimus-production-issues-hands",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-25T17:01:36Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6774,
+      "importance": 0.6774,
+      "importance_score": 0.6774,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.6048,
+        "source_tier": 0.58,
+        "ai_relevance": 0.84,
+        "recency": 0.9742,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-25T17:01:36Z",
+      "latest_at": "2026-09-25T17:01:36Z",
+      "primary_item": {
+        "id": "fb04fe7a050f34c4385428390cbf62d199f715de",
+        "title": "Tesla&#8217;s Optimus robot is going through growing pains",
+        "title_zh": null,
+        "title_en": "Tesla&#8217;s Optimus robot is going through growing pains",
+        "title_original": "Tesla&#8217;s Optimus robot is going through growing pains",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.theverge.com/tech/1000794/tesla-optimus-production-issues-hands",
+        "source": "The Verge",
+        "source_name": "Curated Media"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-25T19:05:26.603124Z"
       }
     },
     {
@@ -991,15 +1621,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7964,
-      "importance": 0.7964,
-      "importance_score": 0.7964,
+      "score": 0.7943,
+      "importance": 0.7943,
+      "importance_score": 0.7943,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.73,
-        "recency": 0.8913,
+        "recency": 0.8792,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1025,89 +1655,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-25T18:07:39.450031Z"
-      }
-    },
-    {
-      "story_id": "story_adf2dec60ff2",
-      "title": "Default Enablement of Copilot features for Copilot Business and Enterprise",
-      "url": "https://github.blog/changelog/2026-09-24-default-enablement-of-copilot-features-for-copilot-business-and-enterprise",
-      "primary_url": "https://github.blog/changelog/2026-09-24-default-enablement-of-copilot-features-for-copilot-business-and-enterprise",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "3bb00bc2b9a93424c1ae41c89d2df35757dfff12",
-          "title": "Default Enablement of Copilot features for Copilot Business and Enterprise",
-          "title_zh": null,
-          "title_en": "Default Enablement of Copilot features for Copilot Business and Enterprise",
-          "title_original": "Default Enablement of Copilot features for Copilot Business and Enterprise",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-24-default-enablement-of-copilot-features-for-copilot-business-and-enterprise",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-25T03:13:23Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "3bb00bc2b9a93424c1ae41c89d2df35757dfff12",
-          "title": "Default Enablement of Copilot features for Copilot Business and Enterprise",
-          "title_zh": null,
-          "title_en": "Default Enablement of Copilot features for Copilot Business and Enterprise",
-          "title_original": "Default Enablement of Copilot features for Copilot Business and Enterprise",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-24-default-enablement-of-copilot-features-for-copilot-business-and-enterprise",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-25T03:13:23Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7876,
-      "importance": 0.7876,
-      "importance_score": 0.7876,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.76,
-        "recency": 0.8091,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-25T03:13:23Z",
-      "latest_at": "2026-09-25T03:13:23Z",
-      "primary_item": {
-        "id": "3bb00bc2b9a93424c1ae41c89d2df35757dfff12",
-        "title": "Default Enablement of Copilot features for Copilot Business and Enterprise",
-        "title_zh": null,
-        "title_en": "Default Enablement of Copilot features for Copilot Business and Enterprise",
-        "title_original": "Default Enablement of Copilot features for Copilot Business and Enterprise",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-24-default-enablement-of-copilot-features-for-copilot-business-and-enterprise",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-25T18:07:39.450031Z"
+        "scored_at": "2026-09-25T19:05:26.603124Z"
       }
     },
     {
@@ -1183,15 +1731,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6672,
-      "importance": 0.6672,
-      "importance_score": 0.6672,
+      "score": 0.6648,
+      "importance": 0.6648,
+      "importance_score": 0.6648,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5832,
         "source_tier": 0.58,
         "ai_relevance": 0.81,
-        "recency": 0.9868,
+        "recency": 0.9734,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1217,7 +1765,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-25T18:07:39.450031Z"
+        "scored_at": "2026-09-25T19:05:26.603124Z"
       }
     },
     {
@@ -1294,15 +1842,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6524,
-      "importance": 0.6524,
-      "importance_score": 0.6524,
+      "score": 0.65,
+      "importance": 0.65,
+      "importance_score": 0.65,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5616,
         "source_tier": 0.58,
         "ai_relevance": 0.78,
-        "recency": 0.974,
+        "recency": 0.9608,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1327,503 +1875,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-25T18:07:39.450031Z"
-      }
-    },
-    {
-      "story_id": "story_e9cf359005d6",
-      "title": "Expired GitHub Actions artifacts no longer shown in UI and API",
-      "url": "https://github.blog/changelog/2026-09-24-expired-github-actions-artifacts-no-longer-shown-in-ui-and-api",
-      "primary_url": "https://github.blog/changelog/2026-09-24-expired-github-actions-artifacts-no-longer-shown-in-ui-and-api",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "41f4214536296d34935804568add0a62edde6edf",
-          "title": "Expired GitHub Actions artifacts no longer shown in UI and API",
-          "title_zh": null,
-          "title_en": "Expired GitHub Actions artifacts no longer shown in UI and API",
-          "title_original": "Expired GitHub Actions artifacts no longer shown in UI and API",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-24-expired-github-actions-artifacts-no-longer-shown-in-ui-and-api",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-24T19:13:02Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "41f4214536296d34935804568add0a62edde6edf",
-          "title": "Expired GitHub Actions artifacts no longer shown in UI and API",
-          "title_zh": null,
-          "title_en": "Expired GitHub Actions artifacts no longer shown in UI and API",
-          "title_original": "Expired GitHub Actions artifacts no longer shown in UI and API",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-24-expired-github-actions-artifacts-no-longer-shown-in-ui-and-api",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-24T19:13:02Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7717,
-      "importance": 0.7717,
-      "importance_score": 0.7717,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.76,
-        "recency": 0.7208,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-24T19:13:02Z",
-      "latest_at": "2026-09-24T19:13:02Z",
-      "primary_item": {
-        "id": "41f4214536296d34935804568add0a62edde6edf",
-        "title": "Expired GitHub Actions artifacts no longer shown in UI and API",
-        "title_zh": null,
-        "title_en": "Expired GitHub Actions artifacts no longer shown in UI and API",
-        "title_original": "Expired GitHub Actions artifacts no longer shown in UI and API",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-24-expired-github-actions-artifacts-no-longer-shown-in-ui-and-api",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-25T18:07:39.450031Z"
-      }
-    },
-    {
-      "story_id": "story_ef34871d3530",
-      "title": "显示 HN：代理 CUDA 内核优化器 / Show HN: Agentic CUDA Kernel Optimizer",
-      "url": "https://github.com/bertaye/agentic-cuda-optimizer",
-      "primary_url": "https://github.com/bertaye/agentic-cuda-optimizer",
-      "source": "Hacker News front page",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "fbd1bb3b615780c3e75f83d5d15fce1e980449e8",
-          "title": "显示 HN：代理 CUDA 内核优化器 / Show HN: Agentic CUDA Kernel Optimizer",
-          "title_zh": "显示 HN：代理 CUDA 内核优化器",
-          "title_en": "Show HN: Agentic CUDA Kernel Optimizer",
-          "title_original": "Show HN: Agentic CUDA Kernel Optimizer",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/bertaye/agentic-cuda-optimizer",
-          "source": "Hacker News front page",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-25T10:32:58Z"
-        },
-        {
-          "id": "f7dfebeec0854007c511d11b4c5563dd985efc90",
-          "title": "显示 HN：代理 CUDA 内核优化器 / Show HN: Agentic CUDA Kernel Optimizer",
-          "title_zh": "显示 HN：代理 CUDA 内核优化器",
-          "title_en": "Show HN: Agentic CUDA Kernel Optimizer",
-          "title_original": "Show HN: Agentic CUDA Kernel Optimizer",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49842596",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-25T10:32:58Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News front page",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "fbd1bb3b615780c3e75f83d5d15fce1e980449e8",
-          "title": "显示 HN：代理 CUDA 内核优化器 / Show HN: Agentic CUDA Kernel Optimizer",
-          "title_zh": "显示 HN：代理 CUDA 内核优化器",
-          "title_en": "Show HN: Agentic CUDA Kernel Optimizer",
-          "title_original": "Show HN: Agentic CUDA Kernel Optimizer",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/bertaye/agentic-cuda-optimizer",
-          "source": "Hacker News front page",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-25T10:32:58Z"
-        },
-        {
-          "id": "f7dfebeec0854007c511d11b4c5563dd985efc90",
-          "title": "显示 HN：代理 CUDA 内核优化器 / Show HN: Agentic CUDA Kernel Optimizer",
-          "title_zh": "显示 HN：代理 CUDA 内核优化器",
-          "title_en": "Show HN: Agentic CUDA Kernel Optimizer",
-          "title_original": "Show HN: Agentic CUDA Kernel Optimizer",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49842596",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-25T10:32:58Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6515,
-      "importance": 0.6515,
-      "importance_score": 0.6515,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.5832,
-        "source_tier": 0.58,
-        "ai_relevance": 0.81,
-        "recency": 0.8994,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-25T10:32:58Z",
-      "latest_at": "2026-09-25T10:32:58Z",
-      "primary_item": {
-        "id": "fbd1bb3b615780c3e75f83d5d15fce1e980449e8",
-        "title": "显示 HN：代理 CUDA 内核优化器 / Show HN: Agentic CUDA Kernel Optimizer",
-        "title_zh": "显示 HN：代理 CUDA 内核优化器",
-        "title_en": "Show HN: Agentic CUDA Kernel Optimizer",
-        "title_original": "Show HN: Agentic CUDA Kernel Optimizer",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.com/bertaye/agentic-cuda-optimizer",
-        "source": "Hacker News front page",
-        "source_name": "Curated Media"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-25T18:07:39.450031Z"
-      }
-    },
-    {
-      "story_id": "story_f3e1f68c842f",
-      "title": "Gemini 3.8 Live with Live Avatar 为谷歌人工智能提供了面孔 / Gemini 3.8 Live with Live Avatar gives Google&#8217;s AI a face",
-      "url": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
-      "primary_url": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
-      "source": "The Verge",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "fe3c5566bff3ecac5b32de5d0283895ee6358a8d",
-          "title": "Gemini 3.8 Live with Live Avatar 为谷歌人工智能提供了面孔 / Gemini 3.8 Live with Live Avatar gives Google&#8217;s AI a face",
-          "title_zh": "Gemini 3.8 Live with Live Avatar 为谷歌人工智能提供了面孔",
-          "title_en": "Gemini 3.8 Live with Live Avatar gives Google&#8217;s AI a face",
-          "title_original": "Gemini 3.8 Live with Live Avatar gives Google&#8217;s AI a face",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-24T19:59:26Z"
-        },
-        {
-          "id": "14a9d0c85fa15f7df6862683dd1a27fa4876522f",
-          "title": "Gemini 3.8 Live with Live Avatar 为谷歌人工智能提供了面孔 / Gemini 3.8 Live with Live Avatar gives Google’s AI a face",
-          "title_zh": "Gemini 3.8 Live with Live Avatar 为谷歌人工智能提供了面孔",
-          "title_en": "Gemini 3.8 Live with Live Avatar gives Google’s AI a face",
-          "title_original": "Gemini 3.8 Live with Live Avatar gives Google’s AI a face",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
-          "source": "The Verge",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-24T19:59:26Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "The Verge"
-      ],
-      "items": [
-        {
-          "id": "fe3c5566bff3ecac5b32de5d0283895ee6358a8d",
-          "title": "Gemini 3.8 Live with Live Avatar 为谷歌人工智能提供了面孔 / Gemini 3.8 Live with Live Avatar gives Google&#8217;s AI a face",
-          "title_zh": "Gemini 3.8 Live with Live Avatar 为谷歌人工智能提供了面孔",
-          "title_en": "Gemini 3.8 Live with Live Avatar gives Google&#8217;s AI a face",
-          "title_original": "Gemini 3.8 Live with Live Avatar gives Google&#8217;s AI a face",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-24T19:59:26Z"
-        },
-        {
-          "id": "14a9d0c85fa15f7df6862683dd1a27fa4876522f",
-          "title": "Gemini 3.8 Live with Live Avatar 为谷歌人工智能提供了面孔 / Gemini 3.8 Live with Live Avatar gives Google’s AI a face",
-          "title_zh": "Gemini 3.8 Live with Live Avatar 为谷歌人工智能提供了面孔",
-          "title_en": "Gemini 3.8 Live with Live Avatar gives Google’s AI a face",
-          "title_original": "Gemini 3.8 Live with Live Avatar gives Google’s AI a face",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
-          "source": "The Verge",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-24T19:59:26Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6208,
-      "importance": 0.6208,
-      "importance_score": 0.6208,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.5832,
-        "source_tier": 0.58,
-        "ai_relevance": 0.81,
-        "recency": 0.7289,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-24T19:59:26Z",
-      "latest_at": "2026-09-24T19:59:26Z",
-      "primary_item": {
-        "id": "fe3c5566bff3ecac5b32de5d0283895ee6358a8d",
-        "title": "Gemini 3.8 Live with Live Avatar 为谷歌人工智能提供了面孔 / Gemini 3.8 Live with Live Avatar gives Google&#8217;s AI a face",
-        "title_zh": "Gemini 3.8 Live with Live Avatar 为谷歌人工智能提供了面孔",
-        "title_en": "Gemini 3.8 Live with Live Avatar gives Google&#8217;s AI a face",
-        "title_original": "Gemini 3.8 Live with Live Avatar gives Google&#8217;s AI a face",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
-        "source": "The Verge",
-        "source_name": "Curated Media"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-25T18:07:39.450031Z"
-      }
-    },
-    {
-      "story_id": "story_3bb099e6ac71",
-      "title": "需要提供存在证明才能进行高影响力的行动 / Require proof of presence for high-impact actions",
-      "url": "https://github.blog/changelog/2026-09-24-require-proof-of-presence-for-high-impact-actions",
-      "primary_url": "https://github.blog/changelog/2026-09-24-require-proof-of-presence-for-high-impact-actions",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "54dc75ab42e07df0638b6f7f918a48ea6cba27cf",
-          "title": "需要提供存在证明才能进行高影响力的行动 / Require proof of presence for high-impact actions",
-          "title_zh": "需要提供存在证明才能进行高影响力的行动",
-          "title_en": "Require proof of presence for high-impact actions",
-          "title_original": "Require proof of presence for high-impact actions",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-24-require-proof-of-presence-for-high-impact-actions",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-24T20:28:33Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "54dc75ab42e07df0638b6f7f918a48ea6cba27cf",
-          "title": "需要提供存在证明才能进行高影响力的行动 / Require proof of presence for high-impact actions",
-          "title_zh": "需要提供存在证明才能进行高影响力的行动",
-          "title_en": "Require proof of presence for high-impact actions",
-          "title_original": "Require proof of presence for high-impact actions",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-24-require-proof-of-presence-for-high-impact-actions",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-24T20:28:33Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7681,
-      "importance": 0.7681,
-      "importance_score": 0.7681,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.73,
-        "recency": 0.734,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-24T20:28:33Z",
-      "latest_at": "2026-09-24T20:28:33Z",
-      "primary_item": {
-        "id": "54dc75ab42e07df0638b6f7f918a48ea6cba27cf",
-        "title": "需要提供存在证明才能进行高影响力的行动 / Require proof of presence for high-impact actions",
-        "title_zh": "需要提供存在证明才能进行高影响力的行动",
-        "title_en": "Require proof of presence for high-impact actions",
-        "title_original": "Require proof of presence for high-impact actions",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-24-require-proof-of-presence-for-high-impact-actions",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-25T18:07:39.450031Z"
-      }
-    },
-    {
-      "story_id": "story_b7de2c02bdae",
-      "title": "利用大型语言模型追溯炼金术知识并破译17世纪的信件 / Using LLMs to trace alchemical knowledge and decode 17th century letters",
-      "url": "https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical",
-      "primary_url": "https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical",
-      "source": "Hacker News front page",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "0a41297512a3e61605ec90f3795501069216860e",
-          "title": "利用大型语言模型追溯炼金术知识并破译17世纪的信件 / Using LLMs to trace alchemical knowledge and decode 17th century letters",
-          "title_zh": "利用大型语言模型追溯炼金术知识并破译17世纪的信件",
-          "title_en": "Using LLMs to trace alchemical knowledge and decode 17th century letters",
-          "title_original": "Using LLMs to trace alchemical knowledge and decode 17th century letters",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical",
-          "source": "Hacker News front page",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-24T19:14:27Z"
-        },
-        {
-          "id": "ca655e766a001f650d294a4a0b296d3e3a0084d0",
-          "title": "使用LLM追踪炼金知识并解码 17 世纪的字母 / Using LLMs to trace alchemical knowledge and decode 17th century letters",
-          "title_zh": "使用LLM追踪炼金知识并解码 17 世纪的字母",
-          "title_en": "Using LLMs to trace alchemical knowledge and decode 17th century letters",
-          "title_original": "Using LLMs to trace alchemical knowledge and decode 17th century letters",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49835531",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-24T19:14:27Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News front page",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "0a41297512a3e61605ec90f3795501069216860e",
-          "title": "利用大型语言模型追溯炼金术知识并破译17世纪的信件 / Using LLMs to trace alchemical knowledge and decode 17th century letters",
-          "title_zh": "利用大型语言模型追溯炼金术知识并破译17世纪的信件",
-          "title_en": "Using LLMs to trace alchemical knowledge and decode 17th century letters",
-          "title_original": "Using LLMs to trace alchemical knowledge and decode 17th century letters",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical",
-          "source": "Hacker News front page",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-24T19:14:27Z"
-        },
-        {
-          "id": "ca655e766a001f650d294a4a0b296d3e3a0084d0",
-          "title": "使用LLM追踪炼金知识并解码 17 世纪的字母 / Using LLMs to trace alchemical knowledge and decode 17th century letters",
-          "title_zh": "使用LLM追踪炼金知识并解码 17 世纪的字母",
-          "title_en": "Using LLMs to trace alchemical knowledge and decode 17th century letters",
-          "title_original": "Using LLMs to trace alchemical knowledge and decode 17th century letters",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49835531",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-24T19:14:27Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6193,
-      "importance": 0.6193,
-      "importance_score": 0.6193,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.5832,
-        "source_tier": 0.58,
-        "ai_relevance": 0.81,
-        "recency": 0.721,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-24T19:14:27Z",
-      "latest_at": "2026-09-24T19:14:27Z",
-      "primary_item": {
-        "id": "0a41297512a3e61605ec90f3795501069216860e",
-        "title": "利用大型语言模型追溯炼金术知识并破译17世纪的信件 / Using LLMs to trace alchemical knowledge and decode 17th century letters",
-        "title_zh": "利用大型语言模型追溯炼金术知识并破译17世纪的信件",
-        "title_en": "Using LLMs to trace alchemical knowledge and decode 17th century letters",
-        "title_original": "Using LLMs to trace alchemical knowledge and decode 17th century letters",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical",
-        "source": "Hacker News front page",
-        "source_name": "Curated Media"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-25T18:07:39.450031Z"
+        "scored_at": "2026-09-25T19:05:26.603124Z"
       }
     }
   ]

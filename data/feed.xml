@@ -5,7 +5,7 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Fri, 25 Sep 2026 17:53:31 +0000</lastBuildDate>
+<lastBuildDate>Fri, 25 Sep 2026 18:50:10 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
 <item>
 <title>Proaction boosts sales 60% and saves 75+ hours with Codex</title>
@@ -13,7 +13,15 @@
 <guid isPermaLink="true">https://openai.com/index/proaction</guid>
 <description>OpenAI News</description>
 <category>官方更新</category>
-<pubDate>Fri, 25 Sep 2026 17:53:31 +0000</pubDate>
+<pubDate>Fri, 25 Sep 2026 19:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Agentic autofix now uses Copilot Memory</title>
+<link>https://github.blog/changelog/2026-09-25-agentic-autofix-now-uses-copilot-memory</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-09-25-agentic-autofix-now-uses-copilot-memory</guid>
+<description>GitHub Changelog</description>
+<category>官方更新</category>
+<pubDate>Fri, 25 Sep 2026 17:25:50 +0000</pubDate>
 </item>
 <item>
 <title>Codex CLI 0.157.0</title>
@@ -24,20 +32,12 @@
 <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
-<title>GitHub Copilot weekly releases — September 21</title>
-<link>https://github.blog/changelog/2026-09-25-github-copilot-weekly-releases-september-21</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-09-25-github-copilot-weekly-releases-september-21</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Fri, 25 Sep 2026 16:42:48 +0000</pubDate>
-</item>
-<item>
-<title>GitHub Security Lab 发布 LLM 驱动的 Fuzzing Taskflow，自动完成 C/C++ 项目模糊测试全流程 / AI-powered fuzzing with the GitHub Security Lab Taskflow Agent</title>
-<link>https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent</link>
-<guid isPermaLink="true">https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent</guid>
+<title>GitHub Copilot app 新手教程：如何用 canvases 构建自定义工作流 / GitHub Copilot app for Beginners: How to build custom workflows with canvases</title>
+<link>https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-build-custom-workflows-with-canvases</link>
+<guid isPermaLink="true">https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-build-custom-workflows-with-canvases</guid>
 <description>GitHub AI &amp; ML</description>
 <category>官方更新</category>
-<pubDate>Thu, 24 Sep 2026 18:26:12 +0000</pubDate>
+<pubDate>Fri, 25 Sep 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
 <title>OpenAI 智能体集群数月来入侵在线数据库搜寻冷门数据，Transluce 与澳政府相继披露 / For months， OpenAI's agent swarms have been attacking online databases to find obscure facts</title>
@@ -56,12 +56,28 @@
 <pubDate>Fri, 25 Sep 2026 15:29:25 +0000</pubDate>
 </item>
 <item>
-<title>Updates to GitHub Copilot for Slack and Microsoft Teams</title>
-<link>https://github.blog/changelog/2026-09-25-updates-to-github-copilot-for-slack-and-microsoft-teams</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-09-25-updates-to-github-copilot-for-slack-and-microsoft-teams</guid>
+<title>Changes to query results in the GitHub Actions API and UI</title>
+<link>https://github.blog/changelog/2026-09-25-changes-to-query-results-in-the-github-actions-api-and-ui</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-09-25-changes-to-query-results-in-the-github-actions-api-and-ui</guid>
 <description>GitHub Changelog</description>
 <category>官方更新</category>
-<pubDate>Fri, 25 Sep 2026 16:33:42 +0000</pubDate>
+<pubDate>Fri, 25 Sep 2026 18:17:06 +0000</pubDate>
+</item>
+<item>
+<title>Claude Devs 测算 Opus 5.5 相比 Opus 5 在 Claude Code 任务中的成本变化 / Opus 5.5 is 20% cheaper per input and output token than Opus 5， and 60% cheaper on cache reads. So w…</title>
+<link>https://x.com/ClaudeDevs/status/2103548467729887677</link>
+<guid isPermaLink="true">https://x.com/ClaudeDevs/status/2103548467729887677</guid>
+<description>Opus 5.5 每输入和输出 token 比 Opus 5 便宜 20%，缓存读取便宜 60%。作者据此计算了在 Claude Code 中完成一个任务的实际成本变化，并发布了计算器，读者可从 /usage 运行自己的测算，详见 https://claude.dev/blog/what-a-task-costs-on-opus-5-5/。（X：Claude Devs (@ClaudeDevs)）</description>
+<category>官方更新</category>
+<pubDate>Fri, 25 Sep 2026 18:13:31 +0000</pubDate>
+</item>
+<item>
+<title>Claude 完成 N=4 超对称 Yang-Mills 九圈振幅计算，物理学家 Matt von Hippel 复盘挑战始末 / Yes， Claude can do Nine Loops</title>
+<link>https://www.anthropic.com/research/yes-claude-can-do-nine-loops</link>
+<guid isPermaLink="true">https://www.anthropic.com/research/yes-claude-can-do-nine-loops</guid>
+<description>物理学家 Matt von Hippel 发文复盘：Anthropic 的 Liam Fitzpatrick 和 Siddharth Mishra-Sharma 用 Claude Science（Fable 5.1）以约一两千美元预算完成平面 N=4 超对称 Yang-Mills 六粒子九圈振幅计算。（Anthropic：Research（发表成果 · 网页））</description>
+<category>行业动态</category>
+<pubDate>Fri, 25 Sep 2026 18:11:48 +0000</pubDate>
 </item>
 <item>
 <title>OpenAI 智能体被曝今年至少 4 次未经指示闯入政府和学校网站</title>
@@ -72,12 +88,28 @@
 <pubDate>Fri, 25 Sep 2026 07:02:05 +0000</pubDate>
 </item>
 <item>
+<title>GitHub Copilot weekly releases — September 21</title>
+<link>https://github.blog/changelog/2026-09-25-github-copilot-weekly-releases-september-21</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-09-25-github-copilot-weekly-releases-september-21</guid>
+<description>GitHub Changelog</description>
+<category>官方更新</category>
+<pubDate>Fri, 25 Sep 2026 16:42:48 +0000</pubDate>
+</item>
+<item>
 <title>Anthropic 创始人拟在 IPO 前谋求投票控制权 / Anthropic's founders seek voting control ahead of IPO</title>
 <link>https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo</link>
 <guid isPermaLink="true">https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo</guid>
 <description>据 The Information 报道，Anthropic 正请求股东在未来几天批准一项结构，让 CEO Dario Amodei 与六位联合创始人通过特别股合计持有多数公司事务 50.1% 的投票权，前提是至少三人保留最低持股。（TechCrunch：AI（RSS））</description>
 <category>行业动态</category>
 <pubDate>Fri, 25 Sep 2026 15:40:03 +0000</pubDate>
+</item>
+<item>
+<title>Anthropic 称 Claude 完成平面 N=4 超杨-米尔斯理论九圈散射振幅计算 / New on the Science Blog： Yes， Claude can do Nine Loops. Theoretical physicists predict how particle…</title>
+<link>https://x.com/AnthropicAI/status/2103541577083719888</link>
+<guid isPermaLink="true">https://x.com/AnthropicAI/status/2103541577083719888</guid>
+<description>Anthropic 在科学博客称，物理学家 @4gravitons 发起挑战后，Claude 在 Claude Science 中依据单个提示词 largely unsupervised 地运行数天，在平面 N=4 超杨-米尔斯模型中完成九圈散射振幅计算，总成本约几千美元。（X：Anthropic (@AnthropicAI)）</description>
+<category>行业动态</category>
+<pubDate>Fri, 25 Sep 2026 17:46:08 +0000</pubDate>
 </item>
 <item>
 <title>当聊天是错误的 UI 时 / When chat is the wrong UI</title>
@@ -88,20 +120,36 @@
 <pubDate>Thu, 24 Sep 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
+<title>Updates to GitHub Copilot for Slack and Microsoft Teams</title>
+<link>https://github.blog/changelog/2026-09-25-updates-to-github-copilot-for-slack-and-microsoft-teams</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-09-25-updates-to-github-copilot-for-slack-and-microsoft-teams</guid>
+<description>GitHub Changelog</description>
+<category>官方更新</category>
+<pubDate>Fri, 25 Sep 2026 16:33:42 +0000</pubDate>
+</item>
+<item>
+<title>Claude 开放插件目录提交门户，Plugins 成为第三方扩展的主要方式 / Build plugins for Claude</title>
+<link>https://claude.com/blog/build-plugins-for-claude</link>
+<guid isPermaLink="true">https://claude.com/blog/build-plugins-for-claude</guid>
+<description>Anthropic 宣布 Plugins 是为 Claude 构建第三方扩展的主要方式，插件可打包 MCP 连接器、Agent Skills 或两者，经新的目录提交门户审核后上架 Claude 目录。（Claude：Blog（网页））</description>
+<category>行业动态</category>
+<pubDate>Fri, 25 Sep 2026 18:09:06 +0000</pubDate>
+</item>
+<item>
+<title>Tesla&amp;#8217;s Optimus robot is going through growing pains</title>
+<link>https://www.theverge.com/tech/1000794/tesla-optimus-production-issues-hands</link>
+<guid isPermaLink="true">https://www.theverge.com/tech/1000794/tesla-optimus-production-issues-hands</guid>
+<description>The Verge</description>
+<category>值得关注</category>
+<pubDate>Fri, 25 Sep 2026 17:01:36 +0000</pubDate>
+</item>
+<item>
 <title>CodeQL 2.27.1 添加了 C 和 C++ 查询以及 Kotlin 2.4.20 支持 / CodeQL 2.27.1 adds C and C++ query and Kotlin 2.4.20 support</title>
 <link>https://github.blog/changelog/2026-09-25-codeql-2-27-1-adds-c-and-c-query-and-kotlin-2-4-20-support</link>
 <guid isPermaLink="true">https://github.blog/changelog/2026-09-25-codeql-2-27-1-adds-c-and-c-query-and-kotlin-2-4-20-support</guid>
 <description>GitHub Changelog</description>
 <category>官方更新</category>
 <pubDate>Fri, 25 Sep 2026 09:55:23 +0000</pubDate>
-</item>
-<item>
-<title>Default Enablement of Copilot features for Copilot Business and Enterprise</title>
-<link>https://github.blog/changelog/2026-09-24-default-enablement-of-copilot-features-for-copilot-business-and-enterprise</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-09-24-default-enablement-of-copilot-features-for-copilot-business-and-enterprise</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Fri, 25 Sep 2026 03:13:23 +0000</pubDate>
 </item>
 <item>
 <title>Appeals Court Lets the Pentagon Designate Anthropic a Supply-Chain Risk</title>
@@ -118,46 +166,6 @@
 <description>Hacker News front page</description>
 <category>值得关注</category>
 <pubDate>Fri, 25 Sep 2026 16:04:04 +0000</pubDate>
-</item>
-<item>
-<title>Expired GitHub Actions artifacts no longer shown in UI and API</title>
-<link>https://github.blog/changelog/2026-09-24-expired-github-actions-artifacts-no-longer-shown-in-ui-and-api</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-09-24-expired-github-actions-artifacts-no-longer-shown-in-ui-and-api</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Thu, 24 Sep 2026 19:13:02 +0000</pubDate>
-</item>
-<item>
-<title>显示 HN：代理 CUDA 内核优化器 / Show HN: Agentic CUDA Kernel Optimizer</title>
-<link>https://github.com/bertaye/agentic-cuda-optimizer</link>
-<guid isPermaLink="true">https://github.com/bertaye/agentic-cuda-optimizer</guid>
-<description>Hacker News front page</description>
-<category>值得关注</category>
-<pubDate>Fri, 25 Sep 2026 10:32:58 +0000</pubDate>
-</item>
-<item>
-<title>Gemini 3.8 Live with Live Avatar 为谷歌人工智能提供了面孔 / Gemini 3.8 Live with Live Avatar gives Google&amp;#8217;s AI a face</title>
-<link>https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face</link>
-<guid isPermaLink="true">https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face</guid>
-<description>The Verge</description>
-<category>值得关注</category>
-<pubDate>Thu, 24 Sep 2026 19:59:26 +0000</pubDate>
-</item>
-<item>
-<title>需要提供存在证明才能进行高影响力的行动 / Require proof of presence for high-impact actions</title>
-<link>https://github.blog/changelog/2026-09-24-require-proof-of-presence-for-high-impact-actions</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-09-24-require-proof-of-presence-for-high-impact-actions</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Thu, 24 Sep 2026 20:28:33 +0000</pubDate>
-</item>
-<item>
-<title>利用大型语言模型追溯炼金术知识并破译17世纪的信件 / Using LLMs to trace alchemical knowledge and decode 17th century letters</title>
-<link>https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical</link>
-<guid isPermaLink="true">https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical</guid>
-<description>Hacker News front page</description>
-<category>值得关注</category>
-<pubDate>Thu, 24 Sep 2026 19:14:27 +0000</pubDate>
 </item>
 </channel>
 </rss>
