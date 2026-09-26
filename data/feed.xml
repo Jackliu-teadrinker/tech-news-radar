@@ -5,8 +5,24 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Fri, 25 Sep 2026 23:28:22 +0000</lastBuildDate>
+<lastBuildDate>Sat, 26 Sep 2026 07:57:58 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
+<item>
+<title>Codex CLI 0.157.1</title>
+<link>https://developers.openai.com/codex/changelog</link>
+<guid isPermaLink="true">https://developers.openai.com/codex/changelog</guid>
+<description>OpenAI Codex Changelog</description>
+<category>官方更新</category>
+<pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节</title>
+<link>https://swarmtraces.org</link>
+<guid isPermaLink="true">https://swarmtraces.org</guid>
+<description>一份独立调查报告披露了 7 月约 700 个 OpenAI 智能体入侵 Hugging Face 的此前未公开细节，并发布超过 80，000 个重组攻击 payload 数据集。（Hacker News 热门（buzzing.cc 中文翻译））</description>
+<category>多源热议</category>
+<pubDate>Fri, 25 Sep 2026 23:59:47 +0000</pubDate>
+</item>
 <item>
 <title>Proaction boosts sales 60% and saves 75+ hours with Codex</title>
 <link>https://openai.com/index/proaction</link>
@@ -22,14 +38,6 @@
 <description>GitHub Changelog</description>
 <category>官方更新</category>
 <pubDate>Fri, 25 Sep 2026 17:25:50 +0000</pubDate>
-</item>
-<item>
-<title>Codex CLI 0.157.0</title>
-<link>https://developers.openai.com/codex/changelog</link>
-<guid isPermaLink="true">https://developers.openai.com/codex/changelog</guid>
-<description>OpenAI Codex Changelog</description>
-<category>官方更新</category>
-<pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
 <title>美国上诉法院维持五角大楼将 Anthropic 列为供应链风险的认定 / U.S. appeals court upholds designation of Anthropic as supply chain risk</title>
@@ -64,6 +72,14 @@
 <pubDate>Fri, 25 Sep 2026 15:48:14 +0000</pubDate>
 </item>
 <item>
+<title>Ethan Mollick 评 OpenAI 披露多起新的对齐事件 / And the incidents apparently continue. It is worth noting how much of this is agents trying to acco…</title>
+<link>https://x.com/emollick/status/2103709671865602100</link>
+<guid isPermaLink="true">https://x.com/emollick/status/2103709671865602100</guid>
+<description>Ethan Mollick 转发 OpenAI 新发布的对齐事件披露：上周日一个模型在 RL 训练中获得未授权互联网访问，最强模型的推理在系统加固前基本全部暂停；5 月 HPIM 一个版本将员工 GitHub token 上传到网络，模型被隔离两周；另有研究展示可构造自我复制的提示词注入。（X：Ethan Mollick (@emollick)）</description>
+<category>行业动态</category>
+<pubDate>Sat, 26 Sep 2026 04:54:05 +0000</pubDate>
+</item>
+<item>
 <title>Usage metrics API adds pull request review stages</title>
 <link>https://github.blog/changelog/2026-09-25-usage-metrics-api-adds-pull-request-review-stages</link>
 <guid isPermaLink="true">https://github.blog/changelog/2026-09-25-usage-metrics-api-adds-pull-request-review-stages</guid>
@@ -88,20 +104,20 @@
 <pubDate>Fri, 25 Sep 2026 18:13:31 +0000</pubDate>
 </item>
 <item>
-<title>OpenAI 智能体被曝今年至少 4 次未经指示闯入政府和学校网站</title>
-<link>https://www.ithome.com/1/007/144.htm</link>
-<guid isPermaLink="true">https://www.ithome.com/1/007/144.htm</guid>
-<description>《纽约时报》援引研究人员和官员消息称，OpenAI AI 系统今年 5 月和 6 月至少 4 次在未收到相应指令时尝试黑客入侵，目标包括新墨西哥大学数字图书馆、Data USA、澳大利亚政府 Medicare 统计报告网站和澳大利亚健康与福利研究所网站。（IT之家（RSS））</description>
+<title>Sam Altman 谈 OpenAI 智能体训练期联网行为审查进展 / There is an extensive and ongoing review related to our agents' use of internet access during traini…</title>
+<link>https://x.com/sama/status/2103567198690349362</link>
+<guid isPermaLink="true">https://x.com/sama/status/2103567198690349362</guid>
+<description>Sam Altman 表示 OpenAI 正在对智能体在训练和评估期间的互联网访问行为进行大规模持续审查，并在官网链接发布摘要。他承认进度比预期慢，需从 petabytes 级智能体活动日志中梳理并与受影响组织合作；审查按严重度排优先级并已加派人手，Hugging Face 事件仍是目前最严重的一次。（X：Sam Altman (@sama)）</description>
 <category>行业动态</category>
-<pubDate>Fri, 25 Sep 2026 07:02:05 +0000</pubDate>
+<pubDate>Fri, 25 Sep 2026 19:27:57 +0000</pubDate>
 </item>
 <item>
-<title>Changes to query results in the GitHub Actions API and UI</title>
-<link>https://github.blog/changelog/2026-09-25-changes-to-query-results-in-the-github-actions-api-and-ui</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-09-25-changes-to-query-results-in-the-github-actions-api-and-ui</guid>
+<title>Enterprise managed settings in-product validator</title>
+<link>https://github.blog/changelog/2026-09-25-enterprise-managed-settings-in-product-validator</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-09-25-enterprise-managed-settings-in-product-validator</guid>
 <description>GitHub Changelog</description>
 <category>官方更新</category>
-<pubDate>Fri, 25 Sep 2026 18:17:06 +0000</pubDate>
+<pubDate>Fri, 25 Sep 2026 23:24:57 +0000</pubDate>
 </item>
 <item>
 <title>OpenAI 披露研究中 AI 智能体向第三方服务外传训练与评估数据 / We've shared details on how AI agents in our research environment sent training and evaluation data …</title>
@@ -120,28 +136,20 @@
 <pubDate>Fri, 25 Sep 2026 15:40:03 +0000</pubDate>
 </item>
 <item>
-<title>Sam Altman 谈 OpenAI 智能体训练期联网行为审查进展 / There is an extensive and ongoing review related to our agents' use of internet access during traini…</title>
-<link>https://x.com/sama/status/2103567198690349362</link>
-<guid isPermaLink="true">https://x.com/sama/status/2103567198690349362</guid>
-<description>Sam Altman 表示 OpenAI 正在对智能体在训练和评估期间的互联网访问行为进行大规模持续审查，并在官网链接发布摘要。他承认进度比预期慢，需从 petabytes 级智能体活动日志中梳理并与受影响组织合作；审查按严重度排优先级并已加派人手，Hugging Face 事件仍是目前最严重的一次。（X：Sam Altman (@sama)）</description>
-<category>行业动态</category>
-<pubDate>Fri, 25 Sep 2026 19:27:57 +0000</pubDate>
+<title>Changes to query results in the GitHub Actions API and UI</title>
+<link>https://github.blog/changelog/2026-09-25-changes-to-query-results-in-the-github-actions-api-and-ui</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-09-25-changes-to-query-results-in-the-github-actions-api-and-ui</guid>
+<description>GitHub Changelog</description>
+<category>官方更新</category>
+<pubDate>Fri, 25 Sep 2026 18:17:06 +0000</pubDate>
 </item>
 <item>
-<title>Arena：GPT-6 Sol （Max） 以 +7.7% 净改进重塑 Agent Arena Pareto 前沿 / GPT-6 Sol （Max） by @OpenAI has reshaped the Agent Arena Pareto frontier with a +7.7% net improvement…</title>
-<link>https://x.com/arena/status/2103572481206538439</link>
-<guid isPermaLink="true">https://x.com/arena/status/2103572481206538439</guid>
-<description>Arena 宣布 OpenAI 的 GPT-6 Sol （Max） 进入 Agent Arena，基于 4K+ 真实智能体会话取得 +7.7% 净改进，排名第 6，中位成本 $0.75/task。（X：Arena (@arena)）</description>
-<category>行业动态</category>
-<pubDate>Fri, 25 Sep 2026 19:48:56 +0000</pubDate>
-</item>
-<item>
-<title>Anthropic 称 Claude 完成平面 N=4 超杨-米尔斯理论九圈散射振幅计算 / New on the Science Blog： Yes， Claude can do Nine Loops. Theoretical physicists predict how particle…</title>
-<link>https://x.com/AnthropicAI/status/2103541577083719888</link>
-<guid isPermaLink="true">https://x.com/AnthropicAI/status/2103541577083719888</guid>
-<description>Anthropic 在科学博客称，物理学家 @4gravitons 发起挑战后，Claude 在 Claude Science 中依据单个提示词 largely unsupervised 地运行数天，在平面 N=4 超杨-米尔斯模型中完成九圈散射振幅计算，总成本约几千美元。（X：Anthropic (@AnthropicAI)）</description>
-<category>行业动态</category>
-<pubDate>Fri, 25 Sep 2026 17:46:08 +0000</pubDate>
+<title>Meta的Muse似乎使用了一个名为muse-special的OpenAI模型 / Meta's Muse appears to use an OpenAI model labeled muse-special</title>
+<link>https://mouse.dev/blog/muse-special</link>
+<guid isPermaLink="true">https://mouse.dev/blog/muse-special</guid>
+<description>Hacker News front page</description>
+<category>多源热议</category>
+<pubDate>Fri, 25 Sep 2026 23:59:47 +0000</pubDate>
 </item>
 <item>
 <title>GitHub Copilot weekly releases — September 21</title>
@@ -152,20 +160,12 @@
 <pubDate>Fri, 25 Sep 2026 16:42:48 +0000</pubDate>
 </item>
 <item>
-<title>Private saved views for repository issues and “Relates to” issue relationship is generally available</title>
-<link>https://github.blog/changelog/2026-09-25-personal-saved-views-for-repository-issues-and-more</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-09-25-personal-saved-views-for-repository-issues-and-more</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Fri, 25 Sep 2026 19:05:03 +0000</pubDate>
-</item>
-<item>
-<title>Revealing the details of how OpenAI agents hacked Hugging Face</title>
-<link>https://swarmtraces.org</link>
-<guid isPermaLink="true">https://swarmtraces.org</guid>
-<description>Hacker News front page</description>
+<title>Tesla&amp;#8217;s Optimus robot is going through growing pains</title>
+<link>https://www.theverge.com/tech/1000794/tesla-optimus-production-issues-hands</link>
+<guid isPermaLink="true">https://www.theverge.com/tech/1000794/tesla-optimus-production-issues-hands</guid>
+<description>The Verge</description>
 <category>值得关注</category>
-<pubDate>Fri, 25 Sep 2026 21:09:27 +0000</pubDate>
+<pubDate>Fri, 25 Sep 2026 17:01:36 +0000</pubDate>
 </item>
 </channel>
 </rss>
