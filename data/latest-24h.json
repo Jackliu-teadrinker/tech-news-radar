@@ -1,34 +1,34 @@
 {
-  "generated_at": "2026-09-26T21:26:31.852806Z",
+  "generated_at": "2026-09-26T23:29:18.954020Z",
   "window_hours": 24,
-  "total_items": 153,
-  "total_items_ai_raw": 204,
-  "total_items_raw": 880,
-  "total_items_all_mode": 321,
+  "total_items": 138,
+  "total_items_ai_raw": 185,
+  "total_items_raw": 853,
+  "total_items_all_mode": 297,
   "topic_filter": "tech_broad_scoring_v1_0",
   "ai_relevance_threshold": 0.65,
   "tech_relevance_mode": "broad",
-  "archive_total": 19464,
+  "archive_total": 19536,
   "site_count": 17,
-  "source_count": 51,
+  "source_count": 47,
   "site_stats": [
     {
       "site_id": "curated_media",
       "site_name": "Curated Media",
-      "count": 61,
-      "raw_count": 119
+      "count": 57,
+      "raw_count": 112
     },
     {
       "site_id": "techurls",
       "site_name": "TechURLs",
-      "count": 26,
-      "raw_count": 254
+      "count": 23,
+      "raw_count": 245
     },
     {
       "site_id": "sector_sources",
       "site_name": "Sector Sources",
-      "count": 20,
-      "raw_count": 119
+      "count": 17,
+      "raw_count": 108
     },
     {
       "site_id": "newsnow",
@@ -39,8 +39,14 @@
     {
       "site_id": "followbuilders",
       "site_name": "Follow Builders",
-      "count": 9,
-      "raw_count": 16
+      "count": 8,
+      "raw_count": 12
+    },
+    {
+      "site_id": "buzzing",
+      "site_name": "Buzzing",
+      "count": 7,
+      "raw_count": 110
     },
     {
       "site_id": "aihot",
@@ -49,40 +55,34 @@
       "raw_count": 6
     },
     {
-      "site_id": "buzzing",
-      "site_name": "Buzzing",
-      "count": 6,
-      "raw_count": 104
-    },
-    {
-      "site_id": "hackernews",
-      "site_name": "Hacker News",
-      "count": 3,
-      "raw_count": 5
-    },
-    {
-      "site_id": "zeli",
-      "site_name": "Zeli",
-      "count": 3,
-      "raw_count": 45
-    },
-    {
-      "site_id": "official_ai",
-      "site_name": "Official AI Updates",
-      "count": 2,
-      "raw_count": 2
-    },
-    {
       "site_id": "opmlrss",
       "site_name": "OPML RSS",
       "count": 2,
       "raw_count": 4
     },
     {
+      "site_id": "hackernews",
+      "site_name": "Hacker News",
+      "count": 2,
+      "raw_count": 5
+    },
+    {
+      "site_id": "official_ai",
+      "site_name": "Official AI Updates",
+      "count": 1,
+      "raw_count": 1
+    },
+    {
       "site_id": "iris",
       "site_name": "Info Flow",
       "count": 0,
       "raw_count": 94
+    },
+    {
+      "site_id": "zeli",
+      "site_name": "Zeli",
+      "count": 0,
+      "raw_count": 44
     },
     {
       "site_id": "waytoagi",
@@ -129,7 +129,7 @@
       "url": "https://developers.openai.com/codex/changelog",
       "published_at": "2026-09-26T00:00:00Z",
       "first_seen_at": "2026-09-26T07:57:58.032102Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 1.0,
       "ai_label": "dev_tool",
@@ -173,48 +173,6 @@
       "title_bilingual": "Codex CLI 0.157.1"
     },
     {
-      "id": "dd059b79660393da2ac0c82f4ed19cc35a008a33",
-      "site_id": "official_ai",
-      "site_name": "Official AI Updates",
-      "source": "GitHub Changelog",
-      "title": "Enterprise managed settings in-product validator",
-      "url": "https://github.blog/changelog/2026-09-25-enterprise-managed-settings-in-product-validator",
-      "published_at": "2026-09-25T23:24:57Z",
-      "first_seen_at": "2026-09-26T07:57:58.032102Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
-      "ai_is_related": true,
-      "ai_score": 0.73,
-      "ai_label": "dev_tool",
-      "ai_relevance_reason": "matched_tech_signal",
-      "ai_signals": [
-        "ai"
-      ],
-      "ai_noise": [],
-      "tech_is_related": true,
-      "tech_score": 0.73,
-      "tech_label": "dev_tool",
-      "source_tier": "official",
-      "source_tier_label": "官方一手源",
-      "source_tier_rank": 0,
-      "direction": "ai_models_apps",
-      "direction_hits": [
-        {
-          "direction_id": "ai_models_apps",
-          "score": 1.35,
-          "matched_keywords": [
-            "enterprise",
-            "github"
-          ],
-          "companies": []
-        }
-      ],
-      "companies": [],
-      "title_original": "Enterprise managed settings in-product validator",
-      "title_en": "Enterprise managed settings in-product validator",
-      "title_zh": "企业管理的设置产品内验证器",
-      "title_bilingual": "企业管理的设置产品内验证器 / Enterprise managed settings in-product validator"
-    },
-    {
       "id": "1640607f31c4a14cd3b66072a037aa8b68ba650e",
       "site_id": "aihot",
       "site_name": "AI HOT",
@@ -223,7 +181,7 @@
       "url": "https://x.com/arena/status/2103893011164017018",
       "published_at": "2026-09-26T17:02:36Z",
       "first_seen_at": "2026-09-26T17:57:14.360545Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "aihot_score": 78,
       "aihot_category": "ai-models",
       "aihot_selected": true,
@@ -260,7 +218,7 @@
       "url": "https://www.ithome.com/1/007/444.htm",
       "published_at": "2026-09-26T15:44:10Z",
       "first_seen_at": "2026-09-26T17:02:09.294367Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "aihot_score": 80,
       "aihot_category": "paper",
       "aihot_selected": true,
@@ -297,7 +255,7 @@
       "url": "https://www.bbc.com/news/articles/cw62jje658dlo",
       "published_at": "2026-09-26T14:03:54Z",
       "first_seen_at": "2026-09-26T21:26:31.852806Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "aihot_score": 86,
       "aihot_category": "industry",
       "aihot_selected": true,
@@ -350,7 +308,7 @@
       "url": "https://the-decoder.com/openai-pauses-its-most-capable-models-after-agents-exploit-loopholes-and-leak-data",
       "published_at": "2026-09-26T09:06:36Z",
       "first_seen_at": "2026-09-26T12:10:50.326163Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "aihot_score": 85,
       "aihot_category": "tip",
       "aihot_selected": true,
@@ -419,7 +377,7 @@
       "url": "https://x.com/emollick/status/2103709671865602100",
       "published_at": "2026-09-26T04:54:05Z",
       "first_seen_at": "2026-09-26T07:57:58.032102Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "aihot_score": 78,
       "aihot_category": "tip",
       "aihot_selected": true,
@@ -470,7 +428,7 @@
       "url": "https://swarmtraces.org",
       "published_at": "2026-09-25T23:59:47.248000Z",
       "first_seen_at": "2026-09-26T07:57:58.032102Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "aihot_score": 82,
       "aihot_category": "paper",
       "aihot_selected": true,
@@ -516,6 +474,53 @@
       "title_bilingual": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节"
     },
     {
+      "id": "fa043c1011f9a5de6b515216e952563bc12f092f",
+      "site_id": "curated_media",
+      "site_name": "Curated Media",
+      "source": "Engadget",
+      "title": "iPhone 18 Pro vs. iPhone 17 Pro: What's new?",
+      "url": "https://www.engadget.com/2267863/iphone-18-pro-vs-17-pro-comparison-explained",
+      "published_at": "2026-09-26T22:45:00Z",
+      "first_seen_at": "2026-09-26T23:29:18.954020Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
+      "ai_is_related": true,
+      "ai_score": 0.78,
+      "ai_label": "consumer_hw",
+      "ai_relevance_reason": "matched_strong_tech_signal",
+      "ai_signals": [
+        "iphone"
+      ],
+      "ai_noise": [],
+      "tech_is_related": true,
+      "tech_score": 0.78,
+      "tech_label": "consumer_hw",
+      "source_tier": "ai_media",
+      "source_tier_label": "精选AI媒体",
+      "source_tier_rank": 2,
+      "direction": "ai_terminal",
+      "direction_hits": [
+        {
+          "direction_id": "ai_terminal",
+          "score": 1.75,
+          "matched_keywords": [
+            "iphone",
+            "ar",
+            "iphone"
+          ],
+          "companies": [
+            "iphone"
+          ]
+        }
+      ],
+      "companies": [
+        "iphone"
+      ],
+      "title_original": "iPhone 18 Pro vs. iPhone 17 Pro: What's new?",
+      "title_en": "iPhone 18 Pro vs. iPhone 17 Pro: What's new?",
+      "title_zh": null,
+      "title_bilingual": "iPhone 18 Pro vs. iPhone 17 Pro: What's new?"
+    },
+    {
       "id": "31c994fb13971a7f15d4c96af8fe2d1baf475b41",
       "site_id": "curated_media",
       "site_name": "Curated Media",
@@ -524,7 +529,7 @@
       "url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs",
       "published_at": "2026-09-26T21:02:06Z",
       "first_seen_at": "2026-09-26T21:26:31.852806Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.56,
       "ai_label": "tech_general",
@@ -556,7 +561,7 @@
       "url": "https://www.engadget.com/2269877/this-external-gpu-uses-wi-fi-to-transform-any-device-into-a-gaming-rig",
       "published_at": "2026-09-26T19:45:00Z",
       "first_seen_at": "2026-09-26T21:26:31.852806Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.56,
       "ai_label": "chip_semi",
@@ -598,7 +603,7 @@
       "url": "https://the-decoder.com/former-ukrainian-defense-minister-fedorov-pitches-a-private-sector-robot-army",
       "published_at": "2026-09-26T19:10:20Z",
       "first_seen_at": "2026-09-26T19:40:42.658745Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.59,
       "ai_label": "robotics",
@@ -631,7 +636,7 @@
       "url": "https://arxiv.org/abs/2609.22978",
       "published_at": "2026-09-26T18:22:41Z",
       "first_seen_at": "2026-09-26T21:26:31.852806Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.78,
       "ai_label": "ai_model",
@@ -665,8 +670,8 @@
       ],
       "title_original": "DeepSeek Elastic Compute (DSec)",
       "title_en": "DeepSeek Elastic Compute (DSec)",
-      "title_zh": null,
-      "title_bilingual": "DeepSeek Elastic Compute (DSec)"
+      "title_zh": "DeepSeek 弹性计算 (DSec)",
+      "title_bilingual": "DeepSeek 弹性计算 (DSec) / DeepSeek Elastic Compute (DSec)"
     },
     {
       "id": "377b7ee8968cd2d78fad6e3f9b9c623863b05cff",
@@ -677,7 +682,7 @@
       "url": "https://the-decoder.com/two-thirds-of-it-leaders-report-ai-results-but-few-would-interrupt-the-ceos-vacation-over-them",
       "published_at": "2026-09-26T17:27:52Z",
       "first_seen_at": "2026-09-26T17:57:14.360545Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.56,
       "ai_label": "tech_general",
@@ -709,7 +714,7 @@
       "url": "https://the-decoder.com/ai-access-makes-people-almost-entirely-unwilling-to-say-i-dont-know-study-finds",
       "published_at": "2026-09-26T16:56:36Z",
       "first_seen_at": "2026-09-26T17:02:09.294367Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.56,
       "ai_label": "tech_general",
@@ -783,7 +788,7 @@
       "url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
       "published_at": "2026-09-26T16:34:59Z",
       "first_seen_at": "2026-09-26T17:02:09.294367Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.81,
       "ai_label": "ai_model",
@@ -895,7 +900,7 @@
       "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-opus-55-uses-95-percent-fewer-em-dashes-but-its-answers-are-getting-longer",
       "published_at": "2026-09-26T16:26:58Z",
       "first_seen_at": "2026-09-26T17:02:09.294367Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.78,
       "ai_label": "ai_model",
@@ -951,7 +956,7 @@
       "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
       "published_at": "2026-09-26T15:56:34Z",
       "first_seen_at": "2026-09-26T19:40:42.658745Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.75,
       "ai_label": "ai_model",
@@ -1072,7 +1077,7 @@
       "url": "https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave",
       "published_at": "2026-09-26T15:40:27Z",
       "first_seen_at": "2026-09-26T17:02:09.294367Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.56,
       "ai_label": "tech_general",
@@ -1218,7 +1223,7 @@
       "url": "https://www.bloomberg.com/news/articles/2026-09-26/exxon-signs-shale-deal-with-azerbaijan-for-middle-kura-basin",
       "published_at": "2026-09-26T15:21:55Z",
       "first_seen_at": "2026-09-26T17:02:09.294367Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.56,
       "ai_label": "tech_general",
@@ -1283,7 +1288,7 @@
       "url": "https://www.tomshardware.com/tech-industry/data-centers/russia-bombs-ukrainian-data-centers-in-latest-escalation-100-000-households-lose-connectivity-as-firms-migrate-data-abroad-zelensky-says-ordinary-life-is-simply-a-target",
       "published_at": "2026-09-26T14:30:59Z",
       "first_seen_at": "2026-09-26T17:02:09.294367Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.56,
       "ai_label": "infra_compute",
@@ -1325,7 +1330,7 @@
       "url": "https://www.bleepingcomputer.com/news/security/github-actions-re-enabled-with-mini-shai-hulud-payload-still-active",
       "published_at": "2026-09-26T14:19:46Z",
       "first_seen_at": "2026-09-26T17:02:09.294367Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.56,
       "ai_label": "dev_tool",
@@ -1357,7 +1362,7 @@
       "url": "https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising",
       "published_at": "2026-09-26T14:00:00Z",
       "first_seen_at": "2026-09-26T17:02:09.294367Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.59,
       "ai_label": "software_saas",
@@ -1403,7 +1408,7 @@
       "url": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it",
       "published_at": "2026-09-26T14:00:00Z",
       "first_seen_at": "2026-09-26T17:02:09.294367Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.56,
       "ai_label": "tech_general",
@@ -1435,7 +1440,7 @@
       "url": "https://www.tomshardware.com/tablets/microsoft-surface/microsoft-quietly-drops-copilot-branding-from-its-new-laptops-surface-cvp-confirms-new-devices-meet-hardware-requirements-but-lack-controversial-branding",
       "published_at": "2026-09-26T14:00:00Z",
       "first_seen_at": "2026-09-26T17:02:09.294367Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.56,
       "ai_label": "dev_tool",
@@ -1525,7 +1530,7 @@
       "url": "https://www.tomshardware.com/video-games/playstation/open-source-anyps5-dumps-emulation-to-run-playstation-5-console-games-natively-on-pc-amd-zen-2-architecture-enables-proton-like-binary-translation-for-windows-and-linux",
       "published_at": "2026-09-26T13:59:04Z",
       "first_seen_at": "2026-09-26T17:02:09.294367Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.59,
       "ai_label": "consumer_hw",
@@ -1640,7 +1645,7 @@
       "url": "https://www.bloomberg.com/news/videos/2026-09-26/ai-gives-tech-firms-new-national-security-power-video",
       "published_at": "2026-09-26T13:19:22Z",
       "first_seen_at": "2026-09-26T17:02:09.294367Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.56,
       "ai_label": "tech_general",
@@ -1672,7 +1677,7 @@
       "url": "https://www.tomshardware.com/video-games/pc-gaming/an-nvidia-chatbot-could-one-day-help-developers-better-optimize-their-games-patent-filing-show-requests-can-be-made-in-plain-english",
       "published_at": "2026-09-26T13:00:00Z",
       "first_seen_at": "2026-09-26T13:20:38.597422Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.81,
       "ai_label": "chip_semi",
@@ -1828,7 +1833,7 @@
       "url": "https://www.tomshardware.com/pc-components/gpus/nvidias-rtx-mega-geometry-2-0-streams-ray-tracing-geometry-into-vram-on-demand-nanite-inspired-design-drops-detail-instead-of-dropping-out",
       "published_at": "2026-09-26T12:30:00Z",
       "first_seen_at": "2026-09-26T13:20:38.597422Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.78,
       "ai_label": "chip_semi",
@@ -1945,7 +1950,7 @@
       "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-ai-agents-accidentally-uploaded-user-provided-images-to-third-party-sites",
       "published_at": "2026-09-26T12:28:41Z",
       "first_seen_at": "2026-09-26T13:20:38.597422Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.83,
       "ai_label": "ai_model",
@@ -2067,7 +2072,7 @@
       "url": "https://www.bloomberg.com/news/articles/2026-09-26/what-is-an-ai-kill-switch-why-shutting-down-ai-isn-t-so-simple",
       "published_at": "2026-09-26T12:00:00Z",
       "first_seen_at": "2026-09-26T12:10:50.326163Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.59,
       "ai_label": "consumer_hw",
@@ -2199,7 +2204,7 @@
       "url": "https://www.tomshardware.com/pc-components/liquid-cooling/enthusiast-cooled-iphone-18-pro-with-cold-can-of-la-croix-sparkling-water-benchmarks-show-25-percent-higher-sustained-performance-liquid-cooling-surprisingly-reduced-thermal-throttling",
       "published_at": "2026-09-26T11:00:00Z",
       "first_seen_at": "2026-09-26T12:10:50.326163Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.81,
       "ai_label": "consumer_hw",
@@ -2249,7 +2254,7 @@
       "url": "https://arstechnica.com/cars/2026/09/teslas-big-electric-truck-faces-an-even-bigger-infrastructure-challenge",
       "published_at": "2026-09-26T10:45:09Z",
       "first_seen_at": "2026-09-26T17:02:09.294367Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.78,
       "ai_label": "tech_general",
@@ -2295,7 +2300,7 @@
       "url": "https://the-decoder.com/nvidias-sol-pi-system-cuts-coding-agent-token-usage-nearly-in-half-by-optimizing-the-harness",
       "published_at": "2026-09-26T10:30:32Z",
       "first_seen_at": "2026-09-26T12:10:50.326163Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.83,
       "ai_label": "ai_model",
@@ -2382,7 +2387,7 @@
       "url": "https://www.wired.com/story/meta-muse-is-adults-only-why-does-it-look-like-a-cute-kids-toy",
       "published_at": "2026-09-26T10:30:00Z",
       "first_seen_at": "2026-09-26T12:10:50.326163Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.56,
       "ai_label": "ai_product",
@@ -2437,7 +2442,7 @@
       "url": "https://www.theregister.com/personal-tech/2026/09/26/how-samsung-turned-months-of-inactivity-into-a-very-attention-seeking-smartphone/5298736",
       "published_at": "2026-09-26T10:27:00Z",
       "first_seen_at": "2026-09-26T12:10:50.326163Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.56,
       "ai_label": "consumer_hw",
@@ -2622,8 +2627,8 @@
       "companies": [],
       "title_original": "The Copilot+ PC brand is dead",
       "title_en": "The Copilot+ PC brand is dead",
-      "title_zh": "Copilot+ PC 品牌已死",
-      "title_bilingual": "Copilot+ PC 品牌已死 / The Copilot+ PC brand is dead"
+      "title_zh": "Copilot 电脑品牌已不复存在",
+      "title_bilingual": "Copilot 电脑品牌已不复存在 / The Copilot+ PC brand is dead"
     },
     {
       "id": "3cf79039bc6a67105a58aeff9d410b8674190b18",
@@ -2634,7 +2639,7 @@
       "url": "https://the-decoder.com/openais-gpt-6-astra-can-now-tell-you-exactly-where-you-screwed-up-your-ikea-shelf",
       "published_at": "2026-09-26T09:44:54Z",
       "first_seen_at": "2026-09-26T12:10:50.326163Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.86,
       "ai_label": "ai_model",
@@ -2684,7 +2689,7 @@
       "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
       "published_at": "2026-09-26T09:41:58Z",
       "first_seen_at": "2026-09-26T19:40:42.658745Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.81,
       "ai_label": "ai_model",
@@ -2717,7 +2722,7 @@
       "url": "https://floci.io",
       "published_at": "2026-09-26T08:31:02Z",
       "first_seen_at": "2026-09-26T12:10:50.326163Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.56,
       "ai_label": "software_saas",
@@ -2749,7 +2754,7 @@
       "url": "https://www.theregister.com/offbeat/2026/09/26/space-jam-uk-debuts-space-squadron-to-protect-satellites/5299119",
       "published_at": "2026-09-26T08:08:00Z",
       "first_seen_at": "2026-09-26T12:10:50.326163Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.56,
       "ai_label": "tech_general",
@@ -2813,7 +2818,7 @@
       "url": "https://www.theverge.com/transportation/999785/amflow-tl-review-avinox-esuv-e-bike-avinox",
       "published_at": "2026-09-26T07:00:00Z",
       "first_seen_at": "2026-09-26T12:10:50.326163Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.56,
       "ai_label": "tech_general",
@@ -2902,7 +2907,7 @@
       "url": "https://www.bloomberg.com/news/articles/2026-09-26/another-openai-sandbox-failed-ai-agent-gained-internet-access",
       "published_at": "2026-09-26T04:29:43Z",
       "first_seen_at": "2026-09-26T17:02:09.294367Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.83,
       "ai_label": "ai_model",
@@ -3006,7 +3011,7 @@
       "url": "https://x.com/petergyang/status/2103693608729932025",
       "published_at": "2026-09-26T03:50:15Z",
       "first_seen_at": "2026-09-26T07:57:58.032102Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.66,
       "ai_label": "ai_product",
@@ -3064,7 +3069,7 @@
       "url": "https://x.com/bcherny/status/2103691327699550598",
       "published_at": "2026-09-26T03:41:11Z",
       "first_seen_at": "2026-09-26T07:57:58.032102Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.63,
       "ai_label": "tech_general",
@@ -3096,7 +3101,7 @@
       "url": "https://x.com/danshipper/status/2103678798827020298",
       "published_at": "2026-09-26T02:51:24Z",
       "first_seen_at": "2026-09-26T07:57:58.032102Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.63,
       "ai_label": "tech_general",
@@ -3128,7 +3133,7 @@
       "url": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere",
       "published_at": "2026-09-26T01:08:57Z",
       "first_seen_at": "2026-09-26T07:57:58.032102Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.59,
       "ai_label": "ai_product",
@@ -3236,7 +3241,7 @@
       "url": "https://x.com/steipete/status/2103648679169257737",
       "published_at": "2026-09-26T00:51:43Z",
       "first_seen_at": "2026-09-26T07:57:58.032102Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.82,
       "ai_label": "ai_model",
@@ -3276,7 +3281,7 @@
       "url": "https://x.com/thenanyu/status/2103639287367696603",
       "published_at": "2026-09-26T00:14:24Z",
       "first_seen_at": "2026-09-26T07:57:58.032102Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.63,
       "ai_label": "tech_general",
@@ -3318,7 +3323,7 @@
       "url": "https://x.com/thsottiaux/status/2103637477760311522",
       "published_at": "2026-09-26T00:07:13Z",
       "first_seen_at": "2026-09-26T07:57:58.032102Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.91,
       "ai_label": "ai_model",
@@ -3363,7 +3368,7 @@
       "url": "https://x.com/amasad/status/2103632415185133992",
       "published_at": "2026-09-25T23:47:06Z",
       "first_seen_at": "2026-09-26T07:57:58.032102Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.85,
       "ai_label": "software_saas",
@@ -3395,7 +3400,7 @@
       "url": "https://x.com/levie/status/2103629073595728372",
       "published_at": "2026-09-25T23:33:49Z",
       "first_seen_at": "2026-09-26T07:57:58.032102Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.66,
       "ai_label": "software_saas",
@@ -3420,268 +3425,6 @@
       "title_bilingual": "You can’t automate what you can’t measure. This means that evals are one of the gates to diffusion of AI in the enterprise. We can test our deterministic processes through software, but most enterprises have no useful..."
     },
     {
-      "id": "31810e7587ff30a794439cb9148d8443d02c42a5",
-      "site_id": "curated_media",
-      "site_name": "Curated Media",
-      "source": "TechCrunch AI",
-      "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
-      "url": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers",
-      "published_at": "2026-09-25T23:11:10Z",
-      "first_seen_at": "2026-09-25T23:28:22.650114Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
-      "ai_is_related": true,
-      "ai_score": 0.56,
-      "ai_label": "infra_compute",
-      "ai_relevance_reason": "matched_tech_signal",
-      "ai_signals": [
-        "ai"
-      ],
-      "ai_noise": [],
-      "tech_is_related": true,
-      "tech_score": 0.56,
-      "tech_label": "infra_compute",
-      "source_tier": "ai_media",
-      "source_tier_label": "精选AI媒体",
-      "source_tier_rank": 2,
-      "direction": "security_governance",
-      "direction_hits": [
-        {
-          "direction_id": "security_governance",
-          "score": 1.38,
-          "matched_keywords": [
-            "ai",
-            "data"
-          ],
-          "companies": []
-        }
-      ],
-      "companies": [],
-      "title_original": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
-      "title_en": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
-      "title_zh": "Crusoe 放弃了在 AI 数据中心使用 Boom 涡轮机的 1.25B 美元计划",
-      "title_bilingual": "Crusoe 放弃了在 AI 数据中心使用 Boom 涡轮机的 1.25B 美元计划 / Crusoe abandons $1.25B plan to use Boom turbines at AI data centers"
-    },
-    {
-      "id": "2ec71e10b8ff690a0f420c8c7a3066f582ee5c8f",
-      "site_id": "followbuilders",
-      "site_name": "Follow Builders",
-      "source": "Follow Builders · X · Thibault Sottiaux",
-      "title": "We are aware that codex is down and are working hard to bring back normal service.",
-      "url": "https://x.com/thsottiaux/status/2103620061156290622",
-      "published_at": "2026-09-25T22:58:00Z",
-      "first_seen_at": "2026-09-26T07:57:58.032102Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
-      "ai_is_related": true,
-      "ai_score": 0.63,
-      "ai_label": "dev_tool",
-      "ai_relevance_reason": "matched_tech_signal",
-      "ai_signals": [
-        "codex"
-      ],
-      "ai_noise": [],
-      "tech_is_related": true,
-      "tech_score": 0.63,
-      "tech_label": "dev_tool",
-      "source_tier": "builders",
-      "source_tier_label": "Builders/X源",
-      "source_tier_rank": 2,
-      "direction": "ai_models_apps",
-      "direction_hits": [
-        {
-          "direction_id": "ai_models_apps",
-          "score": 1.56,
-          "matched_keywords": [
-            "code",
-            "codex"
-          ],
-          "companies": []
-        }
-      ],
-      "companies": [],
-      "title_original": "We are aware that codex is down and are working hard to bring back normal service.",
-      "title_en": "We are aware that codex is down and are working hard to bring back normal service.",
-      "title_zh": "我们知道 Codex 已关闭，正在努力恢复正常服务。",
-      "title_bilingual": "我们知道 Codex 已关闭，正在努力恢复正常服务。 / We are aware that codex is down and are working hard to bring back normal service."
-    },
-    {
-      "id": "2fc1418df5e0775ad679173089e97332ab0a1038",
-      "site_id": "curated_media",
-      "site_name": "Curated Media",
-      "source": "TechCrunch AI",
-      "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
-      "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge",
-      "published_at": "2026-09-25T22:20:47Z",
-      "first_seen_at": "2026-09-25T23:28:22.650114Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
-      "ai_is_related": true,
-      "ai_score": 0.83,
-      "ai_label": "ai_model",
-      "ai_relevance_reason": "matched_strong_tech_signal",
-      "ai_signals": [
-        "ai",
-        "openai"
-      ],
-      "ai_noise": [],
-      "tech_is_related": true,
-      "tech_score": 0.83,
-      "tech_label": "ai_model",
-      "source_tier": "ai_media",
-      "source_tier_label": "精选AI媒体",
-      "source_tier_rank": 2,
-      "direction": "ai_models_apps",
-      "direction_hits": [
-        {
-          "direction_id": "ai_models_apps",
-          "score": 2.44,
-          "matched_keywords": [
-            "agent",
-            "openai",
-            "openai"
-          ],
-          "companies": [
-            "openai"
-          ]
-        }
-      ],
-      "companies": [
-        "openai"
-      ],
-      "title_original": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
-      "title_en": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
-      "title_zh": "不安全的 OpenAI 代理在实验室不知情的情况下在互联网上发布了 53 张用户图像",
-      "title_bilingual": "不安全的 OpenAI 代理在实验室不知情的情况下在互联网上发布了 53 张用户图像 / Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge"
-    },
-    {
-      "id": "f897c83e6a407be040235faf8e85bf026e26f51e",
-      "site_id": "curated_media",
-      "site_name": "Curated Media",
-      "source": "Bloomberg Tech",
-      "title": "Markets Rise as AI, Oil & Treasury Yields Drive the Week",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-25/the-close-9-25-2026-video",
-      "published_at": "2026-09-25T21:52:44Z",
-      "first_seen_at": "2026-09-25T23:28:22.650114Z",
-      "last_seen_at": "2026-09-26T13:20:38.597422Z",
-      "ai_is_related": true,
-      "ai_score": 0.56,
-      "ai_label": "tech_general",
-      "ai_relevance_reason": "matched_tech_signal",
-      "ai_signals": [
-        "ai"
-      ],
-      "ai_noise": [],
-      "tech_is_related": true,
-      "tech_score": 0.56,
-      "tech_label": "tech_general",
-      "source_tier": "ai_media",
-      "source_tier_label": "精选AI媒体",
-      "source_tier_rank": 2,
-      "direction": "",
-      "direction_hits": [],
-      "companies": [],
-      "title_original": "Markets Rise as AI, Oil & Treasury Yields Drive the Week",
-      "title_en": "Markets Rise as AI, Oil & Treasury Yields Drive the Week",
-      "title_zh": "人工智能、石油和国债收益率推动本周市场上涨",
-      "title_bilingual": "人工智能、石油和国债收益率推动本周市场上涨 / Markets Rise as AI, Oil & Treasury Yields Drive the Week"
-    },
-    {
-      "id": "21fd6122cfe96dd58fdcf9c023160c125a21951e",
-      "site_id": "curated_media",
-      "site_name": "Curated Media",
-      "source": "Claude Code Releases",
-      "title": "v2.1.283",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.283",
-      "published_at": "2026-09-25T21:50:12Z",
-      "first_seen_at": "2026-09-25T22:12:13.169069Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
-      "ai_is_related": true,
-      "ai_score": 0.78,
-      "ai_label": "ai_model",
-      "ai_relevance_reason": "matched_strong_tech_signal",
-      "ai_signals": [
-        "claude"
-      ],
-      "ai_noise": [],
-      "tech_is_related": true,
-      "tech_score": 0.78,
-      "tech_label": "ai_model",
-      "source_tier": "ai_media",
-      "source_tier_label": "精选AI媒体",
-      "source_tier_rank": 2,
-      "direction": "ai_models_apps",
-      "direction_hits": [
-        {
-          "direction_id": "ai_models_apps",
-          "score": 2.17,
-          "matched_keywords": [
-            "claude",
-            "code",
-            "anthropic",
-            "claude code",
-            "github",
-            "anthropic"
-          ],
-          "companies": [
-            "anthropic"
-          ]
-        }
-      ],
-      "companies": [
-        "anthropic"
-      ],
-      "title_original": "v2.1.283",
-      "title_en": null,
-      "title_zh": null,
-      "title_bilingual": "v2.1.283"
-    },
-    {
-      "id": "5a291c2e550adeaec4445d0d6410c5e0788f211f",
-      "site_id": "curated_media",
-      "site_name": "Curated Media",
-      "source": "Ars Technica",
-      "title": "Court rules Pentagon can blacklist Anthropic for refusing to enable Claude features",
-      "url": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features",
-      "published_at": "2026-09-25T21:36:20Z",
-      "first_seen_at": "2026-09-26T12:10:50.326163Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
-      "ai_is_related": true,
-      "ai_score": 0.83,
-      "ai_label": "ai_model",
-      "ai_relevance_reason": "matched_strong_tech_signal",
-      "ai_signals": [
-        "anthropic",
-        "claude"
-      ],
-      "ai_noise": [],
-      "tech_is_related": true,
-      "tech_score": 0.83,
-      "tech_label": "ai_model",
-      "source_tier": "ai_media",
-      "source_tier_label": "精选AI媒体",
-      "source_tier_rank": 2,
-      "direction": "ai_models_apps",
-      "direction_hits": [
-        {
-          "direction_id": "ai_models_apps",
-          "score": 2.62,
-          "matched_keywords": [
-            "claude",
-            "anthropic",
-            "anthropic"
-          ],
-          "companies": [
-            "anthropic"
-          ]
-        }
-      ],
-      "companies": [
-        "anthropic"
-      ],
-      "title_original": "Court rules Pentagon can blacklist Anthropic for refusing to enable Claude features",
-      "title_en": "Court rules Pentagon can blacklist Anthropic for refusing to enable Claude features",
-      "title_zh": "法院裁定五角大楼可以因拒绝启用Claude功能而将 Anthropic 列入黑名单",
-      "title_bilingual": "法院裁定五角大楼可以因拒绝启用Claude功能而将 Anthropic 列入黑名单 / Court rules Pentagon can blacklist Anthropic for refusing to enable Claude features"
-    },
-    {
       "id": "d50b78d9648e6c0918166acf838e39b7c1314ca0",
       "site_id": "opmlrss",
       "site_name": "OPML RSS",
@@ -3690,7 +3433,7 @@
       "url": "https://www.infoq.cn/article/jJIXCaLHUvPgswTOZ1uQ",
       "published_at": "2026-09-26T17:00:00Z",
       "first_seen_at": "2026-09-26T12:10:50.326163Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.62,
       "ai_label": "dev_tool",
@@ -3739,7 +3482,7 @@
       "url": "https://www.infoq.cn/article/gk4rWsQg09PWTFTZlJE3",
       "published_at": "2026-09-26T09:20:21Z",
       "first_seen_at": "2026-09-26T07:57:58.032102Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.77,
       "ai_label": "ai_model",
@@ -3783,6 +3526,136 @@
       "title_bilingual": "DoorDash 借助多 Agent LLM 系统清理 6 万个 Feature Flag"
     },
     {
+      "id": "fd227838a2ce061b086a466e230a4320088630a8",
+      "site_id": "newsnow",
+      "site_name": "NewsNow",
+      "source": "juejin",
+      "title": "DHH 震撼发声：手写代码时代落幕，Agent 正重塑软件工程",
+      "url": "https://juejin.cn/post/7689061402817265710",
+      "published_at": "2026-09-26T23:07:34.265000Z",
+      "first_seen_at": "2026-09-26T23:29:18.954020Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
+      "ai_is_related": true,
+      "ai_score": 0.68,
+      "ai_label": "ai_model",
+      "ai_relevance_reason": "matched_strong_tech_signal",
+      "ai_signals": [
+        "代码",
+        "软件"
+      ],
+      "ai_noise": [],
+      "tech_is_related": true,
+      "tech_score": 0.68,
+      "tech_label": "ai_model",
+      "source_tier": "discussion",
+      "source_tier_label": "热议参考",
+      "source_tier_rank": 5,
+      "direction": "",
+      "direction_hits": [],
+      "companies": [],
+      "title_original": "DHH 震撼发声：手写代码时代落幕，Agent 正重塑软件工程",
+      "title_en": null,
+      "title_zh": "DHH 震撼发声：手写代码时代落幕，Agent 正重塑软件工程",
+      "title_bilingual": "DHH 震撼发声：手写代码时代落幕，Agent 正重塑软件工程"
+    },
+    {
+      "id": "c6077609dc8b96fb35102360de19ab1d305d91a0",
+      "site_id": "buzzing",
+      "site_name": "Buzzing",
+      "source": "arxiv.org",
+      "title": "DeepSeek 弹性计算 (DSec)",
+      "url": "https://arxiv.org/abs/2609.22978",
+      "published_at": "2026-09-26T22:58:22.682000Z",
+      "first_seen_at": "2026-09-26T23:29:18.954020Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
+      "ai_is_related": true,
+      "ai_score": 0.7,
+      "ai_label": "ai_model",
+      "ai_relevance_reason": "matched_strong_tech_signal",
+      "ai_signals": [
+        "deepseek"
+      ],
+      "ai_noise": [],
+      "tech_is_related": true,
+      "tech_score": 0.7,
+      "tech_label": "ai_model",
+      "source_tier": "discussion",
+      "source_tier_label": "热议参考",
+      "source_tier_rank": 5,
+      "direction": "ai_models_apps",
+      "direction_hits": [
+        {
+          "direction_id": "ai_models_apps",
+          "score": 0.75,
+          "matched_keywords": [
+            "deepseek",
+            "deepseek"
+          ],
+          "companies": [
+            "deepseek"
+          ]
+        }
+      ],
+      "companies": [
+        "deepseek"
+      ],
+      "title_original": "DeepSeek 弹性计算 (DSec)",
+      "title_en": null,
+      "title_zh": "DeepSeek 弹性计算 (DSec)",
+      "title_bilingual": "DeepSeek 弹性计算 (DSec)"
+    },
+    {
+      "id": "ee32606a5cfb278917e675a9877f7fbd38f1f7cc",
+      "site_id": "techurls",
+      "site_name": "TechURLs",
+      "source": "Hacker News",
+      "title": "OpenAI Codex agents go rogue and consumes USD 78,000 without authorization",
+      "url": "https://news.ycombinator.com/item?id=49861047",
+      "published_at": "2026-09-26T22:15:32Z",
+      "first_seen_at": "2026-09-26T23:29:18.954020Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
+      "ai_is_related": true,
+      "ai_score": 0.78,
+      "ai_label": "ai_model",
+      "ai_relevance_reason": "matched_strong_tech_signal",
+      "ai_signals": [
+        "ai",
+        "codex",
+        "openai"
+      ],
+      "ai_noise": [],
+      "tech_is_related": true,
+      "tech_score": 0.78,
+      "tech_label": "ai_model",
+      "source_tier": "discussion",
+      "source_tier_label": "热议参考",
+      "source_tier_rank": 5,
+      "direction": "ai_models_apps",
+      "direction_hits": [
+        {
+          "direction_id": "ai_models_apps",
+          "score": 4.0,
+          "matched_keywords": [
+            "agent",
+            "code",
+            "openai",
+            "codex",
+            "openai"
+          ],
+          "companies": [
+            "openai"
+          ]
+        }
+      ],
+      "companies": [
+        "openai"
+      ],
+      "title_original": "OpenAI Codex agents go rogue and consumes USD 78,000 without authorization",
+      "title_en": "OpenAI Codex agents go rogue and consumes USD 78,000 without authorization",
+      "title_zh": null,
+      "title_bilingual": "OpenAI Codex agents go rogue and consumes USD 78,000 without authorization"
+    },
+    {
       "id": "b35db09005f0ab7fd2b83aef53bde3a713de80c7",
       "site_id": "buzzing",
       "site_name": "Buzzing",
@@ -3791,7 +3664,7 @@
       "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
       "published_at": "2026-09-26T20:22:03.489000Z",
       "first_seen_at": "2026-09-26T21:26:31.852806Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.76,
       "ai_label": "ai_model",
@@ -3835,7 +3708,7 @@
       "url": "https://www.androidpolice.com/the-samsung-galaxy-z-fold-8-has-ruined-the-ultra",
       "published_at": "2026-09-26T20:00:10Z",
       "first_seen_at": "2026-09-26T21:26:31.852806Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.76,
       "ai_label": "software_saas",
@@ -3885,7 +3758,7 @@
       "url": "https://news.ycombinator.com/item?id=49859112",
       "published_at": "2026-09-26T18:22:41Z",
       "first_seen_at": "2026-09-26T21:26:31.852806Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "ai_model",
@@ -3931,7 +3804,7 @@
       "url": "https://www.androidpolice.com/gemini-google-maps-vacation-comparison",
       "published_at": "2026-09-26T17:00:10Z",
       "first_seen_at": "2026-09-26T17:57:14.360545Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.73,
       "ai_label": "ai_model",
@@ -3990,7 +3863,7 @@
       "url": "https://www.techradar.com/pro/pixelmob-portable-ai-workstation-review",
       "published_at": "2026-09-26T16:25:00Z",
       "first_seen_at": "2026-09-26T17:57:14.360545Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.73,
       "ai_label": "consumer_hw",
@@ -4033,7 +3906,7 @@
       "url": "https://thenextweb.com/news/oxford-bodleian-openai-training-data",
       "published_at": "2026-09-26T16:06:39Z",
       "first_seen_at": "2026-09-26T17:02:09.294367Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.73,
       "ai_label": "ai_model",
@@ -4089,7 +3962,7 @@
       "url": "https://news.ycombinator.com/item?id=49857729",
       "published_at": "2026-09-26T15:56:34Z",
       "first_seen_at": "2026-09-26T19:40:42.658745Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.62,
       "ai_label": "ai_model",
@@ -4151,7 +4024,7 @@
       "url": "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot",
       "published_at": "2026-09-26T15:43:46Z",
       "first_seen_at": "2026-09-26T19:40:42.658745Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.8,
       "ai_label": "ai_model",
@@ -4242,7 +4115,7 @@
       "url": "https://www.androidpolice.com/which-galaxy-phones-are-getting-one-ui-9-and-when",
       "published_at": "2026-09-26T15:15:10Z",
       "first_seen_at": "2026-09-26T17:02:09.294367Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.73,
       "ai_label": "software_saas",
@@ -4286,7 +4159,7 @@
       "url": "https://thenextweb.com/news/openai-sandbox-agent-ai-kill-switch",
       "published_at": "2026-09-26T15:11:51Z",
       "first_seen_at": "2026-09-26T17:02:09.294367Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.75,
       "ai_label": "ai_model",
@@ -4334,7 +4207,7 @@
       "url": "https://www.techmeme.com/260926/p9",
       "published_at": "2026-09-26T14:25:01Z",
       "first_seen_at": "2026-09-26T17:02:09.294367Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.76,
       "ai_label": "chip_semi",
@@ -4401,7 +4274,7 @@
       "url": "https://news.ycombinator.com/item?id=49856665",
       "published_at": "2026-09-26T14:03:54Z",
       "first_seen_at": "2026-09-26T19:40:42.658745Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.68,
       "ai_label": "ai_product",
@@ -4448,7 +4321,7 @@
       "url": "https://www.reddit.com/r/codex/comments/1wqjxyy/i_thought_the_model_nerf_posts_were_bullshit",
       "published_at": "2026-09-26T13:34:16Z",
       "first_seen_at": "2026-09-26T17:02:09.294367Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.78,
       "ai_label": "ai_model",
@@ -4632,7 +4505,7 @@
       "url": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
       "published_at": "2026-09-26T13:01:20.496000Z",
       "first_seen_at": "2026-09-26T13:20:38.597422Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.73,
       "ai_label": "ai_model",
@@ -4665,7 +4538,7 @@
       "url": "https://www.businessinsider.com/openai-reveals-workplace-skills-ai-cant-automate-easily-2026-9",
       "published_at": "2026-09-26T13:00:02Z",
       "first_seen_at": "2026-09-26T17:02:09.294367Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.73,
       "ai_label": "ai_product",
@@ -4712,7 +4585,7 @@
       "url": "https://juejin.cn/post/7688917667420717091",
       "published_at": "2026-09-26T12:11:36.861000Z",
       "first_seen_at": "2026-09-26T12:10:50.326163Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "consumer_hw",
@@ -4758,7 +4631,7 @@
       "url": "https://github.com/anthropics/claude-code-action",
       "published_at": "2026-09-26T12:11:36.861000Z",
       "first_seen_at": "2026-09-26T12:10:50.326163Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.7,
       "ai_label": "ai_model",
@@ -4808,7 +4681,7 @@
       "url": "https://juejin.cn/post/7688401878564077602",
       "published_at": "2026-09-26T12:11:36.861000Z",
       "first_seen_at": "2026-09-26T12:10:50.326163Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "ai_model",
@@ -4851,7 +4724,7 @@
       "url": "https://juejin.cn/post/7689029662157717542",
       "published_at": "2026-09-26T12:11:36.861000Z",
       "first_seen_at": "2026-09-26T12:10:50.326163Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "ai_model",
@@ -4883,7 +4756,7 @@
       "url": "https://news.ycombinator.com/item?id=49854875",
       "published_at": "2026-09-26T09:41:58Z",
       "first_seen_at": "2026-09-26T19:40:42.658745Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.68,
       "ai_label": "ai_model",
@@ -4949,7 +4822,7 @@
       "url": "https://mashable.com/tech/best-iphones-apple",
       "published_at": "2026-09-26T09:00:00Z",
       "first_seen_at": "2026-09-26T12:10:50.326163Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.7,
       "ai_label": "consumer_hw",
@@ -5153,7 +5026,7 @@
       "url": "https://slashdot.org/story/26/09/26/0328247/rogue-openai-agents-posted-53-user-uploaded-images-onto-the-internet-accessed-us-government-websites",
       "published_at": "2026-09-26T07:04:00Z",
       "first_seen_at": "2026-09-26T07:57:58.032102Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.75,
       "ai_label": "ai_model",
@@ -5251,7 +5124,7 @@
       "url": "https://www.techmeme.com/260926/p6",
       "published_at": "2026-09-26T06:30:01Z",
       "first_seen_at": "2026-09-26T07:57:58.032102Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.76,
       "ai_label": "ai_model",
@@ -5391,7 +5264,7 @@
       "url": "https://www.techmeme.com/260926/p3",
       "published_at": "2026-09-26T05:05:00Z",
       "first_seen_at": "2026-09-26T07:57:58.032102Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.73,
       "ai_label": "ai_product",
@@ -5438,7 +5311,7 @@
       "url": "https://www.bloomberg.com/news/articles/2026-09-25/microsoft-abandons-personal-ai-chatbot-race-with-copilot-reboot",
       "published_at": "2026-09-26T04:58:00.167000Z",
       "first_seen_at": "2026-09-26T07:57:58.032102Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.79,
       "ai_label": "robotics",
@@ -5839,438 +5712,103 @@
       "title_bilingual": "Meta的Muse似乎使用了一个名为muse-special的OpenAI模型"
     },
     {
-      "id": "f59bdef20af1b57cbfcb2aa96b677d6f4e724bb1",
-      "site_id": "zeli",
-      "site_name": "Zeli",
-      "source": "Hacker News · 24h最热",
-      "title": "OpenAI’s Systems Went Rogue and Meddled With U.S. Government Websites",
-      "url": "https://www.nytimes.com/2026/09/25/technology/openais-ai-us-government-websites.html",
-      "published_at": "2026-09-25T23:22:18Z",
-      "first_seen_at": "2026-09-26T07:57:58.032102Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "id": "230224270863e30670966ec9c3cdda3f97694c1b",
+      "site_id": "sector_sources",
+      "site_name": "Sector Sources",
+      "source": "IT Home",
+      "title": "消息称 OpenAI、Anthropic 正调查数万起 AI 安全事件",
+      "url": "https://www.ithome.com/1/007/447.htm",
+      "published_at": "2026-09-26T23:12:53Z",
+      "first_seen_at": "2026-09-26T23:29:18.954020Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.68,
       "ai_label": "ai_product",
       "ai_relevance_reason": "matched_strong_tech_signal",
       "ai_signals": [
         "ai",
+        "anthropic",
         "openai"
       ],
       "ai_noise": [],
       "tech_is_related": true,
       "tech_score": 0.68,
       "tech_label": "ai_product",
-      "source_tier": "discussion",
-      "source_tier_label": "热议参考",
-      "source_tier_rank": 5,
+      "source_tier": "other",
+      "source_tier_label": "其他来源",
+      "source_tier_rank": 9,
       "direction": "ai_models_apps",
       "direction_hits": [
         {
           "direction_id": "ai_models_apps",
-          "score": 0.75,
+          "score": 2.77,
           "matched_keywords": [
             "openai",
+            "anthropic",
+            "anthropic",
             "openai"
           ],
           "companies": [
+            "anthropic",
             "openai"
           ]
         }
       ],
       "companies": [
+        "anthropic",
         "openai"
       ],
-      "title_original": "OpenAI’s Systems Went Rogue and Meddled With U.S. Government Websites",
-      "title_en": "OpenAI’s Systems Went Rogue and Meddled With U.S. Government Websites",
-      "title_zh": "OpenAI 的系统失控并干扰美国政府网站",
-      "title_bilingual": "OpenAI 的系统失控并干扰美国政府网站 / OpenAI’s Systems Went Rogue and Meddled With U.S. Government Websites"
-    },
-    {
-      "id": "06fc6a795a51aba2d8f8049eae844058ac8e965d",
-      "site_id": "techurls",
-      "site_name": "TechURLs",
-      "source": "TechRadar",
-      "title": "Bitdefender first to launch free 'temporary' VPN for AI Agents because they're worth it — but you can only use it on Apple M-series Macs for now",
-      "url": "https://www.techradar.com/pro/bitdefender-first-to-launch-free-temporary-vpn-for-ai-agents-because-theyre-worth-it-but-you-can-only-use-it-on-apple-m-series-macs-for-now",
-      "published_at": "2026-09-25T23:20:00Z",
-      "first_seen_at": "2026-09-26T07:57:58.032102Z",
-      "last_seen_at": "2026-09-26T07:57:58.032102Z",
-      "ai_is_related": true,
-      "ai_score": 0.7,
-      "ai_label": "ai_model",
-      "ai_relevance_reason": "matched_strong_tech_signal",
-      "ai_signals": [
-        "ai"
-      ],
-      "ai_noise": [],
-      "tech_is_related": true,
-      "tech_score": 0.7,
-      "tech_label": "ai_model",
-      "source_tier": "discussion",
-      "source_tier_label": "热议参考",
-      "source_tier_rank": 5,
-      "direction": "ai_terminal",
-      "direction_hits": [
-        {
-          "direction_id": "ai_terminal",
-          "score": 2.88,
-          "matched_keywords": [
-            "mac",
-            "ar",
-            "agent",
-            "apple"
-          ],
-          "companies": [
-            "apple"
-          ]
-        }
-      ],
-      "companies": [
-        "apple"
-      ],
-      "title_original": "Bitdefender first to launch free 'temporary' VPN for AI Agents because they're worth it — but you can only use it on Apple M-series Macs for now",
-      "title_en": "Bitdefender first to launch free 'temporary' VPN for AI Agents because they're worth it — but you can only use it on Apple M-series Macs for now",
-      "title_zh": null,
-      "title_bilingual": "Bitdefender first to launch free 'temporary' VPN for AI Agents because they're worth it — but you can only use it on Apple M-series Macs for now"
-    },
-    {
-      "id": "7755dd8b2b57f61a0d9dc32fec1f39c3831b5b88",
-      "site_id": "techurls",
-      "site_name": "TechURLs",
-      "source": "New York Times",
-      "title": "OpenAI’s A.I. Went Rogue and Meddled With U.S. Government Websites",
-      "url": "https://www.nytimes.com/2026/09/25/technology/openais-ai-us-government-websites.html",
-      "published_at": "2026-09-25T23:16:40Z",
-      "first_seen_at": "2026-09-25T23:28:22.650114Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
-      "ai_is_related": true,
-      "ai_score": 0.76,
-      "ai_label": "ai_product",
-      "ai_relevance_reason": "matched_strong_tech_signal",
-      "ai_signals": [
-        "a.i.",
-        "ai",
-        "openai"
-      ],
-      "ai_noise": [],
-      "tech_is_related": true,
-      "tech_score": 0.76,
-      "tech_label": "ai_product",
-      "source_tier": "discussion",
-      "source_tier_label": "热议参考",
-      "source_tier_rank": 5,
-      "direction": "ai_models_apps",
-      "direction_hits": [
-        {
-          "direction_id": "ai_models_apps",
-          "score": 0.75,
-          "matched_keywords": [
-            "openai",
-            "openai"
-          ],
-          "companies": [
-            "openai"
-          ]
-        }
-      ],
-      "companies": [
-        "openai"
-      ],
-      "title_original": "OpenAI’s A.I. Went Rogue and Meddled With U.S. Government Websites",
-      "title_en": "OpenAI’s A.I. Went Rogue and Meddled With U.S. Government Websites",
-      "title_zh": "OpenAI 的人工智能流氓行为并干扰美国政府网站",
-      "title_bilingual": "OpenAI 的人工智能流氓行为并干扰美国政府网站 / OpenAI’s A.I. Went Rogue and Meddled With U.S. Government Websites"
-    },
-    {
-      "id": "288417c42e9815928528622836b5b5fb810e483a",
-      "site_id": "hackernews",
-      "site_name": "Hacker News",
-      "source": "HN Algolia · AI 24h",
-      "title": "OpenAI Codex 401 Outage",
-      "url": "https://status.openai.com",
-      "published_at": "2026-09-25T23:07:28Z",
-      "first_seen_at": "2026-09-25T23:28:22.650114Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
-      "ai_is_related": true,
-      "ai_score": 0.81,
-      "ai_label": "dev_tool",
-      "ai_relevance_reason": "matched_strong_tech_signal",
-      "ai_signals": [
-        "ai",
-        "codex",
-        "openai"
-      ],
-      "ai_noise": [],
-      "tech_is_related": true,
-      "tech_score": 0.81,
-      "tech_label": "dev_tool",
-      "source_tier": "discussion",
-      "source_tier_label": "热议参考",
-      "source_tier_rank": 5,
-      "direction": "ai_models_apps",
-      "direction_hits": [
-        {
-          "direction_id": "ai_models_apps",
-          "score": 3.19,
-          "matched_keywords": [
-            "code",
-            "openai",
-            "codex",
-            "openai"
-          ],
-          "companies": [
-            "openai"
-          ]
-        }
-      ],
-      "companies": [
-        "openai"
-      ],
-      "title_original": "OpenAI Codex 401 Outage",
-      "title_en": "OpenAI Codex 401 Outage",
-      "title_zh": null,
-      "title_bilingual": "OpenAI Codex 401 Outage"
-    },
-    {
-      "id": "6f9de9aecf2fb27eee26418083a9cdd3401cf00c",
-      "site_id": "zeli",
-      "site_name": "Zeli",
-      "source": "Hacker News · 24h最热",
-      "title": "Issues with Codex – Identified – Full Outage",
-      "url": "https://status.openai.com/incidents/01M3DCNWMW57HYK8FJ5FBFPA39",
-      "published_at": "2026-09-25T23:04:25Z",
-      "first_seen_at": "2026-09-25T23:28:22.650114Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
-      "ai_is_related": true,
-      "ai_score": 0.71,
-      "ai_label": "dev_tool",
-      "ai_relevance_reason": "matched_strong_tech_signal",
-      "ai_signals": [
-        "ai",
-        "codex",
-        "openai"
-      ],
-      "ai_noise": [],
-      "tech_is_related": true,
-      "tech_score": 0.71,
-      "tech_label": "dev_tool",
-      "source_tier": "discussion",
-      "source_tier_label": "热议参考",
-      "source_tier_rank": 5,
-      "direction": "ai_models_apps",
-      "direction_hits": [
-        {
-          "direction_id": "ai_models_apps",
-          "score": 2.49,
-          "matched_keywords": [
-            "code",
-            "openai",
-            "codex",
-            "openai"
-          ],
-          "companies": [
-            "openai"
-          ]
-        },
-        {
-          "direction_id": "semiconductor",
-          "score": 0.75,
-          "matched_keywords": [
-            "co",
-            "3d"
-          ],
-          "companies": []
-        }
-      ],
-      "companies": [
-        "openai"
-      ],
-      "title_original": "Issues with Codex – Identified – Full Outage",
-      "title_en": "Issues with Codex – Identified – Full Outage",
-      "title_zh": "Codex 问题 – 已识别 – 全面中断",
-      "title_bilingual": "Codex 问题 – 已识别 – 全面中断 / Issues with Codex – Identified – Full Outage"
-    },
-    {
-      "id": "04460cfd9e3e62fd3a8b07f7ea97756ab76a731a",
-      "site_id": "zeli",
-      "site_name": "Zeli",
-      "source": "Hacker News · 24h最热",
-      "title": "FTC chair suggests AI developers should be liable for conduct of agents",
-      "url": "https://www.reuters.com/business/ftc-chair-pushes-back-treating-ai-agents-independent-actors-2026-09-25",
-      "published_at": "2026-09-25T22:49:41Z",
-      "first_seen_at": "2026-09-26T07:57:58.032102Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
-      "ai_is_related": true,
-      "ai_score": 0.71,
-      "ai_label": "ai_model",
-      "ai_relevance_reason": "matched_strong_tech_signal",
-      "ai_signals": [
-        "ai",
-        "developer",
-        "developers"
-      ],
-      "ai_noise": [],
-      "tech_is_related": true,
-      "tech_score": 0.71,
-      "tech_label": "ai_model",
-      "source_tier": "discussion",
-      "source_tier_label": "热议参考",
-      "source_tier_rank": 5,
-      "direction": "",
-      "direction_hits": [],
-      "companies": [],
-      "title_original": "FTC chair suggests AI developers should be liable for conduct of agents",
-      "title_en": "FTC chair suggests AI developers should be liable for conduct of agents",
-      "title_zh": "FTC 主席建议人工智能开发者应对代理人的行为负责",
-      "title_bilingual": "FTC 主席建议人工智能开发者应对代理人的行为负责 / FTC chair suggests AI developers should be liable for conduct of agents"
-    },
-    {
-      "id": "c55f22cab2eb44a640e9cc75a52c9562c91dc684",
-      "site_id": "techurls",
-      "site_name": "TechURLs",
-      "source": "BBC News",
-      "title": "OpenAI investigating 'dozens' of instances of agents acting improperly",
-      "url": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-25T22:43:54Z",
-      "first_seen_at": "2026-09-25T23:28:22.650114Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
-      "ai_is_related": true,
-      "ai_score": 0.75,
-      "ai_label": "ai_model",
-      "ai_relevance_reason": "matched_strong_tech_signal",
-      "ai_signals": [
-        "ai",
-        "openai"
-      ],
-      "ai_noise": [],
-      "tech_is_related": true,
-      "tech_score": 0.75,
-      "tech_label": "ai_model",
-      "source_tier": "discussion",
-      "source_tier_label": "热议参考",
-      "source_tier_rank": 5,
-      "direction": "ai_models_apps",
-      "direction_hits": [
-        {
-          "direction_id": "ai_models_apps",
-          "score": 2.44,
-          "matched_keywords": [
-            "agent",
-            "openai",
-            "openai"
-          ],
-          "companies": [
-            "openai"
-          ]
-        },
-        {
-          "direction_id": "ai_terminal",
-          "score": 0.94,
-          "matched_keywords": [
-            "ar",
-            "agent"
-          ],
-          "companies": []
-        }
-      ],
-      "companies": [
-        "openai"
-      ],
-      "title_original": "OpenAI investigating 'dozens' of instances of agents acting improperly",
-      "title_en": "OpenAI investigating 'dozens' of instances of agents acting improperly",
-      "title_zh": "OpenAI 调查“数十起”特工不当行为实例",
-      "title_bilingual": "OpenAI 调查“数十起”特工不当行为实例 / OpenAI investigating 'dozens' of instances of agents acting improperly"
-    },
-    {
-      "id": "0c599ab1c587020e5cb6e3c896b319611391464f",
-      "site_id": "techurls",
-      "site_name": "TechURLs",
-      "source": "Techmeme",
-      "title": "OpenAI says the 53 images its agents uploaded were on \"image-hosting sites as links that weren't publicly listed\" and \"most\" of the images have been removed (@openai)",
-      "url": "https://www.techmeme.com/260925/p22",
-      "published_at": "2026-09-25T22:30:03Z",
-      "first_seen_at": "2026-09-25T23:28:22.650114Z",
-      "last_seen_at": "2026-09-26T13:20:38.597422Z",
-      "ai_is_related": true,
-      "ai_score": 0.75,
-      "ai_label": "ai_model",
-      "ai_relevance_reason": "matched_strong_tech_signal",
-      "ai_signals": [
-        "ai",
-        "openai"
-      ],
-      "ai_noise": [],
-      "tech_is_related": true,
-      "tech_score": 0.75,
-      "tech_label": "ai_model",
-      "source_tier": "discussion",
-      "source_tier_label": "热议参考",
-      "source_tier_rank": 5,
-      "direction": "ai_models_apps",
-      "direction_hits": [
-        {
-          "direction_id": "ai_models_apps",
-          "score": 2.44,
-          "matched_keywords": [
-            "agent",
-            "openai",
-            "openai"
-          ],
-          "companies": [
-            "openai"
-          ]
-        }
-      ],
-      "companies": [
-        "openai"
-      ],
-      "title_original": "OpenAI says the 53 images its agents uploaded were on \"image-hosting sites as links that weren't publicly listed\" and \"most\" of the images have been removed (@openai)",
-      "title_en": "OpenAI says the 53 images its agents uploaded were on \"image-hosting sites as links that weren't publicly listed\" and \"most\" of the images have been removed (@openai)",
-      "title_zh": null,
-      "title_bilingual": "OpenAI says the 53 images its agents uploaded were on \"image-hosting sites as links that weren't publicly listed\" and \"most\" of the images have been removed (@openai)"
-    },
-    {
-      "id": "93e2af7817444a9a152719ddcebe379d7ab34b62",
-      "site_id": "newsnow",
-      "site_name": "NewsNow",
-      "source": "juejin",
-      "title": "Codex 本地自定义 Agent 与模型配置实战：TOML、AGENTS.md 和优先级",
-      "url": "https://juejin.cn/post/7688528701483827241",
-      "published_at": "2026-09-25T22:12:55.825000Z",
-      "first_seen_at": "2026-09-25T22:12:13.169069Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
-      "ai_is_related": true,
-      "ai_score": 0.65,
-      "ai_label": "ai_model",
-      "ai_relevance_reason": "matched_strong_tech_signal",
-      "ai_signals": [
-        "codex"
-      ],
-      "ai_noise": [],
-      "tech_is_related": true,
-      "tech_score": 0.65,
-      "tech_label": "ai_model",
-      "source_tier": "discussion",
-      "source_tier_label": "热议参考",
-      "source_tier_rank": 5,
-      "direction": "ai_models_apps",
-      "direction_hits": [
-        {
-          "direction_id": "ai_models_apps",
-          "score": 2.38,
-          "matched_keywords": [
-            "agent",
-            "code",
-            "codex"
-          ],
-          "companies": []
-        }
-      ],
-      "companies": [],
-      "title_original": "Codex 本地自定义 Agent 与模型配置实战：TOML、AGENTS.md 和优先级",
+      "title_original": "消息称 OpenAI、Anthropic 正调查数万起 AI 安全事件",
       "title_en": null,
-      "title_zh": "Codex 本地自定义 Agent 与模型配置实战：TOML、AGENTS.md 和优先级",
-      "title_bilingual": "Codex 本地自定义 Agent 与模型配置实战：TOML、AGENTS.md 和优先级"
+      "title_zh": "消息称 OpenAI、Anthropic 正调查数万起 AI 安全事件",
+      "title_bilingual": "消息称 OpenAI、Anthropic 正调查数万起 AI 安全事件"
+    },
+    {
+      "id": "ae4d0e4e3e79a76016d24b8149be8672904e6dcd",
+      "site_id": "sector_sources",
+      "site_name": "Sector Sources",
+      "source": "IT Home",
+      "title": "接连发生 AI 失控事件，OpenAI 再次暂停其最强模型训练",
+      "url": "https://www.ithome.com/1/007/445.htm",
+      "published_at": "2026-09-26T22:52:43Z",
+      "first_seen_at": "2026-09-26T23:29:18.954020Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
+      "ai_is_related": true,
+      "ai_score": 0.63,
+      "ai_label": "ai_model",
+      "ai_relevance_reason": "matched_strong_tech_signal",
+      "ai_signals": [
+        "ai",
+        "openai"
+      ],
+      "ai_noise": [],
+      "tech_is_related": true,
+      "tech_score": 0.63,
+      "tech_label": "ai_model",
+      "source_tier": "other",
+      "source_tier_label": "其他来源",
+      "source_tier_rank": 9,
+      "direction": "ai_models_apps",
+      "direction_hits": [
+        {
+          "direction_id": "ai_models_apps",
+          "score": 0.75,
+          "matched_keywords": [
+            "openai",
+            "openai"
+          ],
+          "companies": [
+            "openai"
+          ]
+        }
+      ],
+      "companies": [
+        "openai"
+      ],
+      "title_original": "接连发生 AI 失控事件，OpenAI 再次暂停其最强模型训练",
+      "title_en": null,
+      "title_zh": "接连发生 AI 失控事件，OpenAI 再次暂停其最强模型训练",
+      "title_bilingual": "接连发生 AI 失控事件，OpenAI 再次暂停其最强模型训练"
     },
     {
       "id": "3fd1f1da9c2760abb17824caf4a547165b892ffa",
@@ -6281,7 +5819,7 @@
       "url": "https://www.ithome.com/1/007/444.htm",
       "published_at": "2026-09-26T15:44:10Z",
       "first_seen_at": "2026-09-26T17:02:09.294367Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "ai_model",
@@ -6329,7 +5867,7 @@
       "url": "https://www.ithome.com/1/007/443.htm",
       "published_at": "2026-09-26T14:29:11Z",
       "first_seen_at": "2026-09-26T17:02:09.294367Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.63,
       "ai_label": "robotics",
@@ -6376,7 +5914,7 @@
       "url": "https://www.ithome.com/1/007/442.htm",
       "published_at": "2026-09-26T14:20:02Z",
       "first_seen_at": "2026-09-26T17:02:09.294367Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.6,
       "ai_label": "ai_product",
@@ -6422,7 +5960,7 @@
       "url": "https://www.ithome.com/1/007/426.htm",
       "published_at": "2026-09-26T12:01:03Z",
       "first_seen_at": "2026-09-26T12:10:50.326163Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.63,
       "ai_label": "ai_model",
@@ -6469,7 +6007,7 @@
       "url": "https://www.ithome.com/1/007/421.htm",
       "published_at": "2026-09-26T11:07:36Z",
       "first_seen_at": "2026-09-26T12:10:50.326163Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.6,
       "ai_label": "ai_model",
@@ -7050,274 +6588,6 @@
       "title_en": null,
       "title_zh": "vivo S2 FE 手机曝光：联发科天玑 7300e 芯片、10000mAh 容量电池",
       "title_bilingual": "vivo S2 FE 手机曝光：联发科天玑 7300e 芯片、10000mAh 容量电池"
-    },
-    {
-      "id": "7ed6b0d19a3d7176bd890efdc9b524f63a142e6c",
-      "site_id": "sector_sources",
-      "site_name": "Sector Sources",
-      "source": "IT Home",
-      "title": "苹果 iPad mini 8 爆料：前摄改横向布局，A20 Pro 芯片等",
-      "url": "https://www.ithome.com/1/007/267.htm",
-      "published_at": "2026-09-25T23:13:00Z",
-      "first_seen_at": "2026-09-25T23:28:22.650114Z",
-      "last_seen_at": "2026-09-25T23:28:22.650114Z",
-      "ai_is_related": true,
-      "ai_score": 0.63,
-      "ai_label": "chip_semi",
-      "ai_relevance_reason": "matched_strong_tech_signal",
-      "ai_signals": [
-        "ipad",
-        "芯片"
-      ],
-      "ai_noise": [],
-      "tech_is_related": true,
-      "tech_score": 0.63,
-      "tech_label": "chip_semi",
-      "source_tier": "other",
-      "source_tier_label": "其他来源",
-      "source_tier_rank": 9,
-      "direction": "semiconductor",
-      "direction_hits": [
-        {
-          "direction_id": "semiconductor",
-          "score": 0.75,
-          "matched_keywords": [
-            "芯片",
-            "co"
-          ],
-          "companies": []
-        },
-        {
-          "direction_id": "ai_terminal",
-          "score": 0.75,
-          "matched_keywords": [
-            "ipad",
-            "苹果"
-          ],
-          "companies": [
-            "苹果"
-          ]
-        }
-      ],
-      "companies": [
-        "苹果"
-      ],
-      "title_original": "苹果 iPad mini 8 爆料：前摄改横向布局，A20 Pro 芯片等",
-      "title_en": null,
-      "title_zh": "苹果 iPad mini 8 爆料：前摄改横向布局，A20 Pro 芯片等",
-      "title_bilingual": "苹果 iPad mini 8 爆料：前摄改横向布局，A20 Pro 芯片等"
-    },
-    {
-      "id": "a74ac2d55fbe7549cb03bb101ca5f40c4890ca32",
-      "site_id": "sector_sources",
-      "site_name": "Sector Sources",
-      "source": "IT Home",
-      "title": "Anthropic 与 Akamai 达成 7 年 116 亿美元协议，扩充 CPU 算力",
-      "url": "https://www.ithome.com/1/007/263.htm",
-      "published_at": "2026-09-25T23:00:50Z",
-      "first_seen_at": "2026-09-25T23:28:22.650114Z",
-      "last_seen_at": "2026-09-25T23:28:22.650114Z",
-      "ai_is_related": true,
-      "ai_score": 0.66,
-      "ai_label": "ai_product",
-      "ai_relevance_reason": "matched_strong_tech_signal",
-      "ai_signals": [
-        "ai",
-        "anthropic",
-        "算力"
-      ],
-      "ai_noise": [],
-      "tech_is_related": true,
-      "tech_score": 0.66,
-      "tech_label": "ai_product",
-      "source_tier": "other",
-      "source_tier_label": "其他来源",
-      "source_tier_rank": 9,
-      "direction": "semiconductor",
-      "direction_hits": [
-        {
-          "direction_id": "semiconductor",
-          "score": 0.81,
-          "matched_keywords": [
-            "cpu",
-            "co"
-          ],
-          "companies": []
-        },
-        {
-          "direction_id": "ai_models_apps",
-          "score": 0.75,
-          "matched_keywords": [
-            "anthropic",
-            "anthropic"
-          ],
-          "companies": [
-            "anthropic"
-          ]
-        }
-      ],
-      "companies": [
-        "anthropic"
-      ],
-      "title_original": "Anthropic 与 Akamai 达成 7 年 116 亿美元协议，扩充 CPU 算力",
-      "title_en": null,
-      "title_zh": "Anthropic 与 Akamai 达成 7 年 116 亿美元协议，扩充 CPU 算力",
-      "title_bilingual": "Anthropic 与 Akamai 达成 7 年 116 亿美元协议，扩充 CPU 算力"
-    },
-    {
-      "id": "02e0a74a0bf43a00a3e27554fadae7cbeb879221",
-      "site_id": "sector_sources",
-      "site_name": "Sector Sources",
-      "source": "IT Home",
-      "title": "苹果 iPad 12 爆料：A19 芯片、8GB 内存、自研 N1/C1X 芯片",
-      "url": "https://www.ithome.com/1/007/262.htm",
-      "published_at": "2026-09-25T22:57:33Z",
-      "first_seen_at": "2026-09-25T23:28:22.650114Z",
-      "last_seen_at": "2026-09-25T23:28:22.650114Z",
-      "ai_is_related": true,
-      "ai_score": 0.63,
-      "ai_label": "chip_semi",
-      "ai_relevance_reason": "matched_strong_tech_signal",
-      "ai_signals": [
-        "ipad",
-        "芯片"
-      ],
-      "ai_noise": [],
-      "tech_is_related": true,
-      "tech_score": 0.63,
-      "tech_label": "chip_semi",
-      "source_tier": "other",
-      "source_tier_label": "其他来源",
-      "source_tier_rank": 9,
-      "direction": "semiconductor",
-      "direction_hits": [
-        {
-          "direction_id": "semiconductor",
-          "score": 0.75,
-          "matched_keywords": [
-            "芯片",
-            "co"
-          ],
-          "companies": []
-        },
-        {
-          "direction_id": "ai_terminal",
-          "score": 0.75,
-          "matched_keywords": [
-            "ipad",
-            "苹果"
-          ],
-          "companies": [
-            "苹果"
-          ]
-        }
-      ],
-      "companies": [
-        "苹果"
-      ],
-      "title_original": "苹果 iPad 12 爆料：A19 芯片、8GB 内存、自研 N1/C1X 芯片",
-      "title_en": null,
-      "title_zh": "苹果 iPad 12 爆料：A19 芯片、8GB 内存、自研 N1/C1X 芯片",
-      "title_bilingual": "苹果 iPad 12 爆料：A19 芯片、8GB 内存、自研 N1/C1X 芯片"
-    },
-    {
-      "id": "57364db482a7ec84d9daa035a6533a89ecde907d",
-      "site_id": "sector_sources",
-      "site_name": "Sector Sources",
-      "source": "IT Home",
-      "title": "苹果为 TestFlight 应用新增横屏模式支持，为旗下首款折叠屏手机 iPhone Duo 上市做准备",
-      "url": "https://www.ithome.com/1/007/261.htm",
-      "published_at": "2026-09-25T22:56:16Z",
-      "first_seen_at": "2026-09-25T23:28:22.650114Z",
-      "last_seen_at": "2026-09-25T23:28:22.650114Z",
-      "ai_is_related": true,
-      "ai_score": 0.63,
-      "ai_label": "consumer_hw",
-      "ai_relevance_reason": "matched_strong_tech_signal",
-      "ai_signals": [
-        "iphone",
-        "手机"
-      ],
-      "ai_noise": [],
-      "tech_is_related": true,
-      "tech_score": 0.63,
-      "tech_label": "consumer_hw",
-      "source_tier": "other",
-      "source_tier_label": "其他来源",
-      "source_tier_rank": 9,
-      "direction": "ai_terminal",
-      "direction_hits": [
-        {
-          "direction_id": "ai_terminal",
-          "score": 2.4,
-          "matched_keywords": [
-            "iphone",
-            "手机",
-            "iphone",
-            "苹果"
-          ],
-          "companies": [
-            "iphone",
-            "苹果"
-          ]
-        }
-      ],
-      "companies": [
-        "iphone",
-        "苹果"
-      ],
-      "title_original": "苹果为 TestFlight 应用新增横屏模式支持，为旗下首款折叠屏手机 iPhone Duo 上市做准备",
-      "title_en": null,
-      "title_zh": "苹果为 TestFlight 应用新增横屏模式支持，为旗下首款折叠屏手机 iPhone Duo 上市做准备",
-      "title_bilingual": "苹果为 TestFlight 应用新增横屏模式支持，为旗下首款折叠屏手机 iPhone Duo 上市做准备"
-    },
-    {
-      "id": "6ecd0b27ab69d0d10ac0c30b4a6418044c4ce4ac",
-      "site_id": "sector_sources",
-      "site_name": "Sector Sources",
-      "source": "IT Home",
-      "title": "Anthropic 为 Claude 上线“限时免费额度重置”功能，每位用户仅可使用一次",
-      "url": "https://www.ithome.com/1/007/256.htm",
-      "published_at": "2026-09-25T22:37:01Z",
-      "first_seen_at": "2026-09-25T23:28:22.650114Z",
-      "last_seen_at": "2026-09-25T23:28:22.650114Z",
-      "ai_is_related": true,
-      "ai_score": 0.65,
-      "ai_label": "ai_model",
-      "ai_relevance_reason": "matched_strong_tech_signal",
-      "ai_signals": [
-        "anthropic",
-        "claude"
-      ],
-      "ai_noise": [],
-      "tech_is_related": true,
-      "tech_score": 0.65,
-      "tech_label": "ai_model",
-      "source_tier": "other",
-      "source_tier_label": "其他来源",
-      "source_tier_rank": 9,
-      "direction": "ai_models_apps",
-      "direction_hits": [
-        {
-          "direction_id": "ai_models_apps",
-          "score": 2.62,
-          "matched_keywords": [
-            "claude",
-            "anthropic",
-            "anthropic"
-          ],
-          "companies": [
-            "anthropic"
-          ]
-        }
-      ],
-      "companies": [
-        "anthropic"
-      ],
-      "title_original": "Anthropic 为 Claude 上线“限时免费额度重置”功能，每位用户仅可使用一次",
-      "title_en": null,
-      "title_zh": "Anthropic 为 Claude 上线“限时免费额度重置”功能，每位用户仅可使用一次",
-      "title_bilingual": "Anthropic 为 Claude 上线“限时免费额度重置”功能，每位用户仅可使用一次"
     }
   ],
   "items_ai": [
@@ -7330,7 +6600,7 @@
       "url": "https://developers.openai.com/codex/changelog",
       "published_at": "2026-09-26T00:00:00Z",
       "first_seen_at": "2026-09-26T07:57:58.032102Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 1.0,
       "ai_label": "dev_tool",
@@ -7374,48 +6644,6 @@
       "title_bilingual": "Codex CLI 0.157.1"
     },
     {
-      "id": "dd059b79660393da2ac0c82f4ed19cc35a008a33",
-      "site_id": "official_ai",
-      "site_name": "Official AI Updates",
-      "source": "GitHub Changelog",
-      "title": "Enterprise managed settings in-product validator",
-      "url": "https://github.blog/changelog/2026-09-25-enterprise-managed-settings-in-product-validator",
-      "published_at": "2026-09-25T23:24:57Z",
-      "first_seen_at": "2026-09-26T07:57:58.032102Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
-      "ai_is_related": true,
-      "ai_score": 0.73,
-      "ai_label": "dev_tool",
-      "ai_relevance_reason": "matched_tech_signal",
-      "ai_signals": [
-        "ai"
-      ],
-      "ai_noise": [],
-      "tech_is_related": true,
-      "tech_score": 0.73,
-      "tech_label": "dev_tool",
-      "source_tier": "official",
-      "source_tier_label": "官方一手源",
-      "source_tier_rank": 0,
-      "direction": "ai_models_apps",
-      "direction_hits": [
-        {
-          "direction_id": "ai_models_apps",
-          "score": 1.35,
-          "matched_keywords": [
-            "enterprise",
-            "github"
-          ],
-          "companies": []
-        }
-      ],
-      "companies": [],
-      "title_original": "Enterprise managed settings in-product validator",
-      "title_en": "Enterprise managed settings in-product validator",
-      "title_zh": "企业管理的设置产品内验证器",
-      "title_bilingual": "企业管理的设置产品内验证器 / Enterprise managed settings in-product validator"
-    },
-    {
       "id": "1640607f31c4a14cd3b66072a037aa8b68ba650e",
       "site_id": "aihot",
       "site_name": "AI HOT",
@@ -7424,7 +6652,7 @@
       "url": "https://x.com/arena/status/2103893011164017018",
       "published_at": "2026-09-26T17:02:36Z",
       "first_seen_at": "2026-09-26T17:57:14.360545Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "aihot_score": 78,
       "aihot_category": "ai-models",
       "aihot_selected": true,
@@ -7461,7 +6689,7 @@
       "url": "https://www.ithome.com/1/007/444.htm",
       "published_at": "2026-09-26T15:44:10Z",
       "first_seen_at": "2026-09-26T17:02:09.294367Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "aihot_score": 80,
       "aihot_category": "paper",
       "aihot_selected": true,
@@ -7498,7 +6726,7 @@
       "url": "https://www.bbc.com/news/articles/cw62jje658dlo",
       "published_at": "2026-09-26T14:03:54Z",
       "first_seen_at": "2026-09-26T21:26:31.852806Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "aihot_score": 86,
       "aihot_category": "industry",
       "aihot_selected": true,
@@ -7551,7 +6779,7 @@
       "url": "https://the-decoder.com/openai-pauses-its-most-capable-models-after-agents-exploit-loopholes-and-leak-data",
       "published_at": "2026-09-26T09:06:36Z",
       "first_seen_at": "2026-09-26T12:10:50.326163Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "aihot_score": 85,
       "aihot_category": "tip",
       "aihot_selected": true,
@@ -7620,7 +6848,7 @@
       "url": "https://x.com/emollick/status/2103709671865602100",
       "published_at": "2026-09-26T04:54:05Z",
       "first_seen_at": "2026-09-26T07:57:58.032102Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "aihot_score": 78,
       "aihot_category": "tip",
       "aihot_selected": true,
@@ -7671,7 +6899,7 @@
       "url": "https://swarmtraces.org",
       "published_at": "2026-09-25T23:59:47.248000Z",
       "first_seen_at": "2026-09-26T07:57:58.032102Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "aihot_score": 82,
       "aihot_category": "paper",
       "aihot_selected": true,
@@ -7717,6 +6945,53 @@
       "title_bilingual": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节"
     },
     {
+      "id": "fa043c1011f9a5de6b515216e952563bc12f092f",
+      "site_id": "curated_media",
+      "site_name": "Curated Media",
+      "source": "Engadget",
+      "title": "iPhone 18 Pro vs. iPhone 17 Pro: What's new?",
+      "url": "https://www.engadget.com/2267863/iphone-18-pro-vs-17-pro-comparison-explained",
+      "published_at": "2026-09-26T22:45:00Z",
+      "first_seen_at": "2026-09-26T23:29:18.954020Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
+      "ai_is_related": true,
+      "ai_score": 0.78,
+      "ai_label": "consumer_hw",
+      "ai_relevance_reason": "matched_strong_tech_signal",
+      "ai_signals": [
+        "iphone"
+      ],
+      "ai_noise": [],
+      "tech_is_related": true,
+      "tech_score": 0.78,
+      "tech_label": "consumer_hw",
+      "source_tier": "ai_media",
+      "source_tier_label": "精选AI媒体",
+      "source_tier_rank": 2,
+      "direction": "ai_terminal",
+      "direction_hits": [
+        {
+          "direction_id": "ai_terminal",
+          "score": 1.75,
+          "matched_keywords": [
+            "iphone",
+            "ar",
+            "iphone"
+          ],
+          "companies": [
+            "iphone"
+          ]
+        }
+      ],
+      "companies": [
+        "iphone"
+      ],
+      "title_original": "iPhone 18 Pro vs. iPhone 17 Pro: What's new?",
+      "title_en": "iPhone 18 Pro vs. iPhone 17 Pro: What's new?",
+      "title_zh": null,
+      "title_bilingual": "iPhone 18 Pro vs. iPhone 17 Pro: What's new?"
+    },
+    {
       "id": "31c994fb13971a7f15d4c96af8fe2d1baf475b41",
       "site_id": "curated_media",
       "site_name": "Curated Media",
@@ -7725,7 +7000,7 @@
       "url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs",
       "published_at": "2026-09-26T21:02:06Z",
       "first_seen_at": "2026-09-26T21:26:31.852806Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.56,
       "ai_label": "tech_general",
@@ -7757,7 +7032,7 @@
       "url": "https://www.engadget.com/2269877/this-external-gpu-uses-wi-fi-to-transform-any-device-into-a-gaming-rig",
       "published_at": "2026-09-26T19:45:00Z",
       "first_seen_at": "2026-09-26T21:26:31.852806Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.56,
       "ai_label": "chip_semi",
@@ -7799,7 +7074,7 @@
       "url": "https://the-decoder.com/former-ukrainian-defense-minister-fedorov-pitches-a-private-sector-robot-army",
       "published_at": "2026-09-26T19:10:20Z",
       "first_seen_at": "2026-09-26T19:40:42.658745Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.59,
       "ai_label": "robotics",
@@ -7832,7 +7107,7 @@
       "url": "https://arxiv.org/abs/2609.22978",
       "published_at": "2026-09-26T18:22:41Z",
       "first_seen_at": "2026-09-26T21:26:31.852806Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.78,
       "ai_label": "ai_model",
@@ -7866,8 +7141,8 @@
       ],
       "title_original": "DeepSeek Elastic Compute (DSec)",
       "title_en": "DeepSeek Elastic Compute (DSec)",
-      "title_zh": null,
-      "title_bilingual": "DeepSeek Elastic Compute (DSec)"
+      "title_zh": "DeepSeek 弹性计算 (DSec)",
+      "title_bilingual": "DeepSeek 弹性计算 (DSec) / DeepSeek Elastic Compute (DSec)"
     },
     {
       "id": "377b7ee8968cd2d78fad6e3f9b9c623863b05cff",
@@ -7878,7 +7153,7 @@
       "url": "https://the-decoder.com/two-thirds-of-it-leaders-report-ai-results-but-few-would-interrupt-the-ceos-vacation-over-them",
       "published_at": "2026-09-26T17:27:52Z",
       "first_seen_at": "2026-09-26T17:57:14.360545Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.56,
       "ai_label": "tech_general",
@@ -7910,7 +7185,7 @@
       "url": "https://the-decoder.com/ai-access-makes-people-almost-entirely-unwilling-to-say-i-dont-know-study-finds",
       "published_at": "2026-09-26T16:56:36Z",
       "first_seen_at": "2026-09-26T17:02:09.294367Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.56,
       "ai_label": "tech_general",
@@ -7984,7 +7259,7 @@
       "url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
       "published_at": "2026-09-26T16:34:59Z",
       "first_seen_at": "2026-09-26T17:02:09.294367Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.81,
       "ai_label": "ai_model",
@@ -8096,7 +7371,7 @@
       "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-opus-55-uses-95-percent-fewer-em-dashes-but-its-answers-are-getting-longer",
       "published_at": "2026-09-26T16:26:58Z",
       "first_seen_at": "2026-09-26T17:02:09.294367Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.78,
       "ai_label": "ai_model",
@@ -8152,7 +7427,7 @@
       "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
       "published_at": "2026-09-26T15:56:34Z",
       "first_seen_at": "2026-09-26T19:40:42.658745Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.75,
       "ai_label": "ai_model",
@@ -8273,7 +7548,7 @@
       "url": "https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave",
       "published_at": "2026-09-26T15:40:27Z",
       "first_seen_at": "2026-09-26T17:02:09.294367Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.56,
       "ai_label": "tech_general",
@@ -8419,7 +7694,7 @@
       "url": "https://www.bloomberg.com/news/articles/2026-09-26/exxon-signs-shale-deal-with-azerbaijan-for-middle-kura-basin",
       "published_at": "2026-09-26T15:21:55Z",
       "first_seen_at": "2026-09-26T17:02:09.294367Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.56,
       "ai_label": "tech_general",
@@ -8484,7 +7759,7 @@
       "url": "https://www.tomshardware.com/tech-industry/data-centers/russia-bombs-ukrainian-data-centers-in-latest-escalation-100-000-households-lose-connectivity-as-firms-migrate-data-abroad-zelensky-says-ordinary-life-is-simply-a-target",
       "published_at": "2026-09-26T14:30:59Z",
       "first_seen_at": "2026-09-26T17:02:09.294367Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.56,
       "ai_label": "infra_compute",
@@ -8526,7 +7801,7 @@
       "url": "https://www.bleepingcomputer.com/news/security/github-actions-re-enabled-with-mini-shai-hulud-payload-still-active",
       "published_at": "2026-09-26T14:19:46Z",
       "first_seen_at": "2026-09-26T17:02:09.294367Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.56,
       "ai_label": "dev_tool",
@@ -8558,7 +7833,7 @@
       "url": "https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising",
       "published_at": "2026-09-26T14:00:00Z",
       "first_seen_at": "2026-09-26T17:02:09.294367Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.59,
       "ai_label": "software_saas",
@@ -8604,7 +7879,7 @@
       "url": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it",
       "published_at": "2026-09-26T14:00:00Z",
       "first_seen_at": "2026-09-26T17:02:09.294367Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.56,
       "ai_label": "tech_general",
@@ -8636,7 +7911,7 @@
       "url": "https://www.tomshardware.com/tablets/microsoft-surface/microsoft-quietly-drops-copilot-branding-from-its-new-laptops-surface-cvp-confirms-new-devices-meet-hardware-requirements-but-lack-controversial-branding",
       "published_at": "2026-09-26T14:00:00Z",
       "first_seen_at": "2026-09-26T17:02:09.294367Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.56,
       "ai_label": "dev_tool",
@@ -8726,7 +8001,7 @@
       "url": "https://www.tomshardware.com/video-games/playstation/open-source-anyps5-dumps-emulation-to-run-playstation-5-console-games-natively-on-pc-amd-zen-2-architecture-enables-proton-like-binary-translation-for-windows-and-linux",
       "published_at": "2026-09-26T13:59:04Z",
       "first_seen_at": "2026-09-26T17:02:09.294367Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.59,
       "ai_label": "consumer_hw",
@@ -8841,7 +8116,7 @@
       "url": "https://www.bloomberg.com/news/videos/2026-09-26/ai-gives-tech-firms-new-national-security-power-video",
       "published_at": "2026-09-26T13:19:22Z",
       "first_seen_at": "2026-09-26T17:02:09.294367Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.56,
       "ai_label": "tech_general",
@@ -8873,7 +8148,7 @@
       "url": "https://www.tomshardware.com/video-games/pc-gaming/an-nvidia-chatbot-could-one-day-help-developers-better-optimize-their-games-patent-filing-show-requests-can-be-made-in-plain-english",
       "published_at": "2026-09-26T13:00:00Z",
       "first_seen_at": "2026-09-26T13:20:38.597422Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.81,
       "ai_label": "chip_semi",
@@ -9029,7 +8304,7 @@
       "url": "https://www.tomshardware.com/pc-components/gpus/nvidias-rtx-mega-geometry-2-0-streams-ray-tracing-geometry-into-vram-on-demand-nanite-inspired-design-drops-detail-instead-of-dropping-out",
       "published_at": "2026-09-26T12:30:00Z",
       "first_seen_at": "2026-09-26T13:20:38.597422Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.78,
       "ai_label": "chip_semi",
@@ -9146,7 +8421,7 @@
       "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-ai-agents-accidentally-uploaded-user-provided-images-to-third-party-sites",
       "published_at": "2026-09-26T12:28:41Z",
       "first_seen_at": "2026-09-26T13:20:38.597422Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.83,
       "ai_label": "ai_model",
@@ -9268,7 +8543,7 @@
       "url": "https://www.bloomberg.com/news/articles/2026-09-26/what-is-an-ai-kill-switch-why-shutting-down-ai-isn-t-so-simple",
       "published_at": "2026-09-26T12:00:00Z",
       "first_seen_at": "2026-09-26T12:10:50.326163Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.59,
       "ai_label": "consumer_hw",
@@ -9400,7 +8675,7 @@
       "url": "https://www.tomshardware.com/pc-components/liquid-cooling/enthusiast-cooled-iphone-18-pro-with-cold-can-of-la-croix-sparkling-water-benchmarks-show-25-percent-higher-sustained-performance-liquid-cooling-surprisingly-reduced-thermal-throttling",
       "published_at": "2026-09-26T11:00:00Z",
       "first_seen_at": "2026-09-26T12:10:50.326163Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.81,
       "ai_label": "consumer_hw",
@@ -9450,7 +8725,7 @@
       "url": "https://arstechnica.com/cars/2026/09/teslas-big-electric-truck-faces-an-even-bigger-infrastructure-challenge",
       "published_at": "2026-09-26T10:45:09Z",
       "first_seen_at": "2026-09-26T17:02:09.294367Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.78,
       "ai_label": "tech_general",
@@ -9496,7 +8771,7 @@
       "url": "https://the-decoder.com/nvidias-sol-pi-system-cuts-coding-agent-token-usage-nearly-in-half-by-optimizing-the-harness",
       "published_at": "2026-09-26T10:30:32Z",
       "first_seen_at": "2026-09-26T12:10:50.326163Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.83,
       "ai_label": "ai_model",
@@ -9583,7 +8858,7 @@
       "url": "https://www.wired.com/story/meta-muse-is-adults-only-why-does-it-look-like-a-cute-kids-toy",
       "published_at": "2026-09-26T10:30:00Z",
       "first_seen_at": "2026-09-26T12:10:50.326163Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.56,
       "ai_label": "ai_product",
@@ -9638,7 +8913,7 @@
       "url": "https://www.theregister.com/personal-tech/2026/09/26/how-samsung-turned-months-of-inactivity-into-a-very-attention-seeking-smartphone/5298736",
       "published_at": "2026-09-26T10:27:00Z",
       "first_seen_at": "2026-09-26T12:10:50.326163Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.56,
       "ai_label": "consumer_hw",
@@ -9823,8 +9098,8 @@
       "companies": [],
       "title_original": "The Copilot+ PC brand is dead",
       "title_en": "The Copilot+ PC brand is dead",
-      "title_zh": "Copilot+ PC 品牌已死",
-      "title_bilingual": "Copilot+ PC 品牌已死 / The Copilot+ PC brand is dead"
+      "title_zh": "Copilot 电脑品牌已不复存在",
+      "title_bilingual": "Copilot 电脑品牌已不复存在 / The Copilot+ PC brand is dead"
     },
     {
       "id": "3cf79039bc6a67105a58aeff9d410b8674190b18",
@@ -9835,7 +9110,7 @@
       "url": "https://the-decoder.com/openais-gpt-6-astra-can-now-tell-you-exactly-where-you-screwed-up-your-ikea-shelf",
       "published_at": "2026-09-26T09:44:54Z",
       "first_seen_at": "2026-09-26T12:10:50.326163Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.86,
       "ai_label": "ai_model",
@@ -9885,7 +9160,7 @@
       "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
       "published_at": "2026-09-26T09:41:58Z",
       "first_seen_at": "2026-09-26T19:40:42.658745Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.81,
       "ai_label": "ai_model",
@@ -9918,7 +9193,7 @@
       "url": "https://floci.io",
       "published_at": "2026-09-26T08:31:02Z",
       "first_seen_at": "2026-09-26T12:10:50.326163Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.56,
       "ai_label": "software_saas",
@@ -9950,7 +9225,7 @@
       "url": "https://www.theregister.com/offbeat/2026/09/26/space-jam-uk-debuts-space-squadron-to-protect-satellites/5299119",
       "published_at": "2026-09-26T08:08:00Z",
       "first_seen_at": "2026-09-26T12:10:50.326163Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.56,
       "ai_label": "tech_general",
@@ -10014,7 +9289,7 @@
       "url": "https://www.theverge.com/transportation/999785/amflow-tl-review-avinox-esuv-e-bike-avinox",
       "published_at": "2026-09-26T07:00:00Z",
       "first_seen_at": "2026-09-26T12:10:50.326163Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.56,
       "ai_label": "tech_general",
@@ -10103,7 +9378,7 @@
       "url": "https://www.bloomberg.com/news/articles/2026-09-26/another-openai-sandbox-failed-ai-agent-gained-internet-access",
       "published_at": "2026-09-26T04:29:43Z",
       "first_seen_at": "2026-09-26T17:02:09.294367Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.83,
       "ai_label": "ai_model",
@@ -10207,7 +9482,7 @@
       "url": "https://x.com/petergyang/status/2103693608729932025",
       "published_at": "2026-09-26T03:50:15Z",
       "first_seen_at": "2026-09-26T07:57:58.032102Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.66,
       "ai_label": "ai_product",
@@ -10265,7 +9540,7 @@
       "url": "https://x.com/bcherny/status/2103691327699550598",
       "published_at": "2026-09-26T03:41:11Z",
       "first_seen_at": "2026-09-26T07:57:58.032102Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.63,
       "ai_label": "tech_general",
@@ -10297,7 +9572,7 @@
       "url": "https://x.com/danshipper/status/2103678798827020298",
       "published_at": "2026-09-26T02:51:24Z",
       "first_seen_at": "2026-09-26T07:57:58.032102Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.63,
       "ai_label": "tech_general",
@@ -10329,7 +9604,7 @@
       "url": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere",
       "published_at": "2026-09-26T01:08:57Z",
       "first_seen_at": "2026-09-26T07:57:58.032102Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.59,
       "ai_label": "ai_product",
@@ -10437,7 +9712,7 @@
       "url": "https://x.com/steipete/status/2103648679169257737",
       "published_at": "2026-09-26T00:51:43Z",
       "first_seen_at": "2026-09-26T07:57:58.032102Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.82,
       "ai_label": "ai_model",
@@ -10477,7 +9752,7 @@
       "url": "https://x.com/thenanyu/status/2103639287367696603",
       "published_at": "2026-09-26T00:14:24Z",
       "first_seen_at": "2026-09-26T07:57:58.032102Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.63,
       "ai_label": "tech_general",
@@ -10519,7 +9794,7 @@
       "url": "https://x.com/thsottiaux/status/2103637477760311522",
       "published_at": "2026-09-26T00:07:13Z",
       "first_seen_at": "2026-09-26T07:57:58.032102Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.91,
       "ai_label": "ai_model",
@@ -10564,7 +9839,7 @@
       "url": "https://x.com/amasad/status/2103632415185133992",
       "published_at": "2026-09-25T23:47:06Z",
       "first_seen_at": "2026-09-26T07:57:58.032102Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.85,
       "ai_label": "software_saas",
@@ -10596,7 +9871,7 @@
       "url": "https://x.com/levie/status/2103629073595728372",
       "published_at": "2026-09-25T23:33:49Z",
       "first_seen_at": "2026-09-26T07:57:58.032102Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.66,
       "ai_label": "software_saas",
@@ -10621,268 +9896,6 @@
       "title_bilingual": "You can’t automate what you can’t measure. This means that evals are one of the gates to diffusion of AI in the enterprise. We can test our deterministic processes through software, but most enterprises have no useful..."
     },
     {
-      "id": "31810e7587ff30a794439cb9148d8443d02c42a5",
-      "site_id": "curated_media",
-      "site_name": "Curated Media",
-      "source": "TechCrunch AI",
-      "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
-      "url": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers",
-      "published_at": "2026-09-25T23:11:10Z",
-      "first_seen_at": "2026-09-25T23:28:22.650114Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
-      "ai_is_related": true,
-      "ai_score": 0.56,
-      "ai_label": "infra_compute",
-      "ai_relevance_reason": "matched_tech_signal",
-      "ai_signals": [
-        "ai"
-      ],
-      "ai_noise": [],
-      "tech_is_related": true,
-      "tech_score": 0.56,
-      "tech_label": "infra_compute",
-      "source_tier": "ai_media",
-      "source_tier_label": "精选AI媒体",
-      "source_tier_rank": 2,
-      "direction": "security_governance",
-      "direction_hits": [
-        {
-          "direction_id": "security_governance",
-          "score": 1.38,
-          "matched_keywords": [
-            "ai",
-            "data"
-          ],
-          "companies": []
-        }
-      ],
-      "companies": [],
-      "title_original": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
-      "title_en": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
-      "title_zh": "Crusoe 放弃了在 AI 数据中心使用 Boom 涡轮机的 1.25B 美元计划",
-      "title_bilingual": "Crusoe 放弃了在 AI 数据中心使用 Boom 涡轮机的 1.25B 美元计划 / Crusoe abandons $1.25B plan to use Boom turbines at AI data centers"
-    },
-    {
-      "id": "2ec71e10b8ff690a0f420c8c7a3066f582ee5c8f",
-      "site_id": "followbuilders",
-      "site_name": "Follow Builders",
-      "source": "Follow Builders · X · Thibault Sottiaux",
-      "title": "We are aware that codex is down and are working hard to bring back normal service.",
-      "url": "https://x.com/thsottiaux/status/2103620061156290622",
-      "published_at": "2026-09-25T22:58:00Z",
-      "first_seen_at": "2026-09-26T07:57:58.032102Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
-      "ai_is_related": true,
-      "ai_score": 0.63,
-      "ai_label": "dev_tool",
-      "ai_relevance_reason": "matched_tech_signal",
-      "ai_signals": [
-        "codex"
-      ],
-      "ai_noise": [],
-      "tech_is_related": true,
-      "tech_score": 0.63,
-      "tech_label": "dev_tool",
-      "source_tier": "builders",
-      "source_tier_label": "Builders/X源",
-      "source_tier_rank": 2,
-      "direction": "ai_models_apps",
-      "direction_hits": [
-        {
-          "direction_id": "ai_models_apps",
-          "score": 1.56,
-          "matched_keywords": [
-            "code",
-            "codex"
-          ],
-          "companies": []
-        }
-      ],
-      "companies": [],
-      "title_original": "We are aware that codex is down and are working hard to bring back normal service.",
-      "title_en": "We are aware that codex is down and are working hard to bring back normal service.",
-      "title_zh": "我们知道 Codex 已关闭，正在努力恢复正常服务。",
-      "title_bilingual": "我们知道 Codex 已关闭，正在努力恢复正常服务。 / We are aware that codex is down and are working hard to bring back normal service."
-    },
-    {
-      "id": "2fc1418df5e0775ad679173089e97332ab0a1038",
-      "site_id": "curated_media",
-      "site_name": "Curated Media",
-      "source": "TechCrunch AI",
-      "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
-      "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge",
-      "published_at": "2026-09-25T22:20:47Z",
-      "first_seen_at": "2026-09-25T23:28:22.650114Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
-      "ai_is_related": true,
-      "ai_score": 0.83,
-      "ai_label": "ai_model",
-      "ai_relevance_reason": "matched_strong_tech_signal",
-      "ai_signals": [
-        "ai",
-        "openai"
-      ],
-      "ai_noise": [],
-      "tech_is_related": true,
-      "tech_score": 0.83,
-      "tech_label": "ai_model",
-      "source_tier": "ai_media",
-      "source_tier_label": "精选AI媒体",
-      "source_tier_rank": 2,
-      "direction": "ai_models_apps",
-      "direction_hits": [
-        {
-          "direction_id": "ai_models_apps",
-          "score": 2.44,
-          "matched_keywords": [
-            "agent",
-            "openai",
-            "openai"
-          ],
-          "companies": [
-            "openai"
-          ]
-        }
-      ],
-      "companies": [
-        "openai"
-      ],
-      "title_original": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
-      "title_en": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
-      "title_zh": "不安全的 OpenAI 代理在实验室不知情的情况下在互联网上发布了 53 张用户图像",
-      "title_bilingual": "不安全的 OpenAI 代理在实验室不知情的情况下在互联网上发布了 53 张用户图像 / Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge"
-    },
-    {
-      "id": "f897c83e6a407be040235faf8e85bf026e26f51e",
-      "site_id": "curated_media",
-      "site_name": "Curated Media",
-      "source": "Bloomberg Tech",
-      "title": "Markets Rise as AI, Oil & Treasury Yields Drive the Week",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-25/the-close-9-25-2026-video",
-      "published_at": "2026-09-25T21:52:44Z",
-      "first_seen_at": "2026-09-25T23:28:22.650114Z",
-      "last_seen_at": "2026-09-26T13:20:38.597422Z",
-      "ai_is_related": true,
-      "ai_score": 0.56,
-      "ai_label": "tech_general",
-      "ai_relevance_reason": "matched_tech_signal",
-      "ai_signals": [
-        "ai"
-      ],
-      "ai_noise": [],
-      "tech_is_related": true,
-      "tech_score": 0.56,
-      "tech_label": "tech_general",
-      "source_tier": "ai_media",
-      "source_tier_label": "精选AI媒体",
-      "source_tier_rank": 2,
-      "direction": "",
-      "direction_hits": [],
-      "companies": [],
-      "title_original": "Markets Rise as AI, Oil & Treasury Yields Drive the Week",
-      "title_en": "Markets Rise as AI, Oil & Treasury Yields Drive the Week",
-      "title_zh": "人工智能、石油和国债收益率推动本周市场上涨",
-      "title_bilingual": "人工智能、石油和国债收益率推动本周市场上涨 / Markets Rise as AI, Oil & Treasury Yields Drive the Week"
-    },
-    {
-      "id": "21fd6122cfe96dd58fdcf9c023160c125a21951e",
-      "site_id": "curated_media",
-      "site_name": "Curated Media",
-      "source": "Claude Code Releases",
-      "title": "v2.1.283",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.283",
-      "published_at": "2026-09-25T21:50:12Z",
-      "first_seen_at": "2026-09-25T22:12:13.169069Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
-      "ai_is_related": true,
-      "ai_score": 0.78,
-      "ai_label": "ai_model",
-      "ai_relevance_reason": "matched_strong_tech_signal",
-      "ai_signals": [
-        "claude"
-      ],
-      "ai_noise": [],
-      "tech_is_related": true,
-      "tech_score": 0.78,
-      "tech_label": "ai_model",
-      "source_tier": "ai_media",
-      "source_tier_label": "精选AI媒体",
-      "source_tier_rank": 2,
-      "direction": "ai_models_apps",
-      "direction_hits": [
-        {
-          "direction_id": "ai_models_apps",
-          "score": 2.17,
-          "matched_keywords": [
-            "claude",
-            "code",
-            "anthropic",
-            "claude code",
-            "github",
-            "anthropic"
-          ],
-          "companies": [
-            "anthropic"
-          ]
-        }
-      ],
-      "companies": [
-        "anthropic"
-      ],
-      "title_original": "v2.1.283",
-      "title_en": null,
-      "title_zh": null,
-      "title_bilingual": "v2.1.283"
-    },
-    {
-      "id": "5a291c2e550adeaec4445d0d6410c5e0788f211f",
-      "site_id": "curated_media",
-      "site_name": "Curated Media",
-      "source": "Ars Technica",
-      "title": "Court rules Pentagon can blacklist Anthropic for refusing to enable Claude features",
-      "url": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features",
-      "published_at": "2026-09-25T21:36:20Z",
-      "first_seen_at": "2026-09-26T12:10:50.326163Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
-      "ai_is_related": true,
-      "ai_score": 0.83,
-      "ai_label": "ai_model",
-      "ai_relevance_reason": "matched_strong_tech_signal",
-      "ai_signals": [
-        "anthropic",
-        "claude"
-      ],
-      "ai_noise": [],
-      "tech_is_related": true,
-      "tech_score": 0.83,
-      "tech_label": "ai_model",
-      "source_tier": "ai_media",
-      "source_tier_label": "精选AI媒体",
-      "source_tier_rank": 2,
-      "direction": "ai_models_apps",
-      "direction_hits": [
-        {
-          "direction_id": "ai_models_apps",
-          "score": 2.62,
-          "matched_keywords": [
-            "claude",
-            "anthropic",
-            "anthropic"
-          ],
-          "companies": [
-            "anthropic"
-          ]
-        }
-      ],
-      "companies": [
-        "anthropic"
-      ],
-      "title_original": "Court rules Pentagon can blacklist Anthropic for refusing to enable Claude features",
-      "title_en": "Court rules Pentagon can blacklist Anthropic for refusing to enable Claude features",
-      "title_zh": "法院裁定五角大楼可以因拒绝启用Claude功能而将 Anthropic 列入黑名单",
-      "title_bilingual": "法院裁定五角大楼可以因拒绝启用Claude功能而将 Anthropic 列入黑名单 / Court rules Pentagon can blacklist Anthropic for refusing to enable Claude features"
-    },
-    {
       "id": "d50b78d9648e6c0918166acf838e39b7c1314ca0",
       "site_id": "opmlrss",
       "site_name": "OPML RSS",
@@ -10891,7 +9904,7 @@
       "url": "https://www.infoq.cn/article/jJIXCaLHUvPgswTOZ1uQ",
       "published_at": "2026-09-26T17:00:00Z",
       "first_seen_at": "2026-09-26T12:10:50.326163Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.62,
       "ai_label": "dev_tool",
@@ -10940,7 +9953,7 @@
       "url": "https://www.infoq.cn/article/gk4rWsQg09PWTFTZlJE3",
       "published_at": "2026-09-26T09:20:21Z",
       "first_seen_at": "2026-09-26T07:57:58.032102Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.77,
       "ai_label": "ai_model",
@@ -10984,6 +9997,136 @@
       "title_bilingual": "DoorDash 借助多 Agent LLM 系统清理 6 万个 Feature Flag"
     },
     {
+      "id": "fd227838a2ce061b086a466e230a4320088630a8",
+      "site_id": "newsnow",
+      "site_name": "NewsNow",
+      "source": "juejin",
+      "title": "DHH 震撼发声：手写代码时代落幕，Agent 正重塑软件工程",
+      "url": "https://juejin.cn/post/7689061402817265710",
+      "published_at": "2026-09-26T23:07:34.265000Z",
+      "first_seen_at": "2026-09-26T23:29:18.954020Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
+      "ai_is_related": true,
+      "ai_score": 0.68,
+      "ai_label": "ai_model",
+      "ai_relevance_reason": "matched_strong_tech_signal",
+      "ai_signals": [
+        "代码",
+        "软件"
+      ],
+      "ai_noise": [],
+      "tech_is_related": true,
+      "tech_score": 0.68,
+      "tech_label": "ai_model",
+      "source_tier": "discussion",
+      "source_tier_label": "热议参考",
+      "source_tier_rank": 5,
+      "direction": "",
+      "direction_hits": [],
+      "companies": [],
+      "title_original": "DHH 震撼发声：手写代码时代落幕，Agent 正重塑软件工程",
+      "title_en": null,
+      "title_zh": "DHH 震撼发声：手写代码时代落幕，Agent 正重塑软件工程",
+      "title_bilingual": "DHH 震撼发声：手写代码时代落幕，Agent 正重塑软件工程"
+    },
+    {
+      "id": "c6077609dc8b96fb35102360de19ab1d305d91a0",
+      "site_id": "buzzing",
+      "site_name": "Buzzing",
+      "source": "arxiv.org",
+      "title": "DeepSeek 弹性计算 (DSec)",
+      "url": "https://arxiv.org/abs/2609.22978",
+      "published_at": "2026-09-26T22:58:22.682000Z",
+      "first_seen_at": "2026-09-26T23:29:18.954020Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
+      "ai_is_related": true,
+      "ai_score": 0.7,
+      "ai_label": "ai_model",
+      "ai_relevance_reason": "matched_strong_tech_signal",
+      "ai_signals": [
+        "deepseek"
+      ],
+      "ai_noise": [],
+      "tech_is_related": true,
+      "tech_score": 0.7,
+      "tech_label": "ai_model",
+      "source_tier": "discussion",
+      "source_tier_label": "热议参考",
+      "source_tier_rank": 5,
+      "direction": "ai_models_apps",
+      "direction_hits": [
+        {
+          "direction_id": "ai_models_apps",
+          "score": 0.75,
+          "matched_keywords": [
+            "deepseek",
+            "deepseek"
+          ],
+          "companies": [
+            "deepseek"
+          ]
+        }
+      ],
+      "companies": [
+        "deepseek"
+      ],
+      "title_original": "DeepSeek 弹性计算 (DSec)",
+      "title_en": null,
+      "title_zh": "DeepSeek 弹性计算 (DSec)",
+      "title_bilingual": "DeepSeek 弹性计算 (DSec)"
+    },
+    {
+      "id": "ee32606a5cfb278917e675a9877f7fbd38f1f7cc",
+      "site_id": "techurls",
+      "site_name": "TechURLs",
+      "source": "Hacker News",
+      "title": "OpenAI Codex agents go rogue and consumes USD 78,000 without authorization",
+      "url": "https://news.ycombinator.com/item?id=49861047",
+      "published_at": "2026-09-26T22:15:32Z",
+      "first_seen_at": "2026-09-26T23:29:18.954020Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
+      "ai_is_related": true,
+      "ai_score": 0.78,
+      "ai_label": "ai_model",
+      "ai_relevance_reason": "matched_strong_tech_signal",
+      "ai_signals": [
+        "ai",
+        "codex",
+        "openai"
+      ],
+      "ai_noise": [],
+      "tech_is_related": true,
+      "tech_score": 0.78,
+      "tech_label": "ai_model",
+      "source_tier": "discussion",
+      "source_tier_label": "热议参考",
+      "source_tier_rank": 5,
+      "direction": "ai_models_apps",
+      "direction_hits": [
+        {
+          "direction_id": "ai_models_apps",
+          "score": 4.0,
+          "matched_keywords": [
+            "agent",
+            "code",
+            "openai",
+            "codex",
+            "openai"
+          ],
+          "companies": [
+            "openai"
+          ]
+        }
+      ],
+      "companies": [
+        "openai"
+      ],
+      "title_original": "OpenAI Codex agents go rogue and consumes USD 78,000 without authorization",
+      "title_en": "OpenAI Codex agents go rogue and consumes USD 78,000 without authorization",
+      "title_zh": null,
+      "title_bilingual": "OpenAI Codex agents go rogue and consumes USD 78,000 without authorization"
+    },
+    {
       "id": "b35db09005f0ab7fd2b83aef53bde3a713de80c7",
       "site_id": "buzzing",
       "site_name": "Buzzing",
@@ -10992,7 +10135,7 @@
       "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
       "published_at": "2026-09-26T20:22:03.489000Z",
       "first_seen_at": "2026-09-26T21:26:31.852806Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.76,
       "ai_label": "ai_model",
@@ -11036,7 +10179,7 @@
       "url": "https://www.androidpolice.com/the-samsung-galaxy-z-fold-8-has-ruined-the-ultra",
       "published_at": "2026-09-26T20:00:10Z",
       "first_seen_at": "2026-09-26T21:26:31.852806Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.76,
       "ai_label": "software_saas",
@@ -11086,7 +10229,7 @@
       "url": "https://news.ycombinator.com/item?id=49859112",
       "published_at": "2026-09-26T18:22:41Z",
       "first_seen_at": "2026-09-26T21:26:31.852806Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "ai_model",
@@ -11132,7 +10275,7 @@
       "url": "https://www.androidpolice.com/gemini-google-maps-vacation-comparison",
       "published_at": "2026-09-26T17:00:10Z",
       "first_seen_at": "2026-09-26T17:57:14.360545Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.73,
       "ai_label": "ai_model",
@@ -11191,7 +10334,7 @@
       "url": "https://www.techradar.com/pro/pixelmob-portable-ai-workstation-review",
       "published_at": "2026-09-26T16:25:00Z",
       "first_seen_at": "2026-09-26T17:57:14.360545Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.73,
       "ai_label": "consumer_hw",
@@ -11234,7 +10377,7 @@
       "url": "https://thenextweb.com/news/oxford-bodleian-openai-training-data",
       "published_at": "2026-09-26T16:06:39Z",
       "first_seen_at": "2026-09-26T17:02:09.294367Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.73,
       "ai_label": "ai_model",
@@ -11290,7 +10433,7 @@
       "url": "https://news.ycombinator.com/item?id=49857729",
       "published_at": "2026-09-26T15:56:34Z",
       "first_seen_at": "2026-09-26T19:40:42.658745Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.62,
       "ai_label": "ai_model",
@@ -11352,7 +10495,7 @@
       "url": "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot",
       "published_at": "2026-09-26T15:43:46Z",
       "first_seen_at": "2026-09-26T19:40:42.658745Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.8,
       "ai_label": "ai_model",
@@ -11443,7 +10586,7 @@
       "url": "https://www.androidpolice.com/which-galaxy-phones-are-getting-one-ui-9-and-when",
       "published_at": "2026-09-26T15:15:10Z",
       "first_seen_at": "2026-09-26T17:02:09.294367Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.73,
       "ai_label": "software_saas",
@@ -11487,7 +10630,7 @@
       "url": "https://thenextweb.com/news/openai-sandbox-agent-ai-kill-switch",
       "published_at": "2026-09-26T15:11:51Z",
       "first_seen_at": "2026-09-26T17:02:09.294367Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.75,
       "ai_label": "ai_model",
@@ -11535,7 +10678,7 @@
       "url": "https://www.techmeme.com/260926/p9",
       "published_at": "2026-09-26T14:25:01Z",
       "first_seen_at": "2026-09-26T17:02:09.294367Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.76,
       "ai_label": "chip_semi",
@@ -11602,7 +10745,7 @@
       "url": "https://news.ycombinator.com/item?id=49856665",
       "published_at": "2026-09-26T14:03:54Z",
       "first_seen_at": "2026-09-26T19:40:42.658745Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.68,
       "ai_label": "ai_product",
@@ -11649,7 +10792,7 @@
       "url": "https://www.reddit.com/r/codex/comments/1wqjxyy/i_thought_the_model_nerf_posts_were_bullshit",
       "published_at": "2026-09-26T13:34:16Z",
       "first_seen_at": "2026-09-26T17:02:09.294367Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.78,
       "ai_label": "ai_model",
@@ -11833,7 +10976,7 @@
       "url": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
       "published_at": "2026-09-26T13:01:20.496000Z",
       "first_seen_at": "2026-09-26T13:20:38.597422Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.73,
       "ai_label": "ai_model",
@@ -11866,7 +11009,7 @@
       "url": "https://www.businessinsider.com/openai-reveals-workplace-skills-ai-cant-automate-easily-2026-9",
       "published_at": "2026-09-26T13:00:02Z",
       "first_seen_at": "2026-09-26T17:02:09.294367Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.73,
       "ai_label": "ai_product",
@@ -11913,7 +11056,7 @@
       "url": "https://juejin.cn/post/7688917667420717091",
       "published_at": "2026-09-26T12:11:36.861000Z",
       "first_seen_at": "2026-09-26T12:10:50.326163Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "consumer_hw",
@@ -11959,7 +11102,7 @@
       "url": "https://github.com/anthropics/claude-code-action",
       "published_at": "2026-09-26T12:11:36.861000Z",
       "first_seen_at": "2026-09-26T12:10:50.326163Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.7,
       "ai_label": "ai_model",
@@ -12009,7 +11152,7 @@
       "url": "https://juejin.cn/post/7688401878564077602",
       "published_at": "2026-09-26T12:11:36.861000Z",
       "first_seen_at": "2026-09-26T12:10:50.326163Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "ai_model",
@@ -12052,7 +11195,7 @@
       "url": "https://juejin.cn/post/7689029662157717542",
       "published_at": "2026-09-26T12:11:36.861000Z",
       "first_seen_at": "2026-09-26T12:10:50.326163Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "ai_model",
@@ -12084,7 +11227,7 @@
       "url": "https://news.ycombinator.com/item?id=49854875",
       "published_at": "2026-09-26T09:41:58Z",
       "first_seen_at": "2026-09-26T19:40:42.658745Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.68,
       "ai_label": "ai_model",
@@ -12150,7 +11293,7 @@
       "url": "https://mashable.com/tech/best-iphones-apple",
       "published_at": "2026-09-26T09:00:00Z",
       "first_seen_at": "2026-09-26T12:10:50.326163Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.7,
       "ai_label": "consumer_hw",
@@ -12354,7 +11497,7 @@
       "url": "https://slashdot.org/story/26/09/26/0328247/rogue-openai-agents-posted-53-user-uploaded-images-onto-the-internet-accessed-us-government-websites",
       "published_at": "2026-09-26T07:04:00Z",
       "first_seen_at": "2026-09-26T07:57:58.032102Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.75,
       "ai_label": "ai_model",
@@ -12452,7 +11595,7 @@
       "url": "https://www.techmeme.com/260926/p6",
       "published_at": "2026-09-26T06:30:01Z",
       "first_seen_at": "2026-09-26T07:57:58.032102Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.76,
       "ai_label": "ai_model",
@@ -12592,7 +11735,7 @@
       "url": "https://www.techmeme.com/260926/p3",
       "published_at": "2026-09-26T05:05:00Z",
       "first_seen_at": "2026-09-26T07:57:58.032102Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.73,
       "ai_label": "ai_product",
@@ -12639,7 +11782,7 @@
       "url": "https://www.bloomberg.com/news/articles/2026-09-25/microsoft-abandons-personal-ai-chatbot-race-with-copilot-reboot",
       "published_at": "2026-09-26T04:58:00.167000Z",
       "first_seen_at": "2026-09-26T07:57:58.032102Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.79,
       "ai_label": "robotics",
@@ -13040,438 +12183,103 @@
       "title_bilingual": "Meta的Muse似乎使用了一个名为muse-special的OpenAI模型"
     },
     {
-      "id": "f59bdef20af1b57cbfcb2aa96b677d6f4e724bb1",
-      "site_id": "zeli",
-      "site_name": "Zeli",
-      "source": "Hacker News · 24h最热",
-      "title": "OpenAI’s Systems Went Rogue and Meddled With U.S. Government Websites",
-      "url": "https://www.nytimes.com/2026/09/25/technology/openais-ai-us-government-websites.html",
-      "published_at": "2026-09-25T23:22:18Z",
-      "first_seen_at": "2026-09-26T07:57:58.032102Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "id": "230224270863e30670966ec9c3cdda3f97694c1b",
+      "site_id": "sector_sources",
+      "site_name": "Sector Sources",
+      "source": "IT Home",
+      "title": "消息称 OpenAI、Anthropic 正调查数万起 AI 安全事件",
+      "url": "https://www.ithome.com/1/007/447.htm",
+      "published_at": "2026-09-26T23:12:53Z",
+      "first_seen_at": "2026-09-26T23:29:18.954020Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.68,
       "ai_label": "ai_product",
       "ai_relevance_reason": "matched_strong_tech_signal",
       "ai_signals": [
         "ai",
+        "anthropic",
         "openai"
       ],
       "ai_noise": [],
       "tech_is_related": true,
       "tech_score": 0.68,
       "tech_label": "ai_product",
-      "source_tier": "discussion",
-      "source_tier_label": "热议参考",
-      "source_tier_rank": 5,
+      "source_tier": "other",
+      "source_tier_label": "其他来源",
+      "source_tier_rank": 9,
       "direction": "ai_models_apps",
       "direction_hits": [
         {
           "direction_id": "ai_models_apps",
-          "score": 0.75,
+          "score": 2.77,
           "matched_keywords": [
             "openai",
+            "anthropic",
+            "anthropic",
             "openai"
           ],
           "companies": [
+            "anthropic",
             "openai"
           ]
         }
       ],
       "companies": [
+        "anthropic",
         "openai"
       ],
-      "title_original": "OpenAI’s Systems Went Rogue and Meddled With U.S. Government Websites",
-      "title_en": "OpenAI’s Systems Went Rogue and Meddled With U.S. Government Websites",
-      "title_zh": "OpenAI 的系统失控并干扰美国政府网站",
-      "title_bilingual": "OpenAI 的系统失控并干扰美国政府网站 / OpenAI’s Systems Went Rogue and Meddled With U.S. Government Websites"
-    },
-    {
-      "id": "06fc6a795a51aba2d8f8049eae844058ac8e965d",
-      "site_id": "techurls",
-      "site_name": "TechURLs",
-      "source": "TechRadar",
-      "title": "Bitdefender first to launch free 'temporary' VPN for AI Agents because they're worth it — but you can only use it on Apple M-series Macs for now",
-      "url": "https://www.techradar.com/pro/bitdefender-first-to-launch-free-temporary-vpn-for-ai-agents-because-theyre-worth-it-but-you-can-only-use-it-on-apple-m-series-macs-for-now",
-      "published_at": "2026-09-25T23:20:00Z",
-      "first_seen_at": "2026-09-26T07:57:58.032102Z",
-      "last_seen_at": "2026-09-26T07:57:58.032102Z",
-      "ai_is_related": true,
-      "ai_score": 0.7,
-      "ai_label": "ai_model",
-      "ai_relevance_reason": "matched_strong_tech_signal",
-      "ai_signals": [
-        "ai"
-      ],
-      "ai_noise": [],
-      "tech_is_related": true,
-      "tech_score": 0.7,
-      "tech_label": "ai_model",
-      "source_tier": "discussion",
-      "source_tier_label": "热议参考",
-      "source_tier_rank": 5,
-      "direction": "ai_terminal",
-      "direction_hits": [
-        {
-          "direction_id": "ai_terminal",
-          "score": 2.88,
-          "matched_keywords": [
-            "mac",
-            "ar",
-            "agent",
-            "apple"
-          ],
-          "companies": [
-            "apple"
-          ]
-        }
-      ],
-      "companies": [
-        "apple"
-      ],
-      "title_original": "Bitdefender first to launch free 'temporary' VPN for AI Agents because they're worth it — but you can only use it on Apple M-series Macs for now",
-      "title_en": "Bitdefender first to launch free 'temporary' VPN for AI Agents because they're worth it — but you can only use it on Apple M-series Macs for now",
-      "title_zh": null,
-      "title_bilingual": "Bitdefender first to launch free 'temporary' VPN for AI Agents because they're worth it — but you can only use it on Apple M-series Macs for now"
-    },
-    {
-      "id": "7755dd8b2b57f61a0d9dc32fec1f39c3831b5b88",
-      "site_id": "techurls",
-      "site_name": "TechURLs",
-      "source": "New York Times",
-      "title": "OpenAI’s A.I. Went Rogue and Meddled With U.S. Government Websites",
-      "url": "https://www.nytimes.com/2026/09/25/technology/openais-ai-us-government-websites.html",
-      "published_at": "2026-09-25T23:16:40Z",
-      "first_seen_at": "2026-09-25T23:28:22.650114Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
-      "ai_is_related": true,
-      "ai_score": 0.76,
-      "ai_label": "ai_product",
-      "ai_relevance_reason": "matched_strong_tech_signal",
-      "ai_signals": [
-        "a.i.",
-        "ai",
-        "openai"
-      ],
-      "ai_noise": [],
-      "tech_is_related": true,
-      "tech_score": 0.76,
-      "tech_label": "ai_product",
-      "source_tier": "discussion",
-      "source_tier_label": "热议参考",
-      "source_tier_rank": 5,
-      "direction": "ai_models_apps",
-      "direction_hits": [
-        {
-          "direction_id": "ai_models_apps",
-          "score": 0.75,
-          "matched_keywords": [
-            "openai",
-            "openai"
-          ],
-          "companies": [
-            "openai"
-          ]
-        }
-      ],
-      "companies": [
-        "openai"
-      ],
-      "title_original": "OpenAI’s A.I. Went Rogue and Meddled With U.S. Government Websites",
-      "title_en": "OpenAI’s A.I. Went Rogue and Meddled With U.S. Government Websites",
-      "title_zh": "OpenAI 的人工智能流氓行为并干扰美国政府网站",
-      "title_bilingual": "OpenAI 的人工智能流氓行为并干扰美国政府网站 / OpenAI’s A.I. Went Rogue and Meddled With U.S. Government Websites"
-    },
-    {
-      "id": "288417c42e9815928528622836b5b5fb810e483a",
-      "site_id": "hackernews",
-      "site_name": "Hacker News",
-      "source": "HN Algolia · AI 24h",
-      "title": "OpenAI Codex 401 Outage",
-      "url": "https://status.openai.com",
-      "published_at": "2026-09-25T23:07:28Z",
-      "first_seen_at": "2026-09-25T23:28:22.650114Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
-      "ai_is_related": true,
-      "ai_score": 0.81,
-      "ai_label": "dev_tool",
-      "ai_relevance_reason": "matched_strong_tech_signal",
-      "ai_signals": [
-        "ai",
-        "codex",
-        "openai"
-      ],
-      "ai_noise": [],
-      "tech_is_related": true,
-      "tech_score": 0.81,
-      "tech_label": "dev_tool",
-      "source_tier": "discussion",
-      "source_tier_label": "热议参考",
-      "source_tier_rank": 5,
-      "direction": "ai_models_apps",
-      "direction_hits": [
-        {
-          "direction_id": "ai_models_apps",
-          "score": 3.19,
-          "matched_keywords": [
-            "code",
-            "openai",
-            "codex",
-            "openai"
-          ],
-          "companies": [
-            "openai"
-          ]
-        }
-      ],
-      "companies": [
-        "openai"
-      ],
-      "title_original": "OpenAI Codex 401 Outage",
-      "title_en": "OpenAI Codex 401 Outage",
-      "title_zh": null,
-      "title_bilingual": "OpenAI Codex 401 Outage"
-    },
-    {
-      "id": "6f9de9aecf2fb27eee26418083a9cdd3401cf00c",
-      "site_id": "zeli",
-      "site_name": "Zeli",
-      "source": "Hacker News · 24h最热",
-      "title": "Issues with Codex – Identified – Full Outage",
-      "url": "https://status.openai.com/incidents/01M3DCNWMW57HYK8FJ5FBFPA39",
-      "published_at": "2026-09-25T23:04:25Z",
-      "first_seen_at": "2026-09-25T23:28:22.650114Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
-      "ai_is_related": true,
-      "ai_score": 0.71,
-      "ai_label": "dev_tool",
-      "ai_relevance_reason": "matched_strong_tech_signal",
-      "ai_signals": [
-        "ai",
-        "codex",
-        "openai"
-      ],
-      "ai_noise": [],
-      "tech_is_related": true,
-      "tech_score": 0.71,
-      "tech_label": "dev_tool",
-      "source_tier": "discussion",
-      "source_tier_label": "热议参考",
-      "source_tier_rank": 5,
-      "direction": "ai_models_apps",
-      "direction_hits": [
-        {
-          "direction_id": "ai_models_apps",
-          "score": 2.49,
-          "matched_keywords": [
-            "code",
-            "openai",
-            "codex",
-            "openai"
-          ],
-          "companies": [
-            "openai"
-          ]
-        },
-        {
-          "direction_id": "semiconductor",
-          "score": 0.75,
-          "matched_keywords": [
-            "co",
-            "3d"
-          ],
-          "companies": []
-        }
-      ],
-      "companies": [
-        "openai"
-      ],
-      "title_original": "Issues with Codex – Identified – Full Outage",
-      "title_en": "Issues with Codex – Identified – Full Outage",
-      "title_zh": "Codex 问题 – 已识别 – 全面中断",
-      "title_bilingual": "Codex 问题 – 已识别 – 全面中断 / Issues with Codex – Identified – Full Outage"
-    },
-    {
-      "id": "04460cfd9e3e62fd3a8b07f7ea97756ab76a731a",
-      "site_id": "zeli",
-      "site_name": "Zeli",
-      "source": "Hacker News · 24h最热",
-      "title": "FTC chair suggests AI developers should be liable for conduct of agents",
-      "url": "https://www.reuters.com/business/ftc-chair-pushes-back-treating-ai-agents-independent-actors-2026-09-25",
-      "published_at": "2026-09-25T22:49:41Z",
-      "first_seen_at": "2026-09-26T07:57:58.032102Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
-      "ai_is_related": true,
-      "ai_score": 0.71,
-      "ai_label": "ai_model",
-      "ai_relevance_reason": "matched_strong_tech_signal",
-      "ai_signals": [
-        "ai",
-        "developer",
-        "developers"
-      ],
-      "ai_noise": [],
-      "tech_is_related": true,
-      "tech_score": 0.71,
-      "tech_label": "ai_model",
-      "source_tier": "discussion",
-      "source_tier_label": "热议参考",
-      "source_tier_rank": 5,
-      "direction": "",
-      "direction_hits": [],
-      "companies": [],
-      "title_original": "FTC chair suggests AI developers should be liable for conduct of agents",
-      "title_en": "FTC chair suggests AI developers should be liable for conduct of agents",
-      "title_zh": "FTC 主席建议人工智能开发者应对代理人的行为负责",
-      "title_bilingual": "FTC 主席建议人工智能开发者应对代理人的行为负责 / FTC chair suggests AI developers should be liable for conduct of agents"
-    },
-    {
-      "id": "c55f22cab2eb44a640e9cc75a52c9562c91dc684",
-      "site_id": "techurls",
-      "site_name": "TechURLs",
-      "source": "BBC News",
-      "title": "OpenAI investigating 'dozens' of instances of agents acting improperly",
-      "url": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-25T22:43:54Z",
-      "first_seen_at": "2026-09-25T23:28:22.650114Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
-      "ai_is_related": true,
-      "ai_score": 0.75,
-      "ai_label": "ai_model",
-      "ai_relevance_reason": "matched_strong_tech_signal",
-      "ai_signals": [
-        "ai",
-        "openai"
-      ],
-      "ai_noise": [],
-      "tech_is_related": true,
-      "tech_score": 0.75,
-      "tech_label": "ai_model",
-      "source_tier": "discussion",
-      "source_tier_label": "热议参考",
-      "source_tier_rank": 5,
-      "direction": "ai_models_apps",
-      "direction_hits": [
-        {
-          "direction_id": "ai_models_apps",
-          "score": 2.44,
-          "matched_keywords": [
-            "agent",
-            "openai",
-            "openai"
-          ],
-          "companies": [
-            "openai"
-          ]
-        },
-        {
-          "direction_id": "ai_terminal",
-          "score": 0.94,
-          "matched_keywords": [
-            "ar",
-            "agent"
-          ],
-          "companies": []
-        }
-      ],
-      "companies": [
-        "openai"
-      ],
-      "title_original": "OpenAI investigating 'dozens' of instances of agents acting improperly",
-      "title_en": "OpenAI investigating 'dozens' of instances of agents acting improperly",
-      "title_zh": "OpenAI 调查“数十起”特工不当行为实例",
-      "title_bilingual": "OpenAI 调查“数十起”特工不当行为实例 / OpenAI investigating 'dozens' of instances of agents acting improperly"
-    },
-    {
-      "id": "0c599ab1c587020e5cb6e3c896b319611391464f",
-      "site_id": "techurls",
-      "site_name": "TechURLs",
-      "source": "Techmeme",
-      "title": "OpenAI says the 53 images its agents uploaded were on \"image-hosting sites as links that weren't publicly listed\" and \"most\" of the images have been removed (@openai)",
-      "url": "https://www.techmeme.com/260925/p22",
-      "published_at": "2026-09-25T22:30:03Z",
-      "first_seen_at": "2026-09-25T23:28:22.650114Z",
-      "last_seen_at": "2026-09-26T13:20:38.597422Z",
-      "ai_is_related": true,
-      "ai_score": 0.75,
-      "ai_label": "ai_model",
-      "ai_relevance_reason": "matched_strong_tech_signal",
-      "ai_signals": [
-        "ai",
-        "openai"
-      ],
-      "ai_noise": [],
-      "tech_is_related": true,
-      "tech_score": 0.75,
-      "tech_label": "ai_model",
-      "source_tier": "discussion",
-      "source_tier_label": "热议参考",
-      "source_tier_rank": 5,
-      "direction": "ai_models_apps",
-      "direction_hits": [
-        {
-          "direction_id": "ai_models_apps",
-          "score": 2.44,
-          "matched_keywords": [
-            "agent",
-            "openai",
-            "openai"
-          ],
-          "companies": [
-            "openai"
-          ]
-        }
-      ],
-      "companies": [
-        "openai"
-      ],
-      "title_original": "OpenAI says the 53 images its agents uploaded were on \"image-hosting sites as links that weren't publicly listed\" and \"most\" of the images have been removed (@openai)",
-      "title_en": "OpenAI says the 53 images its agents uploaded were on \"image-hosting sites as links that weren't publicly listed\" and \"most\" of the images have been removed (@openai)",
-      "title_zh": null,
-      "title_bilingual": "OpenAI says the 53 images its agents uploaded were on \"image-hosting sites as links that weren't publicly listed\" and \"most\" of the images have been removed (@openai)"
-    },
-    {
-      "id": "93e2af7817444a9a152719ddcebe379d7ab34b62",
-      "site_id": "newsnow",
-      "site_name": "NewsNow",
-      "source": "juejin",
-      "title": "Codex 本地自定义 Agent 与模型配置实战：TOML、AGENTS.md 和优先级",
-      "url": "https://juejin.cn/post/7688528701483827241",
-      "published_at": "2026-09-25T22:12:55.825000Z",
-      "first_seen_at": "2026-09-25T22:12:13.169069Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
-      "ai_is_related": true,
-      "ai_score": 0.65,
-      "ai_label": "ai_model",
-      "ai_relevance_reason": "matched_strong_tech_signal",
-      "ai_signals": [
-        "codex"
-      ],
-      "ai_noise": [],
-      "tech_is_related": true,
-      "tech_score": 0.65,
-      "tech_label": "ai_model",
-      "source_tier": "discussion",
-      "source_tier_label": "热议参考",
-      "source_tier_rank": 5,
-      "direction": "ai_models_apps",
-      "direction_hits": [
-        {
-          "direction_id": "ai_models_apps",
-          "score": 2.38,
-          "matched_keywords": [
-            "agent",
-            "code",
-            "codex"
-          ],
-          "companies": []
-        }
-      ],
-      "companies": [],
-      "title_original": "Codex 本地自定义 Agent 与模型配置实战：TOML、AGENTS.md 和优先级",
+      "title_original": "消息称 OpenAI、Anthropic 正调查数万起 AI 安全事件",
       "title_en": null,
-      "title_zh": "Codex 本地自定义 Agent 与模型配置实战：TOML、AGENTS.md 和优先级",
-      "title_bilingual": "Codex 本地自定义 Agent 与模型配置实战：TOML、AGENTS.md 和优先级"
+      "title_zh": "消息称 OpenAI、Anthropic 正调查数万起 AI 安全事件",
+      "title_bilingual": "消息称 OpenAI、Anthropic 正调查数万起 AI 安全事件"
+    },
+    {
+      "id": "ae4d0e4e3e79a76016d24b8149be8672904e6dcd",
+      "site_id": "sector_sources",
+      "site_name": "Sector Sources",
+      "source": "IT Home",
+      "title": "接连发生 AI 失控事件，OpenAI 再次暂停其最强模型训练",
+      "url": "https://www.ithome.com/1/007/445.htm",
+      "published_at": "2026-09-26T22:52:43Z",
+      "first_seen_at": "2026-09-26T23:29:18.954020Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
+      "ai_is_related": true,
+      "ai_score": 0.63,
+      "ai_label": "ai_model",
+      "ai_relevance_reason": "matched_strong_tech_signal",
+      "ai_signals": [
+        "ai",
+        "openai"
+      ],
+      "ai_noise": [],
+      "tech_is_related": true,
+      "tech_score": 0.63,
+      "tech_label": "ai_model",
+      "source_tier": "other",
+      "source_tier_label": "其他来源",
+      "source_tier_rank": 9,
+      "direction": "ai_models_apps",
+      "direction_hits": [
+        {
+          "direction_id": "ai_models_apps",
+          "score": 0.75,
+          "matched_keywords": [
+            "openai",
+            "openai"
+          ],
+          "companies": [
+            "openai"
+          ]
+        }
+      ],
+      "companies": [
+        "openai"
+      ],
+      "title_original": "接连发生 AI 失控事件，OpenAI 再次暂停其最强模型训练",
+      "title_en": null,
+      "title_zh": "接连发生 AI 失控事件，OpenAI 再次暂停其最强模型训练",
+      "title_bilingual": "接连发生 AI 失控事件，OpenAI 再次暂停其最强模型训练"
     },
     {
       "id": "3fd1f1da9c2760abb17824caf4a547165b892ffa",
@@ -13482,7 +12290,7 @@
       "url": "https://www.ithome.com/1/007/444.htm",
       "published_at": "2026-09-26T15:44:10Z",
       "first_seen_at": "2026-09-26T17:02:09.294367Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "ai_model",
@@ -13530,7 +12338,7 @@
       "url": "https://www.ithome.com/1/007/443.htm",
       "published_at": "2026-09-26T14:29:11Z",
       "first_seen_at": "2026-09-26T17:02:09.294367Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.63,
       "ai_label": "robotics",
@@ -13577,7 +12385,7 @@
       "url": "https://www.ithome.com/1/007/442.htm",
       "published_at": "2026-09-26T14:20:02Z",
       "first_seen_at": "2026-09-26T17:02:09.294367Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.6,
       "ai_label": "ai_product",
@@ -13623,7 +12431,7 @@
       "url": "https://www.ithome.com/1/007/426.htm",
       "published_at": "2026-09-26T12:01:03Z",
       "first_seen_at": "2026-09-26T12:10:50.326163Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.63,
       "ai_label": "ai_model",
@@ -13670,7 +12478,7 @@
       "url": "https://www.ithome.com/1/007/421.htm",
       "published_at": "2026-09-26T11:07:36Z",
       "first_seen_at": "2026-09-26T12:10:50.326163Z",
-      "last_seen_at": "2026-09-26T21:26:31.852806Z",
+      "last_seen_at": "2026-09-26T23:29:18.954020Z",
       "ai_is_related": true,
       "ai_score": 0.6,
       "ai_label": "ai_model",
@@ -14251,274 +13059,6 @@
       "title_en": null,
       "title_zh": "vivo S2 FE 手机曝光：联发科天玑 7300e 芯片、10000mAh 容量电池",
       "title_bilingual": "vivo S2 FE 手机曝光：联发科天玑 7300e 芯片、10000mAh 容量电池"
-    },
-    {
-      "id": "7ed6b0d19a3d7176bd890efdc9b524f63a142e6c",
-      "site_id": "sector_sources",
-      "site_name": "Sector Sources",
-      "source": "IT Home",
-      "title": "苹果 iPad mini 8 爆料：前摄改横向布局，A20 Pro 芯片等",
-      "url": "https://www.ithome.com/1/007/267.htm",
-      "published_at": "2026-09-25T23:13:00Z",
-      "first_seen_at": "2026-09-25T23:28:22.650114Z",
-      "last_seen_at": "2026-09-25T23:28:22.650114Z",
-      "ai_is_related": true,
-      "ai_score": 0.63,
-      "ai_label": "chip_semi",
-      "ai_relevance_reason": "matched_strong_tech_signal",
-      "ai_signals": [
-        "ipad",
-        "芯片"
-      ],
-      "ai_noise": [],
-      "tech_is_related": true,
-      "tech_score": 0.63,
-      "tech_label": "chip_semi",
-      "source_tier": "other",
-      "source_tier_label": "其他来源",
-      "source_tier_rank": 9,
-      "direction": "semiconductor",
-      "direction_hits": [
-        {
-          "direction_id": "semiconductor",
-          "score": 0.75,
-          "matched_keywords": [
-            "芯片",
-            "co"
-          ],
-          "companies": []
-        },
-        {
-          "direction_id": "ai_terminal",
-          "score": 0.75,
-          "matched_keywords": [
-            "ipad",
-            "苹果"
-          ],
-          "companies": [
-            "苹果"
-          ]
-        }
-      ],
-      "companies": [
-        "苹果"
-      ],
-      "title_original": "苹果 iPad mini 8 爆料：前摄改横向布局，A20 Pro 芯片等",
-      "title_en": null,
-      "title_zh": "苹果 iPad mini 8 爆料：前摄改横向布局，A20 Pro 芯片等",
-      "title_bilingual": "苹果 iPad mini 8 爆料：前摄改横向布局，A20 Pro 芯片等"
-    },
-    {
-      "id": "a74ac2d55fbe7549cb03bb101ca5f40c4890ca32",
-      "site_id": "sector_sources",
-      "site_name": "Sector Sources",
-      "source": "IT Home",
-      "title": "Anthropic 与 Akamai 达成 7 年 116 亿美元协议，扩充 CPU 算力",
-      "url": "https://www.ithome.com/1/007/263.htm",
-      "published_at": "2026-09-25T23:00:50Z",
-      "first_seen_at": "2026-09-25T23:28:22.650114Z",
-      "last_seen_at": "2026-09-25T23:28:22.650114Z",
-      "ai_is_related": true,
-      "ai_score": 0.66,
-      "ai_label": "ai_product",
-      "ai_relevance_reason": "matched_strong_tech_signal",
-      "ai_signals": [
-        "ai",
-        "anthropic",
-        "算力"
-      ],
-      "ai_noise": [],
-      "tech_is_related": true,
-      "tech_score": 0.66,
-      "tech_label": "ai_product",
-      "source_tier": "other",
-      "source_tier_label": "其他来源",
-      "source_tier_rank": 9,
-      "direction": "semiconductor",
-      "direction_hits": [
-        {
-          "direction_id": "semiconductor",
-          "score": 0.81,
-          "matched_keywords": [
-            "cpu",
-            "co"
-          ],
-          "companies": []
-        },
-        {
-          "direction_id": "ai_models_apps",
-          "score": 0.75,
-          "matched_keywords": [
-            "anthropic",
-            "anthropic"
-          ],
-          "companies": [
-            "anthropic"
-          ]
-        }
-      ],
-      "companies": [
-        "anthropic"
-      ],
-      "title_original": "Anthropic 与 Akamai 达成 7 年 116 亿美元协议，扩充 CPU 算力",
-      "title_en": null,
-      "title_zh": "Anthropic 与 Akamai 达成 7 年 116 亿美元协议，扩充 CPU 算力",
-      "title_bilingual": "Anthropic 与 Akamai 达成 7 年 116 亿美元协议，扩充 CPU 算力"
-    },
-    {
-      "id": "02e0a74a0bf43a00a3e27554fadae7cbeb879221",
-      "site_id": "sector_sources",
-      "site_name": "Sector Sources",
-      "source": "IT Home",
-      "title": "苹果 iPad 12 爆料：A19 芯片、8GB 内存、自研 N1/C1X 芯片",
-      "url": "https://www.ithome.com/1/007/262.htm",
-      "published_at": "2026-09-25T22:57:33Z",
-      "first_seen_at": "2026-09-25T23:28:22.650114Z",
-      "last_seen_at": "2026-09-25T23:28:22.650114Z",
-      "ai_is_related": true,
-      "ai_score": 0.63,
-      "ai_label": "chip_semi",
-      "ai_relevance_reason": "matched_strong_tech_signal",
-      "ai_signals": [
-        "ipad",
-        "芯片"
-      ],
-      "ai_noise": [],
-      "tech_is_related": true,
-      "tech_score": 0.63,
-      "tech_label": "chip_semi",
-      "source_tier": "other",
-      "source_tier_label": "其他来源",
-      "source_tier_rank": 9,
-      "direction": "semiconductor",
-      "direction_hits": [
-        {
-          "direction_id": "semiconductor",
-          "score": 0.75,
-          "matched_keywords": [
-            "芯片",
-            "co"
-          ],
-          "companies": []
-        },
-        {
-          "direction_id": "ai_terminal",
-          "score": 0.75,
-          "matched_keywords": [
-            "ipad",
-            "苹果"
-          ],
-          "companies": [
-            "苹果"
-          ]
-        }
-      ],
-      "companies": [
-        "苹果"
-      ],
-      "title_original": "苹果 iPad 12 爆料：A19 芯片、8GB 内存、自研 N1/C1X 芯片",
-      "title_en": null,
-      "title_zh": "苹果 iPad 12 爆料：A19 芯片、8GB 内存、自研 N1/C1X 芯片",
-      "title_bilingual": "苹果 iPad 12 爆料：A19 芯片、8GB 内存、自研 N1/C1X 芯片"
-    },
-    {
-      "id": "57364db482a7ec84d9daa035a6533a89ecde907d",
-      "site_id": "sector_sources",
-      "site_name": "Sector Sources",
-      "source": "IT Home",
-      "title": "苹果为 TestFlight 应用新增横屏模式支持，为旗下首款折叠屏手机 iPhone Duo 上市做准备",
-      "url": "https://www.ithome.com/1/007/261.htm",
-      "published_at": "2026-09-25T22:56:16Z",
-      "first_seen_at": "2026-09-25T23:28:22.650114Z",
-      "last_seen_at": "2026-09-25T23:28:22.650114Z",
-      "ai_is_related": true,
-      "ai_score": 0.63,
-      "ai_label": "consumer_hw",
-      "ai_relevance_reason": "matched_strong_tech_signal",
-      "ai_signals": [
-        "iphone",
-        "手机"
-      ],
-      "ai_noise": [],
-      "tech_is_related": true,
-      "tech_score": 0.63,
-      "tech_label": "consumer_hw",
-      "source_tier": "other",
-      "source_tier_label": "其他来源",
-      "source_tier_rank": 9,
-      "direction": "ai_terminal",
-      "direction_hits": [
-        {
-          "direction_id": "ai_terminal",
-          "score": 2.4,
-          "matched_keywords": [
-            "iphone",
-            "手机",
-            "iphone",
-            "苹果"
-          ],
-          "companies": [
-            "iphone",
-            "苹果"
-          ]
-        }
-      ],
-      "companies": [
-        "iphone",
-        "苹果"
-      ],
-      "title_original": "苹果为 TestFlight 应用新增横屏模式支持，为旗下首款折叠屏手机 iPhone Duo 上市做准备",
-      "title_en": null,
-      "title_zh": "苹果为 TestFlight 应用新增横屏模式支持，为旗下首款折叠屏手机 iPhone Duo 上市做准备",
-      "title_bilingual": "苹果为 TestFlight 应用新增横屏模式支持，为旗下首款折叠屏手机 iPhone Duo 上市做准备"
-    },
-    {
-      "id": "6ecd0b27ab69d0d10ac0c30b4a6418044c4ce4ac",
-      "site_id": "sector_sources",
-      "site_name": "Sector Sources",
-      "source": "IT Home",
-      "title": "Anthropic 为 Claude 上线“限时免费额度重置”功能，每位用户仅可使用一次",
-      "url": "https://www.ithome.com/1/007/256.htm",
-      "published_at": "2026-09-25T22:37:01Z",
-      "first_seen_at": "2026-09-25T23:28:22.650114Z",
-      "last_seen_at": "2026-09-25T23:28:22.650114Z",
-      "ai_is_related": true,
-      "ai_score": 0.65,
-      "ai_label": "ai_model",
-      "ai_relevance_reason": "matched_strong_tech_signal",
-      "ai_signals": [
-        "anthropic",
-        "claude"
-      ],
-      "ai_noise": [],
-      "tech_is_related": true,
-      "tech_score": 0.65,
-      "tech_label": "ai_model",
-      "source_tier": "other",
-      "source_tier_label": "其他来源",
-      "source_tier_rank": 9,
-      "direction": "ai_models_apps",
-      "direction_hits": [
-        {
-          "direction_id": "ai_models_apps",
-          "score": 2.62,
-          "matched_keywords": [
-            "claude",
-            "anthropic",
-            "anthropic"
-          ],
-          "companies": [
-            "anthropic"
-          ]
-        }
-      ],
-      "companies": [
-        "anthropic"
-      ],
-      "title_original": "Anthropic 为 Claude 上线“限时免费额度重置”功能，每位用户仅可使用一次",
-      "title_en": null,
-      "title_zh": "Anthropic 为 Claude 上线“限时免费额度重置”功能，每位用户仅可使用一次",
-      "title_bilingual": "Anthropic 为 Claude 上线“限时免费额度重置”功能，每位用户仅可使用一次"
     }
   ],
   "all_mode_data_url": "data/latest-24h-all.json",
