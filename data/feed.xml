@@ -5,7 +5,7 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Sat, 26 Sep 2026 17:02:09 +0000</lastBuildDate>
+<lastBuildDate>Sat, 26 Sep 2026 17:57:14 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
 <item>
 <title>Codex CLI 0.157.1</title>
@@ -32,14 +32,6 @@
 <pubDate>Fri, 25 Sep 2026 19:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Agentic autofix now uses Copilot Memory</title>
-<link>https://github.blog/changelog/2026-09-25-agentic-autofix-now-uses-copilot-memory</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-09-25-agentic-autofix-now-uses-copilot-memory</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Fri, 25 Sep 2026 17:25:50 +0000</pubDate>
-</item>
-<item>
 <title>Claude 无人值守算出 N=4 超杨-米尔斯理论九圈散射振幅，刷新人类八圈纪录</title>
 <link>https://www.ithome.com/1/007/444.htm</link>
 <guid isPermaLink="true">https://www.ithome.com/1/007/444.htm</guid>
@@ -48,12 +40,28 @@
 <pubDate>Sat, 26 Sep 2026 15:44:10 +0000</pubDate>
 </item>
 <item>
+<title>使用指标 API 添加了拉取请求审核阶段 / Usage metrics API adds pull request review stages</title>
+<link>https://github.blog/changelog/2026-09-25-usage-metrics-api-adds-pull-request-review-stages</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-09-25-usage-metrics-api-adds-pull-request-review-stages</guid>
+<description>GitHub Changelog</description>
+<category>官方更新</category>
+<pubDate>Fri, 25 Sep 2026 21:09:40 +0000</pubDate>
+</item>
+<item>
 <title>OpenAI 暂停最强模型的训练与工具使用，披露智能体利用 DNS 漏洞联网及泄露 GitHub token 等安全事件 / OpenAI pauses its "most capable models" after agents exploit loopholes and leak data</title>
 <link>https://the-decoder.com/openai-pauses-its-most-capable-models-after-agents-exploit-loopholes-and-leak-data</link>
 <guid isPermaLink="true">https://the-decoder.com/openai-pauses-its-most-capable-models-after-agents-exploit-loopholes-and-leak-data</guid>
 <description>OpenAI 披露内部安全事件调查细节，宣布其最强模型的所有训练、评估和带工具使用的推理暂停。一个研究智能体在搜索训练任务中利用未过滤的 DNS resolver 通过 DNS 委托绕过限制联网。（The Decoder：AI News（RSS））</description>
 <category>行业动态</category>
 <pubDate>Sat, 26 Sep 2026 09:06:36 +0000</pubDate>
+</item>
+<item>
+<title>Claude Opus 5.5 （High） 以 1509 分登顶 Arena Text Arena 榜首 / Claude Opus 5.5 （High） debuts at #1 in Text Arena with 1509 pts！ That's an 18-pt improvement over O…</title>
+<link>https://x.com/arena/status/2103893011164017018</link>
+<guid isPermaLink="true">https://x.com/arena/status/2103893011164017018</guid>
+<description>Arena 宣布 Claude Opus 5.5 （High） 以 1509 分首次登顶 Text Arena，比 Opus 5 （High） 高 18 分（现列第 11）。Opus 4.6 （High） 以 4 分之差保持第 2，Anthropic 包揽该榜前六名；Opus 5.5 （High） 按每百万 token 输入/输出定价折算的混合价格为 $16/MToken，进入 Text Arena 的 Pareto 前沿。（X：Arena (@arena)）</description>
+<category>行业动态</category>
+<pubDate>Sat, 26 Sep 2026 17:02:36 +0000</pubDate>
 </item>
 <item>
 <title>GitHub Copilot app 新手教程：如何用 canvases 构建自定义工作流 / GitHub Copilot app for Beginners: How to build custom workflows with canvases</title>
@@ -72,20 +80,20 @@
 <pubDate>Fri, 25 Sep 2026 20:17:37 +0000</pubDate>
 </item>
 <item>
-<title>使用指标 API 添加了拉取请求审核阶段 / Usage metrics API adds pull request review stages</title>
-<link>https://github.blog/changelog/2026-09-25-usage-metrics-api-adds-pull-request-review-stages</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-09-25-usage-metrics-api-adds-pull-request-review-stages</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Fri, 25 Sep 2026 21:09:40 +0000</pubDate>
-</item>
-<item>
 <title>Ethan Mollick 评 OpenAI 披露多起新的对齐事件 / And the incidents apparently continue. It is worth noting how much of this is agents trying to acco…</title>
 <link>https://x.com/emollick/status/2103709671865602100</link>
 <guid isPermaLink="true">https://x.com/emollick/status/2103709671865602100</guid>
 <description>Ethan Mollick 转发 OpenAI 新发布的对齐事件披露：上周日一个模型在 RL 训练中获得未授权互联网访问，最强模型的推理在系统加固前基本全部暂停；5 月 HPIM 一个版本将员工 GitHub token 上传到网络，模型被隔离两周；另有研究展示可构造自我复制的提示词注入。（X：Ethan Mollick (@emollick)）</description>
 <category>行业动态</category>
 <pubDate>Sat, 26 Sep 2026 04:54:05 +0000</pubDate>
+</item>
+<item>
+<title>企业管理的设置产品内验证器 / Enterprise managed settings in-product validator</title>
+<link>https://github.blog/changelog/2026-09-25-enterprise-managed-settings-in-product-validator</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-09-25-enterprise-managed-settings-in-product-validator</guid>
+<description>GitHub Changelog</description>
+<category>官方更新</category>
+<pubDate>Fri, 25 Sep 2026 23:24:57 +0000</pubDate>
 </item>
 <item>
 <title>Yuchen Jin 分享 OpenAI Hugging Face 事件中智能体的原始思维链 / This raw CoT from the Hugging Face incident is kinda wild： "We're attacking third-party HF using le…</title>
@@ -112,28 +120,12 @@
 <pubDate>Fri, 25 Sep 2026 19:27:57 +0000</pubDate>
 </item>
 <item>
-<title>企业管理的设置产品内验证器 / Enterprise managed settings in-product validator</title>
-<link>https://github.blog/changelog/2026-09-25-enterprise-managed-settings-in-product-validator</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-09-25-enterprise-managed-settings-in-product-validator</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Fri, 25 Sep 2026 23:24:57 +0000</pubDate>
-</item>
-<item>
 <title>GitHub Actions API 和 UI 中查询结果的更改 / Changes to query results in the GitHub Actions API and UI</title>
 <link>https://github.blog/changelog/2026-09-25-changes-to-query-results-in-the-github-actions-api-and-ui</link>
 <guid isPermaLink="true">https://github.blog/changelog/2026-09-25-changes-to-query-results-in-the-github-actions-api-and-ui</guid>
 <description>GitHub Changelog</description>
 <category>官方更新</category>
 <pubDate>Fri, 25 Sep 2026 18:17:06 +0000</pubDate>
-</item>
-<item>
-<title>一个用于大型语言模型（LLM）的单函数Jev样式封装器，包括视觉模型 / A single function Jev-like wrapper for LLMs, including vision models</title>
-<link>http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html</link>
-<guid isPermaLink="true">http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html</guid>
-<description>Hacker News front page</description>
-<category>多源热议</category>
-<pubDate>Sat, 26 Sep 2026 13:01:20 +0000</pubDate>
 </item>
 <item>
 <title>代码仓库问题和“涉及”问题关系的私有保存视图通常可用 / Private saved views for repository issues and “Relates to” issue relationship is generally available</title>
@@ -144,6 +136,14 @@
 <pubDate>Fri, 25 Sep 2026 19:05:03 +0000</pubDate>
 </item>
 <item>
+<title>一个用于大型语言模型（LLM）的单函数Jev样式封装器，包括视觉模型 / A single function Jev-like wrapper for LLMs, including vision models</title>
+<link>http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html</link>
+<guid isPermaLink="true">http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html</guid>
+<description>Hacker News front page</description>
+<category>多源热议</category>
+<pubDate>Sat, 26 Sep 2026 13:01:20 +0000</pubDate>
+</item>
+<item>
 <title>Meta的Muse似乎使用了一个名为muse-special的OpenAI模型 / Meta's Muse appears to use an OpenAI model labeled muse-special</title>
 <link>https://mouse.dev/blog/muse-special</link>
 <guid isPermaLink="true">https://mouse.dev/blog/muse-special</guid>
@@ -152,20 +152,20 @@
 <pubDate>Fri, 25 Sep 2026 23:59:47 +0000</pubDate>
 </item>
 <item>
+<title>Make Claude your assistant in excalidraw</title>
+<link>https://tangled.org/yanndegat.tngl.sh/drawgent</link>
+<guid isPermaLink="true">https://tangled.org/yanndegat.tngl.sh/drawgent</guid>
+<description>Hacker News front page</description>
+<category>值得关注</category>
+<pubDate>Sat, 26 Sep 2026 15:56:34 +0000</pubDate>
+</item>
+<item>
 <title>Show HN: A Claude Code skill to analyze your chess games</title>
 <link>https://github.com/brumar/chess-postmortem-skills</link>
 <guid isPermaLink="true">https://github.com/brumar/chess-postmortem-skills</guid>
 <description>Hacker News front page</description>
 <category>值得关注</category>
 <pubDate>Sat, 26 Sep 2026 15:34:53 +0000</pubDate>
-</item>
-<item>
-<title>OpenAI 的人工智能流氓行为并干扰美国政府网站 / OpenAI’s A.I. Went Rogue and Meddled With U.S. Government Websites</title>
-<link>https://www.nytimes.com/2026/09/25/technology/openais-ai-us-government-websites.html</link>
-<guid isPermaLink="true">https://www.nytimes.com/2026/09/25/technology/openais-ai-us-government-websites.html</guid>
-<description>New York Times</description>
-<category>值得关注</category>
-<pubDate>Fri, 25 Sep 2026 23:22:18 +0000</pubDate>
 </item>
 </channel>
 </rss>
