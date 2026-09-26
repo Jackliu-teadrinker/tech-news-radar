@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-26T17:57:14.360545Z",
+  "generated_at": "2026-09-26T19:40:42.658745Z",
   "window_hours": 24,
-  "total_items": 20,
+  "total_items": 15,
   "items": [
     {
       "story_id": "story_1b2804dac47a",
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8289,
-      "importance": 0.8289,
-      "importance_score": 0.8289,
+      "score": 0.8255,
+      "importance": 0.8255,
+      "importance_score": 0.8255,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7716,
+        "recency": 0.7526,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T18:07:58.342757Z"
+        "scored_at": "2026-09-26T19:51:38.680813Z"
       }
     },
     {
@@ -218,15 +218,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8215,
-      "importance": 0.8215,
-      "importance_score": 0.8215,
+      "score": 0.8181,
+      "importance": 0.8181,
+      "importance_score": 0.8181,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.7716,
+        "recency": 0.7526,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -253,90 +253,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T18:07:58.342757Z"
-      }
-    },
-    {
-      "story_id": "story_31f780f81dc1",
-      "title": "Proaction 通过 Codex 将销售额提高了 60% 并节省了 75 多个小时 / Proaction boosts sales 60% and saves 75+ hours with Codex",
-      "url": "https://openai.com/index/proaction",
-      "primary_url": "https://openai.com/index/proaction",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "66813550b19620d0f21a2f5a0f52320a576eb1a2",
-          "title": "Proaction 通过 Codex 将销售额提高了 60% 并节省了 75 多个小时 / Proaction boosts sales 60% and saves 75+ hours with Codex",
-          "title_zh": "Proaction 通过 Codex 将销售额提高了 60% 并节省了 75 多个小时",
-          "title_en": "Proaction boosts sales 60% and saves 75+ hours with Codex",
-          "title_original": "Proaction boosts sales 60% and saves 75+ hours with Codex",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/proaction",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-25T19:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "66813550b19620d0f21a2f5a0f52320a576eb1a2",
-          "title": "Proaction 通过 Codex 将销售额提高了 60% 并节省了 75 多个小时 / Proaction boosts sales 60% and saves 75+ hours with Codex",
-          "title_zh": "Proaction 通过 Codex 将销售额提高了 60% 并节省了 75 多个小时",
-          "title_en": "Proaction boosts sales 60% and saves 75+ hours with Codex",
-          "title_original": "Proaction boosts sales 60% and saves 75+ hours with Codex",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/proaction",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-25T19:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8192,
-      "importance": 0.8192,
-      "importance_score": 0.8192,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.7179,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-25T19:00:00Z",
-      "latest_at": "2026-09-25T19:00:00Z",
-      "primary_item": {
-        "id": "66813550b19620d0f21a2f5a0f52320a576eb1a2",
-        "title": "Proaction 通过 Codex 将销售额提高了 60% 并节省了 75 多个小时 / Proaction boosts sales 60% and saves 75+ hours with Codex",
-        "title_zh": "Proaction 通过 Codex 将销售额提高了 60% 并节省了 75 多个小时",
-        "title_en": "Proaction boosts sales 60% and saves 75+ hours with Codex",
-        "title_original": "Proaction boosts sales 60% and saves 75+ hours with Codex",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/proaction",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-26T18:07:58.342757Z"
+        "scored_at": "2026-09-26T19:51:38.680813Z"
       }
     },
     {
@@ -413,15 +330,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8009,
-      "importance": 0.8009,
-      "importance_score": 0.8009,
+      "score": 0.7966,
+      "importance": 0.7966,
+      "importance_score": 0.7966,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.9685,
+        "recency": 0.9447,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -448,7 +365,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T18:07:58.342757Z"
+        "scored_at": "2026-09-26T19:51:38.680813Z"
       }
     },
     {
@@ -496,15 +413,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7753,
-      "importance": 0.7753,
-      "importance_score": 0.7753,
+      "score": 0.772,
+      "importance": 0.772,
+      "importance_score": 0.772,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.76,
-        "recency": 0.7406,
+        "recency": 0.7224,
         "story_heat": 0.0
       },
       "category": "official",
@@ -530,7 +447,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T18:07:58.342757Z"
+        "scored_at": "2026-09-26T19:51:38.680813Z"
       }
     },
     {
@@ -578,15 +495,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.775,
-      "importance": 0.775,
-      "importance_score": 0.775,
+      "score": 0.7711,
+      "importance": 0.7711,
+      "importance_score": 0.7711,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.8801,
+        "recency": 0.8585,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -612,7 +529,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T18:07:58.342757Z"
+        "scored_at": "2026-09-26T19:51:38.680813Z"
       }
     },
     {
@@ -660,15 +577,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7732,
-      "importance": 0.7732,
-      "importance_score": 0.7732,
+      "score": 0.7689,
+      "importance": 0.7689,
+      "importance_score": 0.7689,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.9869,
+        "recency": 0.9627,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -694,230 +611,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T18:07:58.342757Z"
-      }
-    },
-    {
-      "story_id": "story_a304aaf0894c",
-      "title": "GitHub Copilot app 新手教程：如何用 canvases 构建自定义工作流 / GitHub Copilot app for Beginners: How to build custom workflows with canvases",
-      "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-build-custom-workflows-with-canvases",
-      "primary_url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-build-custom-workflows-with-canvases",
-      "source": "GitHub AI & ML",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "282dcfb0d128a91f99f7e7a3e0ea249f739bfecb",
-          "title": "GitHub Copilot app 新手教程：如何用 canvases 构建自定义工作流 / GitHub Copilot app for Beginners: How to build custom workflows with canvases",
-          "title_zh": "GitHub Copilot app 新手教程：如何用 canvases 构建自定义工作流",
-          "title_en": "GitHub Copilot app for Beginners: How to build custom workflows with canvases",
-          "title_original": "GitHub Copilot app for Beginners: How to build custom workflows with canvases",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-build-custom-workflows-with-canvases",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-25T18:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub AI & ML"
-      ],
-      "items": [
-        {
-          "id": "282dcfb0d128a91f99f7e7a3e0ea249f739bfecb",
-          "title": "GitHub Copilot app 新手教程：如何用 canvases 构建自定义工作流 / GitHub Copilot app for Beginners: How to build custom workflows with canvases",
-          "title_zh": "GitHub Copilot app 新手教程：如何用 canvases 构建自定义工作流",
-          "title_en": "GitHub Copilot app for Beginners: How to build custom workflows with canvases",
-          "title_original": "GitHub Copilot app for Beginners: How to build custom workflows with canvases",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-build-custom-workflows-with-canvases",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-25T18:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7694,
-      "importance": 0.7694,
-      "importance_score": 0.7694,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.76,
-        "recency": 0.7076,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-25T18:00:00Z",
-      "latest_at": "2026-09-25T18:00:00Z",
-      "primary_item": {
-        "id": "282dcfb0d128a91f99f7e7a3e0ea249f739bfecb",
-        "title": "GitHub Copilot app 新手教程：如何用 canvases 构建自定义工作流 / GitHub Copilot app for Beginners: How to build custom workflows with canvases",
-        "title_zh": "GitHub Copilot app 新手教程：如何用 canvases 构建自定义工作流",
-        "title_en": "GitHub Copilot app for Beginners: How to build custom workflows with canvases",
-        "title_original": "GitHub Copilot app for Beginners: How to build custom workflows with canvases",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-build-custom-workflows-with-canvases",
-        "source": "GitHub AI & ML",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-26T18:07:58.342757Z"
-      }
-    },
-    {
-      "story_id": "story_7535491ae20c",
-      "title": "Claude 完成 N=4 超对称 Yang-Mills 九圈振幅计算，物理学家 Matt von Hippel 复盘挑战始末 / Yes， Claude can do Nine Loops",
-      "url": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops",
-      "primary_url": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops",
-      "source": "Anthropic：Research（发表成果 · 网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "18ad5d1949272a639d0b3e28920046d68ba92876",
-          "title": "Claude 完成 N=4 超对称 Yang-Mills 九圈振幅计算，物理学家 Matt von Hippel 复盘挑战始末 / Yes， Claude can do Nine Loops",
-          "title_zh": "Claude 完成 N=4 超对称 Yang-Mills 九圈振幅计算，物理学家 Matt von Hippel 复盘挑战始末",
-          "title_en": "Yes， Claude can do Nine Loops",
-          "title_original": "Yes， Claude can do Nine Loops",
-          "summary": "物理学家 Matt von Hippel 发文复盘：Anthropic 的 Liam Fitzpatrick 和 Siddharth Mishra-Sharma 用 Claude Science（Fable 5.1）以约一两千美元预算完成平面 N=4 超对称 Yang-Mills 六粒子九圈振幅计算。",
-          "recommend_reason_zh": null,
-          "url": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops",
-          "source": "Anthropic：Research（发表成果 · 网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-25T17:59:19.824000Z"
-        },
-        {
-          "id": "39558116cd1695f916f5156f29d598a0d445df7f",
-          "title": "Claude 完成 N=4 超对称 Yang-Mills 九圈振幅计算，物理学家 Matt von Hippel 复盘挑战始末 / Yes, Claude can do Nine Loops",
-          "title_zh": "Claude 完成 N=4 超对称 Yang-Mills 九圈振幅计算，物理学家 Matt von Hippel 复盘挑战始末",
-          "title_en": "Yes, Claude can do Nine Loops",
-          "title_original": "Yes, Claude can do Nine Loops",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops",
-          "source": "Hacker News front page",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-25T18:11:48Z"
-        },
-        {
-          "id": "9f19f11198d79d4dec4b75491349d342c5484f15",
-          "title": "是的，克劳德可以完成“九环”",
-          "title_zh": "是的，克劳德可以完成“九环”",
-          "title_en": null,
-          "title_original": "是的，克劳德可以完成“九环”",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops",
-          "source": "www.anthropic.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-25T20:17:37.059000Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Anthropic：Research（发表成果 · 网页）",
-        "Hacker News front page",
-        "www.anthropic.com"
-      ],
-      "items": [
-        {
-          "id": "18ad5d1949272a639d0b3e28920046d68ba92876",
-          "title": "Claude 完成 N=4 超对称 Yang-Mills 九圈振幅计算，物理学家 Matt von Hippel 复盘挑战始末 / Yes， Claude can do Nine Loops",
-          "title_zh": "Claude 完成 N=4 超对称 Yang-Mills 九圈振幅计算，物理学家 Matt von Hippel 复盘挑战始末",
-          "title_en": "Yes， Claude can do Nine Loops",
-          "title_original": "Yes， Claude can do Nine Loops",
-          "summary": "物理学家 Matt von Hippel 发文复盘：Anthropic 的 Liam Fitzpatrick 和 Siddharth Mishra-Sharma 用 Claude Science（Fable 5.1）以约一两千美元预算完成平面 N=4 超对称 Yang-Mills 六粒子九圈振幅计算。",
-          "recommend_reason_zh": null,
-          "url": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops",
-          "source": "Anthropic：Research（发表成果 · 网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-25T17:59:19.824000Z"
-        },
-        {
-          "id": "39558116cd1695f916f5156f29d598a0d445df7f",
-          "title": "Claude 完成 N=4 超对称 Yang-Mills 九圈振幅计算，物理学家 Matt von Hippel 复盘挑战始末 / Yes, Claude can do Nine Loops",
-          "title_zh": "Claude 完成 N=4 超对称 Yang-Mills 九圈振幅计算，物理学家 Matt von Hippel 复盘挑战始末",
-          "title_en": "Yes, Claude can do Nine Loops",
-          "title_original": "Yes, Claude can do Nine Loops",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops",
-          "source": "Hacker News front page",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-25T18:11:48Z"
-        },
-        {
-          "id": "9f19f11198d79d4dec4b75491349d342c5484f15",
-          "title": "是的，克劳德可以完成“九环”",
-          "title_zh": "是的，克劳德可以完成“九环”",
-          "title_en": null,
-          "title_original": "是的，克劳德可以完成“九环”",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops",
-          "source": "www.anthropic.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-25T20:17:37.059000Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.7609,
-      "importance": 0.7609,
-      "importance_score": 0.7609,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.74,
-        "source_tier": 0.78,
-        "ai_relevance": 0.95,
-        "recency": 0.7075,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-25T17:59:19.824000Z",
-      "latest_at": "2026-09-25T20:17:37.059000Z",
-      "primary_item": {
-        "id": "18ad5d1949272a639d0b3e28920046d68ba92876",
-        "title": "Claude 完成 N=4 超对称 Yang-Mills 九圈振幅计算，物理学家 Matt von Hippel 复盘挑战始末 / Yes， Claude can do Nine Loops",
-        "title_zh": "Claude 完成 N=4 超对称 Yang-Mills 九圈振幅计算，物理学家 Matt von Hippel 复盘挑战始末",
-        "title_en": "Yes， Claude can do Nine Loops",
-        "title_original": "Yes， Claude can do Nine Loops",
-        "summary": "物理学家 Matt von Hippel 发文复盘：Anthropic 的 Liam Fitzpatrick 和 Siddharth Mishra-Sharma 用 Claude Science（Fable 5.1）以约一两千美元预算完成平面 N=4 超对称 Yang-Mills 六粒子九圈振幅计算。",
-        "recommend_reason_zh": null,
-        "url": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops",
-        "source": "Anthropic：Research（发表成果 · 网页）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-26T18:07:58.342757Z"
+        "scored_at": "2026-09-26T19:51:38.680813Z"
       }
     },
     {
@@ -965,15 +659,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7447,
-      "importance": 0.7447,
-      "importance_score": 0.7447,
+      "score": 0.741,
+      "importance": 0.741,
+      "importance_score": 0.741,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.8282,
+        "recency": 0.8078,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -998,7 +692,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T18:07:58.342757Z"
+        "scored_at": "2026-09-26T19:51:38.680813Z"
       }
     },
     {
@@ -1046,15 +740,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7737,
-      "importance": 0.7737,
-      "importance_score": 0.7737,
+      "score": 0.7703,
+      "importance": 0.7703,
+      "importance_score": 0.7703,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.73,
-        "recency": 0.7651,
+        "recency": 0.7463,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1080,7 +774,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T18:07:58.342757Z"
+        "scored_at": "2026-09-26T19:51:38.680813Z"
       }
     },
     {
@@ -1128,15 +822,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7435,
-      "importance": 0.7435,
-      "importance_score": 0.7435,
+      "score": 0.7402,
+      "importance": 0.7402,
+      "importance_score": 0.7402,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.7381,
+        "recency": 0.7199,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1161,363 +855,145 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T18:07:58.342757Z"
+        "scored_at": "2026-09-26T19:51:38.680813Z"
       }
     },
     {
-      "story_id": "story_fa6f9d4b24a5",
-      "title": "Claude Devs 测算 Opus 5.5 相比 Opus 5 在 Claude Code 任务中的成本变化 / Opus 5.5 is 20% cheaper per input and output token than Opus 5， and 60% cheaper on cache reads. So w…",
-      "url": "https://x.com/ClaudeDevs/status/2103548467729887677",
-      "primary_url": "https://x.com/ClaudeDevs/status/2103548467729887677",
-      "source": "X：Claude Devs (@ClaudeDevs)",
-      "source_name": "AI HOT",
+      "story_id": "story_c052180017af",
+      "title": "Drawgent: Coding agent on a live Excalidraw canvas",
+      "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
+      "primary_url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
+      "source": "Hacker News front page",
+      "source_name": "Curated Media",
       "sources": [
         {
-          "id": "7b1e1539fbd3d3b77dcd2a97b8093fc66c4b347d",
-          "title": "Claude Devs 测算 Opus 5.5 相比 Opus 5 在 Claude Code 任务中的成本变化 / Opus 5.5 is 20% cheaper per input and output token than Opus 5， and 60% cheaper on cache reads. So w…",
-          "title_zh": "Claude Devs 测算 Opus 5.5 相比 Opus 5 在 Claude Code 任务中的成本变化",
-          "title_en": "Opus 5.5 is 20% cheaper per input and output token than Opus 5， and 60% cheaper on cache reads. So w…",
-          "title_original": "Opus 5.5 is 20% cheaper per input and output token than Opus 5， and 60% cheaper on cache reads. So w…",
-          "summary": "Opus 5.5 每输入和输出 token 比 Opus 5 便宜 20%，缓存读取便宜 60%。作者据此计算了在 Claude Code 中完成一个任务的实际成本变化，并发布了计算器，读者可从 /usage 运行自己的测算，详见 https://claude.dev/blog/what-a-task-costs-on-opus-5-5/。",
+          "id": "94035961a005ea270e7740e9ddb417e65e20a619",
+          "title": "Drawgent: Coding agent on a live Excalidraw canvas",
+          "title_zh": null,
+          "title_en": "Drawgent: Coding agent on a live Excalidraw canvas",
+          "title_original": "Drawgent: Coding agent on a live Excalidraw canvas",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://x.com/ClaudeDevs/status/2103548467729887677",
-          "source": "X：Claude Devs (@ClaudeDevs)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-25T18:13:31Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Claude Devs (@ClaudeDevs)"
-      ],
-      "items": [
-        {
-          "id": "7b1e1539fbd3d3b77dcd2a97b8093fc66c4b347d",
-          "title": "Claude Devs 测算 Opus 5.5 相比 Opus 5 在 Claude Code 任务中的成本变化 / Opus 5.5 is 20% cheaper per input and output token than Opus 5， and 60% cheaper on cache reads. So w…",
-          "title_zh": "Claude Devs 测算 Opus 5.5 相比 Opus 5 在 Claude Code 任务中的成本变化",
-          "title_en": "Opus 5.5 is 20% cheaper per input and output token than Opus 5， and 60% cheaper on cache reads. So w…",
-          "title_original": "Opus 5.5 is 20% cheaper per input and output token than Opus 5， and 60% cheaper on cache reads. So w…",
-          "summary": "Opus 5.5 每输入和输出 token 比 Opus 5 便宜 20%，缓存读取便宜 60%。作者据此计算了在 Claude Code 中完成一个任务的实际成本变化，并发布了计算器，读者可从 /usage 运行自己的测算，详见 https://claude.dev/blog/what-a-task-costs-on-opus-5-5/。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/ClaudeDevs/status/2103548467729887677",
-          "source": "X：Claude Devs (@ClaudeDevs)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-25T18:13:31Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7358,
-      "importance": 0.7358,
-      "importance_score": 0.7358,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.66,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7099,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-25T18:13:31Z",
-      "latest_at": "2026-09-25T18:13:31Z",
-      "primary_item": {
-        "id": "7b1e1539fbd3d3b77dcd2a97b8093fc66c4b347d",
-        "title": "Claude Devs 测算 Opus 5.5 相比 Opus 5 在 Claude Code 任务中的成本变化 / Opus 5.5 is 20% cheaper per input and output token than Opus 5， and 60% cheaper on cache reads. So w…",
-        "title_zh": "Claude Devs 测算 Opus 5.5 相比 Opus 5 在 Claude Code 任务中的成本变化",
-        "title_en": "Opus 5.5 is 20% cheaper per input and output token than Opus 5， and 60% cheaper on cache reads. So w…",
-        "title_original": "Opus 5.5 is 20% cheaper per input and output token than Opus 5， and 60% cheaper on cache reads. So w…",
-        "summary": "Opus 5.5 每输入和输出 token 比 Opus 5 便宜 20%，缓存读取便宜 60%。作者据此计算了在 Claude Code 中完成一个任务的实际成本变化，并发布了计算器，读者可从 /usage 运行自己的测算，详见 https://claude.dev/blog/what-a-task-costs-on-opus-5-5/。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/ClaudeDevs/status/2103548467729887677",
-        "source": "X：Claude Devs (@ClaudeDevs)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-26T18:07:58.342757Z"
-      }
-    },
-    {
-      "story_id": "story_d0bb9ce06108",
-      "title": "Sam Altman 谈 OpenAI 智能体训练期联网行为审查进展 / There is an extensive and ongoing review related to our agents' use of internet access during traini…",
-      "url": "https://x.com/sama/status/2103567198690349362",
-      "primary_url": "https://x.com/sama/status/2103567198690349362",
-      "source": "X：Sam Altman (@sama)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "477fb3bd3d3bba747faf2053103523c7c20b5cce",
-          "title": "Sam Altman 谈 OpenAI 智能体训练期联网行为审查进展 / There is an extensive and ongoing review related to our agents' use of internet access during traini…",
-          "title_zh": "Sam Altman 谈 OpenAI 智能体训练期联网行为审查进展",
-          "title_en": "There is an extensive and ongoing review related to our agents' use of internet access during traini…",
-          "title_original": "There is an extensive and ongoing review related to our agents' use of internet access during traini…",
-          "summary": "Sam Altman 表示 OpenAI 正在对智能体在训练和评估期间的互联网访问行为进行大规模持续审查，并在官网链接发布摘要。他承认进度比预期慢，需从 petabytes 级智能体活动日志中梳理并与受影响组织合作；审查按严重度排优先级并已加派人手，Hugging Face 事件仍是目前最严重的一次。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/sama/status/2103567198690349362",
-          "source": "X：Sam Altman (@sama)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-25T19:27:57Z"
+          "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
+          "source": "Hacker News front page",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-26T15:56:34Z"
         },
         {
-          "id": "24ff2fe66735d89aa1f690a7b05faf414bc9a792",
-          "title": "Sam Altman 谈 OpenAI 智能体训练期联网行为审查进展 / There is an extensive and ongoing review related to our agents’ use of internet access during training and evaluation. We’ve been publishing summaries at the link below and will continue to. We have not been as fast a...",
-          "title_zh": "Sam Altman 谈 OpenAI 智能体训练期联网行为审查进展",
-          "title_en": "There is an extensive and ongoing review related to our agents’ use of internet access during training and evaluation. We’ve been publishing summaries at the link below and will continue to. We have not been as fast a...",
-          "title_original": "There is an extensive and ongoing review related to our agents’ use of internet access during training and evaluation. We’ve been publishing summaries at the link below and will continue to. We have not been as fast a...",
+          "id": "96e25dde3f9930cbfa731b60983b53a85af4e86d",
+          "title": "Drawgent: Coding agent on a live Excalidraw canvas",
+          "title_zh": null,
+          "title_en": "Drawgent: Coding agent on a live Excalidraw canvas",
+          "title_original": "Drawgent: Coding agent on a live Excalidraw canvas",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://x.com/sama/status/2103567198690349362",
-          "source": "Follow Builders · X · Sam Altman",
-          "source_name": "Follow Builders",
-          "site_id": "followbuilders",
-          "published_at": "2026-09-25T19:27:57Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Follow Builders · X · Sam Altman",
-        "X：Sam Altman (@sama)"
-      ],
-      "items": [
-        {
-          "id": "477fb3bd3d3bba747faf2053103523c7c20b5cce",
-          "title": "Sam Altman 谈 OpenAI 智能体训练期联网行为审查进展 / There is an extensive and ongoing review related to our agents' use of internet access during traini…",
-          "title_zh": "Sam Altman 谈 OpenAI 智能体训练期联网行为审查进展",
-          "title_en": "There is an extensive and ongoing review related to our agents' use of internet access during traini…",
-          "title_original": "There is an extensive and ongoing review related to our agents' use of internet access during traini…",
-          "summary": "Sam Altman 表示 OpenAI 正在对智能体在训练和评估期间的互联网访问行为进行大规模持续审查，并在官网链接发布摘要。他承认进度比预期慢，需从 petabytes 级智能体活动日志中梳理并与受影响组织合作；审查按严重度排优先级并已加派人手，Hugging Face 事件仍是目前最严重的一次。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/sama/status/2103567198690349362",
-          "source": "X：Sam Altman (@sama)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-25T19:27:57Z"
+          "url": "https://news.ycombinator.com/item?id=49857729",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-26T15:56:34Z"
         },
         {
-          "id": "24ff2fe66735d89aa1f690a7b05faf414bc9a792",
-          "title": "Sam Altman 谈 OpenAI 智能体训练期联网行为审查进展 / There is an extensive and ongoing review related to our agents’ use of internet access during training and evaluation. We’ve been publishing summaries at the link below and will continue to. We have not been as fast a...",
-          "title_zh": "Sam Altman 谈 OpenAI 智能体训练期联网行为审查进展",
-          "title_en": "There is an extensive and ongoing review related to our agents’ use of internet access during training and evaluation. We’ve been publishing summaries at the link below and will continue to. We have not been as fast a...",
-          "title_original": "There is an extensive and ongoing review related to our agents’ use of internet access during training and evaluation. We’ve been publishing summaries at the link below and will continue to. We have not been as fast a...",
+          "id": "8615fecf9bd4f94990df704e48bd7d674c3a702b",
+          "title": "Make Claude your assistant in excalidraw",
+          "title_zh": null,
+          "title_en": "Make Claude your assistant in excalidraw",
+          "title_original": "Make Claude your assistant in excalidraw",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://x.com/sama/status/2103567198690349362",
-          "source": "Follow Builders · X · Sam Altman",
-          "source_name": "Follow Builders",
-          "site_id": "followbuilders",
-          "published_at": "2026-09-25T19:27:57Z"
+          "url": "https://news.ycombinator.com/item?id=49857729",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-26T15:56:34Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7237,
-      "importance": 0.7237,
-      "importance_score": 0.7237,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.69,
-        "source_tier": 0.78,
-        "ai_relevance": 0.95,
-        "recency": 0.7227,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-25T19:27:57Z",
-      "latest_at": "2026-09-25T19:27:57Z",
-      "primary_item": {
-        "id": "477fb3bd3d3bba747faf2053103523c7c20b5cce",
-        "title": "Sam Altman 谈 OpenAI 智能体训练期联网行为审查进展 / There is an extensive and ongoing review related to our agents' use of internet access during traini…",
-        "title_zh": "Sam Altman 谈 OpenAI 智能体训练期联网行为审查进展",
-        "title_en": "There is an extensive and ongoing review related to our agents' use of internet access during traini…",
-        "title_original": "There is an extensive and ongoing review related to our agents' use of internet access during traini…",
-        "summary": "Sam Altman 表示 OpenAI 正在对智能体在训练和评估期间的互联网访问行为进行大规模持续审查，并在官网链接发布摘要。他承认进度比预期慢，需从 petabytes 级智能体活动日志中梳理并与受影响组织合作；审查按严重度排优先级并已加派人手，Hugging Face 事件仍是目前最严重的一次。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/sama/status/2103567198690349362",
-        "source": "X：Sam Altman (@sama)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-26T18:07:58.342757Z"
-      }
-    },
-    {
-      "story_id": "story_72aea9f90037",
-      "title": "GitHub Actions API 和 UI 中查询结果的更改 / Changes to query results in the GitHub Actions API and UI",
-      "url": "https://github.blog/changelog/2026-09-25-changes-to-query-results-in-the-github-actions-api-and-ui",
-      "primary_url": "https://github.blog/changelog/2026-09-25-changes-to-query-results-in-the-github-actions-api-and-ui",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "77b432d22ebadd6ef41512adf700ca06057e4c84",
-          "title": "GitHub Actions API 和 UI 中查询结果的更改 / Changes to query results in the GitHub Actions API and UI",
-          "title_zh": "GitHub Actions API 和 UI 中查询结果的更改",
-          "title_en": "Changes to query results in the GitHub Actions API and UI",
-          "title_original": "Changes to query results in the GitHub Actions API and UI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-25-changes-to-query-results-in-the-github-actions-api-and-ui",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-25T18:17:06Z"
-        }
-      ],
-      "source_count": 1,
+      "source_count": 3,
       "source_names": [
-        "GitHub Changelog"
+        "Hacker News front page",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "77b432d22ebadd6ef41512adf700ca06057e4c84",
-          "title": "GitHub Actions API 和 UI 中查询结果的更改 / Changes to query results in the GitHub Actions API and UI",
-          "title_zh": "GitHub Actions API 和 UI 中查询结果的更改",
-          "title_en": "Changes to query results in the GitHub Actions API and UI",
-          "title_original": "Changes to query results in the GitHub Actions API and UI",
+          "id": "94035961a005ea270e7740e9ddb417e65e20a619",
+          "title": "Drawgent: Coding agent on a live Excalidraw canvas",
+          "title_zh": null,
+          "title_en": "Drawgent: Coding agent on a live Excalidraw canvas",
+          "title_original": "Drawgent: Coding agent on a live Excalidraw canvas",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-25-changes-to-query-results-in-the-github-actions-api-and-ui",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-25T18:17:06Z"
+          "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
+          "source": "Hacker News front page",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-26T15:56:34Z"
+        },
+        {
+          "id": "96e25dde3f9930cbfa731b60983b53a85af4e86d",
+          "title": "Drawgent: Coding agent on a live Excalidraw canvas",
+          "title_zh": null,
+          "title_en": "Drawgent: Coding agent on a live Excalidraw canvas",
+          "title_original": "Drawgent: Coding agent on a live Excalidraw canvas",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49857729",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-26T15:56:34Z"
+        },
+        {
+          "id": "8615fecf9bd4f94990df704e48bd7d674c3a702b",
+          "title": "Make Claude your assistant in excalidraw",
+          "title_zh": null,
+          "title_en": "Make Claude your assistant in excalidraw",
+          "title_original": "Make Claude your assistant in excalidraw",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49857729",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-26T15:56:34Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7699,
-      "importance": 0.7699,
-      "importance_score": 0.7699,
-      "importance_label": "官方更新",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.6601,
+      "importance": 0.6601,
+      "importance_score": 0.6601,
+      "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.76,
-        "recency": 0.7105,
-        "story_heat": 0.0
+        "editorial": 0.54,
+        "source_tier": 0.58,
+        "ai_relevance": 0.75,
+        "recency": 0.9475,
+        "story_heat": 0.5
       },
-      "category": "official",
+      "category": "multi_source",
       "reasons": [
-        "official_source",
-        "high_importance"
+        "multi_source"
       ],
-      "earliest_at": "2026-09-25T18:17:06Z",
-      "latest_at": "2026-09-25T18:17:06Z",
+      "earliest_at": "2026-09-26T15:56:34Z",
+      "latest_at": "2026-09-26T15:56:34Z",
       "primary_item": {
-        "id": "77b432d22ebadd6ef41512adf700ca06057e4c84",
-        "title": "GitHub Actions API 和 UI 中查询结果的更改 / Changes to query results in the GitHub Actions API and UI",
-        "title_zh": "GitHub Actions API 和 UI 中查询结果的更改",
-        "title_en": "Changes to query results in the GitHub Actions API and UI",
-        "title_original": "Changes to query results in the GitHub Actions API and UI",
+        "id": "94035961a005ea270e7740e9ddb417e65e20a619",
+        "title": "Drawgent: Coding agent on a live Excalidraw canvas",
+        "title_zh": null,
+        "title_en": "Drawgent: Coding agent on a live Excalidraw canvas",
+        "title_original": "Drawgent: Coding agent on a live Excalidraw canvas",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-25-changes-to-query-results-in-the-github-actions-api-and-ui",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
+        "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
+        "source": "Hacker News front page",
+        "source_name": "Curated Media"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T18:07:58.342757Z"
-      }
-    },
-    {
-      "story_id": "story_8129dd850da5",
-      "title": "代码仓库问题和“涉及”问题关系的私有保存视图通常可用 / Private saved views for repository issues and “Relates to” issue relationship is generally available",
-      "url": "https://github.blog/changelog/2026-09-25-personal-saved-views-for-repository-issues-and-more",
-      "primary_url": "https://github.blog/changelog/2026-09-25-personal-saved-views-for-repository-issues-and-more",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "edc04e0031a325e3e60479ffba5ca7c72cde91fc",
-          "title": "代码仓库问题和“涉及”问题关系的私有保存视图通常可用 / Private saved views for repository issues and “Relates to” issue relationship is generally available",
-          "title_zh": "代码仓库问题和“涉及”问题关系的私有保存视图通常可用",
-          "title_en": "Private saved views for repository issues and “Relates to” issue relationship is generally available",
-          "title_original": "Private saved views for repository issues and “Relates to” issue relationship is generally available",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-25-personal-saved-views-for-repository-issues-and-more",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-25T19:05:03Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "edc04e0031a325e3e60479ffba5ca7c72cde91fc",
-          "title": "代码仓库问题和“涉及”问题关系的私有保存视图通常可用 / Private saved views for repository issues and “Relates to” issue relationship is generally available",
-          "title_zh": "代码仓库问题和“涉及”问题关系的私有保存视图通常可用",
-          "title_en": "Private saved views for repository issues and “Relates to” issue relationship is generally available",
-          "title_original": "Private saved views for repository issues and “Relates to” issue relationship is generally available",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-25-personal-saved-views-for-repository-issues-and-more",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-25T19:05:03Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7654,
-      "importance": 0.7654,
-      "importance_score": 0.7654,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.73,
-        "recency": 0.7187,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-25T19:05:03Z",
-      "latest_at": "2026-09-25T19:05:03Z",
-      "primary_item": {
-        "id": "edc04e0031a325e3e60479ffba5ca7c72cde91fc",
-        "title": "代码仓库问题和“涉及”问题关系的私有保存视图通常可用 / Private saved views for repository issues and “Relates to” issue relationship is generally available",
-        "title_zh": "代码仓库问题和“涉及”问题关系的私有保存视图通常可用",
-        "title_en": "Private saved views for repository issues and “Relates to” issue relationship is generally available",
-        "title_original": "Private saved views for repository issues and “Relates to” issue relationship is generally available",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-25-personal-saved-views-for-repository-issues-and-more",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-26T18:07:58.342757Z"
+        "scored_at": "2026-09-26T19:51:38.680813Z"
       }
     },
     {
@@ -1623,15 +1099,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6625,
-      "importance": 0.6625,
-      "importance_score": 0.6625,
+      "score": 0.6588,
+      "importance": 0.6588,
+      "importance_score": 0.6588,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5832,
         "source_tier": 0.58,
         "ai_relevance": 0.81,
-        "recency": 0.8216,
+        "recency": 0.8014,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1657,184 +1133,44 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T18:07:58.342757Z"
+        "scored_at": "2026-09-26T19:51:38.680813Z"
       }
     },
     {
-      "story_id": "story_838c9d504749",
-      "title": "Meta的Muse似乎使用了一个名为muse-special的OpenAI模型 / Meta's Muse appears to use an OpenAI model labeled muse-special",
-      "url": "https://mouse.dev/blog/muse-special",
-      "primary_url": "https://mouse.dev/blog/muse-special",
+      "story_id": "story_a7326ac13231",
+      "title": "OpenAI bots meddled with multiple US Government agency sites",
+      "url": "https://www.bbc.com/news/articles/cw62jje658dlo",
+      "primary_url": "https://www.bbc.com/news/articles/cw62jje658dlo",
       "source": "Hacker News front page",
       "source_name": "Curated Media",
       "sources": [
         {
-          "id": "144813a77e288892270f177daab5767e5ff12984",
-          "title": "Meta的Muse似乎使用了一个名为muse-special的OpenAI模型 / Meta's Muse appears to use an OpenAI model labeled muse-special",
-          "title_zh": "Meta的Muse似乎使用了一个名为muse-special的OpenAI模型",
-          "title_en": "Meta's Muse appears to use an OpenAI model labeled muse-special",
-          "title_original": "Meta's Muse appears to use an OpenAI model labeled muse-special",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://mouse.dev/blog/muse-special",
-          "source": "Hacker News front page",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-25T18:18:06Z"
-        },
-        {
-          "id": "5b57604029f900bf39f77f8dd8fff854d045f243",
-          "title": "Meta的Muse似乎使用了一个名为muse-special的OpenAI模型",
-          "title_zh": "Meta的Muse似乎使用了一个名为muse-special的OpenAI模型",
-          "title_en": null,
-          "title_original": "Meta的Muse似乎使用了一个名为muse-special的OpenAI模型",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://mouse.dev/blog/muse-special",
-          "source": "mouse.dev",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-25T23:59:47.244000Z"
-        },
-        {
-          "id": "a3e080b2f00d71c7f2bda079360dc0ab7130a006",
-          "title": "Meta 的 Muse 似乎使用了标记为 muse-special 的 OpenAI 模型 / Meta's Muse appears to use an OpenAI model labeled muse-special",
-          "title_zh": "Meta 的 Muse 似乎使用了标记为 muse-special 的 OpenAI 模型",
-          "title_en": "Meta's Muse appears to use an OpenAI model labeled muse-special",
-          "title_original": "Meta's Muse appears to use an OpenAI model labeled muse-special",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49848095",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-25T18:18:06Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News front page",
-        "hackernews",
-        "mouse.dev"
-      ],
-      "items": [
-        {
-          "id": "144813a77e288892270f177daab5767e5ff12984",
-          "title": "Meta的Muse似乎使用了一个名为muse-special的OpenAI模型 / Meta's Muse appears to use an OpenAI model labeled muse-special",
-          "title_zh": "Meta的Muse似乎使用了一个名为muse-special的OpenAI模型",
-          "title_en": "Meta's Muse appears to use an OpenAI model labeled muse-special",
-          "title_original": "Meta's Muse appears to use an OpenAI model labeled muse-special",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://mouse.dev/blog/muse-special",
-          "source": "Hacker News front page",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-25T18:18:06Z"
-        },
-        {
-          "id": "5b57604029f900bf39f77f8dd8fff854d045f243",
-          "title": "Meta的Muse似乎使用了一个名为muse-special的OpenAI模型",
-          "title_zh": "Meta的Muse似乎使用了一个名为muse-special的OpenAI模型",
-          "title_en": null,
-          "title_original": "Meta的Muse似乎使用了一个名为muse-special的OpenAI模型",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://mouse.dev/blog/muse-special",
-          "source": "mouse.dev",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-25T23:59:47.244000Z"
-        },
-        {
-          "id": "a3e080b2f00d71c7f2bda079360dc0ab7130a006",
-          "title": "Meta 的 Muse 似乎使用了标记为 muse-special 的 OpenAI 模型 / Meta's Muse appears to use an OpenAI model labeled muse-special",
-          "title_zh": "Meta 的 Muse 似乎使用了标记为 muse-special 的 OpenAI 模型",
-          "title_en": "Meta's Muse appears to use an OpenAI model labeled muse-special",
-          "title_original": "Meta's Muse appears to use an OpenAI model labeled muse-special",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49848095",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-25T18:18:06Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.655,
-      "importance": 0.655,
-      "importance_score": 0.655,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.6048,
-        "source_tier": 0.58,
-        "ai_relevance": 0.84,
-        "recency": 0.7107,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-25T18:18:06Z",
-      "latest_at": "2026-09-25T23:59:47.244000Z",
-      "primary_item": {
-        "id": "144813a77e288892270f177daab5767e5ff12984",
-        "title": "Meta的Muse似乎使用了一个名为muse-special的OpenAI模型 / Meta's Muse appears to use an OpenAI model labeled muse-special",
-        "title_zh": "Meta的Muse似乎使用了一个名为muse-special的OpenAI模型",
-        "title_en": "Meta's Muse appears to use an OpenAI model labeled muse-special",
-        "title_original": "Meta's Muse appears to use an OpenAI model labeled muse-special",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://mouse.dev/blog/muse-special",
-        "source": "Hacker News front page",
-        "source_name": "Curated Media"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-26T18:07:58.342757Z"
-      }
-    },
-    {
-      "story_id": "story_4951b7266680",
-      "title": "Make Claude your assistant in excalidraw",
-      "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
-      "primary_url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
-      "source": "Hacker News front page",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "edbe2348b542e764b70797bbaf1073fb730bae6b",
-          "title": "Make Claude your assistant in excalidraw",
+          "id": "e82800cee81ec7d9e5585e6ab9ccd6fcd7e6cf7a",
+          "title": "OpenAI bots meddled with multiple US Government agency sites",
           "title_zh": null,
-          "title_en": "Make Claude your assistant in excalidraw",
-          "title_original": "Make Claude your assistant in excalidraw",
+          "title_en": "OpenAI bots meddled with multiple US Government agency sites",
+          "title_original": "OpenAI bots meddled with multiple US Government agency sites",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
+          "url": "https://www.bbc.com/news/articles/cw62jje658dlo",
           "source": "Hacker News front page",
           "source_name": "Curated Media",
           "site_id": "curated_media",
-          "published_at": "2026-09-26T15:56:34Z"
+          "published_at": "2026-09-26T14:03:54Z"
         },
         {
-          "id": "8615fecf9bd4f94990df704e48bd7d674c3a702b",
-          "title": "Make Claude your assistant in excalidraw",
+          "id": "cfc6391f72c2395e39131a46f6507c155b387b40",
+          "title": "OpenAI bots meddled with multiple US Government agency sites",
           "title_zh": null,
-          "title_en": "Make Claude your assistant in excalidraw",
-          "title_original": "Make Claude your assistant in excalidraw",
+          "title_en": "OpenAI bots meddled with multiple US Government agency sites",
+          "title_original": "OpenAI bots meddled with multiple US Government agency sites",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49857729",
+          "url": "https://news.ycombinator.com/item?id=49856665",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-09-26T15:56:34Z"
+          "published_at": "2026-09-26T14:03:54Z"
         }
       ],
       "source_count": 2,
@@ -1844,62 +1180,63 @@
       ],
       "items": [
         {
-          "id": "edbe2348b542e764b70797bbaf1073fb730bae6b",
-          "title": "Make Claude your assistant in excalidraw",
+          "id": "e82800cee81ec7d9e5585e6ab9ccd6fcd7e6cf7a",
+          "title": "OpenAI bots meddled with multiple US Government agency sites",
           "title_zh": null,
-          "title_en": "Make Claude your assistant in excalidraw",
-          "title_original": "Make Claude your assistant in excalidraw",
+          "title_en": "OpenAI bots meddled with multiple US Government agency sites",
+          "title_original": "OpenAI bots meddled with multiple US Government agency sites",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
+          "url": "https://www.bbc.com/news/articles/cw62jje658dlo",
           "source": "Hacker News front page",
           "source_name": "Curated Media",
           "site_id": "curated_media",
-          "published_at": "2026-09-26T15:56:34Z"
+          "published_at": "2026-09-26T14:03:54Z"
         },
         {
-          "id": "8615fecf9bd4f94990df704e48bd7d674c3a702b",
-          "title": "Make Claude your assistant in excalidraw",
+          "id": "cfc6391f72c2395e39131a46f6507c155b387b40",
+          "title": "OpenAI bots meddled with multiple US Government agency sites",
           "title_zh": null,
-          "title_en": "Make Claude your assistant in excalidraw",
-          "title_original": "Make Claude your assistant in excalidraw",
+          "title_en": "OpenAI bots meddled with multiple US Government agency sites",
+          "title_original": "OpenAI bots meddled with multiple US Government agency sites",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49857729",
+          "url": "https://news.ycombinator.com/item?id=49856665",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-09-26T15:56:34Z"
+          "published_at": "2026-09-26T14:03:54Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6519,
-      "importance": 0.6519,
-      "importance_score": 0.6519,
+      "score": 0.6555,
+      "importance": 0.6555,
+      "importance_score": 0.6555,
       "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.5616,
+        "editorial": 0.5832,
         "source_tier": 0.58,
-        "ai_relevance": 0.78,
-        "recency": 0.9714,
+        "ai_relevance": 0.81,
+        "recency": 0.9221,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
-        "multi_source"
+        "multi_source",
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-26T15:56:34Z",
-      "latest_at": "2026-09-26T15:56:34Z",
+      "earliest_at": "2026-09-26T14:03:54Z",
+      "latest_at": "2026-09-26T14:03:54Z",
       "primary_item": {
-        "id": "edbe2348b542e764b70797bbaf1073fb730bae6b",
-        "title": "Make Claude your assistant in excalidraw",
+        "id": "e82800cee81ec7d9e5585e6ab9ccd6fcd7e6cf7a",
+        "title": "OpenAI bots meddled with multiple US Government agency sites",
         "title_zh": null,
-        "title_en": "Make Claude your assistant in excalidraw",
-        "title_original": "Make Claude your assistant in excalidraw",
+        "title_en": "OpenAI bots meddled with multiple US Government agency sites",
+        "title_original": "OpenAI bots meddled with multiple US Government agency sites",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
+        "url": "https://www.bbc.com/news/articles/cw62jje658dlo",
         "source": "Hacker News front page",
         "source_name": "Curated Media"
       },
@@ -1907,7 +1244,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T18:07:58.342757Z"
+        "scored_at": "2026-09-26T19:51:38.680813Z"
       }
     },
     {
@@ -1984,15 +1321,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.651,
-      "importance": 0.651,
-      "importance_score": 0.651,
+      "score": 0.6467,
+      "importance": 0.6467,
+      "importance_score": 0.6467,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5616,
         "source_tier": 0.58,
         "ai_relevance": 0.78,
-        "recency": 0.9663,
+        "recency": 0.9426,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -2017,7 +1354,228 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T18:07:58.342757Z"
+        "scored_at": "2026-09-26T19:51:38.680813Z"
+      }
+    },
+    {
+      "story_id": "story_6d7e1a8ea416",
+      "title": "OpenAI 的人工智能流氓行为并干扰美国政府网站 / OpenAI’s A.I. Went Rogue and Meddled With U.S. Government Websites",
+      "url": "https://www.nytimes.com/2026/09/25/technology/openais-ai-us-government-websites.html",
+      "primary_url": "https://www.nytimes.com/2026/09/25/technology/openais-ai-us-government-websites.html",
+      "source": "New York Times",
+      "source_name": "TechURLs",
+      "sources": [
+        {
+          "id": "f59bdef20af1b57cbfcb2aa96b677d6f4e724bb1",
+          "title": "OpenAI 的系统失控并干扰美国政府网站 / OpenAI’s Systems Went Rogue and Meddled With U.S. Government Websites",
+          "title_zh": "OpenAI 的系统失控并干扰美国政府网站",
+          "title_en": "OpenAI’s Systems Went Rogue and Meddled With U.S. Government Websites",
+          "title_original": "OpenAI’s Systems Went Rogue and Meddled With U.S. Government Websites",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.nytimes.com/2026/09/25/technology/openais-ai-us-government-websites.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-25T23:22:18Z"
+        },
+        {
+          "id": "7755dd8b2b57f61a0d9dc32fec1f39c3831b5b88",
+          "title": "OpenAI 的人工智能流氓行为并干扰美国政府网站 / OpenAI’s A.I. Went Rogue and Meddled With U.S. Government Websites",
+          "title_zh": "OpenAI 的人工智能流氓行为并干扰美国政府网站",
+          "title_en": "OpenAI’s A.I. Went Rogue and Meddled With U.S. Government Websites",
+          "title_original": "OpenAI’s A.I. Went Rogue and Meddled With U.S. Government Websites",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.nytimes.com/2026/09/25/technology/openais-ai-us-government-websites.html",
+          "source": "New York Times",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-25T23:16:40Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "New York Times"
+      ],
+      "items": [
+        {
+          "id": "f59bdef20af1b57cbfcb2aa96b677d6f4e724bb1",
+          "title": "OpenAI 的系统失控并干扰美国政府网站 / OpenAI’s Systems Went Rogue and Meddled With U.S. Government Websites",
+          "title_zh": "OpenAI 的系统失控并干扰美国政府网站",
+          "title_en": "OpenAI’s Systems Went Rogue and Meddled With U.S. Government Websites",
+          "title_original": "OpenAI’s Systems Went Rogue and Meddled With U.S. Government Websites",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.nytimes.com/2026/09/25/technology/openais-ai-us-government-websites.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-25T23:22:18Z"
+        },
+        {
+          "id": "7755dd8b2b57f61a0d9dc32fec1f39c3831b5b88",
+          "title": "OpenAI 的人工智能流氓行为并干扰美国政府网站 / OpenAI’s A.I. Went Rogue and Meddled With U.S. Government Websites",
+          "title_zh": "OpenAI 的人工智能流氓行为并干扰美国政府网站",
+          "title_en": "OpenAI’s A.I. Went Rogue and Meddled With U.S. Government Websites",
+          "title_original": "OpenAI’s A.I. Went Rogue and Meddled With U.S. Government Websites",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.nytimes.com/2026/09/25/technology/openais-ai-us-government-websites.html",
+          "source": "New York Times",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-25T23:16:40Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5456,
+      "importance": 0.5456,
+      "importance_score": 0.5456,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5472,
+        "source_tier": 0.32,
+        "ai_relevance": 0.76,
+        "recency": 0.7448,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-25T23:16:40Z",
+      "latest_at": "2026-09-25T23:22:18Z",
+      "primary_item": {
+        "id": "7755dd8b2b57f61a0d9dc32fec1f39c3831b5b88",
+        "title": "OpenAI 的人工智能流氓行为并干扰美国政府网站 / OpenAI’s A.I. Went Rogue and Meddled With U.S. Government Websites",
+        "title_zh": "OpenAI 的人工智能流氓行为并干扰美国政府网站",
+        "title_en": "OpenAI’s A.I. Went Rogue and Meddled With U.S. Government Websites",
+        "title_original": "OpenAI’s A.I. Went Rogue and Meddled With U.S. Government Websites",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.nytimes.com/2026/09/25/technology/openais-ai-us-government-websites.html",
+        "source": "New York Times",
+        "source_name": "TechURLs"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-26T19:51:38.680813Z"
+      }
+    },
+    {
+      "story_id": "story_16720037ed48",
+      "title": "如何在LLM的世界里继续享受编程的乐趣 / How to keep enjoying programming in a world of LLMs",
+      "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
+      "primary_url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
+      "source": "Hacker News front page",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "14e51e261ccbf837e70cff6657e7c625d0a41043",
+          "title": "如何在LLM的世界里继续享受编程的乐趣 / How to keep enjoying programming in a world of LLMs",
+          "title_zh": "如何在LLM的世界里继续享受编程的乐趣",
+          "title_en": "How to keep enjoying programming in a world of LLMs",
+          "title_original": "How to keep enjoying programming in a world of LLMs",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
+          "source": "Hacker News front page",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-26T09:41:58Z"
+        },
+        {
+          "id": "a930782ee90bb6dcb0e88a39ed0039db7883b922",
+          "title": "如何在LLM的世界里继续享受编程的乐趣 / How to keep enjoying programming in a world of LLMs",
+          "title_zh": "如何在LLM的世界里继续享受编程的乐趣",
+          "title_en": "How to keep enjoying programming in a world of LLMs",
+          "title_original": "How to keep enjoying programming in a world of LLMs",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49854875",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-26T09:41:58Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News front page",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "14e51e261ccbf837e70cff6657e7c625d0a41043",
+          "title": "如何在LLM的世界里继续享受编程的乐趣 / How to keep enjoying programming in a world of LLMs",
+          "title_zh": "如何在LLM的世界里继续享受编程的乐趣",
+          "title_en": "How to keep enjoying programming in a world of LLMs",
+          "title_original": "How to keep enjoying programming in a world of LLMs",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
+          "source": "Hacker News front page",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-26T09:41:58Z"
+        },
+        {
+          "id": "a930782ee90bb6dcb0e88a39ed0039db7883b922",
+          "title": "如何在LLM的世界里继续享受编程的乐趣 / How to keep enjoying programming in a world of LLMs",
+          "title_zh": "如何在LLM的世界里继续享受编程的乐趣",
+          "title_en": "How to keep enjoying programming in a world of LLMs",
+          "title_original": "How to keep enjoying programming in a world of LLMs",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49854875",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-26T09:41:58Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6454,
+      "importance": 0.6454,
+      "importance_score": 0.6454,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5832,
+        "source_tier": 0.58,
+        "ai_relevance": 0.81,
+        "recency": 0.8658,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-26T09:41:58Z",
+      "latest_at": "2026-09-26T09:41:58Z",
+      "primary_item": {
+        "id": "14e51e261ccbf837e70cff6657e7c625d0a41043",
+        "title": "如何在LLM的世界里继续享受编程的乐趣 / How to keep enjoying programming in a world of LLMs",
+        "title_zh": "如何在LLM的世界里继续享受编程的乐趣",
+        "title_en": "How to keep enjoying programming in a world of LLMs",
+        "title_original": "How to keep enjoying programming in a world of LLMs",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
+        "source": "Hacker News front page",
+        "source_name": "Curated Media"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-26T19:51:38.680813Z"
       }
     }
   ]
