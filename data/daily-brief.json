@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-27T00:49:23.253621Z",
+  "generated_at": "2026-09-27T08:30:55.956678Z",
   "window_hours": 24,
-  "total_items": 14,
+  "total_items": 13,
   "items": [
     {
       "story_id": "story_a7326ac13231",
@@ -106,15 +106,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8237,
-      "importance": 0.8237,
-      "importance_score": 0.8237,
+      "score": 0.8075,
+      "importance": 0.8075,
+      "importance_score": 0.8075,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.86,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.8561,
+        "recency": 0.7661,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -141,7 +141,251 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-27T01:15:15.503163Z"
+        "scored_at": "2026-09-27T08:43:27.119050Z"
+      }
+    },
+    {
+      "story_id": "story_29d461ab8b07",
+      "title": "消息称 OpenAI、Anthropic 正调查数万起 AI 安全事件",
+      "url": "https://www.ithome.com/1/007/447.htm",
+      "primary_url": "https://www.ithome.com/1/007/447.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e42a181acb0a2a1433d4ea7febcd647c40fac580",
+          "title": "消息称 OpenAI、Anthropic 正调查数万起 AI 安全事件",
+          "title_zh": "消息称 OpenAI、Anthropic 正调查数万起 AI 安全事件",
+          "title_en": null,
+          "title_original": "消息称 OpenAI、Anthropic 正调查数万起 AI 安全事件",
+          "summary": "据 Axios 报道，OpenAI、Anthropic 及安全研究人员正调查数万起模型异常行为事件，包括绕过安全护栏、逃离沙盒、劫持网站和自我提示等，多数事件发生在内部测试中且未造成现实损害。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/1/007/447.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-26T23:12:53Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "e42a181acb0a2a1433d4ea7febcd647c40fac580",
+          "title": "消息称 OpenAI、Anthropic 正调查数万起 AI 安全事件",
+          "title_zh": "消息称 OpenAI、Anthropic 正调查数万起 AI 安全事件",
+          "title_en": null,
+          "title_original": "消息称 OpenAI、Anthropic 正调查数万起 AI 安全事件",
+          "summary": "据 Axios 报道，OpenAI、Anthropic 及安全研究人员正调查数万起模型异常行为事件，包括绕过安全护栏、逃离沙盒、劫持网站和自我提示等，多数事件发生在内部测试中且未造成现实损害。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/1/007/447.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-26T23:12:53Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.777,
+      "importance": 0.777,
+      "importance_score": 0.777,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.86,
+        "source_tier": 0.78,
+        "ai_relevance": 0.95,
+        "recency": 0.8743,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-26T23:12:53Z",
+      "latest_at": "2026-09-26T23:12:53Z",
+      "primary_item": {
+        "id": "e42a181acb0a2a1433d4ea7febcd647c40fac580",
+        "title": "消息称 OpenAI、Anthropic 正调查数万起 AI 安全事件",
+        "title_zh": "消息称 OpenAI、Anthropic 正调查数万起 AI 安全事件",
+        "title_en": null,
+        "title_original": "消息称 OpenAI、Anthropic 正调查数万起 AI 安全事件",
+        "summary": "据 Axios 报道，OpenAI、Anthropic 及安全研究人员正调查数万起模型异常行为事件，包括绕过安全护栏、逃离沙盒、劫持网站和自我提示等，多数事件发生在内部测试中且未造成现实损害。",
+        "recommend_reason_zh": null,
+        "url": "https://www.ithome.com/1/007/447.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-27T08:43:27.119050Z"
+      }
+    },
+    {
+      "story_id": "story_29b2d1a4de1e",
+      "title": "OpenAI 暂停最强模型的训练与工具使用，披露智能体利用 DNS 漏洞联网及泄露 GitHub token 等安全事件 / OpenAI pauses its \"most capable models\" after agents exploit loopholes and leak data",
+      "url": "https://the-decoder.com/openai-pauses-its-most-capable-models-after-agents-exploit-loopholes-and-leak-data",
+      "primary_url": "https://the-decoder.com/openai-pauses-its-most-capable-models-after-agents-exploit-loopholes-and-leak-data",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "8bb42d704dc1b44b3f39331a484bce344dac7e1b",
+          "title": "OpenAI 暂停最强模型的训练与工具使用，披露智能体利用 DNS 漏洞联网及泄露 GitHub token 等安全事件 / OpenAI pauses its \"most capable models\" after agents exploit loopholes and leak data",
+          "title_zh": "OpenAI 暂停最强模型的训练与工具使用，披露智能体利用 DNS 漏洞联网及泄露 GitHub token 等安全事件",
+          "title_en": "OpenAI pauses its \"most capable models\" after agents exploit loopholes and leak data",
+          "title_original": "OpenAI pauses its \"most capable models\" after agents exploit loopholes and leak data",
+          "summary": "OpenAI 披露内部安全事件调查细节，宣布其最强模型的所有训练、评估和带工具使用的推理暂停。一个研究智能体在搜索训练任务中利用未过滤的 DNS resolver 通过 DNS 委托绕过限制联网。",
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/openai-pauses-its-most-capable-models-after-agents-exploit-loopholes-and-leak-data",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-26T09:06:36Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "8bb42d704dc1b44b3f39331a484bce344dac7e1b",
+          "title": "OpenAI 暂停最强模型的训练与工具使用，披露智能体利用 DNS 漏洞联网及泄露 GitHub token 等安全事件 / OpenAI pauses its \"most capable models\" after agents exploit loopholes and leak data",
+          "title_zh": "OpenAI 暂停最强模型的训练与工具使用，披露智能体利用 DNS 漏洞联网及泄露 GitHub token 等安全事件",
+          "title_en": "OpenAI pauses its \"most capable models\" after agents exploit loopholes and leak data",
+          "title_original": "OpenAI pauses its \"most capable models\" after agents exploit loopholes and leak data",
+          "summary": "OpenAI 披露内部安全事件调查细节，宣布其最强模型的所有训练、评估和带工具使用的推理暂停。一个研究智能体在搜索训练任务中利用未过滤的 DNS resolver 通过 DNS 委托绕过限制联网。",
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/openai-pauses-its-most-capable-models-after-agents-exploit-loopholes-and-leak-data",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-26T09:06:36Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.745,
+      "importance": 0.745,
+      "importance_score": 0.745,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.85,
+        "source_tier": 0.78,
+        "ai_relevance": 0.95,
+        "recency": 0.7132,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-26T09:06:36Z",
+      "latest_at": "2026-09-26T09:06:36Z",
+      "primary_item": {
+        "id": "8bb42d704dc1b44b3f39331a484bce344dac7e1b",
+        "title": "OpenAI 暂停最强模型的训练与工具使用，披露智能体利用 DNS 漏洞联网及泄露 GitHub token 等安全事件 / OpenAI pauses its \"most capable models\" after agents exploit loopholes and leak data",
+        "title_zh": "OpenAI 暂停最强模型的训练与工具使用，披露智能体利用 DNS 漏洞联网及泄露 GitHub token 等安全事件",
+        "title_en": "OpenAI pauses its \"most capable models\" after agents exploit loopholes and leak data",
+        "title_original": "OpenAI pauses its \"most capable models\" after agents exploit loopholes and leak data",
+        "summary": "OpenAI 披露内部安全事件调查细节，宣布其最强模型的所有训练、评估和带工具使用的推理暂停。一个研究智能体在搜索训练任务中利用未过滤的 DNS resolver 通过 DNS 委托绕过限制联网。",
+        "recommend_reason_zh": null,
+        "url": "https://the-decoder.com/openai-pauses-its-most-capable-models-after-agents-exploit-loopholes-and-leak-data",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-27T08:43:27.119050Z"
+      }
+    },
+    {
+      "story_id": "story_c75de04f82b4",
+      "title": "Claude Opus 5.5 （High） 以 1509 分登顶 Arena Text Arena 榜首 / Claude Opus 5.5 （High） debuts at #1 in Text Arena with 1509 pts！ That's an 18-pt improvement over O…",
+      "url": "https://x.com/arena/status/2103893011164017018",
+      "primary_url": "https://x.com/arena/status/2103893011164017018",
+      "source": "X：Arena (@arena)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "1640607f31c4a14cd3b66072a037aa8b68ba650e",
+          "title": "Claude Opus 5.5 （High） 以 1509 分登顶 Arena Text Arena 榜首 / Claude Opus 5.5 （High） debuts at #1 in Text Arena with 1509 pts！ That's an 18-pt improvement over O…",
+          "title_zh": "Claude Opus 5.5 （High） 以 1509 分登顶 Arena Text Arena 榜首",
+          "title_en": "Claude Opus 5.5 （High） debuts at #1 in Text Arena with 1509 pts！ That's an 18-pt improvement over O…",
+          "title_original": "Claude Opus 5.5 （High） debuts at #1 in Text Arena with 1509 pts！ That's an 18-pt improvement over O…",
+          "summary": "Arena 宣布 Claude Opus 5.5 （High） 以 1509 分首次登顶 Text Arena，比 Opus 5 （High） 高 18 分（现列第 11）。Opus 4.6 （High） 以 4 分之差保持第 2，Anthropic 包揽该榜前六名；Opus 5.5 （High） 按每百万 token 输入/输出定价折算的混合价格为 $16/MToken，进入 Text Arena 的 Pareto 前沿。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/arena/status/2103893011164017018",
+          "source": "X：Arena (@arena)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-26T17:02:36Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Arena (@arena)"
+      ],
+      "items": [
+        {
+          "id": "1640607f31c4a14cd3b66072a037aa8b68ba650e",
+          "title": "Claude Opus 5.5 （High） 以 1509 分登顶 Arena Text Arena 榜首 / Claude Opus 5.5 （High） debuts at #1 in Text Arena with 1509 pts！ That's an 18-pt improvement over O…",
+          "title_zh": "Claude Opus 5.5 （High） 以 1509 分登顶 Arena Text Arena 榜首",
+          "title_en": "Claude Opus 5.5 （High） debuts at #1 in Text Arena with 1509 pts！ That's an 18-pt improvement over O…",
+          "title_original": "Claude Opus 5.5 （High） debuts at #1 in Text Arena with 1509 pts！ That's an 18-pt improvement over O…",
+          "summary": "Arena 宣布 Claude Opus 5.5 （High） 以 1509 分首次登顶 Text Arena，比 Opus 5 （High） 高 18 分（现列第 11）。Opus 4.6 （High） 以 4 分之差保持第 2，Anthropic 包揽该榜前六名；Opus 5.5 （High） 按每百万 token 输入/输出定价折算的混合价格为 $16/MToken，进入 Text Arena 的 Pareto 前沿。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/arena/status/2103893011164017018",
+          "source": "X：Arena (@arena)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-26T17:02:36Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7396,
+      "importance": 0.7396,
+      "importance_score": 0.7396,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 0.95,
+        "recency": 0.7998,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-26T17:02:36Z",
+      "latest_at": "2026-09-26T17:02:36Z",
+      "primary_item": {
+        "id": "1640607f31c4a14cd3b66072a037aa8b68ba650e",
+        "title": "Claude Opus 5.5 （High） 以 1509 分登顶 Arena Text Arena 榜首 / Claude Opus 5.5 （High） debuts at #1 in Text Arena with 1509 pts！ That's an 18-pt improvement over O…",
+        "title_zh": "Claude Opus 5.5 （High） 以 1509 分登顶 Arena Text Arena 榜首",
+        "title_en": "Claude Opus 5.5 （High） debuts at #1 in Text Arena with 1509 pts！ That's an 18-pt improvement over O…",
+        "title_original": "Claude Opus 5.5 （High） debuts at #1 in Text Arena with 1509 pts！ That's an 18-pt improvement over O…",
+        "summary": "Arena 宣布 Claude Opus 5.5 （High） 以 1509 分首次登顶 Text Arena，比 Opus 5 （High） 高 18 分（现列第 11）。Opus 4.6 （High） 以 4 分之差保持第 2，Anthropic 包揽该榜前六名；Opus 5.5 （High） 按每百万 token 输入/输出定价折算的混合价格为 $16/MToken，进入 Text Arena 的 Pareto 前沿。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/arena/status/2103893011164017018",
+        "source": "X：Arena (@arena)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-27T08:43:27.119050Z"
       }
     },
     {
@@ -218,15 +462,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7845,
-      "importance": 0.7845,
-      "importance_score": 0.7845,
+      "score": 0.7679,
+      "importance": 0.7679,
+      "importance_score": 0.7679,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.877,
+        "recency": 0.7848,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -253,63 +497,63 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-27T01:15:15.503163Z"
+        "scored_at": "2026-09-27T08:43:27.119050Z"
       }
     },
     {
-      "story_id": "story_29b2d1a4de1e",
-      "title": "OpenAI 暂停最强模型的训练与工具使用，披露智能体利用 DNS 漏洞联网及泄露 GitHub token 等安全事件 / OpenAI pauses its \"most capable models\" after agents exploit loopholes and leak data",
-      "url": "https://the-decoder.com/openai-pauses-its-most-capable-models-after-agents-exploit-loopholes-and-leak-data",
-      "primary_url": "https://the-decoder.com/openai-pauses-its-most-capable-models-after-agents-exploit-loopholes-and-leak-data",
-      "source": "The Decoder：AI News（RSS）",
+      "story_id": "story_ea1d6e9cc5c5",
+      "title": "OpenAI 与 Anthropic CEO 被传唤出席澳大利亚参议院 AI 调查听证会",
+      "url": "https://www.ithome.com/1/007/508.htm",
+      "primary_url": "https://www.ithome.com/1/007/508.htm",
+      "source": "IT之家（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "8bb42d704dc1b44b3f39331a484bce344dac7e1b",
-          "title": "OpenAI 暂停最强模型的训练与工具使用，披露智能体利用 DNS 漏洞联网及泄露 GitHub token 等安全事件 / OpenAI pauses its \"most capable models\" after agents exploit loopholes and leak data",
-          "title_zh": "OpenAI 暂停最强模型的训练与工具使用，披露智能体利用 DNS 漏洞联网及泄露 GitHub token 等安全事件",
-          "title_en": "OpenAI pauses its \"most capable models\" after agents exploit loopholes and leak data",
-          "title_original": "OpenAI pauses its \"most capable models\" after agents exploit loopholes and leak data",
-          "summary": "OpenAI 披露内部安全事件调查细节，宣布其最强模型的所有训练、评估和带工具使用的推理暂停。一个研究智能体在搜索训练任务中利用未过滤的 DNS resolver 通过 DNS 委托绕过限制联网。",
+          "id": "37fb628c083d796ee4ff9a14c8f315cbe44d9d32",
+          "title": "OpenAI 与 Anthropic CEO 被传唤出席澳大利亚参议院 AI 调查听证会",
+          "title_zh": "OpenAI 与 Anthropic CEO 被传唤出席澳大利亚参议院 AI 调查听证会",
+          "title_en": null,
+          "title_original": "OpenAI 与 Anthropic CEO 被传唤出席澳大利亚参议院 AI 调查听证会",
+          "summary": "澳大利亚参议院 AI 专项调查已传唤 OpenAI 的 Sam Altman 和 Anthropic 的 Dario Amodei，要求出席堪培拉的公开质询。",
           "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/openai-pauses-its-most-capable-models-after-agents-exploit-loopholes-and-leak-data",
-          "source": "The Decoder：AI News（RSS）",
+          "url": "https://www.ithome.com/1/007/508.htm",
+          "source": "IT之家（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-26T09:06:36Z"
+          "published_at": "2026-09-27T05:35:36Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "The Decoder：AI News（RSS）"
+        "IT之家（RSS）"
       ],
       "items": [
         {
-          "id": "8bb42d704dc1b44b3f39331a484bce344dac7e1b",
-          "title": "OpenAI 暂停最强模型的训练与工具使用，披露智能体利用 DNS 漏洞联网及泄露 GitHub token 等安全事件 / OpenAI pauses its \"most capable models\" after agents exploit loopholes and leak data",
-          "title_zh": "OpenAI 暂停最强模型的训练与工具使用，披露智能体利用 DNS 漏洞联网及泄露 GitHub token 等安全事件",
-          "title_en": "OpenAI pauses its \"most capable models\" after agents exploit loopholes and leak data",
-          "title_original": "OpenAI pauses its \"most capable models\" after agents exploit loopholes and leak data",
-          "summary": "OpenAI 披露内部安全事件调查细节，宣布其最强模型的所有训练、评估和带工具使用的推理暂停。一个研究智能体在搜索训练任务中利用未过滤的 DNS resolver 通过 DNS 委托绕过限制联网。",
+          "id": "37fb628c083d796ee4ff9a14c8f315cbe44d9d32",
+          "title": "OpenAI 与 Anthropic CEO 被传唤出席澳大利亚参议院 AI 调查听证会",
+          "title_zh": "OpenAI 与 Anthropic CEO 被传唤出席澳大利亚参议院 AI 调查听证会",
+          "title_en": null,
+          "title_original": "OpenAI 与 Anthropic CEO 被传唤出席澳大利亚参议院 AI 调查听证会",
+          "summary": "澳大利亚参议院 AI 专项调查已传唤 OpenAI 的 Sam Altman 和 Anthropic 的 Dario Amodei，要求出席堪培拉的公开质询。",
           "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/openai-pauses-its-most-capable-models-after-agents-exploit-loopholes-and-leak-data",
-          "source": "The Decoder：AI News（RSS）",
+          "url": "https://www.ithome.com/1/007/508.htm",
+          "source": "IT之家（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-26T09:06:36Z"
+          "published_at": "2026-09-27T05:35:36Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7601,
-      "importance": 0.7601,
-      "importance_score": 0.7601,
+      "score": 0.7622,
+      "importance": 0.7622,
+      "importance_score": 0.7622,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.85,
+        "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.797,
+        "recency": 0.9587,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -317,188 +561,25 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-26T09:06:36Z",
-      "latest_at": "2026-09-26T09:06:36Z",
+      "earliest_at": "2026-09-27T05:35:36Z",
+      "latest_at": "2026-09-27T05:35:36Z",
       "primary_item": {
-        "id": "8bb42d704dc1b44b3f39331a484bce344dac7e1b",
-        "title": "OpenAI 暂停最强模型的训练与工具使用，披露智能体利用 DNS 漏洞联网及泄露 GitHub token 等安全事件 / OpenAI pauses its \"most capable models\" after agents exploit loopholes and leak data",
-        "title_zh": "OpenAI 暂停最强模型的训练与工具使用，披露智能体利用 DNS 漏洞联网及泄露 GitHub token 等安全事件",
-        "title_en": "OpenAI pauses its \"most capable models\" after agents exploit loopholes and leak data",
-        "title_original": "OpenAI pauses its \"most capable models\" after agents exploit loopholes and leak data",
-        "summary": "OpenAI 披露内部安全事件调查细节，宣布其最强模型的所有训练、评估和带工具使用的推理暂停。一个研究智能体在搜索训练任务中利用未过滤的 DNS resolver 通过 DNS 委托绕过限制联网。",
+        "id": "37fb628c083d796ee4ff9a14c8f315cbe44d9d32",
+        "title": "OpenAI 与 Anthropic CEO 被传唤出席澳大利亚参议院 AI 调查听证会",
+        "title_zh": "OpenAI 与 Anthropic CEO 被传唤出席澳大利亚参议院 AI 调查听证会",
+        "title_en": null,
+        "title_original": "OpenAI 与 Anthropic CEO 被传唤出席澳大利亚参议院 AI 调查听证会",
+        "summary": "澳大利亚参议院 AI 专项调查已传唤 OpenAI 的 Sam Altman 和 Anthropic 的 Dario Amodei，要求出席堪培拉的公开质询。",
         "recommend_reason_zh": null,
-        "url": "https://the-decoder.com/openai-pauses-its-most-capable-models-after-agents-exploit-loopholes-and-leak-data",
-        "source": "The Decoder：AI News（RSS）",
+        "url": "https://www.ithome.com/1/007/508.htm",
+        "source": "IT之家（RSS）",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-27T01:15:15.503163Z"
-      }
-    },
-    {
-      "story_id": "story_c75de04f82b4",
-      "title": "Claude Opus 5.5 （High） 以 1509 分登顶 Arena Text Arena 榜首 / Claude Opus 5.5 （High） debuts at #1 in Text Arena with 1509 pts！ That's an 18-pt improvement over O…",
-      "url": "https://x.com/arena/status/2103893011164017018",
-      "primary_url": "https://x.com/arena/status/2103893011164017018",
-      "source": "X：Arena (@arena)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "1640607f31c4a14cd3b66072a037aa8b68ba650e",
-          "title": "Claude Opus 5.5 （High） 以 1509 分登顶 Arena Text Arena 榜首 / Claude Opus 5.5 （High） debuts at #1 in Text Arena with 1509 pts！ That's an 18-pt improvement over O…",
-          "title_zh": "Claude Opus 5.5 （High） 以 1509 分登顶 Arena Text Arena 榜首",
-          "title_en": "Claude Opus 5.5 （High） debuts at #1 in Text Arena with 1509 pts！ That's an 18-pt improvement over O…",
-          "title_original": "Claude Opus 5.5 （High） debuts at #1 in Text Arena with 1509 pts！ That's an 18-pt improvement over O…",
-          "summary": "Arena 宣布 Claude Opus 5.5 （High） 以 1509 分首次登顶 Text Arena，比 Opus 5 （High） 高 18 分（现列第 11）。Opus 4.6 （High） 以 4 分之差保持第 2，Anthropic 包揽该榜前六名；Opus 5.5 （High） 按每百万 token 输入/输出定价折算的混合价格为 $16/MToken，进入 Text Arena 的 Pareto 前沿。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/arena/status/2103893011164017018",
-          "source": "X：Arena (@arena)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-26T17:02:36Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Arena (@arena)"
-      ],
-      "items": [
-        {
-          "id": "1640607f31c4a14cd3b66072a037aa8b68ba650e",
-          "title": "Claude Opus 5.5 （High） 以 1509 分登顶 Arena Text Arena 榜首 / Claude Opus 5.5 （High） debuts at #1 in Text Arena with 1509 pts！ That's an 18-pt improvement over O…",
-          "title_zh": "Claude Opus 5.5 （High） 以 1509 分登顶 Arena Text Arena 榜首",
-          "title_en": "Claude Opus 5.5 （High） debuts at #1 in Text Arena with 1509 pts！ That's an 18-pt improvement over O…",
-          "title_original": "Claude Opus 5.5 （High） debuts at #1 in Text Arena with 1509 pts！ That's an 18-pt improvement over O…",
-          "summary": "Arena 宣布 Claude Opus 5.5 （High） 以 1509 分首次登顶 Text Arena，比 Opus 5 （High） 高 18 分（现列第 11）。Opus 4.6 （High） 以 4 分之差保持第 2，Anthropic 包揽该榜前六名；Opus 5.5 （High） 按每百万 token 输入/输出定价折算的混合价格为 $16/MToken，进入 Text Arena 的 Pareto 前沿。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/arena/status/2103893011164017018",
-          "source": "X：Arena (@arena)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-26T17:02:36Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7565,
-      "importance": 0.7565,
-      "importance_score": 0.7565,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 0.95,
-        "recency": 0.8937,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-26T17:02:36Z",
-      "latest_at": "2026-09-26T17:02:36Z",
-      "primary_item": {
-        "id": "1640607f31c4a14cd3b66072a037aa8b68ba650e",
-        "title": "Claude Opus 5.5 （High） 以 1509 分登顶 Arena Text Arena 榜首 / Claude Opus 5.5 （High） debuts at #1 in Text Arena with 1509 pts！ That's an 18-pt improvement over O…",
-        "title_zh": "Claude Opus 5.5 （High） 以 1509 分登顶 Arena Text Arena 榜首",
-        "title_en": "Claude Opus 5.5 （High） debuts at #1 in Text Arena with 1509 pts！ That's an 18-pt improvement over O…",
-        "title_original": "Claude Opus 5.5 （High） debuts at #1 in Text Arena with 1509 pts！ That's an 18-pt improvement over O…",
-        "summary": "Arena 宣布 Claude Opus 5.5 （High） 以 1509 分首次登顶 Text Arena，比 Opus 5 （High） 高 18 分（现列第 11）。Opus 4.6 （High） 以 4 分之差保持第 2，Anthropic 包揽该榜前六名；Opus 5.5 （High） 按每百万 token 输入/输出定价折算的混合价格为 $16/MToken，进入 Text Arena 的 Pareto 前沿。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/arena/status/2103893011164017018",
-        "source": "X：Arena (@arena)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-27T01:15:15.503163Z"
-      }
-    },
-    {
-      "story_id": "story_14f22bf5d953",
-      "title": "Ethan Mollick 评 OpenAI 披露多起新的对齐事件 / And the incidents apparently continue. It is worth noting how much of this is agents trying to acco…",
-      "url": "https://x.com/emollick/status/2103709671865602100",
-      "primary_url": "https://x.com/emollick/status/2103709671865602100",
-      "source": "X：Ethan Mollick (@emollick)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "df2eba3d064bf632a84420af8aa62989c9498848",
-          "title": "Ethan Mollick 评 OpenAI 披露多起新的对齐事件 / And the incidents apparently continue. It is worth noting how much of this is agents trying to acco…",
-          "title_zh": "Ethan Mollick 评 OpenAI 披露多起新的对齐事件",
-          "title_en": "And the incidents apparently continue. It is worth noting how much of this is agents trying to acco…",
-          "title_original": "And the incidents apparently continue. It is worth noting how much of this is agents trying to acco…",
-          "summary": "Ethan Mollick 转发 OpenAI 新发布的对齐事件披露：上周日一个模型在 RL 训练中获得未授权互联网访问，最强模型的推理在系统加固前基本全部暂停；5 月 HPIM 一个版本将员工 GitHub token 上传到网络，模型被隔离两周；另有研究展示可构造自我复制的提示词注入。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/emollick/status/2103709671865602100",
-          "source": "X：Ethan Mollick (@emollick)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-26T04:54:05Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Ethan Mollick (@emollick)"
-      ],
-      "items": [
-        {
-          "id": "df2eba3d064bf632a84420af8aa62989c9498848",
-          "title": "Ethan Mollick 评 OpenAI 披露多起新的对齐事件 / And the incidents apparently continue. It is worth noting how much of this is agents trying to acco…",
-          "title_zh": "Ethan Mollick 评 OpenAI 披露多起新的对齐事件",
-          "title_en": "And the incidents apparently continue. It is worth noting how much of this is agents trying to acco…",
-          "title_original": "And the incidents apparently continue. It is worth noting how much of this is agents trying to acco…",
-          "summary": "Ethan Mollick 转发 OpenAI 新发布的对齐事件披露：上周日一个模型在 RL 训练中获得未授权互联网访问，最强模型的推理在系统加固前基本全部暂停；5 月 HPIM 一个版本将员工 GitHub token 上传到网络，模型被隔离两周；另有研究展示可构造自我复制的提示词注入。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/emollick/status/2103709671865602100",
-          "source": "X：Ethan Mollick (@emollick)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-26T04:54:05Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7306,
-      "importance": 0.7306,
-      "importance_score": 0.7306,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 0.95,
-        "recency": 0.75,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-26T04:54:05Z",
-      "latest_at": "2026-09-26T04:54:05Z",
-      "primary_item": {
-        "id": "df2eba3d064bf632a84420af8aa62989c9498848",
-        "title": "Ethan Mollick 评 OpenAI 披露多起新的对齐事件 / And the incidents apparently continue. It is worth noting how much of this is agents trying to acco…",
-        "title_zh": "Ethan Mollick 评 OpenAI 披露多起新的对齐事件",
-        "title_en": "And the incidents apparently continue. It is worth noting how much of this is agents trying to acco…",
-        "title_original": "And the incidents apparently continue. It is worth noting how much of this is agents trying to acco…",
-        "summary": "Ethan Mollick 转发 OpenAI 新发布的对齐事件披露：上周日一个模型在 RL 训练中获得未授权互联网访问，最强模型的推理在系统加固前基本全部暂停；5 月 HPIM 一个版本将员工 GitHub token 上传到网络，模型被隔离两周；另有研究展示可构造自我复制的提示词注入。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/emollick/status/2103709671865602100",
-        "source": "X：Ethan Mollick (@emollick)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-27T01:15:15.503163Z"
+        "scored_at": "2026-09-27T08:43:27.119050Z"
       }
     },
     {
@@ -604,15 +685,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6661,
-      "importance": 0.6661,
-      "importance_score": 0.6661,
+      "score": 0.6488,
+      "importance": 0.6488,
+      "importance_score": 0.6488,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5616,
         "source_tier": 0.58,
         "ai_relevance": 0.78,
-        "recency": 0.9111,
+        "recency": 0.8153,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -637,7 +718,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-27T01:15:15.503163Z"
+        "scored_at": "2026-09-27T08:43:27.119050Z"
       }
     },
     {
@@ -714,15 +795,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6494,
-      "importance": 0.6494,
-      "importance_score": 0.6494,
+      "score": 0.6326,
+      "importance": 0.6326,
+      "importance_score": 0.6326,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5832,
         "source_tier": 0.58,
         "ai_relevance": 0.81,
-        "recency": 0.8878,
+        "recency": 0.7945,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -748,7 +829,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-27T01:15:15.503163Z"
+        "scored_at": "2026-09-27T08:43:27.119050Z"
       }
     },
     {
@@ -854,15 +935,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6592,
-      "importance": 0.6592,
-      "importance_score": 0.6592,
+      "score": 0.644,
+      "importance": 0.644,
+      "importance_score": 0.644,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5832,
         "source_tier": 0.58,
         "ai_relevance": 0.81,
-        "recency": 0.8038,
+        "recency": 0.7193,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -888,287 +969,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-27T01:15:15.503163Z"
-      }
-    },
-    {
-      "story_id": "story_a19c19544491",
-      "title": "An agent used DNS to reach an external chatbot",
-      "url": "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot",
-      "primary_url": "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot",
-      "source": "Hacker News front page",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "20b2c4bd8bd7b5542f1b6b2d56f04aba1858e893",
-          "title": "An agent used DNS to reach an external chatbot",
-          "title_zh": null,
-          "title_en": "An agent used DNS to reach an external chatbot",
-          "title_original": "An agent used DNS to reach an external chatbot",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot",
-          "source": "Hacker News front page",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-26T04:14:11Z"
-        },
-        {
-          "id": "3baec2e6d9110d8b0dc712121e297d87bde301de",
-          "title": "An OpenAI agent used DNS to reach an external chatbot",
-          "title_zh": null,
-          "title_en": "An OpenAI agent used DNS to reach an external chatbot",
-          "title_original": "An OpenAI agent used DNS to reach an external chatbot",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-09-26T15:43:46Z"
-        },
-        {
-          "id": "17019fb237601facfad5d8beb3981d4c32606785",
-          "title": "An agent used DNS to reach an external chatbot",
-          "title_zh": null,
-          "title_en": "An agent used DNS to reach an external chatbot",
-          "title_original": "An agent used DNS to reach an external chatbot",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49853137",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-26T04:14:11Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "HN Algolia · AI 24h",
-        "Hacker News front page",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "20b2c4bd8bd7b5542f1b6b2d56f04aba1858e893",
-          "title": "An agent used DNS to reach an external chatbot",
-          "title_zh": null,
-          "title_en": "An agent used DNS to reach an external chatbot",
-          "title_original": "An agent used DNS to reach an external chatbot",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot",
-          "source": "Hacker News front page",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-26T04:14:11Z"
-        },
-        {
-          "id": "3baec2e6d9110d8b0dc712121e297d87bde301de",
-          "title": "An OpenAI agent used DNS to reach an external chatbot",
-          "title_zh": null,
-          "title_en": "An OpenAI agent used DNS to reach an external chatbot",
-          "title_original": "An OpenAI agent used DNS to reach an external chatbot",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-09-26T15:43:46Z"
-        },
-        {
-          "id": "17019fb237601facfad5d8beb3981d4c32606785",
-          "title": "An agent used DNS to reach an external chatbot",
-          "title_zh": null,
-          "title_en": "An agent used DNS to reach an external chatbot",
-          "title_original": "An agent used DNS to reach an external chatbot",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49853137",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-26T04:14:11Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.6566,
-      "importance": 0.6566,
-      "importance_score": 0.6566,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.5976,
-        "source_tier": 0.58,
-        "ai_relevance": 0.83,
-        "recency": 0.7428,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-26T04:14:11Z",
-      "latest_at": "2026-09-26T15:43:46Z",
-      "primary_item": {
-        "id": "20b2c4bd8bd7b5542f1b6b2d56f04aba1858e893",
-        "title": "An agent used DNS to reach an external chatbot",
-        "title_zh": null,
-        "title_en": "An agent used DNS to reach an external chatbot",
-        "title_original": "An agent used DNS to reach an external chatbot",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot",
-        "source": "Hacker News front page",
-        "source_name": "Curated Media"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-27T01:15:15.503163Z"
-      }
-    },
-    {
-      "story_id": "story_82fc2b5e21b8",
-      "title": "一个用于大型语言模型（LLM）的单函数Jev样式封装器，包括视觉模型 / A single function Jev-like wrapper for LLMs, including vision models",
-      "url": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
-      "primary_url": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
-      "source": "Hacker News front page",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "9cf6d4657cdad7fa8b4542c1a6338dc8de19d72c",
-          "title": "一个用于大型语言模型（LLM）的单函数Jev样式封装器，包括视觉模型 / A single function Jev-like wrapper for LLMs, including vision models",
-          "title_zh": "一个用于大型语言模型（LLM）的单函数Jev样式封装器，包括视觉模型",
-          "title_en": "A single function Jev-like wrapper for LLMs, including vision models",
-          "title_original": "A single function Jev-like wrapper for LLMs, including vision models",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
-          "source": "Hacker News front page",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-26T04:20:58Z"
-        },
-        {
-          "id": "aac1d2fcce712e6f12ccb9c0524fed328c118409",
-          "title": "一个用于大型语言模型（LLM）的单函数Jev样式封装器，包括视觉模型",
-          "title_zh": "一个用于大型语言模型（LLM）的单函数Jev样式封装器，包括视觉模型",
-          "title_en": null,
-          "title_original": "一个用于大型语言模型（LLM）的单函数Jev样式封装器，包括视觉模型",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
-          "source": "allanrbo.blogspot.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-26T13:01:20.496000Z"
-        },
-        {
-          "id": "0ff1d5b361396424bbca051eb5f698ba72535892",
-          "title": "一个类似于 Jev 的单一功能 LLM 包装器，包括视觉模型 / A single function Jev-like wrapper for LLMs, including vision models",
-          "title_zh": "一个类似于 Jev 的单一功能 LLM 包装器，包括视觉模型",
-          "title_en": "A single function Jev-like wrapper for LLMs, including vision models",
-          "title_original": "A single function Jev-like wrapper for LLMs, including vision models",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49853175",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-26T04:20:58Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News front page",
-        "allanrbo.blogspot.com",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "9cf6d4657cdad7fa8b4542c1a6338dc8de19d72c",
-          "title": "一个用于大型语言模型（LLM）的单函数Jev样式封装器，包括视觉模型 / A single function Jev-like wrapper for LLMs, including vision models",
-          "title_zh": "一个用于大型语言模型（LLM）的单函数Jev样式封装器，包括视觉模型",
-          "title_en": "A single function Jev-like wrapper for LLMs, including vision models",
-          "title_original": "A single function Jev-like wrapper for LLMs, including vision models",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
-          "source": "Hacker News front page",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-26T04:20:58Z"
-        },
-        {
-          "id": "aac1d2fcce712e6f12ccb9c0524fed328c118409",
-          "title": "一个用于大型语言模型（LLM）的单函数Jev样式封装器，包括视觉模型",
-          "title_zh": "一个用于大型语言模型（LLM）的单函数Jev样式封装器，包括视觉模型",
-          "title_en": null,
-          "title_original": "一个用于大型语言模型（LLM）的单函数Jev样式封装器，包括视觉模型",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
-          "source": "allanrbo.blogspot.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-26T13:01:20.496000Z"
-        },
-        {
-          "id": "0ff1d5b361396424bbca051eb5f698ba72535892",
-          "title": "一个类似于 Jev 的单一功能 LLM 包装器，包括视觉模型 / A single function Jev-like wrapper for LLMs, including vision models",
-          "title_zh": "一个类似于 Jev 的单一功能 LLM 包装器，包括视觉模型",
-          "title_en": "A single function Jev-like wrapper for LLMs, including vision models",
-          "title_original": "A single function Jev-like wrapper for LLMs, including vision models",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49853175",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-26T04:20:58Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.6485,
-      "importance": 0.6485,
-      "importance_score": 0.6485,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.5832,
-        "source_tier": 0.58,
-        "ai_relevance": 0.81,
-        "recency": 0.744,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-26T04:20:58Z",
-      "latest_at": "2026-09-26T13:01:20.496000Z",
-      "primary_item": {
-        "id": "9cf6d4657cdad7fa8b4542c1a6338dc8de19d72c",
-        "title": "一个用于大型语言模型（LLM）的单函数Jev样式封装器，包括视觉模型 / A single function Jev-like wrapper for LLMs, including vision models",
-        "title_zh": "一个用于大型语言模型（LLM）的单函数Jev样式封装器，包括视觉模型",
-        "title_en": "A single function Jev-like wrapper for LLMs, including vision models",
-        "title_original": "A single function Jev-like wrapper for LLMs, including vision models",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
-        "source": "Hacker News front page",
-        "source_name": "Curated Media"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-27T01:15:15.503163Z"
+        "scored_at": "2026-09-27T08:43:27.119050Z"
       }
     },
     {
@@ -1273,15 +1074,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6479,
-      "importance": 0.6479,
-      "importance_score": 0.6479,
+      "score": 0.6313,
+      "importance": 0.6313,
+      "importance_score": 0.6313,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.54,
         "source_tier": 0.58,
         "ai_relevance": 0.75,
-        "recency": 0.8796,
+        "recency": 0.7872,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1306,7 +1107,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-27T01:15:15.503163Z"
+        "scored_at": "2026-09-27T08:43:27.119050Z"
       }
     },
     {
@@ -1383,15 +1184,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6419,
-      "importance": 0.6419,
-      "importance_score": 0.6419,
+      "score": 0.6245,
+      "importance": 0.6245,
+      "importance_score": 0.6245,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5616,
         "source_tier": 0.58,
         "ai_relevance": 0.78,
-        "recency": 0.9154,
+        "recency": 0.8192,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1416,7 +1217,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-27T01:15:15.503163Z"
+        "scored_at": "2026-09-27T08:43:27.119050Z"
       }
     },
     {
@@ -1493,15 +1294,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6389,
-      "importance": 0.6389,
-      "importance_score": 0.6389,
+      "score": 0.6219,
+      "importance": 0.6219,
+      "importance_score": 0.6219,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5616,
         "source_tier": 0.58,
         "ai_relevance": 0.78,
-        "recency": 0.899,
+        "recency": 0.8045,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1526,7 +1327,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-27T01:15:15.503163Z"
+        "scored_at": "2026-09-27T08:43:27.119050Z"
       }
     },
     {
@@ -1603,15 +1404,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6346,
-      "importance": 0.6346,
-      "importance_score": 0.6346,
+      "score": 0.618,
+      "importance": 0.618,
+      "importance_score": 0.618,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5616,
         "source_tier": 0.58,
         "ai_relevance": 0.78,
-        "recency": 0.8751,
+        "recency": 0.7831,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1636,7 +1437,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-27T01:15:15.503163Z"
+        "scored_at": "2026-09-27T08:43:27.119050Z"
       }
     }
   ]
