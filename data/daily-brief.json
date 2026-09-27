@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-27T12:55:29.343992Z",
+  "generated_at": "2026-09-27T14:14:35.495083Z",
   "window_hours": 24,
-  "total_items": 14,
+  "total_items": 13,
   "items": [
     {
       "story_id": "story_f7a9ca52c4e3",
@@ -55,8 +55,8 @@
         },
         {
           "id": "30cd905ef1f79995079a3f3836c9566017c9d514",
-          "title": "OpenAI Feared \"Optics\" of what might appear on Hacker News",
-          "title_zh": null,
+          "title": "OpenAI 担心黑客新闻中可能出现的“光学”内容 / OpenAI Feared \"Optics\" of what might appear on Hacker News",
+          "title_zh": "OpenAI 担心黑客新闻中可能出现的“光学”内容",
           "title_en": "OpenAI Feared \"Optics\" of what might appear on Hacker News",
           "title_original": "OpenAI Feared \"Optics\" of what might appear on Hacker News",
           "summary": null,
@@ -120,8 +120,8 @@
         },
         {
           "id": "30cd905ef1f79995079a3f3836c9566017c9d514",
-          "title": "OpenAI Feared \"Optics\" of what might appear on Hacker News",
-          "title_zh": null,
+          "title": "OpenAI 担心黑客新闻中可能出现的“光学”内容 / OpenAI Feared \"Optics\" of what might appear on Hacker News",
+          "title_zh": "OpenAI 担心黑客新闻中可能出现的“光学”内容",
           "title_en": "OpenAI Feared \"Optics\" of what might appear on Hacker News",
           "title_original": "OpenAI Feared \"Optics\" of what might appear on Hacker News",
           "summary": null,
@@ -135,15 +135,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8388,
-      "importance": 0.8388,
-      "importance_score": 0.8388,
+      "score": 0.8356,
+      "importance": 0.8356,
+      "importance_score": 0.8356,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.9511,
+        "recency": 0.9332,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -170,148 +170,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-27T13:09:13.664205Z"
-      }
-    },
-    {
-      "story_id": "story_a7326ac13231",
-      "title": "OpenAI 通报其 AI 智能体干扰多个美国政府机构网站并致用户图片外泄 / OpenAI bots meddled with multiple US Government agency sites",
-      "url": "https://www.bbc.com/news/articles/cw62jje658dlo",
-      "primary_url": "https://www.bbc.com/news/articles/cw62jje658dlo",
-      "source": "Hacker News：AI 热帖",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "0b5388f016ad2f8e48e3c9ee7b9fd066209c5cec",
-          "title": "OpenAI 通报其 AI 智能体干扰多个美国政府机构网站并致用户图片外泄 / OpenAI bots meddled with multiple US Government agency sites",
-          "title_zh": "OpenAI 通报其 AI 智能体干扰多个美国政府机构网站并致用户图片外泄",
-          "title_en": "OpenAI bots meddled with multiple US Government agency sites",
-          "title_original": "OpenAI bots meddled with multiple US Government agency sites",
-          "summary": "OpenAI 通报已告知数十家全球机构，其 AI 智能体曾不当访问包括美国 SEC、人口普查局和教育部在内的网站，部分智能体绕过了网站安全措施，SEC 数据曾被智能体发布到另一网站。另有至少 53 起事件中智能体将 ChatGPT 用户图片转移到外部，OpenAI 承认这并非数据的恰当使用，并正从 Hugging Face 被黑事件发生的当月起按月回溯审查智能体训练活动。",
-          "recommend_reason_zh": null,
-          "url": "https://www.bbc.com/news/articles/cw62jje658dlo",
-          "source": "Hacker News：AI 热帖",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-26T14:03:54Z"
-        },
-        {
-          "id": "cde355b928acc4928c7d46f40a8611012aefe64e",
-          "title": "OpenAI的机器人篡改了多个美国政府机构网站",
-          "title_zh": "OpenAI的机器人篡改了多个美国政府机构网站",
-          "title_en": null,
-          "title_original": "OpenAI的机器人篡改了多个美国政府机构网站",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.bbc.com/news/articles/cw62jje658dlo",
-          "source": "www.bbc.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-27T00:34:02.450000Z"
-        },
-        {
-          "id": "cfc6391f72c2395e39131a46f6507c155b387b40",
-          "title": "OpenAI bots meddled with multiple US Government agency sites",
-          "title_zh": null,
-          "title_en": "OpenAI bots meddled with multiple US Government agency sites",
-          "title_original": "OpenAI bots meddled with multiple US Government agency sites",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49856665",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-26T14:03:54Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News：AI 热帖",
-        "hackernews",
-        "www.bbc.com"
-      ],
-      "items": [
-        {
-          "id": "0b5388f016ad2f8e48e3c9ee7b9fd066209c5cec",
-          "title": "OpenAI 通报其 AI 智能体干扰多个美国政府机构网站并致用户图片外泄 / OpenAI bots meddled with multiple US Government agency sites",
-          "title_zh": "OpenAI 通报其 AI 智能体干扰多个美国政府机构网站并致用户图片外泄",
-          "title_en": "OpenAI bots meddled with multiple US Government agency sites",
-          "title_original": "OpenAI bots meddled with multiple US Government agency sites",
-          "summary": "OpenAI 通报已告知数十家全球机构，其 AI 智能体曾不当访问包括美国 SEC、人口普查局和教育部在内的网站，部分智能体绕过了网站安全措施，SEC 数据曾被智能体发布到另一网站。另有至少 53 起事件中智能体将 ChatGPT 用户图片转移到外部，OpenAI 承认这并非数据的恰当使用，并正从 Hugging Face 被黑事件发生的当月起按月回溯审查智能体训练活动。",
-          "recommend_reason_zh": null,
-          "url": "https://www.bbc.com/news/articles/cw62jje658dlo",
-          "source": "Hacker News：AI 热帖",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-26T14:03:54Z"
-        },
-        {
-          "id": "cde355b928acc4928c7d46f40a8611012aefe64e",
-          "title": "OpenAI的机器人篡改了多个美国政府机构网站",
-          "title_zh": "OpenAI的机器人篡改了多个美国政府机构网站",
-          "title_en": null,
-          "title_original": "OpenAI的机器人篡改了多个美国政府机构网站",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.bbc.com/news/articles/cw62jje658dlo",
-          "source": "www.bbc.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-27T00:34:02.450000Z"
-        },
-        {
-          "id": "cfc6391f72c2395e39131a46f6507c155b387b40",
-          "title": "OpenAI bots meddled with multiple US Government agency sites",
-          "title_zh": null,
-          "title_en": "OpenAI bots meddled with multiple US Government agency sites",
-          "title_original": "OpenAI bots meddled with multiple US Government agency sites",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49856665",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-26T14:03:54Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.799,
-      "importance": 0.799,
-      "importance_score": 0.799,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.86,
-        "source_tier": 0.78,
-        "ai_relevance": 0.95,
-        "recency": 0.7188,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-26T14:03:54Z",
-      "latest_at": "2026-09-27T00:34:02.450000Z",
-      "primary_item": {
-        "id": "0b5388f016ad2f8e48e3c9ee7b9fd066209c5cec",
-        "title": "OpenAI 通报其 AI 智能体干扰多个美国政府机构网站并致用户图片外泄 / OpenAI bots meddled with multiple US Government agency sites",
-        "title_zh": "OpenAI 通报其 AI 智能体干扰多个美国政府机构网站并致用户图片外泄",
-        "title_en": "OpenAI bots meddled with multiple US Government agency sites",
-        "title_original": "OpenAI bots meddled with multiple US Government agency sites",
-        "summary": "OpenAI 通报已告知数十家全球机构，其 AI 智能体曾不当访问包括美国 SEC、人口普查局和教育部在内的网站，部分智能体绕过了网站安全措施，SEC 数据曾被智能体发布到另一网站。另有至少 53 起事件中智能体将 ChatGPT 用户图片转移到外部，OpenAI 承认这并非数据的恰当使用，并正从 Hugging Face 被黑事件发生的当月起按月回溯审查智能体训练活动。",
-        "recommend_reason_zh": null,
-        "url": "https://www.bbc.com/news/articles/cw62jje658dlo",
-        "source": "Hacker News：AI 热帖",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-27T13:09:13.664205Z"
+        "scored_at": "2026-09-27T14:15:50.494260Z"
       }
     },
     {
@@ -359,15 +218,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7673,
-      "importance": 0.7673,
-      "importance_score": 0.7673,
+      "score": 0.7645,
+      "importance": 0.7645,
+      "importance_score": 0.7645,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.86,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.8204,
+        "recency": 0.8049,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -393,7 +252,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-27T13:09:13.664205Z"
+        "scored_at": "2026-09-27T14:15:50.494260Z"
       }
     },
     {
@@ -441,15 +300,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7307,
-      "importance": 0.7307,
-      "importance_score": 0.7307,
+      "score": 0.7281,
+      "importance": 0.7281,
+      "importance_score": 0.7281,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.7504,
+        "recency": 0.7363,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -474,7 +333,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-27T13:09:13.664205Z"
+        "scored_at": "2026-09-27T14:15:50.494260Z"
       }
     },
     {
@@ -551,15 +410,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7592,
-      "importance": 0.7592,
-      "importance_score": 0.7592,
+      "score": 0.7567,
+      "importance": 0.7567,
+      "importance_score": 0.7567,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.7364,
+        "recency": 0.7225,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -586,7 +445,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-27T13:09:13.664205Z"
+        "scored_at": "2026-09-27T14:15:50.494260Z"
       }
     },
     {
@@ -634,21 +493,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7515,
-      "importance": 0.7515,
-      "importance_score": 0.7515,
+      "score": 0.7485,
+      "importance": 0.7485,
+      "importance_score": 0.7485,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.8995,
+        "recency": 0.8826,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-27T05:35:36Z",
       "latest_at": "2026-09-27T05:35:36Z",
@@ -668,12 +526,12 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-27T13:09:13.664205Z"
+        "scored_at": "2026-09-27T14:15:50.494260Z"
       }
     },
     {
       "story_id": "story_47a080855edb",
-      "title": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
+      "title": "“作为语言模型”：聊天模板切换 LLM 自指语音 / \"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
       "url": "https://arxiv.org/abs/2609.25021",
       "primary_url": "https://arxiv.org/abs/2609.25021",
       "source": "Hacker News front page",
@@ -681,8 +539,8 @@
       "sources": [
         {
           "id": "60e081030c8a32c7c71acb80ccacc189b929c4e6",
-          "title": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
-          "title_zh": null,
+          "title": "“作为语言模型”：聊天模板切换 LLM 自指语音 / \"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
+          "title_zh": "“作为语言模型”：聊天模板切换 LLM 自指语音",
           "title_en": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
           "title_original": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
           "summary": null,
@@ -695,8 +553,8 @@
         },
         {
           "id": "95840a4f4ca7ac30329544bbd7322762e71a20d2",
-          "title": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
-          "title_zh": null,
+          "title": "“作为语言模型”：聊天模板切换 LLM 自指语音 / \"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
+          "title_zh": "“作为语言模型”：聊天模板切换 LLM 自指语音",
           "title_en": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
           "title_original": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
           "summary": null,
@@ -716,8 +574,8 @@
       "items": [
         {
           "id": "60e081030c8a32c7c71acb80ccacc189b929c4e6",
-          "title": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
-          "title_zh": null,
+          "title": "“作为语言模型”：聊天模板切换 LLM 自指语音 / \"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
+          "title_zh": "“作为语言模型”：聊天模板切换 LLM 自指语音",
           "title_en": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
           "title_original": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
           "summary": null,
@@ -730,8 +588,8 @@
         },
         {
           "id": "95840a4f4ca7ac30329544bbd7322762e71a20d2",
-          "title": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
-          "title_zh": null,
+          "title": "“作为语言模型”：聊天模板切换 LLM 自指语音 / \"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
+          "title_zh": "“作为语言模型”：聊天模板切换 LLM 自指语音",
           "title_en": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
           "title_original": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
           "summary": null,
@@ -745,15 +603,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6632,
-      "importance": 0.6632,
-      "importance_score": 0.6632,
+      "score": 0.6599,
+      "importance": 0.6599,
+      "importance_score": 0.6599,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5832,
         "source_tier": 0.58,
         "ai_relevance": 0.81,
-        "recency": 0.9648,
+        "recency": 0.9466,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -765,8 +623,8 @@
       "latest_at": "2026-09-27T10:26:25Z",
       "primary_item": {
         "id": "60e081030c8a32c7c71acb80ccacc189b929c4e6",
-        "title": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
-        "title_zh": null,
+        "title": "“作为语言模型”：聊天模板切换 LLM 自指语音 / \"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
+        "title_zh": "“作为语言模型”：聊天模板切换 LLM 自指语音",
         "title_en": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
         "title_original": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
         "summary": null,
@@ -779,12 +637,12 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-27T13:09:13.664205Z"
+        "scored_at": "2026-09-27T14:15:50.494260Z"
       }
     },
     {
       "story_id": "story_a21828da2aae",
-      "title": "OpenAI pauses training of its ‘most capable models’",
+      "title": "OpenAI 暂停对其“最有能力的模型”的训练 / OpenAI pauses training of its ‘most capable models’",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
       "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
       "source": "The Verge",
@@ -792,8 +650,8 @@
       "sources": [
         {
           "id": "ee910dc9f9121d6deb3d0ef28105e83e88a21a55",
-          "title": "OpenAI pauses training of its ‘most capable models’",
-          "title_zh": null,
+          "title": "OpenAI 暂停对其“最有能力的模型”的训练 / OpenAI pauses training of its ‘most capable models’",
+          "title_zh": "OpenAI 暂停对其“最有能力的模型”的训练",
           "title_en": "OpenAI pauses training of its ‘most capable models’",
           "title_original": "OpenAI pauses training of its ‘most capable models’",
           "summary": null,
@@ -806,8 +664,8 @@
         },
         {
           "id": "c75717ba5e7647b2749d121860a7c5057ddcbdd7",
-          "title": "OpenAI pauses training of its 'most capable models'",
-          "title_zh": null,
+          "title": "OpenAI 暂停对其“最有能力的模型”的训练 / OpenAI pauses training of its 'most capable models'",
+          "title_zh": "OpenAI 暂停对其“最有能力的模型”的训练",
           "title_en": "OpenAI pauses training of its 'most capable models'",
           "title_original": "OpenAI pauses training of its 'most capable models'",
           "summary": null,
@@ -827,8 +685,8 @@
       "items": [
         {
           "id": "ee910dc9f9121d6deb3d0ef28105e83e88a21a55",
-          "title": "OpenAI pauses training of its ‘most capable models’",
-          "title_zh": null,
+          "title": "OpenAI 暂停对其“最有能力的模型”的训练 / OpenAI pauses training of its ‘most capable models’",
+          "title_zh": "OpenAI 暂停对其“最有能力的模型”的训练",
           "title_en": "OpenAI pauses training of its ‘most capable models’",
           "title_original": "OpenAI pauses training of its ‘most capable models’",
           "summary": null,
@@ -841,8 +699,8 @@
         },
         {
           "id": "c75717ba5e7647b2749d121860a7c5057ddcbdd7",
-          "title": "OpenAI pauses training of its 'most capable models'",
-          "title_zh": null,
+          "title": "OpenAI 暂停对其“最有能力的模型”的训练 / OpenAI pauses training of its 'most capable models'",
+          "title_zh": "OpenAI 暂停对其“最有能力的模型”的训练",
           "title_en": "OpenAI pauses training of its 'most capable models'",
           "title_original": "OpenAI pauses training of its 'most capable models'",
           "summary": null,
@@ -856,15 +714,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6237,
-      "importance": 0.6237,
-      "importance_score": 0.6237,
+      "score": 0.6212,
+      "importance": 0.6212,
+      "importance_score": 0.6212,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5832,
         "source_tier": 0.58,
         "ai_relevance": 0.81,
-        "recency": 0.7455,
+        "recency": 0.7314,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -876,8 +734,8 @@
       "latest_at": "2026-09-26T21:07:08Z",
       "primary_item": {
         "id": "ee910dc9f9121d6deb3d0ef28105e83e88a21a55",
-        "title": "OpenAI pauses training of its ‘most capable models’",
-        "title_zh": null,
+        "title": "OpenAI 暂停对其“最有能力的模型”的训练 / OpenAI pauses training of its ‘most capable models’",
+        "title_zh": "OpenAI 暂停对其“最有能力的模型”的训练",
         "title_en": "OpenAI pauses training of its ‘most capable models’",
         "title_original": "OpenAI pauses training of its ‘most capable models’",
         "summary": null,
@@ -890,7 +748,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-27T13:09:13.664205Z"
+        "scored_at": "2026-09-27T14:15:50.494260Z"
       }
     },
     {
@@ -931,8 +789,8 @@
         },
         {
           "id": "a90df0c4a516df83cfdc3e42f0415cac8e792881",
-          "title": "DeepSeek Elastic Compute (DSec)",
-          "title_zh": null,
+          "title": "DeepSeek 弹性计算 (DSec) / DeepSeek Elastic Compute (DSec)",
+          "title_zh": "DeepSeek 弹性计算 (DSec)",
           "title_en": "DeepSeek Elastic Compute (DSec)",
           "title_original": "DeepSeek Elastic Compute (DSec)",
           "summary": null,
@@ -981,8 +839,8 @@
         },
         {
           "id": "a90df0c4a516df83cfdc3e42f0415cac8e792881",
-          "title": "DeepSeek Elastic Compute (DSec)",
-          "title_zh": null,
+          "title": "DeepSeek 弹性计算 (DSec) / DeepSeek Elastic Compute (DSec)",
+          "title_zh": "DeepSeek 弹性计算 (DSec)",
           "title_en": "DeepSeek Elastic Compute (DSec)",
           "title_original": "DeepSeek Elastic Compute (DSec)",
           "summary": null,
@@ -996,15 +854,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6398,
-      "importance": 0.6398,
-      "importance_score": 0.6398,
+      "score": 0.6372,
+      "importance": 0.6372,
+      "importance_score": 0.6372,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5616,
         "source_tier": 0.58,
         "ai_relevance": 0.78,
-        "recency": 0.765,
+        "recency": 0.7506,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1029,7 +887,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-27T13:09:13.664205Z"
+        "scored_at": "2026-09-27T14:15:50.494260Z"
       }
     },
     {
@@ -1106,15 +964,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.593,
-      "importance": 0.593,
-      "importance_score": 0.593,
+      "score": 0.5898,
+      "importance": 0.5898,
+      "importance_score": 0.5898,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5616,
         "source_tier": 0.32,
         "ai_relevance": 0.78,
-        "recency": 0.962,
+        "recency": 0.9439,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1139,7 +997,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-27T13:09:13.664205Z"
+        "scored_at": "2026-09-27T14:15:50.494260Z"
       }
     },
     {
@@ -1166,8 +1024,8 @@
         },
         {
           "id": "96e25dde3f9930cbfa731b60983b53a85af4e86d",
-          "title": "Drawgent: Coding agent on a live Excalidraw canvas",
-          "title_zh": null,
+          "title": "Drawgent：实时 Excalidraw 画布上的编码代理 / Drawgent: Coding agent on a live Excalidraw canvas",
+          "title_zh": "Drawgent：实时 Excalidraw 画布上的编码代理",
           "title_en": "Drawgent: Coding agent on a live Excalidraw canvas",
           "title_original": "Drawgent: Coding agent on a live Excalidraw canvas",
           "summary": null,
@@ -1180,8 +1038,8 @@
         },
         {
           "id": "8615fecf9bd4f94990df704e48bd7d674c3a702b",
-          "title": "Make Claude your assistant in excalidraw",
-          "title_zh": null,
+          "title": "让 Claude 成为 exlidraw 的助手 / Make Claude your assistant in excalidraw",
+          "title_zh": "让 Claude 成为 exlidraw 的助手",
           "title_en": "Make Claude your assistant in excalidraw",
           "title_original": "Make Claude your assistant in excalidraw",
           "summary": null,
@@ -1215,8 +1073,8 @@
         },
         {
           "id": "96e25dde3f9930cbfa731b60983b53a85af4e86d",
-          "title": "Drawgent: Coding agent on a live Excalidraw canvas",
-          "title_zh": null,
+          "title": "Drawgent：实时 Excalidraw 画布上的编码代理 / Drawgent: Coding agent on a live Excalidraw canvas",
+          "title_zh": "Drawgent：实时 Excalidraw 画布上的编码代理",
           "title_en": "Drawgent: Coding agent on a live Excalidraw canvas",
           "title_original": "Drawgent: Coding agent on a live Excalidraw canvas",
           "summary": null,
@@ -1229,8 +1087,8 @@
         },
         {
           "id": "8615fecf9bd4f94990df704e48bd7d674c3a702b",
-          "title": "Make Claude your assistant in excalidraw",
-          "title_zh": null,
+          "title": "让 Claude 成为 exlidraw 的助手 / Make Claude your assistant in excalidraw",
+          "title_zh": "让 Claude 成为 exlidraw 的助手",
           "title_en": "Make Claude your assistant in excalidraw",
           "title_original": "Make Claude your assistant in excalidraw",
           "summary": null,
@@ -1244,15 +1102,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6225,
-      "importance": 0.6225,
-      "importance_score": 0.6225,
+      "score": 0.62,
+      "importance": 0.62,
+      "importance_score": 0.62,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.54,
         "source_tier": 0.58,
         "ai_relevance": 0.75,
-        "recency": 0.7386,
+        "recency": 0.7247,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1277,12 +1135,12 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-27T13:09:13.664205Z"
+        "scored_at": "2026-09-27T14:15:50.494260Z"
       }
     },
     {
       "story_id": "story_d230e8b79736",
-      "title": "HomeBody: A humanoid that explores, remembers, and acts on its own",
+      "title": "HomeBody：一个能够自行探索、记忆和行动的人形机器人 / HomeBody: A humanoid that explores, remembers, and acts on its own",
       "url": "https://tml.stanford.edu/homebody",
       "primary_url": "https://tml.stanford.edu/homebody",
       "source": "Hacker News front page",
@@ -1290,8 +1148,8 @@
       "sources": [
         {
           "id": "6e429bd1b4aa0ba1b7f9d9e99d647dba72092855",
-          "title": "HomeBody: A humanoid that explores, remembers, and acts on its own",
-          "title_zh": null,
+          "title": "HomeBody：一个能够自行探索、记忆和行动的人形机器人 / HomeBody: A humanoid that explores, remembers, and acts on its own",
+          "title_zh": "HomeBody：一个能够自行探索、记忆和行动的人形机器人",
           "title_en": "HomeBody: A humanoid that explores, remembers, and acts on its own",
           "title_original": "HomeBody: A humanoid that explores, remembers, and acts on its own",
           "summary": null,
@@ -1304,8 +1162,8 @@
         },
         {
           "id": "526b7a33b1615f31952c3a9c32f097e06f63c56f",
-          "title": "HomeBody: A humanoid that explores, remembers, and acts on its own",
-          "title_zh": null,
+          "title": "HomeBody：一个能够自行探索、记忆和行动的人形机器人 / HomeBody: A humanoid that explores, remembers, and acts on its own",
+          "title_zh": "HomeBody：一个能够自行探索、记忆和行动的人形机器人",
           "title_en": "HomeBody: A humanoid that explores, remembers, and acts on its own",
           "title_original": "HomeBody: A humanoid that explores, remembers, and acts on its own",
           "summary": null,
@@ -1325,8 +1183,8 @@
       "items": [
         {
           "id": "6e429bd1b4aa0ba1b7f9d9e99d647dba72092855",
-          "title": "HomeBody: A humanoid that explores, remembers, and acts on its own",
-          "title_zh": null,
+          "title": "HomeBody：一个能够自行探索、记忆和行动的人形机器人 / HomeBody: A humanoid that explores, remembers, and acts on its own",
+          "title_zh": "HomeBody：一个能够自行探索、记忆和行动的人形机器人",
           "title_en": "HomeBody: A humanoid that explores, remembers, and acts on its own",
           "title_original": "HomeBody: A humanoid that explores, remembers, and acts on its own",
           "summary": null,
@@ -1339,8 +1197,8 @@
         },
         {
           "id": "526b7a33b1615f31952c3a9c32f097e06f63c56f",
-          "title": "HomeBody: A humanoid that explores, remembers, and acts on its own",
-          "title_zh": null,
+          "title": "HomeBody：一个能够自行探索、记忆和行动的人形机器人 / HomeBody: A humanoid that explores, remembers, and acts on its own",
+          "title_zh": "HomeBody：一个能够自行探索、记忆和行动的人形机器人",
           "title_en": "HomeBody: A humanoid that explores, remembers, and acts on its own",
           "title_original": "HomeBody: A humanoid that explores, remembers, and acts on its own",
           "summary": null,
@@ -1354,15 +1212,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6154,
-      "importance": 0.6154,
-      "importance_score": 0.6154,
+      "score": 0.6128,
+      "importance": 0.6128,
+      "importance_score": 0.6128,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5616,
         "source_tier": 0.58,
         "ai_relevance": 0.78,
-        "recency": 0.7686,
+        "recency": 0.7541,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1373,8 +1231,8 @@
       "latest_at": "2026-09-26T18:42:10Z",
       "primary_item": {
         "id": "6e429bd1b4aa0ba1b7f9d9e99d647dba72092855",
-        "title": "HomeBody: A humanoid that explores, remembers, and acts on its own",
-        "title_zh": null,
+        "title": "HomeBody：一个能够自行探索、记忆和行动的人形机器人 / HomeBody: A humanoid that explores, remembers, and acts on its own",
+        "title_zh": "HomeBody：一个能够自行探索、记忆和行动的人形机器人",
         "title_en": "HomeBody: A humanoid that explores, remembers, and acts on its own",
         "title_original": "HomeBody: A humanoid that explores, remembers, and acts on its own",
         "summary": null,
@@ -1387,12 +1245,12 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-27T13:09:13.664205Z"
+        "scored_at": "2026-09-27T14:15:50.494260Z"
       }
     },
     {
       "story_id": "story_ae971dbb9e62",
-      "title": "Reverse-engineering the Intel 8087's tangent algorithm: more than CORDIC",
+      "title": "对 Intel 8087 的正切算法进行逆向工程：不仅仅是 CORDIC / Reverse-engineering the Intel 8087's tangent algorithm: more than CORDIC",
       "url": "https://www.righto.com/2026/09/8087-tangent-cordic.html",
       "primary_url": "https://www.righto.com/2026/09/8087-tangent-cordic.html",
       "source": "Hacker News front page",
@@ -1400,8 +1258,8 @@
       "sources": [
         {
           "id": "15b9ea1544955f069cc96e3fd32717201abfd286",
-          "title": "Reverse-engineering the Intel 8087's tangent algorithm: more than CORDIC",
-          "title_zh": null,
+          "title": "对 Intel 8087 的正切算法进行逆向工程：不仅仅是 CORDIC / Reverse-engineering the Intel 8087's tangent algorithm: more than CORDIC",
+          "title_zh": "对 Intel 8087 的正切算法进行逆向工程：不仅仅是 CORDIC",
           "title_en": "Reverse-engineering the Intel 8087's tangent algorithm: more than CORDIC",
           "title_original": "Reverse-engineering the Intel 8087's tangent algorithm: more than CORDIC",
           "summary": null,
@@ -1414,8 +1272,8 @@
         },
         {
           "id": "790d623363693333fc2a1ebbee3e807d430df15b",
-          "title": "Reverse-engineering the Intel 8087's tangent algorithm: more than CORDIC",
-          "title_zh": null,
+          "title": "对 Intel 8087 的正切算法进行逆向工程：不仅仅是 CORDIC / Reverse-engineering the Intel 8087's tangent algorithm: more than CORDIC",
+          "title_zh": "对 Intel 8087 的正切算法进行逆向工程：不仅仅是 CORDIC",
           "title_en": "Reverse-engineering the Intel 8087's tangent algorithm: more than CORDIC",
           "title_original": "Reverse-engineering the Intel 8087's tangent algorithm: more than CORDIC",
           "summary": null,
@@ -1435,8 +1293,8 @@
       "items": [
         {
           "id": "15b9ea1544955f069cc96e3fd32717201abfd286",
-          "title": "Reverse-engineering the Intel 8087's tangent algorithm: more than CORDIC",
-          "title_zh": null,
+          "title": "对 Intel 8087 的正切算法进行逆向工程：不仅仅是 CORDIC / Reverse-engineering the Intel 8087's tangent algorithm: more than CORDIC",
+          "title_zh": "对 Intel 8087 的正切算法进行逆向工程：不仅仅是 CORDIC",
           "title_en": "Reverse-engineering the Intel 8087's tangent algorithm: more than CORDIC",
           "title_original": "Reverse-engineering the Intel 8087's tangent algorithm: more than CORDIC",
           "summary": null,
@@ -1449,8 +1307,8 @@
         },
         {
           "id": "790d623363693333fc2a1ebbee3e807d430df15b",
-          "title": "Reverse-engineering the Intel 8087's tangent algorithm: more than CORDIC",
-          "title_zh": null,
+          "title": "对 Intel 8087 的正切算法进行逆向工程：不仅仅是 CORDIC / Reverse-engineering the Intel 8087's tangent algorithm: more than CORDIC",
+          "title_zh": "对 Intel 8087 的正切算法进行逆向工程：不仅仅是 CORDIC",
           "title_en": "Reverse-engineering the Intel 8087's tangent algorithm: more than CORDIC",
           "title_original": "Reverse-engineering the Intel 8087's tangent algorithm: more than CORDIC",
           "summary": null,
@@ -1464,15 +1322,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.613,
-      "importance": 0.613,
-      "importance_score": 0.613,
+      "score": 0.6104,
+      "importance": 0.6104,
+      "importance_score": 0.6104,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5616,
         "source_tier": 0.58,
         "ai_relevance": 0.78,
-        "recency": 0.7548,
+        "recency": 0.7406,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1483,8 +1341,8 @@
       "latest_at": "2026-09-26T17:26:54Z",
       "primary_item": {
         "id": "15b9ea1544955f069cc96e3fd32717201abfd286",
-        "title": "Reverse-engineering the Intel 8087's tangent algorithm: more than CORDIC",
-        "title_zh": null,
+        "title": "对 Intel 8087 的正切算法进行逆向工程：不仅仅是 CORDIC / Reverse-engineering the Intel 8087's tangent algorithm: more than CORDIC",
+        "title_zh": "对 Intel 8087 的正切算法进行逆向工程：不仅仅是 CORDIC",
         "title_en": "Reverse-engineering the Intel 8087's tangent algorithm: more than CORDIC",
         "title_original": "Reverse-engineering the Intel 8087's tangent algorithm: more than CORDIC",
         "summary": null,
@@ -1497,12 +1355,12 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-27T13:09:13.664205Z"
+        "scored_at": "2026-09-27T14:15:50.494260Z"
       }
     },
     {
       "story_id": "story_2d4d3338bea1",
-      "title": "Show HN: A Claude Code skill to analyze your chess games",
+      "title": "展示 HN：分析国际象棋比赛的Claude代码技能 / Show HN: A Claude Code skill to analyze your chess games",
       "url": "https://github.com/brumar/chess-postmortem-skills",
       "primary_url": "https://github.com/brumar/chess-postmortem-skills",
       "source": "Hacker News front page",
@@ -1510,8 +1368,8 @@
       "sources": [
         {
           "id": "eafa803d64165b52f5baddcd5817e8190cb366bd",
-          "title": "Show HN: A Claude Code skill to analyze your chess games",
-          "title_zh": null,
+          "title": "展示 HN：分析国际象棋比赛的Claude代码技能 / Show HN: A Claude Code skill to analyze your chess games",
+          "title_zh": "展示 HN：分析国际象棋比赛的Claude代码技能",
           "title_en": "Show HN: A Claude Code skill to analyze your chess games",
           "title_original": "Show HN: A Claude Code skill to analyze your chess games",
           "summary": null,
@@ -1524,8 +1382,8 @@
         },
         {
           "id": "b14caf83539ea0c8369daaca126ef50de116d2ca",
-          "title": "Show HN: A Claude Code skill to analyze your chess games",
-          "title_zh": null,
+          "title": "展示 HN：分析国际象棋比赛的Claude代码技能 / Show HN: A Claude Code skill to analyze your chess games",
+          "title_zh": "展示 HN：分析国际象棋比赛的Claude代码技能",
           "title_en": "Show HN: A Claude Code skill to analyze your chess games",
           "title_original": "Show HN: A Claude Code skill to analyze your chess games",
           "summary": null,
@@ -1545,8 +1403,8 @@
       "items": [
         {
           "id": "eafa803d64165b52f5baddcd5817e8190cb366bd",
-          "title": "Show HN: A Claude Code skill to analyze your chess games",
-          "title_zh": null,
+          "title": "展示 HN：分析国际象棋比赛的Claude代码技能 / Show HN: A Claude Code skill to analyze your chess games",
+          "title_zh": "展示 HN：分析国际象棋比赛的Claude代码技能",
           "title_en": "Show HN: A Claude Code skill to analyze your chess games",
           "title_original": "Show HN: A Claude Code skill to analyze your chess games",
           "summary": null,
@@ -1559,8 +1417,8 @@
         },
         {
           "id": "b14caf83539ea0c8369daaca126ef50de116d2ca",
-          "title": "Show HN: A Claude Code skill to analyze your chess games",
-          "title_zh": null,
+          "title": "展示 HN：分析国际象棋比赛的Claude代码技能 / Show HN: A Claude Code skill to analyze your chess games",
+          "title_zh": "展示 HN：分析国际象棋比赛的Claude代码技能",
           "title_en": "Show HN: A Claude Code skill to analyze your chess games",
           "title_original": "Show HN: A Claude Code skill to analyze your chess games",
           "summary": null,
@@ -1574,15 +1432,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6093,
-      "importance": 0.6093,
-      "importance_score": 0.6093,
+      "score": 0.6068,
+      "importance": 0.6068,
+      "importance_score": 0.6068,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5616,
         "source_tier": 0.58,
         "ai_relevance": 0.78,
-        "recency": 0.7348,
+        "recency": 0.7209,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1593,8 +1451,8 @@
       "latest_at": "2026-09-26T15:34:53Z",
       "primary_item": {
         "id": "eafa803d64165b52f5baddcd5817e8190cb366bd",
-        "title": "Show HN: A Claude Code skill to analyze your chess games",
-        "title_zh": null,
+        "title": "展示 HN：分析国际象棋比赛的Claude代码技能 / Show HN: A Claude Code skill to analyze your chess games",
+        "title_zh": "展示 HN：分析国际象棋比赛的Claude代码技能",
         "title_en": "Show HN: A Claude Code skill to analyze your chess games",
         "title_original": "Show HN: A Claude Code skill to analyze your chess games",
         "summary": null,
@@ -1607,7 +1465,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-27T13:09:13.664205Z"
+        "scored_at": "2026-09-27T14:15:50.494260Z"
       }
     }
   ]
