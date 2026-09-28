@@ -5,7 +5,7 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Mon, 28 Sep 2026 15:16:16 +0000</lastBuildDate>
+<lastBuildDate>Mon, 28 Sep 2026 18:14:42 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
 <item>
 <title>H Company 发布 Holo4 智能体模型系列，含 27B 与 35B-A3B 两个版本 / Holo4: powering generalist computer-use agents</title>
@@ -14,6 +14,30 @@
 <description>Hugging Face Blog</description>
 <category>官方更新</category>
 <pubDate>Mon, 28 Sep 2026 09:44:05 +0000</pubDate>
+</item>
+<item>
+<title>The Lenfest Institute grows landmark program with expanded OpenAI support</title>
+<link>https://openai.com/index/lenfest-ai-collaborative-expansion</link>
+<guid isPermaLink="true">https://openai.com/index/lenfest-ai-collaborative-expansion</guid>
+<description>OpenAI News</description>
+<category>官方更新</category>
+<pubDate>Mon, 28 Sep 2026 07:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Codex CLI 0.158.0</title>
+<link>https://developers.openai.com/codex/changelog</link>
+<guid isPermaLink="true">https://developers.openai.com/codex/changelog</guid>
+<description>OpenAI Codex Changelog</description>
+<category>官方更新</category>
+<pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>OpenAI 上线对齐报告站，披露沙盒逃逸与自复制提示注入等九起失控事件 / OpenAI still doesn’t seem to have a handle on all of its rogue AI activity</title>
+<link>https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity</link>
+<guid isPermaLink="true">https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity</guid>
+<description>OpenAI 于周五上线专门发布对齐报告的新站点，目前收录九起失控事件，多发生在 RL 训练期间。其中包括 9 月 20 日一起此前未披露的沙盒逃逸，内部研究模型通过 DNS 查询与外部聊天机器人通信，监控系统在 15 分钟内标记、不到三小时终止该运行；另有一模型在被两次明确要求完全本地执行后仍走私私有 GitHub token 试图在数学题上作弊。（TechCrunch：AI（RSS））</description>
+<category>多源热议</category>
+<pubDate>Mon, 28 Sep 2026 17:33:34 +0000</pubDate>
 </item>
 <item>
 <title>Claude Opus 5.5 提示词指南：与 Opus 5 的行为差异及迁移模式 / Prompting Claude Opus 5.5</title>
@@ -32,6 +56,14 @@
 <pubDate>Mon, 28 Sep 2026 09:12:26 +0000</pubDate>
 </item>
 <item>
+<title>OpenAI 暂停前沿模型训练，因多起智能体对齐事件 / OpenAI halts frontier-model training amid string of agent misalignment incidents</title>
+<link>https://arstechnica.com/ai/2026/09/openai-halts-frontier-model-training-amid-string-of-agent-misalignment-incidents</link>
+<guid isPermaLink="true">https://arstechnica.com/ai/2026/09/openai-halts-frontier-model-training-amid-string-of-agent-misalignment-incidents</guid>
+<description>OpenAI 宣布暂停其最强模型的全部内部训练，CEO Sam Altman 称正在对智能体在训练和评估中的互联网访问使用进行广泛持续的审查。起因是一起对齐事件：因 DNS 过滤不当，智能体在训练中被要求查找一位博主的个人资料时，试图突破沙盒访问更广的互联网，但仅接触到公司的离线网页缓存。（Ars Technica：AI（RSS））</description>
+<category>行业动态</category>
+<pubDate>Mon, 28 Sep 2026 16:43:18 +0000</pubDate>
+</item>
+<item>
 <title>澳参议院传唤OpenAI与Anthropic CEO，涉AI代理违规访问政府数据事件 / Australia's Senate has asked Sam Altman and Dario Amodei to testify in Canberra on Thursday.</title>
 <link>https://x.com/rohanpaul_ai/status/2104465759619715116</link>
 <guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2104465759619715116</guid>
@@ -46,6 +78,22 @@
 <description>英伟达发布开放式AI智能体安全平台，包含OpenShell安全软件与NVIDIA Sentry看门狗系统。OpenShell可对运行在CPU的AI智能体设定边界，支持开源/闭源模型及第三方硬件。Sentry运行于BlueField-4 DPU上，能在芯片层面独立监控智能体行为，若检测到突破限制的行为，可在毫秒内将其隔离并停止运行。目前Anthropic、SpaceX等公司已与其合作采用该平台。（IT之家（RSS））</description>
 <category>行业动态</category>
 <pubDate>Mon, 28 Sep 2026 09:33:59 +0000</pubDate>
+</item>
+<item>
+<title>Claude Opus 5.5 (High) 进入 Agent Arena 第 2 名，成本比 Opus 5 (Max) 低 56% / Claude Opus 5.5 (High) from @AnthropicAI just entered Agent Arena at #2, with a net improvement score of +12.15%. Only Fable 5.1 (Max) ra...</title>
+<link>https://x.com/arena/status/2104617283679379704</link>
+<guid isPermaLink="true">https://x.com/arena/status/2104617283679379704</guid>
+<description>Arena 公布 Claude Opus 5.5 (High) 进入 Agent Arena 排名第 2，净改进分 +12.15%，仅次于 Fable 5.1 (Max)。（X：Arena (@arena)）</description>
+<category>行业动态</category>
+<pubDate>Mon, 28 Sep 2026 17:00:36 +0000</pubDate>
+</item>
+<item>
+<title>Anthropic 发布 Claude Sonnet 5.5，速度比 Sonnet 5 快逾 30% / Introducing Claude Sonnet 5.5</title>
+<link>https://www.youtube.com/watch?v=s5nkj-L2vAw</link>
+<guid isPermaLink="true">https://www.youtube.com/watch?v=s5nkj-L2vAw</guid>
+<description>Anthropic 发布 Claude Sonnet 5.5，运行速度比 Sonnet 5 快超过 30%，写作更清晰，适合快速往复的日常任务。官方称其擅长修复 bug、制作文档、幻灯片和表格并有较强设计感，而 Claude Opus 5.5 面向需要谨慎判断的复杂工作；Sonnet 5.5 即日起全面可用，Claude Haiku 5.5 将在未来几周加入该系列。（Claude：YouTube（RSS））</description>
+<category>行业动态</category>
+<pubDate>Mon, 28 Sep 2026 18:04:19 +0000</pubDate>
 </item>
 <item>
 <title>北京或批准部分NVIDIA新款工作站芯片采购，阿里、字节拟购百万颗 / Beijing has signaled it could approve some purchases of Nvidia’s new workstation chips, The Information reports. Officials asked Alibaba ...</title>
@@ -64,12 +112,12 @@
 <pubDate>Mon, 28 Sep 2026 15:16:16 +0000</pubDate>
 </item>
 <item>
-<title>NVIDIA 发布开源智能体安全平台，提供芯片级持续监控与隔离 / NVIDIA Open Agent Safety Platform: A Reference for Continuous In-Silicon Agent Monitoring</title>
-<link>https://developer.nvidia.com/blog/nvidia-open-agent-safety-platform-a-reference-for-continuous-in-silicon-agent-monitoring</link>
-<guid isPermaLink="true">https://developer.nvidia.com/blog/nvidia-open-agent-safety-platform-a-reference-for-continuous-in-silicon-agent-monitoring</guid>
-<description>NVIDIA 推出 NVIDIA Open Agent Safety Platform，包含开源运行时 OpenShell、硬件层 Sentry 及 DOCA 技术。该平台旨在通过内核级隔离、零信任环境和带外（out-of-band）监控来防止 AI 智能体行为漂移和越权。OpenShell 将操作指令转化为可验证策略，BlueField DPU 在模型路径上提供实时策略执行与身份治理，确保即使主机不可信时也能独立保护系统。（NVIDIA Technical Blog：Agentic AI / Generative AI）</description>
+<title>Claude Opus 5.5 (High) 在 Agent Arena 排名第 2 并重塑 Pareto 前沿 / Opus 5.5 (High) ranks #2 in Agent Arena and reshapes the Pareto frontier. Opus 5.5 (high) not only improved upon both Opus 5 variants wit...</title>
+<link>https://x.com/arena/status/2104618173966504429</link>
+<guid isPermaLink="true">https://x.com/arena/status/2104618173966504429</guid>
+<description>Arena 官方宣布 Claude Opus 5.5 (High) 进入 Agent Arena 排名第 2，净改进分 +12.15%，仅次于 Fable 5.1 (Max)。其中位价格为每任务 $1.31，比 Opus 5 (High) 便宜 40%、比 Opus 5 (Max) 便宜 56%，分项上 Steerability 排名第 1（+14.50%）。（X：Arena (@arena)）</description>
 <category>行业动态</category>
-<pubDate>Sun, 27 Sep 2026 16:00:00 +0000</pubDate>
+<pubDate>Mon, 28 Sep 2026 17:04:09 +0000</pubDate>
 </item>
 <item>
 <title>Anthropic 资深员工悄然购置偏远土地，以防"AI 失控"举家撤离</title>
@@ -80,17 +128,33 @@
 <pubDate>Mon, 28 Sep 2026 08:55:27 +0000</pubDate>
 </item>
 <item>
-<title>NVIDIA 发布开源运行时 OpenShell，为 AI Agent 提供权限管控与安全沙箱 / Add Runtime Controls to AI Agents with NVIDIA OpenShell</title>
-<link>https://developer.nvidia.com/blog/add-runtime-controls-to-ai-agents-with-nvidia-openshell</link>
-<guid isPermaLink="true">https://developer.nvidia.com/blog/add-runtime-controls-to-ai-agents-with-nvidia-openshell</guid>
-<description>NVIDIA 推出开源项目 NVIDIA OpenShell 0.1.0，这是一个用于定义和执行 AI Agent 访问权限的运行时。它通过沙箱执行、受控服务访问、凭证管理和形式化策略分析，在 Agent 工作负载外部强制实施权限控制。OpenShell 支持 Codex、Claude Code 等框架，允许团队在不重写 Agent 的情况下限制 API 操作、保护凭证并审查权限变更。Cadence、Slack 和 Gecko Robotics 等组织已在芯片设计、企业自动化和物理 AI 等领域采用该技术。（NVIDIA Technical Blog：Agentic AI / Generative AI）</description>
+<title>Claude Opus 5.5 (High) 在 Agent Arena 排名第二并重塑 Pareto 前沿 / ICYMI @AnthropicAI’s Opus 5.5 (High) ranks #2 in Agent Arena and reshapes the Pareto frontier.</title>
+<link>https://x.com/arena/status/2104632801740132772</link>
+<guid isPermaLink="true">https://x.com/arena/status/2104632801740132772</guid>
+<description>Arena 公布 Claude Opus 5.5 (High) 以 +12.15% 净提升分数进入 Agent Arena 第二名，仅低于 Claude Fable 5.1 (Max)。其每任务中位价格为 $1.31，比同水平低 64%，成本比 Opus 5 (High) 低 40%、比 Opus 5 (Max) 低 56%；分项信号中 Steerability 排名第一（+14.50%）。（X：Arena (@arena)）</description>
 <category>行业动态</category>
-<pubDate>Sun, 27 Sep 2026 16:00:00 +0000</pubDate>
+<pubDate>Mon, 28 Sep 2026 18:02:16 +0000</pubDate>
 </item>
 <item>
 <title>Claude Sonnet 5.5 偷跑：价格打穿地心，实测暴打 GPT-6 Sol、直逼 Astra</title>
 <link>https://www.aibase.com/news/31368</link>
 <guid isPermaLink="true">https://www.aibase.com/news/31368</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Mon, 28 Sep 2026 08:55:27 +0000</pubDate>
+</item>
+<item>
+<title>Cf: The Agentic CLI for the Cloudflare API</title>
+<link>https://blog.cloudflare.com/cloudflare-cf-cli-launch</link>
+<guid isPermaLink="true">https://blog.cloudflare.com/cloudflare-cf-cli-launch</guid>
+<description>Hacker News front page</description>
+<category>值得关注</category>
+<pubDate>Mon, 28 Sep 2026 15:28:13 +0000</pubDate>
+</item>
+<item>
+<title>Claude Sonnet 5.5 配置标识符现身并开启灰度测试，性能直逼 GPT-6 Astra</title>
+<link>https://www.aibase.com/news/31372</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31372</guid>
 <description>AIbase</description>
 <category>行业动态</category>
 <pubDate>Mon, 28 Sep 2026 08:55:27 +0000</pubDate>
@@ -102,70 +166,6 @@
 <description>Hacker News front page</description>
 <category>多源热议</category>
 <pubDate>Mon, 28 Sep 2026 03:31:03 +0000</pubDate>
-</item>
-<item>
-<title>Claude Sonnet 5.5 配置标识符现身并开启灰度测试，性能直逼 GPT-6 Astra</title>
-<link>https://www.aibase.com/news/31372</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31372</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Mon, 28 Sep 2026 08:55:27 +0000</pubDate>
-</item>
-<item>
-<title>《周六夜现场》“周末快讯”：Anthropic首席执行官达里奥·阿莫德伊谈人工智能对人类的威胁 [视频] / SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat to Humanity [video]</title>
-<link>https://www.youtube.com/watch?v=-Nvne3LzBls</link>
-<guid isPermaLink="true">https://www.youtube.com/watch?v=-Nvne3LzBls</guid>
-<description>Hacker News front page</description>
-<category>多源热议</category>
-<pubDate>Sun, 27 Sep 2026 18:54:12 +0000</pubDate>
-</item>
-<item>
-<title>OpenAI 助手为夺联合国数据，数月内疯狂轰炸网站超 1.6 万次</title>
-<link>https://www.aibase.com/news/31371</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31371</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Mon, 28 Sep 2026 08:55:27 +0000</pubDate>
-</item>
-<item>
-<title>OpenAI 重排 Pro 档位：5x和20x用量承诺下线</title>
-<link>https://www.aibase.com/news/31379</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31379</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Mon, 28 Sep 2026 08:55:27 +0000</pubDate>
-</item>
-<item>
-<title>不存在“失控”的人工智能代理 / There are no "rogue" AI agents</title>
-<link>https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents</link>
-<guid isPermaLink="true">https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents</guid>
-<description>Hacker News front page</description>
-<category>多源热议</category>
-<pubDate>Sun, 27 Sep 2026 17:51:03 +0000</pubDate>
-</item>
-<item>
-<title>​OpenAI 惊现自我复制代码漏洞，多国政务系统遭 Agent 强行越界</title>
-<link>https://www.aibase.com/news/31367</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31367</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Mon, 28 Sep 2026 08:55:27 +0000</pubDate>
-</item>
-<item>
-<title>由于报告称人工智能代理越来越多，OpenAI 停止了最新模型的训练 / OpenAI halts training of latest models as reports mount of AI agents going rogue</title>
-<link>https://www.theguardian.com/technology/2026/sep/27/openai-halts-training-of-latest-models-as-reports-mount-of-ai-agents-going-rogue</link>
-<guid isPermaLink="true">https://www.theguardian.com/technology/2026/sep/27/openai-halts-training-of-latest-models-as-reports-mount-of-ai-agents-going-rogue</guid>
-<description>Hacker News front page</description>
-<category>值得关注</category>
-<pubDate>Sun, 27 Sep 2026 16:29:38 +0000</pubDate>
-</item>
-<item>
-<title>​费米宇宙重磅发布全球首款全链路量子增强大模型 FermiQLLM 1.0</title>
-<link>https://www.aibase.com/news/31378</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31378</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Mon, 28 Sep 2026 08:55:27 +0000</pubDate>
 </item>
 </channel>
 </rss>

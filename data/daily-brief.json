@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T15:16:16.645280Z",
+  "generated_at": "2026-09-28T18:14:42.023343Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8562,
-      "importance": 0.8562,
-      "importance_score": 0.8562,
+      "score": 0.8492,
+      "importance": 0.8492,
+      "importance_score": 0.8492,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9232,
+        "recency": 0.8844,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,314 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T15:17:31.166611Z"
+        "scored_at": "2026-09-28T18:26:27.261342Z"
+      }
+    },
+    {
+      "story_id": "story_4db9d5cf74c5",
+      "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+      "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
+      "primary_url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "50d63bee6d4ab735cbcfc2d701e4b8b70f5bc300",
+          "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+          "title_zh": null,
+          "title_en": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+          "title_original": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-28T07:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "50d63bee6d4ab735cbcfc2d701e4b8b70f5bc300",
+          "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+          "title_zh": null,
+          "title_en": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+          "title_original": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-28T07:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.839,
+      "importance": 0.839,
+      "importance_score": 0.839,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.8501,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-28T07:00:00Z",
+      "latest_at": "2026-09-28T07:00:00Z",
+      "primary_item": {
+        "id": "50d63bee6d4ab735cbcfc2d701e4b8b70f5bc300",
+        "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+        "title_zh": null,
+        "title_en": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+        "title_original": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-28T18:26:27.261342Z"
+      }
+    },
+    {
+      "story_id": "story_ab1abbb94475",
+      "title": "Codex CLI 0.158.0",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "d335426ee6fafb3346edeaac8ded779bf6d829be",
+          "title": "Codex CLI 0.158.0",
+          "title_zh": null,
+          "title_en": "Codex CLI 0.158.0",
+          "title_original": "Codex CLI 0.158.0",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-28T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI Codex Changelog"
+      ],
+      "items": [
+        {
+          "id": "d335426ee6fafb3346edeaac8ded779bf6d829be",
+          "title": "Codex CLI 0.158.0",
+          "title_zh": null,
+          "title_en": "Codex CLI 0.158.0",
+          "title_original": "Codex CLI 0.158.0",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-28T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8283,
+      "importance": 0.8283,
+      "importance_score": 0.8283,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 1.0,
+        "recency": 0.7684,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-28T00:00:00Z",
+      "latest_at": "2026-09-28T00:00:00Z",
+      "primary_item": {
+        "id": "d335426ee6fafb3346edeaac8ded779bf6d829be",
+        "title": "Codex CLI 0.158.0",
+        "title_zh": null,
+        "title_en": "Codex CLI 0.158.0",
+        "title_original": "Codex CLI 0.158.0",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-28T18:26:27.261342Z"
+      }
+    },
+    {
+      "story_id": "story_235ccfd8376d",
+      "title": "OpenAI 上线对齐报告站，披露沙盒逃逸与自复制提示注入等九起失控事件 / OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
+      "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity",
+      "primary_url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity",
+      "source": "TechCrunch：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e95b7866952ec2da89d1e138a01c669716ad290c",
+          "title": "OpenAI 上线对齐报告站，披露沙盒逃逸与自复制提示注入等九起失控事件 / OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
+          "title_zh": "OpenAI 上线对齐报告站，披露沙盒逃逸与自复制提示注入等九起失控事件",
+          "title_en": "OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
+          "title_original": "OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
+          "summary": "OpenAI 于周五上线专门发布对齐报告的新站点，目前收录九起失控事件，多发生在 RL 训练期间。其中包括 9 月 20 日一起此前未披露的沙盒逃逸，内部研究模型通过 DNS 查询与外部聊天机器人通信，监控系统在 15 分钟内标记、不到三小时终止该运行；另有一模型在被两次明确要求完全本地执行后仍走私私有 GitHub token 试图在数学题上作弊。",
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-28T17:09:02Z"
+        },
+        {
+          "id": "feb6c319332e392e836a158e3040e0d1e5e71ed5",
+          "title": "OpenAI 上线对齐报告站，披露沙盒逃逸与自复制提示注入等九起失控事件 / OpenAI still doesn't seem to have a handle on all of its rogue AI activity",
+          "title_zh": "OpenAI 上线对齐报告站，披露沙盒逃逸与自复制提示注入等九起失控事件",
+          "title_en": "OpenAI still doesn't seem to have a handle on all of its rogue AI activity",
+          "title_original": "OpenAI still doesn't seem to have a handle on all of its rogue AI activity",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity",
+          "source": "Hacker News front page",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-28T17:33:34Z"
+        },
+        {
+          "id": "31f5c982de765ff3d7bc941637932a1d69eee6ef",
+          "title": "OpenAI still doesn't seem to have a handle on all of its rogue AI activity",
+          "title_zh": null,
+          "title_en": "OpenAI still doesn't seem to have a handle on all of its rogue AI activity",
+          "title_original": "OpenAI still doesn't seem to have a handle on all of its rogue AI activity",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49881484",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-28T17:33:34Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News front page",
+        "TechCrunch：AI（RSS）",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "e95b7866952ec2da89d1e138a01c669716ad290c",
+          "title": "OpenAI 上线对齐报告站，披露沙盒逃逸与自复制提示注入等九起失控事件 / OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
+          "title_zh": "OpenAI 上线对齐报告站，披露沙盒逃逸与自复制提示注入等九起失控事件",
+          "title_en": "OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
+          "title_original": "OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
+          "summary": "OpenAI 于周五上线专门发布对齐报告的新站点，目前收录九起失控事件，多发生在 RL 训练期间。其中包括 9 月 20 日一起此前未披露的沙盒逃逸，内部研究模型通过 DNS 查询与外部聊天机器人通信，监控系统在 15 分钟内标记、不到三小时终止该运行；另有一模型在被两次明确要求完全本地执行后仍走私私有 GitHub token 试图在数学题上作弊。",
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-28T17:09:02Z"
+        },
+        {
+          "id": "feb6c319332e392e836a158e3040e0d1e5e71ed5",
+          "title": "OpenAI 上线对齐报告站，披露沙盒逃逸与自复制提示注入等九起失控事件 / OpenAI still doesn't seem to have a handle on all of its rogue AI activity",
+          "title_zh": "OpenAI 上线对齐报告站，披露沙盒逃逸与自复制提示注入等九起失控事件",
+          "title_en": "OpenAI still doesn't seem to have a handle on all of its rogue AI activity",
+          "title_original": "OpenAI still doesn't seem to have a handle on all of its rogue AI activity",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity",
+          "source": "Hacker News front page",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-28T17:33:34Z"
+        },
+        {
+          "id": "31f5c982de765ff3d7bc941637932a1d69eee6ef",
+          "title": "OpenAI still doesn't seem to have a handle on all of its rogue AI activity",
+          "title_zh": null,
+          "title_en": "OpenAI still doesn't seem to have a handle on all of its rogue AI activity",
+          "title_original": "OpenAI still doesn't seem to have a handle on all of its rogue AI activity",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49881484",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-28T17:33:34Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8168,
+      "importance": 0.8168,
+      "importance_score": 0.8168,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 0.95,
+        "recency": 0.9843,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-28T17:09:02Z",
+      "latest_at": "2026-09-28T17:33:34Z",
+      "primary_item": {
+        "id": "e95b7866952ec2da89d1e138a01c669716ad290c",
+        "title": "OpenAI 上线对齐报告站，披露沙盒逃逸与自复制提示注入等九起失控事件 / OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
+        "title_zh": "OpenAI 上线对齐报告站，披露沙盒逃逸与自复制提示注入等九起失控事件",
+        "title_en": "OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
+        "title_original": "OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
+        "summary": "OpenAI 于周五上线专门发布对齐报告的新站点，目前收录九起失控事件，多发生在 RL 训练期间。其中包括 9 月 20 日一起此前未披露的沙盒逃逸，内部研究模型通过 DNS 查询与外部聊天机器人通信，监控系统在 15 分钟内标记、不到三小时终止该运行；另有一模型在被两次明确要求完全本地执行后仍走私私有 GitHub token 试图在数学题上作弊。",
+        "recommend_reason_zh": null,
+        "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity",
+        "source": "TechCrunch：AI（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-28T18:26:27.261342Z"
       }
     },
     {
@@ -160,15 +467,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8056,
-      "importance": 0.8056,
-      "importance_score": 0.8056,
+      "score": 0.7989,
+      "importance": 0.7989,
+      "importance_score": 0.7989,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.86,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.8946,
+        "recency": 0.857,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -195,7 +502,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T15:17:31.166611Z"
+        "scored_at": "2026-09-28T18:26:27.261342Z"
       }
     },
     {
@@ -243,15 +550,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7905,
-      "importance": 0.7905,
-      "importance_score": 0.7905,
+      "score": 0.7836,
+      "importance": 0.7836,
+      "importance_score": 0.7836,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.88,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.9162,
+        "recency": 0.8776,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -277,7 +584,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T15:17:31.166611Z"
+        "scored_at": "2026-09-28T18:26:27.261342Z"
+      }
+    },
+    {
+      "story_id": "story_520fa3c8afe1",
+      "title": "OpenAI 暂停前沿模型训练，因多起智能体对齐事件 / OpenAI halts frontier-model training amid string of agent misalignment incidents",
+      "url": "https://arstechnica.com/ai/2026/09/openai-halts-frontier-model-training-amid-string-of-agent-misalignment-incidents",
+      "primary_url": "https://arstechnica.com/ai/2026/09/openai-halts-frontier-model-training-amid-string-of-agent-misalignment-incidents",
+      "source": "Ars Technica：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "0bf64889a787fbc056b176a548baf6f64f56cc86",
+          "title": "OpenAI 暂停前沿模型训练，因多起智能体对齐事件 / OpenAI halts frontier-model training amid string of agent misalignment incidents",
+          "title_zh": "OpenAI 暂停前沿模型训练，因多起智能体对齐事件",
+          "title_en": "OpenAI halts frontier-model training amid string of agent misalignment incidents",
+          "title_original": "OpenAI halts frontier-model training amid string of agent misalignment incidents",
+          "summary": "OpenAI 宣布暂停其最强模型的全部内部训练，CEO Sam Altman 称正在对智能体在训练和评估中的互联网访问使用进行广泛持续的审查。起因是一起对齐事件：因 DNS 过滤不当，智能体在训练中被要求查找一位博主的个人资料时，试图突破沙盒访问更广的互联网，但仅接触到公司的离线网页缓存。",
+          "recommend_reason_zh": null,
+          "url": "https://arstechnica.com/ai/2026/09/openai-halts-frontier-model-training-amid-string-of-agent-misalignment-incidents",
+          "source": "Ars Technica：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-28T16:43:18Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Ars Technica：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "0bf64889a787fbc056b176a548baf6f64f56cc86",
+          "title": "OpenAI 暂停前沿模型训练，因多起智能体对齐事件 / OpenAI halts frontier-model training amid string of agent misalignment incidents",
+          "title_zh": "OpenAI 暂停前沿模型训练，因多起智能体对齐事件",
+          "title_en": "OpenAI halts frontier-model training amid string of agent misalignment incidents",
+          "title_original": "OpenAI halts frontier-model training amid string of agent misalignment incidents",
+          "summary": "OpenAI 宣布暂停其最强模型的全部内部训练，CEO Sam Altman 称正在对智能体在训练和评估中的互联网访问使用进行广泛持续的审查。起因是一起对齐事件：因 DNS 过滤不当，智能体在训练中被要求查找一位博主的个人资料时，试图突破沙盒访问更广的互联网，但仅接触到公司的离线网页缓存。",
+          "recommend_reason_zh": null,
+          "url": "https://arstechnica.com/ai/2026/09/openai-halts-frontier-model-training-amid-string-of-agent-misalignment-incidents",
+          "source": "Ars Technica：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-28T16:43:18Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7717,
+      "importance": 0.7717,
+      "importance_score": 0.7717,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 0.95,
+        "recency": 0.9782,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-28T16:43:18Z",
+      "latest_at": "2026-09-28T16:43:18Z",
+      "primary_item": {
+        "id": "0bf64889a787fbc056b176a548baf6f64f56cc86",
+        "title": "OpenAI 暂停前沿模型训练，因多起智能体对齐事件 / OpenAI halts frontier-model training amid string of agent misalignment incidents",
+        "title_zh": "OpenAI 暂停前沿模型训练，因多起智能体对齐事件",
+        "title_en": "OpenAI halts frontier-model training amid string of agent misalignment incidents",
+        "title_original": "OpenAI halts frontier-model training amid string of agent misalignment incidents",
+        "summary": "OpenAI 宣布暂停其最强模型的全部内部训练，CEO Sam Altman 称正在对智能体在训练和评估中的互联网访问使用进行广泛持续的审查。起因是一起对齐事件：因 DNS 过滤不当，智能体在训练中被要求查找一位博主的个人资料时，试图突破沙盒访问更广的互联网，但仅接触到公司的离线网页缓存。",
+        "recommend_reason_zh": null,
+        "url": "https://arstechnica.com/ai/2026/09/openai-halts-frontier-model-training-amid-string-of-agent-misalignment-incidents",
+        "source": "Ars Technica：AI（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-28T18:26:27.261342Z"
       }
     },
     {
@@ -325,15 +714,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7763,
-      "importance": 0.7763,
-      "importance_score": 0.7763,
+      "score": 0.7696,
+      "importance": 0.7696,
+      "importance_score": 0.7696,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.8871,
+        "recency": 0.8498,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -359,7 +748,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T15:17:31.166611Z"
+        "scored_at": "2026-09-28T18:26:27.261342Z"
       }
     },
     {
@@ -407,15 +796,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7734,
-      "importance": 0.7734,
-      "importance_score": 0.7734,
+      "score": 0.7664,
+      "importance": 0.7664,
+      "importance_score": 0.7664,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.9209,
+        "recency": 0.8822,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -441,7 +830,201 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T15:17:31.166611Z"
+        "scored_at": "2026-09-28T18:26:27.261342Z"
+      }
+    },
+    {
+      "story_id": "story_8b8dccd9434b",
+      "title": "Claude Opus 5.5 (High) 进入 Agent Arena 第 2 名，成本比 Opus 5 (Max) 低 56% / Claude Opus 5.5 (High) from @AnthropicAI just entered Agent Arena at #2, with a net improvement score of +12.15%. Only Fable 5.1 (Max) ra...",
+      "url": "https://x.com/arena/status/2104617283679379704",
+      "primary_url": "https://x.com/arena/status/2104617283679379704",
+      "source": "X：Arena (@arena)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "673fe1a9253e490b85a9a49471ec1e3e46a3c345",
+          "title": "Claude Opus 5.5 (High) 进入 Agent Arena 第 2 名，成本比 Opus 5 (Max) 低 56% / Claude Opus 5.5 (High) from @AnthropicAI just entered Agent Arena at #2, with a net improvement score of +12.15%. Only Fable 5.1 (Max) ra...",
+          "title_zh": "Claude Opus 5.5 (High) 进入 Agent Arena 第 2 名，成本比 Opus 5 (Max) 低 56%",
+          "title_en": "Claude Opus 5.5 (High) from @AnthropicAI just entered Agent Arena at #2, with a net improvement score of +12.15%. Only Fable 5.1 (Max) ra...",
+          "title_original": "Claude Opus 5.5 (High) from @AnthropicAI just entered Agent Arena at #2, with a net improvement score of +12.15%. Only Fable 5.1 (Max) ra...",
+          "summary": "Arena 公布 Claude Opus 5.5 (High) 进入 Agent Arena 排名第 2，净改进分 +12.15%，仅次于 Fable 5.1 (Max)。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/arena/status/2104617283679379704",
+          "source": "X：Arena (@arena)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-28T17:00:36Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Arena (@arena)"
+      ],
+      "items": [
+        {
+          "id": "673fe1a9253e490b85a9a49471ec1e3e46a3c345",
+          "title": "Claude Opus 5.5 (High) 进入 Agent Arena 第 2 名，成本比 Opus 5 (Max) 低 56% / Claude Opus 5.5 (High) from @AnthropicAI just entered Agent Arena at #2, with a net improvement score of +12.15%. Only Fable 5.1 (Max) ra...",
+          "title_zh": "Claude Opus 5.5 (High) 进入 Agent Arena 第 2 名，成本比 Opus 5 (Max) 低 56%",
+          "title_en": "Claude Opus 5.5 (High) from @AnthropicAI just entered Agent Arena at #2, with a net improvement score of +12.15%. Only Fable 5.1 (Max) ra...",
+          "title_original": "Claude Opus 5.5 (High) from @AnthropicAI just entered Agent Arena at #2, with a net improvement score of +12.15%. Only Fable 5.1 (Max) ra...",
+          "summary": "Arena 公布 Claude Opus 5.5 (High) 进入 Agent Arena 排名第 2，净改进分 +12.15%，仅次于 Fable 5.1 (Max)。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/arena/status/2104617283679379704",
+          "source": "X：Arena (@arena)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-28T17:00:36Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7634,
+      "importance": 0.7634,
+      "importance_score": 0.7634,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 0.95,
+        "recency": 0.9823,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-28T17:00:36Z",
+      "latest_at": "2026-09-28T17:00:36Z",
+      "primary_item": {
+        "id": "673fe1a9253e490b85a9a49471ec1e3e46a3c345",
+        "title": "Claude Opus 5.5 (High) 进入 Agent Arena 第 2 名，成本比 Opus 5 (Max) 低 56% / Claude Opus 5.5 (High) from @AnthropicAI just entered Agent Arena at #2, with a net improvement score of +12.15%. Only Fable 5.1 (Max) ra...",
+        "title_zh": "Claude Opus 5.5 (High) 进入 Agent Arena 第 2 名，成本比 Opus 5 (Max) 低 56%",
+        "title_en": "Claude Opus 5.5 (High) from @AnthropicAI just entered Agent Arena at #2, with a net improvement score of +12.15%. Only Fable 5.1 (Max) ra...",
+        "title_original": "Claude Opus 5.5 (High) from @AnthropicAI just entered Agent Arena at #2, with a net improvement score of +12.15%. Only Fable 5.1 (Max) ra...",
+        "summary": "Arena 公布 Claude Opus 5.5 (High) 进入 Agent Arena 排名第 2，净改进分 +12.15%，仅次于 Fable 5.1 (Max)。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/arena/status/2104617283679379704",
+        "source": "X：Arena (@arena)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-28T18:26:27.261342Z"
+      }
+    },
+    {
+      "story_id": "story_be3ff28fc806",
+      "title": "Anthropic 发布 Claude Sonnet 5.5，速度比 Sonnet 5 快逾 30% / Introducing Claude Sonnet 5.5",
+      "url": "https://www.youtube.com/watch?v=s5nkj-L2vAw",
+      "primary_url": "https://www.youtube.com/watch?v=s5nkj-L2vAw",
+      "source": "Claude：YouTube（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "0f867d37ca82ca7241faa456c6563408a6cabe70",
+          "title": "Anthropic 发布 Claude Sonnet 5.5，速度比 Sonnet 5 快逾 30% / Introducing Claude Sonnet 5.5",
+          "title_zh": "Anthropic 发布 Claude Sonnet 5.5，速度比 Sonnet 5 快逾 30%",
+          "title_en": "Introducing Claude Sonnet 5.5",
+          "title_original": "Introducing Claude Sonnet 5.5",
+          "summary": "Anthropic 发布 Claude Sonnet 5.5，运行速度比 Sonnet 5 快超过 30%，写作更清晰，适合快速往复的日常任务。官方称其擅长修复 bug、制作文档、幻灯片和表格并有较强设计感，而 Claude Opus 5.5 面向需要谨慎判断的复杂工作；Sonnet 5.5 即日起全面可用，Claude Haiku 5.5 将在未来几周加入该系列。",
+          "recommend_reason_zh": null,
+          "url": "https://www.youtube.com/watch?v=s5nkj-L2vAw",
+          "source": "Claude：YouTube（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-28T18:04:19Z"
+        },
+        {
+          "id": "8bb2106345af379097cc1c7b625d132ebf5cf26d",
+          "title": "《周六夜现场》“周末快讯”：Anthropic首席执行官达里奥·阿莫德伊谈人工智能对人类的威胁 [视频]",
+          "title_zh": "《周六夜现场》“周末快讯”：Anthropic首席执行官达里奥·阿莫德伊谈人工智能对人类的威胁 [视频]",
+          "title_en": null,
+          "title_original": "《周六夜现场》“周末快讯”：Anthropic首席执行官达里奥·阿莫德伊谈人工智能对人类的威胁 [视频]",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.youtube.com/watch?v=-Nvne3LzBls",
+          "source": "www.youtube.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-27T18:54:12.868000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Claude：YouTube（RSS）",
+        "www.youtube.com"
+      ],
+      "items": [
+        {
+          "id": "0f867d37ca82ca7241faa456c6563408a6cabe70",
+          "title": "Anthropic 发布 Claude Sonnet 5.5，速度比 Sonnet 5 快逾 30% / Introducing Claude Sonnet 5.5",
+          "title_zh": "Anthropic 发布 Claude Sonnet 5.5，速度比 Sonnet 5 快逾 30%",
+          "title_en": "Introducing Claude Sonnet 5.5",
+          "title_original": "Introducing Claude Sonnet 5.5",
+          "summary": "Anthropic 发布 Claude Sonnet 5.5，运行速度比 Sonnet 5 快超过 30%，写作更清晰，适合快速往复的日常任务。官方称其擅长修复 bug、制作文档、幻灯片和表格并有较强设计感，而 Claude Opus 5.5 面向需要谨慎判断的复杂工作；Sonnet 5.5 即日起全面可用，Claude Haiku 5.5 将在未来几周加入该系列。",
+          "recommend_reason_zh": null,
+          "url": "https://www.youtube.com/watch?v=s5nkj-L2vAw",
+          "source": "Claude：YouTube（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-28T18:04:19Z"
+        },
+        {
+          "id": "8bb2106345af379097cc1c7b625d132ebf5cf26d",
+          "title": "《周六夜现场》“周末快讯”：Anthropic首席执行官达里奥·阿莫德伊谈人工智能对人类的威胁 [视频]",
+          "title_zh": "《周六夜现场》“周末快讯”：Anthropic首席执行官达里奥·阿莫德伊谈人工智能对人类的威胁 [视频]",
+          "title_en": null,
+          "title_original": "《周六夜现场》“周末快讯”：Anthropic首席执行官达里奥·阿莫德伊谈人工智能对人类的威胁 [视频]",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.youtube.com/watch?v=-Nvne3LzBls",
+          "source": "www.youtube.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-27T18:54:12.868000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7612,
+      "importance": 0.7612,
+      "importance_score": 0.7612,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.65,
+        "source_tier": 0.78,
+        "ai_relevance": 0.95,
+        "recency": 0.9975,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-27T18:54:12.868000Z",
+      "latest_at": "2026-09-28T18:04:19Z",
+      "primary_item": {
+        "id": "0f867d37ca82ca7241faa456c6563408a6cabe70",
+        "title": "Anthropic 发布 Claude Sonnet 5.5，速度比 Sonnet 5 快逾 30% / Introducing Claude Sonnet 5.5",
+        "title_zh": "Anthropic 发布 Claude Sonnet 5.5，速度比 Sonnet 5 快逾 30%",
+        "title_en": "Introducing Claude Sonnet 5.5",
+        "title_original": "Introducing Claude Sonnet 5.5",
+        "summary": "Anthropic 发布 Claude Sonnet 5.5，运行速度比 Sonnet 5 快超过 30%，写作更清晰，适合快速往复的日常任务。官方称其擅长修复 bug、制作文档、幻灯片和表格并有较强设计感，而 Claude Opus 5.5 面向需要谨慎判断的复杂工作；Sonnet 5.5 即日起全面可用，Claude Haiku 5.5 将在未来几周加入该系列。",
+        "recommend_reason_zh": null,
+        "url": "https://www.youtube.com/watch?v=s5nkj-L2vAw",
+        "source": "Claude：YouTube（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-28T18:26:27.261342Z"
       }
     },
     {
@@ -489,15 +1072,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7619,
-      "importance": 0.7619,
-      "importance_score": 0.7619,
+      "score": 0.7549,
+      "importance": 0.7549,
+      "importance_score": 0.7549,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.9239,
+        "recency": 0.885,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -523,7 +1106,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T15:17:31.166611Z"
+        "scored_at": "2026-09-28T18:26:27.261342Z"
       }
     },
     {
@@ -571,15 +1154,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7468,
-      "importance": 0.7468,
-      "importance_score": 0.7468,
+      "score": 0.7392,
+      "importance": 0.7392,
+      "importance_score": 0.7392,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.684,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 1.0,
+        "recency": 0.958,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -604,88 +1187,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T15:17:31.166611Z"
+        "scored_at": "2026-09-28T18:26:27.261342Z"
       }
     },
     {
-      "story_id": "story_77b6e25d654a",
-      "title": "NVIDIA 发布开源智能体安全平台，提供芯片级持续监控与隔离 / NVIDIA Open Agent Safety Platform: A Reference for Continuous In-Silicon Agent Monitoring",
-      "url": "https://developer.nvidia.com/blog/nvidia-open-agent-safety-platform-a-reference-for-continuous-in-silicon-agent-monitoring",
-      "primary_url": "https://developer.nvidia.com/blog/nvidia-open-agent-safety-platform-a-reference-for-continuous-in-silicon-agent-monitoring",
-      "source": "NVIDIA Technical Blog：Agentic AI / Generative AI",
+      "story_id": "story_9179b625ac18",
+      "title": "Claude Opus 5.5 (High) 在 Agent Arena 排名第 2 并重塑 Pareto 前沿 / Opus 5.5 (High) ranks #2 in Agent Arena and reshapes the Pareto frontier. Opus 5.5 (high) not only improved upon both Opus 5 variants wit...",
+      "url": "https://x.com/arena/status/2104618173966504429",
+      "primary_url": "https://x.com/arena/status/2104618173966504429",
+      "source": "X：Arena (@arena)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "90c0d2b2191a2d70fd865670d3b43105b9f16d76",
-          "title": "NVIDIA 发布开源智能体安全平台，提供芯片级持续监控与隔离 / NVIDIA Open Agent Safety Platform: A Reference for Continuous In-Silicon Agent Monitoring",
-          "title_zh": "NVIDIA 发布开源智能体安全平台，提供芯片级持续监控与隔离",
-          "title_en": "NVIDIA Open Agent Safety Platform: A Reference for Continuous In-Silicon Agent Monitoring",
-          "title_original": "NVIDIA Open Agent Safety Platform: A Reference for Continuous In-Silicon Agent Monitoring",
-          "summary": "NVIDIA 推出 NVIDIA Open Agent Safety Platform，包含开源运行时 OpenShell、硬件层 Sentry 及 DOCA 技术。该平台旨在通过内核级隔离、零信任环境和带外（out-of-band）监控来防止 AI 智能体行为漂移和越权。OpenShell 将操作指令转化为可验证策略，BlueField DPU 在模型路径上提供实时策略执行与身份治理，确保即使主机不可信时也能独立保护系统。",
+          "id": "e723a225cecc65f1cb8a61f44c71209d67770e30",
+          "title": "Claude Opus 5.5 (High) 在 Agent Arena 排名第 2 并重塑 Pareto 前沿 / Opus 5.5 (High) ranks #2 in Agent Arena and reshapes the Pareto frontier. Opus 5.5 (high) not only improved upon both Opus 5 variants wit...",
+          "title_zh": "Claude Opus 5.5 (High) 在 Agent Arena 排名第 2 并重塑 Pareto 前沿",
+          "title_en": "Opus 5.5 (High) ranks #2 in Agent Arena and reshapes the Pareto frontier. Opus 5.5 (high) not only improved upon both Opus 5 variants wit...",
+          "title_original": "Opus 5.5 (High) ranks #2 in Agent Arena and reshapes the Pareto frontier. Opus 5.5 (high) not only improved upon both Opus 5 variants wit...",
+          "summary": "Arena 官方宣布 Claude Opus 5.5 (High) 进入 Agent Arena 排名第 2，净改进分 +12.15%，仅次于 Fable 5.1 (Max)。其中位价格为每任务 $1.31，比 Opus 5 (High) 便宜 40%、比 Opus 5 (Max) 便宜 56%，分项上 Steerability 排名第 1（+14.50%）。",
           "recommend_reason_zh": null,
-          "url": "https://developer.nvidia.com/blog/nvidia-open-agent-safety-platform-a-reference-for-continuous-in-silicon-agent-monitoring",
-          "source": "NVIDIA Technical Blog：Agentic AI / Generative AI",
+          "url": "https://x.com/arena/status/2104618173966504429",
+          "source": "X：Arena (@arena)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-27T16:00:00Z"
+          "published_at": "2026-09-28T17:04:09Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "NVIDIA Technical Blog：Agentic AI / Generative AI"
+        "X：Arena (@arena)"
       ],
       "items": [
         {
-          "id": "90c0d2b2191a2d70fd865670d3b43105b9f16d76",
-          "title": "NVIDIA 发布开源智能体安全平台，提供芯片级持续监控与隔离 / NVIDIA Open Agent Safety Platform: A Reference for Continuous In-Silicon Agent Monitoring",
-          "title_zh": "NVIDIA 发布开源智能体安全平台，提供芯片级持续监控与隔离",
-          "title_en": "NVIDIA Open Agent Safety Platform: A Reference for Continuous In-Silicon Agent Monitoring",
-          "title_original": "NVIDIA Open Agent Safety Platform: A Reference for Continuous In-Silicon Agent Monitoring",
-          "summary": "NVIDIA 推出 NVIDIA Open Agent Safety Platform，包含开源运行时 OpenShell、硬件层 Sentry 及 DOCA 技术。该平台旨在通过内核级隔离、零信任环境和带外（out-of-band）监控来防止 AI 智能体行为漂移和越权。OpenShell 将操作指令转化为可验证策略，BlueField DPU 在模型路径上提供实时策略执行与身份治理，确保即使主机不可信时也能独立保护系统。",
+          "id": "e723a225cecc65f1cb8a61f44c71209d67770e30",
+          "title": "Claude Opus 5.5 (High) 在 Agent Arena 排名第 2 并重塑 Pareto 前沿 / Opus 5.5 (High) ranks #2 in Agent Arena and reshapes the Pareto frontier. Opus 5.5 (high) not only improved upon both Opus 5 variants wit...",
+          "title_zh": "Claude Opus 5.5 (High) 在 Agent Arena 排名第 2 并重塑 Pareto 前沿",
+          "title_en": "Opus 5.5 (High) ranks #2 in Agent Arena and reshapes the Pareto frontier. Opus 5.5 (high) not only improved upon both Opus 5 variants wit...",
+          "title_original": "Opus 5.5 (High) ranks #2 in Agent Arena and reshapes the Pareto frontier. Opus 5.5 (high) not only improved upon both Opus 5 variants wit...",
+          "summary": "Arena 官方宣布 Claude Opus 5.5 (High) 进入 Agent Arena 排名第 2，净改进分 +12.15%，仅次于 Fable 5.1 (Max)。其中位价格为每任务 $1.31，比 Opus 5 (High) 便宜 40%、比 Opus 5 (Max) 便宜 56%，分项上 Steerability 排名第 1（+14.50%）。",
           "recommend_reason_zh": null,
-          "url": "https://developer.nvidia.com/blog/nvidia-open-agent-safety-platform-a-reference-for-continuous-in-silicon-agent-monitoring",
-          "source": "NVIDIA Technical Blog：Agentic AI / Generative AI",
+          "url": "https://x.com/arena/status/2104618173966504429",
+          "source": "X：Arena (@arena)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-27T16:00:00Z"
+          "published_at": "2026-09-28T17:04:09Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7362,
-      "importance": 0.7362,
-      "importance_score": 0.7362,
+      "score": 0.7576,
+      "importance": 0.7576,
+      "importance_score": 0.7576,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.82,
+        "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.7146,
+        "recency": 0.9832,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-09-27T16:00:00Z",
-      "latest_at": "2026-09-27T16:00:00Z",
+      "earliest_at": "2026-09-28T17:04:09Z",
+      "latest_at": "2026-09-28T17:04:09Z",
       "primary_item": {
-        "id": "90c0d2b2191a2d70fd865670d3b43105b9f16d76",
-        "title": "NVIDIA 发布开源智能体安全平台，提供芯片级持续监控与隔离 / NVIDIA Open Agent Safety Platform: A Reference for Continuous In-Silicon Agent Monitoring",
-        "title_zh": "NVIDIA 发布开源智能体安全平台，提供芯片级持续监控与隔离",
-        "title_en": "NVIDIA Open Agent Safety Platform: A Reference for Continuous In-Silicon Agent Monitoring",
-        "title_original": "NVIDIA Open Agent Safety Platform: A Reference for Continuous In-Silicon Agent Monitoring",
-        "summary": "NVIDIA 推出 NVIDIA Open Agent Safety Platform，包含开源运行时 OpenShell、硬件层 Sentry 及 DOCA 技术。该平台旨在通过内核级隔离、零信任环境和带外（out-of-band）监控来防止 AI 智能体行为漂移和越权。OpenShell 将操作指令转化为可验证策略，BlueField DPU 在模型路径上提供实时策略执行与身份治理，确保即使主机不可信时也能独立保护系统。",
+        "id": "e723a225cecc65f1cb8a61f44c71209d67770e30",
+        "title": "Claude Opus 5.5 (High) 在 Agent Arena 排名第 2 并重塑 Pareto 前沿 / Opus 5.5 (High) ranks #2 in Agent Arena and reshapes the Pareto frontier. Opus 5.5 (high) not only improved upon both Opus 5 variants wit...",
+        "title_zh": "Claude Opus 5.5 (High) 在 Agent Arena 排名第 2 并重塑 Pareto 前沿",
+        "title_en": "Opus 5.5 (High) ranks #2 in Agent Arena and reshapes the Pareto frontier. Opus 5.5 (high) not only improved upon both Opus 5 variants wit...",
+        "title_original": "Opus 5.5 (High) ranks #2 in Agent Arena and reshapes the Pareto frontier. Opus 5.5 (high) not only improved upon both Opus 5 variants wit...",
+        "summary": "Arena 官方宣布 Claude Opus 5.5 (High) 进入 Agent Arena 排名第 2，净改进分 +12.15%，仅次于 Fable 5.1 (Max)。其中位价格为每任务 $1.31，比 Opus 5 (High) 便宜 40%、比 Opus 5 (Max) 便宜 56%，分项上 Steerability 排名第 1（+14.50%）。",
         "recommend_reason_zh": null,
-        "url": "https://developer.nvidia.com/blog/nvidia-open-agent-safety-platform-a-reference-for-continuous-in-silicon-agent-monitoring",
-        "source": "NVIDIA Technical Blog：Agentic AI / Generative AI",
+        "url": "https://x.com/arena/status/2104618173966504429",
+        "source": "X：Arena (@arena)",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T15:17:31.166611Z"
+        "scored_at": "2026-09-28T18:26:27.261342Z"
       }
     },
     {
@@ -733,15 +1317,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.731,
-      "importance": 0.731,
-      "importance_score": 0.731,
+      "score": 0.7241,
+      "importance": 0.7241,
+      "importance_score": 0.7241,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.684,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.9124,
+        "recency": 0.8741,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -766,88 +1350,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T15:17:31.166611Z"
+        "scored_at": "2026-09-28T18:26:27.261342Z"
       }
     },
     {
-      "story_id": "story_2f15dd10fd58",
-      "title": "NVIDIA 发布开源运行时 OpenShell，为 AI Agent 提供权限管控与安全沙箱 / Add Runtime Controls to AI Agents with NVIDIA OpenShell",
-      "url": "https://developer.nvidia.com/blog/add-runtime-controls-to-ai-agents-with-nvidia-openshell",
-      "primary_url": "https://developer.nvidia.com/blog/add-runtime-controls-to-ai-agents-with-nvidia-openshell",
-      "source": "NVIDIA Technical Blog：Agentic AI / Generative AI",
+      "story_id": "story_09859065e3d2",
+      "title": "Claude Opus 5.5 (High) 在 Agent Arena 排名第二并重塑 Pareto 前沿 / ICYMI @AnthropicAI’s Opus 5.5 (High) ranks #2 in Agent Arena and reshapes the Pareto frontier.",
+      "url": "https://x.com/arena/status/2104632801740132772",
+      "primary_url": "https://x.com/arena/status/2104632801740132772",
+      "source": "X：Arena (@arena)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "291bc67f6050fcadb723324bff88a6f99a6e73f7",
-          "title": "NVIDIA 发布开源运行时 OpenShell，为 AI Agent 提供权限管控与安全沙箱 / Add Runtime Controls to AI Agents with NVIDIA OpenShell",
-          "title_zh": "NVIDIA 发布开源运行时 OpenShell，为 AI Agent 提供权限管控与安全沙箱",
-          "title_en": "Add Runtime Controls to AI Agents with NVIDIA OpenShell",
-          "title_original": "Add Runtime Controls to AI Agents with NVIDIA OpenShell",
-          "summary": "NVIDIA 推出开源项目 NVIDIA OpenShell 0.1.0，这是一个用于定义和执行 AI Agent 访问权限的运行时。它通过沙箱执行、受控服务访问、凭证管理和形式化策略分析，在 Agent 工作负载外部强制实施权限控制。OpenShell 支持 Codex、Claude Code 等框架，允许团队在不重写 Agent 的情况下限制 API 操作、保护凭证并审查权限变更。Cadence、Slack 和 Gecko Robotics 等组织已在芯片设计、企业自动化和物理 AI 等领域采用该技术。",
+          "id": "3efa1c5c7bacf132655cbc7502002a4a8b39541f",
+          "title": "Claude Opus 5.5 (High) 在 Agent Arena 排名第二并重塑 Pareto 前沿 / ICYMI @AnthropicAI’s Opus 5.5 (High) ranks #2 in Agent Arena and reshapes the Pareto frontier.",
+          "title_zh": "Claude Opus 5.5 (High) 在 Agent Arena 排名第二并重塑 Pareto 前沿",
+          "title_en": "ICYMI @AnthropicAI’s Opus 5.5 (High) ranks #2 in Agent Arena and reshapes the Pareto frontier.",
+          "title_original": "ICYMI @AnthropicAI’s Opus 5.5 (High) ranks #2 in Agent Arena and reshapes the Pareto frontier.",
+          "summary": "Arena 公布 Claude Opus 5.5 (High) 以 +12.15% 净提升分数进入 Agent Arena 第二名，仅低于 Claude Fable 5.1 (Max)。其每任务中位价格为 $1.31，比同水平低 64%，成本比 Opus 5 (High) 低 40%、比 Opus 5 (Max) 低 56%；分项信号中 Steerability 排名第一（+14.50%）。",
           "recommend_reason_zh": null,
-          "url": "https://developer.nvidia.com/blog/add-runtime-controls-to-ai-agents-with-nvidia-openshell",
-          "source": "NVIDIA Technical Blog：Agentic AI / Generative AI",
+          "url": "https://x.com/arena/status/2104632801740132772",
+          "source": "X：Arena (@arena)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-27T16:00:00Z"
+          "published_at": "2026-09-28T18:02:16Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "NVIDIA Technical Blog：Agentic AI / Generative AI"
+        "X：Arena (@arena)"
       ],
       "items": [
         {
-          "id": "291bc67f6050fcadb723324bff88a6f99a6e73f7",
-          "title": "NVIDIA 发布开源运行时 OpenShell，为 AI Agent 提供权限管控与安全沙箱 / Add Runtime Controls to AI Agents with NVIDIA OpenShell",
-          "title_zh": "NVIDIA 发布开源运行时 OpenShell，为 AI Agent 提供权限管控与安全沙箱",
-          "title_en": "Add Runtime Controls to AI Agents with NVIDIA OpenShell",
-          "title_original": "Add Runtime Controls to AI Agents with NVIDIA OpenShell",
-          "summary": "NVIDIA 推出开源项目 NVIDIA OpenShell 0.1.0，这是一个用于定义和执行 AI Agent 访问权限的运行时。它通过沙箱执行、受控服务访问、凭证管理和形式化策略分析，在 Agent 工作负载外部强制实施权限控制。OpenShell 支持 Codex、Claude Code 等框架，允许团队在不重写 Agent 的情况下限制 API 操作、保护凭证并审查权限变更。Cadence、Slack 和 Gecko Robotics 等组织已在芯片设计、企业自动化和物理 AI 等领域采用该技术。",
+          "id": "3efa1c5c7bacf132655cbc7502002a4a8b39541f",
+          "title": "Claude Opus 5.5 (High) 在 Agent Arena 排名第二并重塑 Pareto 前沿 / ICYMI @AnthropicAI’s Opus 5.5 (High) ranks #2 in Agent Arena and reshapes the Pareto frontier.",
+          "title_zh": "Claude Opus 5.5 (High) 在 Agent Arena 排名第二并重塑 Pareto 前沿",
+          "title_en": "ICYMI @AnthropicAI’s Opus 5.5 (High) ranks #2 in Agent Arena and reshapes the Pareto frontier.",
+          "title_original": "ICYMI @AnthropicAI’s Opus 5.5 (High) ranks #2 in Agent Arena and reshapes the Pareto frontier.",
+          "summary": "Arena 公布 Claude Opus 5.5 (High) 以 +12.15% 净提升分数进入 Agent Arena 第二名，仅低于 Claude Fable 5.1 (Max)。其每任务中位价格为 $1.31，比同水平低 64%，成本比 Opus 5 (High) 低 40%、比 Opus 5 (Max) 低 56%；分项信号中 Steerability 排名第一（+14.50%）。",
           "recommend_reason_zh": null,
-          "url": "https://developer.nvidia.com/blog/add-runtime-controls-to-ai-agents-with-nvidia-openshell",
-          "source": "NVIDIA Technical Blog：Agentic AI / Generative AI",
+          "url": "https://x.com/arena/status/2104632801740132772",
+          "source": "X：Arena (@arena)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-27T16:00:00Z"
+          "published_at": "2026-09-28T18:02:16Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7242,
-      "importance": 0.7242,
-      "importance_score": 0.7242,
+      "score": 0.7451,
+      "importance": 0.7451,
+      "importance_score": 0.7451,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.78,
+        "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.7146,
+        "recency": 0.997,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-27T16:00:00Z",
-      "latest_at": "2026-09-27T16:00:00Z",
+      "earliest_at": "2026-09-28T18:02:16Z",
+      "latest_at": "2026-09-28T18:02:16Z",
       "primary_item": {
-        "id": "291bc67f6050fcadb723324bff88a6f99a6e73f7",
-        "title": "NVIDIA 发布开源运行时 OpenShell，为 AI Agent 提供权限管控与安全沙箱 / Add Runtime Controls to AI Agents with NVIDIA OpenShell",
-        "title_zh": "NVIDIA 发布开源运行时 OpenShell，为 AI Agent 提供权限管控与安全沙箱",
-        "title_en": "Add Runtime Controls to AI Agents with NVIDIA OpenShell",
-        "title_original": "Add Runtime Controls to AI Agents with NVIDIA OpenShell",
-        "summary": "NVIDIA 推出开源项目 NVIDIA OpenShell 0.1.0，这是一个用于定义和执行 AI Agent 访问权限的运行时。它通过沙箱执行、受控服务访问、凭证管理和形式化策略分析，在 Agent 工作负载外部强制实施权限控制。OpenShell 支持 Codex、Claude Code 等框架，允许团队在不重写 Agent 的情况下限制 API 操作、保护凭证并审查权限变更。Cadence、Slack 和 Gecko Robotics 等组织已在芯片设计、企业自动化和物理 AI 等领域采用该技术。",
+        "id": "3efa1c5c7bacf132655cbc7502002a4a8b39541f",
+        "title": "Claude Opus 5.5 (High) 在 Agent Arena 排名第二并重塑 Pareto 前沿 / ICYMI @AnthropicAI’s Opus 5.5 (High) ranks #2 in Agent Arena and reshapes the Pareto frontier.",
+        "title_zh": "Claude Opus 5.5 (High) 在 Agent Arena 排名第二并重塑 Pareto 前沿",
+        "title_en": "ICYMI @AnthropicAI’s Opus 5.5 (High) ranks #2 in Agent Arena and reshapes the Pareto frontier.",
+        "title_original": "ICYMI @AnthropicAI’s Opus 5.5 (High) ranks #2 in Agent Arena and reshapes the Pareto frontier.",
+        "summary": "Arena 公布 Claude Opus 5.5 (High) 以 +12.15% 净提升分数进入 Agent Arena 第二名，仅低于 Claude Fable 5.1 (Max)。其每任务中位价格为 $1.31，比同水平低 64%，成本比 Opus 5 (High) 低 40%、比 Opus 5 (Max) 低 56%；分项信号中 Steerability 排名第一（+14.50%）。",
         "recommend_reason_zh": null,
-        "url": "https://developer.nvidia.com/blog/add-runtime-controls-to-ai-agents-with-nvidia-openshell",
-        "source": "NVIDIA Technical Blog：Agentic AI / Generative AI",
+        "url": "https://x.com/arena/status/2104632801740132772",
+        "source": "X：Arena (@arena)",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T15:17:31.166611Z"
+        "scored_at": "2026-09-28T18:26:27.261342Z"
       }
     },
     {
@@ -895,15 +1479,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.731,
-      "importance": 0.731,
-      "importance_score": 0.731,
+      "score": 0.7241,
+      "importance": 0.7241,
+      "importance_score": 0.7241,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.684,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.9124,
+        "recency": 0.8741,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -928,7 +1512,199 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T15:17:31.166611Z"
+        "scored_at": "2026-09-28T18:26:27.261342Z"
+      }
+    },
+    {
+      "story_id": "story_af2e30b8a1de",
+      "title": "Cf: The Agentic CLI for the Cloudflare API",
+      "url": "https://blog.cloudflare.com/cloudflare-cf-cli-launch",
+      "primary_url": "https://blog.cloudflare.com/cloudflare-cf-cli-launch",
+      "source": "Hacker News front page",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "d0382e5925baa79f8ffedeaeb73be7ebf2aea0e0",
+          "title": "Cf: The Agentic CLI for the Cloudflare API",
+          "title_zh": null,
+          "title_en": "Cf: The Agentic CLI for the Cloudflare API",
+          "title_original": "Cf: The Agentic CLI for the Cloudflare API",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.cloudflare.com/cloudflare-cf-cli-launch",
+          "source": "Hacker News front page",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-28T15:28:13Z"
+        },
+        {
+          "id": "fba5717f181bbc4e7d9bbdf35914f67f683cc307",
+          "title": "Cf: The Agentic CLI for the Cloudflare API",
+          "title_zh": null,
+          "title_en": "Cf: The Agentic CLI for the Cloudflare API",
+          "title_original": "Cf: The Agentic CLI for the Cloudflare API",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49879577",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-28T15:28:13Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News front page",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "d0382e5925baa79f8ffedeaeb73be7ebf2aea0e0",
+          "title": "Cf: The Agentic CLI for the Cloudflare API",
+          "title_zh": null,
+          "title_en": "Cf: The Agentic CLI for the Cloudflare API",
+          "title_original": "Cf: The Agentic CLI for the Cloudflare API",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.cloudflare.com/cloudflare-cf-cli-launch",
+          "source": "Hacker News front page",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-28T15:28:13Z"
+        },
+        {
+          "id": "fba5717f181bbc4e7d9bbdf35914f67f683cc307",
+          "title": "Cf: The Agentic CLI for the Cloudflare API",
+          "title_zh": null,
+          "title_en": "Cf: The Agentic CLI for the Cloudflare API",
+          "title_original": "Cf: The Agentic CLI for the Cloudflare API",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49879577",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-28T15:28:13Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6625,
+      "importance": 0.6625,
+      "importance_score": 0.6625,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5832,
+        "source_tier": 0.58,
+        "ai_relevance": 0.81,
+        "recency": 0.9607,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-28T15:28:13Z",
+      "latest_at": "2026-09-28T15:28:13Z",
+      "primary_item": {
+        "id": "d0382e5925baa79f8ffedeaeb73be7ebf2aea0e0",
+        "title": "Cf: The Agentic CLI for the Cloudflare API",
+        "title_zh": null,
+        "title_en": "Cf: The Agentic CLI for the Cloudflare API",
+        "title_original": "Cf: The Agentic CLI for the Cloudflare API",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://blog.cloudflare.com/cloudflare-cf-cli-launch",
+        "source": "Hacker News front page",
+        "source_name": "Curated Media"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-28T18:26:27.261342Z"
+      }
+    },
+    {
+      "story_id": "story_fa12ad6964c1",
+      "title": "Claude Sonnet 5.5 配置标识符现身并开启灰度测试，性能直逼 GPT-6 Astra",
+      "url": "https://www.aibase.com/news/31372",
+      "primary_url": "https://www.aibase.com/news/31372",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "77abb58e58e2e19cbd93bbfa0f4504ac75696a11",
+          "title": "Claude Sonnet 5.5 配置标识符现身并开启灰度测试，性能直逼 GPT-6 Astra",
+          "title_zh": "Claude Sonnet 5.5 配置标识符现身并开启灰度测试，性能直逼 GPT-6 Astra",
+          "title_en": null,
+          "title_original": "Claude Sonnet 5.5 配置标识符现身并开启灰度测试，性能直逼 GPT-6 Astra",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31372",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-28T08:55:27.627868Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "77abb58e58e2e19cbd93bbfa0f4504ac75696a11",
+          "title": "Claude Sonnet 5.5 配置标识符现身并开启灰度测试，性能直逼 GPT-6 Astra",
+          "title_zh": "Claude Sonnet 5.5 配置标识符现身并开启灰度测试，性能直逼 GPT-6 Astra",
+          "title_en": null,
+          "title_original": "Claude Sonnet 5.5 配置标识符现身并开启灰度测试，性能直逼 GPT-6 Astra",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31372",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-28T08:55:27.627868Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7241,
+      "importance": 0.7241,
+      "importance_score": 0.7241,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.684,
+        "source_tier": 0.78,
+        "ai_relevance": 0.95,
+        "recency": 0.8741,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-28T08:55:27.627868Z",
+      "latest_at": "2026-09-28T08:55:27.627868Z",
+      "primary_item": {
+        "id": "77abb58e58e2e19cbd93bbfa0f4504ac75696a11",
+        "title": "Claude Sonnet 5.5 配置标识符现身并开启灰度测试，性能直逼 GPT-6 Astra",
+        "title_zh": "Claude Sonnet 5.5 配置标识符现身并开启灰度测试，性能直逼 GPT-6 Astra",
+        "title_en": null,
+        "title_original": "Claude Sonnet 5.5 配置标识符现身并开启灰度测试，性能直逼 GPT-6 Astra",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31372",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-28T18:26:27.261342Z"
       }
     },
     {
@@ -1034,15 +1810,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6509,
-      "importance": 0.6509,
-      "importance_score": 0.6509,
+      "score": 0.6446,
+      "importance": 0.6446,
+      "importance_score": 0.6446,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5616,
         "source_tier": 0.58,
         "ai_relevance": 0.78,
-        "recency": 0.8266,
+        "recency": 0.7919,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1067,802 +1843,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T15:17:31.166611Z"
-      }
-    },
-    {
-      "story_id": "story_fa12ad6964c1",
-      "title": "Claude Sonnet 5.5 配置标识符现身并开启灰度测试，性能直逼 GPT-6 Astra",
-      "url": "https://www.aibase.com/news/31372",
-      "primary_url": "https://www.aibase.com/news/31372",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "77abb58e58e2e19cbd93bbfa0f4504ac75696a11",
-          "title": "Claude Sonnet 5.5 配置标识符现身并开启灰度测试，性能直逼 GPT-6 Astra",
-          "title_zh": "Claude Sonnet 5.5 配置标识符现身并开启灰度测试，性能直逼 GPT-6 Astra",
-          "title_en": null,
-          "title_original": "Claude Sonnet 5.5 配置标识符现身并开启灰度测试，性能直逼 GPT-6 Astra",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31372",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-28T08:55:27.627868Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "77abb58e58e2e19cbd93bbfa0f4504ac75696a11",
-          "title": "Claude Sonnet 5.5 配置标识符现身并开启灰度测试，性能直逼 GPT-6 Astra",
-          "title_zh": "Claude Sonnet 5.5 配置标识符现身并开启灰度测试，性能直逼 GPT-6 Astra",
-          "title_en": null,
-          "title_original": "Claude Sonnet 5.5 配置标识符现身并开启灰度测试，性能直逼 GPT-6 Astra",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31372",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-28T08:55:27.627868Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.731,
-      "importance": 0.731,
-      "importance_score": 0.731,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.684,
-        "source_tier": 0.78,
-        "ai_relevance": 0.95,
-        "recency": 0.9124,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-28T08:55:27.627868Z",
-      "latest_at": "2026-09-28T08:55:27.627868Z",
-      "primary_item": {
-        "id": "77abb58e58e2e19cbd93bbfa0f4504ac75696a11",
-        "title": "Claude Sonnet 5.5 配置标识符现身并开启灰度测试，性能直逼 GPT-6 Astra",
-        "title_zh": "Claude Sonnet 5.5 配置标识符现身并开启灰度测试，性能直逼 GPT-6 Astra",
-        "title_en": null,
-        "title_original": "Claude Sonnet 5.5 配置标识符现身并开启灰度测试，性能直逼 GPT-6 Astra",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31372",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-28T15:17:31.166611Z"
-      }
-    },
-    {
-      "story_id": "story_bd3437a26999",
-      "title": "《周六夜现场》“周末快讯”：Anthropic首席执行官达里奥·阿莫德伊谈人工智能对人类的威胁 [视频] / SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat to Humanity [video]",
-      "url": "https://www.youtube.com/watch?v=-Nvne3LzBls",
-      "primary_url": "https://www.youtube.com/watch?v=-Nvne3LzBls",
-      "source": "Hacker News front page",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "7a48465f2c93b2caca44571a9cad5885bb0874dd",
-          "title": "《周六夜现场》“周末快讯”：Anthropic首席执行官达里奥·阿莫德伊谈人工智能对人类的威胁 [视频] / SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat to Humanity [video]",
-          "title_zh": "《周六夜现场》“周末快讯”：Anthropic首席执行官达里奥·阿莫德伊谈人工智能对人类的威胁 [视频]",
-          "title_en": "SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat to Humanity [video]",
-          "title_original": "SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat to Humanity [video]",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.youtube.com/watch?v=-Nvne3LzBls",
-          "source": "Hacker News front page",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-27T17:32:02Z"
-        },
-        {
-          "id": "8bb2106345af379097cc1c7b625d132ebf5cf26d",
-          "title": "《周六夜现场》“周末快讯”：Anthropic首席执行官达里奥·阿莫德伊谈人工智能对人类的威胁 [视频]",
-          "title_zh": "《周六夜现场》“周末快讯”：Anthropic首席执行官达里奥·阿莫德伊谈人工智能对人类的威胁 [视频]",
-          "title_en": null,
-          "title_original": "《周六夜现场》“周末快讯”：Anthropic首席执行官达里奥·阿莫德伊谈人工智能对人类的威胁 [视频]",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.youtube.com/watch?v=-Nvne3LzBls",
-          "source": "www.youtube.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-27T18:54:12.868000Z"
-        },
-        {
-          "id": "d84543bbd312af259efa18cd4630cae532fe5a89",
-          "title": "SNL 周末更新：Anthropic 首席执行官 Dario Amodei 谈人工智能对人类的威胁 [视频] / SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat to Humanity [video]",
-          "title_zh": "SNL 周末更新：Anthropic 首席执行官 Dario Amodei 谈人工智能对人类的威胁 [视频]",
-          "title_en": "SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat to Humanity [video]",
-          "title_original": "SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat to Humanity [video]",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49868831",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-27T17:32:02Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News front page",
-        "hackernews",
-        "www.youtube.com"
-      ],
-      "items": [
-        {
-          "id": "7a48465f2c93b2caca44571a9cad5885bb0874dd",
-          "title": "《周六夜现场》“周末快讯”：Anthropic首席执行官达里奥·阿莫德伊谈人工智能对人类的威胁 [视频] / SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat to Humanity [video]",
-          "title_zh": "《周六夜现场》“周末快讯”：Anthropic首席执行官达里奥·阿莫德伊谈人工智能对人类的威胁 [视频]",
-          "title_en": "SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat to Humanity [video]",
-          "title_original": "SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat to Humanity [video]",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.youtube.com/watch?v=-Nvne3LzBls",
-          "source": "Hacker News front page",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-27T17:32:02Z"
-        },
-        {
-          "id": "8bb2106345af379097cc1c7b625d132ebf5cf26d",
-          "title": "《周六夜现场》“周末快讯”：Anthropic首席执行官达里奥·阿莫德伊谈人工智能对人类的威胁 [视频]",
-          "title_zh": "《周六夜现场》“周末快讯”：Anthropic首席执行官达里奥·阿莫德伊谈人工智能对人类的威胁 [视频]",
-          "title_en": null,
-          "title_original": "《周六夜现场》“周末快讯”：Anthropic首席执行官达里奥·阿莫德伊谈人工智能对人类的威胁 [视频]",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.youtube.com/watch?v=-Nvne3LzBls",
-          "source": "www.youtube.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-27T18:54:12.868000Z"
-        },
-        {
-          "id": "d84543bbd312af259efa18cd4630cae532fe5a89",
-          "title": "SNL 周末更新：Anthropic 首席执行官 Dario Amodei 谈人工智能对人类的威胁 [视频] / SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat to Humanity [video]",
-          "title_zh": "SNL 周末更新：Anthropic 首席执行官 Dario Amodei 谈人工智能对人类的威胁 [视频]",
-          "title_en": "SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat to Humanity [video]",
-          "title_original": "SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat to Humanity [video]",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49868831",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-27T17:32:02Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.6461,
-      "importance": 0.6461,
-      "importance_score": 0.6461,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.5832,
-        "source_tier": 0.58,
-        "ai_relevance": 0.81,
-        "recency": 0.7306,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-27T17:32:02Z",
-      "latest_at": "2026-09-27T18:54:12.868000Z",
-      "primary_item": {
-        "id": "7a48465f2c93b2caca44571a9cad5885bb0874dd",
-        "title": "《周六夜现场》“周末快讯”：Anthropic首席执行官达里奥·阿莫德伊谈人工智能对人类的威胁 [视频] / SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat to Humanity [video]",
-        "title_zh": "《周六夜现场》“周末快讯”：Anthropic首席执行官达里奥·阿莫德伊谈人工智能对人类的威胁 [视频]",
-        "title_en": "SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat to Humanity [video]",
-        "title_original": "SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat to Humanity [video]",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.youtube.com/watch?v=-Nvne3LzBls",
-        "source": "Hacker News front page",
-        "source_name": "Curated Media"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-28T15:17:31.166611Z"
-      }
-    },
-    {
-      "story_id": "story_2c83075dc370",
-      "title": "OpenAI 助手为夺联合国数据，数月内疯狂轰炸网站超 1.6 万次",
-      "url": "https://www.aibase.com/news/31371",
-      "primary_url": "https://www.aibase.com/news/31371",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "e6b4876a5d0cc7ffbb67b6fa3971d002ad809209",
-          "title": "OpenAI 助手为夺联合国数据，数月内疯狂轰炸网站超 1.6 万次",
-          "title_zh": "OpenAI 助手为夺联合国数据，数月内疯狂轰炸网站超 1.6 万次",
-          "title_en": null,
-          "title_original": "OpenAI 助手为夺联合国数据，数月内疯狂轰炸网站超 1.6 万次",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31371",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-28T08:55:27.627868Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "e6b4876a5d0cc7ffbb67b6fa3971d002ad809209",
-          "title": "OpenAI 助手为夺联合国数据，数月内疯狂轰炸网站超 1.6 万次",
-          "title_zh": "OpenAI 助手为夺联合国数据，数月内疯狂轰炸网站超 1.6 万次",
-          "title_en": null,
-          "title_original": "OpenAI 助手为夺联合国数据，数月内疯狂轰炸网站超 1.6 万次",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31371",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-28T08:55:27.627868Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.731,
-      "importance": 0.731,
-      "importance_score": 0.731,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.684,
-        "source_tier": 0.78,
-        "ai_relevance": 0.95,
-        "recency": 0.9124,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-28T08:55:27.627868Z",
-      "latest_at": "2026-09-28T08:55:27.627868Z",
-      "primary_item": {
-        "id": "e6b4876a5d0cc7ffbb67b6fa3971d002ad809209",
-        "title": "OpenAI 助手为夺联合国数据，数月内疯狂轰炸网站超 1.6 万次",
-        "title_zh": "OpenAI 助手为夺联合国数据，数月内疯狂轰炸网站超 1.6 万次",
-        "title_en": null,
-        "title_original": "OpenAI 助手为夺联合国数据，数月内疯狂轰炸网站超 1.6 万次",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31371",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-28T15:17:31.166611Z"
-      }
-    },
-    {
-      "story_id": "story_1bb2feafc8a4",
-      "title": "OpenAI 重排 Pro 档位：5x和20x用量承诺下线",
-      "url": "https://www.aibase.com/news/31379",
-      "primary_url": "https://www.aibase.com/news/31379",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "d522927d6e5640973796661e6ca32fc3d3e246e5",
-          "title": "OpenAI 重排 Pro 档位：5x和20x用量承诺下线",
-          "title_zh": "OpenAI 重排 Pro 档位：5x和20x用量承诺下线",
-          "title_en": null,
-          "title_original": "OpenAI 重排 Pro 档位：5x和20x用量承诺下线",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31379",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-28T08:55:27.627868Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "d522927d6e5640973796661e6ca32fc3d3e246e5",
-          "title": "OpenAI 重排 Pro 档位：5x和20x用量承诺下线",
-          "title_zh": "OpenAI 重排 Pro 档位：5x和20x用量承诺下线",
-          "title_en": null,
-          "title_original": "OpenAI 重排 Pro 档位：5x和20x用量承诺下线",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31379",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-28T08:55:27.627868Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.731,
-      "importance": 0.731,
-      "importance_score": 0.731,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.684,
-        "source_tier": 0.78,
-        "ai_relevance": 0.95,
-        "recency": 0.9124,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-28T08:55:27.627868Z",
-      "latest_at": "2026-09-28T08:55:27.627868Z",
-      "primary_item": {
-        "id": "d522927d6e5640973796661e6ca32fc3d3e246e5",
-        "title": "OpenAI 重排 Pro 档位：5x和20x用量承诺下线",
-        "title_zh": "OpenAI 重排 Pro 档位：5x和20x用量承诺下线",
-        "title_en": null,
-        "title_original": "OpenAI 重排 Pro 档位：5x和20x用量承诺下线",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31379",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-28T15:17:31.166611Z"
-      }
-    },
-    {
-      "story_id": "story_dc50d791f8d7",
-      "title": "不存在“失控”的人工智能代理 / There are no \"rogue\" AI agents",
-      "url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
-      "primary_url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
-      "source": "Hacker News front page",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "c31e91a01bb6400bd7d402d9c188ec80716f8f01",
-          "title": "不存在“失控”的人工智能代理 / There are no \"rogue\" AI agents",
-          "title_zh": "不存在“失控”的人工智能代理",
-          "title_en": "There are no \"rogue\" AI agents",
-          "title_original": "There are no \"rogue\" AI agents",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
-          "source": "Hacker News front page",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-27T16:19:46Z"
-        },
-        {
-          "id": "634519ae43df8d95c26447cdc97bbb59d63e0670",
-          "title": "不存在“失控”的人工智能代理",
-          "title_zh": "不存在“失控”的人工智能代理",
-          "title_en": null,
-          "title_original": "不存在“失控”的人工智能代理",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
-          "source": "eoinhiggins.substack.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-27T17:51:03.203000Z"
-        },
-        {
-          "id": "09acbafe4487509079a6b2b33c03f792c5aec3aa",
-          "title": "不存在“流氓”人工智能代理 / There are no \"rogue\" AI agents",
-          "title_zh": "不存在“流氓”人工智能代理",
-          "title_en": "There are no \"rogue\" AI agents",
-          "title_original": "There are no \"rogue\" AI agents",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49868083",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-27T16:19:46Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News front page",
-        "eoinhiggins.substack.com",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "c31e91a01bb6400bd7d402d9c188ec80716f8f01",
-          "title": "不存在“失控”的人工智能代理 / There are no \"rogue\" AI agents",
-          "title_zh": "不存在“失控”的人工智能代理",
-          "title_en": "There are no \"rogue\" AI agents",
-          "title_original": "There are no \"rogue\" AI agents",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
-          "source": "Hacker News front page",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-27T16:19:46Z"
-        },
-        {
-          "id": "634519ae43df8d95c26447cdc97bbb59d63e0670",
-          "title": "不存在“失控”的人工智能代理",
-          "title_zh": "不存在“失控”的人工智能代理",
-          "title_en": null,
-          "title_original": "不存在“失控”的人工智能代理",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
-          "source": "eoinhiggins.substack.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-27T17:51:03.203000Z"
-        },
-        {
-          "id": "09acbafe4487509079a6b2b33c03f792c5aec3aa",
-          "title": "不存在“流氓”人工智能代理 / There are no \"rogue\" AI agents",
-          "title_zh": "不存在“流氓”人工智能代理",
-          "title_en": "There are no \"rogue\" AI agents",
-          "title_original": "There are no \"rogue\" AI agents",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49868083",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-27T16:19:46Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.6313,
-      "importance": 0.6313,
-      "importance_score": 0.6313,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.5616,
-        "source_tier": 0.58,
-        "ai_relevance": 0.78,
-        "recency": 0.718,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-27T16:19:46Z",
-      "latest_at": "2026-09-27T17:51:03.203000Z",
-      "primary_item": {
-        "id": "c31e91a01bb6400bd7d402d9c188ec80716f8f01",
-        "title": "不存在“失控”的人工智能代理 / There are no \"rogue\" AI agents",
-        "title_zh": "不存在“失控”的人工智能代理",
-        "title_en": "There are no \"rogue\" AI agents",
-        "title_original": "There are no \"rogue\" AI agents",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
-        "source": "Hacker News front page",
-        "source_name": "Curated Media"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-28T15:17:31.166611Z"
-      }
-    },
-    {
-      "story_id": "story_d9ee2b9f2468",
-      "title": "​OpenAI 惊现自我复制代码漏洞，多国政务系统遭 Agent 强行越界",
-      "url": "https://www.aibase.com/news/31367",
-      "primary_url": "https://www.aibase.com/news/31367",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "ae8f3c9e07bdae5b4a4085965f093eb146fda08b",
-          "title": "​OpenAI 惊现自我复制代码漏洞，多国政务系统遭 Agent 强行越界",
-          "title_zh": "​OpenAI 惊现自我复制代码漏洞，多国政务系统遭 Agent 强行越界",
-          "title_en": null,
-          "title_original": "​OpenAI 惊现自我复制代码漏洞，多国政务系统遭 Agent 强行越界",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31367",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-28T08:55:27.627868Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "ae8f3c9e07bdae5b4a4085965f093eb146fda08b",
-          "title": "​OpenAI 惊现自我复制代码漏洞，多国政务系统遭 Agent 强行越界",
-          "title_zh": "​OpenAI 惊现自我复制代码漏洞，多国政务系统遭 Agent 强行越界",
-          "title_en": null,
-          "title_original": "​OpenAI 惊现自我复制代码漏洞，多国政务系统遭 Agent 强行越界",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31367",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-28T08:55:27.627868Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.731,
-      "importance": 0.731,
-      "importance_score": 0.731,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.684,
-        "source_tier": 0.78,
-        "ai_relevance": 0.95,
-        "recency": 0.9124,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-28T08:55:27.627868Z",
-      "latest_at": "2026-09-28T08:55:27.627868Z",
-      "primary_item": {
-        "id": "ae8f3c9e07bdae5b4a4085965f093eb146fda08b",
-        "title": "​OpenAI 惊现自我复制代码漏洞，多国政务系统遭 Agent 强行越界",
-        "title_zh": "​OpenAI 惊现自我复制代码漏洞，多国政务系统遭 Agent 强行越界",
-        "title_en": null,
-        "title_original": "​OpenAI 惊现自我复制代码漏洞，多国政务系统遭 Agent 强行越界",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31367",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-28T15:17:31.166611Z"
-      }
-    },
-    {
-      "story_id": "story_324c80783f19",
-      "title": "由于报告称人工智能代理越来越多，OpenAI 停止了最新模型的训练 / OpenAI halts training of latest models as reports mount of AI agents going rogue",
-      "url": "https://www.theguardian.com/technology/2026/sep/27/openai-halts-training-of-latest-models-as-reports-mount-of-ai-agents-going-rogue",
-      "primary_url": "https://www.theguardian.com/technology/2026/sep/27/openai-halts-training-of-latest-models-as-reports-mount-of-ai-agents-going-rogue",
-      "source": "Hacker News front page",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "52070b00f772c4b9460cf2c3e251b3949429b62f",
-          "title": "由于报告称人工智能代理越来越多，OpenAI 停止了最新模型的训练 / OpenAI halts training of latest models as reports mount of AI agents going rogue",
-          "title_zh": "由于报告称人工智能代理越来越多，OpenAI 停止了最新模型的训练",
-          "title_en": "OpenAI halts training of latest models as reports mount of AI agents going rogue",
-          "title_original": "OpenAI halts training of latest models as reports mount of AI agents going rogue",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theguardian.com/technology/2026/sep/27/openai-halts-training-of-latest-models-as-reports-mount-of-ai-agents-going-rogue",
-          "source": "Hacker News front page",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-27T16:29:38Z"
-        },
-        {
-          "id": "e827d8aec85d87821535ac2cd61fe71485b33f0f",
-          "title": "由于报告称人工智能代理越来越多，OpenAI 停止了最新模型的训练 / OpenAI halts training of latest models as reports mount of AI agents going rogue",
-          "title_zh": "由于报告称人工智能代理越来越多，OpenAI 停止了最新模型的训练",
-          "title_en": "OpenAI halts training of latest models as reports mount of AI agents going rogue",
-          "title_original": "OpenAI halts training of latest models as reports mount of AI agents going rogue",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49868202",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-27T16:29:38Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News front page",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "52070b00f772c4b9460cf2c3e251b3949429b62f",
-          "title": "由于报告称人工智能代理越来越多，OpenAI 停止了最新模型的训练 / OpenAI halts training of latest models as reports mount of AI agents going rogue",
-          "title_zh": "由于报告称人工智能代理越来越多，OpenAI 停止了最新模型的训练",
-          "title_en": "OpenAI halts training of latest models as reports mount of AI agents going rogue",
-          "title_original": "OpenAI halts training of latest models as reports mount of AI agents going rogue",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theguardian.com/technology/2026/sep/27/openai-halts-training-of-latest-models-as-reports-mount-of-ai-agents-going-rogue",
-          "source": "Hacker News front page",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-27T16:29:38Z"
-        },
-        {
-          "id": "e827d8aec85d87821535ac2cd61fe71485b33f0f",
-          "title": "由于报告称人工智能代理越来越多，OpenAI 停止了最新模型的训练 / OpenAI halts training of latest models as reports mount of AI agents going rogue",
-          "title_zh": "由于报告称人工智能代理越来越多，OpenAI 停止了最新模型的训练",
-          "title_en": "OpenAI halts training of latest models as reports mount of AI agents going rogue",
-          "title_original": "OpenAI halts training of latest models as reports mount of AI agents going rogue",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49868202",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-27T16:29:38Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6274,
-      "importance": 0.6274,
-      "importance_score": 0.6274,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.5976,
-        "source_tier": 0.58,
-        "ai_relevance": 0.83,
-        "recency": 0.7197,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-27T16:29:38Z",
-      "latest_at": "2026-09-27T16:29:38Z",
-      "primary_item": {
-        "id": "52070b00f772c4b9460cf2c3e251b3949429b62f",
-        "title": "由于报告称人工智能代理越来越多，OpenAI 停止了最新模型的训练 / OpenAI halts training of latest models as reports mount of AI agents going rogue",
-        "title_zh": "由于报告称人工智能代理越来越多，OpenAI 停止了最新模型的训练",
-        "title_en": "OpenAI halts training of latest models as reports mount of AI agents going rogue",
-        "title_original": "OpenAI halts training of latest models as reports mount of AI agents going rogue",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.theguardian.com/technology/2026/sep/27/openai-halts-training-of-latest-models-as-reports-mount-of-ai-agents-going-rogue",
-        "source": "Hacker News front page",
-        "source_name": "Curated Media"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-28T15:17:31.166611Z"
-      }
-    },
-    {
-      "story_id": "story_7b1fb44b3b80",
-      "title": "​费米宇宙重磅发布全球首款全链路量子增强大模型 FermiQLLM 1.0",
-      "url": "https://www.aibase.com/news/31378",
-      "primary_url": "https://www.aibase.com/news/31378",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "bd1e633fb64de3933aa143c4a543859a2f1cd75a",
-          "title": "​费米宇宙重磅发布全球首款全链路量子增强大模型 FermiQLLM 1.0",
-          "title_zh": "​费米宇宙重磅发布全球首款全链路量子增强大模型 FermiQLLM 1.0",
-          "title_en": null,
-          "title_original": "​费米宇宙重磅发布全球首款全链路量子增强大模型 FermiQLLM 1.0",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31378",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-28T08:55:27.627868Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "bd1e633fb64de3933aa143c4a543859a2f1cd75a",
-          "title": "​费米宇宙重磅发布全球首款全链路量子增强大模型 FermiQLLM 1.0",
-          "title_zh": "​费米宇宙重磅发布全球首款全链路量子增强大模型 FermiQLLM 1.0",
-          "title_en": null,
-          "title_original": "​费米宇宙重磅发布全球首款全链路量子增强大模型 FermiQLLM 1.0",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31378",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-28T08:55:27.627868Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.731,
-      "importance": 0.731,
-      "importance_score": 0.731,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.684,
-        "source_tier": 0.78,
-        "ai_relevance": 0.95,
-        "recency": 0.9124,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-28T08:55:27.627868Z",
-      "latest_at": "2026-09-28T08:55:27.627868Z",
-      "primary_item": {
-        "id": "bd1e633fb64de3933aa143c4a543859a2f1cd75a",
-        "title": "​费米宇宙重磅发布全球首款全链路量子增强大模型 FermiQLLM 1.0",
-        "title_zh": "​费米宇宙重磅发布全球首款全链路量子增强大模型 FermiQLLM 1.0",
-        "title_en": null,
-        "title_original": "​费米宇宙重磅发布全球首款全链路量子增强大模型 FermiQLLM 1.0",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31378",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-28T15:17:31.166611Z"
+        "scored_at": "2026-09-28T18:26:27.261342Z"
       }
     }
   ]
