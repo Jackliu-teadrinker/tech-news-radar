@@ -1,43 +1,16 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-29T21:00:33.174646Z",
+  "generated_at": "2026-09-30T00:17:44.942904Z",
   "ok": true,
-  "active_count": 2,
+  "active_count": 0,
   "providers": [
     {
       "id": "openai",
       "name": "OpenAI",
       "status_url": "https://status.openai.com/",
       "ok": true,
-      "active_count": 2
+      "active_count": 0
     }
   ],
-  "incidents": [
-    {
-      "id": "01M3Q4RK1SM4EMK445GGPG7C0N",
-      "provider": "OpenAI",
-      "title": "Elevated errors across ChatGPT, Codex, and the API including the Agents API",
-      "title_zh": "Elevated errors across ChatGPT, Codex, and the API including the Agents API",
-      "status": "monitoring",
-      "impact": "minor",
-      "started_at": "2026-09-29T17:52:52Z",
-      "updated_at": "2026-09-29T19:39:36Z",
-      "message": "We have applied the mitigation and are monitoring the recovery.",
-      "affected_components": [],
-      "url": "https://status.openai.com/incidents/01M3Q4RK1SM4EMK445GGPG7C0N"
-    },
-    {
-      "id": "01M3Q4HMNP8SZ27DTZKW6F5BJ4",
-      "provider": "OpenAI",
-      "title": "Support available via email",
-      "title_zh": "Support available via email",
-      "status": "investigating",
-      "impact": "none",
-      "started_at": "2026-09-29T17:49:05Z",
-      "updated_at": "2026-09-29T18:50:38Z",
-      "message": "Our Help Center is available, but support chat remains unavailable. If you need assistance, you can browse the Help Center or email [[redacted-email]](mailto:[redacted-email] \"[redacted-email]\").",
-      "affected_components": [],
-      "url": "https://status.openai.com/incidents/01M3Q4HMNP8SZ27DTZKW6F5BJ4"
-    }
-  ]
+  "incidents": []
 }
