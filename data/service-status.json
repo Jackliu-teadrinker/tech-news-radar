@@ -1,16 +1,43 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-30T01:28:35.603982Z",
+  "generated_at": "2026-09-30T08:56:18.793761Z",
   "ok": true,
-  "active_count": 0,
+  "active_count": 2,
   "providers": [
     {
       "id": "openai",
       "name": "OpenAI",
       "status_url": "https://status.openai.com/",
       "ok": true,
-      "active_count": 0
+      "active_count": 2
     }
   ],
-  "incidents": []
+  "incidents": [
+    {
+      "id": "01M3R1T4FCR1337FBBYY9K2RPB",
+      "provider": "OpenAI",
+      "title": "Elevated errors in ChatGPT Space Pages",
+      "title_zh": "ChatGPT Space Pages 错误率升高",
+      "status": "monitoring",
+      "impact": "minor",
+      "started_at": "2026-09-30T02:20:32Z",
+      "updated_at": "2026-09-30T06:03:10Z",
+      "message": "We have applied the mitigation and are monitoring the recovery.",
+      "affected_components": [],
+      "url": "https://status.openai.com/incidents/01M3R1T4FCR1337FBBYY9K2RPB"
+    },
+    {
+      "id": "01M3RDNY37CAPQGRKPBVMNRT4K",
+      "provider": "OpenAI",
+      "title": "Elevated error rates for ChatGPT Pro and Plus users",
+      "title_zh": "Elevated error rates for ChatGPT Pro and Plus users",
+      "status": "monitoring",
+      "impact": "minor",
+      "started_at": "2026-09-30T05:47:57Z",
+      "updated_at": "2026-09-30T05:56:48Z",
+      "message": "We have applied the mitigation and are monitoring the recovery.",
+      "affected_components": [],
+      "url": "https://status.openai.com/incidents/01M3RDNY37CAPQGRKPBVMNRT4K"
+    }
+  ]
 }
