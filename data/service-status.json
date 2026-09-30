@@ -1,31 +1,18 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-30T19:55:36.466523Z",
+  "generated_at": "2026-09-30T20:57:31.115613Z",
   "ok": true,
-  "active_count": 2,
+  "active_count": 1,
   "providers": [
     {
       "id": "openai",
       "name": "OpenAI",
       "status_url": "https://status.openai.com/",
       "ok": true,
-      "active_count": 2
+      "active_count": 1
     }
   ],
   "incidents": [
-    {
-      "id": "01M3SMF1Q0TDCQVNYSXYG37QMR",
-      "provider": "OpenAI",
-      "title": "Elevated latency for some API requests",
-      "title_zh": "Elevated latency for some API requests",
-      "status": "monitoring",
-      "impact": "minor",
-      "started_at": "2026-09-30T17:05:46Z",
-      "updated_at": "2026-09-30T18:21:53Z",
-      "message": "We have applied the mitigation and are monitoring the recovery.",
-      "affected_components": [],
-      "url": "https://status.openai.com/incidents/01M3SMF1Q0TDCQVNYSXYG37QMR"
-    },
     {
       "id": "01M3R1T4FCR1337FBBYY9K2RPB",
       "provider": "OpenAI",
