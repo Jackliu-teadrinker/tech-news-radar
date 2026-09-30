@@ -1,15 +1,15 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-30T08:56:18.793761Z",
+  "generated_at": "2026-09-30T13:33:53.557762Z",
   "ok": true,
-  "active_count": 2,
+  "active_count": 1,
   "providers": [
     {
       "id": "openai",
       "name": "OpenAI",
       "status_url": "https://status.openai.com/",
       "ok": true,
-      "active_count": 2
+      "active_count": 1
     }
   ],
   "incidents": [
@@ -21,23 +21,10 @@
       "status": "monitoring",
       "impact": "minor",
       "started_at": "2026-09-30T02:20:32Z",
-      "updated_at": "2026-09-30T06:03:10Z",
-      "message": "We have applied the mitigation and are monitoring the recovery.",
+      "updated_at": "2026-09-30T10:34:34Z",
+      "message": "All impacted services are recovered, we are continuing to monitor for any reoccurrence.",
       "affected_components": [],
       "url": "https://status.openai.com/incidents/01M3R1T4FCR1337FBBYY9K2RPB"
-    },
-    {
-      "id": "01M3RDNY37CAPQGRKPBVMNRT4K",
-      "provider": "OpenAI",
-      "title": "Elevated error rates for ChatGPT Pro and Plus users",
-      "title_zh": "Elevated error rates for ChatGPT Pro and Plus users",
-      "status": "monitoring",
-      "impact": "minor",
-      "started_at": "2026-09-30T05:47:57Z",
-      "updated_at": "2026-09-30T05:56:48Z",
-      "message": "We have applied the mitigation and are monitoring the recovery.",
-      "affected_components": [],
-      "url": "https://status.openai.com/incidents/01M3RDNY37CAPQGRKPBVMNRT4K"
     }
   ]
 }
