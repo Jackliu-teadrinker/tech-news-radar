@@ -1,8 +1,91 @@
 {
-  "generated_at": "2026-10-01T14:23:46.696950Z",
+  "generated_at": "2026-10-01T17:07:18.118225Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_8116becccb3e",
+      "title": "How Albertsons Companies is reimagining retail from the inside out",
+      "url": "https://openai.com/index/albertsons-reimagining-retail",
+      "primary_url": "https://openai.com/index/albertsons-reimagining-retail",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "6e488d0758e975ef29e1b80511a79212fb036e7d",
+          "title": "How Albertsons Companies is reimagining retail from the inside out",
+          "title_zh": null,
+          "title_en": "How Albertsons Companies is reimagining retail from the inside out",
+          "title_original": "How Albertsons Companies is reimagining retail from the inside out",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/albertsons-reimagining-retail",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-01T16:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "6e488d0758e975ef29e1b80511a79212fb036e7d",
+          "title": "How Albertsons Companies is reimagining retail from the inside out",
+          "title_zh": null,
+          "title_en": "How Albertsons Companies is reimagining retail from the inside out",
+          "title_original": "How Albertsons Companies is reimagining retail from the inside out",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/albertsons-reimagining-retail",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-01T16:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8631,
+      "importance": 0.8631,
+      "importance_score": 0.8631,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.9839,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-01T16:00:00Z",
+      "latest_at": "2026-10-01T16:00:00Z",
+      "primary_item": {
+        "id": "6e488d0758e975ef29e1b80511a79212fb036e7d",
+        "title": "How Albertsons Companies is reimagining retail from the inside out",
+        "title_zh": null,
+        "title_en": "How Albertsons Companies is reimagining retail from the inside out",
+        "title_original": "How Albertsons Companies is reimagining retail from the inside out",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/albertsons-reimagining-retail",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-01T17:20:12.132217Z"
+      }
+    },
     {
       "story_id": "story_8db3959cb7d3",
       "title": "Google DeepMind 发布 Gemini 4 Argon，面向可信网络防御者先行开放 / Gemini 4 Argon: our next era of frontier intelligence",
@@ -48,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8281,
-      "importance": 0.8281,
-      "importance_score": 0.8281,
+      "score": 0.8227,
+      "importance": 0.8227,
+      "importance_score": 0.8227,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.767,
+        "recency": 0.7374,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,30 +166,112 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T14:25:03.663180Z"
+        "scored_at": "2026-10-01T17:20:12.132217Z"
       }
     },
     {
-      "story_id": "story_e79047166a33",
-      "title": "Actions Runner 控制器版本 0.15.0 / Actions Runner Controller release 0.15.0",
-      "url": "https://github.blog/changelog/2026-10-01-actions-runner-controller-release-0-15-0",
-      "primary_url": "https://github.blog/changelog/2026-10-01-actions-runner-controller-release-0-15-0",
+      "story_id": "story_a97a1140e735",
+      "title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+      "url": "https://huggingface.co/blog/allenai/olmocore3",
+      "primary_url": "https://huggingface.co/blog/allenai/olmocore3",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "78202bf035ab1fe86671d2c35b2b22badb7c1865",
+          "title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+          "title_zh": null,
+          "title_en": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+          "title_original": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/allenai/olmocore3",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-01T15:01:43Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "78202bf035ab1fe86671d2c35b2b22badb7c1865",
+          "title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+          "title_zh": null,
+          "title_en": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+          "title_original": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/allenai/olmocore3",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-01T15:01:43Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8226,
+      "importance": 0.8226,
+      "importance_score": 0.8226,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.79,
+        "recency": 0.9702,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-01T15:01:43Z",
+      "latest_at": "2026-10-01T15:01:43Z",
+      "primary_item": {
+        "id": "78202bf035ab1fe86671d2c35b2b22badb7c1865",
+        "title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+        "title_zh": null,
+        "title_en": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+        "title_original": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/allenai/olmocore3",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-01T17:20:12.132217Z"
+      }
+    },
+    {
+      "story_id": "story_e4ed42a08a07",
+      "title": "Code coverage uploads no longer fail CI for new branches",
+      "url": "https://github.blog/changelog/2026-10-01-code-coverage-uploads-no-longer-fail-ci-for-new-branches",
+      "primary_url": "https://github.blog/changelog/2026-10-01-code-coverage-uploads-no-longer-fail-ci-for-new-branches",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "47e637690129eb98c858037b42cdbb445190b3a6",
-          "title": "Actions Runner 控制器版本 0.15.0 / Actions Runner Controller release 0.15.0",
-          "title_zh": "Actions Runner 控制器版本 0.15.0",
-          "title_en": "Actions Runner Controller release 0.15.0",
-          "title_original": "Actions Runner Controller release 0.15.0",
+          "id": "08ac06ec77af73913bce3f0971b90477a877cc42",
+          "title": "Code coverage uploads no longer fail CI for new branches",
+          "title_zh": null,
+          "title_en": "Code coverage uploads no longer fail CI for new branches",
+          "title_original": "Code coverage uploads no longer fail CI for new branches",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-01-actions-runner-controller-release-0-15-0",
+          "url": "https://github.blog/changelog/2026-10-01-code-coverage-uploads-no-longer-fail-ci-for-new-branches",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-01T13:01:31Z"
+          "published_at": "2026-10-01T16:49:05Z"
         }
       ],
       "source_count": 1,
@@ -115,31 +280,31 @@
       ],
       "items": [
         {
-          "id": "47e637690129eb98c858037b42cdbb445190b3a6",
-          "title": "Actions Runner 控制器版本 0.15.0 / Actions Runner Controller release 0.15.0",
-          "title_zh": "Actions Runner 控制器版本 0.15.0",
-          "title_en": "Actions Runner Controller release 0.15.0",
-          "title_original": "Actions Runner Controller release 0.15.0",
+          "id": "08ac06ec77af73913bce3f0971b90477a877cc42",
+          "title": "Code coverage uploads no longer fail CI for new branches",
+          "title_zh": null,
+          "title_en": "Code coverage uploads no longer fail CI for new branches",
+          "title_original": "Code coverage uploads no longer fail CI for new branches",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-01-actions-runner-controller-release-0-15-0",
+          "url": "https://github.blog/changelog/2026-10-01-code-coverage-uploads-no-longer-fail-ci-for-new-branches",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-01T13:01:31Z"
+          "published_at": "2026-10-01T16:49:05Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8125,
-      "importance": 0.8125,
-      "importance_score": 0.8125,
+      "score": 0.8152,
+      "importance": 0.8152,
+      "importance_score": 0.8152,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.73,
-        "recency": 0.9804,
+        "recency": 0.9956,
         "story_heat": 0.0
       },
       "category": "official",
@@ -147,17 +312,17 @@
         "official_source",
         "high_importance"
       ],
-      "earliest_at": "2026-10-01T13:01:31Z",
-      "latest_at": "2026-10-01T13:01:31Z",
+      "earliest_at": "2026-10-01T16:49:05Z",
+      "latest_at": "2026-10-01T16:49:05Z",
       "primary_item": {
-        "id": "47e637690129eb98c858037b42cdbb445190b3a6",
-        "title": "Actions Runner 控制器版本 0.15.0 / Actions Runner Controller release 0.15.0",
-        "title_zh": "Actions Runner 控制器版本 0.15.0",
-        "title_en": "Actions Runner Controller release 0.15.0",
-        "title_original": "Actions Runner Controller release 0.15.0",
+        "id": "08ac06ec77af73913bce3f0971b90477a877cc42",
+        "title": "Code coverage uploads no longer fail CI for new branches",
+        "title_zh": null,
+        "title_en": "Code coverage uploads no longer fail CI for new branches",
+        "title_original": "Code coverage uploads no longer fail CI for new branches",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-01-actions-runner-controller-release-0-15-0",
+        "url": "https://github.blog/changelog/2026-10-01-code-coverage-uploads-no-longer-fail-ci-for-new-branches",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -165,7 +330,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T14:25:03.663180Z"
+        "scored_at": "2026-10-01T17:20:12.132217Z"
+      }
+    },
+    {
+      "story_id": "story_ca15d7ba627d",
+      "title": "Scheduled code scanning skips inactive repositories",
+      "url": "https://github.blog/changelog/2026-10-01-scheduled-code-scanning-skips-inactive-repositories",
+      "primary_url": "https://github.blog/changelog/2026-10-01-scheduled-code-scanning-skips-inactive-repositories",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "b7433e3222eaf9c8ec4ba92eaf22f1309d747ca3",
+          "title": "Scheduled code scanning skips inactive repositories",
+          "title_zh": null,
+          "title_en": "Scheduled code scanning skips inactive repositories",
+          "title_original": "Scheduled code scanning skips inactive repositories",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-01-scheduled-code-scanning-skips-inactive-repositories",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-01T16:49:15Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "b7433e3222eaf9c8ec4ba92eaf22f1309d747ca3",
+          "title": "Scheduled code scanning skips inactive repositories",
+          "title_zh": null,
+          "title_en": "Scheduled code scanning skips inactive repositories",
+          "title_original": "Scheduled code scanning skips inactive repositories",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-01-scheduled-code-scanning-skips-inactive-repositories",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-01T16:49:15Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8152,
+      "importance": 0.8152,
+      "importance_score": 0.8152,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.73,
+        "recency": 0.9957,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-01T16:49:15Z",
+      "latest_at": "2026-10-01T16:49:15Z",
+      "primary_item": {
+        "id": "b7433e3222eaf9c8ec4ba92eaf22f1309d747ca3",
+        "title": "Scheduled code scanning skips inactive repositories",
+        "title_zh": null,
+        "title_en": "Scheduled code scanning skips inactive repositories",
+        "title_original": "Scheduled code scanning skips inactive repositories",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-10-01-scheduled-code-scanning-skips-inactive-repositories",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-01T17:20:12.132217Z"
       }
     },
     {
@@ -213,15 +460,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7667,
-      "importance": 0.7667,
-      "importance_score": 0.7667,
+      "score": 0.76,
+      "importance": 0.76,
+      "importance_score": 0.76,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.9673,
+        "recency": 0.93,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -247,7 +494,171 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T14:25:03.663180Z"
+        "scored_at": "2026-10-01T17:20:12.132217Z"
+      }
+    },
+    {
+      "story_id": "story_9cc7967eae69",
+      "title": "GitHub async merge API generally available",
+      "url": "https://github.blog/changelog/2026-10-01-github-async-merge-api-generally-available",
+      "primary_url": "https://github.blog/changelog/2026-10-01-github-async-merge-api-generally-available",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "b634ab68c720406b68a7507a5ef939761ac20704",
+          "title": "GitHub async merge API generally available",
+          "title_zh": null,
+          "title_en": "GitHub async merge API generally available",
+          "title_original": "GitHub async merge API generally available",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-01-github-async-merge-api-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-01T14:00:51Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "b634ab68c720406b68a7507a5ef939761ac20704",
+          "title": "GitHub async merge API generally available",
+          "title_zh": null,
+          "title_en": "GitHub async merge API generally available",
+          "title_original": "GitHub async merge API generally available",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-01-github-async-merge-api-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-01T14:00:51Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8141,
+      "importance": 0.8141,
+      "importance_score": 0.8141,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.76,
+        "recency": 0.9561,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-01T14:00:51Z",
+      "latest_at": "2026-10-01T14:00:51Z",
+      "primary_item": {
+        "id": "b634ab68c720406b68a7507a5ef939761ac20704",
+        "title": "GitHub async merge API generally available",
+        "title_zh": null,
+        "title_en": "GitHub async merge API generally available",
+        "title_original": "GitHub async merge API generally available",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-10-01-github-async-merge-api-generally-available",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-01T17:20:12.132217Z"
+      }
+    },
+    {
+      "story_id": "story_6b623c4d0459",
+      "title": "Claude Sonnet 5.5 (xHigh) 以 1786 分登 Code Arena: WebDev 第 3 名 / Exciting update: Claude Sonnet 5.5 with xHigh reasoning has landed in the Code Arena: WebDev. With 1786 pts, its ranked #3!",
+      "url": "https://x.com/arena/status/2105702037849841954",
+      "primary_url": "https://x.com/arena/status/2105702037849841954",
+      "source": "X：Arena (@arena)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "44b6ef20e792986c3637456af67b1517a109d3e3",
+          "title": "Claude Sonnet 5.5 (xHigh) 以 1786 分登 Code Arena: WebDev 第 3 名 / Exciting update: Claude Sonnet 5.5 with xHigh reasoning has landed in the Code Arena: WebDev. With 1786 pts, its ranked #3!",
+          "title_zh": "Claude Sonnet 5.5 (xHigh) 以 1786 分登 Code Arena: WebDev 第 3 名",
+          "title_en": "Exciting update: Claude Sonnet 5.5 with xHigh reasoning has landed in the Code Arena: WebDev. With 1786 pts, its ranked #3!",
+          "title_original": "Exciting update: Claude Sonnet 5.5 with xHigh reasoning has landed in the Code Arena: WebDev. With 1786 pts, its ranked #3!",
+          "summary": "Arena 宣布 Claude Sonnet 5.5（xHigh）进入 Code Arena: WebDev 榜单，以 1786 分排名第 3，距第 2 名 GPT-6 Astra 的 1788 分仅差 2 分。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/arena/status/2105702037849841954",
+          "source": "X：Arena (@arena)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-01T16:51:02Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Arena (@arena)"
+      ],
+      "items": [
+        {
+          "id": "44b6ef20e792986c3637456af67b1517a109d3e3",
+          "title": "Claude Sonnet 5.5 (xHigh) 以 1786 分登 Code Arena: WebDev 第 3 名 / Exciting update: Claude Sonnet 5.5 with xHigh reasoning has landed in the Code Arena: WebDev. With 1786 pts, its ranked #3!",
+          "title_zh": "Claude Sonnet 5.5 (xHigh) 以 1786 分登 Code Arena: WebDev 第 3 名",
+          "title_en": "Exciting update: Claude Sonnet 5.5 with xHigh reasoning has landed in the Code Arena: WebDev. With 1786 pts, its ranked #3!",
+          "title_original": "Exciting update: Claude Sonnet 5.5 with xHigh reasoning has landed in the Code Arena: WebDev. With 1786 pts, its ranked #3!",
+          "summary": "Arena 宣布 Claude Sonnet 5.5（xHigh）进入 Code Arena: WebDev 榜单，以 1786 分排名第 3，距第 2 名 GPT-6 Astra 的 1788 分仅差 2 分。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/arena/status/2105702037849841954",
+          "source": "X：Arena (@arena)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-01T16:51:02Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7539,
+      "importance": 0.7539,
+      "importance_score": 0.7539,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 0.95,
+        "recency": 0.9961,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-01T16:51:02Z",
+      "latest_at": "2026-10-01T16:51:02Z",
+      "primary_item": {
+        "id": "44b6ef20e792986c3637456af67b1517a109d3e3",
+        "title": "Claude Sonnet 5.5 (xHigh) 以 1786 分登 Code Arena: WebDev 第 3 名 / Exciting update: Claude Sonnet 5.5 with xHigh reasoning has landed in the Code Arena: WebDev. With 1786 pts, its ranked #3!",
+        "title_zh": "Claude Sonnet 5.5 (xHigh) 以 1786 分登 Code Arena: WebDev 第 3 名",
+        "title_en": "Exciting update: Claude Sonnet 5.5 with xHigh reasoning has landed in the Code Arena: WebDev. With 1786 pts, its ranked #3!",
+        "title_original": "Exciting update: Claude Sonnet 5.5 with xHigh reasoning has landed in the Code Arena: WebDev. With 1786 pts, its ranked #3!",
+        "summary": "Arena 宣布 Claude Sonnet 5.5（xHigh）进入 Code Arena: WebDev 榜单，以 1786 分排名第 3，距第 2 名 GPT-6 Astra 的 1788 分仅差 2 分。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/arena/status/2105702037849841954",
+        "source": "X：Arena (@arena)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-01T17:20:12.132217Z"
       }
     },
     {
@@ -324,15 +735,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7472,
-      "importance": 0.7472,
-      "importance_score": 0.7472,
+      "score": 0.7411,
+      "importance": 0.7411,
+      "importance_score": 0.7411,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.8699,
+        "recency": 0.8363,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -358,170 +769,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T14:25:03.663180Z"
-      }
-    },
-    {
-      "story_id": "story_3dc27c9fc0cd",
-      "title": "选择 npm 可信发布的 dist-tag 权限 / Opt-in dist-tag permissions for npm trusted publishing",
-      "url": "https://github.blog/changelog/2026-09-30-opt-in-dist-tag-permissions-for-npm-trusted-publishing",
-      "primary_url": "https://github.blog/changelog/2026-09-30-opt-in-dist-tag-permissions-for-npm-trusted-publishing",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "08449e4f1bbb9462c8d2e83818728bbe8110bf1a",
-          "title": "选择 npm 可信发布的 dist-tag 权限 / Opt-in dist-tag permissions for npm trusted publishing",
-          "title_zh": "选择 npm 可信发布的 dist-tag 权限",
-          "title_en": "Opt-in dist-tag permissions for npm trusted publishing",
-          "title_original": "Opt-in dist-tag permissions for npm trusted publishing",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-30-opt-in-dist-tag-permissions-for-npm-trusted-publishing",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-30T21:03:09Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "08449e4f1bbb9462c8d2e83818728bbe8110bf1a",
-          "title": "选择 npm 可信发布的 dist-tag 权限 / Opt-in dist-tag permissions for npm trusted publishing",
-          "title_zh": "选择 npm 可信发布的 dist-tag 权限",
-          "title_en": "Opt-in dist-tag permissions for npm trusted publishing",
-          "title_original": "Opt-in dist-tag permissions for npm trusted publishing",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-30-opt-in-dist-tag-permissions-for-npm-trusted-publishing",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-30T21:03:09Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7761,
-      "importance": 0.7761,
-      "importance_score": 0.7761,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.73,
-        "recency": 0.7784,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-30T21:03:09Z",
-      "latest_at": "2026-09-30T21:03:09Z",
-      "primary_item": {
-        "id": "08449e4f1bbb9462c8d2e83818728bbe8110bf1a",
-        "title": "选择 npm 可信发布的 dist-tag 权限 / Opt-in dist-tag permissions for npm trusted publishing",
-        "title_zh": "选择 npm 可信发布的 dist-tag 权限",
-        "title_en": "Opt-in dist-tag permissions for npm trusted publishing",
-        "title_original": "Opt-in dist-tag permissions for npm trusted publishing",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-30-opt-in-dist-tag-permissions-for-npm-trusted-publishing",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-01T14:25:03.663180Z"
-      }
-    },
-    {
-      "story_id": "story_543034a71340",
-      "title": "Gemini 4 Argon (High) 登 Arena Agent Arena 第 8 名，净提升 +7.92% / More big news from @GoogleDeepMind: Gemini 4 Argon (High) is #8 in Agent Arena with a +7.92% net improvement score, and has reshaped the ...",
-      "url": "https://x.com/arena/status/2105411271525052418",
-      "primary_url": "https://x.com/arena/status/2105411271525052418",
-      "source": "X：Arena (@arena)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "2c4c2761bad28c9b0f0729a0426cdce23814d35d",
-          "title": "Gemini 4 Argon (High) 登 Arena Agent Arena 第 8 名，净提升 +7.92% / More big news from @GoogleDeepMind: Gemini 4 Argon (High) is #8 in Agent Arena with a +7.92% net improvement score, and has reshaped the ...",
-          "title_zh": "Gemini 4 Argon (High) 登 Arena Agent Arena 第 8 名，净提升 +7.92%",
-          "title_en": "More big news from @GoogleDeepMind: Gemini 4 Argon (High) is #8 in Agent Arena with a +7.92% net improvement score, and has reshaped the ...",
-          "title_original": "More big news from @GoogleDeepMind: Gemini 4 Argon (High) is #8 in Agent Arena with a +7.92% net improvement score, and has reshaped the ...",
-          "summary": "Arena 公布 Gemini 4 Argon (High) 在 Agent Arena 排名第 8，净提升分 +7.92%，每任务成本 $0.62。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/arena/status/2105411271525052418",
-          "source": "X：Arena (@arena)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-30T21:35:38Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Arena (@arena)"
-      ],
-      "items": [
-        {
-          "id": "2c4c2761bad28c9b0f0729a0426cdce23814d35d",
-          "title": "Gemini 4 Argon (High) 登 Arena Agent Arena 第 8 名，净提升 +7.92% / More big news from @GoogleDeepMind: Gemini 4 Argon (High) is #8 in Agent Arena with a +7.92% net improvement score, and has reshaped the ...",
-          "title_zh": "Gemini 4 Argon (High) 登 Arena Agent Arena 第 8 名，净提升 +7.92%",
-          "title_en": "More big news from @GoogleDeepMind: Gemini 4 Argon (High) is #8 in Agent Arena with a +7.92% net improvement score, and has reshaped the ...",
-          "title_original": "More big news from @GoogleDeepMind: Gemini 4 Argon (High) is #8 in Agent Arena with a +7.92% net improvement score, and has reshaped the ...",
-          "summary": "Arena 公布 Gemini 4 Argon (High) 在 Agent Arena 排名第 8，净提升分 +7.92%，每任务成本 $0.62。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/arena/status/2105411271525052418",
-          "source": "X：Arena (@arena)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-30T21:35:38Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7398,
-      "importance": 0.7398,
-      "importance_score": 0.7398,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.79,
-        "source_tier": 0.78,
-        "ai_relevance": 0.95,
-        "recency": 0.7846,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-30T21:35:38Z",
-      "latest_at": "2026-09-30T21:35:38Z",
-      "primary_item": {
-        "id": "2c4c2761bad28c9b0f0729a0426cdce23814d35d",
-        "title": "Gemini 4 Argon (High) 登 Arena Agent Arena 第 8 名，净提升 +7.92% / More big news from @GoogleDeepMind: Gemini 4 Argon (High) is #8 in Agent Arena with a +7.92% net improvement score, and has reshaped the ...",
-        "title_zh": "Gemini 4 Argon (High) 登 Arena Agent Arena 第 8 名，净提升 +7.92%",
-        "title_en": "More big news from @GoogleDeepMind: Gemini 4 Argon (High) is #8 in Agent Arena with a +7.92% net improvement score, and has reshaped the ...",
-        "title_original": "More big news from @GoogleDeepMind: Gemini 4 Argon (High) is #8 in Agent Arena with a +7.92% net improvement score, and has reshaped the ...",
-        "summary": "Arena 公布 Gemini 4 Argon (High) 在 Agent Arena 排名第 8，净提升分 +7.92%，每任务成本 $0.62。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/arena/status/2105411271525052418",
-        "source": "X：Arena (@arena)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-01T14:25:03.663180Z"
+        "scored_at": "2026-10-01T17:20:12.132217Z"
       }
     },
     {
@@ -569,15 +817,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7389,
-      "importance": 0.7389,
-      "importance_score": 0.7389,
+      "score": 0.7335,
+      "importance": 0.7335,
+      "importance_score": 0.7335,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.7796,
+        "recency": 0.7495,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -602,7 +850,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T14:25:03.663180Z"
+        "scored_at": "2026-10-01T17:20:12.132217Z"
       }
     },
     {
@@ -650,15 +898,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7373,
-      "importance": 0.7373,
-      "importance_score": 0.7373,
+      "score": 0.732,
+      "importance": 0.732,
+      "importance_score": 0.732,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.7707,
+        "recency": 0.7409,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -683,112 +931,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T14:25:03.663180Z"
+        "scored_at": "2026-10-01T17:20:12.132217Z"
       }
     },
     {
-      "story_id": "story_0d7ed6e47e0a",
-      "title": "Google DeepMind 发布 SynthID Bio，为 AI 生成的蛋白质嵌入可验证水印 / Introducing SynthID Bio",
-      "url": "https://deepmind.google/blog/introducing-synthid-bio",
-      "primary_url": "https://deepmind.google/blog/introducing-synthid-bio",
-      "source": "Google DeepMind",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "5d7e56106a762acbb4c67730a4afc6241efed734",
-          "title": "Google DeepMind 发布 SynthID Bio，为 AI 生成的蛋白质嵌入可验证水印 / Introducing SynthID Bio",
-          "title_zh": "Google DeepMind 发布 SynthID Bio，为 AI 生成的蛋白质嵌入可验证水印",
-          "title_en": "Introducing SynthID Bio",
-          "title_original": "Introducing SynthID Bio",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://deepmind.google/blog/introducing-synthid-bio",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-30T15:03:07Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google DeepMind"
-      ],
-      "items": [
-        {
-          "id": "5d7e56106a762acbb4c67730a4afc6241efed734",
-          "title": "Google DeepMind 发布 SynthID Bio，为 AI 生成的蛋白质嵌入可验证水印 / Introducing SynthID Bio",
-          "title_zh": "Google DeepMind 发布 SynthID Bio，为 AI 生成的蛋白质嵌入可验证水印",
-          "title_en": "Introducing SynthID Bio",
-          "title_original": "Introducing SynthID Bio",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://deepmind.google/blog/introducing-synthid-bio",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-30T15:03:07Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7645,
-      "importance": 0.7645,
-      "importance_score": 0.7645,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.73,
-        "recency": 0.7138,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-30T15:03:07Z",
-      "latest_at": "2026-09-30T15:03:07Z",
-      "primary_item": {
-        "id": "5d7e56106a762acbb4c67730a4afc6241efed734",
-        "title": "Google DeepMind 发布 SynthID Bio，为 AI 生成的蛋白质嵌入可验证水印 / Introducing SynthID Bio",
-        "title_zh": "Google DeepMind 发布 SynthID Bio，为 AI 生成的蛋白质嵌入可验证水印",
-        "title_en": "Introducing SynthID Bio",
-        "title_original": "Introducing SynthID Bio",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://deepmind.google/blog/introducing-synthid-bio",
-        "source": "Google DeepMind",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-01T14:25:03.663180Z"
-      }
-    },
-    {
-      "story_id": "story_a67dcb1766e6",
-      "title": "HydraFusion in VS Code and the GitHub Copilot app",
-      "url": "https://github.blog/changelog/2026-09-30-hydrafusion-in-vs-code-and-the-github-copilot-app",
-      "primary_url": "https://github.blog/changelog/2026-09-30-hydrafusion-in-vs-code-and-the-github-copilot-app",
+      "story_id": "story_714f9dbcfc64",
+      "title": "New dashboard experience now the default",
+      "url": "https://github.blog/changelog/2026-10-01-new-dashboard-experience-now-the-default",
+      "primary_url": "https://github.blog/changelog/2026-10-01-new-dashboard-experience-now-the-default",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "bd6ff7531c4f691e042fd6a620e1de8e0f43bc53",
-          "title": "HydraFusion in VS Code and the GitHub Copilot app",
+          "id": "3a06d051b1edd21d5cccadc28628c789ee5763eb",
+          "title": "New dashboard experience now the default",
           "title_zh": null,
-          "title_en": "HydraFusion in VS Code and the GitHub Copilot app",
-          "title_original": "HydraFusion in VS Code and the GitHub Copilot app",
+          "title_en": "New dashboard experience now the default",
+          "title_original": "New dashboard experience now the default",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-30-hydrafusion-in-vs-code-and-the-github-copilot-app",
+          "url": "https://github.blog/changelog/2026-10-01-new-dashboard-experience-now-the-default",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-30T14:31:19Z"
+          "published_at": "2026-10-01T16:14:56Z"
         }
       ],
       "source_count": 1,
@@ -797,31 +963,31 @@
       ],
       "items": [
         {
-          "id": "bd6ff7531c4f691e042fd6a620e1de8e0f43bc53",
-          "title": "HydraFusion in VS Code and the GitHub Copilot app",
+          "id": "3a06d051b1edd21d5cccadc28628c789ee5763eb",
+          "title": "New dashboard experience now the default",
           "title_zh": null,
-          "title_en": "HydraFusion in VS Code and the GitHub Copilot app",
-          "title_original": "HydraFusion in VS Code and the GitHub Copilot app",
+          "title_en": "New dashboard experience now the default",
+          "title_original": "New dashboard experience now the default",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-30-hydrafusion-in-vs-code-and-the-github-copilot-app",
+          "url": "https://github.blog/changelog/2026-10-01-new-dashboard-experience-now-the-default",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-30T14:31:19Z"
+          "published_at": "2026-10-01T16:14:56Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7695,
-      "importance": 0.7695,
-      "importance_score": 0.7695,
+      "score": 0.8137,
+      "importance": 0.8137,
+      "importance_score": 0.8137,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.76,
-        "recency": 0.7084,
+        "ai_relevance": 0.73,
+        "recency": 0.9875,
         "story_heat": 0.0
       },
       "category": "official",
@@ -829,17 +995,17 @@
         "official_source",
         "high_importance"
       ],
-      "earliest_at": "2026-09-30T14:31:19Z",
-      "latest_at": "2026-09-30T14:31:19Z",
+      "earliest_at": "2026-10-01T16:14:56Z",
+      "latest_at": "2026-10-01T16:14:56Z",
       "primary_item": {
-        "id": "bd6ff7531c4f691e042fd6a620e1de8e0f43bc53",
-        "title": "HydraFusion in VS Code and the GitHub Copilot app",
+        "id": "3a06d051b1edd21d5cccadc28628c789ee5763eb",
+        "title": "New dashboard experience now the default",
         "title_zh": null,
-        "title_en": "HydraFusion in VS Code and the GitHub Copilot app",
-        "title_original": "HydraFusion in VS Code and the GitHub Copilot app",
+        "title_en": "New dashboard experience now the default",
+        "title_original": "New dashboard experience now the default",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-30-hydrafusion-in-vs-code-and-the-github-copilot-app",
+        "url": "https://github.blog/changelog/2026-10-01-new-dashboard-experience-now-the-default",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -847,93 +1013,12 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T14:25:03.663180Z"
-      }
-    },
-    {
-      "story_id": "story_68bad53a3f25",
-      "title": "FTC 以消费者保护为由对 OpenAI、Anthropic 等 AI 实验室启动全面调查 / FTC launches sweeping probe into OpenAI, Anthropic, and other AI labs over consumer protection concerns",
-      "url": "https://the-decoder.com/ftc-launches-sweeping-probe-into-openai-anthropic-and-other-ai-labs-over-consumer-protection-concerns",
-      "primary_url": "https://the-decoder.com/ftc-launches-sweeping-probe-into-openai-anthropic-and-other-ai-labs-over-consumer-protection-concerns",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "642e8da577619291348e2e74443467b30fe57f10",
-          "title": "FTC 以消费者保护为由对 OpenAI、Anthropic 等 AI 实验室启动全面调查 / FTC launches sweeping probe into OpenAI, Anthropic, and other AI labs over consumer protection concerns",
-          "title_zh": "FTC 以消费者保护为由对 OpenAI、Anthropic 等 AI 实验室启动全面调查",
-          "title_en": "FTC launches sweeping probe into OpenAI, Anthropic, and other AI labs over consumer protection concerns",
-          "title_original": "FTC launches sweeping probe into OpenAI, Anthropic, and other AI labs over consumer protection concerns",
-          "summary": "FTC 正以潜在消费者保护违规为由调查 OpenAI、Anthropic 等头部 AI 实验室，主席 Andrew Ferguson 计划通过具法律约束力的 Civil Investigative Demands 强制调取文件并质询高管，命令将在数周内发出，METR 也在审查范围之列。",
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/ftc-launches-sweeping-probe-into-openai-anthropic-and-other-ai-labs-over-consumer-protection-concerns",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-30T16:20:04Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "The Decoder：AI News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "642e8da577619291348e2e74443467b30fe57f10",
-          "title": "FTC 以消费者保护为由对 OpenAI、Anthropic 等 AI 实验室启动全面调查 / FTC launches sweeping probe into OpenAI, Anthropic, and other AI labs over consumer protection concerns",
-          "title_zh": "FTC 以消费者保护为由对 OpenAI、Anthropic 等 AI 实验室启动全面调查",
-          "title_en": "FTC launches sweeping probe into OpenAI, Anthropic, and other AI labs over consumer protection concerns",
-          "title_original": "FTC launches sweeping probe into OpenAI, Anthropic, and other AI labs over consumer protection concerns",
-          "summary": "FTC 正以潜在消费者保护违规为由调查 OpenAI、Anthropic 等头部 AI 实验室，主席 Andrew Ferguson 计划通过具法律约束力的 Civil Investigative Demands 强制调取文件并质询高管，命令将在数周内发出，METR 也在审查范围之列。",
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/ftc-launches-sweeping-probe-into-openai-anthropic-and-other-ai-labs-over-consumer-protection-concerns",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-30T16:20:04Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7385,
-      "importance": 0.7385,
-      "importance_score": 0.7385,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.82,
-        "source_tier": 0.78,
-        "ai_relevance": 0.95,
-        "recency": 0.7272,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-30T16:20:04Z",
-      "latest_at": "2026-09-30T16:20:04Z",
-      "primary_item": {
-        "id": "642e8da577619291348e2e74443467b30fe57f10",
-        "title": "FTC 以消费者保护为由对 OpenAI、Anthropic 等 AI 实验室启动全面调查 / FTC launches sweeping probe into OpenAI, Anthropic, and other AI labs over consumer protection concerns",
-        "title_zh": "FTC 以消费者保护为由对 OpenAI、Anthropic 等 AI 实验室启动全面调查",
-        "title_en": "FTC launches sweeping probe into OpenAI, Anthropic, and other AI labs over consumer protection concerns",
-        "title_original": "FTC launches sweeping probe into OpenAI, Anthropic, and other AI labs over consumer protection concerns",
-        "summary": "FTC 正以潜在消费者保护违规为由调查 OpenAI、Anthropic 等头部 AI 实验室，主席 Andrew Ferguson 计划通过具法律约束力的 Civil Investigative Demands 强制调取文件并质询高管，命令将在数周内发出，METR 也在审查范围之列。",
-        "recommend_reason_zh": null,
-        "url": "https://the-decoder.com/ftc-launches-sweeping-probe-into-openai-anthropic-and-other-ai-labs-over-consumer-protection-concerns",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-01T14:25:03.663180Z"
+        "scored_at": "2026-10-01T17:20:12.132217Z"
       }
     },
     {
       "story_id": "story_17c7fb1b1d6b",
-      "title": "FTC 正在调查 OpenAI、Anthropic 等人工智能公司的产品风险 / FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
+      "title": "美国联邦贸易委员会（FTC）正在就产品风险问题对OpenAI、Anthropic及其他人工智能公司展开调查 / FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
       "url": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html",
       "primary_url": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html",
       "source": "Hacker News front page",
@@ -941,8 +1026,8 @@
       "sources": [
         {
           "id": "9141dc74f72e4d0003d357c7545b31d0812c0ff0",
-          "title": "FTC 正在调查 OpenAI、Anthropic 等人工智能公司的产品风险 / FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
-          "title_zh": "FTC 正在调查 OpenAI、Anthropic 等人工智能公司的产品风险",
+          "title": "美国联邦贸易委员会（FTC）正在就产品风险问题对OpenAI、Anthropic及其他人工智能公司展开调查 / FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
+          "title_zh": "美国联邦贸易委员会（FTC）正在就产品风险问题对OpenAI、Anthropic及其他人工智能公司展开调查",
           "title_en": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
           "title_original": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
           "summary": null,
@@ -952,6 +1037,20 @@
           "source_name": "Curated Media",
           "site_id": "curated_media",
           "published_at": "2026-10-01T13:00:55Z"
+        },
+        {
+          "id": "2d80d6ae81cb2a03ca0575f918da8a52dbc76d82",
+          "title": "美国联邦贸易委员会（FTC）正在就产品风险问题对OpenAI、Anthropic及其他人工智能公司展开调查",
+          "title_zh": "美国联邦贸易委员会（FTC）正在就产品风险问题对OpenAI、Anthropic及其他人工智能公司展开调查",
+          "title_en": null,
+          "title_original": "美国联邦贸易委员会（FTC）正在就产品风险问题对OpenAI、Anthropic及其他人工智能公司展开调查",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html",
+          "source": "www.cnbc.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-01T15:42:33.319000Z"
         },
         {
           "id": "5ae38b3b59c67b3dd3f4b06385e6171147fc5631",
@@ -968,16 +1067,17 @@
           "published_at": "2026-10-01T13:00:55Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 3,
       "source_names": [
         "Hacker News front page",
-        "hackernews"
+        "hackernews",
+        "www.cnbc.com"
       ],
       "items": [
         {
           "id": "9141dc74f72e4d0003d357c7545b31d0812c0ff0",
-          "title": "FTC 正在调查 OpenAI、Anthropic 等人工智能公司的产品风险 / FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
-          "title_zh": "FTC 正在调查 OpenAI、Anthropic 等人工智能公司的产品风险",
+          "title": "美国联邦贸易委员会（FTC）正在就产品风险问题对OpenAI、Anthropic及其他人工智能公司展开调查 / FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
+          "title_zh": "美国联邦贸易委员会（FTC）正在就产品风险问题对OpenAI、Anthropic及其他人工智能公司展开调查",
           "title_en": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
           "title_original": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
           "summary": null,
@@ -987,6 +1087,20 @@
           "source_name": "Curated Media",
           "site_id": "curated_media",
           "published_at": "2026-10-01T13:00:55Z"
+        },
+        {
+          "id": "2d80d6ae81cb2a03ca0575f918da8a52dbc76d82",
+          "title": "美国联邦贸易委员会（FTC）正在就产品风险问题对OpenAI、Anthropic及其他人工智能公司展开调查",
+          "title_zh": "美国联邦贸易委员会（FTC）正在就产品风险问题对OpenAI、Anthropic及其他人工智能公司展开调查",
+          "title_en": null,
+          "title_original": "美国联邦贸易委员会（FTC）正在就产品风险问题对OpenAI、Anthropic及其他人工智能公司展开调查",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html",
+          "source": "www.cnbc.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-01T15:42:33.319000Z"
         },
         {
           "id": "5ae38b3b59c67b3dd3f4b06385e6171147fc5631",
@@ -1003,30 +1117,30 @@
           "published_at": "2026-10-01T13:00:55Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6868,
-      "importance": 0.6868,
-      "importance_score": 0.6868,
-      "importance_label": "值得关注",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.705,
+      "importance": 0.705,
+      "importance_score": 0.705,
+      "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.6192,
         "source_tier": 0.58,
         "ai_relevance": 0.86,
-        "recency": 0.9803,
-        "story_heat": 0.25
+        "recency": 0.9424,
+        "story_heat": 0.5
       },
-      "category": "watch",
+      "category": "multi_source",
       "reasons": [
         "multi_source",
         "high_ai_relevance"
       ],
       "earliest_at": "2026-10-01T13:00:55Z",
-      "latest_at": "2026-10-01T13:00:55Z",
+      "latest_at": "2026-10-01T15:42:33.319000Z",
       "primary_item": {
         "id": "9141dc74f72e4d0003d357c7545b31d0812c0ff0",
-        "title": "FTC 正在调查 OpenAI、Anthropic 等人工智能公司的产品风险 / FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
-        "title_zh": "FTC 正在调查 OpenAI、Anthropic 等人工智能公司的产品风险",
+        "title": "美国联邦贸易委员会（FTC）正在就产品风险问题对OpenAI、Anthropic及其他人工智能公司展开调查 / FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
+        "title_zh": "美国联邦贸易委员会（FTC）正在就产品风险问题对OpenAI、Anthropic及其他人工智能公司展开调查",
         "title_en": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
         "title_original": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
         "summary": null,
@@ -1039,30 +1153,111 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T14:25:03.663180Z"
+        "scored_at": "2026-10-01T17:20:12.132217Z"
       }
     },
     {
-      "story_id": "story_0cb3c1ba901d",
-      "title": "GitHub 团队的 GitHub 高级安全试用 / GitHub Advanced Security trials for GitHub Team",
-      "url": "https://github.blog/changelog/2026-09-30-github-advanced-security-trials-for-github-team",
-      "primary_url": "https://github.blog/changelog/2026-09-30-github-advanced-security-trials-for-github-team",
+      "story_id": "story_543034a71340",
+      "title": "Gemini 4 Argon (High) 登 Arena Agent Arena 第 8 名，净提升 +7.92% / More big news from @GoogleDeepMind: Gemini 4 Argon (High) is #8 in Agent Arena with a +7.92% net improvement score, and has reshaped the ...",
+      "url": "https://x.com/arena/status/2105411271525052418",
+      "primary_url": "https://x.com/arena/status/2105411271525052418",
+      "source": "X：Arena (@arena)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "2c4c2761bad28c9b0f0729a0426cdce23814d35d",
+          "title": "Gemini 4 Argon (High) 登 Arena Agent Arena 第 8 名，净提升 +7.92% / More big news from @GoogleDeepMind: Gemini 4 Argon (High) is #8 in Agent Arena with a +7.92% net improvement score, and has reshaped the ...",
+          "title_zh": "Gemini 4 Argon (High) 登 Arena Agent Arena 第 8 名，净提升 +7.92%",
+          "title_en": "More big news from @GoogleDeepMind: Gemini 4 Argon (High) is #8 in Agent Arena with a +7.92% net improvement score, and has reshaped the ...",
+          "title_original": "More big news from @GoogleDeepMind: Gemini 4 Argon (High) is #8 in Agent Arena with a +7.92% net improvement score, and has reshaped the ...",
+          "summary": "Arena 公布 Gemini 4 Argon (High) 在 Agent Arena 排名第 8，净提升分 +7.92%，每任务成本 $0.62。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/arena/status/2105411271525052418",
+          "source": "X：Arena (@arena)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-30T21:35:38Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Arena (@arena)"
+      ],
+      "items": [
+        {
+          "id": "2c4c2761bad28c9b0f0729a0426cdce23814d35d",
+          "title": "Gemini 4 Argon (High) 登 Arena Agent Arena 第 8 名，净提升 +7.92% / More big news from @GoogleDeepMind: Gemini 4 Argon (High) is #8 in Agent Arena with a +7.92% net improvement score, and has reshaped the ...",
+          "title_zh": "Gemini 4 Argon (High) 登 Arena Agent Arena 第 8 名，净提升 +7.92%",
+          "title_en": "More big news from @GoogleDeepMind: Gemini 4 Argon (High) is #8 in Agent Arena with a +7.92% net improvement score, and has reshaped the ...",
+          "title_original": "More big news from @GoogleDeepMind: Gemini 4 Argon (High) is #8 in Agent Arena with a +7.92% net improvement score, and has reshaped the ...",
+          "summary": "Arena 公布 Gemini 4 Argon (High) 在 Agent Arena 排名第 8，净提升分 +7.92%，每任务成本 $0.62。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/arena/status/2105411271525052418",
+          "source": "X：Arena (@arena)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-30T21:35:38Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7344,
+      "importance": 0.7344,
+      "importance_score": 0.7344,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.79,
+        "source_tier": 0.78,
+        "ai_relevance": 0.95,
+        "recency": 0.7543,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-30T21:35:38Z",
+      "latest_at": "2026-09-30T21:35:38Z",
+      "primary_item": {
+        "id": "2c4c2761bad28c9b0f0729a0426cdce23814d35d",
+        "title": "Gemini 4 Argon (High) 登 Arena Agent Arena 第 8 名，净提升 +7.92% / More big news from @GoogleDeepMind: Gemini 4 Argon (High) is #8 in Agent Arena with a +7.92% net improvement score, and has reshaped the ...",
+        "title_zh": "Gemini 4 Argon (High) 登 Arena Agent Arena 第 8 名，净提升 +7.92%",
+        "title_en": "More big news from @GoogleDeepMind: Gemini 4 Argon (High) is #8 in Agent Arena with a +7.92% net improvement score, and has reshaped the ...",
+        "title_original": "More big news from @GoogleDeepMind: Gemini 4 Argon (High) is #8 in Agent Arena with a +7.92% net improvement score, and has reshaped the ...",
+        "summary": "Arena 公布 Gemini 4 Argon (High) 在 Agent Arena 排名第 8，净提升分 +7.92%，每任务成本 $0.62。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/arena/status/2105411271525052418",
+        "source": "X：Arena (@arena)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-01T17:20:12.132217Z"
+      }
+    },
+    {
+      "story_id": "story_e79047166a33",
+      "title": "Actions Runner 控制器版本 0.15.0 / Actions Runner Controller release 0.15.0",
+      "url": "https://github.blog/changelog/2026-10-01-actions-runner-controller-release-0-15-0",
+      "primary_url": "https://github.blog/changelog/2026-10-01-actions-runner-controller-release-0-15-0",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "ec2bff5a72b049f1ed2987ebb95a5c08547c464e",
-          "title": "GitHub 团队的 GitHub 高级安全试用 / GitHub Advanced Security trials for GitHub Team",
-          "title_zh": "GitHub 团队的 GitHub 高级安全试用",
-          "title_en": "GitHub Advanced Security trials for GitHub Team",
-          "title_original": "GitHub Advanced Security trials for GitHub Team",
+          "id": "47e637690129eb98c858037b42cdbb445190b3a6",
+          "title": "Actions Runner 控制器版本 0.15.0 / Actions Runner Controller release 0.15.0",
+          "title_zh": "Actions Runner 控制器版本 0.15.0",
+          "title_en": "Actions Runner Controller release 0.15.0",
+          "title_original": "Actions Runner Controller release 0.15.0",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-30-github-advanced-security-trials-for-github-team",
+          "url": "https://github.blog/changelog/2026-10-01-actions-runner-controller-release-0-15-0",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-30T16:48:24Z"
+          "published_at": "2026-10-01T13:01:31Z"
         }
       ],
       "source_count": 1,
@@ -1071,31 +1266,31 @@
       ],
       "items": [
         {
-          "id": "ec2bff5a72b049f1ed2987ebb95a5c08547c464e",
-          "title": "GitHub 团队的 GitHub 高级安全试用 / GitHub Advanced Security trials for GitHub Team",
-          "title_zh": "GitHub 团队的 GitHub 高级安全试用",
-          "title_en": "GitHub Advanced Security trials for GitHub Team",
-          "title_original": "GitHub Advanced Security trials for GitHub Team",
+          "id": "47e637690129eb98c858037b42cdbb445190b3a6",
+          "title": "Actions Runner 控制器版本 0.15.0 / Actions Runner Controller release 0.15.0",
+          "title_zh": "Actions Runner 控制器版本 0.15.0",
+          "title_en": "Actions Runner Controller release 0.15.0",
+          "title_original": "Actions Runner Controller release 0.15.0",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-30-github-advanced-security-trials-for-github-team",
+          "url": "https://github.blog/changelog/2026-10-01-actions-runner-controller-release-0-15-0",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-30T16:48:24Z"
+          "published_at": "2026-10-01T13:01:31Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7678,
-      "importance": 0.7678,
-      "importance_score": 0.7678,
+      "score": 0.8057,
+      "importance": 0.8057,
+      "importance_score": 0.8057,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.73,
-        "recency": 0.7322,
+        "recency": 0.9426,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1103,17 +1298,17 @@
         "official_source",
         "high_importance"
       ],
-      "earliest_at": "2026-09-30T16:48:24Z",
-      "latest_at": "2026-09-30T16:48:24Z",
+      "earliest_at": "2026-10-01T13:01:31Z",
+      "latest_at": "2026-10-01T13:01:31Z",
       "primary_item": {
-        "id": "ec2bff5a72b049f1ed2987ebb95a5c08547c464e",
-        "title": "GitHub 团队的 GitHub 高级安全试用 / GitHub Advanced Security trials for GitHub Team",
-        "title_zh": "GitHub 团队的 GitHub 高级安全试用",
-        "title_en": "GitHub Advanced Security trials for GitHub Team",
-        "title_original": "GitHub Advanced Security trials for GitHub Team",
+        "id": "47e637690129eb98c858037b42cdbb445190b3a6",
+        "title": "Actions Runner 控制器版本 0.15.0 / Actions Runner Controller release 0.15.0",
+        "title_zh": "Actions Runner 控制器版本 0.15.0",
+        "title_en": "Actions Runner Controller release 0.15.0",
+        "title_original": "Actions Runner Controller release 0.15.0",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-30-github-advanced-security-trials-for-github-team",
+        "url": "https://github.blog/changelog/2026-10-01-actions-runner-controller-release-0-15-0",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -1121,12 +1316,12 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T14:25:03.663180Z"
+        "scored_at": "2026-10-01T17:20:12.132217Z"
       }
     },
     {
       "story_id": "story_91de62452fe7",
-      "title": "GPT-Synopsys：前沿智能革新芯片设计 / GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
+      "title": "GPT-Synopsys：Frontier Intelligence 将彻底改变芯片设计 / GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
       "url": "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design",
       "primary_url": "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design",
       "source": "Hacker News front page",
@@ -1134,8 +1329,8 @@
       "sources": [
         {
           "id": "2ce343653af69c84c95a6a224cea158cb527e4fb",
-          "title": "GPT-Synopsys：前沿智能革新芯片设计 / GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
-          "title_zh": "GPT-Synopsys：前沿智能革新芯片设计",
+          "title": "GPT-Synopsys：Frontier Intelligence 将彻底改变芯片设计 / GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
+          "title_zh": "GPT-Synopsys：Frontier Intelligence 将彻底改变芯片设计",
           "title_en": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
           "title_original": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
           "summary": null,
@@ -1145,6 +1340,20 @@
           "source_name": "Curated Media",
           "site_id": "curated_media",
           "published_at": "2026-10-01T10:21:36Z"
+        },
+        {
+          "id": "f87ceaf89f6e86edfe3eb1fcb6bd709b8b09a8b1",
+          "title": "GPT-Synopsys：Frontier Intelligence 将彻底改变芯片设计",
+          "title_zh": "GPT-Synopsys：Frontier Intelligence 将彻底改变芯片设计",
+          "title_en": null,
+          "title_original": "GPT-Synopsys：Frontier Intelligence 将彻底改变芯片设计",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design",
+          "source": "news.synopsys.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-01T14:54:06.176000Z"
         },
         {
           "id": "94029b37e9dcdb1b334a06eaef11d5efd7fd5405",
@@ -1161,16 +1370,17 @@
           "published_at": "2026-10-01T10:21:36Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 3,
       "source_names": [
         "Hacker News front page",
-        "hackernews"
+        "hackernews",
+        "news.synopsys.com"
       ],
       "items": [
         {
           "id": "2ce343653af69c84c95a6a224cea158cb527e4fb",
-          "title": "GPT-Synopsys：前沿智能革新芯片设计 / GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
-          "title_zh": "GPT-Synopsys：前沿智能革新芯片设计",
+          "title": "GPT-Synopsys：Frontier Intelligence 将彻底改变芯片设计 / GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
+          "title_zh": "GPT-Synopsys：Frontier Intelligence 将彻底改变芯片设计",
           "title_en": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
           "title_original": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
           "summary": null,
@@ -1180,6 +1390,20 @@
           "source_name": "Curated Media",
           "site_id": "curated_media",
           "published_at": "2026-10-01T10:21:36Z"
+        },
+        {
+          "id": "f87ceaf89f6e86edfe3eb1fcb6bd709b8b09a8b1",
+          "title": "GPT-Synopsys：Frontier Intelligence 将彻底改变芯片设计",
+          "title_zh": "GPT-Synopsys：Frontier Intelligence 将彻底改变芯片设计",
+          "title_en": null,
+          "title_original": "GPT-Synopsys：Frontier Intelligence 将彻底改变芯片设计",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design",
+          "source": "news.synopsys.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-01T14:54:06.176000Z"
         },
         {
           "id": "94029b37e9dcdb1b334a06eaef11d5efd7fd5405",
@@ -1196,30 +1420,30 @@
           "published_at": "2026-10-01T10:21:36Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6802,
-      "importance": 0.6802,
-      "importance_score": 0.6802,
-      "importance_label": "值得关注",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.6986,
+      "importance": 0.6986,
+      "importance_score": 0.6986,
+      "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.6192,
         "source_tier": 0.58,
         "ai_relevance": 0.86,
-        "recency": 0.9434,
-        "story_heat": 0.25
+        "recency": 0.907,
+        "story_heat": 0.5
       },
-      "category": "watch",
+      "category": "multi_source",
       "reasons": [
         "multi_source",
         "high_ai_relevance"
       ],
       "earliest_at": "2026-10-01T10:21:36Z",
-      "latest_at": "2026-10-01T10:21:36Z",
+      "latest_at": "2026-10-01T14:54:06.176000Z",
       "primary_item": {
         "id": "2ce343653af69c84c95a6a224cea158cb527e4fb",
-        "title": "GPT-Synopsys：前沿智能革新芯片设计 / GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
-        "title_zh": "GPT-Synopsys：前沿智能革新芯片设计",
+        "title": "GPT-Synopsys：Frontier Intelligence 将彻底改变芯片设计 / GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
+        "title_zh": "GPT-Synopsys：Frontier Intelligence 将彻底改变芯片设计",
         "title_en": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
         "title_original": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
         "summary": null,
@@ -1232,7 +1456,338 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T14:25:03.663180Z"
+        "scored_at": "2026-10-01T17:20:12.132217Z"
+      }
+    },
+    {
+      "story_id": "story_d17186e28d68",
+      "title": "惠普对 MacBook Neo 的回应更薄、更轻，并配备 OLED / HP&#8217;s answer to the MacBook Neo is thinner, lighter, and comes with OLED",
+      "url": "https://www.theverge.com/gadgets/1003107/hp-omnibook-5-14-intel-wildcat-lake-8gb-macbook-neo-price-specs",
+      "primary_url": "https://www.theverge.com/gadgets/1003107/hp-omnibook-5-14-intel-wildcat-lake-8gb-macbook-neo-price-specs",
+      "source": "The Verge (all)",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "12dbe329d7cebce9dbab284a387daef55d60a720",
+          "title": "惠普对 MacBook Neo 的回应更薄、更轻，并配备 OLED / HP&#8217;s answer to the MacBook Neo is thinner, lighter, and comes with OLED",
+          "title_zh": "惠普对 MacBook Neo 的回应更薄、更轻，并配备 OLED",
+          "title_en": "HP&#8217;s answer to the MacBook Neo is thinner, lighter, and comes with OLED",
+          "title_original": "HP&#8217;s answer to the MacBook Neo is thinner, lighter, and comes with OLED",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/gadgets/1003107/hp-omnibook-5-14-intel-wildcat-lake-8gb-macbook-neo-price-specs",
+          "source": "The Verge (all)",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-01T13:00:00Z"
+        },
+        {
+          "id": "05c6e8fe71d7032136a9a6b12da1e32a705afdaf",
+          "title": "HP’s answer to the MacBook Neo is thinner, lighter, and comes with OLED",
+          "title_zh": null,
+          "title_en": "HP’s answer to the MacBook Neo is thinner, lighter, and comes with OLED",
+          "title_original": "HP’s answer to the MacBook Neo is thinner, lighter, and comes with OLED",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/gadgets/1003107/hp-omnibook-5-14-intel-wildcat-lake-8gb-macbook-neo-price-specs",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-01T13:00:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Verge",
+        "The Verge (all)"
+      ],
+      "items": [
+        {
+          "id": "12dbe329d7cebce9dbab284a387daef55d60a720",
+          "title": "惠普对 MacBook Neo 的回应更薄、更轻，并配备 OLED / HP&#8217;s answer to the MacBook Neo is thinner, lighter, and comes with OLED",
+          "title_zh": "惠普对 MacBook Neo 的回应更薄、更轻，并配备 OLED",
+          "title_en": "HP&#8217;s answer to the MacBook Neo is thinner, lighter, and comes with OLED",
+          "title_original": "HP&#8217;s answer to the MacBook Neo is thinner, lighter, and comes with OLED",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/gadgets/1003107/hp-omnibook-5-14-intel-wildcat-lake-8gb-macbook-neo-price-specs",
+          "source": "The Verge (all)",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-01T13:00:00Z"
+        },
+        {
+          "id": "05c6e8fe71d7032136a9a6b12da1e32a705afdaf",
+          "title": "HP’s answer to the MacBook Neo is thinner, lighter, and comes with OLED",
+          "title_zh": null,
+          "title_en": "HP’s answer to the MacBook Neo is thinner, lighter, and comes with OLED",
+          "title_original": "HP’s answer to the MacBook Neo is thinner, lighter, and comes with OLED",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/gadgets/1003107/hp-omnibook-5-14-intel-wildcat-lake-8gb-macbook-neo-price-specs",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-01T13:00:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6467,
+      "importance": 0.6467,
+      "importance_score": 0.6467,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5616,
+        "source_tier": 0.58,
+        "ai_relevance": 0.78,
+        "recency": 0.9422,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-01T13:00:00Z",
+      "latest_at": "2026-10-01T13:00:00Z",
+      "primary_item": {
+        "id": "12dbe329d7cebce9dbab284a387daef55d60a720",
+        "title": "惠普对 MacBook Neo 的回应更薄、更轻，并配备 OLED / HP&#8217;s answer to the MacBook Neo is thinner, lighter, and comes with OLED",
+        "title_zh": "惠普对 MacBook Neo 的回应更薄、更轻，并配备 OLED",
+        "title_en": "HP&#8217;s answer to the MacBook Neo is thinner, lighter, and comes with OLED",
+        "title_original": "HP&#8217;s answer to the MacBook Neo is thinner, lighter, and comes with OLED",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.theverge.com/gadgets/1003107/hp-omnibook-5-14-intel-wildcat-lake-8gb-macbook-neo-price-specs",
+        "source": "The Verge (all)",
+        "source_name": "Curated Media"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-01T17:20:12.132217Z"
+      }
+    },
+    {
+      "story_id": "story_3dc27c9fc0cd",
+      "title": "选择 npm 可信发布的 dist-tag 权限 / Opt-in dist-tag permissions for npm trusted publishing",
+      "url": "https://github.blog/changelog/2026-09-30-opt-in-dist-tag-permissions-for-npm-trusted-publishing",
+      "primary_url": "https://github.blog/changelog/2026-09-30-opt-in-dist-tag-permissions-for-npm-trusted-publishing",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "08449e4f1bbb9462c8d2e83818728bbe8110bf1a",
+          "title": "选择 npm 可信发布的 dist-tag 权限 / Opt-in dist-tag permissions for npm trusted publishing",
+          "title_zh": "选择 npm 可信发布的 dist-tag 权限",
+          "title_en": "Opt-in dist-tag permissions for npm trusted publishing",
+          "title_original": "Opt-in dist-tag permissions for npm trusted publishing",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-30-opt-in-dist-tag-permissions-for-npm-trusted-publishing",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-30T21:03:09Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "08449e4f1bbb9462c8d2e83818728bbe8110bf1a",
+          "title": "选择 npm 可信发布的 dist-tag 权限 / Opt-in dist-tag permissions for npm trusted publishing",
+          "title_zh": "选择 npm 可信发布的 dist-tag 权限",
+          "title_en": "Opt-in dist-tag permissions for npm trusted publishing",
+          "title_original": "Opt-in dist-tag permissions for npm trusted publishing",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-30-opt-in-dist-tag-permissions-for-npm-trusted-publishing",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-30T21:03:09Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7707,
+      "importance": 0.7707,
+      "importance_score": 0.7707,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.73,
+        "recency": 0.7484,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-30T21:03:09Z",
+      "latest_at": "2026-09-30T21:03:09Z",
+      "primary_item": {
+        "id": "08449e4f1bbb9462c8d2e83818728bbe8110bf1a",
+        "title": "选择 npm 可信发布的 dist-tag 权限 / Opt-in dist-tag permissions for npm trusted publishing",
+        "title_zh": "选择 npm 可信发布的 dist-tag 权限",
+        "title_en": "Opt-in dist-tag permissions for npm trusted publishing",
+        "title_original": "Opt-in dist-tag permissions for npm trusted publishing",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-09-30-opt-in-dist-tag-permissions-for-npm-trusted-publishing",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-01T17:20:12.132217Z"
+      }
+    },
+    {
+      "story_id": "story_cbacf5e8258c",
+      "title": "警方可绕过iPhone的自动重启功能，解锁被锁定的手机 / Cops Can Bypass iPhone's Automatic Reboot to Get into Locked Phones",
+      "url": "https://www.404media.co/cops-can-bypass-iphone-automatic-inactivity-reboot-graykey",
+      "primary_url": "https://www.404media.co/cops-can-bypass-iphone-automatic-inactivity-reboot-graykey",
+      "source": "Hacker News front page",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "2a9a7fa648c9fe4d2e24cfb123b320bee8c86a34",
+          "title": "警方可绕过iPhone的自动重启功能，解锁被锁定的手机 / Cops Can Bypass iPhone's Automatic Reboot to Get into Locked Phones",
+          "title_zh": "警方可绕过iPhone的自动重启功能，解锁被锁定的手机",
+          "title_en": "Cops Can Bypass iPhone's Automatic Reboot to Get into Locked Phones",
+          "title_original": "Cops Can Bypass iPhone's Automatic Reboot to Get into Locked Phones",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.404media.co/cops-can-bypass-iphone-automatic-inactivity-reboot-graykey",
+          "source": "Hacker News front page",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-01T14:38:35Z"
+        },
+        {
+          "id": "3bcf3ecc09d6dbfd577abc76ed7aefd2ff305d0c",
+          "title": "警方可绕过iPhone的自动重启功能，解锁被锁定的手机",
+          "title_zh": "警方可绕过iPhone的自动重启功能，解锁被锁定的手机",
+          "title_en": null,
+          "title_original": "警方可绕过iPhone的自动重启功能，解锁被锁定的手机",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.404media.co/cops-can-bypass-iphone-automatic-inactivity-reboot-graykey",
+          "source": "www.404media.co",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-01T16:59:58.633000Z"
+        },
+        {
+          "id": "5e03e5b78edfd4dd486eb0efbae5b876a7a760ed",
+          "title": "Cops Can Bypass iPhone's Automatic Reboot to Get into Locked Phones",
+          "title_zh": null,
+          "title_en": "Cops Can Bypass iPhone's Automatic Reboot to Get into Locked Phones",
+          "title_original": "Cops Can Bypass iPhone's Automatic Reboot to Get into Locked Phones",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49922278",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-01T14:38:35Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News front page",
+        "hackernews",
+        "www.404media.co"
+      ],
+      "items": [
+        {
+          "id": "2a9a7fa648c9fe4d2e24cfb123b320bee8c86a34",
+          "title": "警方可绕过iPhone的自动重启功能，解锁被锁定的手机 / Cops Can Bypass iPhone's Automatic Reboot to Get into Locked Phones",
+          "title_zh": "警方可绕过iPhone的自动重启功能，解锁被锁定的手机",
+          "title_en": "Cops Can Bypass iPhone's Automatic Reboot to Get into Locked Phones",
+          "title_original": "Cops Can Bypass iPhone's Automatic Reboot to Get into Locked Phones",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.404media.co/cops-can-bypass-iphone-automatic-inactivity-reboot-graykey",
+          "source": "Hacker News front page",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-01T14:38:35Z"
+        },
+        {
+          "id": "3bcf3ecc09d6dbfd577abc76ed7aefd2ff305d0c",
+          "title": "警方可绕过iPhone的自动重启功能，解锁被锁定的手机",
+          "title_zh": "警方可绕过iPhone的自动重启功能，解锁被锁定的手机",
+          "title_en": null,
+          "title_original": "警方可绕过iPhone的自动重启功能，解锁被锁定的手机",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.404media.co/cops-can-bypass-iphone-automatic-inactivity-reboot-graykey",
+          "source": "www.404media.co",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-01T16:59:58.633000Z"
+        },
+        {
+          "id": "5e03e5b78edfd4dd486eb0efbae5b876a7a760ed",
+          "title": "Cops Can Bypass iPhone's Automatic Reboot to Get into Locked Phones",
+          "title_zh": null,
+          "title_en": "Cops Can Bypass iPhone's Automatic Reboot to Get into Locked Phones",
+          "title_original": "Cops Can Bypass iPhone's Automatic Reboot to Get into Locked Phones",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49922278",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-01T14:38:35Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.6758,
+      "importance": 0.6758,
+      "importance_score": 0.6758,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.5616,
+        "source_tier": 0.58,
+        "ai_relevance": 0.78,
+        "recency": 0.9648,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-01T14:38:35Z",
+      "latest_at": "2026-10-01T16:59:58.633000Z",
+      "primary_item": {
+        "id": "2a9a7fa648c9fe4d2e24cfb123b320bee8c86a34",
+        "title": "警方可绕过iPhone的自动重启功能，解锁被锁定的手机 / Cops Can Bypass iPhone's Automatic Reboot to Get into Locked Phones",
+        "title_zh": "警方可绕过iPhone的自动重启功能，解锁被锁定的手机",
+        "title_en": "Cops Can Bypass iPhone's Automatic Reboot to Get into Locked Phones",
+        "title_original": "Cops Can Bypass iPhone's Automatic Reboot to Get into Locked Phones",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.404media.co/cops-can-bypass-iphone-automatic-inactivity-reboot-graykey",
+        "source": "Hacker News front page",
+        "source_name": "Curated Media"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-01T17:20:12.132217Z"
       }
     },
     {
@@ -1308,15 +1863,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6165,
-      "importance": 0.6165,
-      "importance_score": 0.6165,
+      "score": 0.6111,
+      "importance": 0.6111,
+      "importance_score": 0.6111,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5616,
         "source_tier": 0.58,
         "ai_relevance": 0.78,
-        "recency": 0.7744,
+        "recency": 0.7445,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1341,586 +1896,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T14:25:03.663180Z"
-      }
-    },
-    {
-      "story_id": "story_de3d29c0d239",
-      "title": "Show HN: Strata – an expressive semantic layer that can say no to your LLM",
-      "url": "https://strata.do",
-      "primary_url": "https://strata.do",
-      "source": "Hacker News front page",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "96638dd626e2ff8a6b80d5f4a99b113e9f336532",
-          "title": "Show HN: Strata – an expressive semantic layer that can say no to your LLM",
-          "title_zh": null,
-          "title_en": "Show HN: Strata – an expressive semantic layer that can say no to your LLM",
-          "title_original": "Show HN: Strata – an expressive semantic layer that can say no to your LLM",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://strata.do",
-          "source": "Hacker News front page",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-30T14:59:57Z"
-        },
-        {
-          "id": "8284fb91b98ecc9ffec76421aea80794c33a6dcd",
-          "title": "Show HN: Strata – an expressive semantic layer that can say no to your LLM",
-          "title_zh": null,
-          "title_en": "Show HN: Strata – an expressive semantic layer that can say no to your LLM",
-          "title_original": "Show HN: Strata – an expressive semantic layer that can say no to your LLM",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://strata.do/try",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-30T14:59:57Z"
-        },
-        {
-          "id": "98d3ab24273ef17096a7f30521cde7a358564846",
-          "title": "Show HN: Strata – an expressive semantic layer that can say no to your LLM",
-          "title_zh": null,
-          "title_en": "Show HN: Strata – an expressive semantic layer that can say no to your LLM",
-          "title_original": "Show HN: Strata – an expressive semantic layer that can say no to your LLM",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49909913",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-30T14:59:57Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News",
-        "Hacker News front page",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "96638dd626e2ff8a6b80d5f4a99b113e9f336532",
-          "title": "Show HN: Strata – an expressive semantic layer that can say no to your LLM",
-          "title_zh": null,
-          "title_en": "Show HN: Strata – an expressive semantic layer that can say no to your LLM",
-          "title_original": "Show HN: Strata – an expressive semantic layer that can say no to your LLM",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://strata.do",
-          "source": "Hacker News front page",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-30T14:59:57Z"
-        },
-        {
-          "id": "8284fb91b98ecc9ffec76421aea80794c33a6dcd",
-          "title": "Show HN: Strata – an expressive semantic layer that can say no to your LLM",
-          "title_zh": null,
-          "title_en": "Show HN: Strata – an expressive semantic layer that can say no to your LLM",
-          "title_original": "Show HN: Strata – an expressive semantic layer that can say no to your LLM",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://strata.do/try",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-30T14:59:57Z"
-        },
-        {
-          "id": "98d3ab24273ef17096a7f30521cde7a358564846",
-          "title": "Show HN: Strata – an expressive semantic layer that can say no to your LLM",
-          "title_zh": null,
-          "title_en": "Show HN: Strata – an expressive semantic layer that can say no to your LLM",
-          "title_original": "Show HN: Strata – an expressive semantic layer that can say no to your LLM",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49909913",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-30T14:59:57Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.6305,
-      "importance": 0.6305,
-      "importance_score": 0.6305,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.5616,
-        "source_tier": 0.58,
-        "ai_relevance": 0.78,
-        "recency": 0.7133,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-30T14:59:57Z",
-      "latest_at": "2026-09-30T14:59:57Z",
-      "primary_item": {
-        "id": "96638dd626e2ff8a6b80d5f4a99b113e9f336532",
-        "title": "Show HN: Strata – an expressive semantic layer that can say no to your LLM",
-        "title_zh": null,
-        "title_en": "Show HN: Strata – an expressive semantic layer that can say no to your LLM",
-        "title_original": "Show HN: Strata – an expressive semantic layer that can say no to your LLM",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://strata.do",
-        "source": "Hacker News front page",
-        "source_name": "Curated Media"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-01T14:25:03.663180Z"
-      }
-    },
-    {
-      "story_id": "story_bee292fea2f8",
-      "title": "Gemini 4 Argon（高配版）：智能、性能与价格分析",
-      "url": "https://artificialanalysis.ai/models/gemini-4-argon",
-      "primary_url": "https://artificialanalysis.ai/models/gemini-4-argon",
-      "source": "artificialanalysis.ai",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "a8dfe48df6f3ff6bda502baf12f42815ae5c9fc7",
-          "title": "Gemini 4 Argon（高配版）：智能、性能与价格分析",
-          "title_zh": "Gemini 4 Argon（高配版）：智能、性能与价格分析",
-          "title_en": null,
-          "title_original": "Gemini 4 Argon（高配版）：智能、性能与价格分析",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://artificialanalysis.ai/models/gemini-4-argon",
-          "source": "artificialanalysis.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-01T09:56:37.532000Z"
-        },
-        {
-          "id": "a31f139d979caa2433c1d4625ff0b5fc0973be97",
-          "title": "Gemini 4 Argon（高配版）：智能、性能与价格分析 / Gemini 4 Argon (High): Intelligence, Performance and Price Analysis",
-          "title_zh": "Gemini 4 Argon（高配版）：智能、性能与价格分析",
-          "title_en": "Gemini 4 Argon (High): Intelligence, Performance and Price Analysis",
-          "title_original": "Gemini 4 Argon (High): Intelligence, Performance and Price Analysis",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://artificialanalysis.ai/models/gemini-4-argon",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-30T20:50:28Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "artificialanalysis.ai"
-      ],
-      "items": [
-        {
-          "id": "a8dfe48df6f3ff6bda502baf12f42815ae5c9fc7",
-          "title": "Gemini 4 Argon（高配版）：智能、性能与价格分析",
-          "title_zh": "Gemini 4 Argon（高配版）：智能、性能与价格分析",
-          "title_en": null,
-          "title_original": "Gemini 4 Argon（高配版）：智能、性能与价格分析",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://artificialanalysis.ai/models/gemini-4-argon",
-          "source": "artificialanalysis.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-01T09:56:37.532000Z"
-        },
-        {
-          "id": "a31f139d979caa2433c1d4625ff0b5fc0973be97",
-          "title": "Gemini 4 Argon（高配版）：智能、性能与价格分析 / Gemini 4 Argon (High): Intelligence, Performance and Price Analysis",
-          "title_zh": "Gemini 4 Argon（高配版）：智能、性能与价格分析",
-          "title_en": "Gemini 4 Argon (High): Intelligence, Performance and Price Analysis",
-          "title_original": "Gemini 4 Argon (High): Intelligence, Performance and Price Analysis",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://artificialanalysis.ai/models/gemini-4-argon",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-30T20:50:28Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5679,
-      "importance": 0.5679,
-      "importance_score": 0.5679,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.5256,
-        "source_tier": 0.32,
-        "ai_relevance": 0.73,
-        "recency": 0.9377,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-30T20:50:28Z",
-      "latest_at": "2026-10-01T09:56:37.532000Z",
-      "primary_item": {
-        "id": "a8dfe48df6f3ff6bda502baf12f42815ae5c9fc7",
-        "title": "Gemini 4 Argon（高配版）：智能、性能与价格分析",
-        "title_zh": "Gemini 4 Argon（高配版）：智能、性能与价格分析",
-        "title_en": null,
-        "title_original": "Gemini 4 Argon（高配版）：智能、性能与价格分析",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://artificialanalysis.ai/models/gemini-4-argon",
-        "source": "artificialanalysis.ai",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-01T14:25:03.663180Z"
-      }
-    },
-    {
-      "story_id": "story_dc9fd31545ed",
-      "title": "像素之前：模块化工业仪表板 / Before pixels: Modular industrial dashboards",
-      "url": "https://unsung.aresluna.org/before-pixels-modular-industrial-dashboards",
-      "primary_url": "https://unsung.aresluna.org/before-pixels-modular-industrial-dashboards",
-      "source": "Hacker News front page",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "3f41a2afc0cd271ea1cc6edcd1408f5369ab059d",
-          "title": "像素之前：模块化工业仪表板 / Before pixels: Modular industrial dashboards",
-          "title_zh": "像素之前：模块化工业仪表板",
-          "title_en": "Before pixels: Modular industrial dashboards",
-          "title_original": "Before pixels: Modular industrial dashboards",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://unsung.aresluna.org/before-pixels-modular-industrial-dashboards",
-          "source": "Hacker News front page",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-30T18:49:06Z"
-        },
-        {
-          "id": "07f0e79a71aa28c91cd91e03514282284db70eb5",
-          "title": "像素之前：模块化工业仪表板 / Before pixels: Modular industrial dashboards",
-          "title_zh": "像素之前：模块化工业仪表板",
-          "title_en": "Before pixels: Modular industrial dashboards",
-          "title_original": "Before pixels: Modular industrial dashboards",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49912792",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-30T18:49:06Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News front page",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "3f41a2afc0cd271ea1cc6edcd1408f5369ab059d",
-          "title": "像素之前：模块化工业仪表板 / Before pixels: Modular industrial dashboards",
-          "title_zh": "像素之前：模块化工业仪表板",
-          "title_en": "Before pixels: Modular industrial dashboards",
-          "title_original": "Before pixels: Modular industrial dashboards",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://unsung.aresluna.org/before-pixels-modular-industrial-dashboards",
-          "source": "Hacker News front page",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-30T18:49:06Z"
-        },
-        {
-          "id": "07f0e79a71aa28c91cd91e03514282284db70eb5",
-          "title": "像素之前：模块化工业仪表板 / Before pixels: Modular industrial dashboards",
-          "title_zh": "像素之前：模块化工业仪表板",
-          "title_en": "Before pixels: Modular industrial dashboards",
-          "title_original": "Before pixels: Modular industrial dashboards",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49912792",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-30T18:49:06Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6128,
-      "importance": 0.6128,
-      "importance_score": 0.6128,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.5616,
-        "source_tier": 0.58,
-        "ai_relevance": 0.78,
-        "recency": 0.7537,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-30T18:49:06Z",
-      "latest_at": "2026-09-30T18:49:06Z",
-      "primary_item": {
-        "id": "3f41a2afc0cd271ea1cc6edcd1408f5369ab059d",
-        "title": "像素之前：模块化工业仪表板 / Before pixels: Modular industrial dashboards",
-        "title_zh": "像素之前：模块化工业仪表板",
-        "title_en": "Before pixels: Modular industrial dashboards",
-        "title_original": "Before pixels: Modular industrial dashboards",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://unsung.aresluna.org/before-pixels-modular-industrial-dashboards",
-        "source": "Hacker News front page",
-        "source_name": "Curated Media"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-01T14:25:03.663180Z"
-      }
-    },
-    {
-      "story_id": "story_923586ffcb36",
-      "title": "Launch HN: Magnitude (YC S25) – 面向智能体的自优化推理引擎 / Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
-      "url": "https://github.com/magnitudedev/magnitude",
-      "primary_url": "https://github.com/magnitudedev/magnitude",
-      "source": "Hacker News front page",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "7cdd8c52e08a4a8ea7ae61303f173ee0712049f0",
-          "title": "Launch HN: Magnitude (YC S25) – 面向智能体的自优化推理引擎 / Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
-          "title_zh": "Launch HN: Magnitude (YC S25) – 面向智能体的自优化推理引擎",
-          "title_en": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
-          "title_original": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/magnitudedev/magnitude",
-          "source": "Hacker News front page",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-30T17:37:40Z"
-        },
-        {
-          "id": "7f14a912493e3334c4d8c8b4bf6b98aa794aefe3",
-          "title": "推出 HN：Magnitude (YC S25) – 用于代理的自优化推理引擎 / Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
-          "title_zh": "推出 HN：Magnitude (YC S25) – 用于代理的自优化推理引擎",
-          "title_en": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
-          "title_original": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49911995",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-30T17:37:40Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News front page",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "7cdd8c52e08a4a8ea7ae61303f173ee0712049f0",
-          "title": "Launch HN: Magnitude (YC S25) – 面向智能体的自优化推理引擎 / Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
-          "title_zh": "Launch HN: Magnitude (YC S25) – 面向智能体的自优化推理引擎",
-          "title_en": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
-          "title_original": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/magnitudedev/magnitude",
-          "source": "Hacker News front page",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-30T17:37:40Z"
-        },
-        {
-          "id": "7f14a912493e3334c4d8c8b4bf6b98aa794aefe3",
-          "title": "推出 HN：Magnitude (YC S25) – 用于代理的自优化推理引擎 / Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
-          "title_zh": "推出 HN：Magnitude (YC S25) – 用于代理的自优化推理引擎",
-          "title_en": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
-          "title_original": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49911995",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-30T17:37:40Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.598,
-      "importance": 0.598,
-      "importance_score": 0.598,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.54,
-        "source_tier": 0.58,
-        "ai_relevance": 0.75,
-        "recency": 0.7409,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-30T17:37:40Z",
-      "latest_at": "2026-09-30T17:37:40Z",
-      "primary_item": {
-        "id": "7cdd8c52e08a4a8ea7ae61303f173ee0712049f0",
-        "title": "Launch HN: Magnitude (YC S25) – 面向智能体的自优化推理引擎 / Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
-        "title_zh": "Launch HN: Magnitude (YC S25) – 面向智能体的自优化推理引擎",
-        "title_en": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
-        "title_original": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.com/magnitudedev/magnitude",
-        "source": "Hacker News front page",
-        "source_name": "Curated Media"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-01T14:25:03.663180Z"
-      }
-    },
-    {
-      "story_id": "story_32097c696fea",
-      "title": "CS240 人工智能作弊事件回顾 / CS240 AI Cheating Retrospective",
-      "url": "https://turkeyland.net/thoughts/ai.php",
-      "primary_url": "https://turkeyland.net/thoughts/ai.php",
-      "source": "Hacker News front page",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "079fe8e1f2bae5d29d4b1e5524a9e37d420ffb45",
-          "title": "CS240 人工智能作弊事件回顾 / CS240 AI Cheating Retrospective",
-          "title_zh": "CS240 人工智能作弊事件回顾",
-          "title_en": "CS240 AI Cheating Retrospective",
-          "title_original": "CS240 AI Cheating Retrospective",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://turkeyland.net/thoughts/ai.php",
-          "source": "Hacker News front page",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-30T19:54:29Z"
-        },
-        {
-          "id": "c7c1f12a5de472ab2e68468becda124888f7cad6",
-          "title": "CS240 人工智能作弊事件回顾",
-          "title_zh": "CS240 人工智能作弊事件回顾",
-          "title_en": null,
-          "title_original": "CS240 人工智能作弊事件回顾",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://turkeyland.net/thoughts/ai.php",
-          "source": "turkeyland.net",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-01T02:53:17.701000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News front page",
-        "turkeyland.net"
-      ],
-      "items": [
-        {
-          "id": "079fe8e1f2bae5d29d4b1e5524a9e37d420ffb45",
-          "title": "CS240 人工智能作弊事件回顾 / CS240 AI Cheating Retrospective",
-          "title_zh": "CS240 人工智能作弊事件回顾",
-          "title_en": "CS240 AI Cheating Retrospective",
-          "title_original": "CS240 AI Cheating Retrospective",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://turkeyland.net/thoughts/ai.php",
-          "source": "Hacker News front page",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-30T19:54:29Z"
-        },
-        {
-          "id": "c7c1f12a5de472ab2e68468becda124888f7cad6",
-          "title": "CS240 人工智能作弊事件回顾",
-          "title_zh": "CS240 人工智能作弊事件回顾",
-          "title_en": null,
-          "title_original": "CS240 人工智能作弊事件回顾",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://turkeyland.net/thoughts/ai.php",
-          "source": "turkeyland.net",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-01T02:53:17.701000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5374,
-      "importance": 0.5374,
-      "importance_score": 0.5374,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.45,
-        "source_tier": 0.58,
-        "ai_relevance": 0.56,
-        "recency": 0.7657,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-30T19:54:29Z",
-      "latest_at": "2026-10-01T02:53:17.701000Z",
-      "primary_item": {
-        "id": "079fe8e1f2bae5d29d4b1e5524a9e37d420ffb45",
-        "title": "CS240 人工智能作弊事件回顾 / CS240 AI Cheating Retrospective",
-        "title_zh": "CS240 人工智能作弊事件回顾",
-        "title_en": "CS240 AI Cheating Retrospective",
-        "title_original": "CS240 AI Cheating Retrospective",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://turkeyland.net/thoughts/ai.php",
-        "source": "Hacker News front page",
-        "source_name": "Curated Media"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-01T14:25:03.663180Z"
+        "scored_at": "2026-10-01T17:20:12.132217Z"
       }
     }
   ]
