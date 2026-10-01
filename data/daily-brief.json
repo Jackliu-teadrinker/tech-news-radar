@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T09:21:12.056507Z",
+  "generated_at": "2026-10-01T14:23:46.696950Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8385,
-      "importance": 0.8385,
-      "importance_score": 0.8385,
+      "score": 0.8281,
+      "importance": 0.8281,
+      "importance_score": 0.8281,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.825,
+        "recency": 0.767,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,113 +83,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T09:22:35.019447Z"
+        "scored_at": "2026-10-01T14:25:03.663180Z"
       }
     },
     {
-      "story_id": "story_0df28d41ad48",
-      "title": "OpenAI 披露并处置一起有组织的模型蒸馏攻击行动 / Disrupting a coordinated model-distillation campaign",
-      "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
-      "primary_url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "677e69be9293919b541c7b1d7f5ddf99c4e569cc",
-          "title": "OpenAI 披露并处置一起有组织的模型蒸馏攻击行动 / Disrupting a coordinated model-distillation campaign",
-          "title_zh": "OpenAI 披露并处置一起有组织的模型蒸馏攻击行动",
-          "title_en": "Disrupting a coordinated model-distillation campaign",
-          "title_original": "Disrupting a coordinated model-distillation campaign",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-30T10:30:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "677e69be9293919b541c7b1d7f5ddf99c4e569cc",
-          "title": "OpenAI 披露并处置一起有组织的模型蒸馏攻击行动 / Disrupting a coordinated model-distillation campaign",
-          "title_zh": "OpenAI 披露并处置一起有组织的模型蒸馏攻击行动",
-          "title_en": "Disrupting a coordinated model-distillation campaign",
-          "title_original": "Disrupting a coordinated model-distillation campaign",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-30T10:30:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8154,
-      "importance": 0.8154,
-      "importance_score": 0.8154,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.7189,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-30T10:30:00Z",
-      "latest_at": "2026-09-30T10:30:00Z",
-      "primary_item": {
-        "id": "677e69be9293919b541c7b1d7f5ddf99c4e569cc",
-        "title": "OpenAI 披露并处置一起有组织的模型蒸馏攻击行动 / Disrupting a coordinated model-distillation campaign",
-        "title_zh": "OpenAI 披露并处置一起有组织的模型蒸馏攻击行动",
-        "title_en": "Disrupting a coordinated model-distillation campaign",
-        "title_original": "Disrupting a coordinated model-distillation campaign",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-01T09:22:35.019447Z"
-      }
-    },
-    {
-      "story_id": "story_3dc27c9fc0cd",
-      "title": "选择 npm 可信发布的 dist-tag 权限 / Opt-in dist-tag permissions for npm trusted publishing",
-      "url": "https://github.blog/changelog/2026-09-30-opt-in-dist-tag-permissions-for-npm-trusted-publishing",
-      "primary_url": "https://github.blog/changelog/2026-09-30-opt-in-dist-tag-permissions-for-npm-trusted-publishing",
+      "story_id": "story_e79047166a33",
+      "title": "Actions Runner 控制器版本 0.15.0 / Actions Runner Controller release 0.15.0",
+      "url": "https://github.blog/changelog/2026-10-01-actions-runner-controller-release-0-15-0",
+      "primary_url": "https://github.blog/changelog/2026-10-01-actions-runner-controller-release-0-15-0",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "08449e4f1bbb9462c8d2e83818728bbe8110bf1a",
-          "title": "选择 npm 可信发布的 dist-tag 权限 / Opt-in dist-tag permissions for npm trusted publishing",
-          "title_zh": "选择 npm 可信发布的 dist-tag 权限",
-          "title_en": "Opt-in dist-tag permissions for npm trusted publishing",
-          "title_original": "Opt-in dist-tag permissions for npm trusted publishing",
+          "id": "47e637690129eb98c858037b42cdbb445190b3a6",
+          "title": "Actions Runner 控制器版本 0.15.0 / Actions Runner Controller release 0.15.0",
+          "title_zh": "Actions Runner 控制器版本 0.15.0",
+          "title_en": "Actions Runner Controller release 0.15.0",
+          "title_original": "Actions Runner Controller release 0.15.0",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-30-opt-in-dist-tag-permissions-for-npm-trusted-publishing",
+          "url": "https://github.blog/changelog/2026-10-01-actions-runner-controller-release-0-15-0",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-30T21:03:09Z"
+          "published_at": "2026-10-01T13:01:31Z"
         }
       ],
       "source_count": 1,
@@ -198,31 +115,31 @@
       ],
       "items": [
         {
-          "id": "08449e4f1bbb9462c8d2e83818728bbe8110bf1a",
-          "title": "选择 npm 可信发布的 dist-tag 权限 / Opt-in dist-tag permissions for npm trusted publishing",
-          "title_zh": "选择 npm 可信发布的 dist-tag 权限",
-          "title_en": "Opt-in dist-tag permissions for npm trusted publishing",
-          "title_original": "Opt-in dist-tag permissions for npm trusted publishing",
+          "id": "47e637690129eb98c858037b42cdbb445190b3a6",
+          "title": "Actions Runner 控制器版本 0.15.0 / Actions Runner Controller release 0.15.0",
+          "title_zh": "Actions Runner 控制器版本 0.15.0",
+          "title_en": "Actions Runner Controller release 0.15.0",
+          "title_original": "Actions Runner Controller release 0.15.0",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-30-opt-in-dist-tag-permissions-for-npm-trusted-publishing",
+          "url": "https://github.blog/changelog/2026-10-01-actions-runner-controller-release-0-15-0",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-30T21:03:09Z"
+          "published_at": "2026-10-01T13:01:31Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7867,
-      "importance": 0.7867,
-      "importance_score": 0.7867,
+      "score": 0.8125,
+      "importance": 0.8125,
+      "importance_score": 0.8125,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.73,
-        "recency": 0.8373,
+        "recency": 0.9804,
         "story_heat": 0.0
       },
       "category": "official",
@@ -230,17 +147,17 @@
         "official_source",
         "high_importance"
       ],
-      "earliest_at": "2026-09-30T21:03:09Z",
-      "latest_at": "2026-09-30T21:03:09Z",
+      "earliest_at": "2026-10-01T13:01:31Z",
+      "latest_at": "2026-10-01T13:01:31Z",
       "primary_item": {
-        "id": "08449e4f1bbb9462c8d2e83818728bbe8110bf1a",
-        "title": "选择 npm 可信发布的 dist-tag 权限 / Opt-in dist-tag permissions for npm trusted publishing",
-        "title_zh": "选择 npm 可信发布的 dist-tag 权限",
-        "title_en": "Opt-in dist-tag permissions for npm trusted publishing",
-        "title_original": "Opt-in dist-tag permissions for npm trusted publishing",
+        "id": "47e637690129eb98c858037b42cdbb445190b3a6",
+        "title": "Actions Runner 控制器版本 0.15.0 / Actions Runner Controller release 0.15.0",
+        "title_zh": "Actions Runner 控制器版本 0.15.0",
+        "title_en": "Actions Runner Controller release 0.15.0",
+        "title_original": "Actions Runner Controller release 0.15.0",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-30-opt-in-dist-tag-permissions-for-npm-trusted-publishing",
+        "url": "https://github.blog/changelog/2026-10-01-actions-runner-controller-release-0-15-0",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -248,90 +165,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T09:22:35.019447Z"
+        "scored_at": "2026-10-01T14:25:03.663180Z"
       }
     },
     {
-      "story_id": "story_01ea8e57038e",
-      "title": "Helping small businesses put AI to work",
-      "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
-      "primary_url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
+      "story_id": "story_9d8a37b506d5",
+      "title": "OpenAI 称拦截蒸馏窃取攻击，但研究者称同样手法在 Azure 上仍可窃取 GPT-6 Astra 等模型的推理内容 / OpenAI says it stopped a campaign to steal its models' reasoning, but the trick still worked on Azure",
+      "url": "https://the-decoder.com/openai-says-it-stopped-a-campaign-to-steal-its-models-reasoning-but-the-trick-still-worked-on-azure",
+      "primary_url": "https://the-decoder.com/openai-says-it-stopped-a-campaign-to-steal-its-models-reasoning-but-the-trick-still-worked-on-azure",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "c2d370276dc4df6163e75733f9c8e70387d9d9b2",
-          "title": "Helping small businesses put AI to work",
-          "title_zh": null,
-          "title_en": "Helping small businesses put AI to work",
-          "title_original": "Helping small businesses put AI to work",
-          "summary": null,
+          "id": "c5b406c3dda7be181007a6b78766d116c816412c",
+          "title": "OpenAI 称拦截蒸馏窃取攻击，但研究者称同样手法在 Azure 上仍可窃取 GPT-6 Astra 等模型的推理内容 / OpenAI says it stopped a campaign to steal its models' reasoning, but the trick still worked on Azure",
+          "title_zh": "OpenAI 称拦截蒸馏窃取攻击，但研究者称同样手法在 Azure 上仍可窃取 GPT-6 Astra 等模型的推理内容",
+          "title_en": "OpenAI says it stopped a campaign to steal its models' reasoning, but the trick still worked on Azure",
+          "title_original": "OpenAI says it stopped a campaign to steal its models' reasoning, but the trick still worked on Azure",
+          "summary": "OpenAI 称 7 月拦截了一起针对其模型推理链的蒸馏窃取活动，7 月 24 至 25 日出现来自超 4000 用户的 16000 次请求，关联账号超 15000 个，OpenAI 将其与 Moonshot AI 相关人员联系起来，并于 7 月 28 日关停。",
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-30T10:00:00Z"
+          "url": "https://the-decoder.com/openai-says-it-stopped-a-campaign-to-steal-its-models-reasoning-but-the-trick-still-worked-on-azure",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-01T12:05:49Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "OpenAI News"
+        "The Decoder：AI News（RSS）"
       ],
       "items": [
         {
-          "id": "c2d370276dc4df6163e75733f9c8e70387d9d9b2",
-          "title": "Helping small businesses put AI to work",
-          "title_zh": null,
-          "title_en": "Helping small businesses put AI to work",
-          "title_original": "Helping small businesses put AI to work",
-          "summary": null,
+          "id": "c5b406c3dda7be181007a6b78766d116c816412c",
+          "title": "OpenAI 称拦截蒸馏窃取攻击，但研究者称同样手法在 Azure 上仍可窃取 GPT-6 Astra 等模型的推理内容 / OpenAI says it stopped a campaign to steal its models' reasoning, but the trick still worked on Azure",
+          "title_zh": "OpenAI 称拦截蒸馏窃取攻击，但研究者称同样手法在 Azure 上仍可窃取 GPT-6 Astra 等模型的推理内容",
+          "title_en": "OpenAI says it stopped a campaign to steal its models' reasoning, but the trick still worked on Azure",
+          "title_original": "OpenAI says it stopped a campaign to steal its models' reasoning, but the trick still worked on Azure",
+          "summary": "OpenAI 称 7 月拦截了一起针对其模型推理链的蒸馏窃取活动，7 月 24 至 25 日出现来自超 4000 用户的 16000 次请求，关联账号超 15000 个，OpenAI 将其与 Moonshot AI 相关人员联系起来，并于 7 月 28 日关停。",
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-30T10:00:00Z"
+          "url": "https://the-decoder.com/openai-says-it-stopped-a-campaign-to-steal-its-models-reasoning-but-the-trick-still-worked-on-azure",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-01T12:05:49Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8145,
-      "importance": 0.8145,
-      "importance_score": 0.8145,
-      "importance_label": "官方更新",
+      "score": 0.7667,
+      "importance": 0.7667,
+      "importance_score": 0.7667,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.7137,
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 0.95,
+        "recency": 0.9673,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-30T10:00:00Z",
-      "latest_at": "2026-09-30T10:00:00Z",
+      "earliest_at": "2026-10-01T12:05:49Z",
+      "latest_at": "2026-10-01T12:05:49Z",
       "primary_item": {
-        "id": "c2d370276dc4df6163e75733f9c8e70387d9d9b2",
-        "title": "Helping small businesses put AI to work",
-        "title_zh": null,
-        "title_en": "Helping small businesses put AI to work",
-        "title_original": "Helping small businesses put AI to work",
-        "summary": null,
+        "id": "c5b406c3dda7be181007a6b78766d116c816412c",
+        "title": "OpenAI 称拦截蒸馏窃取攻击，但研究者称同样手法在 Azure 上仍可窃取 GPT-6 Astra 等模型的推理内容 / OpenAI says it stopped a campaign to steal its models' reasoning, but the trick still worked on Azure",
+        "title_zh": "OpenAI 称拦截蒸馏窃取攻击，但研究者称同样手法在 Azure 上仍可窃取 GPT-6 Astra 等模型的推理内容",
+        "title_en": "OpenAI says it stopped a campaign to steal its models' reasoning, but the trick still worked on Azure",
+        "title_original": "OpenAI says it stopped a campaign to steal its models' reasoning, but the trick still worked on Azure",
+        "summary": "OpenAI 称 7 月拦截了一起针对其模型推理链的蒸馏窃取活动，7 月 24 至 25 日出现来自超 4000 用户的 16000 次请求，关联账号超 15000 个，OpenAI 将其与 Moonshot AI 相关人员联系起来，并于 7 月 28 日关停。",
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
+        "url": "https://the-decoder.com/openai-says-it-stopped-a-campaign-to-steal-its-models-reasoning-but-the-trick-still-worked-on-azure",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T09:22:35.019447Z"
+        "scored_at": "2026-10-01T14:25:03.663180Z"
       }
     },
     {
@@ -408,22 +324,21 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.759,
-      "importance": 0.759,
-      "importance_score": 0.759,
+      "score": 0.7472,
+      "importance": 0.7472,
+      "importance_score": 0.7472,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.9356,
+        "recency": 0.8699,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-01T04:44:34Z",
       "latest_at": "2026-10-01T04:44:34Z",
@@ -443,7 +358,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T09:22:35.019447Z"
+        "scored_at": "2026-10-01T14:25:03.663180Z"
+      }
+    },
+    {
+      "story_id": "story_3dc27c9fc0cd",
+      "title": "选择 npm 可信发布的 dist-tag 权限 / Opt-in dist-tag permissions for npm trusted publishing",
+      "url": "https://github.blog/changelog/2026-09-30-opt-in-dist-tag-permissions-for-npm-trusted-publishing",
+      "primary_url": "https://github.blog/changelog/2026-09-30-opt-in-dist-tag-permissions-for-npm-trusted-publishing",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "08449e4f1bbb9462c8d2e83818728bbe8110bf1a",
+          "title": "选择 npm 可信发布的 dist-tag 权限 / Opt-in dist-tag permissions for npm trusted publishing",
+          "title_zh": "选择 npm 可信发布的 dist-tag 权限",
+          "title_en": "Opt-in dist-tag permissions for npm trusted publishing",
+          "title_original": "Opt-in dist-tag permissions for npm trusted publishing",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-30-opt-in-dist-tag-permissions-for-npm-trusted-publishing",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-30T21:03:09Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "08449e4f1bbb9462c8d2e83818728bbe8110bf1a",
+          "title": "选择 npm 可信发布的 dist-tag 权限 / Opt-in dist-tag permissions for npm trusted publishing",
+          "title_zh": "选择 npm 可信发布的 dist-tag 权限",
+          "title_en": "Opt-in dist-tag permissions for npm trusted publishing",
+          "title_original": "Opt-in dist-tag permissions for npm trusted publishing",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-30-opt-in-dist-tag-permissions-for-npm-trusted-publishing",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-30T21:03:09Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7761,
+      "importance": 0.7761,
+      "importance_score": 0.7761,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.73,
+        "recency": 0.7784,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-30T21:03:09Z",
+      "latest_at": "2026-09-30T21:03:09Z",
+      "primary_item": {
+        "id": "08449e4f1bbb9462c8d2e83818728bbe8110bf1a",
+        "title": "选择 npm 可信发布的 dist-tag 权限 / Opt-in dist-tag permissions for npm trusted publishing",
+        "title_zh": "选择 npm 可信发布的 dist-tag 权限",
+        "title_en": "Opt-in dist-tag permissions for npm trusted publishing",
+        "title_original": "Opt-in dist-tag permissions for npm trusted publishing",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-09-30-opt-in-dist-tag-permissions-for-npm-trusted-publishing",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-01T14:25:03.663180Z"
       }
     },
     {
@@ -491,21 +488,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7505,
-      "importance": 0.7505,
-      "importance_score": 0.7505,
+      "score": 0.7398,
+      "importance": 0.7398,
+      "importance_score": 0.7398,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.8438,
+        "recency": 0.7846,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-30T21:35:38Z",
       "latest_at": "2026-09-30T21:35:38Z",
@@ -525,7 +521,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T09:22:35.019447Z"
+        "scored_at": "2026-10-01T14:25:03.663180Z"
       }
     },
     {
@@ -573,15 +569,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7495,
-      "importance": 0.7495,
-      "importance_score": 0.7495,
+      "score": 0.7389,
+      "importance": 0.7389,
+      "importance_score": 0.7389,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.8385,
+        "recency": 0.7796,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -606,170 +602,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T09:22:35.019447Z"
-      }
-    },
-    {
-      "story_id": "story_a67dcb1766e6",
-      "title": "HydraFusion in VS Code and the GitHub Copilot app",
-      "url": "https://github.blog/changelog/2026-09-30-hydrafusion-in-vs-code-and-the-github-copilot-app",
-      "primary_url": "https://github.blog/changelog/2026-09-30-hydrafusion-in-vs-code-and-the-github-copilot-app",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "bd6ff7531c4f691e042fd6a620e1de8e0f43bc53",
-          "title": "HydraFusion in VS Code and the GitHub Copilot app",
-          "title_zh": null,
-          "title_en": "HydraFusion in VS Code and the GitHub Copilot app",
-          "title_original": "HydraFusion in VS Code and the GitHub Copilot app",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-30-hydrafusion-in-vs-code-and-the-github-copilot-app",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-30T14:31:19Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "bd6ff7531c4f691e042fd6a620e1de8e0f43bc53",
-          "title": "HydraFusion in VS Code and the GitHub Copilot app",
-          "title_zh": null,
-          "title_en": "HydraFusion in VS Code and the GitHub Copilot app",
-          "title_original": "HydraFusion in VS Code and the GitHub Copilot app",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-30-hydrafusion-in-vs-code-and-the-github-copilot-app",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-30T14:31:19Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7791,
-      "importance": 0.7791,
-      "importance_score": 0.7791,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.76,
-        "recency": 0.7619,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-30T14:31:19Z",
-      "latest_at": "2026-09-30T14:31:19Z",
-      "primary_item": {
-        "id": "bd6ff7531c4f691e042fd6a620e1de8e0f43bc53",
-        "title": "HydraFusion in VS Code and the GitHub Copilot app",
-        "title_zh": null,
-        "title_en": "HydraFusion in VS Code and the GitHub Copilot app",
-        "title_original": "HydraFusion in VS Code and the GitHub Copilot app",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-30-hydrafusion-in-vs-code-and-the-github-copilot-app",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-01T09:22:35.019447Z"
-      }
-    },
-    {
-      "story_id": "story_68bad53a3f25",
-      "title": "FTC 以消费者保护为由对 OpenAI、Anthropic 等 AI 实验室启动全面调查 / FTC launches sweeping probe into OpenAI, Anthropic, and other AI labs over consumer protection concerns",
-      "url": "https://the-decoder.com/ftc-launches-sweeping-probe-into-openai-anthropic-and-other-ai-labs-over-consumer-protection-concerns",
-      "primary_url": "https://the-decoder.com/ftc-launches-sweeping-probe-into-openai-anthropic-and-other-ai-labs-over-consumer-protection-concerns",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "642e8da577619291348e2e74443467b30fe57f10",
-          "title": "FTC 以消费者保护为由对 OpenAI、Anthropic 等 AI 实验室启动全面调查 / FTC launches sweeping probe into OpenAI, Anthropic, and other AI labs over consumer protection concerns",
-          "title_zh": "FTC 以消费者保护为由对 OpenAI、Anthropic 等 AI 实验室启动全面调查",
-          "title_en": "FTC launches sweeping probe into OpenAI, Anthropic, and other AI labs over consumer protection concerns",
-          "title_original": "FTC launches sweeping probe into OpenAI, Anthropic, and other AI labs over consumer protection concerns",
-          "summary": "FTC 正以潜在消费者保护违规为由调查 OpenAI、Anthropic 等头部 AI 实验室，主席 Andrew Ferguson 计划通过具法律约束力的 Civil Investigative Demands 强制调取文件并质询高管，命令将在数周内发出，METR 也在审查范围之列。",
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/ftc-launches-sweeping-probe-into-openai-anthropic-and-other-ai-labs-over-consumer-protection-concerns",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-30T16:20:04Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "The Decoder：AI News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "642e8da577619291348e2e74443467b30fe57f10",
-          "title": "FTC 以消费者保护为由对 OpenAI、Anthropic 等 AI 实验室启动全面调查 / FTC launches sweeping probe into OpenAI, Anthropic, and other AI labs over consumer protection concerns",
-          "title_zh": "FTC 以消费者保护为由对 OpenAI、Anthropic 等 AI 实验室启动全面调查",
-          "title_en": "FTC launches sweeping probe into OpenAI, Anthropic, and other AI labs over consumer protection concerns",
-          "title_original": "FTC launches sweeping probe into OpenAI, Anthropic, and other AI labs over consumer protection concerns",
-          "summary": "FTC 正以潜在消费者保护违规为由调查 OpenAI、Anthropic 等头部 AI 实验室，主席 Andrew Ferguson 计划通过具法律约束力的 Civil Investigative Demands 强制调取文件并质询高管，命令将在数周内发出，METR 也在审查范围之列。",
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/ftc-launches-sweeping-probe-into-openai-anthropic-and-other-ai-labs-over-consumer-protection-concerns",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-30T16:20:04Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7484,
-      "importance": 0.7484,
-      "importance_score": 0.7484,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.82,
-        "source_tier": 0.78,
-        "ai_relevance": 0.95,
-        "recency": 0.7821,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-30T16:20:04Z",
-      "latest_at": "2026-09-30T16:20:04Z",
-      "primary_item": {
-        "id": "642e8da577619291348e2e74443467b30fe57f10",
-        "title": "FTC 以消费者保护为由对 OpenAI、Anthropic 等 AI 实验室启动全面调查 / FTC launches sweeping probe into OpenAI, Anthropic, and other AI labs over consumer protection concerns",
-        "title_zh": "FTC 以消费者保护为由对 OpenAI、Anthropic 等 AI 实验室启动全面调查",
-        "title_en": "FTC launches sweeping probe into OpenAI, Anthropic, and other AI labs over consumer protection concerns",
-        "title_original": "FTC launches sweeping probe into OpenAI, Anthropic, and other AI labs over consumer protection concerns",
-        "summary": "FTC 正以潜在消费者保护违规为由调查 OpenAI、Anthropic 等头部 AI 实验室，主席 Andrew Ferguson 计划通过具法律约束力的 Civil Investigative Demands 强制调取文件并质询高管，命令将在数周内发出，METR 也在审查范围之列。",
-        "recommend_reason_zh": null,
-        "url": "https://the-decoder.com/ftc-launches-sweeping-probe-into-openai-anthropic-and-other-ai-labs-over-consumer-protection-concerns",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-01T09:22:35.019447Z"
+        "scored_at": "2026-10-01T14:25:03.663180Z"
       }
     },
     {
@@ -817,15 +650,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7478,
-      "importance": 0.7478,
-      "importance_score": 0.7478,
+      "score": 0.7373,
+      "importance": 0.7373,
+      "importance_score": 0.7373,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.8289,
+        "recency": 0.7707,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -850,7 +683,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T09:22:35.019447Z"
+        "scored_at": "2026-10-01T14:25:03.663180Z"
       }
     },
     {
@@ -898,15 +731,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7742,
-      "importance": 0.7742,
-      "importance_score": 0.7742,
+      "score": 0.7645,
+      "importance": 0.7645,
+      "importance_score": 0.7645,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.73,
-        "recency": 0.7678,
+        "recency": 0.7138,
         "story_heat": 0.0
       },
       "category": "official",
@@ -932,12 +765,286 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T09:22:35.019447Z"
+        "scored_at": "2026-10-01T14:25:03.663180Z"
+      }
+    },
+    {
+      "story_id": "story_a67dcb1766e6",
+      "title": "HydraFusion in VS Code and the GitHub Copilot app",
+      "url": "https://github.blog/changelog/2026-09-30-hydrafusion-in-vs-code-and-the-github-copilot-app",
+      "primary_url": "https://github.blog/changelog/2026-09-30-hydrafusion-in-vs-code-and-the-github-copilot-app",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "bd6ff7531c4f691e042fd6a620e1de8e0f43bc53",
+          "title": "HydraFusion in VS Code and the GitHub Copilot app",
+          "title_zh": null,
+          "title_en": "HydraFusion in VS Code and the GitHub Copilot app",
+          "title_original": "HydraFusion in VS Code and the GitHub Copilot app",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-30-hydrafusion-in-vs-code-and-the-github-copilot-app",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-30T14:31:19Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "bd6ff7531c4f691e042fd6a620e1de8e0f43bc53",
+          "title": "HydraFusion in VS Code and the GitHub Copilot app",
+          "title_zh": null,
+          "title_en": "HydraFusion in VS Code and the GitHub Copilot app",
+          "title_original": "HydraFusion in VS Code and the GitHub Copilot app",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-30-hydrafusion-in-vs-code-and-the-github-copilot-app",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-30T14:31:19Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7695,
+      "importance": 0.7695,
+      "importance_score": 0.7695,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.76,
+        "recency": 0.7084,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-30T14:31:19Z",
+      "latest_at": "2026-09-30T14:31:19Z",
+      "primary_item": {
+        "id": "bd6ff7531c4f691e042fd6a620e1de8e0f43bc53",
+        "title": "HydraFusion in VS Code and the GitHub Copilot app",
+        "title_zh": null,
+        "title_en": "HydraFusion in VS Code and the GitHub Copilot app",
+        "title_original": "HydraFusion in VS Code and the GitHub Copilot app",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-09-30-hydrafusion-in-vs-code-and-the-github-copilot-app",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-01T14:25:03.663180Z"
+      }
+    },
+    {
+      "story_id": "story_68bad53a3f25",
+      "title": "FTC 以消费者保护为由对 OpenAI、Anthropic 等 AI 实验室启动全面调查 / FTC launches sweeping probe into OpenAI, Anthropic, and other AI labs over consumer protection concerns",
+      "url": "https://the-decoder.com/ftc-launches-sweeping-probe-into-openai-anthropic-and-other-ai-labs-over-consumer-protection-concerns",
+      "primary_url": "https://the-decoder.com/ftc-launches-sweeping-probe-into-openai-anthropic-and-other-ai-labs-over-consumer-protection-concerns",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "642e8da577619291348e2e74443467b30fe57f10",
+          "title": "FTC 以消费者保护为由对 OpenAI、Anthropic 等 AI 实验室启动全面调查 / FTC launches sweeping probe into OpenAI, Anthropic, and other AI labs over consumer protection concerns",
+          "title_zh": "FTC 以消费者保护为由对 OpenAI、Anthropic 等 AI 实验室启动全面调查",
+          "title_en": "FTC launches sweeping probe into OpenAI, Anthropic, and other AI labs over consumer protection concerns",
+          "title_original": "FTC launches sweeping probe into OpenAI, Anthropic, and other AI labs over consumer protection concerns",
+          "summary": "FTC 正以潜在消费者保护违规为由调查 OpenAI、Anthropic 等头部 AI 实验室，主席 Andrew Ferguson 计划通过具法律约束力的 Civil Investigative Demands 强制调取文件并质询高管，命令将在数周内发出，METR 也在审查范围之列。",
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/ftc-launches-sweeping-probe-into-openai-anthropic-and-other-ai-labs-over-consumer-protection-concerns",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-30T16:20:04Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "642e8da577619291348e2e74443467b30fe57f10",
+          "title": "FTC 以消费者保护为由对 OpenAI、Anthropic 等 AI 实验室启动全面调查 / FTC launches sweeping probe into OpenAI, Anthropic, and other AI labs over consumer protection concerns",
+          "title_zh": "FTC 以消费者保护为由对 OpenAI、Anthropic 等 AI 实验室启动全面调查",
+          "title_en": "FTC launches sweeping probe into OpenAI, Anthropic, and other AI labs over consumer protection concerns",
+          "title_original": "FTC launches sweeping probe into OpenAI, Anthropic, and other AI labs over consumer protection concerns",
+          "summary": "FTC 正以潜在消费者保护违规为由调查 OpenAI、Anthropic 等头部 AI 实验室，主席 Andrew Ferguson 计划通过具法律约束力的 Civil Investigative Demands 强制调取文件并质询高管，命令将在数周内发出，METR 也在审查范围之列。",
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/ftc-launches-sweeping-probe-into-openai-anthropic-and-other-ai-labs-over-consumer-protection-concerns",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-30T16:20:04Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7385,
+      "importance": 0.7385,
+      "importance_score": 0.7385,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.82,
+        "source_tier": 0.78,
+        "ai_relevance": 0.95,
+        "recency": 0.7272,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-30T16:20:04Z",
+      "latest_at": "2026-09-30T16:20:04Z",
+      "primary_item": {
+        "id": "642e8da577619291348e2e74443467b30fe57f10",
+        "title": "FTC 以消费者保护为由对 OpenAI、Anthropic 等 AI 实验室启动全面调查 / FTC launches sweeping probe into OpenAI, Anthropic, and other AI labs over consumer protection concerns",
+        "title_zh": "FTC 以消费者保护为由对 OpenAI、Anthropic 等 AI 实验室启动全面调查",
+        "title_en": "FTC launches sweeping probe into OpenAI, Anthropic, and other AI labs over consumer protection concerns",
+        "title_original": "FTC launches sweeping probe into OpenAI, Anthropic, and other AI labs over consumer protection concerns",
+        "summary": "FTC 正以潜在消费者保护违规为由调查 OpenAI、Anthropic 等头部 AI 实验室，主席 Andrew Ferguson 计划通过具法律约束力的 Civil Investigative Demands 强制调取文件并质询高管，命令将在数周内发出，METR 也在审查范围之列。",
+        "recommend_reason_zh": null,
+        "url": "https://the-decoder.com/ftc-launches-sweeping-probe-into-openai-anthropic-and-other-ai-labs-over-consumer-protection-concerns",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-01T14:25:03.663180Z"
+      }
+    },
+    {
+      "story_id": "story_17c7fb1b1d6b",
+      "title": "FTC 正在调查 OpenAI、Anthropic 等人工智能公司的产品风险 / FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
+      "url": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html",
+      "primary_url": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html",
+      "source": "Hacker News front page",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "9141dc74f72e4d0003d357c7545b31d0812c0ff0",
+          "title": "FTC 正在调查 OpenAI、Anthropic 等人工智能公司的产品风险 / FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
+          "title_zh": "FTC 正在调查 OpenAI、Anthropic 等人工智能公司的产品风险",
+          "title_en": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
+          "title_original": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html",
+          "source": "Hacker News front page",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-01T13:00:55Z"
+        },
+        {
+          "id": "5ae38b3b59c67b3dd3f4b06385e6171147fc5631",
+          "title": "FTC 正在调查 OpenAI、Anthropic 等人工智能公司的产品风险 / FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
+          "title_zh": "FTC 正在调查 OpenAI、Anthropic 等人工智能公司的产品风险",
+          "title_en": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
+          "title_original": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49921050",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-01T13:00:55Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News front page",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "9141dc74f72e4d0003d357c7545b31d0812c0ff0",
+          "title": "FTC 正在调查 OpenAI、Anthropic 等人工智能公司的产品风险 / FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
+          "title_zh": "FTC 正在调查 OpenAI、Anthropic 等人工智能公司的产品风险",
+          "title_en": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
+          "title_original": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html",
+          "source": "Hacker News front page",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-01T13:00:55Z"
+        },
+        {
+          "id": "5ae38b3b59c67b3dd3f4b06385e6171147fc5631",
+          "title": "FTC 正在调查 OpenAI、Anthropic 等人工智能公司的产品风险 / FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
+          "title_zh": "FTC 正在调查 OpenAI、Anthropic 等人工智能公司的产品风险",
+          "title_en": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
+          "title_original": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49921050",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-01T13:00:55Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6868,
+      "importance": 0.6868,
+      "importance_score": 0.6868,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.6192,
+        "source_tier": 0.58,
+        "ai_relevance": 0.86,
+        "recency": 0.9803,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-01T13:00:55Z",
+      "latest_at": "2026-10-01T13:00:55Z",
+      "primary_item": {
+        "id": "9141dc74f72e4d0003d357c7545b31d0812c0ff0",
+        "title": "FTC 正在调查 OpenAI、Anthropic 等人工智能公司的产品风险 / FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
+        "title_zh": "FTC 正在调查 OpenAI、Anthropic 等人工智能公司的产品风险",
+        "title_en": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
+        "title_original": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html",
+        "source": "Hacker News front page",
+        "source_name": "Curated Media"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-01T14:25:03.663180Z"
       }
     },
     {
       "story_id": "story_0cb3c1ba901d",
-      "title": "GitHub Advanced Security trials for GitHub Team",
+      "title": "GitHub 团队的 GitHub 高级安全试用 / GitHub Advanced Security trials for GitHub Team",
       "url": "https://github.blog/changelog/2026-09-30-github-advanced-security-trials-for-github-team",
       "primary_url": "https://github.blog/changelog/2026-09-30-github-advanced-security-trials-for-github-team",
       "source": "GitHub Changelog",
@@ -945,8 +1052,8 @@
       "sources": [
         {
           "id": "ec2bff5a72b049f1ed2987ebb95a5c08547c464e",
-          "title": "GitHub Advanced Security trials for GitHub Team",
-          "title_zh": null,
+          "title": "GitHub 团队的 GitHub 高级安全试用 / GitHub Advanced Security trials for GitHub Team",
+          "title_zh": "GitHub 团队的 GitHub 高级安全试用",
           "title_en": "GitHub Advanced Security trials for GitHub Team",
           "title_original": "GitHub Advanced Security trials for GitHub Team",
           "summary": null,
@@ -965,8 +1072,8 @@
       "items": [
         {
           "id": "ec2bff5a72b049f1ed2987ebb95a5c08547c464e",
-          "title": "GitHub Advanced Security trials for GitHub Team",
-          "title_zh": null,
+          "title": "GitHub 团队的 GitHub 高级安全试用 / GitHub Advanced Security trials for GitHub Team",
+          "title_zh": "GitHub 团队的 GitHub 高级安全试用",
           "title_en": "GitHub Advanced Security trials for GitHub Team",
           "title_original": "GitHub Advanced Security trials for GitHub Team",
           "summary": null,
@@ -980,15 +1087,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7777,
-      "importance": 0.7777,
-      "importance_score": 0.7777,
+      "score": 0.7678,
+      "importance": 0.7678,
+      "importance_score": 0.7678,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.73,
-        "recency": 0.7875,
+        "recency": 0.7322,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1000,8 +1107,8 @@
       "latest_at": "2026-09-30T16:48:24Z",
       "primary_item": {
         "id": "ec2bff5a72b049f1ed2987ebb95a5c08547c464e",
-        "title": "GitHub Advanced Security trials for GitHub Team",
-        "title_zh": null,
+        "title": "GitHub 团队的 GitHub 高级安全试用 / GitHub Advanced Security trials for GitHub Team",
+        "title_zh": "GitHub 团队的 GitHub 高级安全试用",
         "title_en": "GitHub Advanced Security trials for GitHub Team",
         "title_original": "GitHub Advanced Security trials for GitHub Team",
         "summary": null,
@@ -1014,89 +1121,227 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T09:22:35.019447Z"
+        "scored_at": "2026-10-01T14:25:03.663180Z"
       }
     },
     {
-      "story_id": "story_a919a86617b9",
-      "title": "X25519-only TLS ends for GHE.com on October 7",
-      "url": "https://github.blog/changelog/2026-09-30-x25519-only-tls-ends-for-ghe-com-on-september-15",
-      "primary_url": "https://github.blog/changelog/2026-09-30-x25519-only-tls-ends-for-ghe-com-on-september-15",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_91de62452fe7",
+      "title": "GPT-Synopsys：前沿智能革新芯片设计 / GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
+      "url": "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design",
+      "primary_url": "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design",
+      "source": "Hacker News front page",
+      "source_name": "Curated Media",
       "sources": [
         {
-          "id": "948d0dd99d933f858ba2845beb4c4a268024a4fb",
-          "title": "X25519-only TLS ends for GHE.com on October 7",
-          "title_zh": null,
-          "title_en": "X25519-only TLS ends for GHE.com on October 7",
-          "title_original": "X25519-only TLS ends for GHE.com on October 7",
+          "id": "2ce343653af69c84c95a6a224cea158cb527e4fb",
+          "title": "GPT-Synopsys：前沿智能革新芯片设计 / GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
+          "title_zh": "GPT-Synopsys：前沿智能革新芯片设计",
+          "title_en": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
+          "title_original": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-30-x25519-only-tls-ends-for-ghe-com-on-september-15",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-30T13:30:24Z"
+          "url": "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design",
+          "source": "Hacker News front page",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-01T10:21:36Z"
+        },
+        {
+          "id": "94029b37e9dcdb1b334a06eaef11d5efd7fd5405",
+          "title": "GPT-Synopsys：前沿智能革新芯片设计 / GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
+          "title_zh": "GPT-Synopsys：前沿智能革新芯片设计",
+          "title_en": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
+          "title_original": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49919910",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-01T10:21:36Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "GitHub Changelog"
+        "Hacker News front page",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "948d0dd99d933f858ba2845beb4c4a268024a4fb",
-          "title": "X25519-only TLS ends for GHE.com on October 7",
-          "title_zh": null,
-          "title_en": "X25519-only TLS ends for GHE.com on October 7",
-          "title_original": "X25519-only TLS ends for GHE.com on October 7",
+          "id": "2ce343653af69c84c95a6a224cea158cb527e4fb",
+          "title": "GPT-Synopsys：前沿智能革新芯片设计 / GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
+          "title_zh": "GPT-Synopsys：前沿智能革新芯片设计",
+          "title_en": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
+          "title_original": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-30-x25519-only-tls-ends-for-ghe-com-on-september-15",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-30T13:30:24Z"
+          "url": "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design",
+          "source": "Hacker News front page",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-01T10:21:36Z"
+        },
+        {
+          "id": "94029b37e9dcdb1b334a06eaef11d5efd7fd5405",
+          "title": "GPT-Synopsys：前沿智能革新芯片设计 / GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
+          "title_zh": "GPT-Synopsys：前沿智能革新芯片设计",
+          "title_en": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
+          "title_original": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49919910",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-01T10:21:36Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7711,
-      "importance": 0.7711,
-      "importance_score": 0.7711,
-      "importance_label": "官方更新",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6802,
+      "importance": 0.6802,
+      "importance_score": 0.6802,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.73,
-        "recency": 0.7508,
-        "story_heat": 0.0
+        "editorial": 0.6192,
+        "source_tier": 0.58,
+        "ai_relevance": 0.86,
+        "recency": 0.9434,
+        "story_heat": 0.25
       },
-      "category": "official",
+      "category": "watch",
       "reasons": [
-        "official_source",
-        "high_importance"
+        "multi_source",
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-30T13:30:24Z",
-      "latest_at": "2026-09-30T13:30:24Z",
+      "earliest_at": "2026-10-01T10:21:36Z",
+      "latest_at": "2026-10-01T10:21:36Z",
       "primary_item": {
-        "id": "948d0dd99d933f858ba2845beb4c4a268024a4fb",
-        "title": "X25519-only TLS ends for GHE.com on October 7",
-        "title_zh": null,
-        "title_en": "X25519-only TLS ends for GHE.com on October 7",
-        "title_original": "X25519-only TLS ends for GHE.com on October 7",
+        "id": "2ce343653af69c84c95a6a224cea158cb527e4fb",
+        "title": "GPT-Synopsys：前沿智能革新芯片设计 / GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
+        "title_zh": "GPT-Synopsys：前沿智能革新芯片设计",
+        "title_en": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
+        "title_original": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-30-x25519-only-tls-ends-for-ghe-com-on-september-15",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
+        "url": "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design",
+        "source": "Hacker News front page",
+        "source_name": "Curated Media"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T09:22:35.019447Z"
+        "scored_at": "2026-10-01T14:25:03.663180Z"
+      }
+    },
+    {
+      "story_id": "story_3ee67536745c",
+      "title": "Google announces Gemini 4 and says it&#8217;s so capable that only &#8216;trusted cyber defenders&#8217; can have it right now",
+      "url": "https://www.theverge.com/tech/1002980/google-gemini-4-argon",
+      "primary_url": "https://www.theverge.com/tech/1002980/google-gemini-4-argon",
+      "source": "The Verge",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "90d01ae673e6f9de7e9cb8ee26ef8ef66cf55f2d",
+          "title": "Google announces Gemini 4 and says it&#8217;s so capable that only &#8216;trusted cyber defenders&#8217; can have it right now",
+          "title_zh": null,
+          "title_en": "Google announces Gemini 4 and says it&#8217;s so capable that only &#8216;trusted cyber defenders&#8217; can have it right now",
+          "title_original": "Google announces Gemini 4 and says it&#8217;s so capable that only &#8216;trusted cyber defenders&#8217; can have it right now",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/tech/1002980/google-gemini-4-argon",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-30T20:41:41Z"
+        },
+        {
+          "id": "9d4d1d911fe709c7d18848c3c5623444ef57c535",
+          "title": "Google announces Gemini 4 and says it’s so capable that only ‘trusted cyber defenders’ can have it right now",
+          "title_zh": null,
+          "title_en": "Google announces Gemini 4 and says it’s so capable that only ‘trusted cyber defenders’ can have it right now",
+          "title_original": "Google announces Gemini 4 and says it’s so capable that only ‘trusted cyber defenders’ can have it right now",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/tech/1002980/google-gemini-4-argon",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-30T20:41:41Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Verge"
+      ],
+      "items": [
+        {
+          "id": "90d01ae673e6f9de7e9cb8ee26ef8ef66cf55f2d",
+          "title": "Google announces Gemini 4 and says it&#8217;s so capable that only &#8216;trusted cyber defenders&#8217; can have it right now",
+          "title_zh": null,
+          "title_en": "Google announces Gemini 4 and says it&#8217;s so capable that only &#8216;trusted cyber defenders&#8217; can have it right now",
+          "title_original": "Google announces Gemini 4 and says it&#8217;s so capable that only &#8216;trusted cyber defenders&#8217; can have it right now",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/tech/1002980/google-gemini-4-argon",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-30T20:41:41Z"
+        },
+        {
+          "id": "9d4d1d911fe709c7d18848c3c5623444ef57c535",
+          "title": "Google announces Gemini 4 and says it’s so capable that only ‘trusted cyber defenders’ can have it right now",
+          "title_zh": null,
+          "title_en": "Google announces Gemini 4 and says it’s so capable that only ‘trusted cyber defenders’ can have it right now",
+          "title_original": "Google announces Gemini 4 and says it’s so capable that only ‘trusted cyber defenders’ can have it right now",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/tech/1002980/google-gemini-4-argon",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-30T20:41:41Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6165,
+      "importance": 0.6165,
+      "importance_score": 0.6165,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5616,
+        "source_tier": 0.58,
+        "ai_relevance": 0.78,
+        "recency": 0.7744,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-30T20:41:41Z",
+      "latest_at": "2026-09-30T20:41:41Z",
+      "primary_item": {
+        "id": "90d01ae673e6f9de7e9cb8ee26ef8ef66cf55f2d",
+        "title": "Google announces Gemini 4 and says it&#8217;s so capable that only &#8216;trusted cyber defenders&#8217; can have it right now",
+        "title_zh": null,
+        "title_en": "Google announces Gemini 4 and says it&#8217;s so capable that only &#8216;trusted cyber defenders&#8217; can have it right now",
+        "title_original": "Google announces Gemini 4 and says it&#8217;s so capable that only &#8216;trusted cyber defenders&#8217; can have it right now",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.theverge.com/tech/1002980/google-gemini-4-argon",
+        "source": "The Verge",
+        "source_name": "Curated Media"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-01T14:25:03.663180Z"
       }
     },
     {
@@ -1202,15 +1447,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6402,
-      "importance": 0.6402,
-      "importance_score": 0.6402,
+      "score": 0.6305,
+      "importance": 0.6305,
+      "importance_score": 0.6305,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5616,
         "source_tier": 0.58,
         "ai_relevance": 0.78,
-        "recency": 0.7672,
+        "recency": 0.7133,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1235,227 +1480,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T09:22:35.019447Z"
+        "scored_at": "2026-10-01T14:25:03.663180Z"
       }
     },
     {
-      "story_id": "story_3ee67536745c",
-      "title": "Google announces Gemini 4 and says it&#8217;s so capable that only &#8216;trusted cyber defenders&#8217; can have it right now",
-      "url": "https://www.theverge.com/tech/1002980/google-gemini-4-argon",
-      "primary_url": "https://www.theverge.com/tech/1002980/google-gemini-4-argon",
-      "source": "The Verge",
-      "source_name": "Curated Media",
+      "story_id": "story_bee292fea2f8",
+      "title": "Gemini 4 Argon（高配版）：智能、性能与价格分析",
+      "url": "https://artificialanalysis.ai/models/gemini-4-argon",
+      "primary_url": "https://artificialanalysis.ai/models/gemini-4-argon",
+      "source": "artificialanalysis.ai",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "90d01ae673e6f9de7e9cb8ee26ef8ef66cf55f2d",
-          "title": "Google announces Gemini 4 and says it&#8217;s so capable that only &#8216;trusted cyber defenders&#8217; can have it right now",
-          "title_zh": null,
-          "title_en": "Google announces Gemini 4 and says it&#8217;s so capable that only &#8216;trusted cyber defenders&#8217; can have it right now",
-          "title_original": "Google announces Gemini 4 and says it&#8217;s so capable that only &#8216;trusted cyber defenders&#8217; can have it right now",
+          "id": "a8dfe48df6f3ff6bda502baf12f42815ae5c9fc7",
+          "title": "Gemini 4 Argon（高配版）：智能、性能与价格分析",
+          "title_zh": "Gemini 4 Argon（高配版）：智能、性能与价格分析",
+          "title_en": null,
+          "title_original": "Gemini 4 Argon（高配版）：智能、性能与价格分析",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/tech/1002980/google-gemini-4-argon",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-30T20:41:41Z"
+          "url": "https://artificialanalysis.ai/models/gemini-4-argon",
+          "source": "artificialanalysis.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-01T09:56:37.532000Z"
         },
         {
-          "id": "9d4d1d911fe709c7d18848c3c5623444ef57c535",
-          "title": "Google announces Gemini 4 and says it’s so capable that only ‘trusted cyber defenders’ can have it right now",
-          "title_zh": null,
-          "title_en": "Google announces Gemini 4 and says it’s so capable that only ‘trusted cyber defenders’ can have it right now",
-          "title_original": "Google announces Gemini 4 and says it’s so capable that only ‘trusted cyber defenders’ can have it right now",
+          "id": "a31f139d979caa2433c1d4625ff0b5fc0973be97",
+          "title": "Gemini 4 Argon（高配版）：智能、性能与价格分析 / Gemini 4 Argon (High): Intelligence, Performance and Price Analysis",
+          "title_zh": "Gemini 4 Argon（高配版）：智能、性能与价格分析",
+          "title_en": "Gemini 4 Argon (High): Intelligence, Performance and Price Analysis",
+          "title_original": "Gemini 4 Argon (High): Intelligence, Performance and Price Analysis",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/tech/1002980/google-gemini-4-argon",
-          "source": "The Verge",
+          "url": "https://artificialanalysis.ai/models/gemini-4-argon",
+          "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-09-30T20:41:41Z"
+          "published_at": "2026-09-30T20:50:28Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "The Verge"
+        "Hacker News",
+        "artificialanalysis.ai"
       ],
       "items": [
         {
-          "id": "90d01ae673e6f9de7e9cb8ee26ef8ef66cf55f2d",
-          "title": "Google announces Gemini 4 and says it&#8217;s so capable that only &#8216;trusted cyber defenders&#8217; can have it right now",
-          "title_zh": null,
-          "title_en": "Google announces Gemini 4 and says it&#8217;s so capable that only &#8216;trusted cyber defenders&#8217; can have it right now",
-          "title_original": "Google announces Gemini 4 and says it&#8217;s so capable that only &#8216;trusted cyber defenders&#8217; can have it right now",
+          "id": "a8dfe48df6f3ff6bda502baf12f42815ae5c9fc7",
+          "title": "Gemini 4 Argon（高配版）：智能、性能与价格分析",
+          "title_zh": "Gemini 4 Argon（高配版）：智能、性能与价格分析",
+          "title_en": null,
+          "title_original": "Gemini 4 Argon（高配版）：智能、性能与价格分析",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/tech/1002980/google-gemini-4-argon",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-30T20:41:41Z"
+          "url": "https://artificialanalysis.ai/models/gemini-4-argon",
+          "source": "artificialanalysis.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-01T09:56:37.532000Z"
         },
         {
-          "id": "9d4d1d911fe709c7d18848c3c5623444ef57c535",
-          "title": "Google announces Gemini 4 and says it’s so capable that only ‘trusted cyber defenders’ can have it right now",
-          "title_zh": null,
-          "title_en": "Google announces Gemini 4 and says it’s so capable that only ‘trusted cyber defenders’ can have it right now",
-          "title_original": "Google announces Gemini 4 and says it’s so capable that only ‘trusted cyber defenders’ can have it right now",
+          "id": "a31f139d979caa2433c1d4625ff0b5fc0973be97",
+          "title": "Gemini 4 Argon（高配版）：智能、性能与价格分析 / Gemini 4 Argon (High): Intelligence, Performance and Price Analysis",
+          "title_zh": "Gemini 4 Argon（高配版）：智能、性能与价格分析",
+          "title_en": "Gemini 4 Argon (High): Intelligence, Performance and Price Analysis",
+          "title_original": "Gemini 4 Argon (High): Intelligence, Performance and Price Analysis",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/tech/1002980/google-gemini-4-argon",
-          "source": "The Verge",
+          "url": "https://artificialanalysis.ai/models/gemini-4-argon",
+          "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-09-30T20:41:41Z"
+          "published_at": "2026-09-30T20:50:28Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.627,
-      "importance": 0.627,
-      "importance_score": 0.627,
+      "score": 0.5679,
+      "importance": 0.5679,
+      "importance_score": 0.5679,
       "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.5616,
-        "source_tier": 0.58,
-        "ai_relevance": 0.78,
-        "recency": 0.8329,
+        "editorial": 0.5256,
+        "source_tier": 0.32,
+        "ai_relevance": 0.73,
+        "recency": 0.9377,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-30T20:41:41Z",
-      "latest_at": "2026-09-30T20:41:41Z",
+      "earliest_at": "2026-09-30T20:50:28Z",
+      "latest_at": "2026-10-01T09:56:37.532000Z",
       "primary_item": {
-        "id": "90d01ae673e6f9de7e9cb8ee26ef8ef66cf55f2d",
-        "title": "Google announces Gemini 4 and says it&#8217;s so capable that only &#8216;trusted cyber defenders&#8217; can have it right now",
-        "title_zh": null,
-        "title_en": "Google announces Gemini 4 and says it&#8217;s so capable that only &#8216;trusted cyber defenders&#8217; can have it right now",
-        "title_original": "Google announces Gemini 4 and says it&#8217;s so capable that only &#8216;trusted cyber defenders&#8217; can have it right now",
+        "id": "a8dfe48df6f3ff6bda502baf12f42815ae5c9fc7",
+        "title": "Gemini 4 Argon（高配版）：智能、性能与价格分析",
+        "title_zh": "Gemini 4 Argon（高配版）：智能、性能与价格分析",
+        "title_en": null,
+        "title_original": "Gemini 4 Argon（高配版）：智能、性能与价格分析",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.theverge.com/tech/1002980/google-gemini-4-argon",
-        "source": "The Verge",
-        "source_name": "Curated Media"
+        "url": "https://artificialanalysis.ai/models/gemini-4-argon",
+        "source": "artificialanalysis.ai",
+        "source_name": "Buzzing"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T09:22:35.019447Z"
-      }
-    },
-    {
-      "story_id": "story_8ae51ef2c72c",
-      "title": "SDF 与 MSDF 与 Slug：GPU 文本渲染 / SDF vs. MSDF vs. Slug: GPU Text Rendering",
-      "url": "https://alphapixeldev.com/sdf-vs-msdf-vs-slug-vs-rive-gpu-text-rendering",
-      "primary_url": "https://alphapixeldev.com/sdf-vs-msdf-vs-slug-vs-rive-gpu-text-rendering",
-      "source": "Hacker News front page",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "3322e10268b76ae6971e8e4e3df512d95a449493",
-          "title": "SDF 与 MSDF 与 Slug：GPU 文本渲染 / SDF vs. MSDF vs. Slug: GPU Text Rendering",
-          "title_zh": "SDF 与 MSDF 与 Slug：GPU 文本渲染",
-          "title_en": "SDF vs. MSDF vs. Slug: GPU Text Rendering",
-          "title_original": "SDF vs. MSDF vs. Slug: GPU Text Rendering",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://alphapixeldev.com/sdf-vs-msdf-vs-slug-vs-rive-gpu-text-rendering",
-          "source": "Hacker News front page",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-30T13:50:50Z"
-        },
-        {
-          "id": "1b3eb0eb33667c97a05b096c3ff78c49fd4df5c4",
-          "title": "SDF 与 MSDF 与 Slug：GPU 文本渲染",
-          "title_zh": "SDF 与 MSDF 与 Slug：GPU 文本渲染",
-          "title_en": null,
-          "title_original": "SDF 与 MSDF 与 Slug：GPU 文本渲染",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://alphapixeldev.com/sdf-vs-msdf-vs-slug-vs-rive-gpu-text-rendering",
-          "source": "alphapixeldev.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-30T19:48:07.101000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News front page",
-        "alphapixeldev.com"
-      ],
-      "items": [
-        {
-          "id": "3322e10268b76ae6971e8e4e3df512d95a449493",
-          "title": "SDF 与 MSDF 与 Slug：GPU 文本渲染 / SDF vs. MSDF vs. Slug: GPU Text Rendering",
-          "title_zh": "SDF 与 MSDF 与 Slug：GPU 文本渲染",
-          "title_en": "SDF vs. MSDF vs. Slug: GPU Text Rendering",
-          "title_original": "SDF vs. MSDF vs. Slug: GPU Text Rendering",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://alphapixeldev.com/sdf-vs-msdf-vs-slug-vs-rive-gpu-text-rendering",
-          "source": "Hacker News front page",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-30T13:50:50Z"
-        },
-        {
-          "id": "1b3eb0eb33667c97a05b096c3ff78c49fd4df5c4",
-          "title": "SDF 与 MSDF 与 Slug：GPU 文本渲染",
-          "title_zh": "SDF 与 MSDF 与 Slug：GPU 文本渲染",
-          "title_en": null,
-          "title_original": "SDF 与 MSDF 与 Slug：GPU 文本渲染",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://alphapixeldev.com/sdf-vs-msdf-vs-slug-vs-rive-gpu-text-rendering",
-          "source": "alphapixeldev.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-30T19:48:07.101000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6379,
-      "importance": 0.6379,
-      "importance_score": 0.6379,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.6048,
-        "source_tier": 0.58,
-        "ai_relevance": 0.84,
-        "recency": 0.7545,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-30T13:50:50Z",
-      "latest_at": "2026-09-30T19:48:07.101000Z",
-      "primary_item": {
-        "id": "3322e10268b76ae6971e8e4e3df512d95a449493",
-        "title": "SDF 与 MSDF 与 Slug：GPU 文本渲染 / SDF vs. MSDF vs. Slug: GPU Text Rendering",
-        "title_zh": "SDF 与 MSDF 与 Slug：GPU 文本渲染",
-        "title_en": "SDF vs. MSDF vs. Slug: GPU Text Rendering",
-        "title_original": "SDF vs. MSDF vs. Slug: GPU Text Rendering",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://alphapixeldev.com/sdf-vs-msdf-vs-slug-vs-rive-gpu-text-rendering",
-        "source": "Hacker News front page",
-        "source_name": "Curated Media"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-01T09:22:35.019447Z"
+        "scored_at": "2026-10-01T14:25:03.663180Z"
       }
     },
     {
@@ -1532,15 +1667,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.623,
-      "importance": 0.623,
-      "importance_score": 0.623,
+      "score": 0.6128,
+      "importance": 0.6128,
+      "importance_score": 0.6128,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5616,
         "source_tier": 0.58,
         "ai_relevance": 0.78,
-        "recency": 0.8107,
+        "recency": 0.7537,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1565,7 +1700,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T09:22:35.019447Z"
+        "scored_at": "2026-10-01T14:25:03.663180Z"
       }
     },
     {
@@ -1592,8 +1727,8 @@
         },
         {
           "id": "7f14a912493e3334c4d8c8b4bf6b98aa794aefe3",
-          "title": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
-          "title_zh": null,
+          "title": "推出 HN：Magnitude (YC S25) – 用于代理的自优化推理引擎 / Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
+          "title_zh": "推出 HN：Magnitude (YC S25) – 用于代理的自优化推理引擎",
           "title_en": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
           "title_original": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
           "summary": null,
@@ -1627,8 +1762,8 @@
         },
         {
           "id": "7f14a912493e3334c4d8c8b4bf6b98aa794aefe3",
-          "title": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
-          "title_zh": null,
+          "title": "推出 HN：Magnitude (YC S25) – 用于代理的自优化推理引擎 / Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
+          "title_zh": "推出 HN：Magnitude (YC S25) – 用于代理的自优化推理引擎",
           "title_en": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
           "title_original": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
           "summary": null,
@@ -1642,15 +1777,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.608,
-      "importance": 0.608,
-      "importance_score": 0.608,
+      "score": 0.598,
+      "importance": 0.598,
+      "importance_score": 0.598,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.54,
         "source_tier": 0.58,
         "ai_relevance": 0.75,
-        "recency": 0.7969,
+        "recency": 0.7409,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1675,7 +1810,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T09:22:35.019447Z"
+        "scored_at": "2026-10-01T14:25:03.663180Z"
       }
     },
     {
@@ -1752,15 +1887,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5478,
-      "importance": 0.5478,
-      "importance_score": 0.5478,
+      "score": 0.5374,
+      "importance": 0.5374,
+      "importance_score": 0.5374,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.45,
         "source_tier": 0.58,
         "ai_relevance": 0.56,
-        "recency": 0.8235,
+        "recency": 0.7657,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1785,117 +1920,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T09:22:35.019447Z"
-      }
-    },
-    {
-      "story_id": "story_48dc5b52b3fb",
-      "title": "人工智能竞赛突然变得尴尬了 / The AI Race Just Got Awkward",
-      "url": "https://insufferable.dev/posts/the-ai-race-just-got-awkward",
-      "primary_url": "https://insufferable.dev/posts/the-ai-race-just-got-awkward",
-      "source": "Hacker News front page",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "87bcf05650bba027ea565795e3a567292dbce786",
-          "title": "人工智能竞赛突然变得尴尬了 / The AI Race Just Got Awkward",
-          "title_zh": "人工智能竞赛突然变得尴尬了",
-          "title_en": "The AI Race Just Got Awkward",
-          "title_original": "The AI Race Just Got Awkward",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://insufferable.dev/posts/the-ai-race-just-got-awkward",
-          "source": "Hacker News front page",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-30T15:50:11Z"
-        },
-        {
-          "id": "5bdd64a89f0a4d83c6fe2ef22daaa5d1eed2ec14",
-          "title": "人工智能竞赛突然变得尴尬了",
-          "title_zh": "人工智能竞赛突然变得尴尬了",
-          "title_en": null,
-          "title_original": "人工智能竞赛突然变得尴尬了",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://insufferable.dev/posts/the-ai-race-just-got-awkward",
-          "source": "insufferable.dev",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-30T16:38:22.773000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News front page",
-        "insufferable.dev"
-      ],
-      "items": [
-        {
-          "id": "87bcf05650bba027ea565795e3a567292dbce786",
-          "title": "人工智能竞赛突然变得尴尬了 / The AI Race Just Got Awkward",
-          "title_zh": "人工智能竞赛突然变得尴尬了",
-          "title_en": "The AI Race Just Got Awkward",
-          "title_original": "The AI Race Just Got Awkward",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://insufferable.dev/posts/the-ai-race-just-got-awkward",
-          "source": "Hacker News front page",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-30T15:50:11Z"
-        },
-        {
-          "id": "5bdd64a89f0a4d83c6fe2ef22daaa5d1eed2ec14",
-          "title": "人工智能竞赛突然变得尴尬了",
-          "title_zh": "人工智能竞赛突然变得尴尬了",
-          "title_en": null,
-          "title_original": "人工智能竞赛突然变得尴尬了",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://insufferable.dev/posts/the-ai-race-just-got-awkward",
-          "source": "insufferable.dev",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-30T16:38:22.773000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5394,
-      "importance": 0.5394,
-      "importance_score": 0.5394,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.45,
-        "source_tier": 0.58,
-        "ai_relevance": 0.56,
-        "recency": 0.7765,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-30T15:50:11Z",
-      "latest_at": "2026-09-30T16:38:22.773000Z",
-      "primary_item": {
-        "id": "87bcf05650bba027ea565795e3a567292dbce786",
-        "title": "人工智能竞赛突然变得尴尬了 / The AI Race Just Got Awkward",
-        "title_zh": "人工智能竞赛突然变得尴尬了",
-        "title_en": "The AI Race Just Got Awkward",
-        "title_original": "The AI Race Just Got Awkward",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://insufferable.dev/posts/the-ai-race-just-got-awkward",
-        "source": "Hacker News front page",
-        "source_name": "Curated Media"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-01T09:22:35.019447Z"
+        "scored_at": "2026-10-01T14:25:03.663180Z"
       }
     }
   ]
