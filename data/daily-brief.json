@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T20:18:02.486668Z",
+  "generated_at": "2026-10-01T22:52:00.743570Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8576,
-      "importance": 0.8576,
-      "importance_score": 0.8576,
+      "score": 0.8514,
+      "importance": 0.8514,
+      "importance_score": 0.8514,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.9535,
+        "recency": 0.9188,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T20:33:24.052340Z"
+        "scored_at": "2026-10-01T23:09:41.853613Z"
+      }
+    },
+    {
+      "story_id": "story_e00f099b506f",
+      "title": "Codex CLI 0.160.0",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "50178a3a79848cac2d6d54e21d710e40b8ffd343",
+          "title": "Codex CLI 0.160.0",
+          "title_zh": null,
+          "title_en": "Codex CLI 0.160.0",
+          "title_original": "Codex CLI 0.160.0",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-01T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI Codex Changelog"
+      ],
+      "items": [
+        {
+          "id": "50178a3a79848cac2d6d54e21d710e40b8ffd343",
+          "title": "Codex CLI 0.160.0",
+          "title_zh": null,
+          "title_en": "Codex CLI 0.160.0",
+          "title_original": "Codex CLI 0.160.0",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-01T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8194,
+      "importance": 0.8194,
+      "importance_score": 0.8194,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 1.0,
+        "recency": 0.7188,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-01T00:00:00Z",
+      "latest_at": "2026-10-01T00:00:00Z",
+      "primary_item": {
+        "id": "50178a3a79848cac2d6d54e21d710e40b8ffd343",
+        "title": "Codex CLI 0.160.0",
+        "title_zh": null,
+        "title_en": "Codex CLI 0.160.0",
+        "title_original": "Codex CLI 0.160.0",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-01T23:09:41.853613Z"
       }
     },
     {
@@ -131,15 +214,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8552,
-      "importance": 0.8552,
-      "importance_score": 0.8552,
+      "score": 0.849,
+      "importance": 0.849,
+      "importance_score": 0.849,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.9398,
+        "recency": 0.9056,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,30 +249,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T20:33:24.052340Z"
+        "scored_at": "2026-10-01T23:09:41.853613Z"
       }
     },
     {
-      "story_id": "story_a8a59d3ec43f",
-      "title": "GitHub Copilot can now interact with desktop apps with computer use",
-      "url": "https://github.blog/changelog/2026-10-01-github-copilot-can-now-interact-with-desktop-apps",
-      "primary_url": "https://github.blog/changelog/2026-10-01-github-copilot-can-now-interact-with-desktop-apps",
+      "story_id": "story_2b054efbb49a",
+      "title": "Rate limits for private vulnerability reports",
+      "url": "https://github.blog/changelog/2026-10-01-rate-limits-for-private-vulnerability-reports",
+      "primary_url": "https://github.blog/changelog/2026-10-01-rate-limits-for-private-vulnerability-reports",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "9a48fa6ff9990eabb95b9c383f2b588984b0dbbf",
-          "title": "GitHub Copilot can now interact with desktop apps with computer use",
+          "id": "147a12f68e228f02b3cdd09aa33db76f7995db74",
+          "title": "Rate limits for private vulnerability reports",
           "title_zh": null,
-          "title_en": "GitHub Copilot can now interact with desktop apps with computer use",
-          "title_original": "GitHub Copilot can now interact with desktop apps with computer use",
+          "title_en": "Rate limits for private vulnerability reports",
+          "title_original": "Rate limits for private vulnerability reports",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-01-github-copilot-can-now-interact-with-desktop-apps",
+          "url": "https://github.blog/changelog/2026-10-01-rate-limits-for-private-vulnerability-reports",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-01T19:11:26Z"
+          "published_at": "2026-10-01T19:57:39Z"
         }
       ],
       "source_count": 1,
@@ -198,31 +281,31 @@
       ],
       "items": [
         {
-          "id": "9a48fa6ff9990eabb95b9c383f2b588984b0dbbf",
-          "title": "GitHub Copilot can now interact with desktop apps with computer use",
+          "id": "147a12f68e228f02b3cdd09aa33db76f7995db74",
+          "title": "Rate limits for private vulnerability reports",
           "title_zh": null,
-          "title_en": "GitHub Copilot can now interact with desktop apps with computer use",
-          "title_original": "GitHub Copilot can now interact with desktop apps with computer use",
+          "title_en": "Rate limits for private vulnerability reports",
+          "title_original": "Rate limits for private vulnerability reports",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-01-github-copilot-can-now-interact-with-desktop-apps",
+          "url": "https://github.blog/changelog/2026-10-01-rate-limits-for-private-vulnerability-reports",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-01T19:11:26Z"
+          "published_at": "2026-10-01T19:57:39Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8191,
-      "importance": 0.8191,
-      "importance_score": 0.8191,
+      "score": 0.8146,
+      "importance": 0.8146,
+      "importance_score": 0.8146,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.76,
-        "recency": 0.9841,
+        "recency": 0.9589,
         "story_heat": 0.0
       },
       "category": "official",
@@ -230,17 +313,17 @@
         "official_source",
         "high_importance"
       ],
-      "earliest_at": "2026-10-01T19:11:26Z",
-      "latest_at": "2026-10-01T19:11:26Z",
+      "earliest_at": "2026-10-01T19:57:39Z",
+      "latest_at": "2026-10-01T19:57:39Z",
       "primary_item": {
-        "id": "9a48fa6ff9990eabb95b9c383f2b588984b0dbbf",
-        "title": "GitHub Copilot can now interact with desktop apps with computer use",
+        "id": "147a12f68e228f02b3cdd09aa33db76f7995db74",
+        "title": "Rate limits for private vulnerability reports",
         "title_zh": null,
-        "title_en": "GitHub Copilot can now interact with desktop apps with computer use",
-        "title_original": "GitHub Copilot can now interact with desktop apps with computer use",
+        "title_en": "Rate limits for private vulnerability reports",
+        "title_original": "Rate limits for private vulnerability reports",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-01-github-copilot-can-now-interact-with-desktop-apps",
+        "url": "https://github.blog/changelog/2026-10-01-rate-limits-for-private-vulnerability-reports",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -248,7 +331,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T20:33:24.052340Z"
+        "scored_at": "2026-10-01T23:09:41.853613Z"
       }
     },
     {
@@ -296,15 +379,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8148,
-      "importance": 0.8148,
-      "importance_score": 0.8148,
+      "score": 0.8087,
+      "importance": 0.8087,
+      "importance_score": 0.8087,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.79,
-        "recency": 0.9267,
+        "recency": 0.893,
         "story_heat": 0.0
       },
       "category": "official",
@@ -330,30 +413,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T20:33:24.052340Z"
+        "scored_at": "2026-10-01T23:09:41.853613Z"
       }
     },
     {
-      "story_id": "story_4360c0773884",
-      "title": "GitHub Copilot in VS Code, September 2026 releases",
-      "url": "https://github.blog/changelog/2026-10-01-github-copilot-in-vs-code-september-2026-releases",
-      "primary_url": "https://github.blog/changelog/2026-10-01-github-copilot-in-vs-code-september-2026-releases",
+      "story_id": "story_025446a84602",
+      "title": "Structured forms for private vulnerability reports",
+      "url": "https://github.blog/changelog/2026-10-01-structured-forms-for-private-vulnerability-reports",
+      "primary_url": "https://github.blog/changelog/2026-10-01-structured-forms-for-private-vulnerability-reports",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "3670b29c6a73e7815010767521ad6c93921fd71a",
-          "title": "GitHub Copilot in VS Code, September 2026 releases",
+          "id": "ca059e6628b728224f13fba9352e61a9969427d2",
+          "title": "Structured forms for private vulnerability reports",
           "title_zh": null,
-          "title_en": "GitHub Copilot in VS Code, September 2026 releases",
-          "title_original": "GitHub Copilot in VS Code, September 2026 releases",
+          "title_en": "Structured forms for private vulnerability reports",
+          "title_original": "Structured forms for private vulnerability reports",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-01-github-copilot-in-vs-code-september-2026-releases",
+          "url": "https://github.blog/changelog/2026-10-01-structured-forms-for-private-vulnerability-reports",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-01T19:09:10Z"
+          "published_at": "2026-10-01T19:57:28Z"
         }
       ],
       "source_count": 1,
@@ -362,31 +445,31 @@
       ],
       "items": [
         {
-          "id": "3670b29c6a73e7815010767521ad6c93921fd71a",
-          "title": "GitHub Copilot in VS Code, September 2026 releases",
+          "id": "ca059e6628b728224f13fba9352e61a9969427d2",
+          "title": "Structured forms for private vulnerability reports",
           "title_zh": null,
-          "title_en": "GitHub Copilot in VS Code, September 2026 releases",
-          "title_original": "GitHub Copilot in VS Code, September 2026 releases",
+          "title_en": "Structured forms for private vulnerability reports",
+          "title_original": "Structured forms for private vulnerability reports",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-01-github-copilot-in-vs-code-september-2026-releases",
+          "url": "https://github.blog/changelog/2026-10-01-structured-forms-for-private-vulnerability-reports",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-01T19:09:10Z"
+          "published_at": "2026-10-01T19:57:28Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.819,
-      "importance": 0.819,
-      "importance_score": 0.819,
+      "score": 0.8146,
+      "importance": 0.8146,
+      "importance_score": 0.8146,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.76,
-        "recency": 0.9836,
+        "recency": 0.9589,
         "story_heat": 0.0
       },
       "category": "official",
@@ -394,17 +477,17 @@
         "official_source",
         "high_importance"
       ],
-      "earliest_at": "2026-10-01T19:09:10Z",
-      "latest_at": "2026-10-01T19:09:10Z",
+      "earliest_at": "2026-10-01T19:57:28Z",
+      "latest_at": "2026-10-01T19:57:28Z",
       "primary_item": {
-        "id": "3670b29c6a73e7815010767521ad6c93921fd71a",
-        "title": "GitHub Copilot in VS Code, September 2026 releases",
+        "id": "ca059e6628b728224f13fba9352e61a9969427d2",
+        "title": "Structured forms for private vulnerability reports",
         "title_zh": null,
-        "title_en": "GitHub Copilot in VS Code, September 2026 releases",
-        "title_original": "GitHub Copilot in VS Code, September 2026 releases",
+        "title_en": "Structured forms for private vulnerability reports",
+        "title_original": "Structured forms for private vulnerability reports",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-01-github-copilot-in-vs-code-september-2026-releases",
+        "url": "https://github.blog/changelog/2026-10-01-structured-forms-for-private-vulnerability-reports",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -412,7 +495,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T20:33:24.052340Z"
+        "scored_at": "2026-10-01T23:09:41.853613Z"
       }
     },
     {
@@ -460,15 +543,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7855,
-      "importance": 0.7855,
-      "importance_score": 0.7855,
+      "score": 0.7791,
+      "importance": 0.7791,
+      "importance_score": 0.7791,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9692,
+        "recency": 0.934,
         "story_heat": 0.0
       },
       "category": "official",
@@ -494,7 +577,172 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T20:33:24.052340Z"
+        "scored_at": "2026-10-01T23:09:41.853613Z"
+      }
+    },
+    {
+      "story_id": "story_f210109d12e4",
+      "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
+      "url": "https://openai.com/index/the-den-family-social",
+      "primary_url": "https://openai.com/index/the-den-family-social",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "578444e4a2df2df57825356e147087c84916b1f5",
+          "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
+          "title_zh": null,
+          "title_en": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
+          "title_original": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/the-den-family-social",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-01T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "578444e4a2df2df57825356e147087c84916b1f5",
+          "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
+          "title_zh": null,
+          "title_en": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
+          "title_original": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/the-den-family-social",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-01T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8194,
+      "importance": 0.8194,
+      "importance_score": 0.8194,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 1.0,
+        "recency": 0.7188,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-01T00:00:00Z",
+      "latest_at": "2026-10-01T00:00:00Z",
+      "primary_item": {
+        "id": "578444e4a2df2df57825356e147087c84916b1f5",
+        "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
+        "title_zh": null,
+        "title_en": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
+        "title_original": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/the-den-family-social",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-01T23:09:41.853613Z"
+      }
+    },
+    {
+      "story_id": "story_0b2fa78755e5",
+      "title": "GitHub Actions: macOS 14 runner image retirement",
+      "url": "https://github.blog/changelog/2026-10-01-github-actions-macos-14-runner-image-retirement",
+      "primary_url": "https://github.blog/changelog/2026-10-01-github-actions-macos-14-runner-image-retirement",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "05254a7af6bf234c903a7d53a1f88986f2d1af5a",
+          "title": "GitHub Actions: macOS 14 runner image retirement",
+          "title_zh": null,
+          "title_en": "GitHub Actions: macOS 14 runner image retirement",
+          "title_original": "GitHub Actions: macOS 14 runner image retirement",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-01-github-actions-macos-14-runner-image-retirement",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-01T19:11:23Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "05254a7af6bf234c903a7d53a1f88986f2d1af5a",
+          "title": "GitHub Actions: macOS 14 runner image retirement",
+          "title_zh": null,
+          "title_en": "GitHub Actions: macOS 14 runner image retirement",
+          "title_original": "GitHub Actions: macOS 14 runner image retirement",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-01-github-actions-macos-14-runner-image-retirement",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-01T19:11:23Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8127,
+      "importance": 0.8127,
+      "importance_score": 0.8127,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.76,
+        "recency": 0.9483,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-01T19:11:23Z",
+      "latest_at": "2026-10-01T19:11:23Z",
+      "primary_item": {
+        "id": "05254a7af6bf234c903a7d53a1f88986f2d1af5a",
+        "title": "GitHub Actions: macOS 14 runner image retirement",
+        "title_zh": null,
+        "title_en": "GitHub Actions: macOS 14 runner image retirement",
+        "title_original": "GitHub Actions: macOS 14 runner image retirement",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-10-01-github-actions-macos-14-runner-image-retirement",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-01T23:09:41.853613Z"
       }
     },
     {
@@ -542,21 +790,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7525,
-      "importance": 0.7525,
-      "importance_score": 0.7525,
+      "score": 0.7467,
+      "importance": 0.7467,
+      "importance_score": 0.7467,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.8883,
+        "recency": 0.856,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-01T12:05:49Z",
       "latest_at": "2026-10-01T12:05:49Z",
@@ -576,89 +823,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T20:33:24.052340Z"
-      }
-    },
-    {
-      "story_id": "story_d6a6f0dfce45",
-      "title": "Actions retention now covers checks, runs, and statuses",
-      "url": "https://github.blog/changelog/2026-10-01-actions-retention-now-covers-checks-runs-and-statuses",
-      "primary_url": "https://github.blog/changelog/2026-10-01-actions-retention-now-covers-checks-runs-and-statuses",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "bd680e642074865eae97e27770212465ae6180e3",
-          "title": "Actions retention now covers checks, runs, and statuses",
-          "title_zh": null,
-          "title_en": "Actions retention now covers checks, runs, and statuses",
-          "title_original": "Actions retention now covers checks, runs, and statuses",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-01-actions-retention-now-covers-checks-runs-and-statuses",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-01T17:59:54Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "bd680e642074865eae97e27770212465ae6180e3",
-          "title": "Actions retention now covers checks, runs, and statuses",
-          "title_zh": null,
-          "title_en": "Actions retention now covers checks, runs, and statuses",
-          "title_original": "Actions retention now covers checks, runs, and statuses",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-01-actions-retention-now-covers-checks-runs-and-statuses",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-01T17:59:54Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8101,
-      "importance": 0.8101,
-      "importance_score": 0.8101,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.73,
-        "recency": 0.9673,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-01T17:59:54Z",
-      "latest_at": "2026-10-01T17:59:54Z",
-      "primary_item": {
-        "id": "bd680e642074865eae97e27770212465ae6180e3",
-        "title": "Actions retention now covers checks, runs, and statuses",
-        "title_zh": null,
-        "title_en": "Actions retention now covers checks, runs, and statuses",
-        "title_original": "Actions retention now covers checks, runs, and statuses",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-01-actions-retention-now-covers-checks-runs-and-statuses",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-01T20:33:24.052340Z"
+        "scored_at": "2026-10-01T23:09:41.853613Z"
       }
     },
     {
@@ -706,15 +871,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7459,
-      "importance": 0.7459,
-      "importance_score": 0.7459,
+      "score": 0.7396,
+      "importance": 0.7396,
+      "importance_score": 0.7396,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.9514,
+        "recency": 0.9168,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -739,7 +904,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T20:33:24.052340Z"
+        "scored_at": "2026-10-01T23:09:41.853613Z"
       }
     },
     {
@@ -787,15 +952,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7403,
-      "importance": 0.7403,
-      "importance_score": 0.7403,
+      "score": 0.734,
+      "importance": 0.734,
+      "importance_score": 0.734,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.9538,
+        "recency": 0.9191,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -820,7 +985,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T20:33:24.052340Z"
+        "scored_at": "2026-10-01T23:09:41.853613Z"
       }
     },
     {
@@ -897,15 +1062,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7344,
-      "importance": 0.7344,
-      "importance_score": 0.7344,
+      "score": 0.7292,
+      "importance": 0.7292,
+      "importance_score": 0.7292,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.7988,
+        "recency": 0.7697,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -931,250 +1096,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T20:33:24.052340Z"
+        "scored_at": "2026-10-01T23:09:41.853613Z"
       }
     },
     {
-      "story_id": "story_bb25c57ef66e",
-      "title": "OpenAI 发布 GPT-6.1 Sol：以 Astra 五分之一价格接近其编码与计算机操作水平 / OpenAI Releases GPT-6.1 Sol: Near-Astra Coding and Computer Use at One-Fifth of Astra’s Token Price",
-      "url": "https://www.marktechpost.com/2026/09/30/openai-releases-gpt-6-1-sol-near-astra-coding-and-computer-use-at-one-fifth-of-astras-token-price",
-      "primary_url": "https://www.marktechpost.com/2026/09/30/openai-releases-gpt-6-1-sol-near-astra-coding-and-computer-use-at-one-fifth-of-astras-token-price",
-      "source": "MarkTechPost（RSS）",
-      "source_name": "AI HOT",
+      "story_id": "story_a8a59d3ec43f",
+      "title": "GitHub Copilot can now interact with desktop apps with computer use",
+      "url": "https://github.blog/changelog/2026-10-01-github-copilot-can-now-interact-with-desktop-apps",
+      "primary_url": "https://github.blog/changelog/2026-10-01-github-copilot-can-now-interact-with-desktop-apps",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "73f55d5d3ab47ca86895e3f210b1ab06ec1d8be2",
-          "title": "OpenAI 发布 GPT-6.1 Sol：以 Astra 五分之一价格接近其编码与计算机操作水平 / OpenAI Releases GPT-6.1 Sol: Near-Astra Coding and Computer Use at One-Fifth of Astra’s Token Price",
-          "title_zh": "OpenAI 发布 GPT-6.1 Sol：以 Astra 五分之一价格接近其编码与计算机操作水平",
-          "title_en": "OpenAI Releases GPT-6.1 Sol: Near-Astra Coding and Computer Use at One-Fifth of Astra’s Token Price",
-          "title_original": "OpenAI Releases GPT-6.1 Sol: Near-Astra Coding and Computer Use at One-Fifth of Astra’s Token Price",
-          "summary": "OpenAI 发布 GPT-6.1 Sol，定价为每百万 token 2 美元输入、10 美元输出、0.10 美元缓存输入，为 GPT-6 Astra 标准价格约五分之一。",
+          "id": "9a48fa6ff9990eabb95b9c383f2b588984b0dbbf",
+          "title": "GitHub Copilot can now interact with desktop apps with computer use",
+          "title_zh": null,
+          "title_en": "GitHub Copilot can now interact with desktop apps with computer use",
+          "title_original": "GitHub Copilot can now interact with desktop apps with computer use",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.marktechpost.com/2026/09/30/openai-releases-gpt-6-1-sol-near-astra-coding-and-computer-use-at-one-fifth-of-astras-token-price",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-30T21:09:24Z"
+          "url": "https://github.blog/changelog/2026-10-01-github-copilot-can-now-interact-with-desktop-apps",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-01T19:11:26Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "MarkTechPost（RSS）"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "73f55d5d3ab47ca86895e3f210b1ab06ec1d8be2",
-          "title": "OpenAI 发布 GPT-6.1 Sol：以 Astra 五分之一价格接近其编码与计算机操作水平 / OpenAI Releases GPT-6.1 Sol: Near-Astra Coding and Computer Use at One-Fifth of Astra’s Token Price",
-          "title_zh": "OpenAI 发布 GPT-6.1 Sol：以 Astra 五分之一价格接近其编码与计算机操作水平",
-          "title_en": "OpenAI Releases GPT-6.1 Sol: Near-Astra Coding and Computer Use at One-Fifth of Astra’s Token Price",
-          "title_original": "OpenAI Releases GPT-6.1 Sol: Near-Astra Coding and Computer Use at One-Fifth of Astra’s Token Price",
-          "summary": "OpenAI 发布 GPT-6.1 Sol，定价为每百万 token 2 美元输入、10 美元输出、0.10 美元缓存输入，为 GPT-6 Astra 标准价格约五分之一。",
+          "id": "9a48fa6ff9990eabb95b9c383f2b588984b0dbbf",
+          "title": "GitHub Copilot can now interact with desktop apps with computer use",
+          "title_zh": null,
+          "title_en": "GitHub Copilot can now interact with desktop apps with computer use",
+          "title_original": "GitHub Copilot can now interact with desktop apps with computer use",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.marktechpost.com/2026/09/30/openai-releases-gpt-6-1-sol-near-astra-coding-and-computer-use-at-one-fifth-of-astras-token-price",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-30T21:09:24Z"
+          "url": "https://github.blog/changelog/2026-10-01-github-copilot-can-now-interact-with-desktop-apps",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-01T19:11:26Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7275,
-      "importance": 0.7275,
-      "importance_score": 0.7275,
-      "importance_label": "行业动态",
+      "score": 0.8127,
+      "importance": 0.8127,
+      "importance_score": 0.8127,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "editorial": 0.79,
-        "source_tier": 0.78,
-        "ai_relevance": 0.95,
-        "recency": 0.7159,
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.76,
+        "recency": 0.9483,
         "story_heat": 0.0
       },
-      "category": "industry",
+      "category": "official",
       "reasons": [
-        "high_ai_relevance"
+        "official_source",
+        "high_importance"
       ],
-      "earliest_at": "2026-09-30T21:09:24Z",
-      "latest_at": "2026-09-30T21:09:24Z",
+      "earliest_at": "2026-10-01T19:11:26Z",
+      "latest_at": "2026-10-01T19:11:26Z",
       "primary_item": {
-        "id": "73f55d5d3ab47ca86895e3f210b1ab06ec1d8be2",
-        "title": "OpenAI 发布 GPT-6.1 Sol：以 Astra 五分之一价格接近其编码与计算机操作水平 / OpenAI Releases GPT-6.1 Sol: Near-Astra Coding and Computer Use at One-Fifth of Astra’s Token Price",
-        "title_zh": "OpenAI 发布 GPT-6.1 Sol：以 Astra 五分之一价格接近其编码与计算机操作水平",
-        "title_en": "OpenAI Releases GPT-6.1 Sol: Near-Astra Coding and Computer Use at One-Fifth of Astra’s Token Price",
-        "title_original": "OpenAI Releases GPT-6.1 Sol: Near-Astra Coding and Computer Use at One-Fifth of Astra’s Token Price",
-        "summary": "OpenAI 发布 GPT-6.1 Sol，定价为每百万 token 2 美元输入、10 美元输出、0.10 美元缓存输入，为 GPT-6 Astra 标准价格约五分之一。",
+        "id": "9a48fa6ff9990eabb95b9c383f2b588984b0dbbf",
+        "title": "GitHub Copilot can now interact with desktop apps with computer use",
+        "title_zh": null,
+        "title_en": "GitHub Copilot can now interact with desktop apps with computer use",
+        "title_original": "GitHub Copilot can now interact with desktop apps with computer use",
+        "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.marktechpost.com/2026/09/30/openai-releases-gpt-6-1-sol-near-astra-coding-and-computer-use-at-one-fifth-of-astras-token-price",
-        "source": "MarkTechPost（RSS）",
-        "source_name": "AI HOT"
+        "url": "https://github.blog/changelog/2026-10-01-github-copilot-can-now-interact-with-desktop-apps",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T20:33:24.052340Z"
-      }
-    },
-    {
-      "story_id": "story_5d1c15f30792",
-      "title": "Artificial Analysis 评测 Gemini 4 Argon，智能指数追平 GPT-6 Astra 且成本仅 60% / Google’s new Gemini 4 Argon equals GPT-6 Astra on the Artificial Analysis Intelligence Index at 60% of the Cost per Task with discounted ...",
-      "url": "https://x.com/ArtificialAnlys/status/2105392625788637299",
-      "primary_url": "https://x.com/ArtificialAnlys/status/2105392625788637299",
-      "source": "X：Artificial Analysis (@ArtificialAnlys)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "df8c7a6d1421bcd13035ca2d527f7bc1c3912802",
-          "title": "Artificial Analysis 评测 Gemini 4 Argon，智能指数追平 GPT-6 Astra 且成本仅 60% / Google’s new Gemini 4 Argon equals GPT-6 Astra on the Artificial Analysis Intelligence Index at 60% of the Cost per Task with discounted ...",
-          "title_zh": "Artificial Analysis 评测 Gemini 4 Argon，智能指数追平 GPT-6 Astra 且成本仅 60%",
-          "title_en": "Google’s new Gemini 4 Argon equals GPT-6 Astra on the Artificial Analysis Intelligence Index at 60% of the Cost per Task with discounted ...",
-          "title_original": "Google’s new Gemini 4 Argon equals GPT-6 Astra on the Artificial Analysis Intelligence Index at 60% of the Cost per Task with discounted ...",
-          "summary": "Artificial Analysis 评测 Google DeepMind 新模型 Gemini 4 Argon，在 Artificial Analysis Intelligence Index 得 53 分，追平 GPT-6 Astra (max)，高于 GPT-6.1 Sol (max) 1 分。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/ArtificialAnlys/status/2105392625788637299",
-          "source": "X：Artificial Analysis (@ArtificialAnlys)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-30T20:21:32Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Artificial Analysis (@ArtificialAnlys)"
-      ],
-      "items": [
-        {
-          "id": "df8c7a6d1421bcd13035ca2d527f7bc1c3912802",
-          "title": "Artificial Analysis 评测 Gemini 4 Argon，智能指数追平 GPT-6 Astra 且成本仅 60% / Google’s new Gemini 4 Argon equals GPT-6 Astra on the Artificial Analysis Intelligence Index at 60% of the Cost per Task with discounted ...",
-          "title_zh": "Artificial Analysis 评测 Gemini 4 Argon，智能指数追平 GPT-6 Astra 且成本仅 60%",
-          "title_en": "Google’s new Gemini 4 Argon equals GPT-6 Astra on the Artificial Analysis Intelligence Index at 60% of the Cost per Task with discounted ...",
-          "title_original": "Google’s new Gemini 4 Argon equals GPT-6 Astra on the Artificial Analysis Intelligence Index at 60% of the Cost per Task with discounted ...",
-          "summary": "Artificial Analysis 评测 Google DeepMind 新模型 Gemini 4 Argon，在 Artificial Analysis Intelligence Index 得 53 分，追平 GPT-6 Astra (max)，高于 GPT-6.1 Sol (max) 1 分。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/ArtificialAnlys/status/2105392625788637299",
-          "source": "X：Artificial Analysis (@ArtificialAnlys)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-30T20:21:32Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.726,
-      "importance": 0.726,
-      "importance_score": 0.726,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.79,
-        "source_tier": 0.78,
-        "ai_relevance": 0.95,
-        "recency": 0.7077,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-30T20:21:32Z",
-      "latest_at": "2026-09-30T20:21:32Z",
-      "primary_item": {
-        "id": "df8c7a6d1421bcd13035ca2d527f7bc1c3912802",
-        "title": "Artificial Analysis 评测 Gemini 4 Argon，智能指数追平 GPT-6 Astra 且成本仅 60% / Google’s new Gemini 4 Argon equals GPT-6 Astra on the Artificial Analysis Intelligence Index at 60% of the Cost per Task with discounted ...",
-        "title_zh": "Artificial Analysis 评测 Gemini 4 Argon，智能指数追平 GPT-6 Astra 且成本仅 60%",
-        "title_en": "Google’s new Gemini 4 Argon equals GPT-6 Astra on the Artificial Analysis Intelligence Index at 60% of the Cost per Task with discounted ...",
-        "title_original": "Google’s new Gemini 4 Argon equals GPT-6 Astra on the Artificial Analysis Intelligence Index at 60% of the Cost per Task with discounted ...",
-        "summary": "Artificial Analysis 评测 Google DeepMind 新模型 Gemini 4 Argon，在 Artificial Analysis Intelligence Index 得 53 分，追平 GPT-6 Astra (max)，高于 GPT-6.1 Sol (max) 1 分。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/ArtificialAnlys/status/2105392625788637299",
-        "source": "X：Artificial Analysis (@ArtificialAnlys)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-01T20:33:24.052340Z"
-      }
-    },
-    {
-      "story_id": "story_5548434c147f",
-      "title": "Claude Code mods 入门教程：从零构建 Token Weather 上下文窗口预报插件 / Getting started with Claude Code mods",
-      "url": "https://claude.dev/blog/getting-started-with-claude-code-mods",
-      "primary_url": "https://claude.dev/blog/getting-started-with-claude-code-mods",
-      "source": "Anthropic：Claude.dev 开发者博客（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "c7ec9dce9a21dbd241c0fd74bfe26b174b11d1da",
-          "title": "Claude Code mods 入门教程：从零构建 Token Weather 上下文窗口预报插件 / Getting started with Claude Code mods",
-          "title_zh": "Claude Code mods 入门教程：从零构建 Token Weather 上下文窗口预报插件",
-          "title_en": "Getting started with Claude Code mods",
-          "title_original": "Getting started with Claude Code mods",
-          "summary": "这篇 Claude Code 官方开发者教程介绍 mods，即以 hooks 形式运行在插件内的 JavaScript 或 TypeScript 模块，可以观察、重写或拒绝事件，甚至绘制自定义 UI，需 Claude Code 2.1.287 或更高版本。",
-          "recommend_reason_zh": null,
-          "url": "https://claude.dev/blog/getting-started-with-claude-code-mods",
-          "source": "Anthropic：Claude.dev 开发者博客（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-01T12:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Anthropic：Claude.dev 开发者博客（RSS）"
-      ],
-      "items": [
-        {
-          "id": "c7ec9dce9a21dbd241c0fd74bfe26b174b11d1da",
-          "title": "Claude Code mods 入门教程：从零构建 Token Weather 上下文窗口预报插件 / Getting started with Claude Code mods",
-          "title_zh": "Claude Code mods 入门教程：从零构建 Token Weather 上下文窗口预报插件",
-          "title_en": "Getting started with Claude Code mods",
-          "title_original": "Getting started with Claude Code mods",
-          "summary": "这篇 Claude Code 官方开发者教程介绍 mods，即以 hooks 形式运行在插件内的 JavaScript 或 TypeScript 模块，可以观察、重写或拒绝事件，甚至绘制自定义 UI，需 Claude Code 2.1.287 或更高版本。",
-          "recommend_reason_zh": null,
-          "url": "https://claude.dev/blog/getting-started-with-claude-code-mods",
-          "source": "Anthropic：Claude.dev 开发者博客（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-01T12:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7253,
-      "importance": 0.7253,
-      "importance_score": 0.7253,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.68,
-        "source_tier": 0.78,
-        "ai_relevance": 0.95,
-        "recency": 0.887,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-01T12:00:00Z",
-      "latest_at": "2026-10-01T12:00:00Z",
-      "primary_item": {
-        "id": "c7ec9dce9a21dbd241c0fd74bfe26b174b11d1da",
-        "title": "Claude Code mods 入门教程：从零构建 Token Weather 上下文窗口预报插件 / Getting started with Claude Code mods",
-        "title_zh": "Claude Code mods 入门教程：从零构建 Token Weather 上下文窗口预报插件",
-        "title_en": "Getting started with Claude Code mods",
-        "title_original": "Getting started with Claude Code mods",
-        "summary": "这篇 Claude Code 官方开发者教程介绍 mods，即以 hooks 形式运行在插件内的 JavaScript 或 TypeScript 模块，可以观察、重写或拒绝事件，甚至绘制自定义 UI，需 Claude Code 2.1.287 或更高版本。",
-        "recommend_reason_zh": null,
-        "url": "https://claude.dev/blog/getting-started-with-claude-code-mods",
-        "source": "Anthropic：Claude.dev 开发者博客（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-01T20:33:24.052340Z"
+        "scored_at": "2026-10-01T23:09:41.853613Z"
       }
     },
     {
@@ -1309,15 +1313,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.7224,
-      "importance": 0.7224,
-      "importance_score": 0.7224,
+      "score": 0.7165,
+      "importance": 0.7165,
+      "importance_score": 0.7165,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.6192,
         "source_tier": 0.58,
         "ai_relevance": 0.86,
-        "recency": 0.9001,
+        "recency": 0.8674,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1343,89 +1347,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T20:33:24.052340Z"
-      }
-    },
-    {
-      "story_id": "story_e4ed42a08a07",
-      "title": "Code coverage uploads no longer fail CI for new branches",
-      "url": "https://github.blog/changelog/2026-10-01-code-coverage-uploads-no-longer-fail-ci-for-new-branches",
-      "primary_url": "https://github.blog/changelog/2026-10-01-code-coverage-uploads-no-longer-fail-ci-for-new-branches",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "08ac06ec77af73913bce3f0971b90477a877cc42",
-          "title": "Code coverage uploads no longer fail CI for new branches",
-          "title_zh": null,
-          "title_en": "Code coverage uploads no longer fail CI for new branches",
-          "title_original": "Code coverage uploads no longer fail CI for new branches",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-01-code-coverage-uploads-no-longer-fail-ci-for-new-branches",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-01T16:49:05Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "08ac06ec77af73913bce3f0971b90477a877cc42",
-          "title": "Code coverage uploads no longer fail CI for new branches",
-          "title_zh": null,
-          "title_en": "Code coverage uploads no longer fail CI for new branches",
-          "title_original": "Code coverage uploads no longer fail CI for new branches",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-01-code-coverage-uploads-no-longer-fail-ci-for-new-branches",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-01T16:49:05Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8072,
-      "importance": 0.8072,
-      "importance_score": 0.8072,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.73,
-        "recency": 0.951,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-01T16:49:05Z",
-      "latest_at": "2026-10-01T16:49:05Z",
-      "primary_item": {
-        "id": "08ac06ec77af73913bce3f0971b90477a877cc42",
-        "title": "Code coverage uploads no longer fail CI for new branches",
-        "title_zh": null,
-        "title_en": "Code coverage uploads no longer fail CI for new branches",
-        "title_original": "Code coverage uploads no longer fail CI for new branches",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-01-code-coverage-uploads-no-longer-fail-ci-for-new-branches",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-01T20:33:24.052340Z"
+        "scored_at": "2026-10-01T23:09:41.853613Z"
       }
     },
     {
@@ -1473,15 +1395,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7452,
-      "importance": 0.7452,
-      "importance_score": 0.7452,
+      "score": 0.7387,
+      "importance": 0.7387,
+      "importance_score": 0.7387,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.9809,
+        "recency": 0.9452,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1506,30 +1428,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T20:33:24.052340Z"
+        "scored_at": "2026-10-01T23:09:41.853613Z"
       }
     },
     {
-      "story_id": "story_ca15d7ba627d",
-      "title": "Scheduled code scanning skips inactive repositories",
-      "url": "https://github.blog/changelog/2026-10-01-scheduled-code-scanning-skips-inactive-repositories",
-      "primary_url": "https://github.blog/changelog/2026-10-01-scheduled-code-scanning-skips-inactive-repositories",
+      "story_id": "story_4360c0773884",
+      "title": "GitHub Copilot in VS Code, September 2026 releases",
+      "url": "https://github.blog/changelog/2026-10-01-github-copilot-in-vs-code-september-2026-releases",
+      "primary_url": "https://github.blog/changelog/2026-10-01-github-copilot-in-vs-code-september-2026-releases",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "b7433e3222eaf9c8ec4ba92eaf22f1309d747ca3",
-          "title": "Scheduled code scanning skips inactive repositories",
+          "id": "3670b29c6a73e7815010767521ad6c93921fd71a",
+          "title": "GitHub Copilot in VS Code, September 2026 releases",
           "title_zh": null,
-          "title_en": "Scheduled code scanning skips inactive repositories",
-          "title_original": "Scheduled code scanning skips inactive repositories",
+          "title_en": "GitHub Copilot in VS Code, September 2026 releases",
+          "title_original": "GitHub Copilot in VS Code, September 2026 releases",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-01-scheduled-code-scanning-skips-inactive-repositories",
+          "url": "https://github.blog/changelog/2026-10-01-github-copilot-in-vs-code-september-2026-releases",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-01T16:49:15Z"
+          "published_at": "2026-10-01T19:09:10Z"
         }
       ],
       "source_count": 1,
@@ -1538,31 +1460,31 @@
       ],
       "items": [
         {
-          "id": "b7433e3222eaf9c8ec4ba92eaf22f1309d747ca3",
-          "title": "Scheduled code scanning skips inactive repositories",
+          "id": "3670b29c6a73e7815010767521ad6c93921fd71a",
+          "title": "GitHub Copilot in VS Code, September 2026 releases",
           "title_zh": null,
-          "title_en": "Scheduled code scanning skips inactive repositories",
-          "title_original": "Scheduled code scanning skips inactive repositories",
+          "title_en": "GitHub Copilot in VS Code, September 2026 releases",
+          "title_original": "GitHub Copilot in VS Code, September 2026 releases",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-01-scheduled-code-scanning-skips-inactive-repositories",
+          "url": "https://github.blog/changelog/2026-10-01-github-copilot-in-vs-code-september-2026-releases",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-01T16:49:15Z"
+          "published_at": "2026-10-01T19:09:10Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8072,
-      "importance": 0.8072,
-      "importance_score": 0.8072,
+      "score": 0.8126,
+      "importance": 0.8126,
+      "importance_score": 0.8126,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.73,
-        "recency": 0.951,
+        "ai_relevance": 0.76,
+        "recency": 0.9478,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1570,17 +1492,17 @@
         "official_source",
         "high_importance"
       ],
-      "earliest_at": "2026-10-01T16:49:15Z",
-      "latest_at": "2026-10-01T16:49:15Z",
+      "earliest_at": "2026-10-01T19:09:10Z",
+      "latest_at": "2026-10-01T19:09:10Z",
       "primary_item": {
-        "id": "b7433e3222eaf9c8ec4ba92eaf22f1309d747ca3",
-        "title": "Scheduled code scanning skips inactive repositories",
+        "id": "3670b29c6a73e7815010767521ad6c93921fd71a",
+        "title": "GitHub Copilot in VS Code, September 2026 releases",
         "title_zh": null,
-        "title_en": "Scheduled code scanning skips inactive repositories",
-        "title_original": "Scheduled code scanning skips inactive repositories",
+        "title_en": "GitHub Copilot in VS Code, September 2026 releases",
+        "title_original": "GitHub Copilot in VS Code, September 2026 releases",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-01-scheduled-code-scanning-skips-inactive-repositories",
+        "url": "https://github.blog/changelog/2026-10-01-github-copilot-in-vs-code-september-2026-releases",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -1588,88 +1510,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T20:33:24.052340Z"
-      }
-    },
-    {
-      "story_id": "story_543034a71340",
-      "title": "Gemini 4 Argon (High) 登 Arena Agent Arena 第 8 名，净提升 +7.92% / More big news from @GoogleDeepMind: Gemini 4 Argon (High) is #8 in Agent Arena with a +7.92% net improvement score, and has reshaped the ...",
-      "url": "https://x.com/arena/status/2105411271525052418",
-      "primary_url": "https://x.com/arena/status/2105411271525052418",
-      "source": "X：Arena (@arena)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "2c4c2761bad28c9b0f0729a0426cdce23814d35d",
-          "title": "Gemini 4 Argon (High) 登 Arena Agent Arena 第 8 名，净提升 +7.92% / More big news from @GoogleDeepMind: Gemini 4 Argon (High) is #8 in Agent Arena with a +7.92% net improvement score, and has reshaped the ...",
-          "title_zh": "Gemini 4 Argon (High) 登 Arena Agent Arena 第 8 名，净提升 +7.92%",
-          "title_en": "More big news from @GoogleDeepMind: Gemini 4 Argon (High) is #8 in Agent Arena with a +7.92% net improvement score, and has reshaped the ...",
-          "title_original": "More big news from @GoogleDeepMind: Gemini 4 Argon (High) is #8 in Agent Arena with a +7.92% net improvement score, and has reshaped the ...",
-          "summary": "Arena 公布 Gemini 4 Argon (High) 在 Agent Arena 排名第 8，净提升分 +7.92%，每任务成本 $0.62。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/arena/status/2105411271525052418",
-          "source": "X：Arena (@arena)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-30T21:35:38Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Arena (@arena)"
-      ],
-      "items": [
-        {
-          "id": "2c4c2761bad28c9b0f0729a0426cdce23814d35d",
-          "title": "Gemini 4 Argon (High) 登 Arena Agent Arena 第 8 名，净提升 +7.92% / More big news from @GoogleDeepMind: Gemini 4 Argon (High) is #8 in Agent Arena with a +7.92% net improvement score, and has reshaped the ...",
-          "title_zh": "Gemini 4 Argon (High) 登 Arena Agent Arena 第 8 名，净提升 +7.92%",
-          "title_en": "More big news from @GoogleDeepMind: Gemini 4 Argon (High) is #8 in Agent Arena with a +7.92% net improvement score, and has reshaped the ...",
-          "title_original": "More big news from @GoogleDeepMind: Gemini 4 Argon (High) is #8 in Agent Arena with a +7.92% net improvement score, and has reshaped the ...",
-          "summary": "Arena 公布 Gemini 4 Argon (High) 在 Agent Arena 排名第 8，净提升分 +7.92%，每任务成本 $0.62。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/arena/status/2105411271525052418",
-          "source": "X：Arena (@arena)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-30T21:35:38Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7283,
-      "importance": 0.7283,
-      "importance_score": 0.7283,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.79,
-        "source_tier": 0.78,
-        "ai_relevance": 0.95,
-        "recency": 0.7204,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-30T21:35:38Z",
-      "latest_at": "2026-09-30T21:35:38Z",
-      "primary_item": {
-        "id": "2c4c2761bad28c9b0f0729a0426cdce23814d35d",
-        "title": "Gemini 4 Argon (High) 登 Arena Agent Arena 第 8 名，净提升 +7.92% / More big news from @GoogleDeepMind: Gemini 4 Argon (High) is #8 in Agent Arena with a +7.92% net improvement score, and has reshaped the ...",
-        "title_zh": "Gemini 4 Argon (High) 登 Arena Agent Arena 第 8 名，净提升 +7.92%",
-        "title_en": "More big news from @GoogleDeepMind: Gemini 4 Argon (High) is #8 in Agent Arena with a +7.92% net improvement score, and has reshaped the ...",
-        "title_original": "More big news from @GoogleDeepMind: Gemini 4 Argon (High) is #8 in Agent Arena with a +7.92% net improvement score, and has reshaped the ...",
-        "summary": "Arena 公布 Gemini 4 Argon (High) 在 Agent Arena 排名第 8，净提升分 +7.92%，每任务成本 $0.62。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/arena/status/2105411271525052418",
-        "source": "X：Arena (@arena)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-01T20:33:24.052340Z"
+        "scored_at": "2026-10-01T23:09:41.853613Z"
       }
     },
     {
@@ -1804,15 +1645,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.693,
-      "importance": 0.693,
-      "importance_score": 0.693,
+      "score": 0.6869,
+      "importance": 0.6869,
+      "importance_score": 0.6869,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5616,
         "source_tier": 0.58,
         "ai_relevance": 0.78,
-        "recency": 0.9215,
+        "recency": 0.888,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1837,7 +1678,199 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T20:33:24.052340Z"
+        "scored_at": "2026-10-01T23:09:41.853613Z"
+      }
+    },
+    {
+      "story_id": "story_be7b746442ad",
+      "title": "Accessibility statements highlighted on repository overview",
+      "url": "https://github.blog/changelog/2026-10-01-accessibility-statements-highlighted-on-repository-overview",
+      "primary_url": "https://github.blog/changelog/2026-10-01-accessibility-statements-highlighted-on-repository-overview",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "f3074555f3facc02020dd6d7e8ef078c96c866f9",
+          "title": "Accessibility statements highlighted on repository overview",
+          "title_zh": null,
+          "title_en": "Accessibility statements highlighted on repository overview",
+          "title_original": "Accessibility statements highlighted on repository overview",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-01-accessibility-statements-highlighted-on-repository-overview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-01T19:04:32Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "f3074555f3facc02020dd6d7e8ef078c96c866f9",
+          "title": "Accessibility statements highlighted on repository overview",
+          "title_zh": null,
+          "title_en": "Accessibility statements highlighted on repository overview",
+          "title_original": "Accessibility statements highlighted on repository overview",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-01-accessibility-statements-highlighted-on-repository-overview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-01T19:04:32Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8064,
+      "importance": 0.8064,
+      "importance_score": 0.8064,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.73,
+        "recency": 0.9467,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-01T19:04:32Z",
+      "latest_at": "2026-10-01T19:04:32Z",
+      "primary_item": {
+        "id": "f3074555f3facc02020dd6d7e8ef078c96c866f9",
+        "title": "Accessibility statements highlighted on repository overview",
+        "title_zh": null,
+        "title_en": "Accessibility statements highlighted on repository overview",
+        "title_original": "Accessibility statements highlighted on repository overview",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-10-01-accessibility-statements-highlighted-on-repository-overview",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-01T23:09:41.853613Z"
+      }
+    },
+    {
+      "story_id": "story_d17186e28d68",
+      "title": "惠普对 MacBook Neo 的回应更薄、更轻，并配备 OLED / HP&#8217;s answer to the MacBook Neo is thinner, lighter, and comes with OLED",
+      "url": "https://www.theverge.com/gadgets/1003107/hp-omnibook-5-14-intel-wildcat-lake-8gb-macbook-neo-price-specs",
+      "primary_url": "https://www.theverge.com/gadgets/1003107/hp-omnibook-5-14-intel-wildcat-lake-8gb-macbook-neo-price-specs",
+      "source": "The Verge (all)",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "12dbe329d7cebce9dbab284a387daef55d60a720",
+          "title": "惠普对 MacBook Neo 的回应更薄、更轻，并配备 OLED / HP&#8217;s answer to the MacBook Neo is thinner, lighter, and comes with OLED",
+          "title_zh": "惠普对 MacBook Neo 的回应更薄、更轻，并配备 OLED",
+          "title_en": "HP&#8217;s answer to the MacBook Neo is thinner, lighter, and comes with OLED",
+          "title_original": "HP&#8217;s answer to the MacBook Neo is thinner, lighter, and comes with OLED",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/gadgets/1003107/hp-omnibook-5-14-intel-wildcat-lake-8gb-macbook-neo-price-specs",
+          "source": "The Verge (all)",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-01T13:00:00Z"
+        },
+        {
+          "id": "05c6e8fe71d7032136a9a6b12da1e32a705afdaf",
+          "title": "HP’s answer to the MacBook Neo is thinner, lighter, and comes with OLED",
+          "title_zh": null,
+          "title_en": "HP’s answer to the MacBook Neo is thinner, lighter, and comes with OLED",
+          "title_original": "HP’s answer to the MacBook Neo is thinner, lighter, and comes with OLED",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/gadgets/1003107/hp-omnibook-5-14-intel-wildcat-lake-8gb-macbook-neo-price-specs",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-01T13:00:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Verge",
+        "The Verge (all)"
+      ],
+      "items": [
+        {
+          "id": "12dbe329d7cebce9dbab284a387daef55d60a720",
+          "title": "惠普对 MacBook Neo 的回应更薄、更轻，并配备 OLED / HP&#8217;s answer to the MacBook Neo is thinner, lighter, and comes with OLED",
+          "title_zh": "惠普对 MacBook Neo 的回应更薄、更轻，并配备 OLED",
+          "title_en": "HP&#8217;s answer to the MacBook Neo is thinner, lighter, and comes with OLED",
+          "title_original": "HP&#8217;s answer to the MacBook Neo is thinner, lighter, and comes with OLED",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/gadgets/1003107/hp-omnibook-5-14-intel-wildcat-lake-8gb-macbook-neo-price-specs",
+          "source": "The Verge (all)",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-01T13:00:00Z"
+        },
+        {
+          "id": "05c6e8fe71d7032136a9a6b12da1e32a705afdaf",
+          "title": "HP’s answer to the MacBook Neo is thinner, lighter, and comes with OLED",
+          "title_zh": null,
+          "title_en": "HP’s answer to the MacBook Neo is thinner, lighter, and comes with OLED",
+          "title_original": "HP’s answer to the MacBook Neo is thinner, lighter, and comes with OLED",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/gadgets/1003107/hp-omnibook-5-14-intel-wildcat-lake-8gb-macbook-neo-price-specs",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-01T13:00:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6332,
+      "importance": 0.6332,
+      "importance_score": 0.6332,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5616,
+        "source_tier": 0.58,
+        "ai_relevance": 0.78,
+        "recency": 0.8672,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-01T13:00:00Z",
+      "latest_at": "2026-10-01T13:00:00Z",
+      "primary_item": {
+        "id": "12dbe329d7cebce9dbab284a387daef55d60a720",
+        "title": "惠普对 MacBook Neo 的回应更薄、更轻，并配备 OLED / HP&#8217;s answer to the MacBook Neo is thinner, lighter, and comes with OLED",
+        "title_zh": "惠普对 MacBook Neo 的回应更薄、更轻，并配备 OLED",
+        "title_en": "HP&#8217;s answer to the MacBook Neo is thinner, lighter, and comes with OLED",
+        "title_original": "HP&#8217;s answer to the MacBook Neo is thinner, lighter, and comes with OLED",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.theverge.com/gadgets/1003107/hp-omnibook-5-14-intel-wildcat-lake-8gb-macbook-neo-price-specs",
+        "source": "The Verge (all)",
+        "source_name": "Curated Media"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-01T23:09:41.853613Z"
       }
     }
   ]
