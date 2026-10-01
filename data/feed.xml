@@ -5,7 +5,7 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Thu, 01 Oct 2026 00:28:41 +0000</lastBuildDate>
+<lastBuildDate>Thu, 01 Oct 2026 01:28:06 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
 <item>
 <title>Google DeepMind 发布 Gemini 4 Argon，面向可信网络防御者先行开放 / Gemini 4 Argon: our next era of frontier intelligence</title>
@@ -96,6 +96,14 @@
 <pubDate>Wed, 30 Sep 2026 01:48:21 +0000</pubDate>
 </item>
 <item>
+<title>OpenRouter 发布 Agent 模型成本与质量权衡选型框架 / Cost vs. Quality Tradeoff Framework for Agent Models</title>
+<link>https://openrouter.ai/blog/insights/cost-vs-quality-tradeoff-framework-for-agent-models</link>
+<guid isPermaLink="true">https://openrouter.ai/blog/insights/cost-vs-quality-tradeoff-framework-for-agent-models</guid>
+<description>OpenRouter 发布一个三步框架，用于为 Agent 任务选出以最低成本达到质量门槛的模型，而不是按排行榜排名选最高分模型。方法是先按任务设定质量门槛，再用 20 到 50 条自己的示例运行廉价、中档和前沿模型并用统一评分标准计算每质量点成本，最后选出以超过运行间分数波动的余量过线的最便宜模型。（OpenRouter：Announcements（RSS））</description>
+<category>行业动态</category>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
 <title>GitHub Advanced Security trials for GitHub Team</title>
 <link>https://github.blog/changelog/2026-09-30-github-advanced-security-trials-for-github-team</link>
 <guid isPermaLink="true">https://github.blog/changelog/2026-09-30-github-advanced-security-trials-for-github-team</guid>
@@ -104,12 +112,12 @@
 <pubDate>Wed, 30 Sep 2026 16:48:24 +0000</pubDate>
 </item>
 <item>
-<title>沃尔玛向门店 AI 海报下"禁令"：ChatGPT 生成的招牌一律不许挂</title>
-<link>https://www.aibase.com/news/31443</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31443</guid>
-<description>AIbase</description>
+<title>OpenRouter 教程：如何在 CI 中用 LLM eval 门禁拦截 Pull Request / How to Gate Pull Requests on LLM Evals in CI</title>
+<link>https://openrouter.ai/blog/tutorials/how-to-gate-pull-requests-on-llm-evals-in-ci</link>
+<guid isPermaLink="true">https://openrouter.ai/blog/tutorials/how-to-gate-pull-requests-on-llm-evals-in-ci</guid>
+<description>OpenRouter 发布教程，讲解如何用固定的 eval 集在 CI 中门禁 pull request，当通过率低于阈值时脚本以非零退出码阻止合并，做法与单元测试门禁一致。（OpenRouter：Announcements（RSS））</description>
 <category>行业动态</category>
-<pubDate>Wed, 30 Sep 2026 13:33:53 +0000</pubDate>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Artificial Analysis：GPT-6.1 Sol 的 Cost per Task 较 GPT-6 Sol 低约 30% / GPT-6.1 Sol has a ~30% lower Cost per Task than GPT-6 Sol, which was already ~half the cost of GPT-5.6 Sol</title>
@@ -120,20 +128,20 @@
 <pubDate>Thu, 01 Oct 2026 00:09:22 +0000</pubDate>
 </item>
 <item>
-<title>GPT-6.1 Sol (Max) 以 1759 分登上 Code Arena: WebDev 第 3 名 / Exciting news: GPT-6.1 Sol (Max) by @OpenAI just landed the Code Arena: WebDev at #3 with 1759 pts, and at a blended $8/MToken it reshape...</title>
-<link>https://x.com/arena/status/2105367591174995999</link>
-<guid isPermaLink="true">https://x.com/arena/status/2105367591174995999</guid>
-<description>Arena 评测榜单显示，OpenAI 的 GPT-6.1 Sol (Max) 以 1759 分位列 Code Arena: WebDev 第 3 名，混合价格为 $8/MToken。相比 GPT-6 Sol (Max) 同价提升 70 分，排名上升 4 位，且在 Consumer Product 等所有类目均有提升。（X：Arena (@arena)）</description>
-<category>行业动态</category>
-<pubDate>Wed, 30 Sep 2026 18:42:04 +0000</pubDate>
-</item>
-<item>
 <title>Anthropic 与 SpaceX 签署最高 845 亿美元算力协议，可提前 90 天通知解除</title>
 <link>https://www.ithome.com/1/008/589.htm</link>
 <guid isPermaLink="true">https://www.ithome.com/1/008/589.htm</guid>
 <description>Anthropic 与 SpaceX 签署算力协议，据路透社查阅的 IPO 申报文件，合同金额上限最高达 845 亿美元，用于租用 SpaceX 数据中心内的英伟达 GPU。（IT之家（RSS））</description>
 <category>行业动态</category>
 <pubDate>Wed, 30 Sep 2026 01:41:26 +0000</pubDate>
+</item>
+<item>
+<title>GPT-6.1 Sol (Max) 以 1759 分登上 Code Arena: WebDev 第 3 名 / Exciting news: GPT-6.1 Sol (Max) by @OpenAI just landed the Code Arena: WebDev at #3 with 1759 pts, and at a blended $8/MToken it reshape...</title>
+<link>https://x.com/arena/status/2105367591174995999</link>
+<guid isPermaLink="true">https://x.com/arena/status/2105367591174995999</guid>
+<description>Arena 评测榜单显示，OpenAI 的 GPT-6.1 Sol (Max) 以 1759 分位列 Code Arena: WebDev 第 3 名，混合价格为 $8/MToken。相比 GPT-6 Sol (Max) 同价提升 70 分，排名上升 4 位，且在 Consumer Product 等所有类目均有提升。（X：Arena (@arena)）</description>
+<category>行业动态</category>
+<pubDate>Wed, 30 Sep 2026 18:42:04 +0000</pubDate>
 </item>
 <item>
 <title>X25519-only TLS ends for GHE.com on October 7</title>
@@ -158,14 +166,6 @@
 <description>Hacker News front page</description>
 <category>多源热议</category>
 <pubDate>Wed, 30 Sep 2026 14:59:57 +0000</pubDate>
-</item>
-<item>
-<title>Google announces Gemini 4 and says it&amp;#8217;s so capable that only &amp;#8216;trusted cyber defenders&amp;#8217; can have it right now</title>
-<link>https://www.theverge.com/tech/1002980/google-gemini-4-argon</link>
-<guid isPermaLink="true">https://www.theverge.com/tech/1002980/google-gemini-4-argon</guid>
-<description>The Verge</description>
-<category>值得关注</category>
-<pubDate>Wed, 30 Sep 2026 20:41:41 +0000</pubDate>
 </item>
 </channel>
 </rss>
