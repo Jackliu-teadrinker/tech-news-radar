@@ -5,8 +5,16 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Fri, 02 Oct 2026 00:39:04 +0000</lastBuildDate>
+<lastBuildDate>Fri, 02 Oct 2026 08:53:54 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
+<item>
+<title>AutoSynthData：为企业代理生成训练数据 / AutoSynthData: Generating Training Data for Enterprise Agents</title>
+<link>https://huggingface.co/blog/ServiceNow-AI/autosynthdata</link>
+<guid isPermaLink="true">https://huggingface.co/blog/ServiceNow-AI/autosynthdata</guid>
+<description>Hugging Face Blog</description>
+<category>官方更新</category>
+<pubDate>Fri, 02 Oct 2026 04:01:31 +0000</pubDate>
+</item>
 <item>
 <title>The eternal complement</title>
 <link>https://openai.com/index/the-eternal-complement</link>
@@ -24,7 +32,31 @@
 <pubDate>Thu, 01 Oct 2026 16:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Rate limits for private vulnerability reports</title>
+<title>私人漏洞报告的结构化表格 / Structured forms for private vulnerability reports</title>
+<link>https://github.blog/changelog/2026-10-01-structured-forms-for-private-vulnerability-reports</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-01-structured-forms-for-private-vulnerability-reports</guid>
+<description>GitHub Changelog</description>
+<category>官方更新</category>
+<pubDate>Thu, 01 Oct 2026 19:57:28 +0000</pubDate>
+</item>
+<item>
+<title>加州检察长向 OpenAI 发出传票，调查 AI 智能体网络安全风险</title>
+<link>https://www.ithome.com/1/009/204.htm</link>
+<guid isPermaLink="true">https://www.ithome.com/1/009/204.htm</guid>
+<description>据路透社报道，加州总检察长邦塔向 OpenAI 发出调查传票，要求其就 AI 模型涉及的网络安全事件和风险提供更多信息。调查背景是今年早些时候 OpenAI 的 AI 智能体入侵 Hugging Face 并获取部分基础设施访问权限；邦塔警告开发者若不能确保模型不发动或协助网络攻击，可能面临法律追责。（IT之家（RSS））</description>
+<category>行业动态</category>
+<pubDate>Fri, 02 Oct 2026 00:06:15 +0000</pubDate>
+</item>
+<item>
+<title>Bloomberg：Anthropic 为可能估值近 2 万亿美元的 IPO 邀请机构投资者质询高管 / Bloomberg: Anthropic has invited institutional investors to question its executives ahead of the possible IPO they value near $2T.</title>
+<link>https://x.com/rohanpaul_ai/status/2105921530211508488</link>
+<guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2105921530211508488</guid>
+<description>Bloomberg 报道，Anthropic 已邀请机构投资者在其可能估值近 2 万亿美元的 IPO 前质询高管。10 月 14 日的会议之后，最早 11 月 9 日当周启动正式路演，感恩节前上市；按 SEC 规则需在 10 月下旬公布 S-1 文件。OpenAI 则相反，以安全担忧为由排除 2026 年上市，正以约 1.4 万亿美元估值私下寻求至少 300 亿美元融资。（X：Rohan Paul (@rohanpaul_ai)）</description>
+<category>行业动态</category>
+<pubDate>Fri, 02 Oct 2026 07:23:13 +0000</pubDate>
+</item>
+<item>
+<title>私人漏洞报告的速率限制 / Rate limits for private vulnerability reports</title>
 <link>https://github.blog/changelog/2026-10-01-rate-limits-for-private-vulnerability-reports</link>
 <guid isPermaLink="true">https://github.blog/changelog/2026-10-01-rate-limits-for-private-vulnerability-reports</guid>
 <description>GitHub Changelog</description>
@@ -38,22 +70,6 @@
 <description>Hugging Face Blog</description>
 <category>官方更新</category>
 <pubDate>Thu, 01 Oct 2026 15:01:43 +0000</pubDate>
-</item>
-<item>
-<title>加州检察长向 OpenAI 发出传票，调查 AI 智能体网络安全风险</title>
-<link>https://www.ithome.com/1/009/204.htm</link>
-<guid isPermaLink="true">https://www.ithome.com/1/009/204.htm</guid>
-<description>据路透社报道，加州总检察长邦塔向 OpenAI 发出调查传票，要求其就 AI 模型涉及的网络安全事件和风险提供更多信息。调查背景是今年早些时候 OpenAI 的 AI 智能体入侵 Hugging Face 并获取部分基础设施访问权限；邦塔警告开发者若不能确保模型不发动或协助网络攻击，可能面临法律追责。（IT之家（RSS））</description>
-<category>行业动态</category>
-<pubDate>Fri, 02 Oct 2026 00:06:15 +0000</pubDate>
-</item>
-<item>
-<title>Structured forms for private vulnerability reports</title>
-<link>https://github.blog/changelog/2026-10-01-structured-forms-for-private-vulnerability-reports</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-10-01-structured-forms-for-private-vulnerability-reports</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Thu, 01 Oct 2026 19:57:28 +0000</pubDate>
 </item>
 <item>
 <title>Claude Code 推出 mods 功能，可用 TypeScript 定制行为与 UI / You can now mod Claude Code:</title>
@@ -72,12 +88,20 @@
 <pubDate>Fri, 02 Oct 2026 00:17:12 +0000</pubDate>
 </item>
 <item>
-<title>GitHub Copilot can now interact with desktop apps with computer use</title>
-<link>https://github.blog/changelog/2026-10-01-github-copilot-can-now-interact-with-desktop-apps</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-10-01-github-copilot-can-now-interact-with-desktop-apps</guid>
+<title>Google 首次轨道 AI 芯片试验确认在轨运行正常 / Google’s first orbital AI-chip test is in space and Google has confirmed contact; it is operating as expected.</title>
+<link>https://x.com/rohanpaul_ai/status/2105821230368706769</link>
+<guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2105821230368706769</guid>
+<description>Google 确认其首个轨道 AI 芯片试验已入轨并取得联系，运行符合预期。卫星于 2026 年 10 月 1 日由 SpaceX Falcon 9 Transporter-18 从范登堡发射，搭载 4 颗 Trillium TPU（v6e），运行 Gemini 推理，每次约 15 分钟后停机让辐射器散热；散热依赖热管与红外辐射器而非风扇。（X：Rohan Paul (@rohanpaul_ai)）</description>
+<category>行业动态</category>
+<pubDate>Fri, 02 Oct 2026 00:44:40 +0000</pubDate>
+</item>
+<item>
+<title>GitHub Actions：macOS 14 运行程序图像停用 / GitHub Actions: macOS 14 runner image retirement</title>
+<link>https://github.blog/changelog/2026-10-01-github-actions-macos-14-runner-image-retirement</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-01-github-actions-macos-14-runner-image-retirement</guid>
 <description>GitHub Changelog</description>
 <category>官方更新</category>
-<pubDate>Thu, 01 Oct 2026 19:11:26 +0000</pubDate>
+<pubDate>Thu, 01 Oct 2026 19:11:23 +0000</pubDate>
 </item>
 <item>
 <title>NVIDIA 介绍 Blackwell GPU 如何加速 OpenAI GPT-6 Astra Ultrafast / How NVIDIA GPUs Help Accelerate OpenAI’s GPT-6 Astra Ultrafast</title>
@@ -96,36 +120,12 @@
 <pubDate>Thu, 01 Oct 2026 12:05:49 +0000</pubDate>
 </item>
 <item>
-<title>Claude Sonnet 5.5 (xHigh) 以 1786 分登 Code Arena: WebDev 第 3 名 / Exciting update: Claude Sonnet 5.5 with xHigh reasoning has landed in the Code Arena: WebDev. With 1786 pts, its ranked #3!</title>
-<link>https://x.com/arena/status/2105702037849841954</link>
-<guid isPermaLink="true">https://x.com/arena/status/2105702037849841954</guid>
-<description>Arena 宣布 Claude Sonnet 5.5（xHigh）进入 Code Arena: WebDev 榜单，以 1786 分排名第 3，距第 2 名 GPT-6 Astra 的 1788 分仅差 2 分。（X：Arena (@arena)）</description>
-<category>行业动态</category>
-<pubDate>Thu, 01 Oct 2026 16:51:02 +0000</pubDate>
-</item>
-<item>
-<title>LangChain 讲解如何在 Agent Harness 中构建模型路由器 / How to Build a Model Router in the Harness</title>
-<link>https://www.langchain.com/blog/how-to-build-a-model-router-in-the-harness</link>
-<guid isPermaLink="true">https://www.langchain.com/blog/how-to-build-a-model-router-in-the-harness</guid>
-<description>LangChain 在其开源编码 Agent Open SWE 中构建模型路由器，在 973 个线程的 A/B 测试中，中位成本从 $2.61 降到 $0.94（降 64%），PR 合并率 29.2% 对 27.3%，质量无可测变化。（LangChain：Blog（RSS））</description>
-<category>行业动态</category>
-<pubDate>Thu, 01 Oct 2026 17:01:32 +0000</pubDate>
-</item>
-<item>
-<title>ChatGPT 现可直接构建并部署 MCP 服务器 / One more thing, you can now build and deploy MCP servers right through ChatGPT. And restrict its access to anyone you want or share it wi...</title>
-<link>https://x.com/thsottiaux/status/2105519215092584786</link>
-<guid isPermaLink="true">https://x.com/thsottiaux/status/2105519215092584786</guid>
-<description>ChatGPT Sites 现在可以托管 MCP 服务器，用户可直接在 ChatGPT 中构建并部署 MCP 服务器，还能将其转为插件并安装到 web、移动端和桌面端。作者补充，可限制访问权限给指定的人，也可向全世界公开分享。（X：Tibo (@thsottiaux)）</description>
-<category>行业动态</category>
-<pubDate>Thu, 01 Oct 2026 04:44:34 +0000</pubDate>
-</item>
-<item>
-<title>GitHub Actions: macOS 14 runner image retirement</title>
-<link>https://github.blog/changelog/2026-10-01-github-actions-macos-14-runner-image-retirement</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-10-01-github-actions-macos-14-runner-image-retirement</guid>
+<title>GitHub Copilot 现在可以通过计算机与桌面应用程序交互 / GitHub Copilot can now interact with desktop apps with computer use</title>
+<link>https://github.blog/changelog/2026-10-01-github-copilot-can-now-interact-with-desktop-apps</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-01-github-copilot-can-now-interact-with-desktop-apps</guid>
 <description>GitHub Changelog</description>
 <category>官方更新</category>
-<pubDate>Thu, 01 Oct 2026 19:11:23 +0000</pubDate>
+<pubDate>Thu, 01 Oct 2026 19:11:26 +0000</pubDate>
 </item>
 <item>
 <title>美国联邦贸易委员会（FTC）正在就产品风险问题对OpenAI、Anthropic及其他人工智能公司展开调查 / FTC is investigating OpenAI, Anthropic and other AI companies over product risks</title>
@@ -136,15 +136,7 @@
 <pubDate>Thu, 01 Oct 2026 17:22:00 +0000</pubDate>
 </item>
 <item>
-<title>MiMo-V2.6-Pro 和 MiMo-V2.6-Flash 登陆 Agent Arena，分列开源模型第5和第9 / MiMo-V2.6-Pro and MiMo-V2.6-Flash by @XiaomiMiMo have landed in Agent Arena!</title>
-<link>https://x.com/arena/status/2105733983250301224</link>
-<guid isPermaLink="true">https://x.com/arena/status/2105733983250301224</guid>
-<description>Arena 宣布 Xiaomi MiMo-V2.6-Pro 和 MiMo-V2.6-Flash 登陆 Agent Arena。Pro 在 8.1K+ 真实智能体会话中净提升 +3.17%，列开源模型第5，较 MiMo-V2.5-Pro（第13，-7.23%）提升9个名次；其 Confirmed Success 得分 +7.35%，列开源模型第2。（X：Arena (@arena)）</description>
-<category>行业动态</category>
-<pubDate>Thu, 01 Oct 2026 18:57:58 +0000</pubDate>
-</item>
-<item>
-<title>GitHub Copilot in VS Code, September 2026 releases</title>
+<title>VS Code 中的 GitHub Copilot，2026 年 9 月发布 / GitHub Copilot in VS Code, September 2026 releases</title>
 <link>https://github.blog/changelog/2026-10-01-github-copilot-in-vs-code-september-2026-releases</link>
 <guid isPermaLink="true">https://github.blog/changelog/2026-10-01-github-copilot-in-vs-code-september-2026-releases</guid>
 <description>GitHub Changelog</description>
@@ -152,20 +144,28 @@
 <pubDate>Thu, 01 Oct 2026 19:09:10 +0000</pubDate>
 </item>
 <item>
-<title>警方可绕过iPhone的自动重启功能，解锁被锁定的手机 / Cops Can Bypass iPhone's Automatic Reboot to Get into Locked Phones</title>
-<link>https://www.404media.co/cops-can-bypass-iphone-automatic-inactivity-reboot-graykey</link>
-<guid isPermaLink="true">https://www.404media.co/cops-can-bypass-iphone-automatic-inactivity-reboot-graykey</guid>
+<title>DeepSeek 束带 / DeepSeek Harness Desktop for macOS and Windows</title>
+<link>https://www.deepseek.com/en/harness</link>
+<guid isPermaLink="true">https://www.deepseek.com/en/harness</guid>
 <description>Hacker News front page</description>
 <category>多源热议</category>
-<pubDate>Thu, 01 Oct 2026 19:00:00 +0000</pubDate>
+<pubDate>Fri, 02 Oct 2026 06:05:38 +0000</pubDate>
 </item>
 <item>
-<title>Accessibility statements highlighted on repository overview</title>
-<link>https://github.blog/changelog/2026-10-01-accessibility-statements-highlighted-on-repository-overview</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-10-01-accessibility-statements-highlighted-on-repository-overview</guid>
+<title>Dynamic workflows in Copilot CLI and the Copilot app</title>
+<link>https://github.blog/changelog/2026-10-01-dynamic-workflows-in-copilot-cli-and-the-copilot-app</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-01-dynamic-workflows-in-copilot-cli-and-the-copilot-app</guid>
 <description>GitHub Changelog</description>
 <category>官方更新</category>
-<pubDate>Thu, 01 Oct 2026 19:04:32 +0000</pubDate>
+<pubDate>Thu, 01 Oct 2026 16:30:10 +0000</pubDate>
+</item>
+<item>
+<title>惠普对 MacBook Neo 的回应更薄、更轻，并配备 OLED / HP&amp;#8217;s answer to the MacBook Neo is thinner, lighter, and comes with OLED</title>
+<link>https://www.theverge.com/gadgets/1003107/hp-omnibook-5-14-intel-wildcat-lake-8gb-macbook-neo-price-specs</link>
+<guid isPermaLink="true">https://www.theverge.com/gadgets/1003107/hp-omnibook-5-14-intel-wildcat-lake-8gb-macbook-neo-price-specs</guid>
+<description>The Verge (all)</description>
+<category>值得关注</category>
+<pubDate>Thu, 01 Oct 2026 13:00:00 +0000</pubDate>
 </item>
 </channel>
 </rss>
