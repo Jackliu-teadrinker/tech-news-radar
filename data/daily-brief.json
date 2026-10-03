@@ -1,91 +1,8 @@
 {
-  "generated_at": "2026-10-03T13:38:53.664382Z",
+  "generated_at": "2026-10-03T17:10:08.065324Z",
   "window_hours": 24,
-  "total_items": 18,
+  "total_items": 12,
   "items": [
-    {
-      "story_id": "story_87eab6a95e56",
-      "title": "OpenAI 发布 GPT-6 家族实用指南：选型、提示词与长任务管理 / A model guide for the GPT-6 family",
-      "url": "https://openai.com/index/practical-guide-building-gpt-6",
-      "primary_url": "https://openai.com/index/practical-guide-building-gpt-6",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "367c0500a3638f38bcbde66ccd6c4245025a561b",
-          "title": "OpenAI 发布 GPT-6 家族实用指南：选型、提示词与长任务管理 / A model guide for the GPT-6 family",
-          "title_zh": "OpenAI 发布 GPT-6 家族实用指南：选型、提示词与长任务管理",
-          "title_en": "A model guide for the GPT-6 family",
-          "title_original": "A model guide for the GPT-6 family",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/practical-guide-building-gpt-6",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-02T16:15:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "367c0500a3638f38bcbde66ccd6c4245025a561b",
-          "title": "OpenAI 发布 GPT-6 家族实用指南：选型、提示词与长任务管理 / A model guide for the GPT-6 family",
-          "title_zh": "OpenAI 发布 GPT-6 家族实用指南：选型、提示词与长任务管理",
-          "title_en": "A model guide for the GPT-6 family",
-          "title_original": "A model guide for the GPT-6 family",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/practical-guide-building-gpt-6",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-02T16:15:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8222,
-      "importance": 0.8222,
-      "importance_score": 0.8222,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.7342,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-02T16:15:00Z",
-      "latest_at": "2026-10-02T16:15:00Z",
-      "primary_item": {
-        "id": "367c0500a3638f38bcbde66ccd6c4245025a561b",
-        "title": "OpenAI 发布 GPT-6 家族实用指南：选型、提示词与长任务管理 / A model guide for the GPT-6 family",
-        "title_zh": "OpenAI 发布 GPT-6 家族实用指南：选型、提示词与长任务管理",
-        "title_en": "A model guide for the GPT-6 family",
-        "title_original": "A model guide for the GPT-6 family",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/practical-guide-building-gpt-6",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-03T13:40:04.190921Z"
-      }
-    },
     {
       "story_id": "story_cc4a44476dc4",
       "title": "Copilot 代码审查：API 支持和新的默认工作级别 / Copilot code review: API support and new default effort level",
@@ -131,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.786,
-      "importance": 0.786,
-      "importance_score": 0.786,
+      "score": 0.7791,
+      "importance": 0.7791,
+      "importance_score": 0.7791,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.79,
-        "recency": 0.7665,
+        "recency": 0.7285,
         "story_heat": 0.0
       },
       "category": "official",
@@ -165,253 +82,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T13:40:04.190921Z"
+        "scored_at": "2026-10-03T17:11:28.857631Z"
       }
     },
     {
-      "story_id": "story_2e2e433e3cb1",
-      "title": "开源 AstaBrief，Asta 中的快速报告生成模型 / Open-sourcing AstaBrief, the fast report-generation model in Asta",
-      "url": "https://huggingface.co/blog/allenai/astabrief",
-      "primary_url": "https://huggingface.co/blog/allenai/astabrief",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_52f3cf9a90e0",
+      "title": "LMSYS 发布开源聊天模型 Vicuna-13B，用 ShareGPT 对话微调 LLaMA，训练成本约 $300 / Blog Vicuna: An Open-Source Chatbot Impressing GPT-4 with 90% ChatGPT Quality We introduce Vicuna-13B, an open-source chatbot trained by fine-tuning LLaMA on user-shared conversations collected from ShareGPT. Preliminary evaluation using GPT-4 as a judge shows Vicuna-13B achiev... The Vicuna Team March 30, 2023",
+      "url": "https://www.lmsys.org/blog/2023-03-30-vicuna",
+      "primary_url": "https://www.lmsys.org/blog/2023-03-30-vicuna",
+      "source": "LMSYS：Blog（Chatbot Arena 团队）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "48ab6be8be1ae5fa20bc6b26fcfcc2f5fdadf96d",
-          "title": "开源 AstaBrief，Asta 中的快速报告生成模型 / Open-sourcing AstaBrief, the fast report-generation model in Asta",
-          "title_zh": "开源 AstaBrief，Asta 中的快速报告生成模型",
-          "title_en": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
-          "title_original": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
-          "summary": null,
+          "id": "7654202328494479b00a63601dedf32af4a164cb",
+          "title": "LMSYS 发布开源聊天模型 Vicuna-13B，用 ShareGPT 对话微调 LLaMA，训练成本约 $300 / Blog Vicuna: An Open-Source Chatbot Impressing GPT-4 with 90% ChatGPT Quality We introduce Vicuna-13B, an open-source chatbot trained by fine-tuning LLaMA on user-shared conversations collected from ShareGPT. Preliminary evaluation using GPT-4 as a judge shows Vicuna-13B achiev... The Vicuna Team March 30, 2023",
+          "title_zh": "LMSYS 发布开源聊天模型 Vicuna-13B，用 ShareGPT 对话微调 LLaMA，训练成本约 $300",
+          "title_en": "Blog Vicuna: An Open-Source Chatbot Impressing GPT-4 with 90% ChatGPT Quality We introduce Vicuna-13B, an open-source chatbot trained by fine-tuning LLaMA on user-shared conversations collected from ShareGPT. Preliminary evaluation using GPT-4 as a judge shows Vicuna-13B achiev... The Vicuna Team March 30, 2023",
+          "title_original": "Blog Vicuna: An Open-Source Chatbot Impressing GPT-4 with 90% ChatGPT Quality We introduce Vicuna-13B, an open-source chatbot trained by fine-tuning LLaMA on user-shared conversations collected from ShareGPT. Preliminary evaluation using GPT-4 as a judge shows Vicuna-13B achiev... The Vicuna Team March 30, 2023",
+          "summary": "LMSYS 团队发布 Vicuna-13B，通过约 70K ShareGPT 用户共享对话微调 LLaMA，训练成本约 $300，代码、权重和在线 demo 以非商业许可公开。GPT-4 作为评审的初步评估显示其达到 ChatGPT/Bard 90% 以上质量，在 45% 问题上不逊于 ChatGPT；团队同时提出基于 GPT-4 的自动评测框架，并说明其尚非严谨方法。",
           "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/allenai/astabrief",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-02T15:19:50Z"
+          "url": "https://www.lmsys.org/blog/2023-03-30-vicuna",
+          "source": "LMSYS：Blog（Chatbot Arena 团队）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": null
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Hugging Face Blog"
+        "LMSYS：Blog（Chatbot Arena 团队）"
       ],
       "items": [
         {
-          "id": "48ab6be8be1ae5fa20bc6b26fcfcc2f5fdadf96d",
-          "title": "开源 AstaBrief，Asta 中的快速报告生成模型 / Open-sourcing AstaBrief, the fast report-generation model in Asta",
-          "title_zh": "开源 AstaBrief，Asta 中的快速报告生成模型",
-          "title_en": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
-          "title_original": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
-          "summary": null,
+          "id": "7654202328494479b00a63601dedf32af4a164cb",
+          "title": "LMSYS 发布开源聊天模型 Vicuna-13B，用 ShareGPT 对话微调 LLaMA，训练成本约 $300 / Blog Vicuna: An Open-Source Chatbot Impressing GPT-4 with 90% ChatGPT Quality We introduce Vicuna-13B, an open-source chatbot trained by fine-tuning LLaMA on user-shared conversations collected from ShareGPT. Preliminary evaluation using GPT-4 as a judge shows Vicuna-13B achiev... The Vicuna Team March 30, 2023",
+          "title_zh": "LMSYS 发布开源聊天模型 Vicuna-13B，用 ShareGPT 对话微调 LLaMA，训练成本约 $300",
+          "title_en": "Blog Vicuna: An Open-Source Chatbot Impressing GPT-4 with 90% ChatGPT Quality We introduce Vicuna-13B, an open-source chatbot trained by fine-tuning LLaMA on user-shared conversations collected from ShareGPT. Preliminary evaluation using GPT-4 as a judge shows Vicuna-13B achiev... The Vicuna Team March 30, 2023",
+          "title_original": "Blog Vicuna: An Open-Source Chatbot Impressing GPT-4 with 90% ChatGPT Quality We introduce Vicuna-13B, an open-source chatbot trained by fine-tuning LLaMA on user-shared conversations collected from ShareGPT. Preliminary evaluation using GPT-4 as a judge shows Vicuna-13B achiev... The Vicuna Team March 30, 2023",
+          "summary": "LMSYS 团队发布 Vicuna-13B，通过约 70K ShareGPT 用户共享对话微调 LLaMA，训练成本约 $300，代码、权重和在线 demo 以非商业许可公开。GPT-4 作为评审的初步评估显示其达到 ChatGPT/Bard 90% 以上质量，在 45% 问题上不逊于 ChatGPT；团队同时提出基于 GPT-4 的自动评测框架，并说明其尚非严谨方法。",
           "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/allenai/astabrief",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-02T15:19:50Z"
+          "url": "https://www.lmsys.org/blog/2023-03-30-vicuna",
+          "source": "LMSYS：Blog（Chatbot Arena 团队）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7784,
-      "importance": 0.7784,
-      "importance_score": 0.7784,
-      "importance_label": "官方更新",
+      "score": 0.7786,
+      "importance": 0.7786,
+      "importance_score": 0.7786,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.79,
-        "recency": 0.7245,
+        "editorial": 0.79,
+        "source_tier": 0.78,
+        "ai_relevance": 0.95,
+        "recency": 1.0,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
+        "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-02T15:19:50Z",
-      "latest_at": "2026-10-02T15:19:50Z",
+      "earliest_at": "2026-10-03T17:10:08.065324Z",
+      "latest_at": "2026-10-03T17:10:08.065324Z",
       "primary_item": {
-        "id": "48ab6be8be1ae5fa20bc6b26fcfcc2f5fdadf96d",
-        "title": "开源 AstaBrief，Asta 中的快速报告生成模型 / Open-sourcing AstaBrief, the fast report-generation model in Asta",
-        "title_zh": "开源 AstaBrief，Asta 中的快速报告生成模型",
-        "title_en": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
-        "title_original": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
-        "summary": null,
+        "id": "7654202328494479b00a63601dedf32af4a164cb",
+        "title": "LMSYS 发布开源聊天模型 Vicuna-13B，用 ShareGPT 对话微调 LLaMA，训练成本约 $300 / Blog Vicuna: An Open-Source Chatbot Impressing GPT-4 with 90% ChatGPT Quality We introduce Vicuna-13B, an open-source chatbot trained by fine-tuning LLaMA on user-shared conversations collected from ShareGPT. Preliminary evaluation using GPT-4 as a judge shows Vicuna-13B achiev... The Vicuna Team March 30, 2023",
+        "title_zh": "LMSYS 发布开源聊天模型 Vicuna-13B，用 ShareGPT 对话微调 LLaMA，训练成本约 $300",
+        "title_en": "Blog Vicuna: An Open-Source Chatbot Impressing GPT-4 with 90% ChatGPT Quality We introduce Vicuna-13B, an open-source chatbot trained by fine-tuning LLaMA on user-shared conversations collected from ShareGPT. Preliminary evaluation using GPT-4 as a judge shows Vicuna-13B achiev... The Vicuna Team March 30, 2023",
+        "title_original": "Blog Vicuna: An Open-Source Chatbot Impressing GPT-4 with 90% ChatGPT Quality We introduce Vicuna-13B, an open-source chatbot trained by fine-tuning LLaMA on user-shared conversations collected from ShareGPT. Preliminary evaluation using GPT-4 as a judge shows Vicuna-13B achiev... The Vicuna Team March 30, 2023",
+        "summary": "LMSYS 团队发布 Vicuna-13B，通过约 70K ShareGPT 用户共享对话微调 LLaMA，训练成本约 $300，代码、权重和在线 demo 以非商业许可公开。GPT-4 作为评审的初步评估显示其达到 ChatGPT/Bard 90% 以上质量，在 45% 问题上不逊于 ChatGPT；团队同时提出基于 GPT-4 的自动评测框架，并说明其尚非严谨方法。",
         "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/allenai/astabrief",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
+        "url": "https://www.lmsys.org/blog/2023-03-30-vicuna",
+        "source": "LMSYS：Blog（Chatbot Arena 团队）",
+        "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T13:40:04.190921Z"
-      }
-    },
-    {
-      "story_id": "story_8929dc6acd37",
-      "title": "人工智能正在改写开发者的职业阶梯。以下是如何脱颖而出。 / AI is rewriting the developer career ladder. Here’s how to stand out.",
-      "url": "https://github.blog/ai-and-ml/ai-is-rewriting-the-developer-career-ladder-heres-how-to-stand-out",
-      "primary_url": "https://github.blog/ai-and-ml/ai-is-rewriting-the-developer-career-ladder-heres-how-to-stand-out",
-      "source": "GitHub AI & ML",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "16e311d52410a05b592402e68322476c2a4512bd",
-          "title": "人工智能正在改写开发者的职业阶梯。以下是如何脱颖而出。 / AI is rewriting the developer career ladder. Here’s how to stand out.",
-          "title_zh": "人工智能正在改写开发者的职业阶梯。以下是如何脱颖而出。",
-          "title_en": "AI is rewriting the developer career ladder. Here’s how to stand out.",
-          "title_original": "AI is rewriting the developer career ladder. Here’s how to stand out.",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/ai-and-ml/ai-is-rewriting-the-developer-career-ladder-heres-how-to-stand-out",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-02T15:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub AI & ML"
-      ],
-      "items": [
-        {
-          "id": "16e311d52410a05b592402e68322476c2a4512bd",
-          "title": "人工智能正在改写开发者的职业阶梯。以下是如何脱颖而出。 / AI is rewriting the developer career ladder. Here’s how to stand out.",
-          "title_zh": "人工智能正在改写开发者的职业阶梯。以下是如何脱颖而出。",
-          "title_en": "AI is rewriting the developer career ladder. Here’s how to stand out.",
-          "title_original": "AI is rewriting the developer career ladder. Here’s how to stand out.",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/ai-and-ml/ai-is-rewriting-the-developer-career-ladder-heres-how-to-stand-out",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-02T15:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7718,
-      "importance": 0.7718,
-      "importance_score": 0.7718,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.76,
-        "recency": 0.721,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-02T15:00:00Z",
-      "latest_at": "2026-10-02T15:00:00Z",
-      "primary_item": {
-        "id": "16e311d52410a05b592402e68322476c2a4512bd",
-        "title": "人工智能正在改写开发者的职业阶梯。以下是如何脱颖而出。 / AI is rewriting the developer career ladder. Here’s how to stand out.",
-        "title_zh": "人工智能正在改写开发者的职业阶梯。以下是如何脱颖而出。",
-        "title_en": "AI is rewriting the developer career ladder. Here’s how to stand out.",
-        "title_original": "AI is rewriting the developer career ladder. Here’s how to stand out.",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/ai-and-ml/ai-is-rewriting-the-developer-career-ladder-heres-how-to-stand-out",
-        "source": "GitHub AI & ML",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-03T13:40:04.190921Z"
-      }
-    },
-    {
-      "story_id": "story_79c5530db8f1",
-      "title": "我们于 2026 年 9 月公布的最新 AI 新闻 / The latest AI news we announced in September 2026",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026",
-      "primary_url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "dd4c7d387fc53412a62e9d26adf403b628b46261",
-          "title": "我们于 2026 年 9 月公布的最新 AI 新闻 / The latest AI news we announced in September 2026",
-          "title_zh": "我们于 2026 年 9 月公布的最新 AI 新闻",
-          "title_en": "The latest AI news we announced in September 2026",
-          "title_original": "The latest AI news we announced in September 2026",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-02T15:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google AI Blog"
-      ],
-      "items": [
-        {
-          "id": "dd4c7d387fc53412a62e9d26adf403b628b46261",
-          "title": "我们于 2026 年 9 月公布的最新 AI 新闻 / The latest AI news we announced in September 2026",
-          "title_zh": "我们于 2026 年 9 月公布的最新 AI 新闻",
-          "title_en": "The latest AI news we announced in September 2026",
-          "title_original": "The latest AI news we announced in September 2026",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-02T15:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7658,
-      "importance": 0.7658,
-      "importance_score": 0.7658,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.73,
-        "recency": 0.721,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-02T15:00:00Z",
-      "latest_at": "2026-10-02T15:00:00Z",
-      "primary_item": {
-        "id": "dd4c7d387fc53412a62e9d26adf403b628b46261",
-        "title": "我们于 2026 年 9 月公布的最新 AI 新闻 / The latest AI news we announced in September 2026",
-        "title_zh": "我们于 2026 年 9 月公布的最新 AI 新闻",
-        "title_en": "The latest AI news we announced in September 2026",
-        "title_original": "The latest AI news we announced in September 2026",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026",
-        "source": "Google AI Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-03T13:40:04.190921Z"
+        "scored_at": "2026-10-03T17:11:28.857631Z"
       }
     },
     {
@@ -459,15 +212,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7605,
-      "importance": 0.7605,
-      "importance_score": 0.7605,
+      "score": 0.7525,
+      "importance": 0.7525,
+      "importance_score": 0.7525,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.8995,
+        "recency": 0.8549,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -493,7 +246,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T13:40:04.190921Z"
+        "scored_at": "2026-10-03T17:11:28.857631Z"
       }
     },
     {
@@ -541,15 +294,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7802,
-      "importance": 0.7802,
-      "importance_score": 0.7802,
+      "score": 0.7731,
+      "importance": 0.7731,
+      "importance_score": 0.7731,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.73,
-        "recency": 0.8013,
+        "recency": 0.7616,
         "story_heat": 0.0
       },
       "category": "official",
@@ -575,89 +328,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T13:40:04.190921Z"
-      }
-    },
-    {
-      "story_id": "story_d0ecf0e85035",
-      "title": "人工智能正在改变开发人员的工作。以下是需要加强的三个技能。 / AI is changing developer work. Here are three skills to strengthen.",
-      "url": "https://github.blog/ai-and-ml/ai-is-rewriting-the-developer-career-ladder-heres-how-to-stand-out",
-      "primary_url": "https://github.blog/ai-and-ml/ai-is-rewriting-the-developer-career-ladder-heres-how-to-stand-out",
-      "source": "GitHub AI & ML",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "ba529ffae291cc96f6a5485d0dfa487db6e084e5",
-          "title": "人工智能正在改变开发人员的工作。以下是需要加强的三个技能。 / AI is changing developer work. Here are three skills to strengthen.",
-          "title_zh": "人工智能正在改变开发人员的工作。以下是需要加强的三个技能。",
-          "title_en": "AI is changing developer work. Here are three skills to strengthen.",
-          "title_original": "AI is changing developer work. Here are three skills to strengthen.",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/ai-and-ml/ai-is-rewriting-the-developer-career-ladder-heres-how-to-stand-out",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-02T15:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub AI & ML"
-      ],
-      "items": [
-        {
-          "id": "ba529ffae291cc96f6a5485d0dfa487db6e084e5",
-          "title": "人工智能正在改变开发人员的工作。以下是需要加强的三个技能。 / AI is changing developer work. Here are three skills to strengthen.",
-          "title_zh": "人工智能正在改变开发人员的工作。以下是需要加强的三个技能。",
-          "title_en": "AI is changing developer work. Here are three skills to strengthen.",
-          "title_original": "AI is changing developer work. Here are three skills to strengthen.",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/ai-and-ml/ai-is-rewriting-the-developer-career-ladder-heres-how-to-stand-out",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-02T15:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7718,
-      "importance": 0.7718,
-      "importance_score": 0.7718,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.76,
-        "recency": 0.721,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-02T15:00:00Z",
-      "latest_at": "2026-10-02T15:00:00Z",
-      "primary_item": {
-        "id": "ba529ffae291cc96f6a5485d0dfa487db6e084e5",
-        "title": "人工智能正在改变开发人员的工作。以下是需要加强的三个技能。 / AI is changing developer work. Here are three skills to strengthen.",
-        "title_zh": "人工智能正在改变开发人员的工作。以下是需要加强的三个技能。",
-        "title_en": "AI is changing developer work. Here are three skills to strengthen.",
-        "title_original": "AI is changing developer work. Here are three skills to strengthen.",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/ai-and-ml/ai-is-rewriting-the-developer-career-ladder-heres-how-to-stand-out",
-        "source": "GitHub AI & ML",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-03T13:40:04.190921Z"
+        "scored_at": "2026-10-03T17:11:28.857631Z"
       }
     },
     {
@@ -705,15 +376,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7783,
-      "importance": 0.7783,
-      "importance_score": 0.7783,
+      "score": 0.7716,
+      "importance": 0.7716,
+      "importance_score": 0.7716,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.76,
-        "recency": 0.7574,
+        "recency": 0.7198,
         "story_heat": 0.0
       },
       "category": "official",
@@ -739,7 +410,256 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T13:40:04.190921Z"
+        "scored_at": "2026-10-03T17:11:28.857631Z"
+      }
+    },
+    {
+      "story_id": "story_aaea3f9ad245",
+      "title": "Show HN: 德国的新型主权人工智能模型“Kolibri” / Kolibri is an open-weight LLM from Aleph Alpha for German and English",
+      "url": "https://tej.as/blog/aleph-alpha-kolibri",
+      "primary_url": "https://tej.as/blog/aleph-alpha-kolibri",
+      "source": "Hacker News front page",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "5ed32f22faf9ae24572a7cf08ba876fcd915c0f2",
+          "title": "Show HN: 德国的新型主权人工智能模型“Kolibri” / Kolibri is an open-weight LLM from Aleph Alpha for German and English",
+          "title_zh": "Show HN: 德国的新型主权人工智能模型“Kolibri”",
+          "title_en": "Kolibri is an open-weight LLM from Aleph Alpha for German and English",
+          "title_original": "Kolibri is an open-weight LLM from Aleph Alpha for German and English",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://tej.as/blog/aleph-alpha-kolibri",
+          "source": "Hacker News front page",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-03T10:43:51Z"
+        },
+        {
+          "id": "947672c54a94c9809a1dcfa2c8088bdf28fa6f50",
+          "title": "Show HN: 德国的新型主权人工智能模型“Kolibri”",
+          "title_zh": "Show HN: 德国的新型主权人工智能模型“Kolibri”",
+          "title_en": null,
+          "title_original": "Show HN: 德国的新型主权人工智能模型“Kolibri”",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://tej.as/blog/aleph-alpha-kolibri",
+          "source": "tej.as",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-03T14:44:01.702000Z"
+        },
+        {
+          "id": "5f7984ca8cdccfbf2491fffa10ad31289bb805c4",
+          "title": "Kolibri 是 Aleph Alpha 的德语和英语开放式LLM / Kolibri is an open-weight LLM from Aleph Alpha for German and English",
+          "title_zh": "Kolibri 是 Aleph Alpha 的德语和英语开放式LLM",
+          "title_en": "Kolibri is an open-weight LLM from Aleph Alpha for German and English",
+          "title_original": "Kolibri is an open-weight LLM from Aleph Alpha for German and English",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49943034",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-03T10:43:51Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News front page",
+        "hackernews",
+        "tej.as"
+      ],
+      "items": [
+        {
+          "id": "5ed32f22faf9ae24572a7cf08ba876fcd915c0f2",
+          "title": "Show HN: 德国的新型主权人工智能模型“Kolibri” / Kolibri is an open-weight LLM from Aleph Alpha for German and English",
+          "title_zh": "Show HN: 德国的新型主权人工智能模型“Kolibri”",
+          "title_en": "Kolibri is an open-weight LLM from Aleph Alpha for German and English",
+          "title_original": "Kolibri is an open-weight LLM from Aleph Alpha for German and English",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://tej.as/blog/aleph-alpha-kolibri",
+          "source": "Hacker News front page",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-03T10:43:51Z"
+        },
+        {
+          "id": "947672c54a94c9809a1dcfa2c8088bdf28fa6f50",
+          "title": "Show HN: 德国的新型主权人工智能模型“Kolibri”",
+          "title_zh": "Show HN: 德国的新型主权人工智能模型“Kolibri”",
+          "title_en": null,
+          "title_original": "Show HN: 德国的新型主权人工智能模型“Kolibri”",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://tej.as/blog/aleph-alpha-kolibri",
+          "source": "tej.as",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-03T14:44:01.702000Z"
+        },
+        {
+          "id": "5f7984ca8cdccfbf2491fffa10ad31289bb805c4",
+          "title": "Kolibri 是 Aleph Alpha 的德语和英语开放式LLM / Kolibri is an open-weight LLM from Aleph Alpha for German and English",
+          "title_zh": "Kolibri 是 Aleph Alpha 的德语和英语开放式LLM",
+          "title_en": "Kolibri is an open-weight LLM from Aleph Alpha for German and English",
+          "title_original": "Kolibri is an open-weight LLM from Aleph Alpha for German and English",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49943034",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-03T10:43:51Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.6661,
+      "importance": 0.6661,
+      "importance_score": 0.6661,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.5616,
+        "source_tier": 0.58,
+        "ai_relevance": 0.78,
+        "recency": 0.9112,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-03T10:43:51Z",
+      "latest_at": "2026-10-03T14:44:01.702000Z",
+      "primary_item": {
+        "id": "5ed32f22faf9ae24572a7cf08ba876fcd915c0f2",
+        "title": "Show HN: 德国的新型主权人工智能模型“Kolibri” / Kolibri is an open-weight LLM from Aleph Alpha for German and English",
+        "title_zh": "Show HN: 德国的新型主权人工智能模型“Kolibri”",
+        "title_en": "Kolibri is an open-weight LLM from Aleph Alpha for German and English",
+        "title_original": "Kolibri is an open-weight LLM from Aleph Alpha for German and English",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://tej.as/blog/aleph-alpha-kolibri",
+        "source": "Hacker News front page",
+        "source_name": "Curated Media"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-03T17:11:28.857631Z"
+      }
+    },
+    {
+      "story_id": "story_55cff2825638",
+      "title": "OpenAI 员工辞职并呼吁核级保障措施 / OpenAI Employee Quits With Call for Nuclear-Level Safeguards",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-03/openai-safety-employee-quits-calls-for-nuclear-level-safeguards",
+      "primary_url": "https://www.bloomberg.com/news/articles/2026-10-03/openai-safety-employee-quits-calls-for-nuclear-level-safeguards",
+      "source": "Bloomberg Tech",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "c5815be36f761ccdda00c1a208743915334decef",
+          "title": "OpenAI 员工辞职并呼吁核级保障措施 / OpenAI Employee Quits With Call for Nuclear-Level Safeguards",
+          "title_zh": "OpenAI 员工辞职并呼吁核级保障措施",
+          "title_en": "OpenAI Employee Quits With Call for Nuclear-Level Safeguards",
+          "title_original": "OpenAI Employee Quits With Call for Nuclear-Level Safeguards",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.bloomberg.com/news/articles/2026-10-03/openai-safety-employee-quits-calls-for-nuclear-level-safeguards",
+          "source": "Bloomberg Tech",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-03T13:13:42Z"
+        },
+        {
+          "id": "f7c00201a25ca267dd976d7139b776f926e4fc77",
+          "title": "OpenAI 安全员工辞职，呼吁核级保障 / OpenAI Safety Employee Quits, Calls for Nuclear-Level Safeguards",
+          "title_zh": "OpenAI 安全员工辞职，呼吁核级保障",
+          "title_en": "OpenAI Safety Employee Quits, Calls for Nuclear-Level Safeguards",
+          "title_original": "OpenAI Safety Employee Quits, Calls for Nuclear-Level Safeguards",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.bloomberg.com/news/articles/2026-10-03/openai-safety-employee-quits-calls-for-nuclear-level-safeguards",
+          "source": "Bloomberg Tech",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-03T13:13:42Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Bloomberg Tech"
+      ],
+      "items": [
+        {
+          "id": "c5815be36f761ccdda00c1a208743915334decef",
+          "title": "OpenAI 员工辞职并呼吁核级保障措施 / OpenAI Employee Quits With Call for Nuclear-Level Safeguards",
+          "title_zh": "OpenAI 员工辞职并呼吁核级保障措施",
+          "title_en": "OpenAI Employee Quits With Call for Nuclear-Level Safeguards",
+          "title_original": "OpenAI Employee Quits With Call for Nuclear-Level Safeguards",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.bloomberg.com/news/articles/2026-10-03/openai-safety-employee-quits-calls-for-nuclear-level-safeguards",
+          "source": "Bloomberg Tech",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-03T13:13:42Z"
+        },
+        {
+          "id": "f7c00201a25ca267dd976d7139b776f926e4fc77",
+          "title": "OpenAI 安全员工辞职，呼吁核级保障 / OpenAI Safety Employee Quits, Calls for Nuclear-Level Safeguards",
+          "title_zh": "OpenAI 安全员工辞职，呼吁核级保障",
+          "title_en": "OpenAI Safety Employee Quits, Calls for Nuclear-Level Safeguards",
+          "title_original": "OpenAI Safety Employee Quits, Calls for Nuclear-Level Safeguards",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.bloomberg.com/news/articles/2026-10-03/openai-safety-employee-quits-calls-for-nuclear-level-safeguards",
+          "source": "Bloomberg Tech",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-03T13:13:42Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6596,
+      "importance": 0.6596,
+      "importance_score": 0.6596,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5832,
+        "source_tier": 0.58,
+        "ai_relevance": 0.81,
+        "recency": 0.9447,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-03T13:13:42Z",
+      "latest_at": "2026-10-03T13:13:42Z",
+      "primary_item": {
+        "id": "c5815be36f761ccdda00c1a208743915334decef",
+        "title": "OpenAI 员工辞职并呼吁核级保障措施 / OpenAI Employee Quits With Call for Nuclear-Level Safeguards",
+        "title_zh": "OpenAI 员工辞职并呼吁核级保障措施",
+        "title_en": "OpenAI Employee Quits With Call for Nuclear-Level Safeguards",
+        "title_original": "OpenAI Employee Quits With Call for Nuclear-Level Safeguards",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.bloomberg.com/news/articles/2026-10-03/openai-safety-employee-quits-calls-for-nuclear-level-safeguards",
+        "source": "Bloomberg Tech",
+        "source_name": "Curated Media"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-03T17:11:28.857631Z"
       }
     },
     {
@@ -845,15 +765,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6571,
-      "importance": 0.6571,
-      "importance_score": 0.6571,
+      "score": 0.6495,
+      "importance": 0.6495,
+      "importance_score": 0.6495,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5616,
         "source_tier": 0.58,
         "ai_relevance": 0.78,
-        "recency": 0.8614,
+        "recency": 0.8187,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -878,7 +798,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T13:40:04.190921Z"
+        "scored_at": "2026-10-03T17:11:28.857631Z"
       }
     },
     {
@@ -955,15 +875,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6255,
-      "importance": 0.6255,
-      "importance_score": 0.6255,
+      "score": 0.6187,
+      "importance": 0.6187,
+      "importance_score": 0.6187,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5832,
         "source_tier": 0.58,
         "ai_relevance": 0.81,
-        "recency": 0.755,
+        "recency": 0.7176,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -989,7 +909,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T13:40:04.190921Z"
+        "scored_at": "2026-10-03T17:11:28.857631Z"
       }
     },
     {
@@ -1066,15 +986,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6408,
-      "importance": 0.6408,
-      "importance_score": 0.6408,
+      "score": 0.6327,
+      "importance": 0.6327,
+      "importance_score": 0.6327,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5616,
         "source_tier": 0.58,
         "ai_relevance": 0.78,
-        "recency": 0.9098,
+        "recency": 0.8647,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1099,7 +1019,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T13:40:04.190921Z"
+        "scored_at": "2026-10-03T17:11:28.857631Z"
       }
     },
     {
@@ -1205,15 +1125,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6377,
-      "importance": 0.6377,
-      "importance_score": 0.6377,
+      "score": 0.6309,
+      "importance": 0.6309,
+      "importance_score": 0.6309,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5616,
         "source_tier": 0.58,
         "ai_relevance": 0.78,
-        "recency": 0.7532,
+        "recency": 0.7159,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1238,7 +1158,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T13:40:04.190921Z"
+        "scored_at": "2026-10-03T17:11:28.857631Z"
       }
     },
     {
@@ -1315,15 +1235,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6321,
-      "importance": 0.6321,
-      "importance_score": 0.6321,
+      "score": 0.6238,
+      "importance": 0.6238,
+      "importance_score": 0.6238,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.54,
         "source_tier": 0.58,
         "ai_relevance": 0.75,
-        "recency": 0.9307,
+        "recency": 0.8845,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1348,447 +1268,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T13:40:04.190921Z"
-      }
-    },
-    {
-      "story_id": "story_fbff1cd3c90d",
-      "title": "像 Jev 这样的决策模型无法击败LLM法官或传统分类器 / Decision models like Jev don't beat LLM-as-a-judge or traditional classifiers",
-      "url": "https://developers.redhat.com/articles/2026/10/02/benchmarking-ai-decision-models-against-traditional-guardrails",
-      "primary_url": "https://developers.redhat.com/articles/2026/10/02/benchmarking-ai-decision-models-against-traditional-guardrails",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "75ec0c3d7a4893744a2e6f301a9f6b689b9dc515",
-          "title": "像 Jev 这样的决策模型无法击败LLM法官或传统分类器 / Decision models like Jev don't beat LLM-as-a-judge or traditional classifiers",
-          "title_zh": "像 Jev 这样的决策模型无法击败LLM法官或传统分类器",
-          "title_en": "Decision models like Jev don't beat LLM-as-a-judge or traditional classifiers",
-          "title_original": "Decision models like Jev don't beat LLM-as-a-judge or traditional classifiers",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://developers.redhat.com/articles/2026/10/02/benchmarking-ai-decision-models-against-traditional-guardrails",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-02T13:47:41Z"
-        },
-        {
-          "id": "c09d0617c90c8863aaa7d2e4db233c875c91bbb8",
-          "title": "像 Jev 这样的决策模型无法击败LLM法官或传统分类器 / Decision models like Jev don't beat LLM-as-a-judge or traditional classifiers",
-          "title_zh": "像 Jev 这样的决策模型无法击败LLM法官或传统分类器",
-          "title_en": "Decision models like Jev don't beat LLM-as-a-judge or traditional classifiers",
-          "title_original": "Decision models like Jev don't beat LLM-as-a-judge or traditional classifiers",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49933476",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-02T13:47:41Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "75ec0c3d7a4893744a2e6f301a9f6b689b9dc515",
-          "title": "像 Jev 这样的决策模型无法击败LLM法官或传统分类器 / Decision models like Jev don't beat LLM-as-a-judge or traditional classifiers",
-          "title_zh": "像 Jev 这样的决策模型无法击败LLM法官或传统分类器",
-          "title_en": "Decision models like Jev don't beat LLM-as-a-judge or traditional classifiers",
-          "title_original": "Decision models like Jev don't beat LLM-as-a-judge or traditional classifiers",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://developers.redhat.com/articles/2026/10/02/benchmarking-ai-decision-models-against-traditional-guardrails",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-02T13:47:41Z"
-        },
-        {
-          "id": "c09d0617c90c8863aaa7d2e4db233c875c91bbb8",
-          "title": "像 Jev 这样的决策模型无法击败LLM法官或传统分类器 / Decision models like Jev don't beat LLM-as-a-judge or traditional classifiers",
-          "title_zh": "像 Jev 这样的决策模型无法击败LLM法官或传统分类器",
-          "title_en": "Decision models like Jev don't beat LLM-as-a-judge or traditional classifiers",
-          "title_original": "Decision models like Jev don't beat LLM-as-a-judge or traditional classifiers",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49933476",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-02T13:47:41Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5183,
-      "importance": 0.5183,
-      "importance_score": 0.5183,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.5112,
-        "source_tier": 0.32,
-        "ai_relevance": 0.71,
-        "recency": 0.7086,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-02T13:47:41Z",
-      "latest_at": "2026-10-02T13:47:41Z",
-      "primary_item": {
-        "id": "75ec0c3d7a4893744a2e6f301a9f6b689b9dc515",
-        "title": "像 Jev 这样的决策模型无法击败LLM法官或传统分类器 / Decision models like Jev don't beat LLM-as-a-judge or traditional classifiers",
-        "title_zh": "像 Jev 这样的决策模型无法击败LLM法官或传统分类器",
-        "title_en": "Decision models like Jev don't beat LLM-as-a-judge or traditional classifiers",
-        "title_original": "Decision models like Jev don't beat LLM-as-a-judge or traditional classifiers",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://developers.redhat.com/articles/2026/10/02/benchmarking-ai-decision-models-against-traditional-guardrails",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-03T13:40:04.190921Z"
-      }
-    },
-    {
-      "story_id": "story_fe289df49397",
-      "title": "The Four Horsemen of Agentic Coding",
-      "url": "https://distantprovince.substack.com/p/the-four-horsemen-of-agentic-coding",
-      "primary_url": "https://distantprovince.substack.com/p/the-four-horsemen-of-agentic-coding",
-      "source": "Hacker News front page",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "bc7150a8241f4fb33eac10903d1ca9f657d70f66",
-          "title": "The Four Horsemen of Agentic Coding",
-          "title_zh": null,
-          "title_en": "The Four Horsemen of Agentic Coding",
-          "title_original": "The Four Horsemen of Agentic Coding",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://distantprovince.substack.com/p/the-four-horsemen-of-agentic-coding",
-          "source": "Hacker News front page",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-02T15:19:56Z"
-        },
-        {
-          "id": "b877d8221e3ca434c45f4df7a189fbf653ca229d",
-          "title": "The Four Horsemen of Agentic Coding",
-          "title_zh": null,
-          "title_en": "The Four Horsemen of Agentic Coding",
-          "title_original": "The Four Horsemen of Agentic Coding",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49934511",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-02T15:19:56Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News front page",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "bc7150a8241f4fb33eac10903d1ca9f657d70f66",
-          "title": "The Four Horsemen of Agentic Coding",
-          "title_zh": null,
-          "title_en": "The Four Horsemen of Agentic Coding",
-          "title_original": "The Four Horsemen of Agentic Coding",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://distantprovince.substack.com/p/the-four-horsemen-of-agentic-coding",
-          "source": "Hacker News front page",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-02T15:19:56Z"
-        },
-        {
-          "id": "b877d8221e3ca434c45f4df7a189fbf653ca229d",
-          "title": "The Four Horsemen of Agentic Coding",
-          "title_zh": null,
-          "title_en": "The Four Horsemen of Agentic Coding",
-          "title_original": "The Four Horsemen of Agentic Coding",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49934511",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-02T15:19:56Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.595,
-      "importance": 0.595,
-      "importance_score": 0.595,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.54,
-        "source_tier": 0.58,
-        "ai_relevance": 0.75,
-        "recency": 0.7245,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-02T15:19:56Z",
-      "latest_at": "2026-10-02T15:19:56Z",
-      "primary_item": {
-        "id": "bc7150a8241f4fb33eac10903d1ca9f657d70f66",
-        "title": "The Four Horsemen of Agentic Coding",
-        "title_zh": null,
-        "title_en": "The Four Horsemen of Agentic Coding",
-        "title_original": "The Four Horsemen of Agentic Coding",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://distantprovince.substack.com/p/the-four-horsemen-of-agentic-coding",
-        "source": "Hacker News front page",
-        "source_name": "Curated Media"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-03T13:40:04.190921Z"
-      }
-    },
-    {
-      "story_id": "story_e75b999df56e",
-      "title": "人工智能让我感到难过 / AI Makes Me Sad",
-      "url": "https://mondobe.com/ai-makes-me-sad",
-      "primary_url": "https://mondobe.com/ai-makes-me-sad",
-      "source": "Hacker News front page",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "423914aa77f55b8340e40a5edebfa6105bd3edd6",
-          "title": "人工智能让我感到难过 / AI Makes Me Sad",
-          "title_zh": "人工智能让我感到难过",
-          "title_en": "AI Makes Me Sad",
-          "title_original": "AI Makes Me Sad",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://mondobe.com/ai-makes-me-sad",
-          "source": "Hacker News front page",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-02T15:18:00Z"
-        },
-        {
-          "id": "5cf77a493a9bbed5af4dcd49c884621254b03ec0",
-          "title": "人工智能让我感到难过",
-          "title_zh": "人工智能让我感到难过",
-          "title_en": null,
-          "title_original": "人工智能让我感到难过",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://mondobe.com/ai-makes-me-sad",
-          "source": "mondobe.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-02T16:16:42.657000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News front page",
-        "mondobe.com"
-      ],
-      "items": [
-        {
-          "id": "423914aa77f55b8340e40a5edebfa6105bd3edd6",
-          "title": "人工智能让我感到难过 / AI Makes Me Sad",
-          "title_zh": "人工智能让我感到难过",
-          "title_en": "AI Makes Me Sad",
-          "title_original": "AI Makes Me Sad",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://mondobe.com/ai-makes-me-sad",
-          "source": "Hacker News front page",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-02T15:18:00Z"
-        },
-        {
-          "id": "5cf77a493a9bbed5af4dcd49c884621254b03ec0",
-          "title": "人工智能让我感到难过",
-          "title_zh": "人工智能让我感到难过",
-          "title_en": null,
-          "title_original": "人工智能让我感到难过",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://mondobe.com/ai-makes-me-sad",
-          "source": "mondobe.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-02T16:16:42.657000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.53,
-      "importance": 0.53,
-      "importance_score": 0.53,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.45,
-        "source_tier": 0.58,
-        "ai_relevance": 0.56,
-        "recency": 0.7242,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-02T15:18:00Z",
-      "latest_at": "2026-10-02T16:16:42.657000Z",
-      "primary_item": {
-        "id": "423914aa77f55b8340e40a5edebfa6105bd3edd6",
-        "title": "人工智能让我感到难过 / AI Makes Me Sad",
-        "title_zh": "人工智能让我感到难过",
-        "title_en": "AI Makes Me Sad",
-        "title_original": "AI Makes Me Sad",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://mondobe.com/ai-makes-me-sad",
-        "source": "Hacker News front page",
-        "source_name": "Curated Media"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-03T13:40:04.190921Z"
-      }
-    },
-    {
-      "story_id": "story_98b15fa50d42",
-      "title": "由于大部分信息被隐藏，直到现在，“战略棋”（Stratego）这款游戏一直让人工智能束手无策 / With most information hidden, the game Stratego had stumped AI until now",
-      "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget",
-      "primary_url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget",
-      "source": "Hacker News front page",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "1cb041d2342fa38ed83bb6b7799f01541d2ca2bb",
-          "title": "由于大部分信息被隐藏，直到现在，“战略棋”（Stratego）这款游戏一直让人工智能束手无策 / With most information hidden, the game Stratego had stumped AI until now",
-          "title_zh": "由于大部分信息被隐藏，直到现在，“战略棋”（Stratego）这款游戏一直让人工智能束手无策",
-          "title_en": "With most information hidden, the game Stratego had stumped AI until now",
-          "title_original": "With most information hidden, the game Stratego had stumped AI until now",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget",
-          "source": "Hacker News front page",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-02T14:11:24Z"
-        },
-        {
-          "id": "57749c9a0896c0f3914680125721ceb4c461406e",
-          "title": "由于大部分信息被隐藏，直到现在，“战略棋”（Stratego）这款游戏一直让人工智能束手无策",
-          "title_zh": "由于大部分信息被隐藏，直到现在，“战略棋”（Stratego）这款游戏一直让人工智能束手无策",
-          "title_en": null,
-          "title_original": "由于大部分信息被隐藏，直到现在，“战略棋”（Stratego）这款游戏一直让人工智能束手无策",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget",
-          "source": "arstechnica.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-02T21:14:53.842000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News front page",
-        "arstechnica.com"
-      ],
-      "items": [
-        {
-          "id": "1cb041d2342fa38ed83bb6b7799f01541d2ca2bb",
-          "title": "由于大部分信息被隐藏，直到现在，“战略棋”（Stratego）这款游戏一直让人工智能束手无策 / With most information hidden, the game Stratego had stumped AI until now",
-          "title_zh": "由于大部分信息被隐藏，直到现在，“战略棋”（Stratego）这款游戏一直让人工智能束手无策",
-          "title_en": "With most information hidden, the game Stratego had stumped AI until now",
-          "title_original": "With most information hidden, the game Stratego had stumped AI until now",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget",
-          "source": "Hacker News front page",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-02T14:11:24Z"
-        },
-        {
-          "id": "57749c9a0896c0f3914680125721ceb4c461406e",
-          "title": "由于大部分信息被隐藏，直到现在，“战略棋”（Stratego）这款游戏一直让人工智能束手无策",
-          "title_zh": "由于大部分信息被隐藏，直到现在，“战略棋”（Stratego）这款游戏一直让人工智能束手无策",
-          "title_en": null,
-          "title_original": "由于大部分信息被隐藏，直到现在，“战略棋”（Stratego）这款游戏一直让人工智能束手无策",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget",
-          "source": "arstechnica.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-02T21:14:53.842000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5279,
-      "importance": 0.5279,
-      "importance_score": 0.5279,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.45,
-        "source_tier": 0.58,
-        "ai_relevance": 0.56,
-        "recency": 0.7127,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-02T14:11:24Z",
-      "latest_at": "2026-10-02T21:14:53.842000Z",
-      "primary_item": {
-        "id": "1cb041d2342fa38ed83bb6b7799f01541d2ca2bb",
-        "title": "由于大部分信息被隐藏，直到现在，“战略棋”（Stratego）这款游戏一直让人工智能束手无策 / With most information hidden, the game Stratego had stumped AI until now",
-        "title_zh": "由于大部分信息被隐藏，直到现在，“战略棋”（Stratego）这款游戏一直让人工智能束手无策",
-        "title_en": "With most information hidden, the game Stratego had stumped AI until now",
-        "title_original": "With most information hidden, the game Stratego had stumped AI until now",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget",
-        "source": "Hacker News front page",
-        "source_name": "Curated Media"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-03T13:40:04.190921Z"
+        "scored_at": "2026-10-03T17:11:28.857631Z"
       }
     }
   ]
