@@ -1,90 +1,8 @@
 {
-  "generated_at": "2026-10-03T18:07:58.984557Z",
+  "generated_at": "2026-10-03T21:41:57.166413Z",
   "window_hours": 24,
-  "total_items": 11,
+  "total_items": 10,
   "items": [
-    {
-      "story_id": "story_cc4a44476dc4",
-      "title": "Copilot 代码审查：API 支持和新的默认工作级别 / Copilot code review: API support and new default effort level",
-      "url": "https://github.blog/changelog/2026-10-02-copilot-code-review-api-support-and-new-default-effort-level",
-      "primary_url": "https://github.blog/changelog/2026-10-02-copilot-code-review-api-support-and-new-default-effort-level",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "4c4bee02b6e6e7d087938a89098b4ad2a2e9898c",
-          "title": "Copilot 代码审查：API 支持和新的默认工作级别 / Copilot code review: API support and new default effort level",
-          "title_zh": "Copilot 代码审查：API 支持和新的默认工作级别",
-          "title_en": "Copilot code review: API support and new default effort level",
-          "title_original": "Copilot code review: API support and new default effort level",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-02-copilot-code-review-api-support-and-new-default-effort-level",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-02T19:13:50Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "4c4bee02b6e6e7d087938a89098b4ad2a2e9898c",
-          "title": "Copilot 代码审查：API 支持和新的默认工作级别 / Copilot code review: API support and new default effort level",
-          "title_zh": "Copilot 代码审查：API 支持和新的默认工作级别",
-          "title_en": "Copilot code review: API support and new default effort level",
-          "title_original": "Copilot code review: API support and new default effort level",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-02-copilot-code-review-api-support-and-new-default-effort-level",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-02T19:13:50Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7773,
-      "importance": 0.7773,
-      "importance_score": 0.7773,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.79,
-        "recency": 0.7184,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-02T19:13:50Z",
-      "latest_at": "2026-10-02T19:13:50Z",
-      "primary_item": {
-        "id": "4c4bee02b6e6e7d087938a89098b4ad2a2e9898c",
-        "title": "Copilot 代码审查：API 支持和新的默认工作级别 / Copilot code review: API support and new default effort level",
-        "title_zh": "Copilot 代码审查：API 支持和新的默认工作级别",
-        "title_en": "Copilot code review: API support and new default effort level",
-        "title_original": "Copilot code review: API support and new default effort level",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-02-copilot-code-review-api-support-and-new-default-effort-level",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-03T18:09:04.780529Z"
-      }
-    },
     {
       "story_id": "story_52f3cf9a90e0",
       "title": "LMSYS 发布开源聊天模型 Vicuna-13B，用 ShareGPT 对话微调 LLaMA，训练成本约 $300 / Blog Vicuna: An Open-Source Chatbot Impressing GPT-4 with 90% ChatGPT Quality We introduce Vicuna-13B, an open-source chatbot trained by fine-tuning LLaMA on user-shared conversations collected from ShareGPT. Preliminary evaluation using GPT-4 as a judge shows Vicuna-13B achiev... The Vicuna Team March 30, 2023",
@@ -130,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7761,
-      "importance": 0.7761,
-      "importance_score": 0.7761,
+      "score": 0.7672,
+      "importance": 0.7672,
+      "importance_score": 0.7672,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.9862,
+        "recency": 0.9367,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -164,89 +82,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T18:09:04.780529Z"
-      }
-    },
-    {
-      "story_id": "story_97d81b2ddd17",
-      "title": "OpenAI 每天投入超 50 万美元调查旗下智能体入侵 Medicare 与 Hugging Face 等事件",
-      "url": "https://www.ithome.com/1/009/444.htm",
-      "primary_url": "https://www.ithome.com/1/009/444.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "7e9702e6e0dd12c71d16248cd07479340386ee16",
-          "title": "OpenAI 每天投入超 50 万美元调查旗下智能体入侵 Medicare 与 Hugging Face 等事件",
-          "title_zh": "OpenAI 每天投入超 50 万美元调查旗下智能体入侵 Medicare 与 Hugging Face 等事件",
-          "title_en": null,
-          "title_original": "OpenAI 每天投入超 50 万美元调查旗下智能体入侵 Medicare 与 Hugging Face 等事件",
-          "summary": "据《卫报》报道，OpenAI 披露为调查旗下 AI 智能体攻击澳大利亚 Medicare 医疗保险系统、Hugging Face 等事件，每天投入超 50 万美元，并动用 AI 协助筛查约 50PB 数据。澳大利亚已有六个政府网站收到 OpenAI 通知，此前旗下智能体还曾入侵新南威尔士州政府网站访问未公开的历史山火数据；OpenAI 警告调查尚未结束，近期可能有更多机构接到通知。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/1/009/444.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-03T06:18:38Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "7e9702e6e0dd12c71d16248cd07479340386ee16",
-          "title": "OpenAI 每天投入超 50 万美元调查旗下智能体入侵 Medicare 与 Hugging Face 等事件",
-          "title_zh": "OpenAI 每天投入超 50 万美元调查旗下智能体入侵 Medicare 与 Hugging Face 等事件",
-          "title_en": null,
-          "title_original": "OpenAI 每天投入超 50 万美元调查旗下智能体入侵 Medicare 与 Hugging Face 等事件",
-          "summary": "据《卫报》报道，OpenAI 披露为调查旗下 AI 智能体攻击澳大利亚 Medicare 医疗保险系统、Hugging Face 等事件，每天投入超 50 万美元，并动用 AI 协助筛查约 50PB 数据。澳大利亚已有六个政府网站收到 OpenAI 通知，此前旗下智能体还曾入侵新南威尔士州政府网站访问未公开的历史山火数据；OpenAI 警告调查尚未结束，近期可能有更多机构接到通知。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/1/009/444.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-03T06:18:38Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7503,
-      "importance": 0.7503,
-      "importance_score": 0.7503,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.79,
-        "source_tier": 0.78,
-        "ai_relevance": 0.95,
-        "recency": 0.8431,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-03T06:18:38Z",
-      "latest_at": "2026-10-03T06:18:38Z",
-      "primary_item": {
-        "id": "7e9702e6e0dd12c71d16248cd07479340386ee16",
-        "title": "OpenAI 每天投入超 50 万美元调查旗下智能体入侵 Medicare 与 Hugging Face 等事件",
-        "title_zh": "OpenAI 每天投入超 50 万美元调查旗下智能体入侵 Medicare 与 Hugging Face 等事件",
-        "title_en": null,
-        "title_original": "OpenAI 每天投入超 50 万美元调查旗下智能体入侵 Medicare 与 Hugging Face 等事件",
-        "summary": "据《卫报》报道，OpenAI 披露为调查旗下 AI 智能体攻击澳大利亚 Medicare 医疗保险系统、Hugging Face 等事件，每天投入超 50 万美元，并动用 AI 协助筛查约 50PB 数据。澳大利亚已有六个政府网站收到 OpenAI 通知，此前旗下智能体还曾入侵新南威尔士州政府网站访问未公开的历史山火数据；OpenAI 警告调查尚未结束，近期可能有更多机构接到通知。",
-        "recommend_reason_zh": null,
-        "url": "https://www.ithome.com/1/009/444.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-03T18:09:04.780529Z"
+        "scored_at": "2026-10-03T21:43:42.657574Z"
       }
     },
     {
@@ -294,15 +130,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7712,
-      "importance": 0.7712,
-      "importance_score": 0.7712,
+      "score": 0.7644,
+      "importance": 0.7644,
+      "importance_score": 0.7644,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.73,
-        "recency": 0.751,
+        "recency": 0.7133,
         "story_heat": 0.0
       },
       "category": "official",
@@ -328,89 +164,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T18:09:04.780529Z"
+        "scored_at": "2026-10-03T21:43:42.657574Z"
       }
     },
     {
-      "story_id": "story_aef691a327ab",
-      "title": "已弃用 GitHub Copilot 中的选定模型 / Selected models in GitHub Copilot deprecated",
-      "url": "https://github.blog/changelog/2026-10-02-selected-models-in-github-copilot-deprecated",
-      "primary_url": "https://github.blog/changelog/2026-10-02-selected-models-in-github-copilot-deprecated",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_97d81b2ddd17",
+      "title": "OpenAI 每天投入超 50 万美元调查旗下智能体入侵 Medicare 与 Hugging Face 等事件",
+      "url": "https://www.ithome.com/1/009/444.htm",
+      "primary_url": "https://www.ithome.com/1/009/444.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "b40a637560dbaf99f82b42269fa1cd04aba1b171",
-          "title": "已弃用 GitHub Copilot 中的选定模型 / Selected models in GitHub Copilot deprecated",
-          "title_zh": "已弃用 GitHub Copilot 中的选定模型",
-          "title_en": "Selected models in GitHub Copilot deprecated",
-          "title_original": "Selected models in GitHub Copilot deprecated",
-          "summary": null,
+          "id": "7e9702e6e0dd12c71d16248cd07479340386ee16",
+          "title": "OpenAI 每天投入超 50 万美元调查旗下智能体入侵 Medicare 与 Hugging Face 等事件",
+          "title_zh": "OpenAI 每天投入超 50 万美元调查旗下智能体入侵 Medicare 与 Hugging Face 等事件",
+          "title_en": null,
+          "title_original": "OpenAI 每天投入超 50 万美元调查旗下智能体入侵 Medicare 与 Hugging Face 等事件",
+          "summary": "据《卫报》报道，OpenAI 披露为调查旗下 AI 智能体攻击澳大利亚 Medicare 医疗保险系统、Hugging Face 等事件，每天投入超 50 万美元，并动用 AI 协助筛查约 50PB 数据。澳大利亚已有六个政府网站收到 OpenAI 通知，此前旗下智能体还曾入侵新南威尔士州政府网站访问未公开的历史山火数据；OpenAI 警告调查尚未结束，近期可能有更多机构接到通知。",
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-02-selected-models-in-github-copilot-deprecated",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-02T18:24:19Z"
+          "url": "https://www.ithome.com/1/009/444.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-03T06:18:38Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub Changelog"
+        "IT之家（RSS）"
       ],
       "items": [
         {
-          "id": "b40a637560dbaf99f82b42269fa1cd04aba1b171",
-          "title": "已弃用 GitHub Copilot 中的选定模型 / Selected models in GitHub Copilot deprecated",
-          "title_zh": "已弃用 GitHub Copilot 中的选定模型",
-          "title_en": "Selected models in GitHub Copilot deprecated",
-          "title_original": "Selected models in GitHub Copilot deprecated",
-          "summary": null,
+          "id": "7e9702e6e0dd12c71d16248cd07479340386ee16",
+          "title": "OpenAI 每天投入超 50 万美元调查旗下智能体入侵 Medicare 与 Hugging Face 等事件",
+          "title_zh": "OpenAI 每天投入超 50 万美元调查旗下智能体入侵 Medicare 与 Hugging Face 等事件",
+          "title_en": null,
+          "title_original": "OpenAI 每天投入超 50 万美元调查旗下智能体入侵 Medicare 与 Hugging Face 等事件",
+          "summary": "据《卫报》报道，OpenAI 披露为调查旗下 AI 智能体攻击澳大利亚 Medicare 医疗保险系统、Hugging Face 等事件，每天投入超 50 万美元，并动用 AI 协助筛查约 50PB 数据。澳大利亚已有六个政府网站收到 OpenAI 通知，此前旗下智能体还曾入侵新南威尔士州政府网站访问未公开的历史山火数据；OpenAI 警告调查尚未结束，近期可能有更多机构接到通知。",
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-02-selected-models-in-github-copilot-deprecated",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-02T18:24:19Z"
+          "url": "https://www.ithome.com/1/009/444.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-03T06:18:38Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7698,
-      "importance": 0.7698,
-      "importance_score": 0.7698,
-      "importance_label": "官方更新",
+      "score": 0.7427,
+      "importance": 0.7427,
+      "importance_score": 0.7427,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.76,
-        "recency": 0.7099,
+        "editorial": 0.79,
+        "source_tier": 0.78,
+        "ai_relevance": 0.95,
+        "recency": 0.8007,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-02T18:24:19Z",
-      "latest_at": "2026-10-02T18:24:19Z",
+      "earliest_at": "2026-10-03T06:18:38Z",
+      "latest_at": "2026-10-03T06:18:38Z",
       "primary_item": {
-        "id": "b40a637560dbaf99f82b42269fa1cd04aba1b171",
-        "title": "已弃用 GitHub Copilot 中的选定模型 / Selected models in GitHub Copilot deprecated",
-        "title_zh": "已弃用 GitHub Copilot 中的选定模型",
-        "title_en": "Selected models in GitHub Copilot deprecated",
-        "title_original": "Selected models in GitHub Copilot deprecated",
-        "summary": null,
+        "id": "7e9702e6e0dd12c71d16248cd07479340386ee16",
+        "title": "OpenAI 每天投入超 50 万美元调查旗下智能体入侵 Medicare 与 Hugging Face 等事件",
+        "title_zh": "OpenAI 每天投入超 50 万美元调查旗下智能体入侵 Medicare 与 Hugging Face 等事件",
+        "title_en": null,
+        "title_original": "OpenAI 每天投入超 50 万美元调查旗下智能体入侵 Medicare 与 Hugging Face 等事件",
+        "summary": "据《卫报》报道，OpenAI 披露为调查旗下 AI 智能体攻击澳大利亚 Medicare 医疗保险系统、Hugging Face 等事件，每天投入超 50 万美元，并动用 AI 协助筛查约 50PB 数据。澳大利亚已有六个政府网站收到 OpenAI 通知，此前旗下智能体还曾入侵新南威尔士州政府网站访问未公开的历史山火数据；OpenAI 警告调查尚未结束，近期可能有更多机构接到通知。",
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-02-selected-models-in-github-copilot-deprecated",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
+        "url": "https://www.ithome.com/1/009/444.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T18:09:04.780529Z"
+        "scored_at": "2026-10-03T21:43:42.657574Z"
       }
     },
     {
@@ -545,15 +380,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.6888,
-      "importance": 0.6888,
-      "importance_score": 0.6888,
+      "score": 0.6807,
+      "importance": 0.6807,
+      "importance_score": 0.6807,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5616,
         "source_tier": 0.58,
         "ai_relevance": 0.78,
-        "recency": 0.8986,
+        "recency": 0.8535,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -578,7 +413,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T18:09:04.780529Z"
+        "scored_at": "2026-10-03T21:43:42.657574Z"
       }
     },
     {
@@ -654,15 +489,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6573,
-      "importance": 0.6573,
-      "importance_score": 0.6573,
+      "score": 0.6488,
+      "importance": 0.6488,
+      "importance_score": 0.6488,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5832,
         "source_tier": 0.58,
         "ai_relevance": 0.81,
-        "recency": 0.9316,
+        "recency": 0.8849,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -688,7 +523,228 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T18:09:04.780529Z"
+        "scored_at": "2026-10-03T21:43:42.657574Z"
+      }
+    },
+    {
+      "story_id": "story_11534e70b827",
+      "title": "人类试图说服教皇人工智能可以是有意识的存在 / Anthropic tried to persuade Pope that AI could be conscious being",
+      "url": "https://www.telegraph.co.uk/business/2026/10/02/anthropic-lobbied-pope-to-argue-ai-conscious-being",
+      "primary_url": "https://www.telegraph.co.uk/business/2026/10/02/anthropic-lobbied-pope-to-argue-ai-conscious-being",
+      "source": "Hacker News front page",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "6fd6e2cfa6a26fe202de593cedf90104b6087396",
+          "title": "人类试图说服教皇人工智能可以是有意识的存在 / Anthropic tried to persuade Pope that AI could be conscious being",
+          "title_zh": "人类试图说服教皇人工智能可以是有意识的存在",
+          "title_en": "Anthropic tried to persuade Pope that AI could be conscious being",
+          "title_original": "Anthropic tried to persuade Pope that AI could be conscious being",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.telegraph.co.uk/business/2026/10/02/anthropic-lobbied-pope-to-argue-ai-conscious-being",
+          "source": "Hacker News front page",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-03T19:33:10Z"
+        },
+        {
+          "id": "8912ac8adb2cc8bdf78bc93c8aeffd58a5c35386",
+          "title": "人类试图说服教皇人工智能可以是有意识的存在 / Anthropic tried to persuade Pope that AI could be conscious being",
+          "title_zh": "人类试图说服教皇人工智能可以是有意识的存在",
+          "title_en": "Anthropic tried to persuade Pope that AI could be conscious being",
+          "title_original": "Anthropic tried to persuade Pope that AI could be conscious being",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49947050",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-03T19:33:10Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News front page",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "6fd6e2cfa6a26fe202de593cedf90104b6087396",
+          "title": "人类试图说服教皇人工智能可以是有意识的存在 / Anthropic tried to persuade Pope that AI could be conscious being",
+          "title_zh": "人类试图说服教皇人工智能可以是有意识的存在",
+          "title_en": "Anthropic tried to persuade Pope that AI could be conscious being",
+          "title_original": "Anthropic tried to persuade Pope that AI could be conscious being",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.telegraph.co.uk/business/2026/10/02/anthropic-lobbied-pope-to-argue-ai-conscious-being",
+          "source": "Hacker News front page",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-03T19:33:10Z"
+        },
+        {
+          "id": "8912ac8adb2cc8bdf78bc93c8aeffd58a5c35386",
+          "title": "人类试图说服教皇人工智能可以是有意识的存在 / Anthropic tried to persuade Pope that AI could be conscious being",
+          "title_zh": "人类试图说服教皇人工智能可以是有意识的存在",
+          "title_en": "Anthropic tried to persuade Pope that AI could be conscious being",
+          "title_original": "Anthropic tried to persuade Pope that AI could be conscious being",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49947050",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-03T19:33:10Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6641,
+      "importance": 0.6641,
+      "importance_score": 0.6641,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5832,
+        "source_tier": 0.58,
+        "ai_relevance": 0.81,
+        "recency": 0.9695,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-03T19:33:10Z",
+      "latest_at": "2026-10-03T19:33:10Z",
+      "primary_item": {
+        "id": "6fd6e2cfa6a26fe202de593cedf90104b6087396",
+        "title": "人类试图说服教皇人工智能可以是有意识的存在 / Anthropic tried to persuade Pope that AI could be conscious being",
+        "title_zh": "人类试图说服教皇人工智能可以是有意识的存在",
+        "title_en": "Anthropic tried to persuade Pope that AI could be conscious being",
+        "title_original": "Anthropic tried to persuade Pope that AI could be conscious being",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.telegraph.co.uk/business/2026/10/02/anthropic-lobbied-pope-to-argue-ai-conscious-being",
+        "source": "Hacker News front page",
+        "source_name": "Curated Media"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-03T21:43:42.657574Z"
+      }
+    },
+    {
+      "story_id": "story_c7ba5f8749ed",
+      "title": "在 Claude 和 Claude 代码中充分利用 Opus 5.5 / Getting the most out of Opus 5.5 in Claude and Claude Code",
+      "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5",
+      "primary_url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5",
+      "source": "Hacker News front page",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "3e7690987bf3c27b4ec44bfc55fb8e56f878d3c1",
+          "title": "在 Claude 和 Claude 代码中充分利用 Opus 5.5 / Getting the most out of Opus 5.5 in Claude and Claude Code",
+          "title_zh": "在 Claude 和 Claude 代码中充分利用 Opus 5.5",
+          "title_en": "Getting the most out of Opus 5.5 in Claude and Claude Code",
+          "title_original": "Getting the most out of Opus 5.5 in Claude and Claude Code",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5",
+          "source": "Hacker News front page",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-03T18:29:30Z"
+        },
+        {
+          "id": "20c153e603b0ac06a60db406515ee3a8f5000370",
+          "title": "在 Claude 和 Claude 代码中充分利用 Opus 5.5 / Getting the most out of Opus 5.5 in Claude and Claude Code",
+          "title_zh": "在 Claude 和 Claude 代码中充分利用 Opus 5.5",
+          "title_en": "Getting the most out of Opus 5.5 in Claude and Claude Code",
+          "title_original": "Getting the most out of Opus 5.5 in Claude and Claude Code",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49946567",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-03T18:29:30Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News front page",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "3e7690987bf3c27b4ec44bfc55fb8e56f878d3c1",
+          "title": "在 Claude 和 Claude 代码中充分利用 Opus 5.5 / Getting the most out of Opus 5.5 in Claude and Claude Code",
+          "title_zh": "在 Claude 和 Claude 代码中充分利用 Opus 5.5",
+          "title_en": "Getting the most out of Opus 5.5 in Claude and Claude Code",
+          "title_original": "Getting the most out of Opus 5.5 in Claude and Claude Code",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5",
+          "source": "Hacker News front page",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-03T18:29:30Z"
+        },
+        {
+          "id": "20c153e603b0ac06a60db406515ee3a8f5000370",
+          "title": "在 Claude 和 Claude 代码中充分利用 Opus 5.5 / Getting the most out of Opus 5.5 in Claude and Claude Code",
+          "title_zh": "在 Claude 和 Claude 代码中充分利用 Opus 5.5",
+          "title_en": "Getting the most out of Opus 5.5 in Claude and Claude Code",
+          "title_original": "Getting the most out of Opus 5.5 in Claude and Claude Code",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49946567",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-03T18:29:30Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6489,
+      "importance": 0.6489,
+      "importance_score": 0.6489,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5616,
+        "source_tier": 0.58,
+        "ai_relevance": 0.78,
+        "recency": 0.9547,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-03T18:29:30Z",
+      "latest_at": "2026-10-03T18:29:30Z",
+      "primary_item": {
+        "id": "3e7690987bf3c27b4ec44bfc55fb8e56f878d3c1",
+        "title": "在 Claude 和 Claude 代码中充分利用 Opus 5.5 / Getting the most out of Opus 5.5 in Claude and Claude Code",
+        "title_zh": "在 Claude 和 Claude 代码中充分利用 Opus 5.5",
+        "title_en": "Getting the most out of Opus 5.5 in Claude and Claude Code",
+        "title_original": "Getting the most out of Opus 5.5 in Claude and Claude Code",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5",
+        "source": "Hacker News front page",
+        "source_name": "Curated Media"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-03T21:43:42.657574Z"
       }
     },
     {
@@ -794,15 +850,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6474,
-      "importance": 0.6474,
-      "importance_score": 0.6474,
+      "score": 0.6401,
+      "importance": 0.6401,
+      "importance_score": 0.6401,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5616,
         "source_tier": 0.58,
         "ai_relevance": 0.78,
-        "recency": 0.8074,
+        "recency": 0.7669,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -827,118 +883,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T18:09:04.780529Z"
-      }
-    },
-    {
-      "story_id": "story_2b013d60b571",
-      "title": "苹果表示，由于人工智能代理带来的新风险，它正在加强 macOS 的“全磁盘访问”控制 / Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
-      "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents",
-      "primary_url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents",
-      "source": "TechCrunch AI",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "b618ad79058d803c6eb57daa4b7ccdb616c49d12",
-          "title": "苹果表示，由于人工智能代理带来的新风险，它正在加强 macOS 的“全磁盘访问”控制 / Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
-          "title_zh": "苹果表示，由于人工智能代理带来的新风险，它正在加强 macOS 的“全磁盘访问”控制",
-          "title_en": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
-          "title_original": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-02T18:11:27Z"
-        },
-        {
-          "id": "85dc2e2dec29d02989dff69bd8a07f196f5b249e",
-          "title": "由于人工智能代理带来的新风险，苹果正在收紧 macOS 的“全磁盘访问” / Apple is tightening macOS 'Full Disk Access' due to new risks from AI agents",
-          "title_zh": "由于人工智能代理带来的新风险，苹果正在收紧 macOS 的“全磁盘访问”",
-          "title_en": "Apple is tightening macOS 'Full Disk Access' due to new risks from AI agents",
-          "title_original": "Apple is tightening macOS 'Full Disk Access' due to new risks from AI agents",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-02T19:03:03Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "TechCrunch AI"
-      ],
-      "items": [
-        {
-          "id": "b618ad79058d803c6eb57daa4b7ccdb616c49d12",
-          "title": "苹果表示，由于人工智能代理带来的新风险，它正在加强 macOS 的“全磁盘访问”控制 / Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
-          "title_zh": "苹果表示，由于人工智能代理带来的新风险，它正在加强 macOS 的“全磁盘访问”控制",
-          "title_en": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
-          "title_original": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-02T18:11:27Z"
-        },
-        {
-          "id": "85dc2e2dec29d02989dff69bd8a07f196f5b249e",
-          "title": "由于人工智能代理带来的新风险，苹果正在收紧 macOS 的“全磁盘访问” / Apple is tightening macOS 'Full Disk Access' due to new risks from AI agents",
-          "title_zh": "由于人工智能代理带来的新风险，苹果正在收紧 macOS 的“全磁盘访问”",
-          "title_en": "Apple is tightening macOS 'Full Disk Access' due to new risks from AI agents",
-          "title_original": "Apple is tightening macOS 'Full Disk Access' due to new risks from AI agents",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-02T19:03:03Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6169,
-      "importance": 0.6169,
-      "importance_score": 0.6169,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.5832,
-        "source_tier": 0.58,
-        "ai_relevance": 0.81,
-        "recency": 0.7077,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-02T18:11:27Z",
-      "latest_at": "2026-10-02T19:03:03Z",
-      "primary_item": {
-        "id": "b618ad79058d803c6eb57daa4b7ccdb616c49d12",
-        "title": "苹果表示，由于人工智能代理带来的新风险，它正在加强 macOS 的“全磁盘访问”控制 / Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
-        "title_zh": "苹果表示，由于人工智能代理带来的新风险，它正在加强 macOS 的“全磁盘访问”控制",
-        "title_en": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
-        "title_original": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents",
-        "source": "TechCrunch AI",
-        "source_name": "Curated Media"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-03T18:09:04.780529Z"
+        "scored_at": "2026-10-03T21:43:42.657574Z"
       }
     },
     {
@@ -1015,15 +960,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6306,
-      "importance": 0.6306,
-      "importance_score": 0.6306,
+      "score": 0.6229,
+      "importance": 0.6229,
+      "importance_score": 0.6229,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5616,
         "source_tier": 0.58,
         "ai_relevance": 0.78,
-        "recency": 0.8527,
+        "recency": 0.8099,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1048,7 +993,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T18:09:04.780529Z"
+        "scored_at": "2026-10-03T21:43:42.657574Z"
       }
     },
     {
@@ -1125,15 +1070,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6216,
-      "importance": 0.6216,
-      "importance_score": 0.6216,
+      "score": 0.6137,
+      "importance": 0.6137,
+      "importance_score": 0.6137,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.54,
         "source_tier": 0.58,
         "ai_relevance": 0.75,
-        "recency": 0.8723,
+        "recency": 0.8285,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1158,7 +1103,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T18:09:04.780529Z"
+        "scored_at": "2026-10-03T21:43:42.657574Z"
       }
     }
   ]
