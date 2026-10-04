@@ -1,91 +1,8 @@
 {
-  "generated_at": "2026-10-04T22:17:18.706436Z",
+  "generated_at": "2026-10-04T23:31:50.573943Z",
   "window_hours": 24,
-  "total_items": 4,
+  "total_items": 2,
   "items": [
-    {
-      "story_id": "story_1be63ddb3fed",
-      "title": "Microsoft ThinkingBox 在 Hugging Face 上发布，以数据库终态和 20 次重复评测智能体 / The Agent Said It Was Done. The Database Disagreed.",
-      "url": "https://huggingface.co/blog/microsoft/thinkingbox",
-      "primary_url": "https://huggingface.co/blog/microsoft/thinkingbox",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "57fbd355307716cbcf330127a1ee6632b8a5238b",
-          "title": "Microsoft ThinkingBox 在 Hugging Face 上发布，以数据库终态和 20 次重复评测智能体 / The Agent Said It Was Done. The Database Disagreed.",
-          "title_zh": "Microsoft ThinkingBox 在 Hugging Face 上发布，以数据库终态和 20 次重复评测智能体",
-          "title_en": "The Agent Said It Was Done. The Database Disagreed.",
-          "title_original": "The Agent Said It Was Done. The Database Disagreed.",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/microsoft/thinkingbox",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-03T22:56:48Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "57fbd355307716cbcf330127a1ee6632b8a5238b",
-          "title": "Microsoft ThinkingBox 在 Hugging Face 上发布，以数据库终态和 20 次重复评测智能体 / The Agent Said It Was Done. The Database Disagreed.",
-          "title_zh": "Microsoft ThinkingBox 在 Hugging Face 上发布，以数据库终态和 20 次重复评测智能体",
-          "title_en": "The Agent Said It Was Done. The Database Disagreed.",
-          "title_original": "The Agent Said It Was Done. The Database Disagreed.",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/microsoft/thinkingbox",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-03T22:56:48Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8185,
-      "importance": 0.8185,
-      "importance_score": 0.8185,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.7139,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-03T22:56:48Z",
-      "latest_at": "2026-10-03T22:56:48Z",
-      "primary_item": {
-        "id": "57fbd355307716cbcf330127a1ee6632b8a5238b",
-        "title": "Microsoft ThinkingBox 在 Hugging Face 上发布，以数据库终态和 20 次重复评测智能体 / The Agent Said It Was Done. The Database Disagreed.",
-        "title_zh": "Microsoft ThinkingBox 在 Hugging Face 上发布，以数据库终态和 20 次重复评测智能体",
-        "title_en": "The Agent Said It Was Done. The Database Disagreed.",
-        "title_original": "The Agent Said It Was Done. The Database Disagreed.",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/microsoft/thinkingbox",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-04T22:18:47.036220Z"
-      }
-    },
     {
       "story_id": "story_d5c952bf698c",
       "title": "在 macOS 27 上关闭 Apple Intelligence，并释放其占用的磁盘空间 / Turn off Apple Intelligence on macOS 27 and get its disk space back",
@@ -189,15 +106,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.688,
-      "importance": 0.688,
-      "importance_score": 0.688,
+      "score": 0.6849,
+      "importance": 0.6849,
+      "importance_score": 0.6849,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5832,
         "source_tier": 0.58,
         "ai_relevance": 0.81,
-        "recency": 0.9634,
+        "recency": 0.9463,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -223,147 +140,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-04T22:18:47.036220Z"
-      }
-    },
-    {
-      "story_id": "story_7de21991405b",
-      "title": "OpenAI安全负责人辞职，警告称该公司文化“已然失控” / OpenAI safety leader quits, warning AI company's culture is 'broken'",
-      "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
-      "primary_url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
-      "source": "Hacker News front page",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "ea7c2a9fda2d6e24cdfd4057f1bde45b0fa5c8f9",
-          "title": "OpenAI安全负责人辞职，警告称该公司文化“已然失控” / OpenAI safety leader quits, warning AI company's culture is 'broken'",
-          "title_zh": "OpenAI安全负责人辞职，警告称该公司文化“已然失控”",
-          "title_en": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
-          "title_original": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
-          "source": "Hacker News front page",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-03T22:18:13Z"
-        },
-        {
-          "id": "ee467b2fa351b77dc7419b4393ad6b93fb06e9b2",
-          "title": "OpenAI安全负责人辞职，警告称该公司文化“已然失控”",
-          "title_zh": "OpenAI安全负责人辞职，警告称该公司文化“已然失控”",
-          "title_en": null,
-          "title_original": "OpenAI安全负责人辞职，警告称该公司文化“已然失控”",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
-          "source": "www.theguardian.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-04T01:08:53.967000Z"
-        },
-        {
-          "id": "8debf926b3b3f1dd774c687f2db0ccde0b18fb36",
-          "title": "OpenAI 安全负责人辞职，警告人工智能公司文化“破碎” / OpenAI safety leader quits, warning AI company's culture is 'broken'",
-          "title_zh": "OpenAI 安全负责人辞职，警告人工智能公司文化“破碎”",
-          "title_en": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
-          "title_original": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49948332",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-03T22:18:13Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News front page",
-        "hackernews",
-        "www.theguardian.com"
-      ],
-      "items": [
-        {
-          "id": "ea7c2a9fda2d6e24cdfd4057f1bde45b0fa5c8f9",
-          "title": "OpenAI安全负责人辞职，警告称该公司文化“已然失控” / OpenAI safety leader quits, warning AI company's culture is 'broken'",
-          "title_zh": "OpenAI安全负责人辞职，警告称该公司文化“已然失控”",
-          "title_en": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
-          "title_original": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
-          "source": "Hacker News front page",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-03T22:18:13Z"
-        },
-        {
-          "id": "ee467b2fa351b77dc7419b4393ad6b93fb06e9b2",
-          "title": "OpenAI安全负责人辞职，警告称该公司文化“已然失控”",
-          "title_zh": "OpenAI安全负责人辞职，警告称该公司文化“已然失控”",
-          "title_en": null,
-          "title_original": "OpenAI安全负责人辞职，警告称该公司文化“已然失控”",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
-          "source": "www.theguardian.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-04T01:08:53.967000Z"
-        },
-        {
-          "id": "8debf926b3b3f1dd774c687f2db0ccde0b18fb36",
-          "title": "OpenAI 安全负责人辞职，警告人工智能公司文化“破碎” / OpenAI safety leader quits, warning AI company's culture is 'broken'",
-          "title_zh": "OpenAI 安全负责人辞职，警告人工智能公司文化“破碎”",
-          "title_en": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
-          "title_original": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49948332",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-03T22:18:13Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.6419,
-      "importance": 0.6419,
-      "importance_score": 0.6419,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.5832,
-        "source_tier": 0.58,
-        "ai_relevance": 0.81,
-        "recency": 0.7073,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-03T22:18:13Z",
-      "latest_at": "2026-10-04T01:08:53.967000Z",
-      "primary_item": {
-        "id": "ea7c2a9fda2d6e24cdfd4057f1bde45b0fa5c8f9",
-        "title": "OpenAI安全负责人辞职，警告称该公司文化“已然失控” / OpenAI safety leader quits, warning AI company's culture is 'broken'",
-        "title_zh": "OpenAI安全负责人辞职，警告称该公司文化“已然失控”",
-        "title_en": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
-        "title_original": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
-        "source": "Hacker News front page",
-        "source_name": "Curated Media"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-04T22:18:47.036220Z"
+        "scored_at": "2026-10-04T23:32:58.726407Z"
       }
     },
     {
@@ -469,15 +246,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6375,
-      "importance": 0.6375,
-      "importance_score": 0.6375,
+      "score": 0.6351,
+      "importance": 0.6351,
+      "importance_score": 0.6351,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5616,
         "source_tier": 0.58,
         "ai_relevance": 0.78,
-        "recency": 0.7522,
+        "recency": 0.7389,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -502,7 +279,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-04T22:18:47.036220Z"
+        "scored_at": "2026-10-04T23:32:58.726407Z"
       }
     }
   ]
