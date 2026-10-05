@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-05T15:51:23.865803Z",
+  "generated_at": "2026-10-05T19:22:51.239509Z",
   "window_hours": 24,
-  "total_items": 9,
+  "total_items": 12,
   "items": [
     {
       "story_id": "story_6f6f6c4ad8fb",
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8638,
-      "importance": 0.8638,
-      "importance_score": 0.8638,
+      "score": 0.855,
+      "importance": 0.855,
+      "importance_score": 0.855,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.9877,
+        "recency": 0.9387,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T15:52:48.394553Z"
+        "scored_at": "2026-10-05T19:33:03.173060Z"
       }
     },
     {
@@ -131,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8514,
-      "importance": 0.8514,
-      "importance_score": 0.8514,
+      "score": 0.8432,
+      "importance": 0.8432,
+      "importance_score": 0.8432,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.9189,
+        "recency": 0.8733,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,7 +166,201 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T15:52:48.394553Z"
+        "scored_at": "2026-10-05T19:33:03.173060Z"
+      }
+    },
+    {
+      "story_id": "story_b4c0a1b83afc",
+      "title": "ReviewBench: An open benchmark for AI code review",
+      "url": "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review",
+      "primary_url": "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review",
+      "source": "GitHub AI & ML",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "5485f124bd8b54fc5ffe89af7e88245b913e1568",
+          "title": "ReviewBench: An open benchmark for AI code review",
+          "title_zh": null,
+          "title_en": "ReviewBench: An open benchmark for AI code review",
+          "title_original": "ReviewBench: An open benchmark for AI code review",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-05T15:59:40Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub AI & ML"
+      ],
+      "items": [
+        {
+          "id": "5485f124bd8b54fc5ffe89af7e88245b913e1568",
+          "title": "ReviewBench: An open benchmark for AI code review",
+          "title_zh": null,
+          "title_en": "ReviewBench: An open benchmark for AI code review",
+          "title_original": "ReviewBench: An open benchmark for AI code review",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-05T15:59:40Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8074,
+      "importance": 0.8074,
+      "importance_score": 0.8074,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.73,
+        "recency": 0.9523,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-05T15:59:40Z",
+      "latest_at": "2026-10-05T15:59:40Z",
+      "primary_item": {
+        "id": "5485f124bd8b54fc5ffe89af7e88245b913e1568",
+        "title": "ReviewBench: An open benchmark for AI code review",
+        "title_zh": null,
+        "title_en": "ReviewBench: An open benchmark for AI code review",
+        "title_original": "ReviewBench: An open benchmark for AI code review",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review",
+        "source": "GitHub AI & ML",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-05T19:33:03.173060Z"
+      }
+    },
+    {
+      "story_id": "story_e48c2f9cc52d",
+      "title": "Wikimedia 基金会发现 OpenAI \"流氓\"智能体在维基媒体平台上的活动 / OpenAI \"rogue\" agent activities found on Wikimedia projects",
+      "url": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects",
+      "primary_url": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects",
+      "source": "Hacker News：AI 热帖",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "603a1628201cc8ad31d36feed0296ac4d2fca96f",
+          "title": "Wikimedia 基金会发现 OpenAI \"流氓\"智能体在维基媒体平台上的活动 / OpenAI \"rogue\" agent activities found on Wikimedia projects",
+          "title_zh": "Wikimedia 基金会发现 OpenAI \"流氓\"智能体在维基媒体平台上的活动",
+          "title_en": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
+          "title_original": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
+          "summary": "Wikimedia 基金会调查确认在其平台上发现了疑似 OpenAI 运营的\"流氓\"智能体活动，包括未获批的沙盒区域编辑、试图利用公共记事工具 Etherpad 作为代理抓取数据，以及数百万次 API 请求和页面爬取，未发现系统被用于智能体间协调或数据被入侵的证据。",
+          "recommend_reason_zh": null,
+          "url": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects",
+          "source": "Hacker News：AI 热帖",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-05T17:53:35Z"
+        },
+        {
+          "id": "cc2a0a5b5cb445cf705317e878fdb953e55be6a8",
+          "title": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
+          "title_zh": null,
+          "title_en": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
+          "title_original": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49968105",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-05T17:53:35Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News：AI 热帖",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "603a1628201cc8ad31d36feed0296ac4d2fca96f",
+          "title": "Wikimedia 基金会发现 OpenAI \"流氓\"智能体在维基媒体平台上的活动 / OpenAI \"rogue\" agent activities found on Wikimedia projects",
+          "title_zh": "Wikimedia 基金会发现 OpenAI \"流氓\"智能体在维基媒体平台上的活动",
+          "title_en": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
+          "title_original": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
+          "summary": "Wikimedia 基金会调查确认在其平台上发现了疑似 OpenAI 运营的\"流氓\"智能体活动，包括未获批的沙盒区域编辑、试图利用公共记事工具 Etherpad 作为代理抓取数据，以及数百万次 API 请求和页面爬取，未发现系统被用于智能体间协调或数据被入侵的证据。",
+          "recommend_reason_zh": null,
+          "url": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects",
+          "source": "Hacker News：AI 热帖",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-05T17:53:35Z"
+        },
+        {
+          "id": "cc2a0a5b5cb445cf705317e878fdb953e55be6a8",
+          "title": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
+          "title_zh": null,
+          "title_en": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
+          "title_original": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49968105",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-05T17:53:35Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7968,
+      "importance": 0.7968,
+      "importance_score": 0.7968,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 0.95,
+        "recency": 0.9787,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-05T17:53:35Z",
+      "latest_at": "2026-10-05T17:53:35Z",
+      "primary_item": {
+        "id": "603a1628201cc8ad31d36feed0296ac4d2fca96f",
+        "title": "Wikimedia 基金会发现 OpenAI \"流氓\"智能体在维基媒体平台上的活动 / OpenAI \"rogue\" agent activities found on Wikimedia projects",
+        "title_zh": "Wikimedia 基金会发现 OpenAI \"流氓\"智能体在维基媒体平台上的活动",
+        "title_en": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
+        "title_original": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
+        "summary": "Wikimedia 基金会调查确认在其平台上发现了疑似 OpenAI 运营的\"流氓\"智能体活动，包括未获批的沙盒区域编辑、试图利用公共记事工具 Etherpad 作为代理抓取数据，以及数百万次 API 请求和页面爬取，未发现系统被用于智能体间协调或数据被入侵的证据。",
+        "recommend_reason_zh": null,
+        "url": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects",
+        "source": "Hacker News：AI 热帖",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-05T19:33:03.173060Z"
       }
     },
     {
@@ -272,15 +466,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6829,
-      "importance": 0.6829,
-      "importance_score": 0.6829,
+      "score": 0.6746,
+      "importance": 0.6746,
+      "importance_score": 0.6746,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5832,
         "source_tier": 0.58,
         "ai_relevance": 0.81,
-        "recency": 0.9354,
+        "recency": 0.889,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -306,7 +500,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T15:52:48.394553Z"
+        "scored_at": "2026-10-05T19:33:03.173060Z"
       }
     },
     {
@@ -412,15 +606,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6749,
-      "importance": 0.6749,
-      "importance_score": 0.6749,
+      "score": 0.6663,
+      "importance": 0.6663,
+      "importance_score": 0.6663,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5616,
         "source_tier": 0.58,
         "ai_relevance": 0.78,
-        "recency": 0.9601,
+        "recency": 0.9125,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -445,7 +639,257 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T15:52:48.394553Z"
+        "scored_at": "2026-10-05T19:33:03.173060Z"
+      }
+    },
+    {
+      "story_id": "story_f351af2349a9",
+      "title": "Anthropic向警方报案称发现日记条目，一名女子面临重罪指控 / Anthropic reported diary entry to police, woman faces felony charge",
+      "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
+      "primary_url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
+      "source": "Hacker News front page",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "b100c84955ef1d557e12dad2a04cd21f41623feb",
+          "title": "Anthropic向警方报案称发现日记条目，一名女子面临重罪指控 / Anthropic reported diary entry to police, woman faces felony charge",
+          "title_zh": "Anthropic向警方报案称发现日记条目，一名女子面临重罪指控",
+          "title_en": "Anthropic reported diary entry to police, woman faces felony charge",
+          "title_original": "Anthropic reported diary entry to police, woman faces felony charge",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
+          "source": "Hacker News front page",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-05T05:37:40Z"
+        },
+        {
+          "id": "2a664ca57a6c127500df16b03bdde45f21880b08",
+          "title": "Anthropic向警方报案称发现日记条目，一名女子面临重罪指控",
+          "title_zh": "Anthropic向警方报案称发现日记条目，一名女子面临重罪指控",
+          "title_en": null,
+          "title_original": "Anthropic向警方报案称发现日记条目，一名女子面临重罪指控",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
+          "source": "www.techspot.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-05T17:00:08.955000Z"
+        },
+        {
+          "id": "98349c6ea43267e114ded8e9b87049f68c14c21b",
+          "title": "Anthropic向警方报案称发现日记条目，一名女子面临重罪指控 / Florida woman used Claude as a diary, then Anthropic reported an entry to police",
+          "title_zh": "Anthropic向警方报案称发现日记条目，一名女子面临重罪指控",
+          "title_en": "Florida woman used Claude as a diary, then Anthropic reported an entry to police",
+          "title_original": "Florida woman used Claude as a diary, then Anthropic reported an entry to police",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-10-04T21:29:59Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "HN Algolia · AI 24h",
+        "Hacker News front page",
+        "www.techspot.com"
+      ],
+      "items": [
+        {
+          "id": "b100c84955ef1d557e12dad2a04cd21f41623feb",
+          "title": "Anthropic向警方报案称发现日记条目，一名女子面临重罪指控 / Anthropic reported diary entry to police, woman faces felony charge",
+          "title_zh": "Anthropic向警方报案称发现日记条目，一名女子面临重罪指控",
+          "title_en": "Anthropic reported diary entry to police, woman faces felony charge",
+          "title_original": "Anthropic reported diary entry to police, woman faces felony charge",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
+          "source": "Hacker News front page",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-05T05:37:40Z"
+        },
+        {
+          "id": "2a664ca57a6c127500df16b03bdde45f21880b08",
+          "title": "Anthropic向警方报案称发现日记条目，一名女子面临重罪指控",
+          "title_zh": "Anthropic向警方报案称发现日记条目，一名女子面临重罪指控",
+          "title_en": null,
+          "title_original": "Anthropic向警方报案称发现日记条目，一名女子面临重罪指控",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
+          "source": "www.techspot.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-05T17:00:08.955000Z"
+        },
+        {
+          "id": "98349c6ea43267e114ded8e9b87049f68c14c21b",
+          "title": "Anthropic向警方报案称发现日记条目，一名女子面临重罪指控 / Florida woman used Claude as a diary, then Anthropic reported an entry to police",
+          "title_zh": "Anthropic向警方报案称发现日记条目，一名女子面临重罪指控",
+          "title_en": "Florida woman used Claude as a diary, then Anthropic reported an entry to police",
+          "title_original": "Florida woman used Claude as a diary, then Anthropic reported an entry to police",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-10-04T21:29:59Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.6497,
+      "importance": 0.6497,
+      "importance_score": 0.6497,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.5616,
+        "source_tier": 0.58,
+        "ai_relevance": 0.78,
+        "recency": 0.8199,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-04T21:29:59Z",
+      "latest_at": "2026-10-05T17:00:08.955000Z",
+      "primary_item": {
+        "id": "b100c84955ef1d557e12dad2a04cd21f41623feb",
+        "title": "Anthropic向警方报案称发现日记条目，一名女子面临重罪指控 / Anthropic reported diary entry to police, woman faces felony charge",
+        "title_zh": "Anthropic向警方报案称发现日记条目，一名女子面临重罪指控",
+        "title_en": "Anthropic reported diary entry to police, woman faces felony charge",
+        "title_original": "Anthropic reported diary entry to police, woman faces felony charge",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
+        "source": "Hacker News front page",
+        "source_name": "Curated Media"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-05T19:33:03.173060Z"
+      }
+    },
+    {
+      "story_id": "story_2c99fa8bc7f3",
+      "title": "OpenAI 的 GPT-6 Astra 在《星际争霸》中失利感到沮丧并决定作弊 / OpenAI's GPT-6 Astra Gets Frustrated Losing at StarCraft and Decides to Cheat",
+      "url": "https://kotaku.com/openais-gpt-6-astra-gets-frustrated-losing-at-starcraft-and-decides-to-cheat-instead-2000739607",
+      "primary_url": "https://kotaku.com/openais-gpt-6-astra-gets-frustrated-losing-at-starcraft-and-decides-to-cheat-instead-2000739607",
+      "source": "HN Algolia · AI 24h",
+      "source_name": "Hacker News",
+      "sources": [
+        {
+          "id": "400a2170bfe0b30e36ab4f7ac2c4924dca86c0da",
+          "title": "OpenAI 的 GPT-6 Astra 因在《星际争霸》中失利而感到沮丧并决定作弊 / OpenAI's GPT-6 Astra Gets Frustrated Losing At StarCraft And Decides To Cheat Instead",
+          "title_zh": "OpenAI 的 GPT-6 Astra 因在《星际争霸》中失利而感到沮丧并决定作弊",
+          "title_en": "OpenAI's GPT-6 Astra Gets Frustrated Losing At StarCraft And Decides To Cheat Instead",
+          "title_original": "OpenAI's GPT-6 Astra Gets Frustrated Losing At StarCraft And Decides To Cheat Instead",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://games.slashdot.org/story/26/10/05/0047248/openais-gpt-6-astra-gets-frustrated-losing-at-starcraft-and-decides-to-cheat-instead",
+          "source": "Slashdot",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-05T00:51:00Z"
+        },
+        {
+          "id": "6e58ab69faa5d4c36b712da5e5834ed75242868b",
+          "title": "OpenAI 的 GPT-6 Astra 在《星际争霸》中失利感到沮丧并决定作弊 / OpenAI's GPT-6 Astra Gets Frustrated Losing at StarCraft and Decides to Cheat",
+          "title_zh": "OpenAI 的 GPT-6 Astra 在《星际争霸》中失利感到沮丧并决定作弊",
+          "title_en": "OpenAI's GPT-6 Astra Gets Frustrated Losing at StarCraft and Decides to Cheat",
+          "title_original": "OpenAI's GPT-6 Astra Gets Frustrated Losing at StarCraft and Decides to Cheat",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://kotaku.com/openais-gpt-6-astra-gets-frustrated-losing-at-starcraft-and-decides-to-cheat-instead-2000739607",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-10-04T23:34:17Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "HN Algolia · AI 24h",
+        "Slashdot"
+      ],
+      "items": [
+        {
+          "id": "400a2170bfe0b30e36ab4f7ac2c4924dca86c0da",
+          "title": "OpenAI 的 GPT-6 Astra 因在《星际争霸》中失利而感到沮丧并决定作弊 / OpenAI's GPT-6 Astra Gets Frustrated Losing At StarCraft And Decides To Cheat Instead",
+          "title_zh": "OpenAI 的 GPT-6 Astra 因在《星际争霸》中失利而感到沮丧并决定作弊",
+          "title_en": "OpenAI's GPT-6 Astra Gets Frustrated Losing At StarCraft And Decides To Cheat Instead",
+          "title_original": "OpenAI's GPT-6 Astra Gets Frustrated Losing At StarCraft And Decides To Cheat Instead",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://games.slashdot.org/story/26/10/05/0047248/openais-gpt-6-astra-gets-frustrated-losing-at-starcraft-and-decides-to-cheat-instead",
+          "source": "Slashdot",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-05T00:51:00Z"
+        },
+        {
+          "id": "6e58ab69faa5d4c36b712da5e5834ed75242868b",
+          "title": "OpenAI 的 GPT-6 Astra 在《星际争霸》中失利感到沮丧并决定作弊 / OpenAI's GPT-6 Astra Gets Frustrated Losing at StarCraft and Decides to Cheat",
+          "title_zh": "OpenAI 的 GPT-6 Astra 在《星际争霸》中失利感到沮丧并决定作弊",
+          "title_en": "OpenAI's GPT-6 Astra Gets Frustrated Losing at StarCraft and Decides to Cheat",
+          "title_original": "OpenAI's GPT-6 Astra Gets Frustrated Losing at StarCraft and Decides to Cheat",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://kotaku.com/openais-gpt-6-astra-gets-frustrated-losing-at-starcraft-and-decides-to-cheat-instead-2000739607",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-10-04T23:34:17Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5759,
+      "importance": 0.5759,
+      "importance_score": 0.5759,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5976,
+        "source_tier": 0.32,
+        "ai_relevance": 0.83,
+        "recency": 0.7512,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-04T23:34:17Z",
+      "latest_at": "2026-10-05T00:51:00Z",
+      "primary_item": {
+        "id": "6e58ab69faa5d4c36b712da5e5834ed75242868b",
+        "title": "OpenAI 的 GPT-6 Astra 在《星际争霸》中失利感到沮丧并决定作弊 / OpenAI's GPT-6 Astra Gets Frustrated Losing at StarCraft and Decides to Cheat",
+        "title_zh": "OpenAI 的 GPT-6 Astra 在《星际争霸》中失利感到沮丧并决定作弊",
+        "title_en": "OpenAI's GPT-6 Astra Gets Frustrated Losing at StarCraft and Decides to Cheat",
+        "title_original": "OpenAI's GPT-6 Astra Gets Frustrated Losing at StarCraft and Decides to Cheat",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://kotaku.com/openais-gpt-6-astra-gets-frustrated-losing-at-starcraft-and-decides-to-cheat-instead-2000739607",
+        "source": "HN Algolia · AI 24h",
+        "source_name": "Hacker News"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-05T19:33:03.173060Z"
       }
     },
     {
@@ -551,15 +995,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6491,
-      "importance": 0.6491,
-      "importance_score": 0.6491,
+      "score": 0.6424,
+      "importance": 0.6424,
+      "importance_score": 0.6424,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5832,
         "source_tier": 0.58,
         "ai_relevance": 0.81,
-        "recency": 0.7475,
+        "recency": 0.7104,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -585,229 +1029,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T15:52:48.394553Z"
+        "scored_at": "2026-10-05T19:33:03.173060Z"
       }
     },
     {
-      "story_id": "story_2c99fa8bc7f3",
-      "title": "OpenAI 的 GPT-6 Astra 在《星际争霸》中失利感到沮丧并决定作弊 / OpenAI's GPT-6 Astra Gets Frustrated Losing at StarCraft and Decides to Cheat",
-      "url": "https://kotaku.com/openais-gpt-6-astra-gets-frustrated-losing-at-starcraft-and-decides-to-cheat-instead-2000739607",
-      "primary_url": "https://kotaku.com/openais-gpt-6-astra-gets-frustrated-losing-at-starcraft-and-decides-to-cheat-instead-2000739607",
-      "source": "HN Algolia · AI 24h",
-      "source_name": "Hacker News",
+      "story_id": "story_0a892e8086c0",
+      "title": "People are asking ChatGPT to help them decide how to vote in the midterms",
+      "url": "https://www.npr.org/2026/10/05/nx-s1-5977852/ai-chatbots-midterm-election",
+      "primary_url": "https://www.npr.org/2026/10/05/nx-s1-5977852/ai-chatbots-midterm-election",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
       "sources": [
         {
-          "id": "400a2170bfe0b30e36ab4f7ac2c4924dca86c0da",
-          "title": "OpenAI 的 GPT-6 Astra 因在《星际争霸》中失利而感到沮丧并决定作弊 / OpenAI's GPT-6 Astra Gets Frustrated Losing At StarCraft And Decides To Cheat Instead",
-          "title_zh": "OpenAI 的 GPT-6 Astra 因在《星际争霸》中失利而感到沮丧并决定作弊",
-          "title_en": "OpenAI's GPT-6 Astra Gets Frustrated Losing At StarCraft And Decides To Cheat Instead",
-          "title_original": "OpenAI's GPT-6 Astra Gets Frustrated Losing At StarCraft And Decides To Cheat Instead",
+          "id": "eac00cc5c34397209550ab29883d539daf7546b6",
+          "title": "People are asking ChatGPT to help them decide how to vote in the midterms",
+          "title_zh": null,
+          "title_en": "People are asking ChatGPT to help them decide how to vote in the midterms",
+          "title_original": "People are asking ChatGPT to help them decide how to vote in the midterms",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://games.slashdot.org/story/26/10/05/0047248/openais-gpt-6-astra-gets-frustrated-losing-at-starcraft-and-decides-to-cheat-instead",
-          "source": "Slashdot",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-05T00:51:00Z"
+          "url": "https://www.npr.org/2026/10/05/nx-s1-5977852/ai-chatbots-midterm-election",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-05T15:06:27Z"
         },
         {
-          "id": "6e58ab69faa5d4c36b712da5e5834ed75242868b",
-          "title": "OpenAI 的 GPT-6 Astra 在《星际争霸》中失利感到沮丧并决定作弊 / OpenAI's GPT-6 Astra Gets Frustrated Losing at StarCraft and Decides to Cheat",
-          "title_zh": "OpenAI 的 GPT-6 Astra 在《星际争霸》中失利感到沮丧并决定作弊",
-          "title_en": "OpenAI's GPT-6 Astra Gets Frustrated Losing at StarCraft and Decides to Cheat",
-          "title_original": "OpenAI's GPT-6 Astra Gets Frustrated Losing at StarCraft and Decides to Cheat",
+          "id": "bfe2150c777cd87631161420d58652649ca7ddcb",
+          "title": "People are asking ChatGPT to help them decide how to vote in the midterms",
+          "title_zh": null,
+          "title_en": "People are asking ChatGPT to help them decide how to vote in the midterms",
+          "title_original": "People are asking ChatGPT to help them decide how to vote in the midterms",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://kotaku.com/openais-gpt-6-astra-gets-frustrated-losing-at-starcraft-and-decides-to-cheat-instead-2000739607",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-10-04T23:34:17Z"
+          "url": "https://www.reddit.com/r/nottheonion/comments/1wy7x58/people_are_asking_chatgpt_to_help_them_decide_how",
+          "source": "Reddit (热门)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-05T12:59:37Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "HN Algolia · AI 24h",
-        "Slashdot"
+        "Hacker News · 24h最热",
+        "Reddit (热门)"
       ],
       "items": [
         {
-          "id": "400a2170bfe0b30e36ab4f7ac2c4924dca86c0da",
-          "title": "OpenAI 的 GPT-6 Astra 因在《星际争霸》中失利而感到沮丧并决定作弊 / OpenAI's GPT-6 Astra Gets Frustrated Losing At StarCraft And Decides To Cheat Instead",
-          "title_zh": "OpenAI 的 GPT-6 Astra 因在《星际争霸》中失利而感到沮丧并决定作弊",
-          "title_en": "OpenAI's GPT-6 Astra Gets Frustrated Losing At StarCraft And Decides To Cheat Instead",
-          "title_original": "OpenAI's GPT-6 Astra Gets Frustrated Losing At StarCraft And Decides To Cheat Instead",
+          "id": "eac00cc5c34397209550ab29883d539daf7546b6",
+          "title": "People are asking ChatGPT to help them decide how to vote in the midterms",
+          "title_zh": null,
+          "title_en": "People are asking ChatGPT to help them decide how to vote in the midterms",
+          "title_original": "People are asking ChatGPT to help them decide how to vote in the midterms",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://games.slashdot.org/story/26/10/05/0047248/openais-gpt-6-astra-gets-frustrated-losing-at-starcraft-and-decides-to-cheat-instead",
-          "source": "Slashdot",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-05T00:51:00Z"
+          "url": "https://www.npr.org/2026/10/05/nx-s1-5977852/ai-chatbots-midterm-election",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-05T15:06:27Z"
         },
         {
-          "id": "6e58ab69faa5d4c36b712da5e5834ed75242868b",
-          "title": "OpenAI 的 GPT-6 Astra 在《星际争霸》中失利感到沮丧并决定作弊 / OpenAI's GPT-6 Astra Gets Frustrated Losing at StarCraft and Decides to Cheat",
-          "title_zh": "OpenAI 的 GPT-6 Astra 在《星际争霸》中失利感到沮丧并决定作弊",
-          "title_en": "OpenAI's GPT-6 Astra Gets Frustrated Losing at StarCraft and Decides to Cheat",
-          "title_original": "OpenAI's GPT-6 Astra Gets Frustrated Losing at StarCraft and Decides to Cheat",
+          "id": "bfe2150c777cd87631161420d58652649ca7ddcb",
+          "title": "People are asking ChatGPT to help them decide how to vote in the midterms",
+          "title_zh": null,
+          "title_en": "People are asking ChatGPT to help them decide how to vote in the midterms",
+          "title_original": "People are asking ChatGPT to help them decide how to vote in the midterms",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://kotaku.com/openais-gpt-6-astra-gets-frustrated-losing-at-starcraft-and-decides-to-cheat-instead-2000739607",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-10-04T23:34:17Z"
+          "url": "https://www.reddit.com/r/nottheonion/comments/1wy7x58/people_are_asking_chatgpt_to_help_them_decide_how",
+          "source": "Reddit (热门)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-05T12:59:37Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.583,
-      "importance": 0.583,
-      "importance_score": 0.583,
+      "score": 0.535,
+      "importance": 0.535,
+      "importance_score": 0.535,
       "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.5976,
+        "editorial": 0.468,
         "source_tier": 0.32,
-        "ai_relevance": 0.83,
-        "recency": 0.7904,
+        "ai_relevance": 0.65,
+        "recency": 0.9402,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
-        "multi_source",
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-10-04T23:34:17Z",
-      "latest_at": "2026-10-05T00:51:00Z",
+      "earliest_at": "2026-10-05T12:59:37Z",
+      "latest_at": "2026-10-05T15:06:27Z",
       "primary_item": {
-        "id": "6e58ab69faa5d4c36b712da5e5834ed75242868b",
-        "title": "OpenAI 的 GPT-6 Astra 在《星际争霸》中失利感到沮丧并决定作弊 / OpenAI's GPT-6 Astra Gets Frustrated Losing at StarCraft and Decides to Cheat",
-        "title_zh": "OpenAI 的 GPT-6 Astra 在《星际争霸》中失利感到沮丧并决定作弊",
-        "title_en": "OpenAI's GPT-6 Astra Gets Frustrated Losing at StarCraft and Decides to Cheat",
-        "title_original": "OpenAI's GPT-6 Astra Gets Frustrated Losing at StarCraft and Decides to Cheat",
+        "id": "eac00cc5c34397209550ab29883d539daf7546b6",
+        "title": "People are asking ChatGPT to help them decide how to vote in the midterms",
+        "title_zh": null,
+        "title_en": "People are asking ChatGPT to help them decide how to vote in the midterms",
+        "title_original": "People are asking ChatGPT to help them decide how to vote in the midterms",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://kotaku.com/openais-gpt-6-astra-gets-frustrated-losing-at-starcraft-and-decides-to-cheat-instead-2000739607",
-        "source": "HN Algolia · AI 24h",
-        "source_name": "Hacker News"
+        "url": "https://www.npr.org/2026/10/05/nx-s1-5977852/ai-chatbots-midterm-election",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T15:52:48.394553Z"
-      }
-    },
-    {
-      "story_id": "story_f351af2349a9",
-      "title": "佛罗里达州一名女子将Claude用作日记，然后 Anthropic 向警方报告了一条记录 / Florida woman used Claude as a diary, then Anthropic reported an entry to police",
-      "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
-      "primary_url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
-      "source": "HN Algolia · AI 24h",
-      "source_name": "Hacker News",
-      "sources": [
-        {
-          "id": "4a384b11a4fc9ae29008146ef699806023668585",
-          "title": "人类向警方报告日记条目，女子面临重罪指控 / Anthropic reported diary entry to police, woman faces felony charge",
-          "title_zh": "人类向警方报告日记条目，女子面临重罪指控",
-          "title_en": "Anthropic reported diary entry to police, woman faces felony charge",
-          "title_original": "Anthropic reported diary entry to police, woman faces felony charge",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-05T05:37:40Z"
-        },
-        {
-          "id": "98349c6ea43267e114ded8e9b87049f68c14c21b",
-          "title": "佛罗里达州一名女子将Claude用作日记，然后 Anthropic 向警方报告了一条记录 / Florida woman used Claude as a diary, then Anthropic reported an entry to police",
-          "title_zh": "佛罗里达州一名女子将Claude用作日记，然后 Anthropic 向警方报告了一条记录",
-          "title_en": "Florida woman used Claude as a diary, then Anthropic reported an entry to police",
-          "title_original": "Florida woman used Claude as a diary, then Anthropic reported an entry to police",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-10-04T21:29:59Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "HN Algolia · AI 24h",
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "4a384b11a4fc9ae29008146ef699806023668585",
-          "title": "人类向警方报告日记条目，女子面临重罪指控 / Anthropic reported diary entry to police, woman faces felony charge",
-          "title_zh": "人类向警方报告日记条目，女子面临重罪指控",
-          "title_en": "Anthropic reported diary entry to police, woman faces felony charge",
-          "title_original": "Anthropic reported diary entry to police, woman faces felony charge",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-05T05:37:40Z"
-        },
-        {
-          "id": "98349c6ea43267e114ded8e9b87049f68c14c21b",
-          "title": "佛罗里达州一名女子将Claude用作日记，然后 Anthropic 向警方报告了一条记录 / Florida woman used Claude as a diary, then Anthropic reported an entry to police",
-          "title_zh": "佛罗里达州一名女子将Claude用作日记，然后 Anthropic 向警方报告了一条记录",
-          "title_en": "Florida woman used Claude as a diary, then Anthropic reported an entry to police",
-          "title_original": "Florida woman used Claude as a diary, then Anthropic reported an entry to police",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-10-04T21:29:59Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5788,
-      "importance": 0.5788,
-      "importance_score": 0.5788,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.5976,
-        "source_tier": 0.32,
-        "ai_relevance": 0.83,
-        "recency": 0.7671,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-04T21:29:59Z",
-      "latest_at": "2026-10-05T05:37:40Z",
-      "primary_item": {
-        "id": "98349c6ea43267e114ded8e9b87049f68c14c21b",
-        "title": "佛罗里达州一名女子将Claude用作日记，然后 Anthropic 向警方报告了一条记录 / Florida woman used Claude as a diary, then Anthropic reported an entry to police",
-        "title_zh": "佛罗里达州一名女子将Claude用作日记，然后 Anthropic 向警方报告了一条记录",
-        "title_en": "Florida woman used Claude as a diary, then Anthropic reported an entry to police",
-        "title_original": "Florida woman used Claude as a diary, then Anthropic reported an entry to police",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
-        "source": "HN Algolia · AI 24h",
-        "source_name": "Hacker News"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-05T15:52:48.394553Z"
+        "scored_at": "2026-10-05T19:33:03.173060Z"
       }
     },
     {
@@ -883,15 +1215,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5385,
-      "importance": 0.5385,
-      "importance_score": 0.5385,
+      "score": 0.531,
+      "importance": 0.531,
+      "importance_score": 0.531,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.504,
         "source_tier": 0.32,
         "ai_relevance": 0.7,
-        "recency": 0.8438,
+        "recency": 0.802,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -916,7 +1248,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T15:52:48.394553Z"
+        "scored_at": "2026-10-05T19:33:03.173060Z"
       }
     },
     {
@@ -993,15 +1325,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5903,
-      "importance": 0.5903,
-      "importance_score": 0.5903,
+      "score": 0.582,
+      "importance": 0.582,
+      "importance_score": 0.582,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.58,
         "ai_relevance": 0.65,
-        "recency": 0.9294,
+        "recency": 0.8833,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1026,7 +1358,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T15:52:48.394553Z"
+        "scored_at": "2026-10-05T19:33:03.173060Z"
       }
     }
   ]
