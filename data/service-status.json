@@ -1,15 +1,15 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-05T19:22:51.239509Z",
+  "generated_at": "2026-10-05T23:06:38.803522Z",
   "ok": true,
-  "active_count": 4,
+  "active_count": 3,
   "providers": [
     {
       "id": "openai",
       "name": "OpenAI",
       "status_url": "https://status.openai.com/",
       "ok": true,
-      "active_count": 4
+      "active_count": 3
     }
   ],
   "incidents": [
@@ -51,19 +51,6 @@
       "message": "We have applied the mitigation and are monitoring the recovery.",
       "affected_components": [],
       "url": "https://status.openai.com/incidents/01M46KED6KQ6PR195KZYYVNY8W"
-    },
-    {
-      "id": "01M46C47WYYD9NMZVGH83X3ZR1",
-      "provider": "OpenAI",
-      "title": "Admin Console Intermittently Inaccessible",
-      "title_zh": "Admin Console Intermittently Inaccessible",
-      "status": "investigating",
-      "impact": "none",
-      "started_at": "2026-10-05T15:50:11Z",
-      "updated_at": "2026-10-05T15:50:11Z",
-      "message": "We are investigating the issue for the listed services.",
-      "affected_components": [],
-      "url": "https://status.openai.com/incidents/01M46C47WYYD9NMZVGH83X3ZR1"
     }
   ]
 }

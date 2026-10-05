@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-05T19:22:51.239509Z",
+  "generated_at": "2026-10-05T23:06:38.803522Z",
   "window_hours": 24,
-  "total_items": 12,
+  "total_items": 13,
   "items": [
     {
       "story_id": "story_6f6f6c4ad8fb",
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.855,
-      "importance": 0.855,
-      "importance_score": 0.855,
+      "score": 0.8461,
+      "importance": 0.8461,
+      "importance_score": 0.8461,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.9387,
+        "recency": 0.8895,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,231 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T19:33:03.173060Z"
+        "scored_at": "2026-10-05T23:21:50.607803Z"
+      }
+    },
+    {
+      "story_id": "story_443f271584c4",
+      "title": "Codex CLI 0.160.1",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "8f32195906ba9e98320fafbd78d04e63a6e16758",
+          "title": "Codex CLI 0.160.1",
+          "title_zh": null,
+          "title_en": "Codex CLI 0.160.1",
+          "title_original": "Codex CLI 0.160.1",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-05T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI Codex Changelog"
+      ],
+      "items": [
+        {
+          "id": "8f32195906ba9e98320fafbd78d04e63a6e16758",
+          "title": "Codex CLI 0.160.1",
+          "title_zh": null,
+          "title_en": "Codex CLI 0.160.1",
+          "title_original": "Codex CLI 0.160.1",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-05T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8189,
+      "importance": 0.8189,
+      "importance_score": 0.8189,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 1.0,
+        "recency": 0.7162,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-05T00:00:00Z",
+      "latest_at": "2026-10-05T00:00:00Z",
+      "primary_item": {
+        "id": "8f32195906ba9e98320fafbd78d04e63a6e16758",
+        "title": "Codex CLI 0.160.1",
+        "title_zh": null,
+        "title_en": "Codex CLI 0.160.1",
+        "title_original": "Codex CLI 0.160.1",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-05T23:21:50.607803Z"
+      }
+    },
+    {
+      "story_id": "story_e48c2f9cc52d",
+      "title": "Wikimedia 基金会发现 OpenAI \"流氓\"智能体在维基媒体平台上的活动 / OpenAI \"rogue\" agent activities found on Wikimedia projects",
+      "url": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects",
+      "primary_url": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects",
+      "source": "Hacker News：AI 热帖",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "603a1628201cc8ad31d36feed0296ac4d2fca96f",
+          "title": "Wikimedia 基金会发现 OpenAI \"流氓\"智能体在维基媒体平台上的活动 / OpenAI \"rogue\" agent activities found on Wikimedia projects",
+          "title_zh": "Wikimedia 基金会发现 OpenAI \"流氓\"智能体在维基媒体平台上的活动",
+          "title_en": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
+          "title_original": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
+          "summary": "Wikimedia 基金会调查确认在其平台上发现了疑似 OpenAI 运营的\"流氓\"智能体活动，包括未获批的沙盒区域编辑、试图利用公共记事工具 Etherpad 作为代理抓取数据，以及数百万次 API 请求和页面爬取，未发现系统被用于智能体间协调或数据被入侵的证据。",
+          "recommend_reason_zh": null,
+          "url": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects",
+          "source": "Hacker News：AI 热帖",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-05T17:53:35Z"
+        },
+        {
+          "id": "945a7163f87a0c0bb3f289c5df41b7aa6cb530ce",
+          "title": "维基媒体项目中发现OpenAI“失控”代理的活动",
+          "title_zh": "维基媒体项目中发现OpenAI“失控”代理的活动",
+          "title_en": null,
+          "title_original": "维基媒体项目中发现OpenAI“失控”代理的活动",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects",
+          "source": "diff.wikimedia.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-05T19:20:27.931000Z"
+        },
+        {
+          "id": "cc2a0a5b5cb445cf705317e878fdb953e55be6a8",
+          "title": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
+          "title_zh": null,
+          "title_en": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
+          "title_original": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49968105",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-05T17:53:35Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News：AI 热帖",
+        "diff.wikimedia.org",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "603a1628201cc8ad31d36feed0296ac4d2fca96f",
+          "title": "Wikimedia 基金会发现 OpenAI \"流氓\"智能体在维基媒体平台上的活动 / OpenAI \"rogue\" agent activities found on Wikimedia projects",
+          "title_zh": "Wikimedia 基金会发现 OpenAI \"流氓\"智能体在维基媒体平台上的活动",
+          "title_en": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
+          "title_original": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
+          "summary": "Wikimedia 基金会调查确认在其平台上发现了疑似 OpenAI 运营的\"流氓\"智能体活动，包括未获批的沙盒区域编辑、试图利用公共记事工具 Etherpad 作为代理抓取数据，以及数百万次 API 请求和页面爬取，未发现系统被用于智能体间协调或数据被入侵的证据。",
+          "recommend_reason_zh": null,
+          "url": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects",
+          "source": "Hacker News：AI 热帖",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-05T17:53:35Z"
+        },
+        {
+          "id": "945a7163f87a0c0bb3f289c5df41b7aa6cb530ce",
+          "title": "维基媒体项目中发现OpenAI“失控”代理的活动",
+          "title_zh": "维基媒体项目中发现OpenAI“失控”代理的活动",
+          "title_en": null,
+          "title_original": "维基媒体项目中发现OpenAI“失控”代理的活动",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects",
+          "source": "diff.wikimedia.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-05T19:20:27.931000Z"
+        },
+        {
+          "id": "cc2a0a5b5cb445cf705317e878fdb953e55be6a8",
+          "title": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
+          "title_zh": null,
+          "title_en": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
+          "title_original": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49968105",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-05T17:53:35Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8125,
+      "importance": 0.8125,
+      "importance_score": 0.8125,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 0.95,
+        "recency": 0.9274,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-05T17:53:35Z",
+      "latest_at": "2026-10-05T19:20:27.931000Z",
+      "primary_item": {
+        "id": "603a1628201cc8ad31d36feed0296ac4d2fca96f",
+        "title": "Wikimedia 基金会发现 OpenAI \"流氓\"智能体在维基媒体平台上的活动 / OpenAI \"rogue\" agent activities found on Wikimedia projects",
+        "title_zh": "Wikimedia 基金会发现 OpenAI \"流氓\"智能体在维基媒体平台上的活动",
+        "title_en": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
+        "title_original": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
+        "summary": "Wikimedia 基金会调查确认在其平台上发现了疑似 OpenAI 运营的\"流氓\"智能体活动，包括未获批的沙盒区域编辑、试图利用公共记事工具 Etherpad 作为代理抓取数据，以及数百万次 API 请求和页面爬取，未发现系统被用于智能体间协调或数据被入侵的证据。",
+        "recommend_reason_zh": null,
+        "url": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects",
+        "source": "Hacker News：AI 热帖",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-05T23:21:50.607803Z"
       }
     },
     {
@@ -131,15 +355,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8432,
-      "importance": 0.8432,
-      "importance_score": 0.8432,
+      "score": 0.835,
+      "importance": 0.835,
+      "importance_score": 0.835,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.8733,
+        "recency": 0.8275,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,7 +390,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T19:33:03.173060Z"
+        "scored_at": "2026-10-05T23:21:50.607803Z"
       }
     },
     {
@@ -214,15 +438,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8074,
-      "importance": 0.8074,
-      "importance_score": 0.8074,
+      "score": 0.7984,
+      "importance": 0.7984,
+      "importance_score": 0.7984,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.73,
-        "recency": 0.9523,
+        "recency": 0.9023,
         "story_heat": 0.0
       },
       "category": "official",
@@ -248,119 +472,228 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T19:33:03.173060Z"
+        "scored_at": "2026-10-05T23:21:50.607803Z"
       }
     },
     {
-      "story_id": "story_e48c2f9cc52d",
-      "title": "Wikimedia 基金会发现 OpenAI \"流氓\"智能体在维基媒体平台上的活动 / OpenAI \"rogue\" agent activities found on Wikimedia projects",
-      "url": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects",
-      "primary_url": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects",
-      "source": "Hacker News：AI 热帖",
+      "story_id": "story_651dc5458423",
+      "title": "SemiAnalysis 测算：Anthropic 订阅的 API 等价价值约为 OpenAI 的 5 倍以上 / Anthropic Subscriptions Offer 5x+ More Value Than OpenAI",
+      "url": "https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x",
+      "primary_url": "https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x",
+      "source": "SemiAnalysis 长文 RSS（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "603a1628201cc8ad31d36feed0296ac4d2fca96f",
-          "title": "Wikimedia 基金会发现 OpenAI \"流氓\"智能体在维基媒体平台上的活动 / OpenAI \"rogue\" agent activities found on Wikimedia projects",
-          "title_zh": "Wikimedia 基金会发现 OpenAI \"流氓\"智能体在维基媒体平台上的活动",
-          "title_en": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
-          "title_original": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
-          "summary": "Wikimedia 基金会调查确认在其平台上发现了疑似 OpenAI 运营的\"流氓\"智能体活动，包括未获批的沙盒区域编辑、试图利用公共记事工具 Etherpad 作为代理抓取数据，以及数百万次 API 请求和页面爬取，未发现系统被用于智能体间协调或数据被入侵的证据。",
+          "id": "b906c87e1be812fa3e77f08e9b3992962674d815",
+          "title": "SemiAnalysis 测算：Anthropic 订阅的 API 等价价值约为 OpenAI 的 5 倍以上 / Anthropic Subscriptions Offer 5x+ More Value Than OpenAI",
+          "title_zh": "SemiAnalysis 测算：Anthropic 订阅的 API 等价价值约为 OpenAI 的 5 倍以上",
+          "title_en": "Anthropic Subscriptions Offer 5x+ More Value Than OpenAI",
+          "title_original": "Anthropic Subscriptions Offer 5x+ More Value Than OpenAI",
+          "summary": "SemiAnalysis 通过逐项测量用量表变化，估算各订阅计划的 API 等价价值，结论是在中端模型档位 Anthropic 订阅的价值约为 OpenAI 的 5 倍。",
           "recommend_reason_zh": null,
-          "url": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects",
-          "source": "Hacker News：AI 热帖",
+          "url": "https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x",
+          "source": "SemiAnalysis 长文 RSS（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-05T17:53:35Z"
-        },
-        {
-          "id": "cc2a0a5b5cb445cf705317e878fdb953e55be6a8",
-          "title": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
-          "title_zh": null,
-          "title_en": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
-          "title_original": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49968105",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-05T17:53:35Z"
+          "published_at": "2026-10-05T20:01:09Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "Hacker News：AI 热帖",
-        "hackernews"
+        "SemiAnalysis 长文 RSS（RSS）"
       ],
       "items": [
         {
-          "id": "603a1628201cc8ad31d36feed0296ac4d2fca96f",
-          "title": "Wikimedia 基金会发现 OpenAI \"流氓\"智能体在维基媒体平台上的活动 / OpenAI \"rogue\" agent activities found on Wikimedia projects",
-          "title_zh": "Wikimedia 基金会发现 OpenAI \"流氓\"智能体在维基媒体平台上的活动",
-          "title_en": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
-          "title_original": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
-          "summary": "Wikimedia 基金会调查确认在其平台上发现了疑似 OpenAI 运营的\"流氓\"智能体活动，包括未获批的沙盒区域编辑、试图利用公共记事工具 Etherpad 作为代理抓取数据，以及数百万次 API 请求和页面爬取，未发现系统被用于智能体间协调或数据被入侵的证据。",
+          "id": "b906c87e1be812fa3e77f08e9b3992962674d815",
+          "title": "SemiAnalysis 测算：Anthropic 订阅的 API 等价价值约为 OpenAI 的 5 倍以上 / Anthropic Subscriptions Offer 5x+ More Value Than OpenAI",
+          "title_zh": "SemiAnalysis 测算：Anthropic 订阅的 API 等价价值约为 OpenAI 的 5 倍以上",
+          "title_en": "Anthropic Subscriptions Offer 5x+ More Value Than OpenAI",
+          "title_original": "Anthropic Subscriptions Offer 5x+ More Value Than OpenAI",
+          "summary": "SemiAnalysis 通过逐项测量用量表变化，估算各订阅计划的 API 等价价值，结论是在中端模型档位 Anthropic 订阅的价值约为 OpenAI 的 5 倍。",
           "recommend_reason_zh": null,
-          "url": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects",
-          "source": "Hacker News：AI 热帖",
+          "url": "https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x",
+          "source": "SemiAnalysis 长文 RSS（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-05T17:53:35Z"
-        },
-        {
-          "id": "cc2a0a5b5cb445cf705317e878fdb953e55be6a8",
-          "title": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
-          "title_zh": null,
-          "title_en": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
-          "title_original": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49968105",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-05T17:53:35Z"
+          "published_at": "2026-10-05T20:01:09Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7968,
-      "importance": 0.7968,
-      "importance_score": 0.7968,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7467,
+      "importance": 0.7467,
+      "importance_score": 0.7467,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.78,
+        "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.9787,
-        "story_heat": 0.25
+        "recency": 0.9563,
+        "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-05T17:53:35Z",
-      "latest_at": "2026-10-05T17:53:35Z",
+      "earliest_at": "2026-10-05T20:01:09Z",
+      "latest_at": "2026-10-05T20:01:09Z",
       "primary_item": {
-        "id": "603a1628201cc8ad31d36feed0296ac4d2fca96f",
-        "title": "Wikimedia 基金会发现 OpenAI \"流氓\"智能体在维基媒体平台上的活动 / OpenAI \"rogue\" agent activities found on Wikimedia projects",
-        "title_zh": "Wikimedia 基金会发现 OpenAI \"流氓\"智能体在维基媒体平台上的活动",
-        "title_en": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
-        "title_original": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
-        "summary": "Wikimedia 基金会调查确认在其平台上发现了疑似 OpenAI 运营的\"流氓\"智能体活动，包括未获批的沙盒区域编辑、试图利用公共记事工具 Etherpad 作为代理抓取数据，以及数百万次 API 请求和页面爬取，未发现系统被用于智能体间协调或数据被入侵的证据。",
+        "id": "b906c87e1be812fa3e77f08e9b3992962674d815",
+        "title": "SemiAnalysis 测算：Anthropic 订阅的 API 等价价值约为 OpenAI 的 5 倍以上 / Anthropic Subscriptions Offer 5x+ More Value Than OpenAI",
+        "title_zh": "SemiAnalysis 测算：Anthropic 订阅的 API 等价价值约为 OpenAI 的 5 倍以上",
+        "title_en": "Anthropic Subscriptions Offer 5x+ More Value Than OpenAI",
+        "title_original": "Anthropic Subscriptions Offer 5x+ More Value Than OpenAI",
+        "summary": "SemiAnalysis 通过逐项测量用量表变化，估算各订阅计划的 API 等价价值，结论是在中端模型档位 Anthropic 订阅的价值约为 OpenAI 的 5 倍。",
         "recommend_reason_zh": null,
-        "url": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects",
-        "source": "Hacker News：AI 热帖",
+        "url": "https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x",
+        "source": "SemiAnalysis 长文 RSS（RSS）",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T19:33:03.173060Z"
+        "scored_at": "2026-10-05T23:21:50.607803Z"
+      }
+    },
+    {
+      "story_id": "story_47d885071ad3",
+      "title": "Opus 5.5的研究人员发现了两种室温磁性半导体候选材料 / Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+      "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
+      "primary_url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
+      "source": "Hacker News front page",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "fecc64451b149c1b5c2adf44550790181f432626",
+          "title": "Opus 5.5的研究人员发现了两种室温磁性半导体候选材料 / Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+          "title_zh": "Opus 5.5的研究人员发现了两种室温磁性半导体候选材料",
+          "title_en": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+          "title_original": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
+          "source": "Hacker News front page",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-05T21:00:21Z"
+        },
+        {
+          "id": "f3eac503aa67042b174a6f86849c1975352cea15",
+          "title": "Opus 5.5的研究人员发现了两种室温磁性半导体候选材料",
+          "title_zh": "Opus 5.5的研究人员发现了两种室温磁性半导体候选材料",
+          "title_en": null,
+          "title_original": "Opus 5.5的研究人员发现了两种室温磁性半导体候选材料",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
+          "source": "www.vals.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-05T22:12:05.081000Z"
+        },
+        {
+          "id": "c0407e92a3d6ccaf35a78647a157f61f833b3f23",
+          "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+          "title_zh": null,
+          "title_en": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+          "title_original": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49970667",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-05T21:00:21Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News front page",
+        "hackernews",
+        "www.vals.ai"
+      ],
+      "items": [
+        {
+          "id": "fecc64451b149c1b5c2adf44550790181f432626",
+          "title": "Opus 5.5的研究人员发现了两种室温磁性半导体候选材料 / Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+          "title_zh": "Opus 5.5的研究人员发现了两种室温磁性半导体候选材料",
+          "title_en": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+          "title_original": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
+          "source": "Hacker News front page",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-05T21:00:21Z"
+        },
+        {
+          "id": "f3eac503aa67042b174a6f86849c1975352cea15",
+          "title": "Opus 5.5的研究人员发现了两种室温磁性半导体候选材料",
+          "title_zh": "Opus 5.5的研究人员发现了两种室温磁性半导体候选材料",
+          "title_en": null,
+          "title_original": "Opus 5.5的研究人员发现了两种室温磁性半导体候选材料",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
+          "source": "www.vals.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-05T22:12:05.081000Z"
+        },
+        {
+          "id": "c0407e92a3d6ccaf35a78647a157f61f833b3f23",
+          "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+          "title_zh": null,
+          "title_en": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+          "title_original": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49970667",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-05T21:00:21Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.6975,
+      "importance": 0.6975,
+      "importance_score": 0.6975,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.5976,
+        "source_tier": 0.58,
+        "ai_relevance": 0.83,
+        "recency": 0.9701,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-05T21:00:21Z",
+      "latest_at": "2026-10-05T22:12:05.081000Z",
+      "primary_item": {
+        "id": "fecc64451b149c1b5c2adf44550790181f432626",
+        "title": "Opus 5.5的研究人员发现了两种室温磁性半导体候选材料 / Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+        "title_zh": "Opus 5.5的研究人员发现了两种室温磁性半导体候选材料",
+        "title_en": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+        "title_original": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
+        "source": "Hacker News front page",
+        "source_name": "Curated Media"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-05T23:21:50.607803Z"
       }
     },
     {
@@ -466,15 +799,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6746,
-      "importance": 0.6746,
-      "importance_score": 0.6746,
+      "score": 0.6662,
+      "importance": 0.6662,
+      "importance_score": 0.6662,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5832,
         "source_tier": 0.58,
         "ai_relevance": 0.81,
-        "recency": 0.889,
+        "recency": 0.8424,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -500,7 +833,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T19:33:03.173060Z"
+        "scored_at": "2026-10-05T23:21:50.607803Z"
       }
     },
     {
@@ -606,15 +939,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6663,
-      "importance": 0.6663,
-      "importance_score": 0.6663,
+      "score": 0.6577,
+      "importance": 0.6577,
+      "importance_score": 0.6577,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5616,
         "source_tier": 0.58,
         "ai_relevance": 0.78,
-        "recency": 0.9125,
+        "recency": 0.8647,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -639,146 +972,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T19:33:03.173060Z"
-      }
-    },
-    {
-      "story_id": "story_f351af2349a9",
-      "title": "Anthropic向警方报案称发现日记条目，一名女子面临重罪指控 / Anthropic reported diary entry to police, woman faces felony charge",
-      "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
-      "primary_url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
-      "source": "Hacker News front page",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "b100c84955ef1d557e12dad2a04cd21f41623feb",
-          "title": "Anthropic向警方报案称发现日记条目，一名女子面临重罪指控 / Anthropic reported diary entry to police, woman faces felony charge",
-          "title_zh": "Anthropic向警方报案称发现日记条目，一名女子面临重罪指控",
-          "title_en": "Anthropic reported diary entry to police, woman faces felony charge",
-          "title_original": "Anthropic reported diary entry to police, woman faces felony charge",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
-          "source": "Hacker News front page",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-05T05:37:40Z"
-        },
-        {
-          "id": "2a664ca57a6c127500df16b03bdde45f21880b08",
-          "title": "Anthropic向警方报案称发现日记条目，一名女子面临重罪指控",
-          "title_zh": "Anthropic向警方报案称发现日记条目，一名女子面临重罪指控",
-          "title_en": null,
-          "title_original": "Anthropic向警方报案称发现日记条目，一名女子面临重罪指控",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
-          "source": "www.techspot.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-05T17:00:08.955000Z"
-        },
-        {
-          "id": "98349c6ea43267e114ded8e9b87049f68c14c21b",
-          "title": "Anthropic向警方报案称发现日记条目，一名女子面临重罪指控 / Florida woman used Claude as a diary, then Anthropic reported an entry to police",
-          "title_zh": "Anthropic向警方报案称发现日记条目，一名女子面临重罪指控",
-          "title_en": "Florida woman used Claude as a diary, then Anthropic reported an entry to police",
-          "title_original": "Florida woman used Claude as a diary, then Anthropic reported an entry to police",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-10-04T21:29:59Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "HN Algolia · AI 24h",
-        "Hacker News front page",
-        "www.techspot.com"
-      ],
-      "items": [
-        {
-          "id": "b100c84955ef1d557e12dad2a04cd21f41623feb",
-          "title": "Anthropic向警方报案称发现日记条目，一名女子面临重罪指控 / Anthropic reported diary entry to police, woman faces felony charge",
-          "title_zh": "Anthropic向警方报案称发现日记条目，一名女子面临重罪指控",
-          "title_en": "Anthropic reported diary entry to police, woman faces felony charge",
-          "title_original": "Anthropic reported diary entry to police, woman faces felony charge",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
-          "source": "Hacker News front page",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-05T05:37:40Z"
-        },
-        {
-          "id": "2a664ca57a6c127500df16b03bdde45f21880b08",
-          "title": "Anthropic向警方报案称发现日记条目，一名女子面临重罪指控",
-          "title_zh": "Anthropic向警方报案称发现日记条目，一名女子面临重罪指控",
-          "title_en": null,
-          "title_original": "Anthropic向警方报案称发现日记条目，一名女子面临重罪指控",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
-          "source": "www.techspot.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-05T17:00:08.955000Z"
-        },
-        {
-          "id": "98349c6ea43267e114ded8e9b87049f68c14c21b",
-          "title": "Anthropic向警方报案称发现日记条目，一名女子面临重罪指控 / Florida woman used Claude as a diary, then Anthropic reported an entry to police",
-          "title_zh": "Anthropic向警方报案称发现日记条目，一名女子面临重罪指控",
-          "title_en": "Florida woman used Claude as a diary, then Anthropic reported an entry to police",
-          "title_original": "Florida woman used Claude as a diary, then Anthropic reported an entry to police",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-10-04T21:29:59Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.6497,
-      "importance": 0.6497,
-      "importance_score": 0.6497,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.5616,
-        "source_tier": 0.58,
-        "ai_relevance": 0.78,
-        "recency": 0.8199,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-04T21:29:59Z",
-      "latest_at": "2026-10-05T17:00:08.955000Z",
-      "primary_item": {
-        "id": "b100c84955ef1d557e12dad2a04cd21f41623feb",
-        "title": "Anthropic向警方报案称发现日记条目，一名女子面临重罪指控 / Anthropic reported diary entry to police, woman faces felony charge",
-        "title_zh": "Anthropic向警方报案称发现日记条目，一名女子面临重罪指控",
-        "title_en": "Anthropic reported diary entry to police, woman faces felony charge",
-        "title_original": "Anthropic reported diary entry to police, woman faces felony charge",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
-        "source": "Hacker News front page",
-        "source_name": "Curated Media"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-05T19:33:03.173060Z"
+        "scored_at": "2026-10-05T23:21:50.607803Z"
       }
     },
     {
@@ -855,15 +1049,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5759,
-      "importance": 0.5759,
-      "importance_score": 0.5759,
+      "score": 0.5688,
+      "importance": 0.5688,
+      "importance_score": 0.5688,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5976,
         "source_tier": 0.32,
         "ai_relevance": 0.83,
-        "recency": 0.7512,
+        "recency": 0.7118,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -889,139 +1083,138 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T19:33:03.173060Z"
+        "scored_at": "2026-10-05T23:21:50.607803Z"
       }
     },
     {
-      "story_id": "story_d5c952bf698c",
-      "title": "在 macOS 27 上关闭 Apple Intelligence，并释放其占用的磁盘空间 / Turn off Apple Intelligence on macOS 27 and get its disk space back",
-      "url": "https://github.com/omlahore/RemoveMacAI",
-      "primary_url": "https://github.com/omlahore/RemoveMacAI",
+      "story_id": "story_a0cf0e1c0e34",
+      "title": "Anthropic向警方报案称发现日记条目，一名女子面临重罪指控 / Anthropic reported diary entry to police, woman faces felony charge",
+      "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
+      "primary_url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
       "source": "Hacker News front page",
       "source_name": "Curated Media",
       "sources": [
         {
-          "id": "e994c1124496f3ef6704fd702d7c148a9d16677e",
-          "title": "在 macOS 27 上关闭 Apple Intelligence，并释放其占用的磁盘空间 / Turn off Apple Intelligence on macOS 27 and get its disk space back",
-          "title_zh": "在 macOS 27 上关闭 Apple Intelligence，并释放其占用的磁盘空间",
-          "title_en": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
-          "title_original": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
+          "id": "b100c84955ef1d557e12dad2a04cd21f41623feb",
+          "title": "Anthropic向警方报案称发现日记条目，一名女子面临重罪指控 / Anthropic reported diary entry to police, woman faces felony charge",
+          "title_zh": "Anthropic向警方报案称发现日记条目，一名女子面临重罪指控",
+          "title_en": "Anthropic reported diary entry to police, woman faces felony charge",
+          "title_original": "Anthropic reported diary entry to police, woman faces felony charge",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.com/omlahore/RemoveMacAI",
+          "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
           "source": "Hacker News front page",
           "source_name": "Curated Media",
           "site_id": "curated_media",
-          "published_at": "2026-10-04T19:42:25Z"
+          "published_at": "2026-10-05T05:37:40Z"
         },
         {
-          "id": "12807aa300c38ca32c60b7ac573ebe7e7c165fc7",
-          "title": "在 macOS 27 上关闭 Apple Intelligence，并释放其占用的磁盘空间",
-          "title_zh": "在 macOS 27 上关闭 Apple Intelligence，并释放其占用的磁盘空间",
+          "id": "2a664ca57a6c127500df16b03bdde45f21880b08",
+          "title": "Anthropic向警方报案称发现日记条目，一名女子面临重罪指控",
+          "title_zh": "Anthropic向警方报案称发现日记条目，一名女子面临重罪指控",
           "title_en": null,
-          "title_original": "在 macOS 27 上关闭 Apple Intelligence，并释放其占用的磁盘空间",
+          "title_original": "Anthropic向警方报案称发现日记条目，一名女子面临重罪指控",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.com/omlahore/RemoveMacAI",
-          "source": "github.com",
+          "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
+          "source": "www.techspot.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-10-04T21:17:55.316000Z"
+          "published_at": "2026-10-05T17:00:08.955000Z"
         },
         {
-          "id": "b45dd55aadcf7bbb7bf5707067aa741029c1cfe0",
-          "title": "在 macOS 27 上关闭 Apple Intelligence 并恢复其磁盘空间 / Turn off Apple Intelligence on macOS 27 and get its disk space back",
-          "title_zh": "在 macOS 27 上关闭 Apple Intelligence 并恢复其磁盘空间",
-          "title_en": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
-          "title_original": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
+          "id": "089b77b1224aad2ab4c95eba86c6c0b58b9ca2a6",
+          "title": "人类向警方报告日记条目，女子面临重罪指控 / Anthropic reported diary entry to police, woman faces felony charge",
+          "title_zh": "人类向警方报告日记条目，女子面临重罪指控",
+          "title_en": "Anthropic reported diary entry to police, woman faces felony charge",
+          "title_original": "Anthropic reported diary entry to police, woman faces felony charge",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49957116",
+          "url": "https://news.ycombinator.com/item?id=49961057",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-04T19:42:25Z"
+          "published_at": "2026-10-05T05:37:40Z"
         }
       ],
       "source_count": 3,
       "source_names": [
         "Hacker News front page",
-        "github.com",
-        "hackernews"
+        "hackernews",
+        "www.techspot.com"
       ],
       "items": [
         {
-          "id": "e994c1124496f3ef6704fd702d7c148a9d16677e",
-          "title": "在 macOS 27 上关闭 Apple Intelligence，并释放其占用的磁盘空间 / Turn off Apple Intelligence on macOS 27 and get its disk space back",
-          "title_zh": "在 macOS 27 上关闭 Apple Intelligence，并释放其占用的磁盘空间",
-          "title_en": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
-          "title_original": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
+          "id": "b100c84955ef1d557e12dad2a04cd21f41623feb",
+          "title": "Anthropic向警方报案称发现日记条目，一名女子面临重罪指控 / Anthropic reported diary entry to police, woman faces felony charge",
+          "title_zh": "Anthropic向警方报案称发现日记条目，一名女子面临重罪指控",
+          "title_en": "Anthropic reported diary entry to police, woman faces felony charge",
+          "title_original": "Anthropic reported diary entry to police, woman faces felony charge",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.com/omlahore/RemoveMacAI",
+          "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
           "source": "Hacker News front page",
           "source_name": "Curated Media",
           "site_id": "curated_media",
-          "published_at": "2026-10-04T19:42:25Z"
+          "published_at": "2026-10-05T05:37:40Z"
         },
         {
-          "id": "12807aa300c38ca32c60b7ac573ebe7e7c165fc7",
-          "title": "在 macOS 27 上关闭 Apple Intelligence，并释放其占用的磁盘空间",
-          "title_zh": "在 macOS 27 上关闭 Apple Intelligence，并释放其占用的磁盘空间",
+          "id": "2a664ca57a6c127500df16b03bdde45f21880b08",
+          "title": "Anthropic向警方报案称发现日记条目，一名女子面临重罪指控",
+          "title_zh": "Anthropic向警方报案称发现日记条目，一名女子面临重罪指控",
           "title_en": null,
-          "title_original": "在 macOS 27 上关闭 Apple Intelligence，并释放其占用的磁盘空间",
+          "title_original": "Anthropic向警方报案称发现日记条目，一名女子面临重罪指控",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.com/omlahore/RemoveMacAI",
-          "source": "github.com",
+          "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
+          "source": "www.techspot.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-10-04T21:17:55.316000Z"
+          "published_at": "2026-10-05T17:00:08.955000Z"
         },
         {
-          "id": "b45dd55aadcf7bbb7bf5707067aa741029c1cfe0",
-          "title": "在 macOS 27 上关闭 Apple Intelligence 并恢复其磁盘空间 / Turn off Apple Intelligence on macOS 27 and get its disk space back",
-          "title_zh": "在 macOS 27 上关闭 Apple Intelligence 并恢复其磁盘空间",
-          "title_en": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
-          "title_original": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
+          "id": "089b77b1224aad2ab4c95eba86c6c0b58b9ca2a6",
+          "title": "人类向警方报告日记条目，女子面临重罪指控 / Anthropic reported diary entry to police, woman faces felony charge",
+          "title_zh": "人类向警方报告日记条目，女子面临重罪指控",
+          "title_en": "Anthropic reported diary entry to police, woman faces felony charge",
+          "title_original": "Anthropic reported diary entry to police, woman faces felony charge",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49957116",
+          "url": "https://news.ycombinator.com/item?id=49961057",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-04T19:42:25Z"
+          "published_at": "2026-10-05T05:37:40Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6424,
-      "importance": 0.6424,
-      "importance_score": 0.6424,
+      "score": 0.6419,
+      "importance": 0.6419,
+      "importance_score": 0.6419,
       "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.5832,
+        "editorial": 0.5616,
         "source_tier": 0.58,
-        "ai_relevance": 0.81,
-        "recency": 0.7104,
+        "ai_relevance": 0.78,
+        "recency": 0.7769,
         "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
-        "multi_source",
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-10-04T19:42:25Z",
-      "latest_at": "2026-10-04T21:17:55.316000Z",
+      "earliest_at": "2026-10-05T05:37:40Z",
+      "latest_at": "2026-10-05T17:00:08.955000Z",
       "primary_item": {
-        "id": "e994c1124496f3ef6704fd702d7c148a9d16677e",
-        "title": "在 macOS 27 上关闭 Apple Intelligence，并释放其占用的磁盘空间 / Turn off Apple Intelligence on macOS 27 and get its disk space back",
-        "title_zh": "在 macOS 27 上关闭 Apple Intelligence，并释放其占用的磁盘空间",
-        "title_en": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
-        "title_original": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
+        "id": "b100c84955ef1d557e12dad2a04cd21f41623feb",
+        "title": "Anthropic向警方报案称发现日记条目，一名女子面临重罪指控 / Anthropic reported diary entry to police, woman faces felony charge",
+        "title_zh": "Anthropic向警方报案称发现日记条目，一名女子面临重罪指控",
+        "title_en": "Anthropic reported diary entry to police, woman faces felony charge",
+        "title_original": "Anthropic reported diary entry to police, woman faces felony charge",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.com/omlahore/RemoveMacAI",
+        "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
         "source": "Hacker News front page",
         "source_name": "Curated Media"
       },
@@ -1029,7 +1222,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T19:33:03.173060Z"
+        "scored_at": "2026-10-05T23:21:50.607803Z"
       }
     },
     {
@@ -1106,15 +1299,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.535,
-      "importance": 0.535,
-      "importance_score": 0.535,
+      "score": 0.5262,
+      "importance": 0.5262,
+      "importance_score": 0.5262,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9402,
+        "recency": 0.8909,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1139,116 +1332,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T19:33:03.173060Z"
-      }
-    },
-    {
-      "story_id": "story_d522c5cd6fae",
-      "title": "朝鲜发射中程导弹，称其具备规避飞行和人工智能功能 - Euronews",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbzZyUFBOM0VjOXUwQXF3OEFfRzl5NFNSZ05GWnd4WGhuTDFlUHVkYlZkeFU1WE84NkpITXFlUVRPYWxUdTd5NkQ0RF9LaUhXbEs0bE4wQTNKc2NXYnE4ZW1zZnlnTkpBaV9RaFdCMFlxMGdXUUZhaFd4d1BUdFJrMDhsNUpQeXZfQ252VE1qNnhoZS0zWjhzdnREalNMYVNVV1oxOE5VcFVyMXJzQ21BNi1DbmtrVWhjWldRQw?oc=5&hl=en-CA&gl=CA&ceid=CA%3Aen",
-      "primary_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbzZyUFBOM0VjOXUwQXF3OEFfRzl5NFNSZ05GWnd4WGhuTDFlUHVkYlZkeFU1WE84NkpITXFlUVRPYWxUdTd5NkQ0RF9LaUhXbEs0bE4wQTNKc2NXYnE4ZW1zZnlnTkpBaV9RaFdCMFlxMGdXUUZhaFd4d1BUdFJrMDhsNUpQeXZfQ252VE1qNnhoZS0zWjhzdnREalNMYVNVV1oxOE5VcFVyMXJzQ21BNi1DbmtrVWhjWldRQw?oc=5&hl=en-CA&gl=CA&ceid=CA%3Aen",
-      "source": "news.google.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "c6d521702c64f92ae5c4a66b72b2e361a490b13d",
-          "title": "朝鲜发射中程导弹，称其具备规避飞行和人工智能功能 - Euronews",
-          "title_zh": "朝鲜发射中程导弹，称其具备规避飞行和人工智能功能 - Euronews",
-          "title_en": null,
-          "title_original": "朝鲜发射中程导弹，称其具备规避飞行和人工智能功能 - Euronews",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbzZyUFBOM0VjOXUwQXF3OEFfRzl5NFNSZ05GWnd4WGhuTDFlUHVkYlZkeFU1WE84NkpITXFlUVRPYWxUdTd5NkQ0RF9LaUhXbEs0bE4wQTNKc2NXYnE4ZW1zZnlnTkpBaV9RaFdCMFlxMGdXUUZhaFd4d1BUdFJrMDhsNUpQeXZfQ252VE1qNnhoZS0zWjhzdnREalNMYVNVV1oxOE5VcFVyMXJzQ21BNi1DbmtrVWhjWldRQw?oc=5&hl=en-CA&gl=CA&ceid=CA%3Aen",
-          "source": "news.google.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-05T04:05:55.362000Z"
-        },
-        {
-          "id": "b86d05d8da844c2812b0ea307cd8086bab7554e9",
-          "title": "朝鲜发射中程导弹，称其具备规避飞行和人工智能功能 - Euronews.com",
-          "title_zh": "朝鲜发射中程导弹，称其具备规避飞行和人工智能功能 - Euronews.com",
-          "title_en": null,
-          "title_original": "朝鲜发射中程导弹，称其具备规避飞行和人工智能功能 - Euronews.com",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbzZyUFBOM0VjOXUwQXF3OEFfRzl5NFNSZ05GWnd4WGhuTDFlUHVkYlZkeFU1WE84NkpITXFlUVRPYWxUdTd5NkQ0RF9LaUhXbEs0bE4wQTNKc2NXYnE4ZW1zZnlnTkpBaV9RaFdCMFlxMGdXUUZhaFd4d1BUdFJrMDhsNUpQeXZfQ252VE1qNnhoZS0zWjhzdnREalNMYVNVV1oxOE5VcFVyMXJzQ21BNi1DbmtrVWhjWldRQw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "source": "news.google.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-04T19:58:49.689000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "news.google.com"
-      ],
-      "items": [
-        {
-          "id": "c6d521702c64f92ae5c4a66b72b2e361a490b13d",
-          "title": "朝鲜发射中程导弹，称其具备规避飞行和人工智能功能 - Euronews",
-          "title_zh": "朝鲜发射中程导弹，称其具备规避飞行和人工智能功能 - Euronews",
-          "title_en": null,
-          "title_original": "朝鲜发射中程导弹，称其具备规避飞行和人工智能功能 - Euronews",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbzZyUFBOM0VjOXUwQXF3OEFfRzl5NFNSZ05GWnd4WGhuTDFlUHVkYlZkeFU1WE84NkpITXFlUVRPYWxUdTd5NkQ0RF9LaUhXbEs0bE4wQTNKc2NXYnE4ZW1zZnlnTkpBaV9RaFdCMFlxMGdXUUZhaFd4d1BUdFJrMDhsNUpQeXZfQ252VE1qNnhoZS0zWjhzdnREalNMYVNVV1oxOE5VcFVyMXJzQ21BNi1DbmtrVWhjWldRQw?oc=5&hl=en-CA&gl=CA&ceid=CA%3Aen",
-          "source": "news.google.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-05T04:05:55.362000Z"
-        },
-        {
-          "id": "b86d05d8da844c2812b0ea307cd8086bab7554e9",
-          "title": "朝鲜发射中程导弹，称其具备规避飞行和人工智能功能 - Euronews.com",
-          "title_zh": "朝鲜发射中程导弹，称其具备规避飞行和人工智能功能 - Euronews.com",
-          "title_en": null,
-          "title_original": "朝鲜发射中程导弹，称其具备规避飞行和人工智能功能 - Euronews.com",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbzZyUFBOM0VjOXUwQXF3OEFfRzl5NFNSZ05GWnd4WGhuTDFlUHVkYlZkeFU1WE84NkpITXFlUVRPYWxUdTd5NkQ0RF9LaUhXbEs0bE4wQTNKc2NXYnE4ZW1zZnlnTkpBaV9RaFdCMFlxMGdXUUZhaFd4d1BUdFJrMDhsNUpQeXZfQ252VE1qNnhoZS0zWjhzdnREalNMYVNVV1oxOE5VcFVyMXJzQ21BNi1DbmtrVWhjWldRQw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "source": "news.google.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-04T19:58:49.689000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.531,
-      "importance": 0.531,
-      "importance_score": 0.531,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.504,
-        "source_tier": 0.32,
-        "ai_relevance": 0.7,
-        "recency": 0.802,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-04T19:58:49.689000Z",
-      "latest_at": "2026-10-05T04:05:55.362000Z",
-      "primary_item": {
-        "id": "c6d521702c64f92ae5c4a66b72b2e361a490b13d",
-        "title": "朝鲜发射中程导弹，称其具备规避飞行和人工智能功能 - Euronews",
-        "title_zh": "朝鲜发射中程导弹，称其具备规避飞行和人工智能功能 - Euronews",
-        "title_en": null,
-        "title_original": "朝鲜发射中程导弹，称其具备规避飞行和人工智能功能 - Euronews",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbzZyUFBOM0VjOXUwQXF3OEFfRzl5NFNSZ05GWnd4WGhuTDFlUHVkYlZkeFU1WE84NkpITXFlUVRPYWxUdTd5NkQ0RF9LaUhXbEs0bE4wQTNKc2NXYnE4ZW1zZnlnTkpBaV9RaFdCMFlxMGdXUUZhaFd4d1BUdFJrMDhsNUpQeXZfQ252VE1qNnhoZS0zWjhzdnREalNMYVNVV1oxOE5VcFVyMXJzQ21BNi1DbmtrVWhjWldRQw?oc=5&hl=en-CA&gl=CA&ceid=CA%3Aen",
-        "source": "news.google.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-05T19:33:03.173060Z"
+        "scored_at": "2026-10-05T23:21:50.607803Z"
       }
     },
     {
@@ -1325,15 +1409,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.582,
-      "importance": 0.582,
-      "importance_score": 0.582,
+      "score": 0.5737,
+      "importance": 0.5737,
+      "importance_score": 0.5737,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.58,
         "ai_relevance": 0.65,
-        "recency": 0.8833,
+        "recency": 0.8369,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1358,7 +1442,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T19:33:03.173060Z"
+        "scored_at": "2026-10-05T23:21:50.607803Z"
       }
     }
   ]
