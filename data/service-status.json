@@ -1,16 +1,30 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-04T23:31:50.573943Z",
+  "generated_at": "2026-10-05T09:33:39.830554Z",
   "ok": true,
-  "active_count": 0,
+  "active_count": 1,
   "providers": [
     {
       "id": "openai",
       "name": "OpenAI",
       "status_url": "https://status.openai.com/",
       "ok": true,
-      "active_count": 0
+      "active_count": 1
     }
   ],
-  "incidents": []
+  "incidents": [
+    {
+      "id": "01M45E0JFFJZ6EQ3BWYPW74R2Z",
+      "provider": "OpenAI",
+      "title": "Elevated Work Mode errors",
+      "title_zh": "Elevated Work Mode errors",
+      "status": "investigating",
+      "impact": "minor",
+      "started_at": "2026-10-05T07:03:53Z",
+      "updated_at": "2026-10-05T07:14:08Z",
+      "message": "We are continuing to observe elevated Work Mode errors. Scheduled tasks may also be impacted.",
+      "affected_components": [],
+      "url": "https://status.openai.com/incidents/01M45E0JFFJZ6EQ3BWYPW74R2Z"
+    }
+  ]
 }
