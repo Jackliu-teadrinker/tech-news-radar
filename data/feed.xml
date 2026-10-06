@@ -5,8 +5,16 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Tue, 06 Oct 2026 01:23:56 +0000</lastBuildDate>
+<lastBuildDate>Tue, 06 Oct 2026 09:19:40 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
+<item>
+<title>猎鹰阿联酋：当LLM学习方言、文化和细微差别时 / Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance</title>
+<link>https://huggingface.co/blog/tiiuae/falcon-emirati</link>
+<guid isPermaLink="true">https://huggingface.co/blog/tiiuae/falcon-emirati</guid>
+<description>Hugging Face Blog</description>
+<category>官方更新</category>
+<pubDate>Tue, 06 Oct 2026 06:44:39 +0000</pubDate>
+</item>
 <item>
 <title>OpenAI 公布 EU AI Act 下的文本溯源方案，推出 textGrain 文本水印 / Our approach to EU text provenance rules</title>
 <link>https://openai.com/index/eu-text-provenance</link>
@@ -16,7 +24,7 @@
 <pubDate>Mon, 05 Oct 2026 15:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Secret scanning adds detectors for Lovable, Supabase, and more</title>
+<title>秘密扫描添加了 Lovable、Supabase 等探测器 / Secret scanning adds detectors for Lovable, Supabase, and more</title>
 <link>https://github.blog/changelog/2026-10-05-secret-scanning-adds-detectors-for-lovable-supabase-and-more</link>
 <guid isPermaLink="true">https://github.blog/changelog/2026-10-05-secret-scanning-adds-detectors-for-lovable-supabase-and-more</guid>
 <description>GitHub Changelog</description>
@@ -48,20 +56,28 @@
 <pubDate>Mon, 05 Oct 2026 15:59:40 +0000</pubDate>
 </item>
 <item>
+<title>消息称 DeepSeek 接近完成至少 800 亿元融资，腾讯、宁德时代重金参与</title>
+<link>https://www.ithome.com/1/009/990.htm</link>
+<guid isPermaLink="true">https://www.ithome.com/1/009/990.htm</guid>
+<description>据彭博社报道，DeepSeek 新一轮融资接近敲定，规模至少 800 亿元，超出原定约 500 亿元目标，最终总额可能逼近 1000 亿元，腾讯和宁德时代是出资规模最大的投资方之一。（IT之家（RSS））</description>
+<category>行业动态</category>
+<pubDate>Tue, 06 Oct 2026 06:25:15 +0000</pubDate>
+</item>
+<item>
+<title>Anthropic 5180亿美元计算力支出中约4137亿美元无论使用与否都需支付 / About 80% of Anthropic's $518B compute plan is owed even if the capacity sits idle.</title>
+<link>https://x.com/rohanpaul_ai/status/2107346890648076595</link>
+<guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2107346890648076595</guid>
+<description>Anthropic 计划未来数年在云计算和计算力上支出 5180 亿美元，其中约 4137 亿美元为不可撤销承诺，即使容量闲置也需支付，平均每年约 410 亿美元。（X：Rohan Paul (@rohanpaul_ai)）</description>
+<category>行业动态</category>
+<pubDate>Tue, 06 Oct 2026 05:47:05 +0000</pubDate>
+</item>
+<item>
 <title>SemiAnalysis 测算：Anthropic 订阅的 API 等价价值约为 OpenAI 的 5 倍以上 / Anthropic Subscriptions Offer 5x+ More Value Than OpenAI</title>
 <link>https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x</link>
 <guid isPermaLink="true">https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x</guid>
 <description>SemiAnalysis 通过逐项测量用量表变化，估算各订阅计划的 API 等价价值，结论是在中端模型档位 Anthropic 订阅的价值约为 OpenAI 的 5 倍。（SemiAnalysis 长文 RSS（RSS））</description>
 <category>行业动态</category>
 <pubDate>Mon, 05 Oct 2026 20:01:09 +0000</pubDate>
-</item>
-<item>
-<title>Anthropic Cowork 改为云端运行模型推理与 VM / Quoting Felix Rieseberg</title>
-<link>https://simonwillison.net/2026/Oct/5/felix-rieseberg</link>
-<guid isPermaLink="true">https://simonwillison.net/2026/Oct/5/felix-rieseberg</guid>
-<description>Anthropic 工程师 Felix Rieseberg 说明 Cowork 的新旧架构差异：旧版在云端推理、在用户电脑上运行本地 VM，磁盘、电池和性能开销大，合上笔记本工作就停止。新版把模型推理和 VM 都移到云端，每个会话有独立沙盒，桌面应用只负责文件访问等需要本机设备的工具调用，官方认为这解决了手机使用、保持工作运行和电池消耗等问题。（Simon Willison 博客）</description>
-<category>行业动态</category>
-<pubDate>Mon, 05 Oct 2026 23:56:47 +0000</pubDate>
 </item>
 <item>
 <title>Opus 5.5的研究人员发现了两种室温磁性半导体候选材料 / Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates</title>
@@ -72,7 +88,7 @@
 <pubDate>Mon, 05 Oct 2026 22:12:05 +0000</pubDate>
 </item>
 <item>
-<title>Gemini Call for Me might tell your mom you&amp;#8217;re running late</title>
+<title>Gemini打电话给我可能会告诉你妈妈你迟到了 / Gemini Call for Me might tell your mom you&amp;#8217;re running late</title>
 <link>https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors</link>
 <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors</guid>
 <description>The Verge</description>
@@ -110,14 +126,6 @@
 <description>Hacker News · 24h最热</description>
 <category>值得关注</category>
 <pubDate>Mon, 05 Oct 2026 15:06:27 +0000</pubDate>
-</item>
-<item>
-<title>Anthropic向警方报案称发现日记条目，一名女子面临重罪指控 / Anthropic reported diary entry to police, woman faces felony charge</title>
-<link>https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html</link>
-<guid isPermaLink="true">https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html</guid>
-<description>Hacker News front page</description>
-<category>多源热议</category>
-<pubDate>Mon, 05 Oct 2026 17:00:08 +0000</pubDate>
 </item>
 <item>
 <title>网络搜索 API / Web Search API</title>
