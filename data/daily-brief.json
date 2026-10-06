@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T20:08:29.934859Z",
+  "generated_at": "2026-10-06T22:45:33.000071Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8556,
-      "importance": 0.8556,
-      "importance_score": 0.8556,
+      "score": 0.8493,
+      "importance": 0.8493,
+      "importance_score": 0.8493,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.9419,
+        "recency": 0.907,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,119 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T20:22:41.032694Z"
+        "scored_at": "2026-10-06T23:03:21.103853Z"
+      }
+    },
+    {
+      "story_id": "story_5a6253e4a154",
+      "title": "Google DeepMind 发布开源轻量多模态嵌入模型 EmbeddingGemma 2 / EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+      "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model",
+      "primary_url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model",
+      "source": "Google DeepMind",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "1c38c2104dab1c15d85e04f1a3bde29427bf6695",
+          "title": "Google DeepMind 发布开源轻量多模态嵌入模型 EmbeddingGemma 2 / EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+          "title_zh": "Google DeepMind 发布开源轻量多模态嵌入模型 EmbeddingGemma 2",
+          "title_en": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+          "title_original": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-06T19:57:04Z"
+        },
+        {
+          "id": "3b466365d4a1c1badd7f9007da63e3351857bcb8",
+          "title": "EmbeddingGemma 2: An open, lightweight multimodal embedding model",
+          "title_zh": null,
+          "title_en": "EmbeddingGemma 2: An open, lightweight multimodal embedding model",
+          "title_original": "EmbeddingGemma 2: An open, lightweight multimodal embedding model",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2",
+          "source": "Hacker News front page",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-06T16:03:49Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Google DeepMind",
+        "Hacker News front page"
+      ],
+      "items": [
+        {
+          "id": "1c38c2104dab1c15d85e04f1a3bde29427bf6695",
+          "title": "Google DeepMind 发布开源轻量多模态嵌入模型 EmbeddingGemma 2 / EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+          "title_zh": "Google DeepMind 发布开源轻量多模态嵌入模型 EmbeddingGemma 2",
+          "title_en": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+          "title_original": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-06T19:57:04Z"
+        },
+        {
+          "id": "3b466365d4a1c1badd7f9007da63e3351857bcb8",
+          "title": "EmbeddingGemma 2: An open, lightweight multimodal embedding model",
+          "title_zh": null,
+          "title_en": "EmbeddingGemma 2: An open, lightweight multimodal embedding model",
+          "title_original": "EmbeddingGemma 2: An open, lightweight multimodal embedding model",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2",
+          "source": "Hacker News front page",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-06T16:03:49Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8398,
+      "importance": 0.8398,
+      "importance_score": 0.8398,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.76,
+        "recency": 0.9603,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-06T16:03:49Z",
+      "latest_at": "2026-10-06T19:57:04Z",
+      "primary_item": {
+        "id": "1c38c2104dab1c15d85e04f1a3bde29427bf6695",
+        "title": "Google DeepMind 发布开源轻量多模态嵌入模型 EmbeddingGemma 2 / EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+        "title_zh": "Google DeepMind 发布开源轻量多模态嵌入模型 EmbeddingGemma 2",
+        "title_en": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+        "title_original": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model",
+        "source": "Google DeepMind",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-06T23:03:21.103853Z"
       }
     },
     {
@@ -131,15 +243,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8383,
-      "importance": 0.8383,
-      "importance_score": 0.8383,
+      "score": 0.8328,
+      "importance": 0.8328,
+      "importance_score": 0.8328,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8241,
+        "recency": 0.7935,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,7 +278,172 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T20:22:41.032694Z"
+        "scored_at": "2026-10-06T23:03:21.103853Z"
+      }
+    },
+    {
+      "story_id": "story_11f226560af5",
+      "title": "Sharing AI progress in mathematics",
+      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+      "primary_url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "d5265641b5ae86813b271a1107948f3fc033e728",
+          "title": "Sharing AI progress in mathematics",
+          "title_zh": null,
+          "title_en": "Sharing AI progress in mathematics",
+          "title_original": "Sharing AI progress in mathematics",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-06T12:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "d5265641b5ae86813b271a1107948f3fc033e728",
+          "title": "Sharing AI progress in mathematics",
+          "title_zh": null,
+          "title_en": "Sharing AI progress in mathematics",
+          "title_original": "Sharing AI progress in mathematics",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-06T12:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8401,
+      "importance": 0.8401,
+      "importance_score": 0.8401,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.8561,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-06T12:00:00Z",
+      "latest_at": "2026-10-06T12:00:00Z",
+      "primary_item": {
+        "id": "d5265641b5ae86813b271a1107948f3fc033e728",
+        "title": "Sharing AI progress in mathematics",
+        "title_zh": null,
+        "title_en": "Sharing AI progress in mathematics",
+        "title_original": "Sharing AI progress in mathematics",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-06T23:03:21.103853Z"
+      }
+    },
+    {
+      "story_id": "story_79247d86835a",
+      "title": "Stacked pull requests generally available",
+      "url": "https://github.blog/changelog/2026-10-06-stacked-pull-requests-generally-available",
+      "primary_url": "https://github.blog/changelog/2026-10-06-stacked-pull-requests-generally-available",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "8453041ce376fb2b8202aa6e7429885dd4cb5e4c",
+          "title": "Stacked pull requests generally available",
+          "title_zh": null,
+          "title_en": "Stacked pull requests generally available",
+          "title_original": "Stacked pull requests generally available",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-06-stacked-pull-requests-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-06T20:16:41Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "8453041ce376fb2b8202aa6e7429885dd4cb5e4c",
+          "title": "Stacked pull requests generally available",
+          "title_zh": null,
+          "title_en": "Stacked pull requests generally available",
+          "title_original": "Stacked pull requests generally available",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-06-stacked-pull-requests-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-06T20:16:41Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8097,
+      "importance": 0.8097,
+      "importance_score": 0.8097,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.73,
+        "recency": 0.9648,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-06T20:16:41Z",
+      "latest_at": "2026-10-06T20:16:41Z",
+      "primary_item": {
+        "id": "8453041ce376fb2b8202aa6e7429885dd4cb5e4c",
+        "title": "Stacked pull requests generally available",
+        "title_zh": null,
+        "title_en": "Stacked pull requests generally available",
+        "title_original": "Stacked pull requests generally available",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-10-06-stacked-pull-requests-generally-available",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-06T23:03:21.103853Z"
       }
     },
     {
@@ -214,15 +491,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8415,
-      "importance": 0.8415,
-      "importance_score": 0.8415,
+      "score": 0.8357,
+      "importance": 0.8357,
+      "importance_score": 0.8357,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.8638,
+        "recency": 0.8317,
         "story_heat": 0.0
       },
       "category": "official",
@@ -249,89 +526,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T20:22:41.032694Z"
-      }
-    },
-    {
-      "story_id": "story_ae3c4f5c0420",
-      "title": "安全概览中的代码扫描 AI Scan 启用状态 / Code scanning AI Scan enablement status in security overview",
-      "url": "https://github.blog/changelog/2026-10-06-code-scanning-ai-scan-enablement-status-in-security-overview",
-      "primary_url": "https://github.blog/changelog/2026-10-06-code-scanning-ai-scan-enablement-status-in-security-overview",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "c8e4300aea8b0cb54166d991296e299188b4aa01",
-          "title": "安全概览中的代码扫描 AI Scan 启用状态 / Code scanning AI Scan enablement status in security overview",
-          "title_zh": "安全概览中的代码扫描 AI Scan 启用状态",
-          "title_en": "Code scanning AI Scan enablement status in security overview",
-          "title_original": "Code scanning AI Scan enablement status in security overview",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-06-code-scanning-ai-scan-enablement-status-in-security-overview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-06T10:23:38Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "c8e4300aea8b0cb54166d991296e299188b4aa01",
-          "title": "安全概览中的代码扫描 AI Scan 启用状态 / Code scanning AI Scan enablement status in security overview",
-          "title_zh": "安全概览中的代码扫描 AI Scan 启用状态",
-          "title_en": "Code scanning AI Scan enablement status in security overview",
-          "title_original": "Code scanning AI Scan enablement status in security overview",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-06-code-scanning-ai-scan-enablement-status-in-security-overview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-06T10:23:38Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7924,
-      "importance": 0.7924,
-      "importance_score": 0.7924,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.73,
-        "recency": 0.8687,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-06T10:23:38Z",
-      "latest_at": "2026-10-06T10:23:38Z",
-      "primary_item": {
-        "id": "c8e4300aea8b0cb54166d991296e299188b4aa01",
-        "title": "安全概览中的代码扫描 AI Scan 启用状态 / Code scanning AI Scan enablement status in security overview",
-        "title_zh": "安全概览中的代码扫描 AI Scan 启用状态",
-        "title_en": "Code scanning AI Scan enablement status in security overview",
-        "title_original": "Code scanning AI Scan enablement status in security overview",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-06-code-scanning-ai-scan-enablement-status-in-security-overview",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-06T20:22:41.032694Z"
+        "scored_at": "2026-10-06T23:03:21.103853Z"
       }
     },
     {
@@ -379,15 +574,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7809,
-      "importance": 0.7809,
-      "importance_score": 0.7809,
+      "score": 0.7745,
+      "importance": 0.7745,
+      "importance_score": 0.7745,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.9631,
+        "recency": 0.9273,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -413,7 +608,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T20:22:41.032694Z"
+        "scored_at": "2026-10-06T23:03:21.103853Z"
       }
     },
     {
@@ -461,15 +656,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7617,
+      "importance": 0.7617,
+      "importance_score": 0.7617,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.8891,
+        "recency": 0.8561,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -495,7 +690,171 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T20:22:41.032694Z"
+        "scored_at": "2026-10-06T23:03:21.103853Z"
+      }
+    },
+    {
+      "story_id": "story_ae3c4f5c0420",
+      "title": "安全概览中的代码扫描 AI Scan 启用状态 / Code scanning AI Scan enablement status in security overview",
+      "url": "https://github.blog/changelog/2026-10-06-code-scanning-ai-scan-enablement-status-in-security-overview",
+      "primary_url": "https://github.blog/changelog/2026-10-06-code-scanning-ai-scan-enablement-status-in-security-overview",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "c8e4300aea8b0cb54166d991296e299188b4aa01",
+          "title": "安全概览中的代码扫描 AI Scan 启用状态 / Code scanning AI Scan enablement status in security overview",
+          "title_zh": "安全概览中的代码扫描 AI Scan 启用状态",
+          "title_en": "Code scanning AI Scan enablement status in security overview",
+          "title_original": "Code scanning AI Scan enablement status in security overview",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-06-code-scanning-ai-scan-enablement-status-in-security-overview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-06T10:23:38Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "c8e4300aea8b0cb54166d991296e299188b4aa01",
+          "title": "安全概览中的代码扫描 AI Scan 启用状态 / Code scanning AI Scan enablement status in security overview",
+          "title_zh": "安全概览中的代码扫描 AI Scan 启用状态",
+          "title_en": "Code scanning AI Scan enablement status in security overview",
+          "title_original": "Code scanning AI Scan enablement status in security overview",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-06-code-scanning-ai-scan-enablement-status-in-security-overview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-06T10:23:38Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7866,
+      "importance": 0.7866,
+      "importance_score": 0.7866,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.73,
+        "recency": 0.8365,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-06T10:23:38Z",
+      "latest_at": "2026-10-06T10:23:38Z",
+      "primary_item": {
+        "id": "c8e4300aea8b0cb54166d991296e299188b4aa01",
+        "title": "安全概览中的代码扫描 AI Scan 启用状态 / Code scanning AI Scan enablement status in security overview",
+        "title_zh": "安全概览中的代码扫描 AI Scan 启用状态",
+        "title_en": "Code scanning AI Scan enablement status in security overview",
+        "title_original": "Code scanning AI Scan enablement status in security overview",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-10-06-code-scanning-ai-scan-enablement-status-in-security-overview",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-06T23:03:21.103853Z"
+      }
+    },
+    {
+      "story_id": "story_f31deb680964",
+      "title": "OpenAI 发布内部前沿模型产出的新数学成果 / We’re releasing a broad range of new mathematical results produced by an internal frontier model.",
+      "url": "https://x.com/OpenAI/status/2107596713791767021",
+      "primary_url": "https://x.com/OpenAI/status/2107596713791767021",
+      "source": "X：OpenAI (@OpenAI)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "2ac8a1f7ce18cb78717ec73f79fb3c5003426f51",
+          "title": "OpenAI 发布内部前沿模型产出的新数学成果 / We’re releasing a broad range of new mathematical results produced by an internal frontier model.",
+          "title_zh": "OpenAI 发布内部前沿模型产出的新数学成果",
+          "title_en": "We’re releasing a broad range of new mathematical results produced by an internal frontier model.",
+          "title_original": "We’re releasing a broad range of new mathematical results produced by an internal frontier model.",
+          "summary": "OpenAI 发布由内部前沿模型产出的一批新数学结果，链接为 https://github.com/openai/math。发布前咨询了普林斯顿高等研究院（IAS）数学与人工智能独立顾问组，并依据其建议和公开建议决定发布方式。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/OpenAI/status/2107596713791767021",
+          "source": "X：OpenAI (@OpenAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-06T22:19:48Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：OpenAI (@OpenAI)"
+      ],
+      "items": [
+        {
+          "id": "2ac8a1f7ce18cb78717ec73f79fb3c5003426f51",
+          "title": "OpenAI 发布内部前沿模型产出的新数学成果 / We’re releasing a broad range of new mathematical results produced by an internal frontier model.",
+          "title_zh": "OpenAI 发布内部前沿模型产出的新数学成果",
+          "title_en": "We’re releasing a broad range of new mathematical results produced by an internal frontier model.",
+          "title_original": "We’re releasing a broad range of new mathematical results produced by an internal frontier model.",
+          "summary": "OpenAI 发布由内部前沿模型产出的一批新数学结果，链接为 https://github.com/openai/math。发布前咨询了普林斯顿高等研究院（IAS）数学与人工智能独立顾问组，并依据其建议和公开建议决定发布方式。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/OpenAI/status/2107596713791767021",
+          "source": "X：OpenAI (@OpenAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-06T22:19:48Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7565,
+      "importance": 0.7565,
+      "importance_score": 0.7565,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 0.95,
+        "recency": 0.9938,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-06T22:19:48Z",
+      "latest_at": "2026-10-06T22:19:48Z",
+      "primary_item": {
+        "id": "2ac8a1f7ce18cb78717ec73f79fb3c5003426f51",
+        "title": "OpenAI 发布内部前沿模型产出的新数学成果 / We’re releasing a broad range of new mathematical results produced by an internal frontier model.",
+        "title_zh": "OpenAI 发布内部前沿模型产出的新数学成果",
+        "title_en": "We’re releasing a broad range of new mathematical results produced by an internal frontier model.",
+        "title_original": "We’re releasing a broad range of new mathematical results produced by an internal frontier model.",
+        "summary": "OpenAI 发布由内部前沿模型产出的一批新数学结果，链接为 https://github.com/openai/math。发布前咨询了普林斯顿高等研究院（IAS）数学与人工智能独立顾问组，并依据其建议和公开建议决定发布方式。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/OpenAI/status/2107596713791767021",
+        "source": "X：OpenAI (@OpenAI)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-06T23:03:21.103853Z"
       }
     },
     {
@@ -543,15 +902,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7492,
-      "importance": 0.7492,
-      "importance_score": 0.7492,
+      "score": 0.7438,
+      "importance": 0.7438,
+      "importance_score": 0.7438,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.8203,
+        "recency": 0.7898,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -576,7 +935,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T20:22:41.032694Z"
+        "scored_at": "2026-10-06T23:03:21.103853Z"
       }
     },
     {
@@ -624,15 +983,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7437,
-      "importance": 0.7437,
-      "importance_score": 0.7437,
+      "score": 0.7373,
+      "importance": 0.7373,
+      "importance_score": 0.7373,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.9562,
+        "recency": 0.9208,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -657,7 +1016,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T20:22:41.032694Z"
+        "scored_at": "2026-10-06T23:03:21.103853Z"
       }
     },
     {
@@ -705,15 +1064,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7389,
-      "importance": 0.7389,
-      "importance_score": 0.7389,
+      "score": 0.7335,
+      "importance": 0.7335,
+      "importance_score": 0.7335,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.8128,
+        "recency": 0.7826,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -738,89 +1097,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T20:22:41.032694Z"
-      }
-    },
-    {
-      "story_id": "story_45464a737294",
-      "title": "秘密扫描添加了 Lovable、Supabase 等探测器 / Secret scanning adds detectors for Lovable, Supabase, and more",
-      "url": "https://github.blog/changelog/2026-10-05-secret-scanning-adds-detectors-for-lovable-supabase-and-more",
-      "primary_url": "https://github.blog/changelog/2026-10-05-secret-scanning-adds-detectors-for-lovable-supabase-and-more",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "63b1b612bfba39b214b5ffc13153f4dbf893d546",
-          "title": "秘密扫描添加了 Lovable、Supabase 等探测器 / Secret scanning adds detectors for Lovable, Supabase, and more",
-          "title_zh": "秘密扫描添加了 Lovable、Supabase 等探测器",
-          "title_en": "Secret scanning adds detectors for Lovable, Supabase, and more",
-          "title_original": "Secret scanning adds detectors for Lovable, Supabase, and more",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-05-secret-scanning-adds-detectors-for-lovable-supabase-and-more",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-05T22:42:14Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "63b1b612bfba39b214b5ffc13153f4dbf893d546",
-          "title": "秘密扫描添加了 Lovable、Supabase 等探测器 / Secret scanning adds detectors for Lovable, Supabase, and more",
-          "title_zh": "秘密扫描添加了 Lovable、Supabase 等探测器",
-          "title_en": "Secret scanning adds detectors for Lovable, Supabase, and more",
-          "title_original": "Secret scanning adds detectors for Lovable, Supabase, and more",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-05-secret-scanning-adds-detectors-for-lovable-supabase-and-more",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-05T22:42:14Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7681,
-      "importance": 0.7681,
-      "importance_score": 0.7681,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.73,
-        "recency": 0.7338,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-05T22:42:14Z",
-      "latest_at": "2026-10-05T22:42:14Z",
-      "primary_item": {
-        "id": "63b1b612bfba39b214b5ffc13153f4dbf893d546",
-        "title": "秘密扫描添加了 Lovable、Supabase 等探测器 / Secret scanning adds detectors for Lovable, Supabase, and more",
-        "title_zh": "秘密扫描添加了 Lovable、Supabase 等探测器",
-        "title_en": "Secret scanning adds detectors for Lovable, Supabase, and more",
-        "title_original": "Secret scanning adds detectors for Lovable, Supabase, and more",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-05-secret-scanning-adds-detectors-for-lovable-supabase-and-more",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-06T20:22:41.032694Z"
+        "scored_at": "2026-10-06T23:03:21.103853Z"
       }
     },
     {
@@ -868,15 +1145,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7305,
-      "importance": 0.7305,
-      "importance_score": 0.7305,
+      "score": 0.7243,
+      "importance": 0.7243,
+      "importance_score": 0.7243,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.933,
+        "recency": 0.8984,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -901,7 +1178,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T20:22:41.032694Z"
+        "scored_at": "2026-10-06T23:03:21.103853Z"
+      }
+    },
+    {
+      "story_id": "story_3b79fbfc648a",
+      "title": "ChatGPT 推出 Meetings 插件，可自动记会议纪要并跟进待办",
+      "url": "https://x.com/thsottiaux/status/2107573405553938664",
+      "primary_url": "https://x.com/thsottiaux/status/2107573405553938664",
+      "source": "X：Tibo (@thsottiaux)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "34f5a2c579a2aeddf9076bb44a4228bb413a056d",
+          "title": "ChatGPT 推出 Meetings 插件，可自动记会议纪要并跟进待办",
+          "title_zh": "ChatGPT 推出 Meetings 插件，可自动记会议纪要并跟进待办",
+          "title_en": null,
+          "title_original": "ChatGPT 推出 Meetings 插件，可自动记会议纪要并跟进待办",
+          "summary": "ChatGPT 发布 Meetings 插件，可替用户记会议笔记，并基于 ChatGPT 对用户和既往工作的了解，在 ChatGPT Space 保存个性化摘要和后续步骤。笔记可私密保存或与团队共享，还能让 ChatGPT 更新项目计划或起草跟进内容。目前以 beta 形式面向 Pro 和 Business 用户开放，可在 macOS 桌面应用的插件目录搜索 Meetings 使用，Enterprise 版即将推出。作者 Tibo 补充称，可放心畅谈并将积累的上下文载入 codex 来完成任务。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/thsottiaux/status/2107573405553938664",
+          "source": "X：Tibo (@thsottiaux)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-06T20:47:11Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Tibo (@thsottiaux)"
+      ],
+      "items": [
+        {
+          "id": "34f5a2c579a2aeddf9076bb44a4228bb413a056d",
+          "title": "ChatGPT 推出 Meetings 插件，可自动记会议纪要并跟进待办",
+          "title_zh": "ChatGPT 推出 Meetings 插件，可自动记会议纪要并跟进待办",
+          "title_en": null,
+          "title_original": "ChatGPT 推出 Meetings 插件，可自动记会议纪要并跟进待办",
+          "summary": "ChatGPT 发布 Meetings 插件，可替用户记会议笔记，并基于 ChatGPT 对用户和既往工作的了解，在 ChatGPT Space 保存个性化摘要和后续步骤。笔记可私密保存或与团队共享，还能让 ChatGPT 更新项目计划或起草跟进内容。目前以 beta 形式面向 Pro 和 Business 用户开放，可在 macOS 桌面应用的插件目录搜索 Meetings 使用，Enterprise 版即将推出。作者 Tibo 补充称，可放心畅谈并将积累的上下文载入 codex 来完成任务。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/thsottiaux/status/2107573405553938664",
+          "source": "X：Tibo (@thsottiaux)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-06T20:47:11Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7225,
+      "importance": 0.7225,
+      "importance_score": 0.7225,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.62,
+        "source_tier": 0.78,
+        "ai_relevance": 0.95,
+        "recency": 0.9719,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-06T20:47:11Z",
+      "latest_at": "2026-10-06T20:47:11Z",
+      "primary_item": {
+        "id": "34f5a2c579a2aeddf9076bb44a4228bb413a056d",
+        "title": "ChatGPT 推出 Meetings 插件，可自动记会议纪要并跟进待办",
+        "title_zh": "ChatGPT 推出 Meetings 插件，可自动记会议纪要并跟进待办",
+        "title_en": null,
+        "title_original": "ChatGPT 推出 Meetings 插件，可自动记会议纪要并跟进待办",
+        "summary": "ChatGPT 发布 Meetings 插件，可替用户记会议笔记，并基于 ChatGPT 对用户和既往工作的了解，在 ChatGPT Space 保存个性化摘要和后续步骤。笔记可私密保存或与团队共享，还能让 ChatGPT 更新项目计划或起草跟进内容。目前以 beta 形式面向 Pro 和 Business 用户开放，可在 macOS 桌面应用的插件目录搜索 Meetings 使用，Enterprise 版即将推出。作者 Tibo 补充称，可放心畅谈并将积累的上下文载入 codex 来完成任务。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/thsottiaux/status/2107573405553938664",
+        "source": "X：Tibo (@thsottiaux)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-06T23:03:21.103853Z"
       }
     },
     {
@@ -949,15 +1307,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7282,
-      "importance": 0.7282,
-      "importance_score": 0.7282,
+      "score": 0.7221,
+      "importance": 0.7221,
+      "importance_score": 0.7221,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.92,
+        "recency": 0.8858,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -982,88 +1340,118 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T20:22:41.032694Z"
+        "scored_at": "2026-10-06T23:03:21.103853Z"
       }
     },
     {
-      "story_id": "story_e5656e5cf8cb",
-      "title": "Sierra 与 Meta 联合多家企业发布 Personal Agent Protocol 开放协议 / Introducing Personal Agent Protocol",
-      "url": "https://sierra.ai/blog/introducing-personal-agent-protocol",
-      "primary_url": "https://sierra.ai/blog/introducing-personal-agent-protocol",
-      "source": "Sierra：Blog（RSS）",
-      "source_name": "AI HOT",
+      "story_id": "story_cdbecf18ec2b",
+      "title": "Claude Code’s suggested message feature: I think the real customer is the model",
+      "url": "https://www.zohaib.cc/blog/smartest-claude-code-feature",
+      "primary_url": "https://www.zohaib.cc/blog/smartest-claude-code-feature",
+      "source": "Hacker News front page",
+      "source_name": "Curated Media",
       "sources": [
         {
-          "id": "1449a96a935ca4b3f7f474bd5e3161af72c6980f",
-          "title": "Sierra 与 Meta 联合多家企业发布 Personal Agent Protocol 开放协议 / Introducing Personal Agent Protocol",
-          "title_zh": "Sierra 与 Meta 联合多家企业发布 Personal Agent Protocol 开放协议",
-          "title_en": "Introducing Personal Agent Protocol",
-          "title_original": "Introducing Personal Agent Protocol",
-          "summary": "Sierra 与 Meta 联合 Genesys、Instinct、Rocket、Shopify、Stripe、Walmart 等伙伴宣布开发 Personal Agent Protocol，一个定义个人 AI 智能体如何与企业交互的开放标准，任何人都可实现。",
+          "id": "b4cfb36abcbff967b480dddc93898ec688b7f01f",
+          "title": "Claude Code’s suggested message feature: I think the real customer is the model",
+          "title_zh": null,
+          "title_en": "Claude Code’s suggested message feature: I think the real customer is the model",
+          "title_original": "Claude Code’s suggested message feature: I think the real customer is the model",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://sierra.ai/blog/introducing-personal-agent-protocol",
-          "source": "Sierra：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-06T17:32:00Z"
+          "url": "https://www.zohaib.cc/blog/smartest-claude-code-feature",
+          "source": "Hacker News front page",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-06T18:00:34Z"
+        },
+        {
+          "id": "a0a68da7977d241c5a5e9ed8f3d6bf0b5438d39a",
+          "title": "Claude Code’s suggested message feature: I think the real customer is the model",
+          "title_zh": null,
+          "title_en": "Claude Code’s suggested message feature: I think the real customer is the model",
+          "title_original": "Claude Code’s suggested message feature: I think the real customer is the model",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49981905",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-06T18:00:34Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "Sierra：Blog（RSS）"
+        "Hacker News front page",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "1449a96a935ca4b3f7f474bd5e3161af72c6980f",
-          "title": "Sierra 与 Meta 联合多家企业发布 Personal Agent Protocol 开放协议 / Introducing Personal Agent Protocol",
-          "title_zh": "Sierra 与 Meta 联合多家企业发布 Personal Agent Protocol 开放协议",
-          "title_en": "Introducing Personal Agent Protocol",
-          "title_original": "Introducing Personal Agent Protocol",
-          "summary": "Sierra 与 Meta 联合 Genesys、Instinct、Rocket、Shopify、Stripe、Walmart 等伙伴宣布开发 Personal Agent Protocol，一个定义个人 AI 智能体如何与企业交互的开放标准，任何人都可实现。",
+          "id": "b4cfb36abcbff967b480dddc93898ec688b7f01f",
+          "title": "Claude Code’s suggested message feature: I think the real customer is the model",
+          "title_zh": null,
+          "title_en": "Claude Code’s suggested message feature: I think the real customer is the model",
+          "title_original": "Claude Code’s suggested message feature: I think the real customer is the model",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://sierra.ai/blog/introducing-personal-agent-protocol",
-          "source": "Sierra：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-06T17:32:00Z"
+          "url": "https://www.zohaib.cc/blog/smartest-claude-code-feature",
+          "source": "Hacker News front page",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-06T18:00:34Z"
+        },
+        {
+          "id": "a0a68da7977d241c5a5e9ed8f3d6bf0b5438d39a",
+          "title": "Claude Code’s suggested message feature: I think the real customer is the model",
+          "title_zh": null,
+          "title_en": "Claude Code’s suggested message feature: I think the real customer is the model",
+          "title_original": "Claude Code’s suggested message feature: I think the real customer is the model",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49981905",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-06T18:00:34Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7209,
-      "importance": 0.7209,
-      "importance_score": 0.7209,
-      "importance_label": "行业动态",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6576,
+      "importance": 0.6576,
+      "importance_score": 0.6576,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.62,
-        "source_tier": 0.78,
-        "ai_relevance": 0.95,
-        "recency": 0.963,
-        "story_heat": 0.0
+        "editorial": 0.5832,
+        "source_tier": 0.58,
+        "ai_relevance": 0.81,
+        "recency": 0.9337,
+        "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
+        "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-06T17:32:00Z",
-      "latest_at": "2026-10-06T17:32:00Z",
+      "earliest_at": "2026-10-06T18:00:34Z",
+      "latest_at": "2026-10-06T18:00:34Z",
       "primary_item": {
-        "id": "1449a96a935ca4b3f7f474bd5e3161af72c6980f",
-        "title": "Sierra 与 Meta 联合多家企业发布 Personal Agent Protocol 开放协议 / Introducing Personal Agent Protocol",
-        "title_zh": "Sierra 与 Meta 联合多家企业发布 Personal Agent Protocol 开放协议",
-        "title_en": "Introducing Personal Agent Protocol",
-        "title_original": "Introducing Personal Agent Protocol",
-        "summary": "Sierra 与 Meta 联合 Genesys、Instinct、Rocket、Shopify、Stripe、Walmart 等伙伴宣布开发 Personal Agent Protocol，一个定义个人 AI 智能体如何与企业交互的开放标准，任何人都可实现。",
+        "id": "b4cfb36abcbff967b480dddc93898ec688b7f01f",
+        "title": "Claude Code’s suggested message feature: I think the real customer is the model",
+        "title_zh": null,
+        "title_en": "Claude Code’s suggested message feature: I think the real customer is the model",
+        "title_original": "Claude Code’s suggested message feature: I think the real customer is the model",
+        "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://sierra.ai/blog/introducing-personal-agent-protocol",
-        "source": "Sierra：Blog（RSS）",
-        "source_name": "AI HOT"
+        "url": "https://www.zohaib.cc/blog/smartest-claude-code-feature",
+        "source": "Hacker News front page",
+        "source_name": "Curated Media"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T20:22:41.032694Z"
+        "scored_at": "2026-10-06T23:03:21.103853Z"
       }
     },
     {
@@ -1140,15 +1528,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6608,
-      "importance": 0.6608,
-      "importance_score": 0.6608,
+      "score": 0.6548,
+      "importance": 0.6548,
+      "importance_score": 0.6548,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5976,
         "source_tier": 0.58,
         "ai_relevance": 0.83,
-        "recency": 0.9054,
+        "recency": 0.8718,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1174,147 +1562,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T20:22:41.032694Z"
-      }
-    },
-    {
-      "story_id": "story_47d885071ad3",
-      "title": "Opus 5.5的研究人员发现了两种室温磁性半导体候选材料 / Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
-      "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
-      "primary_url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
-      "source": "Hacker News front page",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "fecc64451b149c1b5c2adf44550790181f432626",
-          "title": "Opus 5.5的研究人员发现了两种室温磁性半导体候选材料 / Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
-          "title_zh": "Opus 5.5的研究人员发现了两种室温磁性半导体候选材料",
-          "title_en": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
-          "title_original": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
-          "source": "Hacker News front page",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-05T21:00:21Z"
-        },
-        {
-          "id": "f3eac503aa67042b174a6f86849c1975352cea15",
-          "title": "Opus 5.5的研究人员发现了两种室温磁性半导体候选材料",
-          "title_zh": "Opus 5.5的研究人员发现了两种室温磁性半导体候选材料",
-          "title_en": null,
-          "title_original": "Opus 5.5的研究人员发现了两种室温磁性半导体候选材料",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
-          "source": "www.vals.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-05T22:12:05.081000Z"
-        },
-        {
-          "id": "c0407e92a3d6ccaf35a78647a157f61f833b3f23",
-          "title": "Opus 5.5 特工发现两种室温磁性半导体候选物 / Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
-          "title_zh": "Opus 5.5 特工发现两种室温磁性半导体候选物",
-          "title_en": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
-          "title_original": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49970667",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-05T21:00:21Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News front page",
-        "hackernews",
-        "www.vals.ai"
-      ],
-      "items": [
-        {
-          "id": "fecc64451b149c1b5c2adf44550790181f432626",
-          "title": "Opus 5.5的研究人员发现了两种室温磁性半导体候选材料 / Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
-          "title_zh": "Opus 5.5的研究人员发现了两种室温磁性半导体候选材料",
-          "title_en": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
-          "title_original": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
-          "source": "Hacker News front page",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-05T21:00:21Z"
-        },
-        {
-          "id": "f3eac503aa67042b174a6f86849c1975352cea15",
-          "title": "Opus 5.5的研究人员发现了两种室温磁性半导体候选材料",
-          "title_zh": "Opus 5.5的研究人员发现了两种室温磁性半导体候选材料",
-          "title_en": null,
-          "title_original": "Opus 5.5的研究人员发现了两种室温磁性半导体候选材料",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
-          "source": "www.vals.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-05T22:12:05.081000Z"
-        },
-        {
-          "id": "c0407e92a3d6ccaf35a78647a157f61f833b3f23",
-          "title": "Opus 5.5 特工发现两种室温磁性半导体候选物 / Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
-          "title_zh": "Opus 5.5 特工发现两种室温磁性半导体候选物",
-          "title_en": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
-          "title_original": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49970667",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-05T21:00:21Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.6518,
-      "importance": 0.6518,
-      "importance_score": 0.6518,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.5976,
-        "source_tier": 0.58,
-        "ai_relevance": 0.83,
-        "recency": 0.716,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-05T21:00:21Z",
-      "latest_at": "2026-10-05T22:12:05.081000Z",
-      "primary_item": {
-        "id": "fecc64451b149c1b5c2adf44550790181f432626",
-        "title": "Opus 5.5的研究人员发现了两种室温磁性半导体候选材料 / Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
-        "title_zh": "Opus 5.5的研究人员发现了两种室温磁性半导体候选材料",
-        "title_en": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
-        "title_original": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
-        "source": "Hacker News front page",
-        "source_name": "Curated Media"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-06T20:22:41.032694Z"
+        "scored_at": "2026-10-06T23:03:21.103853Z"
       }
     },
     {
@@ -1390,15 +1638,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6511,
-      "importance": 0.6511,
-      "importance_score": 0.6511,
+      "score": 0.6451,
+      "importance": 0.6451,
+      "importance_score": 0.6451,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5832,
         "source_tier": 0.58,
         "ai_relevance": 0.81,
-        "recency": 0.8974,
+        "recency": 0.8641,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1424,7 +1672,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T20:22:41.032694Z"
+        "scored_at": "2026-10-06T23:03:21.103853Z"
       }
     },
     {
@@ -1501,15 +1749,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6417,
-      "importance": 0.6417,
-      "importance_score": 0.6417,
+      "score": 0.6356,
+      "importance": 0.6356,
+      "importance_score": 0.6356,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5616,
         "source_tier": 0.58,
         "ai_relevance": 0.78,
-        "recency": 0.9147,
+        "recency": 0.8808,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1534,365 +1782,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T20:22:41.032694Z"
-      }
-    },
-    {
-      "story_id": "story_a886b790c2de",
-      "title": "Gemini打电话给我可能会告诉你妈妈你迟到了 / Gemini Call for Me might tell your mom you&#8217;re running late",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
-      "source": "The Verge",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "9f50ea291113227861db0a922f6ccf9a1d899eae",
-          "title": "Gemini打电话给我可能会告诉你妈妈你迟到了 / Gemini Call for Me might tell your mom you&#8217;re running late",
-          "title_zh": "Gemini打电话给我可能会告诉你妈妈你迟到了",
-          "title_en": "Gemini Call for Me might tell your mom you&#8217;re running late",
-          "title_original": "Gemini Call for Me might tell your mom you&#8217;re running late",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-05T23:09:55Z"
-        },
-        {
-          "id": "afc87f46d15bdc51d47afd10a55a7d6d683340fd",
-          "title": "Gemini打电话给我可能会告诉你妈妈你迟到了 / Gemini Call for Me might tell your mom you’re running late",
-          "title_zh": "Gemini打电话给我可能会告诉你妈妈你迟到了",
-          "title_en": "Gemini Call for Me might tell your mom you’re running late",
-          "title_original": "Gemini Call for Me might tell your mom you’re running late",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
-          "source": "The Verge",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-05T23:09:55Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "The Verge"
-      ],
-      "items": [
-        {
-          "id": "9f50ea291113227861db0a922f6ccf9a1d899eae",
-          "title": "Gemini打电话给我可能会告诉你妈妈你迟到了 / Gemini Call for Me might tell your mom you&#8217;re running late",
-          "title_zh": "Gemini打电话给我可能会告诉你妈妈你迟到了",
-          "title_en": "Gemini Call for Me might tell your mom you&#8217;re running late",
-          "title_original": "Gemini Call for Me might tell your mom you&#8217;re running late",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-05T23:09:55Z"
-        },
-        {
-          "id": "afc87f46d15bdc51d47afd10a55a7d6d683340fd",
-          "title": "Gemini打电话给我可能会告诉你妈妈你迟到了 / Gemini Call for Me might tell your mom you’re running late",
-          "title_zh": "Gemini打电话给我可能会告诉你妈妈你迟到了",
-          "title_en": "Gemini Call for Me might tell your mom you’re running late",
-          "title_original": "Gemini Call for Me might tell your mom you’re running late",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
-          "source": "The Verge",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-05T23:09:55Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.61,
-      "importance": 0.61,
-      "importance_score": 0.61,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.5616,
-        "source_tier": 0.58,
-        "ai_relevance": 0.78,
-        "recency": 0.7387,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-05T23:09:55Z",
-      "latest_at": "2026-10-05T23:09:55Z",
-      "primary_item": {
-        "id": "9f50ea291113227861db0a922f6ccf9a1d899eae",
-        "title": "Gemini打电话给我可能会告诉你妈妈你迟到了 / Gemini Call for Me might tell your mom you&#8217;re running late",
-        "title_zh": "Gemini打电话给我可能会告诉你妈妈你迟到了",
-        "title_en": "Gemini Call for Me might tell your mom you&#8217;re running late",
-        "title_original": "Gemini Call for Me might tell your mom you&#8217;re running late",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
-        "source": "The Verge",
-        "source_name": "Curated Media"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-06T20:22:41.032694Z"
-      }
-    },
-    {
-      "story_id": "story_e679b691cbbf",
-      "title": "ChatGPT正在将真实漫画家的签名添加到伪造的《纽约客》漫画中 / ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
-      "url": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons",
-      "primary_url": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons",
-      "source": "Hacker News front page",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "6fd74a520eef9259d3dcff3050fe2fbc2765726b",
-          "title": "ChatGPT正在将真实漫画家的签名添加到伪造的《纽约客》漫画中 / ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
-          "title_zh": "ChatGPT正在将真实漫画家的签名添加到伪造的《纽约客》漫画中",
-          "title_en": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
-          "title_original": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons",
-          "source": "Hacker News front page",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-05T22:46:45Z"
-        },
-        {
-          "id": "1318638ce556ac31bceb2a87eda81988b5311701",
-          "title": "ChatGPT正在将真实漫画家的签名添加到伪造的《纽约客》漫画中",
-          "title_zh": "ChatGPT正在将真实漫画家的签名添加到伪造的《纽约客》漫画中",
-          "title_en": null,
-          "title_original": "ChatGPT正在将真实漫画家的签名添加到伪造的《纽约客》漫画中",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons",
-          "source": "www.niemanlab.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-06T00:19:39.500000Z"
-        },
-        {
-          "id": "2cb70f077d555c7fa7caf48e06b154d6a1751555",
-          "title": "ChatGPT 正在将真正的漫画家签名添加到假《纽约客》漫画中 / ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
-          "title_zh": "ChatGPT 正在将真正的漫画家签名添加到假《纽约客》漫画中",
-          "title_en": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
-          "title_original": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49971846",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-05T22:46:45Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News front page",
-        "hackernews",
-        "www.niemanlab.org"
-      ],
-      "items": [
-        {
-          "id": "6fd74a520eef9259d3dcff3050fe2fbc2765726b",
-          "title": "ChatGPT正在将真实漫画家的签名添加到伪造的《纽约客》漫画中 / ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
-          "title_zh": "ChatGPT正在将真实漫画家的签名添加到伪造的《纽约客》漫画中",
-          "title_en": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
-          "title_original": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons",
-          "source": "Hacker News front page",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-05T22:46:45Z"
-        },
-        {
-          "id": "1318638ce556ac31bceb2a87eda81988b5311701",
-          "title": "ChatGPT正在将真实漫画家的签名添加到伪造的《纽约客》漫画中",
-          "title_zh": "ChatGPT正在将真实漫画家的签名添加到伪造的《纽约客》漫画中",
-          "title_en": null,
-          "title_original": "ChatGPT正在将真实漫画家的签名添加到伪造的《纽约客》漫画中",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons",
-          "source": "www.niemanlab.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-06T00:19:39.500000Z"
-        },
-        {
-          "id": "2cb70f077d555c7fa7caf48e06b154d6a1751555",
-          "title": "ChatGPT 正在将真正的漫画家签名添加到假《纽约客》漫画中 / ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
-          "title_zh": "ChatGPT 正在将真正的漫画家签名添加到假《纽约客》漫画中",
-          "title_en": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
-          "title_original": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49971846",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-05T22:46:45Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.6343,
-      "importance": 0.6343,
-      "importance_score": 0.6343,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.5616,
-        "source_tier": 0.58,
-        "ai_relevance": 0.78,
-        "recency": 0.7346,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-05T22:46:45Z",
-      "latest_at": "2026-10-06T00:19:39.500000Z",
-      "primary_item": {
-        "id": "6fd74a520eef9259d3dcff3050fe2fbc2765726b",
-        "title": "ChatGPT正在将真实漫画家的签名添加到伪造的《纽约客》漫画中 / ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
-        "title_zh": "ChatGPT正在将真实漫画家的签名添加到伪造的《纽约客》漫画中",
-        "title_en": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
-        "title_original": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons",
-        "source": "Hacker News front page",
-        "source_name": "Curated Media"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-06T20:22:41.032694Z"
-      }
-    },
-    {
-      "story_id": "story_ce783e742a30",
-      "title": "人工智能现已具备自主开发推理硬件的能力 / AI is now capable of developing its own inference hardware",
-      "url": "https://github.com/FeSens/openTPU",
-      "primary_url": "https://github.com/FeSens/openTPU",
-      "source": "Hacker News front page",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "3867da140527c80f2b7227852df2f148cdb9be2a",
-          "title": "人工智能现已具备自主开发推理硬件的能力 / AI is now capable of developing its own inference hardware",
-          "title_zh": "人工智能现已具备自主开发推理硬件的能力",
-          "title_en": "AI is now capable of developing its own inference hardware",
-          "title_original": "AI is now capable of developing its own inference hardware",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/FeSens/openTPU",
-          "source": "Hacker News front page",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-06T16:23:25Z"
-        },
-        {
-          "id": "3ede777bc6d0b520f5ec5d83137837e17d982673",
-          "title": "人工智能现已具备自主开发推理硬件的能力",
-          "title_zh": "人工智能现已具备自主开发推理硬件的能力",
-          "title_en": null,
-          "title_original": "人工智能现已具备自主开发推理硬件的能力",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/FeSens/openTPU",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-06T18:01:39.389000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News front page",
-        "github.com"
-      ],
-      "items": [
-        {
-          "id": "3867da140527c80f2b7227852df2f148cdb9be2a",
-          "title": "人工智能现已具备自主开发推理硬件的能力 / AI is now capable of developing its own inference hardware",
-          "title_zh": "人工智能现已具备自主开发推理硬件的能力",
-          "title_en": "AI is now capable of developing its own inference hardware",
-          "title_original": "AI is now capable of developing its own inference hardware",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/FeSens/openTPU",
-          "source": "Hacker News front page",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-06T16:23:25Z"
-        },
-        {
-          "id": "3ede777bc6d0b520f5ec5d83137837e17d982673",
-          "title": "人工智能现已具备自主开发推理硬件的能力",
-          "title_zh": "人工智能现已具备自主开发推理硬件的能力",
-          "title_en": null,
-          "title_original": "人工智能现已具备自主开发推理硬件的能力",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/FeSens/openTPU",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-06T18:01:39.389000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5701,
-      "importance": 0.5701,
-      "importance_score": 0.5701,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.45,
-        "source_tier": 0.58,
-        "ai_relevance": 0.56,
-        "recency": 0.9473,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-06T16:23:25Z",
-      "latest_at": "2026-10-06T18:01:39.389000Z",
-      "primary_item": {
-        "id": "3867da140527c80f2b7227852df2f148cdb9be2a",
-        "title": "人工智能现已具备自主开发推理硬件的能力 / AI is now capable of developing its own inference hardware",
-        "title_zh": "人工智能现已具备自主开发推理硬件的能力",
-        "title_en": "AI is now capable of developing its own inference hardware",
-        "title_original": "AI is now capable of developing its own inference hardware",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.com/FeSens/openTPU",
-        "source": "Hacker News front page",
-        "source_name": "Curated Media"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-06T20:22:41.032694Z"
+        "scored_at": "2026-10-06T23:03:21.103853Z"
       }
     }
   ]

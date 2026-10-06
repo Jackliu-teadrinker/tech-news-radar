@@ -1,30 +1,16 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-06T20:08:29.934859Z",
+  "generated_at": "2026-10-06T22:45:33.000071Z",
   "ok": true,
-  "active_count": 1,
+  "active_count": 0,
   "providers": [
     {
       "id": "openai",
       "name": "OpenAI",
       "status_url": "https://status.openai.com/",
       "ok": true,
-      "active_count": 1
+      "active_count": 0
     }
   ],
-  "incidents": [
-    {
-      "id": "01M48Y8E81QAFF9XKVGE118E6X",
-      "provider": "OpenAI",
-      "title": "Errors processing large PDFs in the Responses API",
-      "title_zh": "Errors processing large PDFs in the Responses API",
-      "status": "identified",
-      "impact": "minor",
-      "started_at": "2026-10-06T15:45:31Z",
-      "updated_at": "2026-10-06T16:39:49Z",
-      "message": "We are implementing the mitigation.",
-      "affected_components": [],
-      "url": "https://status.openai.com/incidents/01M48Y8E81QAFF9XKVGE118E6X"
-    }
-  ]
+  "incidents": []
 }
