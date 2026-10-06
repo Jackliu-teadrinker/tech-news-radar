@@ -5,7 +5,7 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Mon, 05 Oct 2026 23:06:38 +0000</lastBuildDate>
+<lastBuildDate>Tue, 06 Oct 2026 01:23:56 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
 <item>
 <title>OpenAI 公布 EU AI Act 下的文本溯源方案，推出 textGrain 文本水印 / Our approach to EU text provenance rules</title>
@@ -16,12 +16,12 @@
 <pubDate>Mon, 05 Oct 2026 15:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Codex CLI 0.160.1</title>
-<link>https://developers.openai.com/codex/changelog</link>
-<guid isPermaLink="true">https://developers.openai.com/codex/changelog</guid>
-<description>OpenAI Codex Changelog</description>
+<title>Secret scanning adds detectors for Lovable, Supabase, and more</title>
+<link>https://github.blog/changelog/2026-10-05-secret-scanning-adds-detectors-for-lovable-supabase-and-more</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-05-secret-scanning-adds-detectors-for-lovable-supabase-and-more</guid>
+<description>GitHub Changelog</description>
 <category>官方更新</category>
-<pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+<pubDate>Mon, 05 Oct 2026 22:42:14 +0000</pubDate>
 </item>
 <item>
 <title>Wikimedia 基金会发现 OpenAI "流氓"智能体在维基媒体平台上的活动 / OpenAI "rogue" agent activities found on Wikimedia projects</title>
@@ -56,12 +56,36 @@
 <pubDate>Mon, 05 Oct 2026 20:01:09 +0000</pubDate>
 </item>
 <item>
+<title>Anthropic Cowork 改为云端运行模型推理与 VM / Quoting Felix Rieseberg</title>
+<link>https://simonwillison.net/2026/Oct/5/felix-rieseberg</link>
+<guid isPermaLink="true">https://simonwillison.net/2026/Oct/5/felix-rieseberg</guid>
+<description>Anthropic 工程师 Felix Rieseberg 说明 Cowork 的新旧架构差异：旧版在云端推理、在用户电脑上运行本地 VM，磁盘、电池和性能开销大，合上笔记本工作就停止。新版把模型推理和 VM 都移到云端，每个会话有独立沙盒，桌面应用只负责文件访问等需要本机设备的工具调用，官方认为这解决了手机使用、保持工作运行和电池消耗等问题。（Simon Willison 博客）</description>
+<category>行业动态</category>
+<pubDate>Mon, 05 Oct 2026 23:56:47 +0000</pubDate>
+</item>
+<item>
 <title>Opus 5.5的研究人员发现了两种室温磁性半导体候选材料 / Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates</title>
 <link>https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors</link>
 <guid isPermaLink="true">https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors</guid>
 <description>Hacker News front page</description>
 <category>多源热议</category>
 <pubDate>Mon, 05 Oct 2026 22:12:05 +0000</pubDate>
+</item>
+<item>
+<title>Gemini Call for Me might tell your mom you&amp;#8217;re running late</title>
+<link>https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors</link>
+<guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors</guid>
+<description>The Verge</description>
+<category>值得关注</category>
+<pubDate>Mon, 05 Oct 2026 23:09:55 +0000</pubDate>
+</item>
+<item>
+<title>ChatGPT正在将真实漫画家的签名添加到伪造的《纽约客》漫画中 / ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons</title>
+<link>https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons</link>
+<guid isPermaLink="true">https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons</guid>
+<description>Hacker News front page</description>
+<category>多源热议</category>
+<pubDate>Tue, 06 Oct 2026 00:19:39 +0000</pubDate>
 </item>
 <item>
 <title>欧洲新晋机器人领域独角兽：德国RobCo估值突破10亿美元 / Europe's new robotics unicorn: Germany's RobCo hits $1B valuation</title>
@@ -80,12 +104,12 @@
 <pubDate>Mon, 05 Oct 2026 14:38:00 +0000</pubDate>
 </item>
 <item>
-<title>OpenAI 的 GPT-6 Astra 在《星际争霸》中失利感到沮丧并决定作弊 / OpenAI's GPT-6 Astra Gets Frustrated Losing at StarCraft and Decides to Cheat</title>
-<link>https://kotaku.com/openais-gpt-6-astra-gets-frustrated-losing-at-starcraft-and-decides-to-cheat-instead-2000739607</link>
-<guid isPermaLink="true">https://kotaku.com/openais-gpt-6-astra-gets-frustrated-losing-at-starcraft-and-decides-to-cheat-instead-2000739607</guid>
-<description>HN Algolia · AI 24h</description>
+<title>People are asking ChatGPT to help them decide how to vote in the midterms</title>
+<link>https://www.npr.org/2026/10/05/nx-s1-5977852/ai-chatbots-midterm-election</link>
+<guid isPermaLink="true">https://www.npr.org/2026/10/05/nx-s1-5977852/ai-chatbots-midterm-election</guid>
+<description>Hacker News · 24h最热</description>
 <category>值得关注</category>
-<pubDate>Mon, 05 Oct 2026 00:51:00 +0000</pubDate>
+<pubDate>Mon, 05 Oct 2026 15:06:27 +0000</pubDate>
 </item>
 <item>
 <title>Anthropic向警方报案称发现日记条目，一名女子面临重罪指控 / Anthropic reported diary entry to police, woman faces felony charge</title>
@@ -94,14 +118,6 @@
 <description>Hacker News front page</description>
 <category>多源热议</category>
 <pubDate>Mon, 05 Oct 2026 17:00:08 +0000</pubDate>
-</item>
-<item>
-<title>People are asking ChatGPT to help them decide how to vote in the midterms</title>
-<link>https://www.npr.org/2026/10/05/nx-s1-5977852/ai-chatbots-midterm-election</link>
-<guid isPermaLink="true">https://www.npr.org/2026/10/05/nx-s1-5977852/ai-chatbots-midterm-election</guid>
-<description>Hacker News · 24h最热</description>
-<category>值得关注</category>
-<pubDate>Mon, 05 Oct 2026 15:06:27 +0000</pubDate>
 </item>
 <item>
 <title>网络搜索 API / Web Search API</title>

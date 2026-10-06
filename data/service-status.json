@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-05T23:06:38.803522Z",
+  "generated_at": "2026-10-06T01:23:56.703231Z",
   "ok": true,
   "active_count": 3,
   "providers": [
@@ -14,17 +14,17 @@
   ],
   "incidents": [
     {
-      "id": "01M46G248GGHV9RSAJE82BZY1X",
+      "id": "01M47AFBNRNXKJWN549T3PMYV8",
       "provider": "OpenAI",
-      "title": "Elevated errors in ChatGPT conversations",
-      "title_zh": "ChatGPT conversations 错误率升高",
+      "title": "Elevated errors in API Platform login and administration APIs.",
+      "title_zh": "API Platform login and administration APIs. 错误率升高",
       "status": "monitoring",
       "impact": "minor",
-      "started_at": "2026-10-05T16:58:56Z",
-      "updated_at": "2026-10-05T17:55:04Z",
-      "message": "We have mitigated the issue affecting ChatGPT conversations and are monitoring recovery.",
+      "started_at": "2026-10-06T00:40:32Z",
+      "updated_at": "2026-10-06T00:40:57Z",
+      "message": "We have applied the mitigation and are monitoring the recovery.",
       "affected_components": [],
-      "url": "https://status.openai.com/incidents/01M46G248GGHV9RSAJE82BZY1X"
+      "url": "https://status.openai.com/incidents/01M47AFBNRNXKJWN549T3PMYV8"
     },
     {
       "id": "01M45E0JFFJZ6EQ3BWYPW74R2Z",
