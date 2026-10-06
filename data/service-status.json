@@ -1,16 +1,30 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-06T09:19:40.628077Z",
+  "generated_at": "2026-10-06T14:07:14.511693Z",
   "ok": true,
-  "active_count": 0,
+  "active_count": 1,
   "providers": [
     {
       "id": "openai",
       "name": "OpenAI",
       "status_url": "https://status.openai.com/",
       "ok": true,
-      "active_count": 0
+      "active_count": 1
     }
   ],
-  "incidents": []
+  "incidents": [
+    {
+      "id": "01M48PT6B8SDTW023NC9XZTBC0",
+      "provider": "OpenAI",
+      "title": "Elevated error rates in ChatGPT Go conversations",
+      "title_zh": "Elevated error rates in ChatGPT Go conversations",
+      "status": "monitoring",
+      "impact": "minor",
+      "started_at": "2026-10-06T13:35:25Z",
+      "updated_at": "2026-10-06T13:53:57Z",
+      "message": "We have applied the mitigation and are monitoring the recovery.",
+      "affected_components": [],
+      "url": "https://status.openai.com/incidents/01M48PT6B8SDTW023NC9XZTBC0"
+    }
+  ]
 }
