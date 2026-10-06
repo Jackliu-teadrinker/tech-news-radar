@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-06T16:54:32.300794Z",
+  "generated_at": "2026-10-06T20:08:29.934859Z",
   "window_hours": 24,
-  "total_items": 15,
+  "total_items": 20,
   "items": [
     {
       "story_id": "story_dbe192624685",
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8637,
-      "importance": 0.8637,
-      "importance_score": 0.8637,
+      "score": 0.8556,
+      "importance": 0.8556,
+      "importance_score": 0.8556,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.987,
+        "recency": 0.9419,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T17:05:44.200669Z"
+        "scored_at": "2026-10-06T20:22:41.032694Z"
       }
     },
     {
@@ -131,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8454,
-      "importance": 0.8454,
-      "importance_score": 0.8454,
+      "score": 0.8383,
+      "importance": 0.8383,
+      "importance_score": 0.8383,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8635,
+        "recency": 0.8241,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,7 +166,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T17:05:44.200669Z"
+        "scored_at": "2026-10-06T20:22:41.032694Z"
+      }
+    },
+    {
+      "story_id": "story_17625524f250",
+      "title": "Advancing computer use with Ironclad",
+      "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
+      "primary_url": "https://openai.com/index/advancing-computer-use-with-ironclad",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "4cdb05f359822803b33d7deedddf87e38d2593ed",
+          "title": "Advancing computer use with Ironclad",
+          "title_zh": null,
+          "title_en": "Advancing computer use with Ironclad",
+          "title_original": "Advancing computer use with Ironclad",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-06T10:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "4cdb05f359822803b33d7deedddf87e38d2593ed",
+          "title": "Advancing computer use with Ironclad",
+          "title_zh": null,
+          "title_en": "Advancing computer use with Ironclad",
+          "title_original": "Advancing computer use with Ironclad",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-06T10:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8415,
+      "importance": 0.8415,
+      "importance_score": 0.8415,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.8638,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-06T10:00:00Z",
+      "latest_at": "2026-10-06T10:00:00Z",
+      "primary_item": {
+        "id": "4cdb05f359822803b33d7deedddf87e38d2593ed",
+        "title": "Advancing computer use with Ironclad",
+        "title_zh": null,
+        "title_en": "Advancing computer use with Ironclad",
+        "title_original": "Advancing computer use with Ironclad",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-06T20:22:41.032694Z"
       }
     },
     {
@@ -214,15 +297,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7998,
-      "importance": 0.7998,
-      "importance_score": 0.7998,
+      "score": 0.7924,
+      "importance": 0.7924,
+      "importance_score": 0.7924,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.73,
-        "recency": 0.9102,
+        "recency": 0.8687,
         "story_heat": 0.0
       },
       "category": "official",
@@ -248,7 +331,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T17:05:44.200669Z"
+        "scored_at": "2026-10-06T20:22:41.032694Z"
+      }
+    },
+    {
+      "story_id": "story_499c135d2740",
+      "title": "DeepSeek 据报道接近完成至少 800 亿元融资，腾讯与宁德时代参与 / DeepSeek is close to raising at least 80 billion yuan ($12 billion), up from its original target of about 50 billion yuan, Bloomberg repo...",
+      "url": "https://x.com/thexpin/status/2107524306058289533",
+      "primary_url": "https://x.com/thexpin/status/2107524306058289533",
+      "source": "X：X.PIN (@thexpin)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "94c5884fa3bb345a8c1f794d8e09a67a9485ffcd",
+          "title": "DeepSeek 据报道接近完成至少 800 亿元融资，腾讯与宁德时代参与 / DeepSeek is close to raising at least 80 billion yuan ($12 billion), up from its original target of about 50 billion yuan, Bloomberg repo...",
+          "title_zh": "DeepSeek 据报道接近完成至少 800 亿元融资，腾讯与宁德时代参与",
+          "title_en": "DeepSeek is close to raising at least 80 billion yuan ($12 billion), up from its original target of about 50 billion yuan, Bloomberg repo...",
+          "title_original": "DeepSeek is close to raising at least 80 billion yuan ($12 billion), up from its original target of about 50 billion yuan, Bloomberg repo...",
+          "summary": "据 Bloomberg 援引知情人士报道，DeepSeek 接近完成至少 800 亿元（约 120 亿美元）融资，高于原定约 500 亿元的目标。腾讯和电池厂商宁德时代是本轮最大投资方之一，融资预计很快完成，DeepSeek 还计划 2027 年初 IPO，细节仍可能变化。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/thexpin/status/2107524306058289533",
+          "source": "X：X.PIN (@thexpin)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-06T17:32:05Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：X.PIN (@thexpin)"
+      ],
+      "items": [
+        {
+          "id": "94c5884fa3bb345a8c1f794d8e09a67a9485ffcd",
+          "title": "DeepSeek 据报道接近完成至少 800 亿元融资，腾讯与宁德时代参与 / DeepSeek is close to raising at least 80 billion yuan ($12 billion), up from its original target of about 50 billion yuan, Bloomberg repo...",
+          "title_zh": "DeepSeek 据报道接近完成至少 800 亿元融资，腾讯与宁德时代参与",
+          "title_en": "DeepSeek is close to raising at least 80 billion yuan ($12 billion), up from its original target of about 50 billion yuan, Bloomberg repo...",
+          "title_original": "DeepSeek is close to raising at least 80 billion yuan ($12 billion), up from its original target of about 50 billion yuan, Bloomberg repo...",
+          "summary": "据 Bloomberg 援引知情人士报道，DeepSeek 接近完成至少 800 亿元（约 120 亿美元）融资，高于原定约 500 亿元的目标。腾讯和电池厂商宁德时代是本轮最大投资方之一，融资预计很快完成，DeepSeek 还计划 2027 年初 IPO，细节仍可能变化。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/thexpin/status/2107524306058289533",
+          "source": "X：X.PIN (@thexpin)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-06T17:32:05Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7809,
+      "importance": 0.7809,
+      "importance_score": 0.7809,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.82,
+        "source_tier": 0.78,
+        "ai_relevance": 0.95,
+        "recency": 0.9631,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-06T17:32:05Z",
+      "latest_at": "2026-10-06T17:32:05Z",
+      "primary_item": {
+        "id": "94c5884fa3bb345a8c1f794d8e09a67a9485ffcd",
+        "title": "DeepSeek 据报道接近完成至少 800 亿元融资，腾讯与宁德时代参与 / DeepSeek is close to raising at least 80 billion yuan ($12 billion), up from its original target of about 50 billion yuan, Bloomberg repo...",
+        "title_zh": "DeepSeek 据报道接近完成至少 800 亿元融资，腾讯与宁德时代参与",
+        "title_en": "DeepSeek is close to raising at least 80 billion yuan ($12 billion), up from its original target of about 50 billion yuan, Bloomberg repo...",
+        "title_original": "DeepSeek is close to raising at least 80 billion yuan ($12 billion), up from its original target of about 50 billion yuan, Bloomberg repo...",
+        "summary": "据 Bloomberg 援引知情人士报道，DeepSeek 接近完成至少 800 亿元（约 120 亿美元）融资，高于原定约 500 亿元的目标。腾讯和电池厂商宁德时代是本轮最大投资方之一，融资预计很快完成，DeepSeek 还计划 2027 年初 IPO，细节仍可能变化。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/thexpin/status/2107524306058289533",
+        "source": "X：X.PIN (@thexpin)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-06T20:22:41.032694Z"
       }
     },
     {
@@ -296,15 +461,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7753,
-      "importance": 0.7753,
-      "importance_score": 0.7753,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.9316,
+        "recency": 0.8891,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -330,148 +495,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T17:05:44.200669Z"
-      }
-    },
-    {
-      "story_id": "story_e48c2f9cc52d",
-      "title": "Wikimedia 基金会发现 OpenAI \"流氓\"智能体在维基媒体平台上的活动 / OpenAI \"rogue\" agent activities found on Wikimedia projects",
-      "url": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects",
-      "primary_url": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects",
-      "source": "Hacker News：AI 热帖",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "603a1628201cc8ad31d36feed0296ac4d2fca96f",
-          "title": "Wikimedia 基金会发现 OpenAI \"流氓\"智能体在维基媒体平台上的活动 / OpenAI \"rogue\" agent activities found on Wikimedia projects",
-          "title_zh": "Wikimedia 基金会发现 OpenAI \"流氓\"智能体在维基媒体平台上的活动",
-          "title_en": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
-          "title_original": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
-          "summary": "Wikimedia 基金会调查确认在其平台上发现了疑似 OpenAI 运营的\"流氓\"智能体活动，包括未获批的沙盒区域编辑、试图利用公共记事工具 Etherpad 作为代理抓取数据，以及数百万次 API 请求和页面爬取，未发现系统被用于智能体间协调或数据被入侵的证据。",
-          "recommend_reason_zh": null,
-          "url": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects",
-          "source": "Hacker News：AI 热帖",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-05T17:53:35Z"
-        },
-        {
-          "id": "945a7163f87a0c0bb3f289c5df41b7aa6cb530ce",
-          "title": "维基媒体项目中发现OpenAI“失控”代理的活动",
-          "title_zh": "维基媒体项目中发现OpenAI“失控”代理的活动",
-          "title_en": null,
-          "title_original": "维基媒体项目中发现OpenAI“失控”代理的活动",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects",
-          "source": "diff.wikimedia.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-05T19:20:27.931000Z"
-        },
-        {
-          "id": "cc2a0a5b5cb445cf705317e878fdb953e55be6a8",
-          "title": "维基媒体项目中发现 OpenAI“流氓”代理活动 / OpenAI \"rogue\" agent activities found on Wikimedia projects",
-          "title_zh": "维基媒体项目中发现 OpenAI“流氓”代理活动",
-          "title_en": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
-          "title_original": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49968105",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-05T17:53:35Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News：AI 热帖",
-        "diff.wikimedia.org",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "603a1628201cc8ad31d36feed0296ac4d2fca96f",
-          "title": "Wikimedia 基金会发现 OpenAI \"流氓\"智能体在维基媒体平台上的活动 / OpenAI \"rogue\" agent activities found on Wikimedia projects",
-          "title_zh": "Wikimedia 基金会发现 OpenAI \"流氓\"智能体在维基媒体平台上的活动",
-          "title_en": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
-          "title_original": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
-          "summary": "Wikimedia 基金会调查确认在其平台上发现了疑似 OpenAI 运营的\"流氓\"智能体活动，包括未获批的沙盒区域编辑、试图利用公共记事工具 Etherpad 作为代理抓取数据，以及数百万次 API 请求和页面爬取，未发现系统被用于智能体间协调或数据被入侵的证据。",
-          "recommend_reason_zh": null,
-          "url": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects",
-          "source": "Hacker News：AI 热帖",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-05T17:53:35Z"
-        },
-        {
-          "id": "945a7163f87a0c0bb3f289c5df41b7aa6cb530ce",
-          "title": "维基媒体项目中发现OpenAI“失控”代理的活动",
-          "title_zh": "维基媒体项目中发现OpenAI“失控”代理的活动",
-          "title_en": null,
-          "title_original": "维基媒体项目中发现OpenAI“失控”代理的活动",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects",
-          "source": "diff.wikimedia.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-05T19:20:27.931000Z"
-        },
-        {
-          "id": "cc2a0a5b5cb445cf705317e878fdb953e55be6a8",
-          "title": "维基媒体项目中发现 OpenAI“流氓”代理活动 / OpenAI \"rogue\" agent activities found on Wikimedia projects",
-          "title_zh": "维基媒体项目中发现 OpenAI“流氓”代理活动",
-          "title_en": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
-          "title_original": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49968105",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-05T17:53:35Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.7747,
-      "importance": 0.7747,
-      "importance_score": 0.7747,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 0.95,
-        "recency": 0.7172,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-05T17:53:35Z",
-      "latest_at": "2026-10-05T19:20:27.931000Z",
-      "primary_item": {
-        "id": "603a1628201cc8ad31d36feed0296ac4d2fca96f",
-        "title": "Wikimedia 基金会发现 OpenAI \"流氓\"智能体在维基媒体平台上的活动 / OpenAI \"rogue\" agent activities found on Wikimedia projects",
-        "title_zh": "Wikimedia 基金会发现 OpenAI \"流氓\"智能体在维基媒体平台上的活动",
-        "title_en": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
-        "title_original": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
-        "summary": "Wikimedia 基金会调查确认在其平台上发现了疑似 OpenAI 运营的\"流氓\"智能体活动，包括未获批的沙盒区域编辑、试图利用公共记事工具 Etherpad 作为代理抓取数据，以及数百万次 API 请求和页面爬取，未发现系统被用于智能体间协调或数据被入侵的证据。",
-        "recommend_reason_zh": null,
-        "url": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects",
-        "source": "Hacker News：AI 热帖",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-06T17:05:44.200669Z"
+        "scored_at": "2026-10-06T20:22:41.032694Z"
       }
     },
     {
@@ -519,21 +543,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7563,
-      "importance": 0.7563,
-      "importance_score": 0.7563,
+      "score": 0.7492,
+      "importance": 0.7492,
+      "importance_score": 0.7492,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.8595,
+        "recency": 0.8203,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-06T06:25:15Z",
       "latest_at": "2026-10-06T06:25:15Z",
@@ -553,7 +576,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T17:05:44.200669Z"
+        "scored_at": "2026-10-06T20:22:41.032694Z"
+      }
+    },
+    {
+      "story_id": "story_5951f365282f",
+      "title": "Claude for Google Workspace 开启 beta，可直接在 Docs、Sheets、Slides 中编辑 / Claude for Google Workspace™",
+      "url": "https://www.youtube.com/watch?v=idJQMJwHtyM",
+      "primary_url": "https://www.youtube.com/watch?v=idJQMJwHtyM",
+      "source": "Claude：YouTube（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "c540239301bf1b32a1c7a206dc6db87208c2c739",
+          "title": "Claude for Google Workspace 开启 beta，可直接在 Docs、Sheets、Slides 中编辑 / Claude for Google Workspace™",
+          "title_zh": "Claude for Google Workspace 开启 beta，可直接在 Docs、Sheets、Slides 中编辑",
+          "title_en": "Claude for Google Workspace™",
+          "title_original": "Claude for Google Workspace™",
+          "summary": "Claude 宣布推出 Claude for Google Workspace（beta），一次安装即可覆盖 Google Docs、Sheets 和 Slides。",
+          "recommend_reason_zh": null,
+          "url": "https://www.youtube.com/watch?v=idJQMJwHtyM",
+          "source": "Claude：YouTube（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-06T17:02:37Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Claude：YouTube（RSS）"
+      ],
+      "items": [
+        {
+          "id": "c540239301bf1b32a1c7a206dc6db87208c2c739",
+          "title": "Claude for Google Workspace 开启 beta，可直接在 Docs、Sheets、Slides 中编辑 / Claude for Google Workspace™",
+          "title_zh": "Claude for Google Workspace 开启 beta，可直接在 Docs、Sheets、Slides 中编辑",
+          "title_en": "Claude for Google Workspace™",
+          "title_original": "Claude for Google Workspace™",
+          "summary": "Claude 宣布推出 Claude for Google Workspace（beta），一次安装即可覆盖 Google Docs、Sheets 和 Slides。",
+          "recommend_reason_zh": null,
+          "url": "https://www.youtube.com/watch?v=idJQMJwHtyM",
+          "source": "Claude：YouTube（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-06T17:02:37Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7437,
+      "importance": 0.7437,
+      "importance_score": 0.7437,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 0.95,
+        "recency": 0.9562,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-06T17:02:37Z",
+      "latest_at": "2026-10-06T17:02:37Z",
+      "primary_item": {
+        "id": "c540239301bf1b32a1c7a206dc6db87208c2c739",
+        "title": "Claude for Google Workspace 开启 beta，可直接在 Docs、Sheets、Slides 中编辑 / Claude for Google Workspace™",
+        "title_zh": "Claude for Google Workspace 开启 beta，可直接在 Docs、Sheets、Slides 中编辑",
+        "title_en": "Claude for Google Workspace™",
+        "title_original": "Claude for Google Workspace™",
+        "summary": "Claude 宣布推出 Claude for Google Workspace（beta），一次安装即可覆盖 Google Docs、Sheets 和 Slides。",
+        "recommend_reason_zh": null,
+        "url": "https://www.youtube.com/watch?v=idJQMJwHtyM",
+        "source": "Claude：YouTube（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-06T20:22:41.032694Z"
       }
     },
     {
@@ -601,15 +705,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7459,
-      "importance": 0.7459,
-      "importance_score": 0.7459,
+      "score": 0.7389,
+      "importance": 0.7389,
+      "importance_score": 0.7389,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.8516,
+        "recency": 0.8128,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -634,7 +738,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T17:05:44.200669Z"
+        "scored_at": "2026-10-06T20:22:41.032694Z"
       }
     },
     {
@@ -682,15 +786,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7744,
-      "importance": 0.7744,
-      "importance_score": 0.7744,
+      "score": 0.7681,
+      "importance": 0.7681,
+      "importance_score": 0.7681,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.73,
-        "recency": 0.7688,
+        "recency": 0.7338,
         "story_heat": 0.0
       },
       "category": "official",
@@ -716,7 +820,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T17:05:44.200669Z"
+        "scored_at": "2026-10-06T20:22:41.032694Z"
       }
     },
     {
@@ -764,15 +868,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7386,
-      "importance": 0.7386,
-      "importance_score": 0.7386,
+      "score": 0.7305,
+      "importance": 0.7305,
+      "importance_score": 0.7305,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.9776,
+        "recency": 0.933,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -797,7 +901,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T17:05:44.200669Z"
+        "scored_at": "2026-10-06T20:22:41.032694Z"
       }
     },
     {
@@ -845,15 +949,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7361,
-      "importance": 0.7361,
-      "importance_score": 0.7361,
+      "score": 0.7282,
+      "importance": 0.7282,
+      "importance_score": 0.7282,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.9639,
+        "recency": 0.92,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -878,7 +982,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T17:05:44.200669Z"
+        "scored_at": "2026-10-06T20:22:41.032694Z"
+      }
+    },
+    {
+      "story_id": "story_e5656e5cf8cb",
+      "title": "Sierra 与 Meta 联合多家企业发布 Personal Agent Protocol 开放协议 / Introducing Personal Agent Protocol",
+      "url": "https://sierra.ai/blog/introducing-personal-agent-protocol",
+      "primary_url": "https://sierra.ai/blog/introducing-personal-agent-protocol",
+      "source": "Sierra：Blog（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "1449a96a935ca4b3f7f474bd5e3161af72c6980f",
+          "title": "Sierra 与 Meta 联合多家企业发布 Personal Agent Protocol 开放协议 / Introducing Personal Agent Protocol",
+          "title_zh": "Sierra 与 Meta 联合多家企业发布 Personal Agent Protocol 开放协议",
+          "title_en": "Introducing Personal Agent Protocol",
+          "title_original": "Introducing Personal Agent Protocol",
+          "summary": "Sierra 与 Meta 联合 Genesys、Instinct、Rocket、Shopify、Stripe、Walmart 等伙伴宣布开发 Personal Agent Protocol，一个定义个人 AI 智能体如何与企业交互的开放标准，任何人都可实现。",
+          "recommend_reason_zh": null,
+          "url": "https://sierra.ai/blog/introducing-personal-agent-protocol",
+          "source": "Sierra：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-06T17:32:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Sierra：Blog（RSS）"
+      ],
+      "items": [
+        {
+          "id": "1449a96a935ca4b3f7f474bd5e3161af72c6980f",
+          "title": "Sierra 与 Meta 联合多家企业发布 Personal Agent Protocol 开放协议 / Introducing Personal Agent Protocol",
+          "title_zh": "Sierra 与 Meta 联合多家企业发布 Personal Agent Protocol 开放协议",
+          "title_en": "Introducing Personal Agent Protocol",
+          "title_original": "Introducing Personal Agent Protocol",
+          "summary": "Sierra 与 Meta 联合 Genesys、Instinct、Rocket、Shopify、Stripe、Walmart 等伙伴宣布开发 Personal Agent Protocol，一个定义个人 AI 智能体如何与企业交互的开放标准，任何人都可实现。",
+          "recommend_reason_zh": null,
+          "url": "https://sierra.ai/blog/introducing-personal-agent-protocol",
+          "source": "Sierra：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-06T17:32:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7209,
+      "importance": 0.7209,
+      "importance_score": 0.7209,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.62,
+        "source_tier": 0.78,
+        "ai_relevance": 0.95,
+        "recency": 0.963,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-06T17:32:00Z",
+      "latest_at": "2026-10-06T17:32:00Z",
+      "primary_item": {
+        "id": "1449a96a935ca4b3f7f474bd5e3161af72c6980f",
+        "title": "Sierra 与 Meta 联合多家企业发布 Personal Agent Protocol 开放协议 / Introducing Personal Agent Protocol",
+        "title_zh": "Sierra 与 Meta 联合多家企业发布 Personal Agent Protocol 开放协议",
+        "title_en": "Introducing Personal Agent Protocol",
+        "title_original": "Introducing Personal Agent Protocol",
+        "summary": "Sierra 与 Meta 联合 Genesys、Instinct、Rocket、Shopify、Stripe、Walmart 等伙伴宣布开发 Personal Agent Protocol，一个定义个人 AI 智能体如何与企业交互的开放标准，任何人都可实现。",
+        "recommend_reason_zh": null,
+        "url": "https://sierra.ai/blog/introducing-personal-agent-protocol",
+        "source": "Sierra：Blog（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-06T20:22:41.032694Z"
       }
     },
     {
@@ -955,15 +1140,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6686,
-      "importance": 0.6686,
-      "importance_score": 0.6686,
+      "score": 0.6608,
+      "importance": 0.6608,
+      "importance_score": 0.6608,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5976,
         "source_tier": 0.58,
         "ai_relevance": 0.83,
-        "recency": 0.9486,
+        "recency": 0.9054,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -989,117 +1174,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T17:05:44.200669Z"
-      }
-    },
-    {
-      "story_id": "story_720b99104f22",
-      "title": "MacBook Air 在 Prime Day（2026 年）期间降至 6 月以来的最低价格 / The MacBook Air Drops to Its Lowest Price Since June for Prime Day (2026)",
-      "url": "https://www.wired.com/story/macbook-air-prime-day-10-6-2026",
-      "primary_url": "https://www.wired.com/story/macbook-air-prime-day-10-6-2026",
-      "source": "Wired",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "cd5e2e7d37c91352677dc7f7d25e5f6ed1062322",
-          "title": "MacBook Air 在 Prime Day（2026 年）期间降至 6 月以来的最低价格 / The MacBook Air Drops to Its Lowest Price Since June for Prime Day (2026)",
-          "title_zh": "MacBook Air 在 Prime Day（2026 年）期间降至 6 月以来的最低价格",
-          "title_en": "The MacBook Air Drops to Its Lowest Price Since June for Prime Day (2026)",
-          "title_original": "The MacBook Air Drops to Its Lowest Price Since June for Prime Day (2026)",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.wired.com/story/macbook-air-prime-day-10-6-2026",
-          "source": "Wired",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-06T12:38:32Z"
-        },
-        {
-          "id": "c3ac0f9a03c3a10d6505f0963b82a27d8e955f8b",
-          "title": "Prime Day MacBook Air 降价至 6 月以来最低价 / The MacBook Air Drops to Its Lowest Price Since June for Prime Day",
-          "title_zh": "Prime Day MacBook Air 降价至 6 月以来最低价",
-          "title_en": "The MacBook Air Drops to Its Lowest Price Since June for Prime Day",
-          "title_original": "The MacBook Air Drops to Its Lowest Price Since June for Prime Day",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.wired.com/story/macbook-air-prime-day-10-6-2026",
-          "source": "Wired",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-06T12:38:32Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Wired"
-      ],
-      "items": [
-        {
-          "id": "cd5e2e7d37c91352677dc7f7d25e5f6ed1062322",
-          "title": "MacBook Air 在 Prime Day（2026 年）期间降至 6 月以来的最低价格 / The MacBook Air Drops to Its Lowest Price Since June for Prime Day (2026)",
-          "title_zh": "MacBook Air 在 Prime Day（2026 年）期间降至 6 月以来的最低价格",
-          "title_en": "The MacBook Air Drops to Its Lowest Price Since June for Prime Day (2026)",
-          "title_original": "The MacBook Air Drops to Its Lowest Price Since June for Prime Day (2026)",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.wired.com/story/macbook-air-prime-day-10-6-2026",
-          "source": "Wired",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-06T12:38:32Z"
-        },
-        {
-          "id": "c3ac0f9a03c3a10d6505f0963b82a27d8e955f8b",
-          "title": "Prime Day MacBook Air 降价至 6 月以来最低价 / The MacBook Air Drops to Its Lowest Price Since June for Prime Day",
-          "title_zh": "Prime Day MacBook Air 降价至 6 月以来最低价",
-          "title_en": "The MacBook Air Drops to Its Lowest Price Since June for Prime Day",
-          "title_original": "The MacBook Air Drops to Its Lowest Price Since June for Prime Day",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.wired.com/story/macbook-air-prime-day-10-6-2026",
-          "source": "Wired",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-06T12:38:32Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6588,
-      "importance": 0.6588,
-      "importance_score": 0.6588,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.5832,
-        "source_tier": 0.58,
-        "ai_relevance": 0.81,
-        "recency": 0.9402,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-06T12:38:32Z",
-      "latest_at": "2026-10-06T12:38:32Z",
-      "primary_item": {
-        "id": "cd5e2e7d37c91352677dc7f7d25e5f6ed1062322",
-        "title": "MacBook Air 在 Prime Day（2026 年）期间降至 6 月以来的最低价格 / The MacBook Air Drops to Its Lowest Price Since June for Prime Day (2026)",
-        "title_zh": "MacBook Air 在 Prime Day（2026 年）期间降至 6 月以来的最低价格",
-        "title_en": "The MacBook Air Drops to Its Lowest Price Since June for Prime Day (2026)",
-        "title_original": "The MacBook Air Drops to Its Lowest Price Since June for Prime Day (2026)",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.wired.com/story/macbook-air-prime-day-10-6-2026",
-        "source": "Wired",
-        "source_name": "Curated Media"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-06T17:05:44.200669Z"
+        "scored_at": "2026-10-06T20:22:41.032694Z"
       }
     },
     {
@@ -1205,15 +1280,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6579,
-      "importance": 0.6579,
-      "importance_score": 0.6579,
+      "score": 0.6518,
+      "importance": 0.6518,
+      "importance_score": 0.6518,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5976,
         "source_tier": 0.58,
         "ai_relevance": 0.83,
-        "recency": 0.7502,
+        "recency": 0.716,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1239,7 +1314,227 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T17:05:44.200669Z"
+        "scored_at": "2026-10-06T20:22:41.032694Z"
+      }
+    },
+    {
+      "story_id": "story_720b99104f22",
+      "title": "MacBook Air 在 Prime Day（2026 年）期间降至 6 月以来的最低价格 / The MacBook Air Drops to Its Lowest Price Since June for Prime Day (2026)",
+      "url": "https://www.wired.com/story/macbook-air-prime-day-10-6-2026",
+      "primary_url": "https://www.wired.com/story/macbook-air-prime-day-10-6-2026",
+      "source": "Wired",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "cd5e2e7d37c91352677dc7f7d25e5f6ed1062322",
+          "title": "MacBook Air 在 Prime Day（2026 年）期间降至 6 月以来的最低价格 / The MacBook Air Drops to Its Lowest Price Since June for Prime Day (2026)",
+          "title_zh": "MacBook Air 在 Prime Day（2026 年）期间降至 6 月以来的最低价格",
+          "title_en": "The MacBook Air Drops to Its Lowest Price Since June for Prime Day (2026)",
+          "title_original": "The MacBook Air Drops to Its Lowest Price Since June for Prime Day (2026)",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.wired.com/story/macbook-air-prime-day-10-6-2026",
+          "source": "Wired",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-06T12:38:32Z"
+        },
+        {
+          "id": "c3ac0f9a03c3a10d6505f0963b82a27d8e955f8b",
+          "title": "Prime Day MacBook Air 降价至 6 月以来最低价 / The MacBook Air Drops to Its Lowest Price Since June for Prime Day",
+          "title_zh": "Prime Day MacBook Air 降价至 6 月以来最低价",
+          "title_en": "The MacBook Air Drops to Its Lowest Price Since June for Prime Day",
+          "title_original": "The MacBook Air Drops to Its Lowest Price Since June for Prime Day",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.wired.com/story/macbook-air-prime-day-10-6-2026",
+          "source": "Wired",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-06T12:38:32Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Wired"
+      ],
+      "items": [
+        {
+          "id": "cd5e2e7d37c91352677dc7f7d25e5f6ed1062322",
+          "title": "MacBook Air 在 Prime Day（2026 年）期间降至 6 月以来的最低价格 / The MacBook Air Drops to Its Lowest Price Since June for Prime Day (2026)",
+          "title_zh": "MacBook Air 在 Prime Day（2026 年）期间降至 6 月以来的最低价格",
+          "title_en": "The MacBook Air Drops to Its Lowest Price Since June for Prime Day (2026)",
+          "title_original": "The MacBook Air Drops to Its Lowest Price Since June for Prime Day (2026)",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.wired.com/story/macbook-air-prime-day-10-6-2026",
+          "source": "Wired",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-06T12:38:32Z"
+        },
+        {
+          "id": "c3ac0f9a03c3a10d6505f0963b82a27d8e955f8b",
+          "title": "Prime Day MacBook Air 降价至 6 月以来最低价 / The MacBook Air Drops to Its Lowest Price Since June for Prime Day",
+          "title_zh": "Prime Day MacBook Air 降价至 6 月以来最低价",
+          "title_en": "The MacBook Air Drops to Its Lowest Price Since June for Prime Day",
+          "title_original": "The MacBook Air Drops to Its Lowest Price Since June for Prime Day",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.wired.com/story/macbook-air-prime-day-10-6-2026",
+          "source": "Wired",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-06T12:38:32Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6511,
+      "importance": 0.6511,
+      "importance_score": 0.6511,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5832,
+        "source_tier": 0.58,
+        "ai_relevance": 0.81,
+        "recency": 0.8974,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-06T12:38:32Z",
+      "latest_at": "2026-10-06T12:38:32Z",
+      "primary_item": {
+        "id": "cd5e2e7d37c91352677dc7f7d25e5f6ed1062322",
+        "title": "MacBook Air 在 Prime Day（2026 年）期间降至 6 月以来的最低价格 / The MacBook Air Drops to Its Lowest Price Since June for Prime Day (2026)",
+        "title_zh": "MacBook Air 在 Prime Day（2026 年）期间降至 6 月以来的最低价格",
+        "title_en": "The MacBook Air Drops to Its Lowest Price Since June for Prime Day (2026)",
+        "title_original": "The MacBook Air Drops to Its Lowest Price Since June for Prime Day (2026)",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.wired.com/story/macbook-air-prime-day-10-6-2026",
+        "source": "Wired",
+        "source_name": "Curated Media"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-06T20:22:41.032694Z"
+      }
+    },
+    {
+      "story_id": "story_ff933e089236",
+      "title": "Show HN: I turned my iPhone and a $20 smart plug into an f-stop timer",
+      "url": "https://peterszentkiralyi.eu/darkplug",
+      "primary_url": "https://peterszentkiralyi.eu/darkplug",
+      "source": "Hacker News front page",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "c7f6a2f30bde94c8e170d1511e1bfefc2d0f48a8",
+          "title": "Show HN: I turned my iPhone and a $20 smart plug into an f-stop timer",
+          "title_zh": null,
+          "title_en": "Show HN: I turned my iPhone and a $20 smart plug into an f-stop timer",
+          "title_original": "Show HN: I turned my iPhone and a $20 smart plug into an f-stop timer",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://peterszentkiralyi.eu/darkplug",
+          "source": "Hacker News front page",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-06T13:58:07Z"
+        },
+        {
+          "id": "1ee182c29827ee9602c61ee61f24ed265e8a23b2",
+          "title": "Show HN: I turned my iPhone and a $20 smart plug into an f-stop timer",
+          "title_zh": null,
+          "title_en": "Show HN: I turned my iPhone and a $20 smart plug into an f-stop timer",
+          "title_original": "Show HN: I turned my iPhone and a $20 smart plug into an f-stop timer",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49978595",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-06T13:58:07Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News front page",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "c7f6a2f30bde94c8e170d1511e1bfefc2d0f48a8",
+          "title": "Show HN: I turned my iPhone and a $20 smart plug into an f-stop timer",
+          "title_zh": null,
+          "title_en": "Show HN: I turned my iPhone and a $20 smart plug into an f-stop timer",
+          "title_original": "Show HN: I turned my iPhone and a $20 smart plug into an f-stop timer",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://peterszentkiralyi.eu/darkplug",
+          "source": "Hacker News front page",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-06T13:58:07Z"
+        },
+        {
+          "id": "1ee182c29827ee9602c61ee61f24ed265e8a23b2",
+          "title": "Show HN: I turned my iPhone and a $20 smart plug into an f-stop timer",
+          "title_zh": null,
+          "title_en": "Show HN: I turned my iPhone and a $20 smart plug into an f-stop timer",
+          "title_original": "Show HN: I turned my iPhone and a $20 smart plug into an f-stop timer",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49978595",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-06T13:58:07Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6417,
+      "importance": 0.6417,
+      "importance_score": 0.6417,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5616,
+        "source_tier": 0.58,
+        "ai_relevance": 0.78,
+        "recency": 0.9147,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-06T13:58:07Z",
+      "latest_at": "2026-10-06T13:58:07Z",
+      "primary_item": {
+        "id": "c7f6a2f30bde94c8e170d1511e1bfefc2d0f48a8",
+        "title": "Show HN: I turned my iPhone and a $20 smart plug into an f-stop timer",
+        "title_zh": null,
+        "title_en": "Show HN: I turned my iPhone and a $20 smart plug into an f-stop timer",
+        "title_original": "Show HN: I turned my iPhone and a $20 smart plug into an f-stop timer",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://peterszentkiralyi.eu/darkplug",
+        "source": "Hacker News front page",
+        "source_name": "Curated Media"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-06T20:22:41.032694Z"
       }
     },
     {
@@ -1315,15 +1610,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6164,
-      "importance": 0.6164,
-      "importance_score": 0.6164,
+      "score": 0.61,
+      "importance": 0.61,
+      "importance_score": 0.61,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5616,
         "source_tier": 0.58,
         "ai_relevance": 0.78,
-        "recency": 0.774,
+        "recency": 0.7387,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1348,7 +1643,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T17:05:44.200669Z"
+        "scored_at": "2026-10-06T20:22:41.032694Z"
       }
     },
     {
@@ -1454,15 +1749,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6406,
-      "importance": 0.6406,
-      "importance_score": 0.6406,
+      "score": 0.6343,
+      "importance": 0.6343,
+      "importance_score": 0.6343,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5616,
         "source_tier": 0.58,
         "ai_relevance": 0.78,
-        "recency": 0.7697,
+        "recency": 0.7346,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1487,7 +1782,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T17:05:44.200669Z"
+        "scored_at": "2026-10-06T20:22:41.032694Z"
+      }
+    },
+    {
+      "story_id": "story_ce783e742a30",
+      "title": "人工智能现已具备自主开发推理硬件的能力 / AI is now capable of developing its own inference hardware",
+      "url": "https://github.com/FeSens/openTPU",
+      "primary_url": "https://github.com/FeSens/openTPU",
+      "source": "Hacker News front page",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "3867da140527c80f2b7227852df2f148cdb9be2a",
+          "title": "人工智能现已具备自主开发推理硬件的能力 / AI is now capable of developing its own inference hardware",
+          "title_zh": "人工智能现已具备自主开发推理硬件的能力",
+          "title_en": "AI is now capable of developing its own inference hardware",
+          "title_original": "AI is now capable of developing its own inference hardware",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/FeSens/openTPU",
+          "source": "Hacker News front page",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-06T16:23:25Z"
+        },
+        {
+          "id": "3ede777bc6d0b520f5ec5d83137837e17d982673",
+          "title": "人工智能现已具备自主开发推理硬件的能力",
+          "title_zh": "人工智能现已具备自主开发推理硬件的能力",
+          "title_en": null,
+          "title_original": "人工智能现已具备自主开发推理硬件的能力",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/FeSens/openTPU",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-06T18:01:39.389000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News front page",
+        "github.com"
+      ],
+      "items": [
+        {
+          "id": "3867da140527c80f2b7227852df2f148cdb9be2a",
+          "title": "人工智能现已具备自主开发推理硬件的能力 / AI is now capable of developing its own inference hardware",
+          "title_zh": "人工智能现已具备自主开发推理硬件的能力",
+          "title_en": "AI is now capable of developing its own inference hardware",
+          "title_original": "AI is now capable of developing its own inference hardware",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/FeSens/openTPU",
+          "source": "Hacker News front page",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-06T16:23:25Z"
+        },
+        {
+          "id": "3ede777bc6d0b520f5ec5d83137837e17d982673",
+          "title": "人工智能现已具备自主开发推理硬件的能力",
+          "title_zh": "人工智能现已具备自主开发推理硬件的能力",
+          "title_en": null,
+          "title_original": "人工智能现已具备自主开发推理硬件的能力",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/FeSens/openTPU",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-06T18:01:39.389000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5701,
+      "importance": 0.5701,
+      "importance_score": 0.5701,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.45,
+        "source_tier": 0.58,
+        "ai_relevance": 0.56,
+        "recency": 0.9473,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-06T16:23:25Z",
+      "latest_at": "2026-10-06T18:01:39.389000Z",
+      "primary_item": {
+        "id": "3867da140527c80f2b7227852df2f148cdb9be2a",
+        "title": "人工智能现已具备自主开发推理硬件的能力 / AI is now capable of developing its own inference hardware",
+        "title_zh": "人工智能现已具备自主开发推理硬件的能力",
+        "title_en": "AI is now capable of developing its own inference hardware",
+        "title_original": "AI is now capable of developing its own inference hardware",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.com/FeSens/openTPU",
+        "source": "Hacker News front page",
+        "source_name": "Curated Media"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-06T20:22:41.032694Z"
       }
     }
   ]
