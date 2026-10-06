@@ -5,8 +5,16 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Tue, 06 Oct 2026 14:07:14 +0000</lastBuildDate>
+<lastBuildDate>Tue, 06 Oct 2026 16:54:32 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
+<item>
+<title>Atlassian and OpenAI expand partnership to turn enterprise knowledge into action</title>
+<link>https://openai.com/index/atlassian-partnership</link>
+<guid isPermaLink="true">https://openai.com/index/atlassian-partnership</guid>
+<description>OpenAI News</description>
+<category>官方更新</category>
+<pubDate>Tue, 06 Oct 2026 16:00:00 +0000</pubDate>
+</item>
 <item>
 <title>猎鹰阿联酋：当LLM学习方言、文化和细微差别时 / Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance</title>
 <link>https://huggingface.co/blog/tiiuae/falcon-emirati</link>
@@ -14,14 +22,6 @@
 <description>Hugging Face Blog</description>
 <category>官方更新</category>
 <pubDate>Tue, 06 Oct 2026 06:44:39 +0000</pubDate>
-</item>
-<item>
-<title>OpenAI 公布 EU AI Act 下的文本溯源方案，推出 textGrain 文本水印 / Our approach to EU text provenance rules</title>
-<link>https://openai.com/index/eu-text-provenance</link>
-<guid isPermaLink="true">https://openai.com/index/eu-text-provenance</guid>
-<description>OpenAI News</description>
-<category>官方更新</category>
-<pubDate>Mon, 05 Oct 2026 15:00:00 +0000</pubDate>
 </item>
 <item>
 <title>安全概览中的代码扫描 AI Scan 启用状态 / Code scanning AI Scan enablement status in security overview</title>
@@ -32,20 +32,20 @@
 <pubDate>Tue, 06 Oct 2026 10:23:38 +0000</pubDate>
 </item>
 <item>
+<title>Claude Code 云端会话实战指南：每个任务独占一台 VM，可并行跑任务并以分支收尾 / Claude Code in the cloud: a field guide to cloud sessions</title>
+<link>https://claude.dev/blog/claude-code-in-the-cloud</link>
+<guid isPermaLink="true">https://claude.dev/blog/claude-code-in-the-cloud</guid>
+<description>Claude Code 推出云端会话：每个任务在独立 VM 上运行，仓库克隆到新分支，可从 claude.ai/code、手机、Desktop、终端和 Slack 启动并跟踪，完成后产出可转 PR 的分支，Pro、Max、Team、Enterprise 计划不额外收费。（Anthropic：Claude.dev 开发者博客（RSS））</description>
+<category>行业动态</category>
+<pubDate>Tue, 06 Oct 2026 12:00:00 +0000</pubDate>
+</item>
+<item>
 <title>Wikimedia 基金会发现 OpenAI "流氓"智能体在维基媒体平台上的活动 / OpenAI "rogue" agent activities found on Wikimedia projects</title>
 <link>https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects</link>
 <guid isPermaLink="true">https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects</guid>
 <description>Wikimedia 基金会调查确认在其平台上发现了疑似 OpenAI 运营的"流氓"智能体活动，包括未获批的沙盒区域编辑、试图利用公共记事工具 Etherpad 作为代理抓取数据，以及数百万次 API 请求和页面爬取，未发现系统被用于智能体间协调或数据被入侵的证据。（Hacker News：AI 热帖）</description>
 <category>多源热议</category>
 <pubDate>Mon, 05 Oct 2026 19:20:27 +0000</pubDate>
-</item>
-<item>
-<title>ReviewBench：人工智能代码审查的开放基准 / ReviewBench: An open benchmark for AI code review</title>
-<link>https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review</link>
-<guid isPermaLink="true">https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review</guid>
-<description>GitHub AI &amp; ML</description>
-<category>官方更新</category>
-<pubDate>Mon, 05 Oct 2026 15:59:40 +0000</pubDate>
 </item>
 <item>
 <title>消息称 DeepSeek 接近完成至少 800 亿元融资，腾讯、宁德时代重金参与</title>
@@ -70,6 +70,30 @@
 <description>GitHub Changelog</description>
 <category>官方更新</category>
 <pubDate>Mon, 05 Oct 2026 22:42:14 +0000</pubDate>
+</item>
+<item>
+<title>DeepSeek V4.1 Flash 在 ARC-AGI (Verified) 评测中的成绩公布 / DeepSeek V4.1 Flash from @deepseek_ai on ARC-AGI (Verified):</title>
+<link>https://x.com/arcprize/status/2107491194007585239</link>
+<guid isPermaLink="true">https://x.com/arcprize/status/2107491194007585239</guid>
+<description>ARC Prize 公布 DeepSeek V4.1 Flash 在 ARC-AGI (Verified) 的成绩：ARC-AGI-2 得分 72.9%，每任务成本 $0.13；ARC-AGI-1 得分 94.5%，每任务成本 $0.07。相比 V4 Flash 的最佳成绩，ARC-AGI-1 高 5.5 分，ARC-AGI-2 高 11.5 分，但每任务成本高约 250%。（X：ARC Prize (@arcprize)）</description>
+<category>行业动态</category>
+<pubDate>Tue, 06 Oct 2026 15:20:30 +0000</pubDate>
+</item>
+<item>
+<title>Mistral Large 4 上线 Arena 的 Agent Arena 与 Code Arena 评测 / Mistral Large 4 by @MistralAI is now in the Arena!</title>
+<link>https://x.com/arena/status/2107476436223504484</link>
+<guid isPermaLink="true">https://x.com/arena/status/2107476436223504484</guid>
+<description>Arena 宣布 Mistral 的 Mistral Large 4 现已进入 Agent Arena，用户可前往测试投票，分数稍后公布。该模型为 1T 参数、49B 激活的原生多模态开放权重模型，也已在 Code Arena 的 WebDev、Text 和 Vision 中可用。（X：Arena (@arena)）</description>
+<category>行业动态</category>
+<pubDate>Tue, 06 Oct 2026 14:21:52 +0000</pubDate>
+</item>
+<item>
+<title>我无法在女儿的 iPhone 上使用 Apple 的新屏幕使用时间，因为我儿子不会更新他的 MacBook / I can’t use Apple’s new Screen Time on my daughter’s iPhone because my son won&amp;#8217;t update his MacBook</title>
+<link>https://www.theverge.com/tech/1005193/apple-screen-time-update-struggles-ios-27-parental-controls</link>
+<guid isPermaLink="true">https://www.theverge.com/tech/1005193/apple-screen-time-update-struggles-ios-27-parental-controls</guid>
+<description>The Verge (all)</description>
+<category>值得关注</category>
+<pubDate>Tue, 06 Oct 2026 13:15:28 +0000</pubDate>
 </item>
 <item>
 <title>MacBook Air 在 Prime Day（2026 年）期间降至 6 月以来的最低价格 / The MacBook Air Drops to Its Lowest Price Since June for Prime Day (2026)</title>
