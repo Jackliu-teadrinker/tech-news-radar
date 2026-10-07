@@ -1,30 +1,16 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-07T09:10:16.165138Z",
+  "generated_at": "2026-10-07T14:24:00.069133Z",
   "ok": true,
-  "active_count": 1,
+  "active_count": 0,
   "providers": [
     {
       "id": "openai",
       "name": "OpenAI",
       "status_url": "https://status.openai.com/",
       "ok": true,
-      "active_count": 1
+      "active_count": 0
     }
   ],
-  "incidents": [
-    {
-      "id": "01M4ADHMMBK7K92NJFJ0DXRYJM",
-      "provider": "OpenAI",
-      "title": "Unable to create new ChatGPT Work threads in latest version of desktop app",
-      "title_zh": "Unable to create new ChatGPT Work threads in latest version of desktop app",
-      "status": "identified",
-      "impact": "major",
-      "started_at": "2026-10-07T05:31:56Z",
-      "updated_at": "2026-10-07T05:54:27Z",
-      "message": "we have identified the issue, working on rolling back to the previous version.",
-      "affected_components": [],
-      "url": "https://status.openai.com/incidents/01M4ADHMMBK7K92NJFJ0DXRYJM"
-    }
-  ]
+  "incidents": []
 }
