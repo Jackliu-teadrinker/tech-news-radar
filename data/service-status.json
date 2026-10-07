@@ -1,16 +1,43 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-07T14:24:00.069133Z",
+  "generated_at": "2026-10-07T17:31:25.218908Z",
   "ok": true,
-  "active_count": 0,
+  "active_count": 2,
   "providers": [
     {
       "id": "openai",
       "name": "OpenAI",
       "status_url": "https://status.openai.com/",
       "ok": true,
-      "active_count": 0
+      "active_count": 2
     }
   ],
-  "incidents": []
+  "incidents": [
+    {
+      "id": "01M4BK9J2M83R4SSC71D9FXW45",
+      "provider": "OpenAI",
+      "title": "Dot in Codex may fail to create new threads",
+      "title_zh": "Dot in Codex may fail to create new threads",
+      "status": "monitoring",
+      "impact": "minor",
+      "started_at": "2026-10-07T16:31:37Z",
+      "updated_at": "2026-10-07T17:30:28Z",
+      "message": "We have applied the mitigation and are monitoring the recovery.",
+      "affected_components": [],
+      "url": "https://status.openai.com/incidents/01M4BK9J2M83R4SSC71D9FXW45"
+    },
+    {
+      "id": "01M4BP5JE7DKJSP3VG2S2DCWF2",
+      "provider": "OpenAI",
+      "title": "Degraded performance in Codex and Work mode: Dot turn failures, delayed responses, and reduced proactivity",
+      "title_zh": "Degraded performance in Codex and Work mode: Dot turn failures, delayed responses, and reduced proactivity",
+      "status": "investigating",
+      "impact": "minor",
+      "started_at": "2026-10-07T17:21:52Z",
+      "updated_at": "2026-10-07T17:21:52Z",
+      "message": "We are investigating the issue for the listed services.",
+      "affected_components": [],
+      "url": "https://status.openai.com/incidents/01M4BP5JE7DKJSP3VG2S2DCWF2"
+    }
+  ]
 }
