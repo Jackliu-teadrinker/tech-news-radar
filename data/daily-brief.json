@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T00:55:04.955804Z",
+  "generated_at": "2026-10-08T09:24:58.251172Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -135,15 +135,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.9089,
-      "importance": 0.9089,
-      "importance_score": 0.9089,
+      "score": 0.8901,
+      "importance": 0.8901,
+      "importance_score": 0.8901,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.87,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9051,
+        "recency": 0.8006,
         "story_heat": 0.75
       },
       "category": "official",
@@ -170,7 +170,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-08T00:56:27.292193Z"
+        "scored_at": "2026-10-08T09:26:26.469050Z"
       }
     },
     {
@@ -218,15 +218,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8582,
-      "importance": 0.8582,
-      "importance_score": 0.8582,
+      "score": 0.8387,
+      "importance": 0.8387,
+      "importance_score": 0.8387,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9342,
+        "recency": 0.8263,
         "story_heat": 0.0
       },
       "category": "official",
@@ -253,7 +253,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-08T00:56:27.292193Z"
+        "scored_at": "2026-10-08T09:26:26.469050Z"
+      }
+    },
+    {
+      "story_id": "story_6d9b4cd327fa",
+      "title": "【AIHOT 通知】旧版接口 2026 年 10 月 31 日停用，推送机器人和脚本请尽快迁移 / AIHOT notice: the legacy API /api/public/* stops on 31 Oct 2026; bots and scripts should move to /api/v1",
+      "url": "https://aihot.news/agent?tab=api",
+      "primary_url": "https://aihot.news/agent?tab=api",
+      "source": "AIHOT",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b23efb1ac1501010c365eae2e54ffb4cf0dda3dd",
+          "title": "【AIHOT 通知】旧版接口 2026 年 10 月 31 日停用，推送机器人和脚本请尽快迁移 / AIHOT notice: the legacy API /api/public/* stops on 31 Oct 2026; bots and scripts should move to /api/v1",
+          "title_zh": "【AIHOT 通知】旧版接口 2026 年 10 月 31 日停用，推送机器人和脚本请尽快迁移",
+          "title_en": "AIHOT notice: the legacy API /api/public/* stops on 31 Oct 2026; bots and scripts should move to /api/v1",
+          "title_original": "AIHOT notice: the legacy API /api/public/* stops on 31 Oct 2026; bots and scripts should move to /api/v1",
+          "summary": "这条消息来自 AIHOT 旧版接口 /api/public/*：它将于 2026 年 10 月 31 日停用，之后这里不会再有新资讯。如果它是群机器人或脚本推送来的，请转告维护的人把地址换成 https://aihot.news/api/v1，字段一一对应；迁移指南和可以直接交给 AI 改写代码的提示词见 https://aihot.news/agent?tab=api#legacy-api-migration 。同一天起旧域名 aihot.virxact.com 的所有地址都只跳转到 aihot.news，RSS、MCP 等地址也请换成新域名；收藏的网页链接照样能打开。",
+          "recommend_reason_zh": null,
+          "url": "https://aihot.news/agent?tab=api",
+          "source": "AIHOT",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-08T02:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIHOT"
+      ],
+      "items": [
+        {
+          "id": "b23efb1ac1501010c365eae2e54ffb4cf0dda3dd",
+          "title": "【AIHOT 通知】旧版接口 2026 年 10 月 31 日停用，推送机器人和脚本请尽快迁移 / AIHOT notice: the legacy API /api/public/* stops on 31 Oct 2026; bots and scripts should move to /api/v1",
+          "title_zh": "【AIHOT 通知】旧版接口 2026 年 10 月 31 日停用，推送机器人和脚本请尽快迁移",
+          "title_en": "AIHOT notice: the legacy API /api/public/* stops on 31 Oct 2026; bots and scripts should move to /api/v1",
+          "title_original": "AIHOT notice: the legacy API /api/public/* stops on 31 Oct 2026; bots and scripts should move to /api/v1",
+          "summary": "这条消息来自 AIHOT 旧版接口 /api/public/*：它将于 2026 年 10 月 31 日停用，之后这里不会再有新资讯。如果它是群机器人或脚本推送来的，请转告维护的人把地址换成 https://aihot.news/api/v1，字段一一对应；迁移指南和可以直接交给 AI 改写代码的提示词见 https://aihot.news/agent?tab=api#legacy-api-migration 。同一天起旧域名 aihot.virxact.com 的所有地址都只跳转到 aihot.news，RSS、MCP 等地址也请换成新域名；收藏的网页链接照样能打开。",
+          "recommend_reason_zh": null,
+          "url": "https://aihot.news/agent?tab=api",
+          "source": "AIHOT",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-08T02:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8233,
+      "importance": 0.8233,
+      "importance_score": 0.8233,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 1.0,
+        "source_tier": 0.78,
+        "ai_relevance": 0.95,
+        "recency": 0.8984,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-08T02:00:00Z",
+      "latest_at": "2026-10-08T02:00:00Z",
+      "primary_item": {
+        "id": "b23efb1ac1501010c365eae2e54ffb4cf0dda3dd",
+        "title": "【AIHOT 通知】旧版接口 2026 年 10 月 31 日停用，推送机器人和脚本请尽快迁移 / AIHOT notice: the legacy API /api/public/* stops on 31 Oct 2026; bots and scripts should move to /api/v1",
+        "title_zh": "【AIHOT 通知】旧版接口 2026 年 10 月 31 日停用，推送机器人和脚本请尽快迁移",
+        "title_en": "AIHOT notice: the legacy API /api/public/* stops on 31 Oct 2026; bots and scripts should move to /api/v1",
+        "title_original": "AIHOT notice: the legacy API /api/public/* stops on 31 Oct 2026; bots and scripts should move to /api/v1",
+        "summary": "这条消息来自 AIHOT 旧版接口 /api/public/*：它将于 2026 年 10 月 31 日停用，之后这里不会再有新资讯。如果它是群机器人或脚本推送来的，请转告维护的人把地址换成 https://aihot.news/api/v1，字段一一对应；迁移指南和可以直接交给 AI 改写代码的提示词见 https://aihot.news/agent?tab=api#legacy-api-migration 。同一天起旧域名 aihot.virxact.com 的所有地址都只跳转到 aihot.news，RSS、MCP 等地址也请换成新域名；收藏的网页链接照样能打开。",
+        "recommend_reason_zh": null,
+        "url": "https://aihot.news/agent?tab=api",
+        "source": "AIHOT",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-08T09:26:26.469050Z"
       }
     },
     {
@@ -301,15 +383,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8354,
-      "importance": 0.8354,
-      "importance_score": 0.8354,
+      "score": 0.8181,
+      "importance": 0.8181,
+      "importance_score": 0.8181,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.8298,
+        "recency": 0.734,
         "story_heat": 0.0
       },
       "category": "official",
@@ -336,7 +418,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-08T00:56:27.292193Z"
+        "scored_at": "2026-10-08T09:26:26.469050Z"
       }
     },
     {
@@ -384,15 +466,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8143,
-      "importance": 0.8143,
-      "importance_score": 0.8143,
+      "score": 0.7958,
+      "importance": 0.7958,
+      "importance_score": 0.7958,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.82,
-        "recency": 0.8908,
+        "recency": 0.7879,
         "story_heat": 0.0
       },
       "category": "official",
@@ -419,90 +501,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-08T00:56:27.292193Z"
-      }
-    },
-    {
-      "story_id": "story_e7c1dfa5362c",
-      "title": "丽笙酒店集团将酒店发现带入 ChatGPT / Radisson Hotel Group brings hotel discovery into ChatGPT",
-      "url": "https://openai.com/index/radisson",
-      "primary_url": "https://openai.com/index/radisson",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "c578cd61b355d43d82030df84d48a64b5415b5a3",
-          "title": "丽笙酒店集团将酒店发现带入 ChatGPT / Radisson Hotel Group brings hotel discovery into ChatGPT",
-          "title_zh": "丽笙酒店集团将酒店发现带入 ChatGPT",
-          "title_en": "Radisson Hotel Group brings hotel discovery into ChatGPT",
-          "title_original": "Radisson Hotel Group brings hotel discovery into ChatGPT",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/radisson",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-07T07:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "c578cd61b355d43d82030df84d48a64b5415b5a3",
-          "title": "丽笙酒店集团将酒店发现带入 ChatGPT / Radisson Hotel Group brings hotel discovery into ChatGPT",
-          "title_zh": "丽笙酒店集团将酒店发现带入 ChatGPT",
-          "title_en": "Radisson Hotel Group brings hotel discovery into ChatGPT",
-          "title_original": "Radisson Hotel Group brings hotel discovery into ChatGPT",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/radisson",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-07T07:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.829,
-      "importance": 0.829,
-      "importance_score": 0.829,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.772,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-07T07:00:00Z",
-      "latest_at": "2026-10-07T07:00:00Z",
-      "primary_item": {
-        "id": "c578cd61b355d43d82030df84d48a64b5415b5a3",
-        "title": "丽笙酒店集团将酒店发现带入 ChatGPT / Radisson Hotel Group brings hotel discovery into ChatGPT",
-        "title_zh": "丽笙酒店集团将酒店发现带入 ChatGPT",
-        "title_en": "Radisson Hotel Group brings hotel discovery into ChatGPT",
-        "title_original": "Radisson Hotel Group brings hotel discovery into ChatGPT",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/radisson",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-08T00:56:27.292193Z"
+        "scored_at": "2026-10-08T09:26:26.469050Z"
       }
     },
     {
@@ -550,15 +549,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7983,
-      "importance": 0.7983,
-      "importance_score": 0.7983,
+      "score": 0.7796,
+      "importance": 0.7796,
+      "importance_score": 0.7796,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.73,
-        "recency": 0.9018,
+        "recency": 0.7976,
         "story_heat": 0.0
       },
       "category": "official",
@@ -584,7 +583,119 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-08T00:56:27.292193Z"
+        "scored_at": "2026-10-08T09:26:26.469050Z"
+      }
+    },
+    {
+      "story_id": "story_aab4210bc456",
+      "title": "ts-rust 发布：由 LLM 将 TypeScript 编译器、检查器和 LSP 移植到 Rust / Port of the TypeScript compiler, checker and lsp to Rust, by LLM",
+      "url": "https://github.com/pingdotgg/ts-rust",
+      "primary_url": "https://github.com/pingdotgg/ts-rust",
+      "source": "Hacker News：AI 热帖",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ee9f97b75a4c7f8f29d61a2e00f792dd566eba39",
+          "title": "ts-rust 发布：由 LLM 将 TypeScript 编译器、检查器和 LSP 移植到 Rust / Port of the TypeScript compiler, checker and lsp to Rust, by LLM",
+          "title_zh": "ts-rust 发布：由 LLM 将 TypeScript 编译器、检查器和 LSP 移植到 Rust",
+          "title_en": "Port of the TypeScript compiler, checker and lsp to Rust, by LLM",
+          "title_original": "Port of the TypeScript compiler, checker and lsp to Rust, by LLM",
+          "summary": "ts-rust（tsc-rs）将 microsoft/TypeScript（Go 实现）的编译器、类型检查器和语言服务器移植为 Rust，作者称全部代码由 LLM 编写，本人未读过代码。",
+          "recommend_reason_zh": null,
+          "url": "https://github.com/pingdotgg/ts-rust",
+          "source": "Hacker News：AI 热帖",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-08T00:46:00Z"
+        },
+        {
+          "id": "04627e66e15067a56b5e98096400348798f5e9e1",
+          "title": "将 TypeScript 编译器、检查器和 lsp 移植到 Rust，由 LLM 提供 / Port of the TypeScript compiler, checker and lsp to Rust, by LLM",
+          "title_zh": "将 TypeScript 编译器、检查器和 lsp 移植到 Rust，由 LLM 提供",
+          "title_en": "Port of the TypeScript compiler, checker and lsp to Rust, by LLM",
+          "title_original": "Port of the TypeScript compiler, checker and lsp to Rust, by LLM",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50000676",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-08T00:46:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News：AI 热帖",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "ee9f97b75a4c7f8f29d61a2e00f792dd566eba39",
+          "title": "ts-rust 发布：由 LLM 将 TypeScript 编译器、检查器和 LSP 移植到 Rust / Port of the TypeScript compiler, checker and lsp to Rust, by LLM",
+          "title_zh": "ts-rust 发布：由 LLM 将 TypeScript 编译器、检查器和 LSP 移植到 Rust",
+          "title_en": "Port of the TypeScript compiler, checker and lsp to Rust, by LLM",
+          "title_original": "Port of the TypeScript compiler, checker and lsp to Rust, by LLM",
+          "summary": "ts-rust（tsc-rs）将 microsoft/TypeScript（Go 实现）的编译器、类型检查器和语言服务器移植为 Rust，作者称全部代码由 LLM 编写，本人未读过代码。",
+          "recommend_reason_zh": null,
+          "url": "https://github.com/pingdotgg/ts-rust",
+          "source": "Hacker News：AI 热帖",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-08T00:46:00Z"
+        },
+        {
+          "id": "04627e66e15067a56b5e98096400348798f5e9e1",
+          "title": "将 TypeScript 编译器、检查器和 lsp 移植到 Rust，由 LLM 提供 / Port of the TypeScript compiler, checker and lsp to Rust, by LLM",
+          "title_zh": "将 TypeScript 编译器、检查器和 lsp 移植到 Rust，由 LLM 提供",
+          "title_en": "Port of the TypeScript compiler, checker and lsp to Rust, by LLM",
+          "title_original": "Port of the TypeScript compiler, checker and lsp to Rust, by LLM",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50000676",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-08T00:46:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7735,
+      "importance": 0.7735,
+      "importance_score": 0.7735,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 0.95,
+        "recency": 0.8826,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-08T00:46:00Z",
+      "latest_at": "2026-10-08T00:46:00Z",
+      "primary_item": {
+        "id": "ee9f97b75a4c7f8f29d61a2e00f792dd566eba39",
+        "title": "ts-rust 发布：由 LLM 将 TypeScript 编译器、检查器和 LSP 移植到 Rust / Port of the TypeScript compiler, checker and lsp to Rust, by LLM",
+        "title_zh": "ts-rust 发布：由 LLM 将 TypeScript 编译器、检查器和 LSP 移植到 Rust",
+        "title_en": "Port of the TypeScript compiler, checker and lsp to Rust, by LLM",
+        "title_original": "Port of the TypeScript compiler, checker and lsp to Rust, by LLM",
+        "summary": "ts-rust（tsc-rs）将 microsoft/TypeScript（Go 实现）的编译器、类型检查器和语言服务器移植为 Rust，作者称全部代码由 LLM 编写，本人未读过代码。",
+        "recommend_reason_zh": null,
+        "url": "https://github.com/pingdotgg/ts-rust",
+        "source": "Hacker News：AI 热帖",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-08T09:26:26.469050Z"
       }
     },
     {
@@ -632,15 +743,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7854,
-      "importance": 0.7854,
-      "importance_score": 0.7854,
+      "score": 0.7681,
+      "importance": 0.7681,
+      "importance_score": 0.7681,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.73,
-        "recency": 0.8298,
+        "recency": 0.734,
         "story_heat": 0.0
       },
       "category": "official",
@@ -666,7 +777,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-08T00:56:27.292193Z"
+        "scored_at": "2026-10-08T09:26:26.469050Z"
       }
     },
     {
@@ -714,15 +825,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7832,
-      "importance": 0.7832,
-      "importance_score": 0.7832,
+      "score": 0.7644,
+      "importance": 0.7644,
+      "importance_score": 0.7644,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9069,
+        "recency": 0.8021,
         "story_heat": 0.0
       },
       "category": "official",
@@ -748,7 +859,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-08T00:56:27.292193Z"
+        "scored_at": "2026-10-08T09:26:26.469050Z"
       }
     },
     {
@@ -825,15 +936,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7783,
-      "importance": 0.7783,
-      "importance_score": 0.7783,
+      "score": 0.7594,
+      "importance": 0.7594,
+      "importance_score": 0.7594,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.6,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9072,
+        "recency": 0.8024,
         "story_heat": 0.25
       },
       "category": "official",
@@ -860,89 +971,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-08T00:56:27.292193Z"
-      }
-    },
-    {
-      "story_id": "story_b9d295c686cc",
-      "title": "GitHub Copilot 的本地沙箱现已普遍可用 / Local sandboxing for GitHub Copilot now generally available",
-      "url": "https://github.blog/changelog/2026-10-07-local-sandboxing-for-github-copilot-now-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-10-07-local-sandboxing-for-github-copilot-now-generally-available",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "4b00cda75f5bf858a654f796a769ab4bacf81797",
-          "title": "GitHub Copilot 的本地沙箱现已普遍可用 / Local sandboxing for GitHub Copilot now generally available",
-          "title_zh": "GitHub Copilot 的本地沙箱现已普遍可用",
-          "title_en": "Local sandboxing for GitHub Copilot now generally available",
-          "title_original": "Local sandboxing for GitHub Copilot now generally available",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-07-local-sandboxing-for-github-copilot-now-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-07T15:46:17Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "4b00cda75f5bf858a654f796a769ab4bacf81797",
-          "title": "GitHub Copilot 的本地沙箱现已普遍可用 / Local sandboxing for GitHub Copilot now generally available",
-          "title_zh": "GitHub Copilot 的本地沙箱现已普遍可用",
-          "title_en": "Local sandboxing for GitHub Copilot now generally available",
-          "title_original": "Local sandboxing for GitHub Copilot now generally available",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-07-local-sandboxing-for-github-copilot-now-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-07T15:46:17Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7997,
-      "importance": 0.7997,
-      "importance_score": 0.7997,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.76,
-        "recency": 0.8763,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-07T15:46:17Z",
-      "latest_at": "2026-10-07T15:46:17Z",
-      "primary_item": {
-        "id": "4b00cda75f5bf858a654f796a769ab4bacf81797",
-        "title": "GitHub Copilot 的本地沙箱现已普遍可用 / Local sandboxing for GitHub Copilot now generally available",
-        "title_zh": "GitHub Copilot 的本地沙箱现已普遍可用",
-        "title_en": "Local sandboxing for GitHub Copilot now generally available",
-        "title_original": "Local sandboxing for GitHub Copilot now generally available",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-07-local-sandboxing-for-github-copilot-now-generally-available",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-08T00:56:27.292193Z"
+        "scored_at": "2026-10-08T09:26:26.469050Z"
       }
     },
     {
@@ -990,15 +1019,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.799,
-      "importance": 0.799,
-      "importance_score": 0.799,
+      "score": 0.7816,
+      "importance": 0.7816,
+      "importance_score": 0.7816,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.79,
-        "recency": 0.839,
+        "recency": 0.7421,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1024,7 +1053,251 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-08T00:56:27.292193Z"
+        "scored_at": "2026-10-08T09:26:26.469050Z"
+      }
+    },
+    {
+      "story_id": "story_b9d295c686cc",
+      "title": "GitHub Copilot 的本地沙箱现已普遍可用 / Local sandboxing for GitHub Copilot now generally available",
+      "url": "https://github.blog/changelog/2026-10-07-local-sandboxing-for-github-copilot-now-generally-available",
+      "primary_url": "https://github.blog/changelog/2026-10-07-local-sandboxing-for-github-copilot-now-generally-available",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "4b00cda75f5bf858a654f796a769ab4bacf81797",
+          "title": "GitHub Copilot 的本地沙箱现已普遍可用 / Local sandboxing for GitHub Copilot now generally available",
+          "title_zh": "GitHub Copilot 的本地沙箱现已普遍可用",
+          "title_en": "Local sandboxing for GitHub Copilot now generally available",
+          "title_original": "Local sandboxing for GitHub Copilot now generally available",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-07-local-sandboxing-for-github-copilot-now-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-07T15:46:17Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "4b00cda75f5bf858a654f796a769ab4bacf81797",
+          "title": "GitHub Copilot 的本地沙箱现已普遍可用 / Local sandboxing for GitHub Copilot now generally available",
+          "title_zh": "GitHub Copilot 的本地沙箱现已普遍可用",
+          "title_en": "Local sandboxing for GitHub Copilot now generally available",
+          "title_original": "Local sandboxing for GitHub Copilot now generally available",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-07-local-sandboxing-for-github-copilot-now-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-07T15:46:17Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7815,
+      "importance": 0.7815,
+      "importance_score": 0.7815,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.76,
+        "recency": 0.7751,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-07T15:46:17Z",
+      "latest_at": "2026-10-07T15:46:17Z",
+      "primary_item": {
+        "id": "4b00cda75f5bf858a654f796a769ab4bacf81797",
+        "title": "GitHub Copilot 的本地沙箱现已普遍可用 / Local sandboxing for GitHub Copilot now generally available",
+        "title_zh": "GitHub Copilot 的本地沙箱现已普遍可用",
+        "title_en": "Local sandboxing for GitHub Copilot now generally available",
+        "title_original": "Local sandboxing for GitHub Copilot now generally available",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-10-07-local-sandboxing-for-github-copilot-now-generally-available",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-08T09:26:26.469050Z"
+      }
+    },
+    {
+      "story_id": "story_77071f8577b9",
+      "title": "Codex 与 ChatGPT Work 活跃用户达 4000 万新高，付费账户重置已全部到账 / Confirmed landed across all accounts. How are we doing so far?",
+      "url": "https://x.com/thsottiaux/status/2108040921044639779",
+      "primary_url": "https://x.com/thsottiaux/status/2108040921044639779",
+      "source": "X：Tibo (@thsottiaux)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b9798e6758a5964a01c7b0d7599574e0b4e4d825",
+          "title": "Codex 与 ChatGPT Work 活跃用户达 4000 万新高，付费账户重置已全部到账 / Confirmed landed across all accounts. How are we doing so far?",
+          "title_zh": "Codex 与 ChatGPT Work 活跃用户达 4000 万新高，付费账户重置已全部到账",
+          "title_en": "Confirmed landed across all accounts. How are we doing so far?",
+          "title_original": "Confirmed landed across all accounts. How are we doing so far?",
+          "summary": "作者确认 banked reset 已到账所有账户，并转引 Day 3 动态称 Codex 与 ChatGPT Work 合计活跃用户达到 4000 万新高，其中提到 GPT-6 已在 Chat 中上线。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/thsottiaux/status/2108040921044639779",
+          "source": "X：Tibo (@thsottiaux)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-08T03:44:55Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Tibo (@thsottiaux)"
+      ],
+      "items": [
+        {
+          "id": "b9798e6758a5964a01c7b0d7599574e0b4e4d825",
+          "title": "Codex 与 ChatGPT Work 活跃用户达 4000 万新高，付费账户重置已全部到账 / Confirmed landed across all accounts. How are we doing so far?",
+          "title_zh": "Codex 与 ChatGPT Work 活跃用户达 4000 万新高，付费账户重置已全部到账",
+          "title_en": "Confirmed landed across all accounts. How are we doing so far?",
+          "title_original": "Confirmed landed across all accounts. How are we doing so far?",
+          "summary": "作者确认 banked reset 已到账所有账户，并转引 Day 3 动态称 Codex 与 ChatGPT Work 合计活跃用户达到 4000 万新高，其中提到 GPT-6 已在 Chat 中上线。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/thsottiaux/status/2108040921044639779",
+          "source": "X：Tibo (@thsottiaux)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-08T03:44:55Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7495,
+      "importance": 0.7495,
+      "importance_score": 0.7495,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.74,
+        "source_tier": 0.78,
+        "ai_relevance": 0.95,
+        "recency": 0.9214,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-08T03:44:55Z",
+      "latest_at": "2026-10-08T03:44:55Z",
+      "primary_item": {
+        "id": "b9798e6758a5964a01c7b0d7599574e0b4e4d825",
+        "title": "Codex 与 ChatGPT Work 活跃用户达 4000 万新高，付费账户重置已全部到账 / Confirmed landed across all accounts. How are we doing so far?",
+        "title_zh": "Codex 与 ChatGPT Work 活跃用户达 4000 万新高，付费账户重置已全部到账",
+        "title_en": "Confirmed landed across all accounts. How are we doing so far?",
+        "title_original": "Confirmed landed across all accounts. How are we doing so far?",
+        "summary": "作者确认 banked reset 已到账所有账户，并转引 Day 3 动态称 Codex 与 ChatGPT Work 合计活跃用户达到 4000 万新高，其中提到 GPT-6 已在 Chat 中上线。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/thsottiaux/status/2108040921044639779",
+        "source": "X：Tibo (@thsottiaux)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-08T09:26:26.469050Z"
+      }
+    },
+    {
+      "story_id": "story_bad8b19b631e",
+      "title": "AI圈国庆大动作：DeepSeek拟募 800 亿，OpenAI立下 28 天连更军令状",
+      "url": "https://www.aibase.com/news/31469",
+      "primary_url": "https://www.aibase.com/news/31469",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "2fad4965faa21d3be58ad13bf43688091ebb08ac",
+          "title": "AI圈国庆大动作：DeepSeek拟募 800 亿，OpenAI立下 28 天连更军令状",
+          "title_zh": "AI圈国庆大动作：DeepSeek拟募 800 亿，OpenAI立下 28 天连更军令状",
+          "title_en": null,
+          "title_original": "AI圈国庆大动作：DeepSeek拟募 800 亿，OpenAI立下 28 天连更军令状",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31469",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-08T09:24:58.251172Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "2fad4965faa21d3be58ad13bf43688091ebb08ac",
+          "title": "AI圈国庆大动作：DeepSeek拟募 800 亿，OpenAI立下 28 天连更军令状",
+          "title_zh": "AI圈国庆大动作：DeepSeek拟募 800 亿，OpenAI立下 28 天连更军令状",
+          "title_en": null,
+          "title_original": "AI圈国庆大动作：DeepSeek拟募 800 亿，OpenAI立下 28 天连更军令状",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31469",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-08T09:24:58.251172Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7468,
+      "importance": 0.7468,
+      "importance_score": 0.7468,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.684,
+        "source_tier": 0.78,
+        "ai_relevance": 0.95,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-08T09:24:58.251172Z",
+      "latest_at": "2026-10-08T09:24:58.251172Z",
+      "primary_item": {
+        "id": "2fad4965faa21d3be58ad13bf43688091ebb08ac",
+        "title": "AI圈国庆大动作：DeepSeek拟募 800 亿，OpenAI立下 28 天连更军令状",
+        "title_zh": "AI圈国庆大动作：DeepSeek拟募 800 亿，OpenAI立下 28 天连更军令状",
+        "title_en": null,
+        "title_original": "AI圈国庆大动作：DeepSeek拟募 800 亿，OpenAI立下 28 天连更军令状",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31469",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-08T09:26:26.469050Z"
       }
     },
     {
@@ -1072,21 +1345,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7513,
-      "importance": 0.7513,
-      "importance_score": 0.7513,
+      "score": 0.7323,
+      "importance": 0.7323,
+      "importance_score": 0.7323,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.9149,
+        "recency": 0.8092,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-07T18:45:28Z",
       "latest_at": "2026-10-07T18:45:28Z",
@@ -1106,7 +1378,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-08T00:56:27.292193Z"
+        "scored_at": "2026-10-08T09:26:26.469050Z"
       }
     },
     {
@@ -1154,15 +1426,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7493,
-      "importance": 0.7493,
-      "importance_score": 0.7493,
+      "score": 0.7302,
+      "importance": 0.7302,
+      "importance_score": 0.7302,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.9208,
+        "recency": 0.8145,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1187,88 +1459,118 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-08T00:56:27.292193Z"
+        "scored_at": "2026-10-08T09:26:26.469050Z"
       }
     },
     {
-      "story_id": "story_f635d97a5751",
-      "title": "OpenAI随GPT-6推出“智能UI”，ChatGPT全面升级交互式视觉体验",
-      "url": "https://www.aibase.com/news/31446",
-      "primary_url": "https://www.aibase.com/news/31446",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_eedd3d5235fe",
+      "title": "Anthropic 将 Claude Sonnet 5.5 缓存读取价格减半至每百万 token $0.10 / One more thing: we’re halving the price of cache reads on Claude Sonnet 5.5, to $0.10 per million tokens. That makes Sonnet 5.5 around 20...",
+      "url": "https://x.com/claudeai/status/2107894060229034197",
+      "primary_url": "https://x.com/claudeai/status/2107894060229034197",
+      "source": "X：Claude (@claudeai)",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "36058bfd7a558e63ae62b01f618f9cda294618eb",
-          "title": "OpenAI随GPT-6推出“智能UI”，ChatGPT全面升级交互式视觉体验",
-          "title_zh": "OpenAI随GPT-6推出“智能UI”，ChatGPT全面升级交互式视觉体验",
-          "title_en": null,
-          "title_original": "OpenAI随GPT-6推出“智能UI”，ChatGPT全面升级交互式视觉体验",
+          "id": "6c786561686de448551f4ac828051ffb1cf3cacf",
+          "title": "Anthropic 将 Claude Sonnet 5.5 缓存读取价格减半至每百万 token $0.10 / One more thing: we’re halving the price of cache reads on Claude Sonnet 5.5, to $0.10 per million tokens. That makes Sonnet 5.5 around 20...",
+          "title_zh": "Anthropic 将 Claude Sonnet 5.5 缓存读取价格减半至每百万 token $0.10",
+          "title_en": "One more thing: we’re halving the price of cache reads on Claude Sonnet 5.5, to $0.10 per million tokens. That makes Sonnet 5.5 around 20...",
+          "title_original": "One more thing: we’re halving the price of cache reads on Claude Sonnet 5.5, to $0.10 per million tokens. That makes Sonnet 5.5 around 20...",
+          "summary": "Anthropic 宣布将 Claude Sonnet 5.5 的缓存读取价格减半，降至每百万 token $0.10。官方称这使 Sonnet 5.5 在多数长期运行任务上的运行成本降低约 20%。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/claudeai/status/2107894060229034197",
+          "source": "X：Claude (@claudeai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-07T18:01:21Z"
+        },
+        {
+          "id": "c6d9623321f7e942319083bd4b607c27a5b1b549",
+          "title": "Anthropic 将 Claude Sonnet 5.5 缓存读取价格减半至每百万 token $0.10 / One more thing: we’re halving the price of cache reads on Claude Sonnet 5.5, to $0.10 per million tokens. That makes Sonnet 5.5 around 20% cheaper to run on most long-running work.",
+          "title_zh": "Anthropic 将 Claude Sonnet 5.5 缓存读取价格减半至每百万 token $0.10",
+          "title_en": "One more thing: we’re halving the price of cache reads on Claude Sonnet 5.5, to $0.10 per million tokens. That makes Sonnet 5.5 around 20% cheaper to run on most long-running work.",
+          "title_original": "One more thing: we’re halving the price of cache reads on Claude Sonnet 5.5, to $0.10 per million tokens. That makes Sonnet 5.5 around 20% cheaper to run on most long-running work.",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31446",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-08T00:55:04.955804Z"
+          "url": "https://x.com/claudeai/status/2107894060229034197",
+          "source": "Follow Builders · X · Claude",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-10-07T18:01:21Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "Follow Builders · X · Claude",
+        "X：Claude (@claudeai)"
       ],
       "items": [
         {
-          "id": "36058bfd7a558e63ae62b01f618f9cda294618eb",
-          "title": "OpenAI随GPT-6推出“智能UI”，ChatGPT全面升级交互式视觉体验",
-          "title_zh": "OpenAI随GPT-6推出“智能UI”，ChatGPT全面升级交互式视觉体验",
-          "title_en": null,
-          "title_original": "OpenAI随GPT-6推出“智能UI”，ChatGPT全面升级交互式视觉体验",
+          "id": "6c786561686de448551f4ac828051ffb1cf3cacf",
+          "title": "Anthropic 将 Claude Sonnet 5.5 缓存读取价格减半至每百万 token $0.10 / One more thing: we’re halving the price of cache reads on Claude Sonnet 5.5, to $0.10 per million tokens. That makes Sonnet 5.5 around 20...",
+          "title_zh": "Anthropic 将 Claude Sonnet 5.5 缓存读取价格减半至每百万 token $0.10",
+          "title_en": "One more thing: we’re halving the price of cache reads on Claude Sonnet 5.5, to $0.10 per million tokens. That makes Sonnet 5.5 around 20...",
+          "title_original": "One more thing: we’re halving the price of cache reads on Claude Sonnet 5.5, to $0.10 per million tokens. That makes Sonnet 5.5 around 20...",
+          "summary": "Anthropic 宣布将 Claude Sonnet 5.5 的缓存读取价格减半，降至每百万 token $0.10。官方称这使 Sonnet 5.5 在多数长期运行任务上的运行成本降低约 20%。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/claudeai/status/2107894060229034197",
+          "source": "X：Claude (@claudeai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-07T18:01:21Z"
+        },
+        {
+          "id": "c6d9623321f7e942319083bd4b607c27a5b1b549",
+          "title": "Anthropic 将 Claude Sonnet 5.5 缓存读取价格减半至每百万 token $0.10 / One more thing: we’re halving the price of cache reads on Claude Sonnet 5.5, to $0.10 per million tokens. That makes Sonnet 5.5 around 20% cheaper to run on most long-running work.",
+          "title_zh": "Anthropic 将 Claude Sonnet 5.5 缓存读取价格减半至每百万 token $0.10",
+          "title_en": "One more thing: we’re halving the price of cache reads on Claude Sonnet 5.5, to $0.10 per million tokens. That makes Sonnet 5.5 around 20% cheaper to run on most long-running work.",
+          "title_original": "One more thing: we’re halving the price of cache reads on Claude Sonnet 5.5, to $0.10 per million tokens. That makes Sonnet 5.5 around 20% cheaper to run on most long-running work.",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31446",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-08T00:55:04.955804Z"
+          "url": "https://x.com/claudeai/status/2107894060229034197",
+          "source": "Follow Builders · X · Claude",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-10-07T18:01:21Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7468,
-      "importance": 0.7468,
-      "importance_score": 0.7468,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7257,
+      "importance": 0.7257,
+      "importance_score": 0.7257,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.684,
+        "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 1.0,
-        "story_heat": 0.0
+        "recency": 0.8007,
+        "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
+        "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-08T00:55:04.955804Z",
-      "latest_at": "2026-10-08T00:55:04.955804Z",
+      "earliest_at": "2026-10-07T18:01:21Z",
+      "latest_at": "2026-10-07T18:01:21Z",
       "primary_item": {
-        "id": "36058bfd7a558e63ae62b01f618f9cda294618eb",
-        "title": "OpenAI随GPT-6推出“智能UI”，ChatGPT全面升级交互式视觉体验",
-        "title_zh": "OpenAI随GPT-6推出“智能UI”，ChatGPT全面升级交互式视觉体验",
-        "title_en": null,
-        "title_original": "OpenAI随GPT-6推出“智能UI”，ChatGPT全面升级交互式视觉体验",
-        "summary": null,
+        "id": "6c786561686de448551f4ac828051ffb1cf3cacf",
+        "title": "Anthropic 将 Claude Sonnet 5.5 缓存读取价格减半至每百万 token $0.10 / One more thing: we’re halving the price of cache reads on Claude Sonnet 5.5, to $0.10 per million tokens. That makes Sonnet 5.5 around 20...",
+        "title_zh": "Anthropic 将 Claude Sonnet 5.5 缓存读取价格减半至每百万 token $0.10",
+        "title_en": "One more thing: we’re halving the price of cache reads on Claude Sonnet 5.5, to $0.10 per million tokens. That makes Sonnet 5.5 around 20...",
+        "title_original": "One more thing: we’re halving the price of cache reads on Claude Sonnet 5.5, to $0.10 per million tokens. That makes Sonnet 5.5 around 20...",
+        "summary": "Anthropic 宣布将 Claude Sonnet 5.5 的缓存读取价格减半，降至每百万 token $0.10。官方称这使 Sonnet 5.5 在多数长期运行任务上的运行成本降低约 20%。",
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31446",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "url": "https://x.com/claudeai/status/2107894060229034197",
+        "source": "X：Claude (@claudeai)",
+        "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-08T00:56:27.292193Z"
+        "scored_at": "2026-10-08T09:26:26.469050Z"
       }
     },
     {
@@ -1316,15 +1618,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7997,
-      "importance": 0.7997,
-      "importance_score": 0.7997,
+      "score": 0.7815,
+      "importance": 0.7815,
+      "importance_score": 0.7815,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.76,
-        "recency": 0.8763,
+        "recency": 0.7751,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1350,472 +1652,169 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-08T00:56:27.292193Z"
+        "scored_at": "2026-10-08T09:26:26.469050Z"
       }
     },
     {
-      "story_id": "story_e4350e8ce423",
-      "title": "Cursor 公布 Claude Haiku 5.5 定价并下调 Claude Sonnet 5.5 缓存读取价格 / Claude Haiku 5.5 is priced at $0.10/M input and $0.50/M output tokens, or $0.50/M and $2.50/M above 100k input tokens.",
-      "url": "https://x.com/cursor_ai/status/2107897257651769464",
-      "primary_url": "https://x.com/cursor_ai/status/2107897257651769464",
-      "source": "X：Cursor (@cursor_ai)",
-      "source_name": "AI HOT",
+      "story_id": "story_82e34aba148b",
+      "title": "Anthropic 重磅发布 Claude Haiku 5.5！价格暴降 90% 但面临隐性成本",
+      "url": "https://www.aibase.com/news/31467",
+      "primary_url": "https://www.aibase.com/news/31467",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "53355e489f229621f1e8889e7bc47861aa900a2a",
-          "title": "Cursor 公布 Claude Haiku 5.5 定价并下调 Claude Sonnet 5.5 缓存读取价格 / Claude Haiku 5.5 is priced at $0.10/M input and $0.50/M output tokens, or $0.50/M and $2.50/M above 100k input tokens.",
-          "title_zh": "Cursor 公布 Claude Haiku 5.5 定价并下调 Claude Sonnet 5.5 缓存读取价格",
-          "title_en": "Claude Haiku 5.5 is priced at $0.10/M input and $0.50/M output tokens, or $0.50/M and $2.50/M above 100k input tokens.",
-          "title_original": "Claude Haiku 5.5 is priced at $0.10/M input and $0.50/M output tokens, or $0.50/M and $2.50/M above 100k input tokens.",
-          "summary": "Cursor 公布 Claude Haiku 5.5 定价为每 M 输入 token $0.10、输出 token $0.50，输入超过 100k token 时为 $0.50/M 和 $2.50/M。Claude Sonnet 5.5 缓存读取价格也从 $0.20/M 降至 $0.10/M，用户可在 cursor.com/evals 上通过 CursorBench 对比 Haiku 5.5 的表现。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/cursor_ai/status/2107897257651769464",
-          "source": "X：Cursor (@cursor_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-07T18:14:03Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Cursor (@cursor_ai)"
-      ],
-      "items": [
-        {
-          "id": "53355e489f229621f1e8889e7bc47861aa900a2a",
-          "title": "Cursor 公布 Claude Haiku 5.5 定价并下调 Claude Sonnet 5.5 缓存读取价格 / Claude Haiku 5.5 is priced at $0.10/M input and $0.50/M output tokens, or $0.50/M and $2.50/M above 100k input tokens.",
-          "title_zh": "Cursor 公布 Claude Haiku 5.5 定价并下调 Claude Sonnet 5.5 缓存读取价格",
-          "title_en": "Claude Haiku 5.5 is priced at $0.10/M input and $0.50/M output tokens, or $0.50/M and $2.50/M above 100k input tokens.",
-          "title_original": "Claude Haiku 5.5 is priced at $0.10/M input and $0.50/M output tokens, or $0.50/M and $2.50/M above 100k input tokens.",
-          "summary": "Cursor 公布 Claude Haiku 5.5 定价为每 M 输入 token $0.10、输出 token $0.50，输入超过 100k token 时为 $0.50/M 和 $2.50/M。Claude Sonnet 5.5 缓存读取价格也从 $0.20/M 降至 $0.10/M，用户可在 cursor.com/evals 上通过 CursorBench 对比 Haiku 5.5 的表现。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/cursor_ai/status/2107897257651769464",
-          "source": "X：Cursor (@cursor_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-07T18:14:03Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.738,
-      "importance": 0.738,
-      "importance_score": 0.738,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 0.95,
-        "recency": 0.908,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-07T18:14:03Z",
-      "latest_at": "2026-10-07T18:14:03Z",
-      "primary_item": {
-        "id": "53355e489f229621f1e8889e7bc47861aa900a2a",
-        "title": "Cursor 公布 Claude Haiku 5.5 定价并下调 Claude Sonnet 5.5 缓存读取价格 / Claude Haiku 5.5 is priced at $0.10/M input and $0.50/M output tokens, or $0.50/M and $2.50/M above 100k input tokens.",
-        "title_zh": "Cursor 公布 Claude Haiku 5.5 定价并下调 Claude Sonnet 5.5 缓存读取价格",
-        "title_en": "Claude Haiku 5.5 is priced at $0.10/M input and $0.50/M output tokens, or $0.50/M and $2.50/M above 100k input tokens.",
-        "title_original": "Claude Haiku 5.5 is priced at $0.10/M input and $0.50/M output tokens, or $0.50/M and $2.50/M above 100k input tokens.",
-        "summary": "Cursor 公布 Claude Haiku 5.5 定价为每 M 输入 token $0.10、输出 token $0.50，输入超过 100k token 时为 $0.50/M 和 $2.50/M。Claude Sonnet 5.5 缓存读取价格也从 $0.20/M 降至 $0.10/M，用户可在 cursor.com/evals 上通过 CursorBench 对比 Haiku 5.5 的表现。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/cursor_ai/status/2107897257651769464",
-        "source": "X：Cursor (@cursor_ai)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-08T00:56:27.292193Z"
-      }
-    },
-    {
-      "story_id": "story_2ff342ef8210",
-      "title": "GPT-6 Luna Decisions 上架 OpenRouter / GPT-6 Luna Decisions is now on OpenRouter",
-      "url": "https://x.com/OpenRouter/status/2107929204142874759",
-      "primary_url": "https://x.com/OpenRouter/status/2107929204142874759",
-      "source": "X：OpenRouter (@OpenRouter)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "5f6ad1411daca1cfdaa088277b17c6467c921709",
-          "title": "GPT-6 Luna Decisions 上架 OpenRouter / GPT-6 Luna Decisions is now on OpenRouter",
-          "title_zh": "GPT-6 Luna Decisions 上架 OpenRouter",
-          "title_en": "GPT-6 Luna Decisions is now on OpenRouter",
-          "title_original": "GPT-6 Luna Decisions is now on OpenRouter",
-          "summary": "OpenRouter 宣布 GPT-6 Luna Decisions 上线。OpenAI 的 Decisions API 可让应用选择合适的模型、工具或动作，支持发送文本、JSON 或图片并返回带概率的类型化答案。定价为输入 $0.10/M、输出免费，上下文 1M；引用 OpenAI 开发者账号称其决策速度比通过 Responses API 的 GPT-6 Luna 最快 10 倍。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/OpenRouter/status/2107929204142874759",
-          "source": "X：OpenRouter (@OpenRouter)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-07T20:21:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：OpenRouter (@OpenRouter)"
-      ],
-      "items": [
-        {
-          "id": "5f6ad1411daca1cfdaa088277b17c6467c921709",
-          "title": "GPT-6 Luna Decisions 上架 OpenRouter / GPT-6 Luna Decisions is now on OpenRouter",
-          "title_zh": "GPT-6 Luna Decisions 上架 OpenRouter",
-          "title_en": "GPT-6 Luna Decisions is now on OpenRouter",
-          "title_original": "GPT-6 Luna Decisions is now on OpenRouter",
-          "summary": "OpenRouter 宣布 GPT-6 Luna Decisions 上线。OpenAI 的 Decisions API 可让应用选择合适的模型、工具或动作，支持发送文本、JSON 或图片并返回带概率的类型化答案。定价为输入 $0.10/M、输出免费，上下文 1M；引用 OpenAI 开发者账号称其决策速度比通过 Responses API 的 GPT-6 Luna 最快 10 倍。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/OpenRouter/status/2107929204142874759",
-          "source": "X：OpenRouter (@OpenRouter)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-07T20:21:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7281,
-      "importance": 0.7281,
-      "importance_score": 0.7281,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.66,
-        "source_tier": 0.78,
-        "ai_relevance": 0.95,
-        "recency": 0.9362,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-07T20:21:00Z",
-      "latest_at": "2026-10-07T20:21:00Z",
-      "primary_item": {
-        "id": "5f6ad1411daca1cfdaa088277b17c6467c921709",
-        "title": "GPT-6 Luna Decisions 上架 OpenRouter / GPT-6 Luna Decisions is now on OpenRouter",
-        "title_zh": "GPT-6 Luna Decisions 上架 OpenRouter",
-        "title_en": "GPT-6 Luna Decisions is now on OpenRouter",
-        "title_original": "GPT-6 Luna Decisions is now on OpenRouter",
-        "summary": "OpenRouter 宣布 GPT-6 Luna Decisions 上线。OpenAI 的 Decisions API 可让应用选择合适的模型、工具或动作，支持发送文本、JSON 或图片并返回带概率的类型化答案。定价为输入 $0.10/M、输出免费，上下文 1M；引用 OpenAI 开发者账号称其决策速度比通过 Responses API 的 GPT-6 Luna 最快 10 倍。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/OpenRouter/status/2107929204142874759",
-        "source": "X：OpenRouter (@OpenRouter)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-08T00:56:27.292193Z"
-      }
-    },
-    {
-      "story_id": "story_63ffa7f8acf5",
-      "title": "Microsoft Research Asia 开源 Agent Lightning v1.0：3,500 行代码的真实 harness 智能体 RL 训练框架 / Agent Lightning v1.0: A 3,500-Line Lightweight Agentic RL Framework for Training Agents with Real Harnesses",
-      "url": "https://www.microsoft.com/en-us/research/blog/agent-lightning-v1-0-a-3500-line-lightweight-agentic-rl-framework-for-training-agents-with-real-harnesses",
-      "primary_url": "https://www.microsoft.com/en-us/research/blog/agent-lightning-v1-0-a-3500-line-lightweight-agentic-rl-framework-for-training-agents-with-real-harnesses",
-      "source": "Microsoft Research 博客（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "74ccba7acc445f10a7295fa2758bf445780c47b6",
-          "title": "Microsoft Research Asia 开源 Agent Lightning v1.0：3,500 行代码的真实 harness 智能体 RL 训练框架 / Agent Lightning v1.0: A 3,500-Line Lightweight Agentic RL Framework for Training Agents with Real Harnesses",
-          "title_zh": "Microsoft Research Asia 开源 Agent Lightning v1.0：3,500 行代码的真实 harness 智能体 RL 训练框架",
-          "title_en": "Agent Lightning v1.0: A 3,500-Line Lightweight Agentic RL Framework for Training Agents with Real Harnesses",
-          "title_original": "Agent Lightning v1.0: A 3,500-Line Lightweight Agentic RL Framework for Training Agents with Real Harnesses",
-          "summary": "Microsoft Research Asia 提出 Harnessed Agentic RL 训练范式并开源重建的 Agent Lightning v1.0，让部署时使用的同一 agent harness 直接参与强化学习，无需在训练框架内重写 agent。",
-          "recommend_reason_zh": null,
-          "url": "https://www.microsoft.com/en-us/research/blog/agent-lightning-v1-0-a-3500-line-lightweight-agentic-rl-framework-for-training-agents-with-real-harnesses",
-          "source": "Microsoft Research 博客（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-07T16:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Microsoft Research 博客（RSS）"
-      ],
-      "items": [
-        {
-          "id": "74ccba7acc445f10a7295fa2758bf445780c47b6",
-          "title": "Microsoft Research Asia 开源 Agent Lightning v1.0：3,500 行代码的真实 harness 智能体 RL 训练框架 / Agent Lightning v1.0: A 3,500-Line Lightweight Agentic RL Framework for Training Agents with Real Harnesses",
-          "title_zh": "Microsoft Research Asia 开源 Agent Lightning v1.0：3,500 行代码的真实 harness 智能体 RL 训练框架",
-          "title_en": "Agent Lightning v1.0: A 3,500-Line Lightweight Agentic RL Framework for Training Agents with Real Harnesses",
-          "title_original": "Agent Lightning v1.0: A 3,500-Line Lightweight Agentic RL Framework for Training Agents with Real Harnesses",
-          "summary": "Microsoft Research Asia 提出 Harnessed Agentic RL 训练范式并开源重建的 Agent Lightning v1.0，让部署时使用的同一 agent harness 直接参与强化学习，无需在训练框架内重写 agent。",
-          "recommend_reason_zh": null,
-          "url": "https://www.microsoft.com/en-us/research/blog/agent-lightning-v1-0-a-3500-line-lightweight-agentic-rl-framework-for-training-agents-with-real-harnesses",
-          "source": "Microsoft Research 博客（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-07T16:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7268,
-      "importance": 0.7268,
-      "importance_score": 0.7268,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.69,
-        "source_tier": 0.78,
-        "ai_relevance": 0.95,
-        "recency": 0.8792,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-07T16:00:00Z",
-      "latest_at": "2026-10-07T16:00:00Z",
-      "primary_item": {
-        "id": "74ccba7acc445f10a7295fa2758bf445780c47b6",
-        "title": "Microsoft Research Asia 开源 Agent Lightning v1.0：3,500 行代码的真实 harness 智能体 RL 训练框架 / Agent Lightning v1.0: A 3,500-Line Lightweight Agentic RL Framework for Training Agents with Real Harnesses",
-        "title_zh": "Microsoft Research Asia 开源 Agent Lightning v1.0：3,500 行代码的真实 harness 智能体 RL 训练框架",
-        "title_en": "Agent Lightning v1.0: A 3,500-Line Lightweight Agentic RL Framework for Training Agents with Real Harnesses",
-        "title_original": "Agent Lightning v1.0: A 3,500-Line Lightweight Agentic RL Framework for Training Agents with Real Harnesses",
-        "summary": "Microsoft Research Asia 提出 Harnessed Agentic RL 训练范式并开源重建的 Agent Lightning v1.0，让部署时使用的同一 agent harness 直接参与强化学习，无需在训练框架内重写 agent。",
-        "recommend_reason_zh": null,
-        "url": "https://www.microsoft.com/en-us/research/blog/agent-lightning-v1-0-a-3500-line-lightweight-agentic-rl-framework-for-training-agents-with-real-harnesses",
-        "source": "Microsoft Research 博客（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-08T00:56:27.292193Z"
-      }
-    },
-    {
-      "story_id": "story_a5dc5a4d2dcb",
-      "title": "用于泄露秘密检测的专用模型 / Purpose-built model for leaked secret detection",
-      "url": "https://github.blog/changelog/2026-10-07-purpose-built-model-for-leaked-secret-detection",
-      "primary_url": "https://github.blog/changelog/2026-10-07-purpose-built-model-for-leaked-secret-detection",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "6ee63ce2297e3b1235a0088ed54c15b30891ac18",
-          "title": "用于泄露秘密检测的专用模型 / Purpose-built model for leaked secret detection",
-          "title_zh": "用于泄露秘密检测的专用模型",
-          "title_en": "Purpose-built model for leaked secret detection",
-          "title_original": "Purpose-built model for leaked secret detection",
+          "id": "8ce647e2abcfc95f104ef55327c8bdf80dee6afd",
+          "title": "Anthropic 重磅发布 Claude Haiku 5.5！价格暴降 90% 但面临隐性成本",
+          "title_zh": "Anthropic 重磅发布 Claude Haiku 5.5！价格暴降 90% 但面临隐性成本",
+          "title_en": null,
+          "title_original": "Anthropic 重磅发布 Claude Haiku 5.5！价格暴降 90% 但面临隐性成本",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-07-purpose-built-model-for-leaked-secret-detection",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-07T16:13:56Z"
+          "url": "https://www.aibase.com/news/31467",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-08T09:24:58.251172Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub Changelog"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "6ee63ce2297e3b1235a0088ed54c15b30891ac18",
-          "title": "用于泄露秘密检测的专用模型 / Purpose-built model for leaked secret detection",
-          "title_zh": "用于泄露秘密检测的专用模型",
-          "title_en": "Purpose-built model for leaked secret detection",
-          "title_original": "Purpose-built model for leaked secret detection",
+          "id": "8ce647e2abcfc95f104ef55327c8bdf80dee6afd",
+          "title": "Anthropic 重磅发布 Claude Haiku 5.5！价格暴降 90% 但面临隐性成本",
+          "title_zh": "Anthropic 重磅发布 Claude Haiku 5.5！价格暴降 90% 但面临隐性成本",
+          "title_en": null,
+          "title_original": "Anthropic 重磅发布 Claude Haiku 5.5！价格暴降 90% 但面临隐性成本",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-07-purpose-built-model-for-leaked-secret-detection",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-07T16:13:56Z"
+          "url": "https://www.aibase.com/news/31467",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-08T09:24:58.251172Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7948,
-      "importance": 0.7948,
-      "importance_score": 0.7948,
-      "importance_label": "官方更新",
+      "score": 0.7468,
+      "importance": 0.7468,
+      "importance_score": 0.7468,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.73,
-        "recency": 0.8821,
+        "editorial": 0.684,
+        "source_tier": 0.78,
+        "ai_relevance": 0.95,
+        "recency": 1.0,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-07T16:13:56Z",
-      "latest_at": "2026-10-07T16:13:56Z",
+      "earliest_at": "2026-10-08T09:24:58.251172Z",
+      "latest_at": "2026-10-08T09:24:58.251172Z",
       "primary_item": {
-        "id": "6ee63ce2297e3b1235a0088ed54c15b30891ac18",
-        "title": "用于泄露秘密检测的专用模型 / Purpose-built model for leaked secret detection",
-        "title_zh": "用于泄露秘密检测的专用模型",
-        "title_en": "Purpose-built model for leaked secret detection",
-        "title_original": "Purpose-built model for leaked secret detection",
+        "id": "8ce647e2abcfc95f104ef55327c8bdf80dee6afd",
+        "title": "Anthropic 重磅发布 Claude Haiku 5.5！价格暴降 90% 但面临隐性成本",
+        "title_zh": "Anthropic 重磅发布 Claude Haiku 5.5！价格暴降 90% 但面临隐性成本",
+        "title_en": null,
+        "title_original": "Anthropic 重磅发布 Claude Haiku 5.5！价格暴降 90% 但面临隐性成本",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-07-purpose-built-model-for-leaked-secret-detection",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
+        "url": "https://www.aibase.com/news/31467",
+        "source": "AIbase",
+        "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-08T00:56:27.292193Z"
+        "scored_at": "2026-10-08T09:26:26.469050Z"
       }
     },
     {
-      "story_id": "story_0d6f6138d0f3",
-      "title": "Meta和微软采取措施，限制员工使用Claude AI / Meta and Microsoft take steps to reduce employee usage of Claude AI",
-      "url": "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai",
-      "primary_url": "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai",
-      "source": "Hacker News front page",
-      "source_name": "Curated Media",
+      "story_id": "story_3ce00f0c2c6b",
+      "title": "ChatGPT 迎来 GPT-6 与全新智能界面：回答不再只是文字，还能直接生成可交互工具",
+      "url": "https://www.aibase.com/news/31473",
+      "primary_url": "https://www.aibase.com/news/31473",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "982599a72209ffb6baefb8564e477bc0bec439ad",
-          "title": "Meta和微软采取措施，限制员工使用Claude AI / Meta and Microsoft take steps to reduce employee usage of Claude AI",
-          "title_zh": "Meta和微软采取措施，限制员工使用Claude AI",
-          "title_en": "Meta and Microsoft take steps to reduce employee usage of Claude AI",
-          "title_original": "Meta and Microsoft take steps to reduce employee usage of Claude AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai",
-          "source": "Hacker News front page",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-07T18:49:40Z"
-        },
-        {
-          "id": "8af00613d4cf2d6732ee6526113d4e1d965c057f",
-          "title": "Meta和微软采取措施，限制员工使用Claude AI",
-          "title_zh": "Meta和微软采取措施，限制员工使用Claude AI",
+          "id": "525797a6287debfa2982310971b6e0673f186dfb",
+          "title": "ChatGPT 迎来 GPT-6 与全新智能界面：回答不再只是文字，还能直接生成可交互工具",
+          "title_zh": "ChatGPT 迎来 GPT-6 与全新智能界面：回答不再只是文字，还能直接生成可交互工具",
           "title_en": null,
-          "title_original": "Meta和微软采取措施，限制员工使用Claude AI",
+          "title_original": "ChatGPT 迎来 GPT-6 与全新智能界面：回答不再只是文字，还能直接生成可交互工具",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai",
-          "source": "www.rswebsols.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-07T20:33:56.420000Z"
-        },
-        {
-          "id": "64d7f3db3cb62ee20ae47629bf3b984c29264d9d",
-          "title": "Meta 和 Microsoft 采取措施减少员工对 Claude AI 的使用 / Meta and Microsoft take steps to reduce employee usage of Claude AI",
-          "title_zh": "Meta 和 Microsoft 采取措施减少员工对 Claude AI 的使用",
-          "title_en": "Meta and Microsoft take steps to reduce employee usage of Claude AI",
-          "title_original": "Meta and Microsoft take steps to reduce employee usage of Claude AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49997161",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-07T18:49:40Z"
+          "url": "https://www.aibase.com/news/31473",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-08T09:24:58.251172Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 1,
       "source_names": [
-        "Hacker News front page",
-        "hackernews",
-        "www.rswebsols.com"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "982599a72209ffb6baefb8564e477bc0bec439ad",
-          "title": "Meta和微软采取措施，限制员工使用Claude AI / Meta and Microsoft take steps to reduce employee usage of Claude AI",
-          "title_zh": "Meta和微软采取措施，限制员工使用Claude AI",
-          "title_en": "Meta and Microsoft take steps to reduce employee usage of Claude AI",
-          "title_original": "Meta and Microsoft take steps to reduce employee usage of Claude AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai",
-          "source": "Hacker News front page",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-07T18:49:40Z"
-        },
-        {
-          "id": "8af00613d4cf2d6732ee6526113d4e1d965c057f",
-          "title": "Meta和微软采取措施，限制员工使用Claude AI",
-          "title_zh": "Meta和微软采取措施，限制员工使用Claude AI",
+          "id": "525797a6287debfa2982310971b6e0673f186dfb",
+          "title": "ChatGPT 迎来 GPT-6 与全新智能界面：回答不再只是文字，还能直接生成可交互工具",
+          "title_zh": "ChatGPT 迎来 GPT-6 与全新智能界面：回答不再只是文字，还能直接生成可交互工具",
           "title_en": null,
-          "title_original": "Meta和微软采取措施，限制员工使用Claude AI",
+          "title_original": "ChatGPT 迎来 GPT-6 与全新智能界面：回答不再只是文字，还能直接生成可交互工具",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai",
-          "source": "www.rswebsols.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-07T20:33:56.420000Z"
-        },
-        {
-          "id": "64d7f3db3cb62ee20ae47629bf3b984c29264d9d",
-          "title": "Meta 和 Microsoft 采取措施减少员工对 Claude AI 的使用 / Meta and Microsoft take steps to reduce employee usage of Claude AI",
-          "title_zh": "Meta 和 Microsoft 采取措施减少员工对 Claude AI 的使用",
-          "title_en": "Meta and Microsoft take steps to reduce employee usage of Claude AI",
-          "title_original": "Meta and Microsoft take steps to reduce employee usage of Claude AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49997161",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-07T18:49:40Z"
+          "url": "https://www.aibase.com/news/31473",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-08T09:24:58.251172Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.6919,
-      "importance": 0.6919,
-      "importance_score": 0.6919,
-      "importance_label": "多源热议",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7468,
+      "importance": 0.7468,
+      "importance_score": 0.7468,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.6048,
-        "source_tier": 0.58,
-        "ai_relevance": 0.84,
-        "recency": 0.9158,
-        "story_heat": 0.5
+        "editorial": 0.684,
+        "source_tier": 0.78,
+        "ai_relevance": 0.95,
+        "recency": 1.0,
+        "story_heat": 0.0
       },
-      "category": "multi_source",
+      "category": "industry",
       "reasons": [
-        "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-07T18:49:40Z",
-      "latest_at": "2026-10-07T20:33:56.420000Z",
+      "earliest_at": "2026-10-08T09:24:58.251172Z",
+      "latest_at": "2026-10-08T09:24:58.251172Z",
       "primary_item": {
-        "id": "982599a72209ffb6baefb8564e477bc0bec439ad",
-        "title": "Meta和微软采取措施，限制员工使用Claude AI / Meta and Microsoft take steps to reduce employee usage of Claude AI",
-        "title_zh": "Meta和微软采取措施，限制员工使用Claude AI",
-        "title_en": "Meta and Microsoft take steps to reduce employee usage of Claude AI",
-        "title_original": "Meta and Microsoft take steps to reduce employee usage of Claude AI",
+        "id": "525797a6287debfa2982310971b6e0673f186dfb",
+        "title": "ChatGPT 迎来 GPT-6 与全新智能界面：回答不再只是文字，还能直接生成可交互工具",
+        "title_zh": "ChatGPT 迎来 GPT-6 与全新智能界面：回答不再只是文字，还能直接生成可交互工具",
+        "title_en": null,
+        "title_original": "ChatGPT 迎来 GPT-6 与全新智能界面：回答不再只是文字，还能直接生成可交互工具",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai",
-        "source": "Hacker News front page",
-        "source_name": "Curated Media"
+        "url": "https://www.aibase.com/news/31473",
+        "source": "AIbase",
+        "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-08T00:56:27.292193Z"
+        "scored_at": "2026-10-08T09:26:26.469050Z"
       }
     }
   ]
