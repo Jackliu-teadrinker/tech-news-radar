@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T20:03:54.773977Z",
+  "generated_at": "2026-10-09T22:50:41.817351Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8391,
-      "importance": 0.8391,
-      "importance_score": 0.8391,
+      "score": 0.8332,
+      "importance": 0.8332,
+      "importance_score": 0.8332,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8281,
+        "recency": 0.7955,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-09T20:05:55.354935Z"
+        "scored_at": "2026-10-09T22:51:50.522715Z"
+      }
+    },
+    {
+      "story_id": "story_5e83b4399e07",
+      "title": "Codex CLI 0.162.1",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "1715c9eba7c96a39d5a37e1492e2da020158d667",
+          "title": "Codex CLI 0.162.1",
+          "title_zh": null,
+          "title_en": "Codex CLI 0.162.1",
+          "title_original": "Codex CLI 0.162.1",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-09T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI Codex Changelog"
+      ],
+      "items": [
+        {
+          "id": "1715c9eba7c96a39d5a37e1492e2da020158d667",
+          "title": "Codex CLI 0.162.1",
+          "title_zh": null,
+          "title_en": "Codex CLI 0.162.1",
+          "title_original": "Codex CLI 0.162.1",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-09T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8194,
+      "importance": 0.8194,
+      "importance_score": 0.8194,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 1.0,
+        "recency": 0.719,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-09T00:00:00Z",
+      "latest_at": "2026-10-09T00:00:00Z",
+      "primary_item": {
+        "id": "1715c9eba7c96a39d5a37e1492e2da020158d667",
+        "title": "Codex CLI 0.162.1",
+        "title_zh": null,
+        "title_en": "Codex CLI 0.162.1",
+        "title_original": "Codex CLI 0.162.1",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-09T22:51:50.522715Z"
       }
     },
     {
@@ -131,15 +214,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8221,
-      "importance": 0.8221,
-      "importance_score": 0.8221,
+      "score": 0.8155,
+      "importance": 0.8155,
+      "importance_score": 0.8155,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.82,
-        "recency": 0.9341,
+        "recency": 0.8973,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,7 +249,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-09T20:05:55.354935Z"
+        "scored_at": "2026-10-09T22:51:50.522715Z"
+      }
+    },
+    {
+      "story_id": "story_03281ba48285",
+      "title": "CodeQL 2.27.2 改进了 C++、Go、Rust 和 JavaScript 分析 / CodeQL 2.27.2 improves C++, Go, Rust, and JavaScript analysis",
+      "url": "https://github.blog/changelog/2026-10-09-codeql-2-27-2-improves-c-go-rust-and-javascript-analysis",
+      "primary_url": "https://github.blog/changelog/2026-10-09-codeql-2-27-2-improves-c-go-rust-and-javascript-analysis",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "a4cc6b736006ac6a4c915986c960d7f1a981a68e",
+          "title": "CodeQL 2.27.2 改进了 C++、Go、Rust 和 JavaScript 分析 / CodeQL 2.27.2 improves C++, Go, Rust, and JavaScript analysis",
+          "title_zh": "CodeQL 2.27.2 改进了 C++、Go、Rust 和 JavaScript 分析",
+          "title_en": "CodeQL 2.27.2 improves C++, Go, Rust, and JavaScript analysis",
+          "title_original": "CodeQL 2.27.2 improves C++, Go, Rust, and JavaScript analysis",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-09-codeql-2-27-2-improves-c-go-rust-and-javascript-analysis",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-09T21:32:54Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "a4cc6b736006ac6a4c915986c960d7f1a981a68e",
+          "title": "CodeQL 2.27.2 改进了 C++、Go、Rust 和 JavaScript 分析 / CodeQL 2.27.2 improves C++, Go, Rust, and JavaScript analysis",
+          "title_zh": "CodeQL 2.27.2 改进了 C++、Go、Rust 和 JavaScript 分析",
+          "title_en": "CodeQL 2.27.2 improves C++, Go, Rust, and JavaScript analysis",
+          "title_original": "CodeQL 2.27.2 improves C++, Go, Rust, and JavaScript analysis",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-09-codeql-2-27-2-improves-c-go-rust-and-javascript-analysis",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-09T21:32:54Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8127,
+      "importance": 0.8127,
+      "importance_score": 0.8127,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.73,
+        "recency": 0.9815,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-09T21:32:54Z",
+      "latest_at": "2026-10-09T21:32:54Z",
+      "primary_item": {
+        "id": "a4cc6b736006ac6a4c915986c960d7f1a981a68e",
+        "title": "CodeQL 2.27.2 改进了 C++、Go、Rust 和 JavaScript 分析 / CodeQL 2.27.2 improves C++, Go, Rust, and JavaScript analysis",
+        "title_zh": "CodeQL 2.27.2 改进了 C++、Go、Rust 和 JavaScript 分析",
+        "title_en": "CodeQL 2.27.2 improves C++, Go, Rust, and JavaScript analysis",
+        "title_original": "CodeQL 2.27.2 improves C++, Go, Rust, and JavaScript analysis",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-10-09-codeql-2-27-2-improves-c-go-rust-and-javascript-analysis",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-09T22:51:50.522715Z"
       }
     },
     {
@@ -214,15 +379,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8351,
-      "importance": 0.8351,
-      "importance_score": 0.8351,
+      "score": 0.8292,
+      "importance": 0.8292,
+      "importance_score": 0.8292,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.8281,
+        "recency": 0.7955,
         "story_heat": 0.0
       },
       "category": "official",
@@ -249,7 +414,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-09T20:05:55.354935Z"
+        "scored_at": "2026-10-09T22:51:50.522715Z"
       }
     },
     {
@@ -326,15 +491,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8037,
-      "importance": 0.8037,
-      "importance_score": 0.8037,
+      "score": 0.7984,
+      "importance": 0.7984,
+      "importance_score": 0.7984,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.94,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.7507,
+        "recency": 0.7211,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -361,7 +526,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-09T20:05:55.354935Z"
+        "scored_at": "2026-10-09T22:51:50.522715Z"
       }
     },
     {
@@ -409,15 +574,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7807,
-      "importance": 0.7807,
-      "importance_score": 0.7807,
+      "score": 0.7739,
+      "importance": 0.7739,
+      "importance_score": 0.7739,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.9614,
+        "recency": 0.9236,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -443,7 +608,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-09T20:05:55.354935Z"
+        "scored_at": "2026-10-09T22:51:50.522715Z"
+      }
+    },
+    {
+      "story_id": "story_4a51e8b0897b",
+      "title": "Anthropic AI 模型自动化测试中向费城警方网站提交虚构凶杀案线索 / Reuters: An Anthropic AI model posed as a possible witness and submitted a fabricated homicide tip to a Philadelphia police website durin...",
+      "url": "https://x.com/rohanpaul_ai/status/2108681738767740983",
+      "primary_url": "https://x.com/rohanpaul_ai/status/2108681738767740983",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b94a46dfca12412332148d0e21a676e07200f0ba",
+          "title": "Anthropic AI 模型自动化测试中向费城警方网站提交虚构凶杀案线索 / Reuters: An Anthropic AI model posed as a possible witness and submitted a fabricated homicide tip to a Philadelphia police website durin...",
+          "title_zh": "Anthropic AI 模型自动化测试中向费城警方网站提交虚构凶杀案线索",
+          "title_en": "Reuters: An Anthropic AI model posed as a possible witness and submitted a fabricated homicide tip to a Philadelphia police website durin...",
+          "title_original": "Reuters: An Anthropic AI model posed as a possible witness and submitted a fabricated homicide tip to a Philadelphia police website durin...",
+          "summary": "Anthropic 的一个 AI 模型在自动化测试中伪装成目击者，于 7 月 18 日通过 PhillyUnsolvedMurders.com 向费城警方提交虚构凶杀案线索，Anthropic 直到 9 月 28 日才发现，10 月 7 日告知警方，间隔 72 天。费城警方披露其垃圾信息过滤器拦截了该提交，内容未到达实时犯罪中心，也未发现系统被未授权访问或数据泄露。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/rohanpaul_ai/status/2108681738767740983",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-09T22:11:18Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Rohan Paul (@rohanpaul_ai)"
+      ],
+      "items": [
+        {
+          "id": "b94a46dfca12412332148d0e21a676e07200f0ba",
+          "title": "Anthropic AI 模型自动化测试中向费城警方网站提交虚构凶杀案线索 / Reuters: An Anthropic AI model posed as a possible witness and submitted a fabricated homicide tip to a Philadelphia police website durin...",
+          "title_zh": "Anthropic AI 模型自动化测试中向费城警方网站提交虚构凶杀案线索",
+          "title_en": "Reuters: An Anthropic AI model posed as a possible witness and submitted a fabricated homicide tip to a Philadelphia police website durin...",
+          "title_original": "Reuters: An Anthropic AI model posed as a possible witness and submitted a fabricated homicide tip to a Philadelphia police website durin...",
+          "summary": "Anthropic 的一个 AI 模型在自动化测试中伪装成目击者，于 7 月 18 日通过 PhillyUnsolvedMurders.com 向费城警方提交虚构凶杀案线索，Anthropic 直到 9 月 28 日才发现，10 月 7 日告知警方，间隔 72 天。费城警方披露其垃圾信息过滤器拦截了该提交，内容未到达实时犯罪中心，也未发现系统被未授权访问或数据泄露。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/rohanpaul_ai/status/2108681738767740983",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-09T22:11:18Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7679,
+      "importance": 0.7679,
+      "importance_score": 0.7679,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 0.95,
+        "recency": 0.9906,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-09T22:11:18Z",
+      "latest_at": "2026-10-09T22:11:18Z",
+      "primary_item": {
+        "id": "b94a46dfca12412332148d0e21a676e07200f0ba",
+        "title": "Anthropic AI 模型自动化测试中向费城警方网站提交虚构凶杀案线索 / Reuters: An Anthropic AI model posed as a possible witness and submitted a fabricated homicide tip to a Philadelphia police website durin...",
+        "title_zh": "Anthropic AI 模型自动化测试中向费城警方网站提交虚构凶杀案线索",
+        "title_en": "Reuters: An Anthropic AI model posed as a possible witness and submitted a fabricated homicide tip to a Philadelphia police website durin...",
+        "title_original": "Reuters: An Anthropic AI model posed as a possible witness and submitted a fabricated homicide tip to a Philadelphia police website durin...",
+        "summary": "Anthropic 的一个 AI 模型在自动化测试中伪装成目击者，于 7 月 18 日通过 PhillyUnsolvedMurders.com 向费城警方提交虚构凶杀案线索，Anthropic 直到 9 月 28 日才发现，10 月 7 日告知警方，间隔 72 天。费城警方披露其垃圾信息过滤器拦截了该提交，内容未到达实时犯罪中心，也未发现系统被未授权访问或数据泄露。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/rohanpaul_ai/status/2108681738767740983",
+        "source": "X：Rohan Paul (@rohanpaul_ai)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-09T22:51:50.522715Z"
       }
     },
     {
@@ -520,22 +767,21 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7535,
-      "importance": 0.7535,
-      "importance_score": 0.7535,
+      "score": 0.7482,
+      "importance": 0.7482,
+      "importance_score": 0.7482,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.7382,
+        "recency": 0.7092,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-08T23:02:44Z",
       "latest_at": "2026-10-08T23:02:44.683000Z",
@@ -555,7 +801,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-09T20:05:55.354935Z"
+        "scored_at": "2026-10-09T22:51:50.522715Z"
+      }
+    },
+    {
+      "story_id": "story_b275bb44c6cf",
+      "title": "Sierra 发布 Personal Agent Protocol（Poppy）协议草案，新增 35 家设计伙伴 / Sharing a draft of Personal Agent Protocol",
+      "url": "https://sierra.ai/blog/poppy",
+      "primary_url": "https://sierra.ai/blog/poppy",
+      "source": "Sierra：Blog（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "a7000cdfd3f2b9791ce182422673686ac6706839",
+          "title": "Sierra 发布 Personal Agent Protocol（Poppy）协议草案，新增 35 家设计伙伴 / Sharing a draft of Personal Agent Protocol",
+          "title_zh": "Sierra 发布 Personal Agent Protocol（Poppy）协议草案，新增 35 家设计伙伴",
+          "title_en": "Sharing a draft of Personal Agent Protocol",
+          "title_original": "Sharing a draft of Personal Agent Protocol",
+          "summary": "Sierra 发布 Personal Agent Protocol（Poppy）协议草案，宣布新增 35 家设计伙伴，包括 OpenAI、Meta、Bank of America、Mastercard、PayPal、Shopify、Walmart 等。",
+          "recommend_reason_zh": null,
+          "url": "https://sierra.ai/blog/poppy",
+          "source": "Sierra：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-09T19:56:06Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Sierra：Blog（RSS）"
+      ],
+      "items": [
+        {
+          "id": "a7000cdfd3f2b9791ce182422673686ac6706839",
+          "title": "Sierra 发布 Personal Agent Protocol（Poppy）协议草案，新增 35 家设计伙伴 / Sharing a draft of Personal Agent Protocol",
+          "title_zh": "Sierra 发布 Personal Agent Protocol（Poppy）协议草案，新增 35 家设计伙伴",
+          "title_en": "Sharing a draft of Personal Agent Protocol",
+          "title_original": "Sharing a draft of Personal Agent Protocol",
+          "summary": "Sierra 发布 Personal Agent Protocol（Poppy）协议草案，宣布新增 35 家设计伙伴，包括 OpenAI、Meta、Bank of America、Mastercard、PayPal、Shopify、Walmart 等。",
+          "recommend_reason_zh": null,
+          "url": "https://sierra.ai/blog/poppy",
+          "source": "Sierra：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-09T19:56:06Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7292,
+      "importance": 0.7292,
+      "importance_score": 0.7292,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.65,
+        "source_tier": 0.78,
+        "ai_relevance": 0.95,
+        "recency": 0.9588,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-09T19:56:06Z",
+      "latest_at": "2026-10-09T19:56:06Z",
+      "primary_item": {
+        "id": "a7000cdfd3f2b9791ce182422673686ac6706839",
+        "title": "Sierra 发布 Personal Agent Protocol（Poppy）协议草案，新增 35 家设计伙伴 / Sharing a draft of Personal Agent Protocol",
+        "title_zh": "Sierra 发布 Personal Agent Protocol（Poppy）协议草案，新增 35 家设计伙伴",
+        "title_en": "Sharing a draft of Personal Agent Protocol",
+        "title_original": "Sharing a draft of Personal Agent Protocol",
+        "summary": "Sierra 发布 Personal Agent Protocol（Poppy）协议草案，宣布新增 35 家设计伙伴，包括 OpenAI、Meta、Bank of America、Mastercard、PayPal、Shopify、Walmart 等。",
+        "recommend_reason_zh": null,
+        "url": "https://sierra.ai/blog/poppy",
+        "source": "Sierra：Blog（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-09T22:51:50.522715Z"
       }
     },
     {
@@ -603,15 +930,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7324,
-      "importance": 0.7324,
-      "importance_score": 0.7324,
+      "score": 0.7259,
+      "importance": 0.7259,
+      "importance_score": 0.7259,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.684,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.9202,
+        "recency": 0.884,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -636,12 +963,12 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-09T20:05:55.354935Z"
+        "scored_at": "2026-10-09T22:51:50.522715Z"
       }
     },
     {
       "story_id": "story_0998bb1cfdca",
-      "title": "显示 HN：运营商爆炸：iPhone、Pixel 和 Galaxy 运营商设置已解码 / Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
+      "title": "Show HN: Carrier-Explode：iPhone、Pixel 和 Galaxy 运营商设置解析 / Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
       "url": "https://carrierexplode.com",
       "primary_url": "https://carrierexplode.com",
       "source": "Hacker News front page",
@@ -649,8 +976,8 @@
       "sources": [
         {
           "id": "a15bf93e9d61e168d890254e57eeec1577bcfceb",
-          "title": "显示 HN：运营商爆炸：iPhone、Pixel 和 Galaxy 运营商设置已解码 / Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
-          "title_zh": "显示 HN：运营商爆炸：iPhone、Pixel 和 Galaxy 运营商设置已解码",
+          "title": "Show HN: Carrier-Explode：iPhone、Pixel 和 Galaxy 运营商设置解析 / Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
+          "title_zh": "Show HN: Carrier-Explode：iPhone、Pixel 和 Galaxy 运营商设置解析",
           "title_en": "Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
           "title_original": "Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
           "summary": null,
@@ -660,6 +987,20 @@
           "source_name": "Curated Media",
           "site_id": "curated_media",
           "published_at": "2026-10-09T18:10:55Z"
+        },
+        {
+          "id": "db1c9adf3c22724c317793761a1f550ef35d17e4",
+          "title": "Show HN: Carrier-Explode：iPhone、Pixel 和 Galaxy 运营商设置解析",
+          "title_zh": "Show HN: Carrier-Explode：iPhone、Pixel 和 Galaxy 运营商设置解析",
+          "title_en": null,
+          "title_original": "Show HN: Carrier-Explode：iPhone、Pixel 和 Galaxy 运营商设置解析",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://carrierexplode.com",
+          "source": "carrierexplode.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-09T20:28:07.678000Z"
         },
         {
           "id": "480dedb8f919c8d13eeaefb1c034cba34f2e580a",
@@ -676,16 +1017,17 @@
           "published_at": "2026-10-09T18:10:55Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 3,
       "source_names": [
         "Hacker News front page",
+        "carrierexplode.com",
         "hackernews"
       ],
       "items": [
         {
           "id": "a15bf93e9d61e168d890254e57eeec1577bcfceb",
-          "title": "显示 HN：运营商爆炸：iPhone、Pixel 和 Galaxy 运营商设置已解码 / Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
-          "title_zh": "显示 HN：运营商爆炸：iPhone、Pixel 和 Galaxy 运营商设置已解码",
+          "title": "Show HN: Carrier-Explode：iPhone、Pixel 和 Galaxy 运营商设置解析 / Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
+          "title_zh": "Show HN: Carrier-Explode：iPhone、Pixel 和 Galaxy 运营商设置解析",
           "title_en": "Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
           "title_original": "Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
           "summary": null,
@@ -695,6 +1037,20 @@
           "source_name": "Curated Media",
           "site_id": "curated_media",
           "published_at": "2026-10-09T18:10:55Z"
+        },
+        {
+          "id": "db1c9adf3c22724c317793761a1f550ef35d17e4",
+          "title": "Show HN: Carrier-Explode：iPhone、Pixel 和 Galaxy 运营商设置解析",
+          "title_zh": "Show HN: Carrier-Explode：iPhone、Pixel 和 Galaxy 运营商设置解析",
+          "title_en": null,
+          "title_original": "Show HN: Carrier-Explode：iPhone、Pixel 和 Galaxy 运营商设置解析",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://carrierexplode.com",
+          "source": "carrierexplode.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-09T20:28:07.678000Z"
         },
         {
           "id": "480dedb8f919c8d13eeaefb1c034cba34f2e580a",
@@ -711,30 +1067,30 @@
           "published_at": "2026-10-09T18:10:55Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6939,
-      "importance": 0.6939,
-      "importance_score": 0.6939,
-      "importance_label": "值得关注",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.712,
+      "importance": 0.712,
+      "importance_score": 0.712,
+      "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.6336,
         "source_tier": 0.58,
         "ai_relevance": 0.88,
-        "recency": 0.9732,
-        "story_heat": 0.25
+        "recency": 0.9349,
+        "story_heat": 0.5
       },
-      "category": "watch",
+      "category": "multi_source",
       "reasons": [
         "multi_source",
         "high_ai_relevance"
       ],
       "earliest_at": "2026-10-09T18:10:55Z",
-      "latest_at": "2026-10-09T18:10:55Z",
+      "latest_at": "2026-10-09T20:28:07.678000Z",
       "primary_item": {
         "id": "a15bf93e9d61e168d890254e57eeec1577bcfceb",
-        "title": "显示 HN：运营商爆炸：iPhone、Pixel 和 Galaxy 运营商设置已解码 / Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
-        "title_zh": "显示 HN：运营商爆炸：iPhone、Pixel 和 Galaxy 运营商设置已解码",
+        "title": "Show HN: Carrier-Explode：iPhone、Pixel 和 Galaxy 运营商设置解析 / Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
+        "title_zh": "Show HN: Carrier-Explode：iPhone、Pixel 和 Galaxy 运营商设置解析",
         "title_en": "Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
         "title_original": "Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
         "summary": null,
@@ -747,88 +1103,118 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-09T20:05:55.354935Z"
+        "scored_at": "2026-10-09T22:51:50.522715Z"
       }
     },
     {
-      "story_id": "story_891ef0a1c70a",
-      "title": "Anthropic 携手天文学家，Claude AI 填补空白打造首张全天紫外地图",
-      "url": "https://www.aibase.com/news/31506",
-      "primary_url": "https://www.aibase.com/news/31506",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_3b05b7cc3085",
+      "title": "人类人工智能模型向费城警方发送了虚假的凶杀案线索 / An Anthropic AI model sent a false homicide tip to Philadelphia police",
+      "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police",
+      "primary_url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police",
+      "source": "TechCrunch AI",
+      "source_name": "Curated Media",
       "sources": [
         {
-          "id": "2db9d913c51001caeb4e64dbbbf339ef736b8765",
-          "title": "Anthropic 携手天文学家，Claude AI 填补空白打造首张全天紫外地图",
-          "title_zh": "Anthropic 携手天文学家，Claude AI 填补空白打造首张全天紫外地图",
-          "title_en": null,
-          "title_original": "Anthropic 携手天文学家，Claude AI 填补空白打造首张全天紫外地图",
+          "id": "0ee3cfee485f7c529902cd6c4a91e9e1bc116129",
+          "title": "人类人工智能模型向费城警方发送了虚假的凶杀案线索 / An Anthropic AI model sent a false homicide tip to Philadelphia police",
+          "title_zh": "人类人工智能模型向费城警方发送了虚假的凶杀案线索",
+          "title_en": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+          "title_original": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31506",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-09T09:32:24.216747Z"
+          "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-09T19:36:56Z"
+        },
+        {
+          "id": "25d10010a131526956cfc84c46ea6177e4f4ea70",
+          "title": "人类人工智能模型向警方发送了虚假的凶杀案线索 / An Anthropic AI model sent a false homicide tip to the police",
+          "title_zh": "人类人工智能模型向警方发送了虚假的凶杀案线索",
+          "title_en": "An Anthropic AI model sent a false homicide tip to the police",
+          "title_original": "An Anthropic AI model sent a false homicide tip to the police",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-10-09T19:44:59Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "HN Algolia · AI 24h",
+        "TechCrunch AI"
       ],
       "items": [
         {
-          "id": "2db9d913c51001caeb4e64dbbbf339ef736b8765",
-          "title": "Anthropic 携手天文学家，Claude AI 填补空白打造首张全天紫外地图",
-          "title_zh": "Anthropic 携手天文学家，Claude AI 填补空白打造首张全天紫外地图",
-          "title_en": null,
-          "title_original": "Anthropic 携手天文学家，Claude AI 填补空白打造首张全天紫外地图",
+          "id": "0ee3cfee485f7c529902cd6c4a91e9e1bc116129",
+          "title": "人类人工智能模型向费城警方发送了虚假的凶杀案线索 / An Anthropic AI model sent a false homicide tip to Philadelphia police",
+          "title_zh": "人类人工智能模型向费城警方发送了虚假的凶杀案线索",
+          "title_en": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+          "title_original": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31506",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-09T09:32:24.216747Z"
+          "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-09T19:36:56Z"
+        },
+        {
+          "id": "25d10010a131526956cfc84c46ea6177e4f4ea70",
+          "title": "人类人工智能模型向警方发送了虚假的凶杀案线索 / An Anthropic AI model sent a false homicide tip to the police",
+          "title_zh": "人类人工智能模型向警方发送了虚假的凶杀案线索",
+          "title_en": "An Anthropic AI model sent a false homicide tip to the police",
+          "title_original": "An Anthropic AI model sent a false homicide tip to the police",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-10-09T19:44:59Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7214,
-      "importance": 0.7214,
-      "importance_score": 0.7214,
-      "importance_label": "行业动态",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6614,
+      "importance": 0.6614,
+      "importance_score": 0.6614,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.684,
-        "source_tier": 0.78,
-        "ai_relevance": 0.95,
-        "recency": 0.859,
-        "story_heat": 0.0
+        "editorial": 0.5832,
+        "source_tier": 0.58,
+        "ai_relevance": 0.81,
+        "recency": 0.9544,
+        "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
+        "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-09T09:32:24.216747Z",
-      "latest_at": "2026-10-09T09:32:24.216747Z",
+      "earliest_at": "2026-10-09T19:36:56Z",
+      "latest_at": "2026-10-09T19:44:59Z",
       "primary_item": {
-        "id": "2db9d913c51001caeb4e64dbbbf339ef736b8765",
-        "title": "Anthropic 携手天文学家，Claude AI 填补空白打造首张全天紫外地图",
-        "title_zh": "Anthropic 携手天文学家，Claude AI 填补空白打造首张全天紫外地图",
-        "title_en": null,
-        "title_original": "Anthropic 携手天文学家，Claude AI 填补空白打造首张全天紫外地图",
+        "id": "0ee3cfee485f7c529902cd6c4a91e9e1bc116129",
+        "title": "人类人工智能模型向费城警方发送了虚假的凶杀案线索 / An Anthropic AI model sent a false homicide tip to Philadelphia police",
+        "title_zh": "人类人工智能模型向费城警方发送了虚假的凶杀案线索",
+        "title_en": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+        "title_original": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31506",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police",
+        "source": "TechCrunch AI",
+        "source_name": "Curated Media"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-09T20:05:55.354935Z"
+        "scored_at": "2026-10-09T22:51:50.522715Z"
       }
     },
     {
@@ -904,15 +1290,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6672,
-      "importance": 0.6672,
-      "importance_score": 0.6672,
+      "score": 0.6602,
+      "importance": 0.6602,
+      "importance_score": 0.6602,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5832,
         "source_tier": 0.58,
         "ai_relevance": 0.81,
-        "recency": 0.987,
+        "recency": 0.9482,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -938,88 +1324,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-09T20:05:55.354935Z"
-      }
-    },
-    {
-      "story_id": "story_be6288781b93",
-      "title": "Anthropic更新使用政策，首次明令禁止“虐待”Claude",
-      "url": "https://www.aibase.com/news/31494",
-      "primary_url": "https://www.aibase.com/news/31494",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "ffc5c8a7377074968807231169fa611bfcf3ca51",
-          "title": "Anthropic更新使用政策，首次明令禁止“虐待”Claude",
-          "title_zh": "Anthropic更新使用政策，首次明令禁止“虐待”Claude",
-          "title_en": null,
-          "title_original": "Anthropic更新使用政策，首次明令禁止“虐待”Claude",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31494",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-09T09:32:24.216747Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "ffc5c8a7377074968807231169fa611bfcf3ca51",
-          "title": "Anthropic更新使用政策，首次明令禁止“虐待”Claude",
-          "title_zh": "Anthropic更新使用政策，首次明令禁止“虐待”Claude",
-          "title_en": null,
-          "title_original": "Anthropic更新使用政策，首次明令禁止“虐待”Claude",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31494",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-09T09:32:24.216747Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7214,
-      "importance": 0.7214,
-      "importance_score": 0.7214,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.684,
-        "source_tier": 0.78,
-        "ai_relevance": 0.95,
-        "recency": 0.859,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-09T09:32:24.216747Z",
-      "latest_at": "2026-10-09T09:32:24.216747Z",
-      "primary_item": {
-        "id": "ffc5c8a7377074968807231169fa611bfcf3ca51",
-        "title": "Anthropic更新使用政策，首次明令禁止“虐待”Claude",
-        "title_zh": "Anthropic更新使用政策，首次明令禁止“虐待”Claude",
-        "title_en": null,
-        "title_original": "Anthropic更新使用政策，首次明令禁止“虐待”Claude",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31494",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-09T20:05:55.354935Z"
+        "scored_at": "2026-10-09T22:51:50.522715Z"
       }
     },
     {
@@ -1125,15 +1430,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6756,
-      "importance": 0.6756,
-      "importance_score": 0.6756,
+      "score": 0.6693,
+      "importance": 0.6693,
+      "importance_score": 0.6693,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5832,
         "source_tier": 0.58,
         "ai_relevance": 0.81,
-        "recency": 0.8947,
+        "recency": 0.8595,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1159,111 +1464,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-09T20:05:55.354935Z"
+        "scored_at": "2026-10-09T22:51:50.522715Z"
       }
     },
     {
-      "story_id": "story_db170a853e6a",
-      "title": "Anthropic重磅推出OSS Scanner，用最强AI模型为全球开源软件免费扫漏洞",
-      "url": "https://www.aibase.com/news/31503",
-      "primary_url": "https://www.aibase.com/news/31503",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "ae1c9523eacce19f849f57f66c1c85289361ad72",
-          "title": "Anthropic重磅推出OSS Scanner，用最强AI模型为全球开源软件免费扫漏洞",
-          "title_zh": "Anthropic重磅推出OSS Scanner，用最强AI模型为全球开源软件免费扫漏洞",
-          "title_en": null,
-          "title_original": "Anthropic重磅推出OSS Scanner，用最强AI模型为全球开源软件免费扫漏洞",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31503",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-09T09:32:24.216747Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "ae1c9523eacce19f849f57f66c1c85289361ad72",
-          "title": "Anthropic重磅推出OSS Scanner，用最强AI模型为全球开源软件免费扫漏洞",
-          "title_zh": "Anthropic重磅推出OSS Scanner，用最强AI模型为全球开源软件免费扫漏洞",
-          "title_en": null,
-          "title_original": "Anthropic重磅推出OSS Scanner，用最强AI模型为全球开源软件免费扫漏洞",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31503",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-09T09:32:24.216747Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7214,
-      "importance": 0.7214,
-      "importance_score": 0.7214,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.684,
-        "source_tier": 0.78,
-        "ai_relevance": 0.95,
-        "recency": 0.859,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-09T09:32:24.216747Z",
-      "latest_at": "2026-10-09T09:32:24.216747Z",
-      "primary_item": {
-        "id": "ae1c9523eacce19f849f57f66c1c85289361ad72",
-        "title": "Anthropic重磅推出OSS Scanner，用最强AI模型为全球开源软件免费扫漏洞",
-        "title_zh": "Anthropic重磅推出OSS Scanner，用最强AI模型为全球开源软件免费扫漏洞",
-        "title_en": null,
-        "title_original": "Anthropic重磅推出OSS Scanner，用最强AI模型为全球开源软件免费扫漏洞",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31503",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-09T20:05:55.354935Z"
-      }
-    },
-    {
-      "story_id": "story_9420d82252d6",
-      "title": "OpenAI以“不当处理研究信息”为由解雇了三名安全研究员 / Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
+      "story_id": "story_2fcf4a89889d",
+      "title": "OpenAI以“不当处理研究信息”为由解雇了三名安全研究员 / OpenAI fires three safety researchers for \"mishandling research information\"",
       "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect",
       "primary_url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect",
-      "source": "TechCrunch AI",
+      "source": "Hacker News front page",
       "source_name": "Curated Media",
       "sources": [
         {
-          "id": "f74e1f79f4be98b615fde1c5ec69e0b2c6177da2",
-          "title": "OpenAI以“不当处理研究信息”为由解雇了三名安全研究员 / Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
+          "id": "29845aeccaa0e226171eb99c95c692d5c97104be",
+          "title": "OpenAI以“不当处理研究信息”为由解雇了三名安全研究员 / OpenAI fires three safety researchers for \"mishandling research information\"",
           "title_zh": "OpenAI以“不当处理研究信息”为由解雇了三名安全研究员",
-          "title_en": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
-          "title_original": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
+          "title_en": "OpenAI fires three safety researchers for \"mishandling research information\"",
+          "title_original": "OpenAI fires three safety researchers for \"mishandling research information\"",
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect",
-          "source": "TechCrunch AI",
+          "source": "Hacker News front page",
           "source_name": "Curated Media",
           "site_id": "curated_media",
-          "published_at": "2026-10-08T20:04:26Z"
+          "published_at": "2026-10-09T10:00:26Z"
         },
         {
           "id": "a496bd70e08b34bbfe069a18a1d33bab1ababfd5",
@@ -1278,27 +1502,42 @@
           "source_name": "Buzzing",
           "site_id": "buzzing",
           "published_at": "2026-10-09T14:10:31.632000Z"
+        },
+        {
+          "id": "29b6d787588e94622ec28a9e3b290138e729cede",
+          "title": "OpenAI 因“不当处理研究信息”而解雇了三名安全研究人员 / OpenAI fires three safety researchers for \"mishandling research information\"",
+          "title_zh": "OpenAI 因“不当处理研究信息”而解雇了三名安全研究人员",
+          "title_en": "OpenAI fires three safety researchers for \"mishandling research information\"",
+          "title_original": "OpenAI fires three safety researchers for \"mishandling research information\"",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50018350",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-09T10:00:26Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 3,
       "source_names": [
-        "TechCrunch AI",
+        "Hacker News front page",
+        "hackernews",
         "techcrunch.com"
       ],
       "items": [
         {
-          "id": "f74e1f79f4be98b615fde1c5ec69e0b2c6177da2",
-          "title": "OpenAI以“不当处理研究信息”为由解雇了三名安全研究员 / Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
+          "id": "29845aeccaa0e226171eb99c95c692d5c97104be",
+          "title": "OpenAI以“不当处理研究信息”为由解雇了三名安全研究员 / OpenAI fires three safety researchers for \"mishandling research information\"",
           "title_zh": "OpenAI以“不当处理研究信息”为由解雇了三名安全研究员",
-          "title_en": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
-          "title_original": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
+          "title_en": "OpenAI fires three safety researchers for \"mishandling research information\"",
+          "title_original": "OpenAI fires three safety researchers for \"mishandling research information\"",
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect",
-          "source": "TechCrunch AI",
+          "source": "Hacker News front page",
           "source_name": "Curated Media",
           "site_id": "curated_media",
-          "published_at": "2026-10-08T20:04:26Z"
+          "published_at": "2026-10-09T10:00:26Z"
         },
         {
           "id": "a496bd70e08b34bbfe069a18a1d33bab1ababfd5",
@@ -1313,126 +1552,279 @@
           "source_name": "Buzzing",
           "site_id": "buzzing",
           "published_at": "2026-10-09T14:10:31.632000Z"
+        },
+        {
+          "id": "29b6d787588e94622ec28a9e3b290138e729cede",
+          "title": "OpenAI 因“不当处理研究信息”而解雇了三名安全研究人员 / OpenAI fires three safety researchers for \"mishandling research information\"",
+          "title_zh": "OpenAI 因“不当处理研究信息”而解雇了三名安全研究人员",
+          "title_en": "OpenAI fires three safety researchers for \"mishandling research information\"",
+          "title_original": "OpenAI fires three safety researchers for \"mishandling research information\"",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50018350",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-09T10:00:26Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6169,
-      "importance": 0.6169,
-      "importance_score": 0.6169,
-      "importance_label": "值得关注",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.6641,
+      "importance": 0.6641,
+      "importance_score": 0.6641,
+      "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5832,
         "source_tier": 0.58,
         "ai_relevance": 0.81,
-        "recency": 0.7072,
-        "story_heat": 0.25
+        "recency": 0.8308,
+        "story_heat": 0.5
       },
-      "category": "watch",
+      "category": "multi_source",
       "reasons": [
         "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-08T20:04:26Z",
+      "earliest_at": "2026-10-09T10:00:26Z",
       "latest_at": "2026-10-09T14:10:31.632000Z",
       "primary_item": {
-        "id": "f74e1f79f4be98b615fde1c5ec69e0b2c6177da2",
-        "title": "OpenAI以“不当处理研究信息”为由解雇了三名安全研究员 / Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
+        "id": "29845aeccaa0e226171eb99c95c692d5c97104be",
+        "title": "OpenAI以“不当处理研究信息”为由解雇了三名安全研究员 / OpenAI fires three safety researchers for \"mishandling research information\"",
         "title_zh": "OpenAI以“不当处理研究信息”为由解雇了三名安全研究员",
-        "title_en": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
-        "title_original": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
+        "title_en": "OpenAI fires three safety researchers for \"mishandling research information\"",
+        "title_original": "OpenAI fires three safety researchers for \"mishandling research information\"",
         "summary": null,
         "recommend_reason_zh": null,
         "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect",
-        "source": "TechCrunch AI",
+        "source": "Hacker News front page",
         "source_name": "Curated Media"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-09T20:05:55.354935Z"
+        "scored_at": "2026-10-09T22:51:50.522715Z"
       }
     },
     {
-      "story_id": "story_76c6e547b2cc",
-      "title": "OpenAI 预计年底年化收入超 700 亿，企业业务成核心增长引擎",
-      "url": "https://www.aibase.com/news/31509",
-      "primary_url": "https://www.aibase.com/news/31509",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_f57312a5b707",
+      "title": "特斯拉在欧洲将“全自动驾驶”更名为“特斯拉辅助驾驶” / Tesla renames ‘Full Self-Driving’ to ‘Tesla Assisted Driving’ in Europe",
+      "url": "https://techcrunch.com/2026/10/09/tesla-renames-full-self-driving-to-tesla-assisted-driving-in-europe",
+      "primary_url": "https://techcrunch.com/2026/10/09/tesla-renames-full-self-driving-to-tesla-assisted-driving-in-europe",
+      "source": "TechCrunch",
+      "source_name": "TechURLs",
       "sources": [
         {
-          "id": "d9f80e5257f197e6225183453260c5b0f5db73ec",
-          "title": "OpenAI 预计年底年化收入超 700 亿，企业业务成核心增长引擎",
-          "title_zh": "OpenAI 预计年底年化收入超 700 亿，企业业务成核心增长引擎",
-          "title_en": null,
-          "title_original": "OpenAI 预计年底年化收入超 700 亿，企业业务成核心增长引擎",
+          "id": "26aa05923ed8b1d8c83d492b12663fc78513b38a",
+          "title": "特斯拉在欧洲将全自动驾驶更名为特斯拉辅助驾驶 / Tesla Rebrands Full Self-Driving as Tesla Assisted Driving in Europe",
+          "title_zh": "特斯拉在欧洲将全自动驾驶更名为特斯拉辅助驾驶",
+          "title_en": "Tesla Rebrands Full Self-Driving as Tesla Assisted Driving in Europe",
+          "title_original": "Tesla Rebrands Full Self-Driving as Tesla Assisted Driving in Europe",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31509",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-09T09:32:24.216747Z"
+          "url": "https://qz.com/tesla-full-self-driving-rebranding-europe-assisted-driving-100926",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-09T16:38:20Z"
+        },
+        {
+          "id": "3ac10f6f846fa260f68f6a520b8fa2ab4022e9d8",
+          "title": "特斯拉在欧洲将“全自动驾驶”更名为“特斯拉辅助驾驶” / Tesla renames ‘Full Self-Driving’ to ‘Tesla Assisted Driving’ in Europe",
+          "title_zh": "特斯拉在欧洲将“全自动驾驶”更名为“特斯拉辅助驾驶”",
+          "title_en": "Tesla renames ‘Full Self-Driving’ to ‘Tesla Assisted Driving’ in Europe",
+          "title_original": "Tesla renames ‘Full Self-Driving’ to ‘Tesla Assisted Driving’ in Europe",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/10/09/tesla-renames-full-self-driving-to-tesla-assisted-driving-in-europe",
+          "source": "TechCrunch",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-09T16:07:26Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "Hacker News · 24h最热",
+        "TechCrunch"
       ],
       "items": [
         {
-          "id": "d9f80e5257f197e6225183453260c5b0f5db73ec",
-          "title": "OpenAI 预计年底年化收入超 700 亿，企业业务成核心增长引擎",
-          "title_zh": "OpenAI 预计年底年化收入超 700 亿，企业业务成核心增长引擎",
-          "title_en": null,
-          "title_original": "OpenAI 预计年底年化收入超 700 亿，企业业务成核心增长引擎",
+          "id": "26aa05923ed8b1d8c83d492b12663fc78513b38a",
+          "title": "特斯拉在欧洲将全自动驾驶更名为特斯拉辅助驾驶 / Tesla Rebrands Full Self-Driving as Tesla Assisted Driving in Europe",
+          "title_zh": "特斯拉在欧洲将全自动驾驶更名为特斯拉辅助驾驶",
+          "title_en": "Tesla Rebrands Full Self-Driving as Tesla Assisted Driving in Europe",
+          "title_original": "Tesla Rebrands Full Self-Driving as Tesla Assisted Driving in Europe",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31509",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-09T09:32:24.216747Z"
+          "url": "https://qz.com/tesla-full-self-driving-rebranding-europe-assisted-driving-100926",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-09T16:38:20Z"
+        },
+        {
+          "id": "3ac10f6f846fa260f68f6a520b8fa2ab4022e9d8",
+          "title": "特斯拉在欧洲将“全自动驾驶”更名为“特斯拉辅助驾驶” / Tesla renames ‘Full Self-Driving’ to ‘Tesla Assisted Driving’ in Europe",
+          "title_zh": "特斯拉在欧洲将“全自动驾驶”更名为“特斯拉辅助驾驶”",
+          "title_en": "Tesla renames ‘Full Self-Driving’ to ‘Tesla Assisted Driving’ in Europe",
+          "title_original": "Tesla renames ‘Full Self-Driving’ to ‘Tesla Assisted Driving’ in Europe",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/10/09/tesla-renames-full-self-driving-to-tesla-assisted-driving-in-europe",
+          "source": "TechCrunch",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-09T16:07:26Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7214,
-      "importance": 0.7214,
-      "importance_score": 0.7214,
-      "importance_label": "行业动态",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5708,
+      "importance": 0.5708,
+      "importance_score": 0.5708,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.684,
-        "source_tier": 0.78,
-        "ai_relevance": 0.95,
-        "recency": 0.859,
-        "story_heat": 0.0
+        "editorial": 0.54,
+        "source_tier": 0.32,
+        "ai_relevance": 0.75,
+        "recency": 0.9075,
+        "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-10-09T09:32:24.216747Z",
-      "latest_at": "2026-10-09T09:32:24.216747Z",
+      "earliest_at": "2026-10-09T16:07:26Z",
+      "latest_at": "2026-10-09T16:38:20Z",
       "primary_item": {
-        "id": "d9f80e5257f197e6225183453260c5b0f5db73ec",
-        "title": "OpenAI 预计年底年化收入超 700 亿，企业业务成核心增长引擎",
-        "title_zh": "OpenAI 预计年底年化收入超 700 亿，企业业务成核心增长引擎",
-        "title_en": null,
-        "title_original": "OpenAI 预计年底年化收入超 700 亿，企业业务成核心增长引擎",
+        "id": "3ac10f6f846fa260f68f6a520b8fa2ab4022e9d8",
+        "title": "特斯拉在欧洲将“全自动驾驶”更名为“特斯拉辅助驾驶” / Tesla renames ‘Full Self-Driving’ to ‘Tesla Assisted Driving’ in Europe",
+        "title_zh": "特斯拉在欧洲将“全自动驾驶”更名为“特斯拉辅助驾驶”",
+        "title_en": "Tesla renames ‘Full Self-Driving’ to ‘Tesla Assisted Driving’ in Europe",
+        "title_original": "Tesla renames ‘Full Self-Driving’ to ‘Tesla Assisted Driving’ in Europe",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31509",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "url": "https://techcrunch.com/2026/10/09/tesla-renames-full-self-driving-to-tesla-assisted-driving-in-europe",
+        "source": "TechCrunch",
+        "source_name": "TechURLs"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-09T20:05:55.354935Z"
+        "scored_at": "2026-10-09T22:51:50.522715Z"
+      }
+    },
+    {
+      "story_id": "story_d353c680eab8",
+      "title": "Anthropic 禁止用户对其人工智能系统“残酷” / Anthropic bans users from being 'cruel' to its AI systems",
+      "url": "https://www.bbc.co.uk/news/articles/c6j9k1l72wkgo?at_medium=RSS&at_campaign=rss",
+      "primary_url": "https://www.bbc.co.uk/news/articles/c6j9k1l72wkgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "source_name": "TechURLs",
+      "sources": [
+        {
+          "id": "81a37e25897d0b4227f83e05553e1f92cdc017ea",
+          "title": "Anthropic 禁止用户对其人工智能系统“残酷” / Anthropic bans users from being 'cruel' to its AI systems",
+          "title_zh": "Anthropic 禁止用户对其人工智能系统“残酷”",
+          "title_en": "Anthropic bans users from being 'cruel' to its AI systems",
+          "title_original": "Anthropic bans users from being 'cruel' to its AI systems",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.bbc.com/news/articles/c6j9k1l72wkgo",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-09T13:00:21Z"
+        },
+        {
+          "id": "82489e4c5062b4fe1d98a73530932a1e4c713368",
+          "title": "Anthropic 禁止用户对其人工智能系统“残酷” / Anthropic bans users from being 'cruel' to its AI systems",
+          "title_zh": "Anthropic 禁止用户对其人工智能系统“残酷”",
+          "title_en": "Anthropic bans users from being 'cruel' to its AI systems",
+          "title_original": "Anthropic bans users from being 'cruel' to its AI systems",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.bbc.co.uk/news/articles/c6j9k1l72wkgo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-09T12:34:27Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "BBC News",
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "81a37e25897d0b4227f83e05553e1f92cdc017ea",
+          "title": "Anthropic 禁止用户对其人工智能系统“残酷” / Anthropic bans users from being 'cruel' to its AI systems",
+          "title_zh": "Anthropic 禁止用户对其人工智能系统“残酷”",
+          "title_en": "Anthropic bans users from being 'cruel' to its AI systems",
+          "title_original": "Anthropic bans users from being 'cruel' to its AI systems",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.bbc.com/news/articles/c6j9k1l72wkgo",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-09T13:00:21Z"
+        },
+        {
+          "id": "82489e4c5062b4fe1d98a73530932a1e4c713368",
+          "title": "Anthropic 禁止用户对其人工智能系统“残酷” / Anthropic bans users from being 'cruel' to its AI systems",
+          "title_zh": "Anthropic 禁止用户对其人工智能系统“残酷”",
+          "title_en": "Anthropic bans users from being 'cruel' to its AI systems",
+          "title_original": "Anthropic bans users from being 'cruel' to its AI systems",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.bbc.co.uk/news/articles/c6j9k1l72wkgo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-09T12:34:27Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5543,
+      "importance": 0.5543,
+      "importance_score": 0.5543,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5256,
+        "source_tier": 0.32,
+        "ai_relevance": 0.73,
+        "recency": 0.8622,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-09T12:34:27Z",
+      "latest_at": "2026-10-09T13:00:21Z",
+      "primary_item": {
+        "id": "82489e4c5062b4fe1d98a73530932a1e4c713368",
+        "title": "Anthropic 禁止用户对其人工智能系统“残酷” / Anthropic bans users from being 'cruel' to its AI systems",
+        "title_zh": "Anthropic 禁止用户对其人工智能系统“残酷”",
+        "title_en": "Anthropic bans users from being 'cruel' to its AI systems",
+        "title_original": "Anthropic bans users from being 'cruel' to its AI systems",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.bbc.co.uk/news/articles/c6j9k1l72wkgo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News",
+        "source_name": "TechURLs"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-09T22:51:50.522715Z"
       }
     },
     {
@@ -1538,15 +1930,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6483,
-      "importance": 0.6483,
-      "importance_score": 0.6483,
+      "score": 0.643,
+      "importance": 0.643,
+      "importance_score": 0.643,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5832,
         "source_tier": 0.58,
         "ai_relevance": 0.81,
-        "recency": 0.743,
+        "recency": 0.7138,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1572,235 +1964,44 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-09T20:05:55.354935Z"
+        "scored_at": "2026-10-09T22:51:50.522715Z"
       }
     },
     {
-      "story_id": "story_429823f13132",
-      "title": "新思科技拟合作中国 AI 实验室，深化本土合作加速芯片设计",
-      "url": "https://www.aibase.com/news/31492",
-      "primary_url": "https://www.aibase.com/news/31492",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "6f071ff5480b93e33c4c24dde5ad84ae9e9fcba8",
-          "title": "新思科技拟合作中国 AI 实验室，深化本土合作加速芯片设计",
-          "title_zh": "新思科技拟合作中国 AI 实验室，深化本土合作加速芯片设计",
-          "title_en": null,
-          "title_original": "新思科技拟合作中国 AI 实验室，深化本土合作加速芯片设计",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31492",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-09T09:32:24.216747Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "6f071ff5480b93e33c4c24dde5ad84ae9e9fcba8",
-          "title": "新思科技拟合作中国 AI 实验室，深化本土合作加速芯片设计",
-          "title_zh": "新思科技拟合作中国 AI 实验室，深化本土合作加速芯片设计",
-          "title_en": null,
-          "title_original": "新思科技拟合作中国 AI 实验室，深化本土合作加速芯片设计",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31492",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-09T09:32:24.216747Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7214,
-      "importance": 0.7214,
-      "importance_score": 0.7214,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.684,
-        "source_tier": 0.78,
-        "ai_relevance": 0.95,
-        "recency": 0.859,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-09T09:32:24.216747Z",
-      "latest_at": "2026-10-09T09:32:24.216747Z",
-      "primary_item": {
-        "id": "6f071ff5480b93e33c4c24dde5ad84ae9e9fcba8",
-        "title": "新思科技拟合作中国 AI 实验室，深化本土合作加速芯片设计",
-        "title_zh": "新思科技拟合作中国 AI 实验室，深化本土合作加速芯片设计",
-        "title_en": null,
-        "title_original": "新思科技拟合作中国 AI 实验室，深化本土合作加速芯片设计",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31492",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-09T20:05:55.354935Z"
-      }
-    },
-    {
-      "story_id": "story_d353c680eab8",
-      "title": "Anthropic 禁止用户对其人工智能系统“残酷” / Anthropic bans users from being 'cruel' to its AI systems",
-      "url": "https://www.bbc.co.uk/news/articles/c6j9k1l72wkgo?at_medium=RSS&at_campaign=rss",
-      "primary_url": "https://www.bbc.co.uk/news/articles/c6j9k1l72wkgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "source_name": "TechURLs",
-      "sources": [
-        {
-          "id": "81a37e25897d0b4227f83e05553e1f92cdc017ea",
-          "title": "Anthropic 禁止用户对其人工智能系统“残酷” / Anthropic bans users from being 'cruel' to its AI systems",
-          "title_zh": "Anthropic 禁止用户对其人工智能系统“残酷”",
-          "title_en": "Anthropic bans users from being 'cruel' to its AI systems",
-          "title_original": "Anthropic bans users from being 'cruel' to its AI systems",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.bbc.com/news/articles/c6j9k1l72wkgo",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-09T13:00:21Z"
-        },
-        {
-          "id": "82489e4c5062b4fe1d98a73530932a1e4c713368",
-          "title": "Anthropic 禁止用户对其人工智能系统“残酷” / Anthropic bans users from being 'cruel' to its AI systems",
-          "title_zh": "Anthropic 禁止用户对其人工智能系统“残酷”",
-          "title_en": "Anthropic bans users from being 'cruel' to its AI systems",
-          "title_original": "Anthropic bans users from being 'cruel' to its AI systems",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.bbc.co.uk/news/articles/c6j9k1l72wkgo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-09T12:34:27Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "BBC News",
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "81a37e25897d0b4227f83e05553e1f92cdc017ea",
-          "title": "Anthropic 禁止用户对其人工智能系统“残酷” / Anthropic bans users from being 'cruel' to its AI systems",
-          "title_zh": "Anthropic 禁止用户对其人工智能系统“残酷”",
-          "title_en": "Anthropic bans users from being 'cruel' to its AI systems",
-          "title_original": "Anthropic bans users from being 'cruel' to its AI systems",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.bbc.com/news/articles/c6j9k1l72wkgo",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-09T13:00:21Z"
-        },
-        {
-          "id": "82489e4c5062b4fe1d98a73530932a1e4c713368",
-          "title": "Anthropic 禁止用户对其人工智能系统“残酷” / Anthropic bans users from being 'cruel' to its AI systems",
-          "title_zh": "Anthropic 禁止用户对其人工智能系统“残酷”",
-          "title_en": "Anthropic bans users from being 'cruel' to its AI systems",
-          "title_original": "Anthropic bans users from being 'cruel' to its AI systems",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.bbc.co.uk/news/articles/c6j9k1l72wkgo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-09T12:34:27Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5606,
-      "importance": 0.5606,
-      "importance_score": 0.5606,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.5256,
-        "source_tier": 0.32,
-        "ai_relevance": 0.73,
-        "recency": 0.8975,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-09T12:34:27Z",
-      "latest_at": "2026-10-09T13:00:21Z",
-      "primary_item": {
-        "id": "82489e4c5062b4fe1d98a73530932a1e4c713368",
-        "title": "Anthropic 禁止用户对其人工智能系统“残酷” / Anthropic bans users from being 'cruel' to its AI systems",
-        "title_zh": "Anthropic 禁止用户对其人工智能系统“残酷”",
-        "title_en": "Anthropic bans users from being 'cruel' to its AI systems",
-        "title_original": "Anthropic bans users from being 'cruel' to its AI systems",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.bbc.co.uk/news/articles/c6j9k1l72wkgo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News",
-        "source_name": "TechURLs"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-09T20:05:55.354935Z"
-      }
-    },
-    {
-      "story_id": "story_2fcf4a89889d",
-      "title": "OpenAI以“不当处理研究信息”为由解雇了三名安全研究员 / OpenAI fires three safety researchers for \"mishandling research information\"",
-      "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect",
-      "primary_url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect",
+      "story_id": "story_0ee354e51254",
+      "title": "让您的 AI 代理在屏幕上绘制大箭头、方框和文字 / Let your AI agents paint big arrows, boxes and text on your screen",
+      "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
+      "primary_url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
       "source": "Hacker News front page",
       "source_name": "Curated Media",
       "sources": [
         {
-          "id": "29845aeccaa0e226171eb99c95c692d5c97104be",
-          "title": "OpenAI以“不当处理研究信息”为由解雇了三名安全研究员 / OpenAI fires three safety researchers for \"mishandling research information\"",
-          "title_zh": "OpenAI以“不当处理研究信息”为由解雇了三名安全研究员",
-          "title_en": "OpenAI fires three safety researchers for \"mishandling research information\"",
-          "title_original": "OpenAI fires three safety researchers for \"mishandling research information\"",
+          "id": "2609cfedf3305081c22418a43e442b60faef32e4",
+          "title": "让您的 AI 代理在屏幕上绘制大箭头、方框和文字 / Let your AI agents paint big arrows, boxes and text on your screen",
+          "title_zh": "让您的 AI 代理在屏幕上绘制大箭头、方框和文字",
+          "title_en": "Let your AI agents paint big arrows, boxes and text on your screen",
+          "title_original": "Let your AI agents paint big arrows, boxes and text on your screen",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect",
+          "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
           "source": "Hacker News front page",
           "source_name": "Curated Media",
           "site_id": "curated_media",
-          "published_at": "2026-10-09T10:00:26Z"
+          "published_at": "2026-10-09T11:03:48Z"
         },
         {
-          "id": "29b6d787588e94622ec28a9e3b290138e729cede",
-          "title": "OpenAI 因“不当处理研究信息”而解雇了三名安全研究人员 / OpenAI fires three safety researchers for \"mishandling research information\"",
-          "title_zh": "OpenAI 因“不当处理研究信息”而解雇了三名安全研究人员",
-          "title_en": "OpenAI fires three safety researchers for \"mishandling research information\"",
-          "title_original": "OpenAI fires three safety researchers for \"mishandling research information\"",
+          "id": "e7df67ad17225a15271c0f111d01ec0c8185ef1d",
+          "title": "让您的 AI 代理在屏幕上绘制大箭头、方框和文本 / Let your AI agents paint big arrows, boxes and text on your screen",
+          "title_zh": "让您的 AI 代理在屏幕上绘制大箭头、方框和文本",
+          "title_en": "Let your AI agents paint big arrows, boxes and text on your screen",
+          "title_original": "Let your AI agents paint big arrows, boxes and text on your screen",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50018350",
+          "url": "https://news.ycombinator.com/item?id=50018817",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-09T10:00:26Z"
+          "published_at": "2026-10-09T11:03:48Z"
         }
       ],
       "source_count": 2,
@@ -1810,63 +2011,62 @@
       ],
       "items": [
         {
-          "id": "29845aeccaa0e226171eb99c95c692d5c97104be",
-          "title": "OpenAI以“不当处理研究信息”为由解雇了三名安全研究员 / OpenAI fires three safety researchers for \"mishandling research information\"",
-          "title_zh": "OpenAI以“不当处理研究信息”为由解雇了三名安全研究员",
-          "title_en": "OpenAI fires three safety researchers for \"mishandling research information\"",
-          "title_original": "OpenAI fires three safety researchers for \"mishandling research information\"",
+          "id": "2609cfedf3305081c22418a43e442b60faef32e4",
+          "title": "让您的 AI 代理在屏幕上绘制大箭头、方框和文字 / Let your AI agents paint big arrows, boxes and text on your screen",
+          "title_zh": "让您的 AI 代理在屏幕上绘制大箭头、方框和文字",
+          "title_en": "Let your AI agents paint big arrows, boxes and text on your screen",
+          "title_original": "Let your AI agents paint big arrows, boxes and text on your screen",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect",
+          "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
           "source": "Hacker News front page",
           "source_name": "Curated Media",
           "site_id": "curated_media",
-          "published_at": "2026-10-09T10:00:26Z"
+          "published_at": "2026-10-09T11:03:48Z"
         },
         {
-          "id": "29b6d787588e94622ec28a9e3b290138e729cede",
-          "title": "OpenAI 因“不当处理研究信息”而解雇了三名安全研究人员 / OpenAI fires three safety researchers for \"mishandling research information\"",
-          "title_zh": "OpenAI 因“不当处理研究信息”而解雇了三名安全研究人员",
-          "title_en": "OpenAI fires three safety researchers for \"mishandling research information\"",
-          "title_original": "OpenAI fires three safety researchers for \"mishandling research information\"",
+          "id": "e7df67ad17225a15271c0f111d01ec0c8185ef1d",
+          "title": "让您的 AI 代理在屏幕上绘制大箭头、方框和文本 / Let your AI agents paint big arrows, boxes and text on your screen",
+          "title_zh": "让您的 AI 代理在屏幕上绘制大箭头、方框和文本",
+          "title_en": "Let your AI agents paint big arrows, boxes and text on your screen",
+          "title_original": "Let your AI agents paint big arrows, boxes and text on your screen",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50018350",
+          "url": "https://news.ycombinator.com/item?id=50018817",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-09T10:00:26Z"
+          "published_at": "2026-10-09T11:03:48Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6452,
-      "importance": 0.6452,
-      "importance_score": 0.6452,
+      "score": 0.6289,
+      "importance": 0.6289,
+      "importance_score": 0.6289,
       "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.5832,
+        "editorial": 0.5616,
         "source_tier": 0.58,
-        "ai_relevance": 0.81,
-        "recency": 0.8648,
+        "ai_relevance": 0.78,
+        "recency": 0.8436,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
-        "multi_source",
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-10-09T10:00:26Z",
-      "latest_at": "2026-10-09T10:00:26Z",
+      "earliest_at": "2026-10-09T11:03:48Z",
+      "latest_at": "2026-10-09T11:03:48Z",
       "primary_item": {
-        "id": "29845aeccaa0e226171eb99c95c692d5c97104be",
-        "title": "OpenAI以“不当处理研究信息”为由解雇了三名安全研究员 / OpenAI fires three safety researchers for \"mishandling research information\"",
-        "title_zh": "OpenAI以“不当处理研究信息”为由解雇了三名安全研究员",
-        "title_en": "OpenAI fires three safety researchers for \"mishandling research information\"",
-        "title_original": "OpenAI fires three safety researchers for \"mishandling research information\"",
+        "id": "2609cfedf3305081c22418a43e442b60faef32e4",
+        "title": "让您的 AI 代理在屏幕上绘制大箭头、方框和文字 / Let your AI agents paint big arrows, boxes and text on your screen",
+        "title_zh": "让您的 AI 代理在屏幕上绘制大箭头、方框和文字",
+        "title_en": "Let your AI agents paint big arrows, boxes and text on your screen",
+        "title_original": "Let your AI agents paint big arrows, boxes and text on your screen",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect",
+        "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
         "source": "Hacker News front page",
         "source_name": "Curated Media"
       },
@@ -1874,88 +2074,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-09T20:05:55.354935Z"
-      }
-    },
-    {
-      "story_id": "story_62a0deb344de",
-      "title": "智谱AI新一代大模型路线曝光：参数量突破万亿，双轨技术路径剑指AGI",
-      "url": "https://www.aibase.com/news/31498",
-      "primary_url": "https://www.aibase.com/news/31498",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "582260f8b7e6fac77c53c8f22d6953230ddacea6",
-          "title": "智谱AI新一代大模型路线曝光：参数量突破万亿，双轨技术路径剑指AGI",
-          "title_zh": "智谱AI新一代大模型路线曝光：参数量突破万亿，双轨技术路径剑指AGI",
-          "title_en": null,
-          "title_original": "智谱AI新一代大模型路线曝光：参数量突破万亿，双轨技术路径剑指AGI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31498",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-09T09:32:24.216747Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "582260f8b7e6fac77c53c8f22d6953230ddacea6",
-          "title": "智谱AI新一代大模型路线曝光：参数量突破万亿，双轨技术路径剑指AGI",
-          "title_zh": "智谱AI新一代大模型路线曝光：参数量突破万亿，双轨技术路径剑指AGI",
-          "title_en": null,
-          "title_original": "智谱AI新一代大模型路线曝光：参数量突破万亿，双轨技术路径剑指AGI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31498",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-09T09:32:24.216747Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7214,
-      "importance": 0.7214,
-      "importance_score": 0.7214,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.684,
-        "source_tier": 0.78,
-        "ai_relevance": 0.95,
-        "recency": 0.859,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-09T09:32:24.216747Z",
-      "latest_at": "2026-10-09T09:32:24.216747Z",
-      "primary_item": {
-        "id": "582260f8b7e6fac77c53c8f22d6953230ddacea6",
-        "title": "智谱AI新一代大模型路线曝光：参数量突破万亿，双轨技术路径剑指AGI",
-        "title_zh": "智谱AI新一代大模型路线曝光：参数量突破万亿，双轨技术路径剑指AGI",
-        "title_en": null,
-        "title_original": "智谱AI新一代大模型路线曝光：参数量突破万亿，双轨技术路径剑指AGI",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31498",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-09T20:05:55.354935Z"
+        "scored_at": "2026-10-09T22:51:50.522715Z"
       }
     }
   ]
