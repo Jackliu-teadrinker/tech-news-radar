@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T13:31:15.460879Z",
+  "generated_at": "2026-10-10T15:56:22.770841Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7879,
-      "importance": 0.7879,
-      "importance_score": 0.7879,
+      "score": 0.7829,
+      "importance": 0.7829,
+      "importance_score": 0.7829,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.76,
-        "recency": 0.8105,
+        "recency": 0.7827,
         "story_heat": 0.0
       },
       "category": "official",
@@ -82,7 +82,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-10T13:40:18.386062Z"
+        "scored_at": "2026-10-10T15:57:46.880357Z"
       }
     },
     {
@@ -130,15 +130,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7864,
-      "importance": 0.7864,
-      "importance_score": 0.7864,
+      "score": 0.7803,
+      "importance": 0.7803,
+      "importance_score": 0.7803,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.9935,
+        "recency": 0.9594,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -164,90 +164,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-10T13:40:18.386062Z"
+        "scored_at": "2026-10-10T15:57:46.880357Z"
       }
     },
     {
-      "story_id": "story_d37a736244a0",
-      "title": "GPU 集群的有效调度 / Impactful scheduling for GPU clusters",
-      "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
-      "primary_url": "https://huggingface.co/blog/allenai/impactful-scheduling",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_62ce5c6fb1e6",
+      "title": "MIT 教授谈 OpenAI 模型解 Navier-Stokes 反例：人类读不懂的证明来了",
+      "url": "https://x.com/SaitoWu/status/2108919486581796872",
+      "primary_url": "https://x.com/SaitoWu/status/2108919486581796872",
+      "source": "X：Saito 硬地骇客 (@SaitoWu)",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "3fd2c0f58e3fbf1b38c9ff28f0d95ff14143ee4f",
-          "title": "GPU 集群的有效调度 / Impactful scheduling for GPU clusters",
-          "title_zh": "GPU 集群的有效调度",
-          "title_en": "Impactful scheduling for GPU clusters",
-          "title_original": "Impactful scheduling for GPU clusters",
-          "summary": null,
+          "id": "69bfa5e3f216503c129d795e05cd47b96e123c4f",
+          "title": "MIT 教授谈 OpenAI 模型解 Navier-Stokes 反例：人类读不懂的证明来了",
+          "title_zh": "MIT 教授谈 OpenAI 模型解 Navier-Stokes 反例：人类读不懂的证明来了",
+          "title_en": null,
+          "title_original": "MIT 教授谈 OpenAI 模型解 Navier-Stokes 反例：人类读不懂的证明来了",
+          "summary": "MIT 工程教育副院长 Justin Solomon 在播客中谈到，OpenAI 模型上个月给出 Navier-Stokes 解失效的反例证明，但他和《Odd Lots》主持人读不到第二页。",
           "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-09T15:20:29Z"
+          "url": "https://x.com/SaitoWu/status/2108919486581796872",
+          "source": "X：Saito 硬地骇客 (@SaitoWu)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-10T13:56:02Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Hugging Face Blog"
+        "X：Saito 硬地骇客 (@SaitoWu)"
       ],
       "items": [
         {
-          "id": "3fd2c0f58e3fbf1b38c9ff28f0d95ff14143ee4f",
-          "title": "GPU 集群的有效调度 / Impactful scheduling for GPU clusters",
-          "title_zh": "GPU 集群的有效调度",
-          "title_en": "Impactful scheduling for GPU clusters",
-          "title_original": "Impactful scheduling for GPU clusters",
-          "summary": null,
+          "id": "69bfa5e3f216503c129d795e05cd47b96e123c4f",
+          "title": "MIT 教授谈 OpenAI 模型解 Navier-Stokes 反例：人类读不懂的证明来了",
+          "title_zh": "MIT 教授谈 OpenAI 模型解 Navier-Stokes 反例：人类读不懂的证明来了",
+          "title_en": null,
+          "title_original": "MIT 教授谈 OpenAI 模型解 Navier-Stokes 反例：人类读不懂的证明来了",
+          "summary": "MIT 工程教育副院长 Justin Solomon 在播客中谈到，OpenAI 模型上个月给出 Navier-Stokes 解失效的反例证明，但他和《Odd Lots》主持人读不到第二页。",
           "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-09T15:20:29Z"
+          "url": "https://x.com/SaitoWu/status/2108919486581796872",
+          "source": "X：Saito 硬地骇客 (@SaitoWu)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-10T13:56:02Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7847,
-      "importance": 0.7847,
-      "importance_score": 0.7847,
-      "importance_label": "官方更新",
+      "score": 0.7675,
+      "importance": 0.7675,
+      "importance_score": 0.7675,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.82,
-        "recency": 0.7259,
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 0.95,
+        "recency": 0.9715,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-09T15:20:29Z",
-      "latest_at": "2026-10-09T15:20:29Z",
+      "earliest_at": "2026-10-10T13:56:02Z",
+      "latest_at": "2026-10-10T13:56:02Z",
       "primary_item": {
-        "id": "3fd2c0f58e3fbf1b38c9ff28f0d95ff14143ee4f",
-        "title": "GPU 集群的有效调度 / Impactful scheduling for GPU clusters",
-        "title_zh": "GPU 集群的有效调度",
-        "title_en": "Impactful scheduling for GPU clusters",
-        "title_original": "Impactful scheduling for GPU clusters",
-        "summary": null,
+        "id": "69bfa5e3f216503c129d795e05cd47b96e123c4f",
+        "title": "MIT 教授谈 OpenAI 模型解 Navier-Stokes 反例：人类读不懂的证明来了",
+        "title_zh": "MIT 教授谈 OpenAI 模型解 Navier-Stokes 反例：人类读不懂的证明来了",
+        "title_en": null,
+        "title_original": "MIT 教授谈 OpenAI 模型解 Navier-Stokes 反例：人类读不懂的证明来了",
+        "summary": "MIT 工程教育副院长 Justin Solomon 在播客中谈到，OpenAI 模型上个月给出 Navier-Stokes 解失效的反例证明，但他和《Odd Lots》主持人读不到第二页。",
         "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
+        "url": "https://x.com/SaitoWu/status/2108919486581796872",
+        "source": "X：Saito 硬地骇客 (@SaitoWu)",
+        "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-10T13:40:18.386062Z"
+        "scored_at": "2026-10-10T15:57:46.880357Z"
       }
     },
     {
@@ -324,15 +323,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7718,
-      "importance": 0.7718,
-      "importance_score": 0.7718,
+      "score": 0.7656,
+      "importance": 0.7656,
+      "importance_score": 0.7656,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.684,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 1.0,
+        "recency": 0.9657,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -359,7 +358,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-10T13:40:18.386062Z"
+        "scored_at": "2026-10-10T15:57:46.880357Z"
       }
     },
     {
@@ -407,21 +406,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7503,
-      "importance": 0.7503,
-      "importance_score": 0.7503,
+      "score": 0.7452,
+      "importance": 0.7452,
+      "importance_score": 0.7452,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.8263,
+        "recency": 0.7979,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-10T00:18:32Z",
       "latest_at": "2026-10-10T00:18:32Z",
@@ -441,7 +439,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-10T13:40:18.386062Z"
+        "scored_at": "2026-10-10T15:57:46.880357Z"
       }
     },
     {
@@ -489,15 +487,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7789,
-      "importance": 0.7789,
-      "importance_score": 0.7789,
+      "score": 0.774,
+      "importance": 0.774,
+      "importance_score": 0.774,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.73,
-        "recency": 0.794,
+        "recency": 0.7668,
         "story_heat": 0.0
       },
       "category": "official",
@@ -523,7 +521,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-10T13:40:18.386062Z"
+        "scored_at": "2026-10-10T15:57:46.880357Z"
       }
     },
     {
@@ -571,15 +569,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7461,
-      "importance": 0.7461,
-      "importance_score": 0.7461,
+      "score": 0.7409,
+      "importance": 0.7409,
+      "importance_score": 0.7409,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.8362,
+        "recency": 0.8075,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -604,7 +602,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-10T13:40:18.386062Z"
+        "scored_at": "2026-10-10T15:57:46.880357Z"
       }
     },
     {
@@ -652,15 +650,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7453,
-      "importance": 0.7453,
-      "importance_score": 0.7453,
+      "score": 0.7401,
+      "importance": 0.7401,
+      "importance_score": 0.7401,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.8484,
+        "recency": 0.8193,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -685,7 +683,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-10T13:40:18.386062Z"
+        "scored_at": "2026-10-10T15:57:46.880357Z"
       }
     },
     {
@@ -733,15 +731,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7421,
-      "importance": 0.7421,
-      "importance_score": 0.7421,
+      "score": 0.7375,
+      "importance": 0.7375,
+      "importance_score": 0.7375,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.7472,
+        "recency": 0.7216,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -766,7 +764,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-10T13:40:18.386062Z"
+        "scored_at": "2026-10-10T15:57:46.880357Z"
       }
     },
     {
@@ -814,15 +812,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7352,
-      "importance": 0.7352,
-      "importance_score": 0.7352,
+      "score": 0.7294,
+      "importance": 0.7294,
+      "importance_score": 0.7294,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.684,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.9354,
+        "recency": 0.9033,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -847,7 +845,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-10T13:40:18.386062Z"
+        "scored_at": "2026-10-10T15:57:46.880357Z"
       }
     },
     {
@@ -895,15 +893,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7338,
-      "importance": 0.7338,
-      "importance_score": 0.7338,
+      "score": 0.7289,
+      "importance": 0.7289,
+      "importance_score": 0.7289,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.8014,
+        "recency": 0.7739,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -928,7 +926,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-10T13:40:18.386062Z"
+        "scored_at": "2026-10-10T15:57:46.880357Z"
       }
     },
     {
@@ -1034,15 +1032,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6798,
-      "importance": 0.6798,
-      "importance_score": 0.6798,
+      "score": 0.6751,
+      "importance": 0.6751,
+      "importance_score": 0.6751,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.6336,
         "source_tier": 0.58,
         "ai_relevance": 0.88,
-        "recency": 0.7563,
+        "recency": 0.7304,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1068,7 +1066,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-10T13:40:18.386062Z"
+        "scored_at": "2026-10-10T15:57:46.880357Z"
       }
     },
     {
@@ -1116,15 +1114,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7352,
-      "importance": 0.7352,
-      "importance_score": 0.7352,
+      "score": 0.7294,
+      "importance": 0.7294,
+      "importance_score": 0.7294,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.684,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.9354,
+        "recency": 0.9033,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1149,7 +1147,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-10T13:40:18.386062Z"
+        "scored_at": "2026-10-10T15:57:46.880357Z"
       }
     },
     {
@@ -1197,15 +1195,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7352,
-      "importance": 0.7352,
-      "importance_score": 0.7352,
+      "score": 0.7294,
+      "importance": 0.7294,
+      "importance_score": 0.7294,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.684,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.9354,
+        "recency": 0.9033,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1230,12 +1228,12 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-10T13:40:18.386062Z"
+        "scored_at": "2026-10-10T15:57:46.880357Z"
       }
     },
     {
       "story_id": "story_52b9cf29fe0a",
-      "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
+      "title": "Talorys——基于 Cloudflare 免费套餐的自托管个人 AI 代理 / Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
       "url": "https://github.com/rociiu/talorys",
       "primary_url": "https://github.com/rociiu/talorys",
       "source": "Hacker News front page",
@@ -1243,8 +1241,8 @@
       "sources": [
         {
           "id": "a130c4e078c975354383dd97e47d925814916fe3",
-          "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
-          "title_zh": null,
+          "title": "Talorys——基于 Cloudflare 免费套餐的自托管个人 AI 代理 / Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
+          "title_zh": "Talorys——基于 Cloudflare 免费套餐的自托管个人 AI 代理",
           "title_en": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
           "title_original": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
           "summary": null,
@@ -1257,8 +1255,8 @@
         },
         {
           "id": "7b929953e435f88e9217395172ac1d83f8322994",
-          "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
-          "title_zh": null,
+          "title": "Talorys – Cloudflare 免费套餐上的自托管个人 AI 代理 / Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
+          "title_zh": "Talorys – Cloudflare 免费套餐上的自托管个人 AI 代理",
           "title_en": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
           "title_original": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
           "summary": null,
@@ -1278,8 +1276,8 @@
       "items": [
         {
           "id": "a130c4e078c975354383dd97e47d925814916fe3",
-          "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
-          "title_zh": null,
+          "title": "Talorys——基于 Cloudflare 免费套餐的自托管个人 AI 代理 / Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
+          "title_zh": "Talorys——基于 Cloudflare 免费套餐的自托管个人 AI 代理",
           "title_en": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
           "title_original": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
           "summary": null,
@@ -1292,8 +1290,8 @@
         },
         {
           "id": "7b929953e435f88e9217395172ac1d83f8322994",
-          "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
-          "title_zh": null,
+          "title": "Talorys – Cloudflare 免费套餐上的自托管个人 AI 代理 / Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
+          "title_zh": "Talorys – Cloudflare 免费套餐上的自托管个人 AI 代理",
           "title_en": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
           "title_original": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
           "summary": null,
@@ -1307,15 +1305,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6628,
-      "importance": 0.6628,
-      "importance_score": 0.6628,
+      "score": 0.6569,
+      "importance": 0.6569,
+      "importance_score": 0.6569,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5832,
         "source_tier": 0.58,
         "ai_relevance": 0.81,
-        "recency": 0.9624,
+        "recency": 0.9294,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1327,8 +1325,8 @@
       "latest_at": "2026-10-10T10:52:09Z",
       "primary_item": {
         "id": "a130c4e078c975354383dd97e47d925814916fe3",
-        "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
-        "title_zh": null,
+        "title": "Talorys——基于 Cloudflare 免费套餐的自托管个人 AI 代理 / Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
+        "title_zh": "Talorys——基于 Cloudflare 免费套餐的自托管个人 AI 代理",
         "title_en": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
         "title_original": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
         "summary": null,
@@ -1341,7 +1339,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-10T13:40:18.386062Z"
+        "scored_at": "2026-10-10T15:57:46.880357Z"
       }
     },
     {
@@ -1418,15 +1416,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6285,
-      "importance": 0.6285,
-      "importance_score": 0.6285,
+      "score": 0.6238,
+      "importance": 0.6238,
+      "importance_score": 0.6238,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5832,
         "source_tier": 0.58,
         "ai_relevance": 0.81,
-        "recency": 0.7722,
+        "recency": 0.7457,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1452,7 +1450,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-10T13:40:18.386062Z"
+        "scored_at": "2026-10-10T15:57:46.880357Z"
       }
     },
     {
@@ -1528,15 +1526,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6276,
-      "importance": 0.6276,
-      "importance_score": 0.6276,
+      "score": 0.6229,
+      "importance": 0.6229,
+      "importance_score": 0.6229,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5832,
         "source_tier": 0.58,
         "ai_relevance": 0.81,
-        "recency": 0.7671,
+        "recency": 0.7408,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1562,7 +1560,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-10T13:40:18.386062Z"
+        "scored_at": "2026-10-10T15:57:46.880357Z"
       }
     },
     {
@@ -1610,15 +1608,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7352,
-      "importance": 0.7352,
-      "importance_score": 0.7352,
+      "score": 0.7294,
+      "importance": 0.7294,
+      "importance_score": 0.7294,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.684,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.9354,
+        "recency": 0.9033,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1643,12 +1641,12 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-10T13:40:18.386062Z"
+        "scored_at": "2026-10-10T15:57:46.880357Z"
       }
     },
     {
       "story_id": "story_eaa900c848aa",
-      "title": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
+      "title": "Rogue Anthropic AI 特工在未侦破的谋杀案中向警方提供虚假线索 / Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
       "url": "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo",
       "primary_url": "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo",
       "source": "HN Algolia · AI 24h",
@@ -1656,8 +1654,8 @@
       "sources": [
         {
           "id": "69f96c86c20f568a28720ccbecaffe88830b839e",
-          "title": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
-          "title_zh": null,
+          "title": "Rogue Anthropic AI 特工在未侦破的谋杀案中向警方提供虚假线索 / Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
+          "title_zh": "Rogue Anthropic AI 特工在未侦破的谋杀案中向警方提供虚假线索",
           "title_en": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
           "title_original": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
           "summary": null,
@@ -1670,8 +1668,8 @@
         },
         {
           "id": "9a98a5f684d58682322d6affa18960948cdd32f8",
-          "title": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
-          "title_zh": null,
+          "title": "Rogue Anthropic AI 特工在未侦破的谋杀案中向警方提供虚假线索 / Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
+          "title_zh": "Rogue Anthropic AI 特工在未侦破的谋杀案中向警方提供虚假线索",
           "title_en": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
           "title_original": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
           "summary": null,
@@ -1691,8 +1689,8 @@
       "items": [
         {
           "id": "69f96c86c20f568a28720ccbecaffe88830b839e",
-          "title": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
-          "title_zh": null,
+          "title": "Rogue Anthropic AI 特工在未侦破的谋杀案中向警方提供虚假线索 / Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
+          "title_zh": "Rogue Anthropic AI 特工在未侦破的谋杀案中向警方提供虚假线索",
           "title_en": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
           "title_original": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
           "summary": null,
@@ -1705,8 +1703,8 @@
         },
         {
           "id": "9a98a5f684d58682322d6affa18960948cdd32f8",
-          "title": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
-          "title_zh": null,
+          "title": "Rogue Anthropic AI 特工在未侦破的谋杀案中向警方提供虚假线索 / Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
+          "title_zh": "Rogue Anthropic AI 特工在未侦破的谋杀案中向警方提供虚假线索",
           "title_en": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
           "title_original": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
           "summary": null,
@@ -1720,15 +1718,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6003,
-      "importance": 0.6003,
-      "importance_score": 0.6003,
+      "score": 0.5944,
+      "importance": 0.5944,
+      "importance_score": 0.5944,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.576,
         "source_tier": 0.32,
         "ai_relevance": 0.8,
-        "recency": 0.9559,
+        "recency": 0.9231,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1740,8 +1738,8 @@
       "latest_at": "2026-10-10T10:23:44Z",
       "primary_item": {
         "id": "69f96c86c20f568a28720ccbecaffe88830b839e",
-        "title": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
-        "title_zh": null,
+        "title": "Rogue Anthropic AI 特工在未侦破的谋杀案中向警方提供虚假线索 / Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
+        "title_zh": "Rogue Anthropic AI 特工在未侦破的谋杀案中向警方提供虚假线索",
         "title_en": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
         "title_original": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
         "summary": null,
@@ -1754,139 +1752,109 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-10T13:40:18.386062Z"
+        "scored_at": "2026-10-10T15:57:46.880357Z"
       }
     },
     {
-      "story_id": "story_8befa4d30a56",
-      "title": "Anthropic的人工智能模型就费城一起未破的谋杀案提交了虚假线索 / Anthropic AI model submits false tip on unsolved Philly murder",
-      "url": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051",
-      "primary_url": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051",
+      "story_id": "story_5c7f68141a17",
+      "title": "我的个人人工智能代理在 Slack 公司上发布了我的银行详细信息 / My personal AI agent posted my bank details on company Slack",
+      "url": "https://www.businessinsider.com/personal-ai-agent-grok-bot-posted-bank-details-company-slack-2026-10",
+      "primary_url": "https://www.businessinsider.com/personal-ai-agent-grok-bot-posted-bank-details-company-slack-2026-10",
       "source": "Hacker News front page",
       "source_name": "Curated Media",
       "sources": [
         {
-          "id": "7e269ae698d02634250b2b70cdd3a13c9a55f52a",
-          "title": "Anthropic的人工智能模型就费城一起未破的谋杀案提交了虚假线索 / Anthropic AI model submits false tip on unsolved Philly murder",
-          "title_zh": "Anthropic的人工智能模型就费城一起未破的谋杀案提交了虚假线索",
-          "title_en": "Anthropic AI model submits false tip on unsolved Philly murder",
-          "title_original": "Anthropic AI model submits false tip on unsolved Philly murder",
+          "id": "b8f1c24be23d1cedc46d99dfce1bd273f6371ae5",
+          "title": "我的个人人工智能代理在 Slack 公司上发布了我的银行详细信息 / My personal AI agent posted my bank details on company Slack",
+          "title_zh": "我的个人人工智能代理在 Slack 公司上发布了我的银行详细信息",
+          "title_en": "My personal AI agent posted my bank details on company Slack",
+          "title_original": "My personal AI agent posted my bank details on company Slack",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051",
+          "url": "https://www.businessinsider.com/personal-ai-agent-grok-bot-posted-bank-details-company-slack-2026-10",
           "source": "Hacker News front page",
           "source_name": "Curated Media",
           "site_id": "curated_media",
-          "published_at": "2026-10-09T22:00:35Z"
+          "published_at": "2026-10-10T14:46:16Z"
         },
         {
-          "id": "174ce5dcfd7a2b84dd89901e6861dea0ad18646b",
-          "title": "Anthropic的人工智能模型就费城一起未破的谋杀案提交了虚假线索",
-          "title_zh": "Anthropic的人工智能模型就费城一起未破的谋杀案提交了虚假线索",
-          "title_en": null,
-          "title_original": "Anthropic的人工智能模型就费城一起未破的谋杀案提交了虚假线索",
+          "id": "579f5bd28600096b07b0534780bf6320e3e8309c",
+          "title": "我的个人人工智能代理在 Slack 公司上发布了我的银行详细信息 / My personal AI agent posted my bank details on company Slack",
+          "title_zh": "我的个人人工智能代理在 Slack 公司上发布了我的银行详细信息",
+          "title_en": "My personal AI agent posted my bank details on company Slack",
+          "title_original": "My personal AI agent posted my bank details on company Slack",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051",
-          "source": "www.nbcphiladelphia.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-10T04:21:11.278000Z"
-        },
-        {
-          "id": "5132ecf49d97cbf2f39169d2c15c1efcd06d20d2",
-          "title": "Anthropic的人工智能模型就费城一起未破的谋杀案提交了虚假线索 / Anthropic AI model submits false tip on unsolved Philly murder, police say",
-          "title_zh": "Anthropic的人工智能模型就费城一起未破的谋杀案提交了虚假线索",
-          "title_en": "Anthropic AI model submits false tip on unsolved Philly murder, police say",
-          "title_original": "Anthropic AI model submits false tip on unsolved Philly murder, police say",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-09T22:00:35Z"
+          "url": "https://news.ycombinator.com/item?id=50033517",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-10T14:46:16Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 2,
       "source_names": [
         "Hacker News front page",
-        "Hacker News · 24h最热",
-        "www.nbcphiladelphia.com"
+        "hackernews"
       ],
       "items": [
         {
-          "id": "7e269ae698d02634250b2b70cdd3a13c9a55f52a",
-          "title": "Anthropic的人工智能模型就费城一起未破的谋杀案提交了虚假线索 / Anthropic AI model submits false tip on unsolved Philly murder",
-          "title_zh": "Anthropic的人工智能模型就费城一起未破的谋杀案提交了虚假线索",
-          "title_en": "Anthropic AI model submits false tip on unsolved Philly murder",
-          "title_original": "Anthropic AI model submits false tip on unsolved Philly murder",
+          "id": "b8f1c24be23d1cedc46d99dfce1bd273f6371ae5",
+          "title": "我的个人人工智能代理在 Slack 公司上发布了我的银行详细信息 / My personal AI agent posted my bank details on company Slack",
+          "title_zh": "我的个人人工智能代理在 Slack 公司上发布了我的银行详细信息",
+          "title_en": "My personal AI agent posted my bank details on company Slack",
+          "title_original": "My personal AI agent posted my bank details on company Slack",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051",
+          "url": "https://www.businessinsider.com/personal-ai-agent-grok-bot-posted-bank-details-company-slack-2026-10",
           "source": "Hacker News front page",
           "source_name": "Curated Media",
           "site_id": "curated_media",
-          "published_at": "2026-10-09T22:00:35Z"
+          "published_at": "2026-10-10T14:46:16Z"
         },
         {
-          "id": "174ce5dcfd7a2b84dd89901e6861dea0ad18646b",
-          "title": "Anthropic的人工智能模型就费城一起未破的谋杀案提交了虚假线索",
-          "title_zh": "Anthropic的人工智能模型就费城一起未破的谋杀案提交了虚假线索",
-          "title_en": null,
-          "title_original": "Anthropic的人工智能模型就费城一起未破的谋杀案提交了虚假线索",
+          "id": "579f5bd28600096b07b0534780bf6320e3e8309c",
+          "title": "我的个人人工智能代理在 Slack 公司上发布了我的银行详细信息 / My personal AI agent posted my bank details on company Slack",
+          "title_zh": "我的个人人工智能代理在 Slack 公司上发布了我的银行详细信息",
+          "title_en": "My personal AI agent posted my bank details on company Slack",
+          "title_original": "My personal AI agent posted my bank details on company Slack",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051",
-          "source": "www.nbcphiladelphia.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-10T04:21:11.278000Z"
-        },
-        {
-          "id": "5132ecf49d97cbf2f39169d2c15c1efcd06d20d2",
-          "title": "Anthropic的人工智能模型就费城一起未破的谋杀案提交了虚假线索 / Anthropic AI model submits false tip on unsolved Philly murder, police say",
-          "title_zh": "Anthropic的人工智能模型就费城一起未破的谋杀案提交了虚假线索",
-          "title_en": "Anthropic AI model submits false tip on unsolved Philly murder, police say",
-          "title_original": "Anthropic AI model submits false tip on unsolved Philly murder, police say",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-09T22:00:35Z"
+          "url": "https://news.ycombinator.com/item?id=50033517",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-10T14:46:16Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.6584,
-      "importance": 0.6584,
-      "importance_score": 0.6584,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6541,
+      "importance": 0.6541,
+      "importance_score": 0.6541,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.5832,
+        "editorial": 0.5616,
         "source_tier": 0.58,
-        "ai_relevance": 0.81,
-        "recency": 0.7993,
-        "story_heat": 0.5
+        "ai_relevance": 0.78,
+        "recency": 0.9833,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "watch",
       "reasons": [
-        "multi_source",
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-10-09T22:00:35Z",
-      "latest_at": "2026-10-10T04:21:11.278000Z",
+      "earliest_at": "2026-10-10T14:46:16Z",
+      "latest_at": "2026-10-10T14:46:16Z",
       "primary_item": {
-        "id": "7e269ae698d02634250b2b70cdd3a13c9a55f52a",
-        "title": "Anthropic的人工智能模型就费城一起未破的谋杀案提交了虚假线索 / Anthropic AI model submits false tip on unsolved Philly murder",
-        "title_zh": "Anthropic的人工智能模型就费城一起未破的谋杀案提交了虚假线索",
-        "title_en": "Anthropic AI model submits false tip on unsolved Philly murder",
-        "title_original": "Anthropic AI model submits false tip on unsolved Philly murder",
+        "id": "b8f1c24be23d1cedc46d99dfce1bd273f6371ae5",
+        "title": "我的个人人工智能代理在 Slack 公司上发布了我的银行详细信息 / My personal AI agent posted my bank details on company Slack",
+        "title_zh": "我的个人人工智能代理在 Slack 公司上发布了我的银行详细信息",
+        "title_en": "My personal AI agent posted my bank details on company Slack",
+        "title_original": "My personal AI agent posted my bank details on company Slack",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051",
+        "url": "https://www.businessinsider.com/personal-ai-agent-grok-bot-posted-bank-details-company-slack-2026-10",
         "source": "Hacker News front page",
         "source_name": "Curated Media"
       },
@@ -1894,7 +1862,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-10T13:40:18.386062Z"
+        "scored_at": "2026-10-10T15:57:46.880357Z"
       }
     }
   ]
