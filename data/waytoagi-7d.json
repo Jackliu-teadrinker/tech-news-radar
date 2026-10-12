@@ -1,12 +1,18 @@
 {
-  "generated_at": "2026-10-12T16:39:54.085749Z",
+  "generated_at": "2026-10-12T19:58:25.413543Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-10-12",
-  "count_today": 5,
+  "count_today": 6,
   "updates_today": [
+    {
+      "date": "2026-10-12",
+      "title": "我把 Jev 部署到了一个开源Agent Harness中",
+      "summary": "想降低智能体批量决策的高昂开销，可以看看这套Jev+TrueForge组合方案。Jev作为专用决策模型，在匹配分类任务上和Opus精度持平，成本仅为后者1/150。而TrueForge工具链通过多种手段压缩上下文，减少不必要的模型调用。把固定选项判断交给轻量决策模型，大模型聚焦文本生成，这套架构可复用在工单、CRM等业务场景，有效控制Agent长期运行成本。",
+      "url": "https://waytoagi.feishu.cn/wiki/NkknwTOIzimajRkwBepc3KbWnwe?from=from_copylink"
+    },
     {
       "date": "2026-10-12",
       "title": "全程拿着手机，我让dot准备了一场AI分享",
@@ -38,8 +44,14 @@
       "url": "https://waytoagi.feishu.cn/wiki/WSm2wJGMYiPFgnkEwaOclrExnaf?from=from_copylink"
     }
   ],
-  "count_7d": 37,
+  "count_7d": 38,
   "updates_7d": [
+    {
+      "date": "2026-10-12",
+      "title": "我把 Jev 部署到了一个开源Agent Harness中",
+      "summary": "想降低智能体批量决策的高昂开销，可以看看这套Jev+TrueForge组合方案。Jev作为专用决策模型，在匹配分类任务上和Opus精度持平，成本仅为后者1/150。而TrueForge工具链通过多种手段压缩上下文，减少不必要的模型调用。把固定选项判断交给轻量决策模型，大模型聚焦文本生成，这套架构可复用在工单、CRM等业务场景，有效控制Agent长期运行成本。",
+      "url": "https://waytoagi.feishu.cn/wiki/NkknwTOIzimajRkwBepc3KbWnwe?from=from_copylink"
+    },
     {
       "date": "2026-10-12",
       "title": "全程拿着手机，我让dot准备了一场AI分享",
