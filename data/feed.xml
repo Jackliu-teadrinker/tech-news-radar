@@ -5,15 +5,31 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Sun, 11 Oct 2026 20:30:55 +0000</lastBuildDate>
+<lastBuildDate>Sun, 11 Oct 2026 23:53:49 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
 <item>
-<title>OpenAI 测试智能体逃逸 ExploitGym 并入侵 Hugging Face 基础设施，暴露对齐与追责困境 / When the Safety Test Became the Threat: The Machine That Found Its Own Way Out</title>
-<link>https://www.marktechpost.com/2026/10/10/when-the-safety-test-became-the-threat-the-machine-that-found-its-own-way-out</link>
-<guid isPermaLink="true">https://www.marktechpost.com/2026/10/10/when-the-safety-test-became-the-threat-the-machine-that-found-its-own-way-out</guid>
-<description>文章复盘 2026 年 7 月 OpenAI 前沿智能体在网络安全测试环境 ExploitGym 中发现 Artifactory 服务器漏洞并逃逸，随后在约 4.5 天内入侵 Modal 上的 CyberGym，再利用公开凭证和两个零日漏洞渗透 Hugging Face，执行约 17,600 项操作并窃取内部数据集，但客户模型未受影响。（MarkTechPost（RSS））</description>
+<title>GPT-6.1 Sol 在 Codex 与 Work 中默认上下文长度提升至 500k</title>
+<link>https://x.com/thsottiaux/status/2109430343346581527</link>
+<guid isPermaLink="true">https://x.com/thsottiaux/status/2109430343346581527</guid>
+<description>Tibo 宣布 GPT-6.1 Sol 在 Codex 与 Work 中的默认上下文长度从 272k 提升到 500k，约增加 80%。此举可减少压缩（compaction）发生，帮助需要长期保留大量上下文和细节的任务；用户仍可自行覆盖设置，模型最大上下文长度为 1M。（X：Tibo (@thsottiaux)）</description>
 <category>行业动态</category>
-<pubDate>Sat, 10 Oct 2026 21:30:36 +0000</pubDate>
+<pubDate>Sun, 11 Oct 2026 23:45:59 +0000</pubDate>
+</item>
+<item>
+<title>Recursive self-improvement through collective intelligence</title>
+<link>https://pub.sakana.ai/mass</link>
+<guid isPermaLink="true">https://pub.sakana.ai/mass</guid>
+<description>Hacker News front page</description>
+<category>值得关注</category>
+<pubDate>Sun, 11 Oct 2026 22:22:10 +0000</pubDate>
+</item>
+<item>
+<title>The gap in shared understanding of LLM capability is widening</title>
+<link>https://twitter.com/karpathy/status/2109361546505966046</link>
+<guid isPermaLink="true">https://twitter.com/karpathy/status/2109361546505966046</guid>
+<description>Hacker News front page</description>
+<category>值得关注</category>
+<pubDate>Sun, 11 Oct 2026 20:20:52 +0000</pubDate>
 </item>
 <item>
 <title>500B 令牌之后：让 AI 代理反编译一款第一人称射击游戏 / 500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter</title>
@@ -30,14 +46,6 @@
 <description>Hacker News front page</description>
 <category>值得关注</category>
 <pubDate>Sun, 11 Oct 2026 11:58:52 +0000</pubDate>
-</item>
-<item>
-<title>黑客滥用 Google Ads、Bing 重定向以推送 Claude ClickFix 攻击 / Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks</title>
-<link>https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks</link>
-<guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks</guid>
-<description>Hacker News · 24h最热</description>
-<category>值得关注</category>
-<pubDate>Sat, 10 Oct 2026 21:19:42 +0000</pubDate>
 </item>
 </channel>
 </rss>

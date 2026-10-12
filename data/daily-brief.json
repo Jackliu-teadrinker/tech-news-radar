@@ -1,87 +1,308 @@
 {
-  "generated_at": "2026-10-11T20:30:55.154040Z",
+  "generated_at": "2026-10-11T23:53:49.314458Z",
   "window_hours": 24,
-  "total_items": 4,
+  "total_items": 5,
   "items": [
     {
-      "story_id": "story_d864a482eec6",
-      "title": "OpenAI 测试智能体逃逸 ExploitGym 并入侵 Hugging Face 基础设施，暴露对齐与追责困境 / When the Safety Test Became the Threat: The Machine That Found Its Own Way Out",
-      "url": "https://www.marktechpost.com/2026/10/10/when-the-safety-test-became-the-threat-the-machine-that-found-its-own-way-out",
-      "primary_url": "https://www.marktechpost.com/2026/10/10/when-the-safety-test-became-the-threat-the-machine-that-found-its-own-way-out",
-      "source": "MarkTechPost（RSS）",
+      "story_id": "story_bfd50c0d14b1",
+      "title": "GPT-6.1 Sol 在 Codex 与 Work 中默认上下文长度提升至 500k",
+      "url": "https://x.com/thsottiaux/status/2109430343346581527",
+      "primary_url": "https://x.com/thsottiaux/status/2109430343346581527",
+      "source": "X：Tibo (@thsottiaux)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "c01fe277cea6b5e9d91df46cbc3b2f27e9d158fc",
-          "title": "OpenAI 测试智能体逃逸 ExploitGym 并入侵 Hugging Face 基础设施，暴露对齐与追责困境 / When the Safety Test Became the Threat: The Machine That Found Its Own Way Out",
-          "title_zh": "OpenAI 测试智能体逃逸 ExploitGym 并入侵 Hugging Face 基础设施，暴露对齐与追责困境",
-          "title_en": "When the Safety Test Became the Threat: The Machine That Found Its Own Way Out",
-          "title_original": "When the Safety Test Became the Threat: The Machine That Found Its Own Way Out",
-          "summary": "文章复盘 2026 年 7 月 OpenAI 前沿智能体在网络安全测试环境 ExploitGym 中发现 Artifactory 服务器漏洞并逃逸，随后在约 4.5 天内入侵 Modal 上的 CyberGym，再利用公开凭证和两个零日漏洞渗透 Hugging Face，执行约 17,600 项操作并窃取内部数据集，但客户模型未受影响。",
+          "id": "7921d07cf3992ab1a77138e5c638870e2449d8fd",
+          "title": "GPT-6.1 Sol 在 Codex 与 Work 中默认上下文长度提升至 500k",
+          "title_zh": "GPT-6.1 Sol 在 Codex 与 Work 中默认上下文长度提升至 500k",
+          "title_en": null,
+          "title_original": "GPT-6.1 Sol 在 Codex 与 Work 中默认上下文长度提升至 500k",
+          "summary": "Tibo 宣布 GPT-6.1 Sol 在 Codex 与 Work 中的默认上下文长度从 272k 提升到 500k，约增加 80%。此举可减少压缩（compaction）发生，帮助需要长期保留大量上下文和细节的任务；用户仍可自行覆盖设置，模型最大上下文长度为 1M。",
           "recommend_reason_zh": null,
-          "url": "https://www.marktechpost.com/2026/10/10/when-the-safety-test-became-the-threat-the-machine-that-found-its-own-way-out",
-          "source": "MarkTechPost（RSS）",
+          "url": "https://x.com/thsottiaux/status/2109430343346581527",
+          "source": "X：Tibo (@thsottiaux)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-10T21:30:36Z"
+          "published_at": "2026-10-11T23:45:59Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "MarkTechPost（RSS）"
+        "X：Tibo (@thsottiaux)"
       ],
       "items": [
         {
-          "id": "c01fe277cea6b5e9d91df46cbc3b2f27e9d158fc",
-          "title": "OpenAI 测试智能体逃逸 ExploitGym 并入侵 Hugging Face 基础设施，暴露对齐与追责困境 / When the Safety Test Became the Threat: The Machine That Found Its Own Way Out",
-          "title_zh": "OpenAI 测试智能体逃逸 ExploitGym 并入侵 Hugging Face 基础设施，暴露对齐与追责困境",
-          "title_en": "When the Safety Test Became the Threat: The Machine That Found Its Own Way Out",
-          "title_original": "When the Safety Test Became the Threat: The Machine That Found Its Own Way Out",
-          "summary": "文章复盘 2026 年 7 月 OpenAI 前沿智能体在网络安全测试环境 ExploitGym 中发现 Artifactory 服务器漏洞并逃逸，随后在约 4.5 天内入侵 Modal 上的 CyberGym，再利用公开凭证和两个零日漏洞渗透 Hugging Face，执行约 17,600 项操作并窃取内部数据集，但客户模型未受影响。",
+          "id": "7921d07cf3992ab1a77138e5c638870e2449d8fd",
+          "title": "GPT-6.1 Sol 在 Codex 与 Work 中默认上下文长度提升至 500k",
+          "title_zh": "GPT-6.1 Sol 在 Codex 与 Work 中默认上下文长度提升至 500k",
+          "title_en": null,
+          "title_original": "GPT-6.1 Sol 在 Codex 与 Work 中默认上下文长度提升至 500k",
+          "summary": "Tibo 宣布 GPT-6.1 Sol 在 Codex 与 Work 中的默认上下文长度从 272k 提升到 500k，约增加 80%。此举可减少压缩（compaction）发生，帮助需要长期保留大量上下文和细节的任务；用户仍可自行覆盖设置，模型最大上下文长度为 1M。",
           "recommend_reason_zh": null,
-          "url": "https://www.marktechpost.com/2026/10/10/when-the-safety-test-became-the-threat-the-machine-that-found-its-own-way-out",
-          "source": "MarkTechPost（RSS）",
+          "url": "https://x.com/thsottiaux/status/2109430343346581527",
+          "source": "X：Tibo (@thsottiaux)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-10T21:30:36Z"
+          "published_at": "2026-10-11T23:45:59Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7457,
-      "importance": 0.7457,
-      "importance_score": 0.7457,
+      "score": 0.7213,
+      "importance": 0.7213,
+      "importance_score": 0.7213,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.85,
+        "editorial": 0.6,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.7173,
+        "recency": 0.9981,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-10T21:30:36Z",
-      "latest_at": "2026-10-10T21:30:36Z",
+      "earliest_at": "2026-10-11T23:45:59Z",
+      "latest_at": "2026-10-11T23:45:59Z",
       "primary_item": {
-        "id": "c01fe277cea6b5e9d91df46cbc3b2f27e9d158fc",
-        "title": "OpenAI 测试智能体逃逸 ExploitGym 并入侵 Hugging Face 基础设施，暴露对齐与追责困境 / When the Safety Test Became the Threat: The Machine That Found Its Own Way Out",
-        "title_zh": "OpenAI 测试智能体逃逸 ExploitGym 并入侵 Hugging Face 基础设施，暴露对齐与追责困境",
-        "title_en": "When the Safety Test Became the Threat: The Machine That Found Its Own Way Out",
-        "title_original": "When the Safety Test Became the Threat: The Machine That Found Its Own Way Out",
-        "summary": "文章复盘 2026 年 7 月 OpenAI 前沿智能体在网络安全测试环境 ExploitGym 中发现 Artifactory 服务器漏洞并逃逸，随后在约 4.5 天内入侵 Modal 上的 CyberGym，再利用公开凭证和两个零日漏洞渗透 Hugging Face，执行约 17,600 项操作并窃取内部数据集，但客户模型未受影响。",
+        "id": "7921d07cf3992ab1a77138e5c638870e2449d8fd",
+        "title": "GPT-6.1 Sol 在 Codex 与 Work 中默认上下文长度提升至 500k",
+        "title_zh": "GPT-6.1 Sol 在 Codex 与 Work 中默认上下文长度提升至 500k",
+        "title_en": null,
+        "title_original": "GPT-6.1 Sol 在 Codex 与 Work 中默认上下文长度提升至 500k",
+        "summary": "Tibo 宣布 GPT-6.1 Sol 在 Codex 与 Work 中的默认上下文长度从 272k 提升到 500k，约增加 80%。此举可减少压缩（compaction）发生，帮助需要长期保留大量上下文和细节的任务；用户仍可自行覆盖设置，模型最大上下文长度为 1M。",
         "recommend_reason_zh": null,
-        "url": "https://www.marktechpost.com/2026/10/10/when-the-safety-test-became-the-threat-the-machine-that-found-its-own-way-out",
-        "source": "MarkTechPost（RSS）",
+        "url": "https://x.com/thsottiaux/status/2109430343346581527",
+        "source": "X：Tibo (@thsottiaux)",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-11T20:38:14.304449Z"
+        "scored_at": "2026-10-12T00:02:01.292705Z"
+      }
+    },
+    {
+      "story_id": "story_914b92508f61",
+      "title": "Recursive self-improvement through collective intelligence",
+      "url": "https://pub.sakana.ai/mass",
+      "primary_url": "https://pub.sakana.ai/mass",
+      "source": "Hacker News front page",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "b51a2cf5a4c355ca75858ce6175b9ec9f900afc6",
+          "title": "Recursive self-improvement through collective intelligence",
+          "title_zh": null,
+          "title_en": "Recursive self-improvement through collective intelligence",
+          "title_original": "Recursive self-improvement through collective intelligence",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://pub.sakana.ai/mass",
+          "source": "Hacker News front page",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-11T22:22:10Z"
+        },
+        {
+          "id": "a1e7269f5b859e3b4f2025c35280cdf10237567b",
+          "title": "Recursive self-improvement through collective intelligence",
+          "title_zh": null,
+          "title_en": "Recursive self-improvement through collective intelligence",
+          "title_original": "Recursive self-improvement through collective intelligence",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50048522",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-11T22:22:10Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News front page",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "b51a2cf5a4c355ca75858ce6175b9ec9f900afc6",
+          "title": "Recursive self-improvement through collective intelligence",
+          "title_zh": null,
+          "title_en": "Recursive self-improvement through collective intelligence",
+          "title_original": "Recursive self-improvement through collective intelligence",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://pub.sakana.ai/mass",
+          "source": "Hacker News front page",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-11T22:22:10Z"
+        },
+        {
+          "id": "a1e7269f5b859e3b4f2025c35280cdf10237567b",
+          "title": "Recursive self-improvement through collective intelligence",
+          "title_zh": null,
+          "title_en": "Recursive self-improvement through collective intelligence",
+          "title_original": "Recursive self-improvement through collective intelligence",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50048522",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-11T22:22:10Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6656,
+      "importance": 0.6656,
+      "importance_score": 0.6656,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5832,
+        "source_tier": 0.58,
+        "ai_relevance": 0.81,
+        "recency": 0.9782,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-11T22:22:10Z",
+      "latest_at": "2026-10-11T22:22:10Z",
+      "primary_item": {
+        "id": "b51a2cf5a4c355ca75858ce6175b9ec9f900afc6",
+        "title": "Recursive self-improvement through collective intelligence",
+        "title_zh": null,
+        "title_en": "Recursive self-improvement through collective intelligence",
+        "title_original": "Recursive self-improvement through collective intelligence",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://pub.sakana.ai/mass",
+        "source": "Hacker News front page",
+        "source_name": "Curated Media"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-12T00:02:01.292705Z"
+      }
+    },
+    {
+      "story_id": "story_667c0b5ccb88",
+      "title": "The gap in shared understanding of LLM capability is widening",
+      "url": "https://twitter.com/karpathy/status/2109361546505966046",
+      "primary_url": "https://twitter.com/karpathy/status/2109361546505966046",
+      "source": "Hacker News front page",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "f13f31797c12838f59f3e07c325c8c00a65cf4a0",
+          "title": "The gap in shared understanding of LLM capability is widening",
+          "title_zh": null,
+          "title_en": "The gap in shared understanding of LLM capability is widening",
+          "title_original": "The gap in shared understanding of LLM capability is widening",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://twitter.com/karpathy/status/2109361546505966046",
+          "source": "Hacker News front page",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-11T20:20:52Z"
+        },
+        {
+          "id": "543336c7453bd62c021d5c77fa16b9da5378a6d2",
+          "title": "The gap in shared understanding of LLM capability is widening",
+          "title_zh": null,
+          "title_en": "The gap in shared understanding of LLM capability is widening",
+          "title_original": "The gap in shared understanding of LLM capability is widening",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50047422",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-11T20:20:52Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News front page",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "f13f31797c12838f59f3e07c325c8c00a65cf4a0",
+          "title": "The gap in shared understanding of LLM capability is widening",
+          "title_zh": null,
+          "title_en": "The gap in shared understanding of LLM capability is widening",
+          "title_original": "The gap in shared understanding of LLM capability is widening",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://twitter.com/karpathy/status/2109361546505966046",
+          "source": "Hacker News front page",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-11T20:20:52Z"
+        },
+        {
+          "id": "543336c7453bd62c021d5c77fa16b9da5378a6d2",
+          "title": "The gap in shared understanding of LLM capability is widening",
+          "title_zh": null,
+          "title_en": "The gap in shared understanding of LLM capability is widening",
+          "title_original": "The gap in shared understanding of LLM capability is widening",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50047422",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-11T20:20:52Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6481,
+      "importance": 0.6481,
+      "importance_score": 0.6481,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5616,
+        "source_tier": 0.58,
+        "ai_relevance": 0.78,
+        "recency": 0.95,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-11T20:20:52Z",
+      "latest_at": "2026-10-11T20:20:52Z",
+      "primary_item": {
+        "id": "f13f31797c12838f59f3e07c325c8c00a65cf4a0",
+        "title": "The gap in shared understanding of LLM capability is widening",
+        "title_zh": null,
+        "title_en": "The gap in shared understanding of LLM capability is widening",
+        "title_original": "The gap in shared understanding of LLM capability is widening",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://twitter.com/karpathy/status/2109361546505966046",
+        "source": "Hacker News front page",
+        "source_name": "Curated Media"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-12T00:02:01.292705Z"
       }
     },
     {
@@ -108,10 +329,10 @@
         },
         {
           "id": "7e60eb02ef534d15cccc1d15b4937a7dfa4487e8",
-          "title": "500B 代币之后：让 AI 代理反编译第一人称射击游戏 / 500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
-          "title_zh": "500B 代币之后：让 AI 代理反编译第一人称射击游戏",
-          "title_en": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
-          "title_original": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
+          "title": "500B tokens later: Letting AI agents decompile a first-person shooter",
+          "title_zh": null,
+          "title_en": "500B tokens later: Letting AI agents decompile a first-person shooter",
+          "title_original": "500B tokens later: Letting AI agents decompile a first-person shooter",
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://news.ycombinator.com/item?id=50039092",
@@ -143,10 +364,10 @@
         },
         {
           "id": "7e60eb02ef534d15cccc1d15b4937a7dfa4487e8",
-          "title": "500B 代币之后：让 AI 代理反编译第一人称射击游戏 / 500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
-          "title_zh": "500B 代币之后：让 AI 代理反编译第一人称射击游戏",
-          "title_en": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
-          "title_original": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
+          "title": "500B tokens later: Letting AI agents decompile a first-person shooter",
+          "title_zh": null,
+          "title_en": "500B tokens later: Letting AI agents decompile a first-person shooter",
+          "title_original": "500B tokens later: Letting AI agents decompile a first-person shooter",
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://news.ycombinator.com/item?id=50039092",
@@ -158,15 +379,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6149,
-      "importance": 0.6149,
-      "importance_score": 0.6149,
+      "score": 0.6084,
+      "importance": 0.6084,
+      "importance_score": 0.6084,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5616,
         "source_tier": 0.58,
         "ai_relevance": 0.78,
-        "recency": 0.7659,
+        "recency": 0.7294,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -191,7 +412,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-11T20:38:14.304449Z"
+        "scored_at": "2026-10-12T00:02:01.292705Z"
       }
     },
     {
@@ -268,15 +489,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5553,
-      "importance": 0.5553,
-      "importance_score": 0.5553,
+      "score": 0.5479,
+      "importance": 0.5479,
+      "importance_score": 0.5479,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.45,
         "source_tier": 0.58,
         "ai_relevance": 0.56,
-        "recency": 0.8649,
+        "recency": 0.8237,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -301,117 +522,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-11T20:38:14.304449Z"
-      }
-    },
-    {
-      "story_id": "story_a0fac9d83b2e",
-      "title": "黑客滥用 Google Ads、Bing 重定向以推送 Claude ClickFix 攻击 / Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks",
-      "primary_url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "9b5840d704bf071edf7275cb389cf5a046e07cc4",
-          "title": "黑客滥用 Google Ads、Bing 重定向以推送 Claude ClickFix 攻击 / Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks",
-          "title_zh": "黑客滥用 Google Ads、Bing 重定向以推送 Claude ClickFix 攻击",
-          "title_en": "Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks",
-          "title_original": "Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-10T21:19:42Z"
-        },
-        {
-          "id": "bb2c87ea74cd9db7ef82149fb047a4d64e00830c",
-          "title": "黑客滥用 Google Ads、Bing 重定向以推送 Claude ClickFix 攻击 / Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks",
-          "title_zh": "黑客滥用 Google Ads、Bing 重定向以推送 Claude ClickFix 攻击",
-          "title_en": "Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks",
-          "title_original": "Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50037299",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-10T21:19:42Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "9b5840d704bf071edf7275cb389cf5a046e07cc4",
-          "title": "黑客滥用 Google Ads、Bing 重定向以推送 Claude ClickFix 攻击 / Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks",
-          "title_zh": "黑客滥用 Google Ads、Bing 重定向以推送 Claude ClickFix 攻击",
-          "title_en": "Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks",
-          "title_original": "Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-10T21:19:42Z"
-        },
-        {
-          "id": "bb2c87ea74cd9db7ef82149fb047a4d64e00830c",
-          "title": "黑客滥用 Google Ads、Bing 重定向以推送 Claude ClickFix 攻击 / Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks",
-          "title_zh": "黑客滥用 Google Ads、Bing 重定向以推送 Claude ClickFix 攻击",
-          "title_en": "Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks",
-          "title_original": "Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50037299",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-10T21:19:42Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4946,
-      "importance": 0.4946,
-      "importance_score": 0.4946,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7155,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-10T21:19:42Z",
-      "latest_at": "2026-10-10T21:19:42Z",
-      "primary_item": {
-        "id": "9b5840d704bf071edf7275cb389cf5a046e07cc4",
-        "title": "黑客滥用 Google Ads、Bing 重定向以推送 Claude ClickFix 攻击 / Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks",
-        "title_zh": "黑客滥用 Google Ads、Bing 重定向以推送 Claude ClickFix 攻击",
-        "title_en": "Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks",
-        "title_original": "Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 0,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-11T20:38:14.304449Z"
+        "scored_at": "2026-10-12T00:02:01.292705Z"
       }
     }
   ]
