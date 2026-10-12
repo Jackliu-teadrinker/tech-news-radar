@@ -1,8 +1,825 @@
 {
-  "generated_at": "2026-10-12T00:25:18.769282Z",
+  "generated_at": "2026-10-12T09:40:36.455093Z",
   "window_hours": 24,
-  "total_items": 4,
+  "total_items": 15,
   "items": [
+    {
+      "story_id": "story_57cb2220043e",
+      "title": "OpenAI 给 GPT-6.1 Sol 扩容：默认上下文 272k 飙到 500k，长文本还免费",
+      "url": "https://www.aibase.com/news/31560",
+      "primary_url": "https://www.aibase.com/news/31560",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "34352ae1ec29a4f379c5d7bd45c4375d3f608950",
+          "title": "OpenAI 给 GPT-6.1 Sol 扩容：默认上下文 272k 飙到 500k，长文本还免费",
+          "title_zh": "OpenAI 给 GPT-6.1 Sol 扩容：默认上下文 272k 飙到 500k，长文本还免费",
+          "title_en": null,
+          "title_original": "OpenAI 给 GPT-6.1 Sol 扩容：默认上下文 272k 飙到 500k，长文本还免费",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31560",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-12T09:40:36.455093Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "34352ae1ec29a4f379c5d7bd45c4375d3f608950",
+          "title": "OpenAI 给 GPT-6.1 Sol 扩容：默认上下文 272k 飙到 500k，长文本还免费",
+          "title_zh": "OpenAI 给 GPT-6.1 Sol 扩容：默认上下文 272k 飙到 500k，长文本还免费",
+          "title_en": null,
+          "title_original": "OpenAI 给 GPT-6.1 Sol 扩容：默认上下文 272k 飙到 500k，长文本还免费",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31560",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-12T09:40:36.455093Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7468,
+      "importance": 0.7468,
+      "importance_score": 0.7468,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.684,
+        "source_tier": 0.78,
+        "ai_relevance": 0.95,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-12T09:40:36.455093Z",
+      "latest_at": "2026-10-12T09:40:36.455093Z",
+      "primary_item": {
+        "id": "34352ae1ec29a4f379c5d7bd45c4375d3f608950",
+        "title": "OpenAI 给 GPT-6.1 Sol 扩容：默认上下文 272k 飙到 500k，长文本还免费",
+        "title_zh": "OpenAI 给 GPT-6.1 Sol 扩容：默认上下文 272k 飙到 500k，长文本还免费",
+        "title_en": null,
+        "title_original": "OpenAI 给 GPT-6.1 Sol 扩容：默认上下文 272k 飙到 500k，长文本还免费",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31560",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-12T09:52:34.807993Z"
+      }
+    },
+    {
+      "story_id": "story_75aedb54f50c",
+      "title": "用 Claude Opus 5.5、Blender、Unreal Engine 和 Meshy 构建游戏的七步教程 / How to build a game with Claude Opus 5.5 + Blender + Unreal Engine + Meshy 🎮",
+      "url": "https://x.com/MeshyAI/status/2109550836934471864",
+      "primary_url": "https://x.com/MeshyAI/status/2109550836934471864",
+      "source": "X：Meshy (@MeshyAI)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "91f6030ffc8e5c0d29755a33d9fe85e93f9085d5",
+          "title": "用 Claude Opus 5.5、Blender、Unreal Engine 和 Meshy 构建游戏的七步教程 / How to build a game with Claude Opus 5.5 + Blender + Unreal Engine + Meshy 🎮",
+          "title_zh": "用 Claude Opus 5.5、Blender、Unreal Engine 和 Meshy 构建游戏的七步教程",
+          "title_en": "How to build a game with Claude Opus 5.5 + Blender + Unreal Engine + Meshy 🎮",
+          "title_original": "How to build a game with Claude Opus 5.5 + Blender + Unreal Engine + Meshy 🎮",
+          "summary": "一篇教程介绍用 Claude Opus 5.5 配合 Claude Code、Blender、Unreal Engine 5 和 Meshy 构建游戏的方法。核心思路是给每个工具分配单一职责：通过 MCP 连接 Blender 和 Meshy，由 Meshy 生成道具和角色、Blender 清理和放置、Unreal 负责光照物理和游戏本身、Opus 在一个对话里调度三者。流程为先让 Opus 头脑风暴 5 个游戏点子再展开，告知 GPU 以便压满画面性能，首个完整构建约花 4 小时和约 19% 的每周 Max plan 用量，之后因素材复用会快很多。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/MeshyAI/status/2109550836934471864",
+          "source": "X：Meshy (@MeshyAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-12T07:44:47Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Meshy (@MeshyAI)"
+      ],
+      "items": [
+        {
+          "id": "91f6030ffc8e5c0d29755a33d9fe85e93f9085d5",
+          "title": "用 Claude Opus 5.5、Blender、Unreal Engine 和 Meshy 构建游戏的七步教程 / How to build a game with Claude Opus 5.5 + Blender + Unreal Engine + Meshy 🎮",
+          "title_zh": "用 Claude Opus 5.5、Blender、Unreal Engine 和 Meshy 构建游戏的七步教程",
+          "title_en": "How to build a game with Claude Opus 5.5 + Blender + Unreal Engine + Meshy 🎮",
+          "title_original": "How to build a game with Claude Opus 5.5 + Blender + Unreal Engine + Meshy 🎮",
+          "summary": "一篇教程介绍用 Claude Opus 5.5 配合 Claude Code、Blender、Unreal Engine 5 和 Meshy 构建游戏的方法。核心思路是给每个工具分配单一职责：通过 MCP 连接 Blender 和 Meshy，由 Meshy 生成道具和角色、Blender 清理和放置、Unreal 负责光照物理和游戏本身、Opus 在一个对话里调度三者。流程为先让 Opus 头脑风暴 5 个游戏点子再展开，告知 GPU 以便压满画面性能，首个完整构建约花 4 小时和约 19% 的每周 Max plan 用量，之后因素材复用会快很多。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/MeshyAI/status/2109550836934471864",
+          "source": "X：Meshy (@MeshyAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-12T07:44:47Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7467,
+      "importance": 0.7467,
+      "importance_score": 0.7467,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 0.95,
+        "recency": 0.9725,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-12T07:44:47Z",
+      "latest_at": "2026-10-12T07:44:47Z",
+      "primary_item": {
+        "id": "91f6030ffc8e5c0d29755a33d9fe85e93f9085d5",
+        "title": "用 Claude Opus 5.5、Blender、Unreal Engine 和 Meshy 构建游戏的七步教程 / How to build a game with Claude Opus 5.5 + Blender + Unreal Engine + Meshy 🎮",
+        "title_zh": "用 Claude Opus 5.5、Blender、Unreal Engine 和 Meshy 构建游戏的七步教程",
+        "title_en": "How to build a game with Claude Opus 5.5 + Blender + Unreal Engine + Meshy 🎮",
+        "title_original": "How to build a game with Claude Opus 5.5 + Blender + Unreal Engine + Meshy 🎮",
+        "summary": "一篇教程介绍用 Claude Opus 5.5 配合 Claude Code、Blender、Unreal Engine 5 和 Meshy 构建游戏的方法。核心思路是给每个工具分配单一职责：通过 MCP 连接 Blender 和 Meshy，由 Meshy 生成道具和角色、Blender 清理和放置、Unreal 负责光照物理和游戏本身、Opus 在一个对话里调度三者。流程为先让 Opus 头脑风暴 5 个游戏点子再展开，告知 GPU 以便压满画面性能，首个完整构建约花 4 小时和约 19% 的每周 Max plan 用量，之后因素材复用会快很多。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/MeshyAI/status/2109550836934471864",
+        "source": "X：Meshy (@MeshyAI)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-12T09:52:34.807993Z"
+      }
+    },
+    {
+      "story_id": "story_6df55b1a5a3a",
+      "title": "从Brandon Thomas用Claude Opus 5.5开源重写Adobe全家桶看AI逆向一切趋势",
+      "url": "https://x.com/Khazix0918/status/2109501787736813663",
+      "primary_url": "https://x.com/Khazix0918/status/2109501787736813663",
+      "source": "X：卡兹克 (@Khazix0918)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "4d75d0fa41cd12eb95b90c1a1cbfd837476bafa8",
+          "title": "从Brandon Thomas用Claude Opus 5.5开源重写Adobe全家桶看AI逆向一切趋势",
+          "title_zh": "从Brandon Thomas用Claude Opus 5.5开源重写Adobe全家桶看AI逆向一切趋势",
+          "title_en": null,
+          "title_original": "从Brandon Thomas用Claude Opus 5.5开源重写Adobe全家桶看AI逆向一切趋势",
+          "summary": "数字生命卡兹克撰文分析AI驱动逆向工程热潮：开发者Brandon Thomas因不满Adobe订阅规则，用Claude Opus 5.5以Rust逆向重写了Photoshop、Illustrator等7款软件的开源替代品PhotoCraft、VectorCraft等，不到10天单PS项目获4.6万Star。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/Khazix0918/status/2109501787736813663",
+          "source": "X：卡兹克 (@Khazix0918)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-12T04:29:53Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：卡兹克 (@Khazix0918)"
+      ],
+      "items": [
+        {
+          "id": "4d75d0fa41cd12eb95b90c1a1cbfd837476bafa8",
+          "title": "从Brandon Thomas用Claude Opus 5.5开源重写Adobe全家桶看AI逆向一切趋势",
+          "title_zh": "从Brandon Thomas用Claude Opus 5.5开源重写Adobe全家桶看AI逆向一切趋势",
+          "title_en": null,
+          "title_original": "从Brandon Thomas用Claude Opus 5.5开源重写Adobe全家桶看AI逆向一切趋势",
+          "summary": "数字生命卡兹克撰文分析AI驱动逆向工程热潮：开发者Brandon Thomas因不满Adobe订阅规则，用Claude Opus 5.5以Rust逆向重写了Photoshop、Illustrator等7款软件的开源替代品PhotoCraft、VectorCraft等，不到10天单PS项目获4.6万Star。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/Khazix0918/status/2109501787736813663",
+          "source": "X：卡兹克 (@Khazix0918)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-12T04:29:53Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7296,
+      "importance": 0.7296,
+      "importance_score": 0.7296,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.67,
+        "source_tier": 0.78,
+        "ai_relevance": 0.95,
+        "recency": 0.9279,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-12T04:29:53Z",
+      "latest_at": "2026-10-12T04:29:53Z",
+      "primary_item": {
+        "id": "4d75d0fa41cd12eb95b90c1a1cbfd837476bafa8",
+        "title": "从Brandon Thomas用Claude Opus 5.5开源重写Adobe全家桶看AI逆向一切趋势",
+        "title_zh": "从Brandon Thomas用Claude Opus 5.5开源重写Adobe全家桶看AI逆向一切趋势",
+        "title_en": null,
+        "title_original": "从Brandon Thomas用Claude Opus 5.5开源重写Adobe全家桶看AI逆向一切趋势",
+        "summary": "数字生命卡兹克撰文分析AI驱动逆向工程热潮：开发者Brandon Thomas因不满Adobe订阅规则，用Claude Opus 5.5以Rust逆向重写了Photoshop、Illustrator等7款软件的开源替代品PhotoCraft、VectorCraft等，不到10天单PS项目获4.6万Star。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/Khazix0918/status/2109501787736813663",
+        "source": "X：卡兹克 (@Khazix0918)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-12T09:52:34.807993Z"
+      }
+    },
+    {
+      "story_id": "story_bfd50c0d14b1",
+      "title": "GPT-6.1 Sol 在 Codex 与 Work 中默认上下文长度提升至 500k",
+      "url": "https://x.com/thsottiaux/status/2109430343346581527",
+      "primary_url": "https://x.com/thsottiaux/status/2109430343346581527",
+      "source": "X：Tibo (@thsottiaux)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "7921d07cf3992ab1a77138e5c638870e2449d8fd",
+          "title": "GPT-6.1 Sol 在 Codex 与 Work 中默认上下文长度提升至 500k",
+          "title_zh": "GPT-6.1 Sol 在 Codex 与 Work 中默认上下文长度提升至 500k",
+          "title_en": null,
+          "title_original": "GPT-6.1 Sol 在 Codex 与 Work 中默认上下文长度提升至 500k",
+          "summary": "Tibo 宣布 GPT-6.1 Sol 在 Codex 与 Work 中的默认上下文长度从 272k 提升到 500k，约增加 80%。此举可减少压缩（compaction）发生，帮助需要长期保留大量上下文和细节的任务；用户仍可自行覆盖设置，模型最大上下文长度为 1M。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/thsottiaux/status/2109430343346581527",
+          "source": "X：Tibo (@thsottiaux)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-11T23:45:59Z"
+        },
+        {
+          "id": "5e00d77cbcb5a808b5af90105220dee3ba7bc6c1",
+          "title": "GPT-6.1 Sol 在 Codex 与 Work 中默认上下文长度提升至 500k / Day 7/ We have increased default context length for GPT-6.1 Sol to 500k when used through Codex & Work, up from 272k or an ~ 80% increase. We will go higher in the future, but it helps reduce occurrence of compactions...",
+          "title_zh": "GPT-6.1 Sol 在 Codex 与 Work 中默认上下文长度提升至 500k",
+          "title_en": "Day 7/ We have increased default context length for GPT-6.1 Sol to 500k when used through Codex & Work, up from 272k or an ~ 80% increase. We will go higher in the future, but it helps reduce occurrence of compactions...",
+          "title_original": "Day 7/ We have increased default context length for GPT-6.1 Sol to 500k when used through Codex & Work, up from 272k or an ~ 80% increase. We will go higher in the future, but it helps reduce occurrence of compactions...",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://x.com/thsottiaux/status/2109430343346581527",
+          "source": "Follow Builders · X · Thibault Sottiaux",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-10-11T23:45:59Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Follow Builders · X · Thibault Sottiaux",
+        "X：Tibo (@thsottiaux)"
+      ],
+      "items": [
+        {
+          "id": "7921d07cf3992ab1a77138e5c638870e2449d8fd",
+          "title": "GPT-6.1 Sol 在 Codex 与 Work 中默认上下文长度提升至 500k",
+          "title_zh": "GPT-6.1 Sol 在 Codex 与 Work 中默认上下文长度提升至 500k",
+          "title_en": null,
+          "title_original": "GPT-6.1 Sol 在 Codex 与 Work 中默认上下文长度提升至 500k",
+          "summary": "Tibo 宣布 GPT-6.1 Sol 在 Codex 与 Work 中的默认上下文长度从 272k 提升到 500k，约增加 80%。此举可减少压缩（compaction）发生，帮助需要长期保留大量上下文和细节的任务；用户仍可自行覆盖设置，模型最大上下文长度为 1M。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/thsottiaux/status/2109430343346581527",
+          "source": "X：Tibo (@thsottiaux)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-11T23:45:59Z"
+        },
+        {
+          "id": "5e00d77cbcb5a808b5af90105220dee3ba7bc6c1",
+          "title": "GPT-6.1 Sol 在 Codex 与 Work 中默认上下文长度提升至 500k / Day 7/ We have increased default context length for GPT-6.1 Sol to 500k when used through Codex & Work, up from 272k or an ~ 80% increase. We will go higher in the future, but it helps reduce occurrence of compactions...",
+          "title_zh": "GPT-6.1 Sol 在 Codex 与 Work 中默认上下文长度提升至 500k",
+          "title_en": "Day 7/ We have increased default context length for GPT-6.1 Sol to 500k when used through Codex & Work, up from 272k or an ~ 80% increase. We will go higher in the future, but it helps reduce occurrence of compactions...",
+          "title_original": "Day 7/ We have increased default context length for GPT-6.1 Sol to 500k when used through Codex & Work, up from 272k or an ~ 80% increase. We will go higher in the future, but it helps reduce occurrence of compactions...",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://x.com/thsottiaux/status/2109430343346581527",
+          "source": "Follow Builders · X · Thibault Sottiaux",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-10-11T23:45:59Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7226,
+      "importance": 0.7226,
+      "importance_score": 0.7226,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.6,
+        "source_tier": 0.78,
+        "ai_relevance": 0.95,
+        "recency": 0.8667,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-11T23:45:59Z",
+      "latest_at": "2026-10-11T23:45:59Z",
+      "primary_item": {
+        "id": "7921d07cf3992ab1a77138e5c638870e2449d8fd",
+        "title": "GPT-6.1 Sol 在 Codex 与 Work 中默认上下文长度提升至 500k",
+        "title_zh": "GPT-6.1 Sol 在 Codex 与 Work 中默认上下文长度提升至 500k",
+        "title_en": null,
+        "title_original": "GPT-6.1 Sol 在 Codex 与 Work 中默认上下文长度提升至 500k",
+        "summary": "Tibo 宣布 GPT-6.1 Sol 在 Codex 与 Work 中的默认上下文长度从 272k 提升到 500k，约增加 80%。此举可减少压缩（compaction）发生，帮助需要长期保留大量上下文和细节的任务；用户仍可自行覆盖设置，模型最大上下文长度为 1M。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/thsottiaux/status/2109430343346581527",
+        "source": "X：Tibo (@thsottiaux)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-12T09:52:34.807993Z"
+      }
+    },
+    {
+      "story_id": "story_79c60ffdb517",
+      "title": "​Claude Opus 5.5 Max 强势登顶智能体榜首，国产多模型稳居中上游",
+      "url": "https://www.aibase.com/news/31567",
+      "primary_url": "https://www.aibase.com/news/31567",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "dc349e2b58e652e68a9117c8d8585b1a510af352",
+          "title": "​Claude Opus 5.5 Max 强势登顶智能体榜首，国产多模型稳居中上游",
+          "title_zh": "​Claude Opus 5.5 Max 强势登顶智能体榜首，国产多模型稳居中上游",
+          "title_en": null,
+          "title_original": "​Claude Opus 5.5 Max 强势登顶智能体榜首，国产多模型稳居中上游",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31567",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-12T09:40:36.455093Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "dc349e2b58e652e68a9117c8d8585b1a510af352",
+          "title": "​Claude Opus 5.5 Max 强势登顶智能体榜首，国产多模型稳居中上游",
+          "title_zh": "​Claude Opus 5.5 Max 强势登顶智能体榜首，国产多模型稳居中上游",
+          "title_en": null,
+          "title_original": "​Claude Opus 5.5 Max 强势登顶智能体榜首，国产多模型稳居中上游",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31567",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-12T09:40:36.455093Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7468,
+      "importance": 0.7468,
+      "importance_score": 0.7468,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.684,
+        "source_tier": 0.78,
+        "ai_relevance": 0.95,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-12T09:40:36.455093Z",
+      "latest_at": "2026-10-12T09:40:36.455093Z",
+      "primary_item": {
+        "id": "dc349e2b58e652e68a9117c8d8585b1a510af352",
+        "title": "​Claude Opus 5.5 Max 强势登顶智能体榜首，国产多模型稳居中上游",
+        "title_zh": "​Claude Opus 5.5 Max 强势登顶智能体榜首，国产多模型稳居中上游",
+        "title_en": null,
+        "title_original": "​Claude Opus 5.5 Max 强势登顶智能体榜首，国产多模型稳居中上游",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31567",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-12T09:52:34.807993Z"
+      }
+    },
+    {
+      "story_id": "story_608bad1068ca",
+      "title": "宇树科技王兴兴发声：过去犯的最大错误是不够相信 AI，具身智能临界点最快一两年内爆发",
+      "url": "https://www.aibase.com/news/31564",
+      "primary_url": "https://www.aibase.com/news/31564",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "8b932b656a992ffbcddd40ec349aa0c0af49d6dc",
+          "title": "宇树科技王兴兴发声：过去犯的最大错误是不够相信 AI，具身智能临界点最快一两年内爆发",
+          "title_zh": "宇树科技王兴兴发声：过去犯的最大错误是不够相信 AI，具身智能临界点最快一两年内爆发",
+          "title_en": null,
+          "title_original": "宇树科技王兴兴发声：过去犯的最大错误是不够相信 AI，具身智能临界点最快一两年内爆发",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31564",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-12T09:40:36.455093Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "8b932b656a992ffbcddd40ec349aa0c0af49d6dc",
+          "title": "宇树科技王兴兴发声：过去犯的最大错误是不够相信 AI，具身智能临界点最快一两年内爆发",
+          "title_zh": "宇树科技王兴兴发声：过去犯的最大错误是不够相信 AI，具身智能临界点最快一两年内爆发",
+          "title_en": null,
+          "title_original": "宇树科技王兴兴发声：过去犯的最大错误是不够相信 AI，具身智能临界点最快一两年内爆发",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31564",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-12T09:40:36.455093Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7468,
+      "importance": 0.7468,
+      "importance_score": 0.7468,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.684,
+        "source_tier": 0.78,
+        "ai_relevance": 0.95,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-12T09:40:36.455093Z",
+      "latest_at": "2026-10-12T09:40:36.455093Z",
+      "primary_item": {
+        "id": "8b932b656a992ffbcddd40ec349aa0c0af49d6dc",
+        "title": "宇树科技王兴兴发声：过去犯的最大错误是不够相信 AI，具身智能临界点最快一两年内爆发",
+        "title_zh": "宇树科技王兴兴发声：过去犯的最大错误是不够相信 AI，具身智能临界点最快一两年内爆发",
+        "title_en": null,
+        "title_original": "宇树科技王兴兴发声：过去犯的最大错误是不够相信 AI，具身智能临界点最快一两年内爆发",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31564",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-12T09:52:34.807993Z"
+      }
+    },
+    {
+      "story_id": "story_699de06c9e23",
+      "title": "Research Firm Calls Anthropic's IPO 'Unprecedented Test of Investor Gullibity'",
+      "url": "https://www.cnbc.com/2026/10/07/anthropic-will-be-most-ridiculous-ipo-of-year-analyst-says.html",
+      "primary_url": "https://www.cnbc.com/2026/10/07/anthropic-will-be-most-ridiculous-ipo-of-year-analyst-says.html",
+      "source": "Hacker News front page",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "2e1aa43d5889de24db824bb1b688469a72f435b6",
+          "title": "Research Firm Calls Anthropic's IPO 'Unprecedented Test of Investor Gullibity'",
+          "title_zh": null,
+          "title_en": "Research Firm Calls Anthropic's IPO 'Unprecedented Test of Investor Gullibity'",
+          "title_original": "Research Firm Calls Anthropic's IPO 'Unprecedented Test of Investor Gullibity'",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.cnbc.com/2026/10/07/anthropic-will-be-most-ridiculous-ipo-of-year-analyst-says.html",
+          "source": "Hacker News front page",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-12T05:03:47Z"
+        },
+        {
+          "id": "ccac9711f886a42474949e6632ce27a336123513",
+          "title": "Research Firm Calls Anthropic's IPO 'Unprecedented Test of Investor Gullibity'",
+          "title_zh": null,
+          "title_en": "Research Firm Calls Anthropic's IPO 'Unprecedented Test of Investor Gullibity'",
+          "title_original": "Research Firm Calls Anthropic's IPO 'Unprecedented Test of Investor Gullibity'",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50051583",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-12T05:03:47Z"
+        },
+        {
+          "id": "5a3c879cec8abf93c678812f7416ab91cd7e85b1",
+          "title": "Research Firm Calls Anthropic's Upcoming IPO 'Unprecedented Test of Investor Gullibity'",
+          "title_zh": null,
+          "title_en": "Research Firm Calls Anthropic's Upcoming IPO 'Unprecedented Test of Investor Gullibity'",
+          "title_original": "Research Firm Calls Anthropic's Upcoming IPO 'Unprecedented Test of Investor Gullibity'",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://slashdot.org/story/26/10/11/2355238/research-firm-calls-anthropics-upcoming-ipo-unprecedented-test-of-investor-gullibity",
+          "source": "Slashdot",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-11T23:58:00Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News front page",
+        "Slashdot",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "2e1aa43d5889de24db824bb1b688469a72f435b6",
+          "title": "Research Firm Calls Anthropic's IPO 'Unprecedented Test of Investor Gullibity'",
+          "title_zh": null,
+          "title_en": "Research Firm Calls Anthropic's IPO 'Unprecedented Test of Investor Gullibity'",
+          "title_original": "Research Firm Calls Anthropic's IPO 'Unprecedented Test of Investor Gullibity'",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.cnbc.com/2026/10/07/anthropic-will-be-most-ridiculous-ipo-of-year-analyst-says.html",
+          "source": "Hacker News front page",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-12T05:03:47Z"
+        },
+        {
+          "id": "ccac9711f886a42474949e6632ce27a336123513",
+          "title": "Research Firm Calls Anthropic's IPO 'Unprecedented Test of Investor Gullibity'",
+          "title_zh": null,
+          "title_en": "Research Firm Calls Anthropic's IPO 'Unprecedented Test of Investor Gullibity'",
+          "title_original": "Research Firm Calls Anthropic's IPO 'Unprecedented Test of Investor Gullibity'",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50051583",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-12T05:03:47Z"
+        },
+        {
+          "id": "5a3c879cec8abf93c678812f7416ab91cd7e85b1",
+          "title": "Research Firm Calls Anthropic's Upcoming IPO 'Unprecedented Test of Investor Gullibity'",
+          "title_zh": null,
+          "title_en": "Research Firm Calls Anthropic's Upcoming IPO 'Unprecedented Test of Investor Gullibity'",
+          "title_original": "Research Firm Calls Anthropic's Upcoming IPO 'Unprecedented Test of Investor Gullibity'",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://slashdot.org/story/26/10/11/2355238/research-firm-calls-anthropics-upcoming-ipo-unprecedented-test-of-investor-gullibity",
+          "source": "Slashdot",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-11T23:58:00Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.6705,
+      "importance": 0.6705,
+      "importance_score": 0.6705,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.5616,
+        "source_tier": 0.58,
+        "ai_relevance": 0.78,
+        "recency": 0.9355,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-11T23:58:00Z",
+      "latest_at": "2026-10-12T05:03:47Z",
+      "primary_item": {
+        "id": "2e1aa43d5889de24db824bb1b688469a72f435b6",
+        "title": "Research Firm Calls Anthropic's IPO 'Unprecedented Test of Investor Gullibity'",
+        "title_zh": null,
+        "title_en": "Research Firm Calls Anthropic's IPO 'Unprecedented Test of Investor Gullibity'",
+        "title_original": "Research Firm Calls Anthropic's IPO 'Unprecedented Test of Investor Gullibity'",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.cnbc.com/2026/10/07/anthropic-will-be-most-ridiculous-ipo-of-year-analyst-says.html",
+        "source": "Hacker News front page",
+        "source_name": "Curated Media"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-12T09:52:34.807993Z"
+      }
+    },
+    {
+      "story_id": "story_ec16e714cb98",
+      "title": "Claude半年封杀 1140 万账号申诉翻盘仅4. 2 万，Anthropic还要立规矩禁止虐待AI",
+      "url": "https://www.aibase.com/news/31556",
+      "primary_url": "https://www.aibase.com/news/31556",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "fdb9288b3e1f0b01dd8b9b568a5056b07bdb199f",
+          "title": "Claude半年封杀 1140 万账号申诉翻盘仅4. 2 万，Anthropic还要立规矩禁止虐待AI",
+          "title_zh": "Claude半年封杀 1140 万账号申诉翻盘仅4. 2 万，Anthropic还要立规矩禁止虐待AI",
+          "title_en": null,
+          "title_original": "Claude半年封杀 1140 万账号申诉翻盘仅4. 2 万，Anthropic还要立规矩禁止虐待AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31556",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-12T09:32:36.455093Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "fdb9288b3e1f0b01dd8b9b568a5056b07bdb199f",
+          "title": "Claude半年封杀 1140 万账号申诉翻盘仅4. 2 万，Anthropic还要立规矩禁止虐待AI",
+          "title_zh": "Claude半年封杀 1140 万账号申诉翻盘仅4. 2 万，Anthropic还要立规矩禁止虐待AI",
+          "title_en": null,
+          "title_original": "Claude半年封杀 1140 万账号申诉翻盘仅4. 2 万，Anthropic还要立规矩禁止虐待AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31556",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-12T09:32:36.455093Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7465,
+      "importance": 0.7465,
+      "importance_score": 0.7465,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.684,
+        "source_tier": 0.78,
+        "ai_relevance": 0.95,
+        "recency": 0.9981,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-12T09:32:36.455093Z",
+      "latest_at": "2026-10-12T09:32:36.455093Z",
+      "primary_item": {
+        "id": "fdb9288b3e1f0b01dd8b9b568a5056b07bdb199f",
+        "title": "Claude半年封杀 1140 万账号申诉翻盘仅4. 2 万，Anthropic还要立规矩禁止虐待AI",
+        "title_zh": "Claude半年封杀 1140 万账号申诉翻盘仅4. 2 万，Anthropic还要立规矩禁止虐待AI",
+        "title_en": null,
+        "title_original": "Claude半年封杀 1140 万账号申诉翻盘仅4. 2 万，Anthropic还要立规矩禁止虐待AI",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31556",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-12T09:52:34.807993Z"
+      }
+    },
+    {
+      "story_id": "story_001851d65eda",
+      "title": "OpenAI悄悄挂出未发布生命科学模型gpt-rosalind-discovery，要给药企当\"工具贩子\"",
+      "url": "https://www.aibase.com/news/31554",
+      "primary_url": "https://www.aibase.com/news/31554",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "51646a104dd439f6b214c57d0b6064d0e6fd929e",
+          "title": "OpenAI悄悄挂出未发布生命科学模型gpt-rosalind-discovery，要给药企当\"工具贩子\"",
+          "title_zh": "OpenAI悄悄挂出未发布生命科学模型gpt-rosalind-discovery，要给药企当\"工具贩子\"",
+          "title_en": null,
+          "title_original": "OpenAI悄悄挂出未发布生命科学模型gpt-rosalind-discovery，要给药企当\"工具贩子\"",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31554",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-12T09:18:36.455093Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "51646a104dd439f6b214c57d0b6064d0e6fd929e",
+          "title": "OpenAI悄悄挂出未发布生命科学模型gpt-rosalind-discovery，要给药企当\"工具贩子\"",
+          "title_zh": "OpenAI悄悄挂出未发布生命科学模型gpt-rosalind-discovery，要给药企当\"工具贩子\"",
+          "title_en": null,
+          "title_original": "OpenAI悄悄挂出未发布生命科学模型gpt-rosalind-discovery，要给药企当\"工具贩子\"",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31554",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-12T09:18:36.455093Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7458,
+      "importance": 0.7458,
+      "importance_score": 0.7458,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.684,
+        "source_tier": 0.78,
+        "ai_relevance": 0.95,
+        "recency": 0.9947,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-12T09:18:36.455093Z",
+      "latest_at": "2026-10-12T09:18:36.455093Z",
+      "primary_item": {
+        "id": "51646a104dd439f6b214c57d0b6064d0e6fd929e",
+        "title": "OpenAI悄悄挂出未发布生命科学模型gpt-rosalind-discovery，要给药企当\"工具贩子\"",
+        "title_zh": "OpenAI悄悄挂出未发布生命科学模型gpt-rosalind-discovery，要给药企当\"工具贩子\"",
+        "title_en": null,
+        "title_original": "OpenAI悄悄挂出未发布生命科学模型gpt-rosalind-discovery，要给药企当\"工具贩子\"",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31554",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-12T09:52:34.807993Z"
+      }
+    },
     {
       "story_id": "story_667c0b5ccb88",
       "title": "人们对大型语言模型（LLM）能力的共识差距正在扩大 / The gap in shared understanding of LLM capability is widening",
@@ -106,15 +923,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6718,
-      "importance": 0.6718,
-      "importance_score": 0.6718,
+      "score": 0.6506,
+      "importance": 0.6506,
+      "importance_score": 0.6506,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5616,
         "source_tier": 0.58,
         "ai_relevance": 0.78,
-        "recency": 0.9429,
+        "recency": 0.8249,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -139,12 +956,93 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-12T00:33:43.543909Z"
+        "scored_at": "2026-10-12T09:52:34.807993Z"
+      }
+    },
+    {
+      "story_id": "story_41427d70694c",
+      "title": "亚马逊拟 70 亿美元收购 Decart，抢下 AI 芯片\"通用适配器\"",
+      "url": "https://www.aibase.com/news/31552",
+      "primary_url": "https://www.aibase.com/news/31552",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "41fcc96c83b71573194983addaf7625bd77dbe23",
+          "title": "亚马逊拟 70 亿美元收购 Decart，抢下 AI 芯片\"通用适配器\"",
+          "title_zh": "亚马逊拟 70 亿美元收购 Decart，抢下 AI 芯片\"通用适配器\"",
+          "title_en": null,
+          "title_original": "亚马逊拟 70 亿美元收购 Decart，抢下 AI 芯片\"通用适配器\"",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31552",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-12T09:13:36.455093Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "41fcc96c83b71573194983addaf7625bd77dbe23",
+          "title": "亚马逊拟 70 亿美元收购 Decart，抢下 AI 芯片\"通用适配器\"",
+          "title_zh": "亚马逊拟 70 亿美元收购 Decart，抢下 AI 芯片\"通用适配器\"",
+          "title_en": null,
+          "title_original": "亚马逊拟 70 亿美元收购 Decart，抢下 AI 芯片\"通用适配器\"",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31552",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-12T09:13:36.455093Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7456,
+      "importance": 0.7456,
+      "importance_score": 0.7456,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.684,
+        "source_tier": 0.78,
+        "ai_relevance": 0.95,
+        "recency": 0.9935,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-12T09:13:36.455093Z",
+      "latest_at": "2026-10-12T09:13:36.455093Z",
+      "primary_item": {
+        "id": "41fcc96c83b71573194983addaf7625bd77dbe23",
+        "title": "亚马逊拟 70 亿美元收购 Decart，抢下 AI 芯片\"通用适配器\"",
+        "title_zh": "亚马逊拟 70 亿美元收购 Decart，抢下 AI 芯片\"通用适配器\"",
+        "title_en": null,
+        "title_original": "亚马逊拟 70 亿美元收购 Decart，抢下 AI 芯片\"通用适配器\"",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31552",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-12T09:52:34.807993Z"
       }
     },
     {
       "story_id": "story_914b92508f61",
-      "title": "Recursive self-improvement through collective intelligence",
+      "title": "通过集体智慧实现递归式自我提升 / Recursive self-improvement through collective intelligence",
       "url": "https://pub.sakana.ai/mass",
       "primary_url": "https://pub.sakana.ai/mass",
       "source": "Hacker News front page",
@@ -152,8 +1050,8 @@
       "sources": [
         {
           "id": "b51a2cf5a4c355ca75858ce6175b9ec9f900afc6",
-          "title": "Recursive self-improvement through collective intelligence",
-          "title_zh": null,
+          "title": "通过集体智慧实现递归式自我提升 / Recursive self-improvement through collective intelligence",
+          "title_zh": "通过集体智慧实现递归式自我提升",
           "title_en": "Recursive self-improvement through collective intelligence",
           "title_original": "Recursive self-improvement through collective intelligence",
           "summary": null,
@@ -187,8 +1085,8 @@
       "items": [
         {
           "id": "b51a2cf5a4c355ca75858ce6175b9ec9f900afc6",
-          "title": "Recursive self-improvement through collective intelligence",
-          "title_zh": null,
+          "title": "通过集体智慧实现递归式自我提升 / Recursive self-improvement through collective intelligence",
+          "title_zh": "通过集体智慧实现递归式自我提升",
           "title_en": "Recursive self-improvement through collective intelligence",
           "title_original": "Recursive self-improvement through collective intelligence",
           "summary": null,
@@ -216,15 +1114,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6643,
-      "importance": 0.6643,
-      "importance_score": 0.6643,
+      "score": 0.6424,
+      "importance": 0.6424,
+      "importance_score": 0.6424,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5832,
         "source_tier": 0.58,
         "ai_relevance": 0.81,
-        "recency": 0.9708,
+        "recency": 0.8493,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -236,8 +1134,8 @@
       "latest_at": "2026-10-11T22:22:10Z",
       "primary_item": {
         "id": "b51a2cf5a4c355ca75858ce6175b9ec9f900afc6",
-        "title": "Recursive self-improvement through collective intelligence",
-        "title_zh": null,
+        "title": "通过集体智慧实现递归式自我提升 / Recursive self-improvement through collective intelligence",
+        "title_zh": "通过集体智慧实现递归式自我提升",
         "title_en": "Recursive self-improvement through collective intelligence",
         "title_original": "Recursive self-improvement through collective intelligence",
         "summary": null,
@@ -250,109 +1148,190 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-12T00:33:43.543909Z"
+        "scored_at": "2026-10-12T09:52:34.807993Z"
       }
     },
     {
-      "story_id": "story_2e8ea9674ab2",
-      "title": "500B 令牌之后：让 AI 代理反编译一款第一人称射击游戏 / 500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
-      "url": "https://momo5502.com/posts/2026-10-09-game-decompilation",
-      "primary_url": "https://momo5502.com/posts/2026-10-09-game-decompilation",
+      "story_id": "story_8044a36c6dff",
+      "title": "Anthropic放手后亚马逊接盘： 70 亿美元洽购Decart，盯上AI芯片间的\"万能转接头\"",
+      "url": "https://www.aibase.com/news/31551",
+      "primary_url": "https://www.aibase.com/news/31551",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "635e8df7bff5aec1f66e2f5d88f872aa3dda7de7",
+          "title": "Anthropic放手后亚马逊接盘： 70 亿美元洽购Decart，盯上AI芯片间的\"万能转接头\"",
+          "title_zh": "Anthropic放手后亚马逊接盘： 70 亿美元洽购Decart，盯上AI芯片间的\"万能转接头\"",
+          "title_en": null,
+          "title_original": "Anthropic放手后亚马逊接盘： 70 亿美元洽购Decart，盯上AI芯片间的\"万能转接头\"",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31551",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-12T09:10:36.455093Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "635e8df7bff5aec1f66e2f5d88f872aa3dda7de7",
+          "title": "Anthropic放手后亚马逊接盘： 70 亿美元洽购Decart，盯上AI芯片间的\"万能转接头\"",
+          "title_zh": "Anthropic放手后亚马逊接盘： 70 亿美元洽购Decart，盯上AI芯片间的\"万能转接头\"",
+          "title_en": null,
+          "title_original": "Anthropic放手后亚马逊接盘： 70 亿美元洽购Decart，盯上AI芯片间的\"万能转接头\"",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31551",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-12T09:10:36.455093Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7455,
+      "importance": 0.7455,
+      "importance_score": 0.7455,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.684,
+        "source_tier": 0.78,
+        "ai_relevance": 0.95,
+        "recency": 0.9928,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-12T09:10:36.455093Z",
+      "latest_at": "2026-10-12T09:10:36.455093Z",
+      "primary_item": {
+        "id": "635e8df7bff5aec1f66e2f5d88f872aa3dda7de7",
+        "title": "Anthropic放手后亚马逊接盘： 70 亿美元洽购Decart，盯上AI芯片间的\"万能转接头\"",
+        "title_zh": "Anthropic放手后亚马逊接盘： 70 亿美元洽购Decart，盯上AI芯片间的\"万能转接头\"",
+        "title_en": null,
+        "title_original": "Anthropic放手后亚马逊接盘： 70 亿美元洽购Decart，盯上AI芯片间的\"万能转接头\"",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31551",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-12T09:52:34.807993Z"
+      }
+    },
+    {
+      "story_id": "story_613afea439d0",
+      "title": "Linux手机能否成为Android/iOS双头垄断的可行替代方案？ / Will Linux phones become a viable alternative to the Android/iOS duopoly?",
+      "url": "https://amosbbatto.wordpress.com/2026/10/05/linux-phones-alternative",
+      "primary_url": "https://amosbbatto.wordpress.com/2026/10/05/linux-phones-alternative",
       "source": "Hacker News front page",
       "source_name": "Curated Media",
       "sources": [
         {
-          "id": "1d19f4173159cd6f1b675a87f197d64358d710ce",
-          "title": "500B 令牌之后：让 AI 代理反编译一款第一人称射击游戏 / 500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
-          "title_zh": "500B 令牌之后：让 AI 代理反编译一款第一人称射击游戏",
-          "title_en": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
-          "title_original": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
+          "id": "d4378b42aa82d46dd6b05a4df0120857ebcd45dd",
+          "title": "Linux手机能否成为Android/iOS双头垄断的可行替代方案？ / Will Linux phones become a viable alternative to the Android/iOS duopoly?",
+          "title_zh": "Linux手机能否成为Android/iOS双头垄断的可行替代方案？",
+          "title_en": "Will Linux phones become a viable alternative to the Android/iOS duopoly?",
+          "title_original": "Will Linux phones become a viable alternative to the Android/iOS duopoly?",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://momo5502.com/posts/2026-10-09-game-decompilation",
+          "url": "https://amosbbatto.wordpress.com/2026/10/05/linux-phones-alternative",
           "source": "Hacker News front page",
           "source_name": "Curated Media",
           "site_id": "curated_media",
-          "published_at": "2026-10-11T02:02:38Z"
+          "published_at": "2026-10-12T04:54:00Z"
         },
         {
-          "id": "7e60eb02ef534d15cccc1d15b4937a7dfa4487e8",
-          "title": "500B tokens later: Letting AI agents decompile a first-person shooter",
-          "title_zh": null,
-          "title_en": "500B tokens later: Letting AI agents decompile a first-person shooter",
-          "title_original": "500B tokens later: Letting AI agents decompile a first-person shooter",
+          "id": "e1eb3bdbf85e1ce38c45cd28e231fc613f5a2000",
+          "title": "Linux手机能否成为Android/iOS双头垄断的可行替代方案？",
+          "title_zh": "Linux手机能否成为Android/iOS双头垄断的可行替代方案？",
+          "title_en": null,
+          "title_original": "Linux手机能否成为Android/iOS双头垄断的可行替代方案？",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50039092",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-11T02:02:38Z"
+          "url": "https://amosbbatto.wordpress.com/2026/10/05/linux-phones-alternative",
+          "source": "amosbbatto.wordpress.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-12T08:03:21.922000Z"
         }
       ],
       "source_count": 2,
       "source_names": [
         "Hacker News front page",
-        "hackernews"
+        "amosbbatto.wordpress.com"
       ],
       "items": [
         {
-          "id": "1d19f4173159cd6f1b675a87f197d64358d710ce",
-          "title": "500B 令牌之后：让 AI 代理反编译一款第一人称射击游戏 / 500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
-          "title_zh": "500B 令牌之后：让 AI 代理反编译一款第一人称射击游戏",
-          "title_en": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
-          "title_original": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
+          "id": "d4378b42aa82d46dd6b05a4df0120857ebcd45dd",
+          "title": "Linux手机能否成为Android/iOS双头垄断的可行替代方案？ / Will Linux phones become a viable alternative to the Android/iOS duopoly?",
+          "title_zh": "Linux手机能否成为Android/iOS双头垄断的可行替代方案？",
+          "title_en": "Will Linux phones become a viable alternative to the Android/iOS duopoly?",
+          "title_original": "Will Linux phones become a viable alternative to the Android/iOS duopoly?",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://momo5502.com/posts/2026-10-09-game-decompilation",
+          "url": "https://amosbbatto.wordpress.com/2026/10/05/linux-phones-alternative",
           "source": "Hacker News front page",
           "source_name": "Curated Media",
           "site_id": "curated_media",
-          "published_at": "2026-10-11T02:02:38Z"
+          "published_at": "2026-10-12T04:54:00Z"
         },
         {
-          "id": "7e60eb02ef534d15cccc1d15b4937a7dfa4487e8",
-          "title": "500B tokens later: Letting AI agents decompile a first-person shooter",
-          "title_zh": null,
-          "title_en": "500B tokens later: Letting AI agents decompile a first-person shooter",
-          "title_original": "500B tokens later: Letting AI agents decompile a first-person shooter",
+          "id": "e1eb3bdbf85e1ce38c45cd28e231fc613f5a2000",
+          "title": "Linux手机能否成为Android/iOS双头垄断的可行替代方案？",
+          "title_zh": "Linux手机能否成为Android/iOS双头垄断的可行替代方案？",
+          "title_en": null,
+          "title_original": "Linux手机能否成为Android/iOS双头垄断的可行替代方案？",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50039092",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-11T02:02:38Z"
+          "url": "https://amosbbatto.wordpress.com/2026/10/05/linux-phones-alternative",
+          "source": "amosbbatto.wordpress.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-12T08:03:21.922000Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6074,
-      "importance": 0.6074,
-      "importance_score": 0.6074,
+      "score": 0.5796,
+      "importance": 0.5796,
+      "importance_score": 0.5796,
       "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.5616,
+        "editorial": 0.45,
         "source_tier": 0.58,
-        "ai_relevance": 0.78,
-        "recency": 0.7239,
+        "ai_relevance": 0.62,
+        "recency": 0.9333,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-11T02:02:38Z",
-      "latest_at": "2026-10-11T02:02:38Z",
+      "earliest_at": "2026-10-12T04:54:00Z",
+      "latest_at": "2026-10-12T08:03:21.922000Z",
       "primary_item": {
-        "id": "1d19f4173159cd6f1b675a87f197d64358d710ce",
-        "title": "500B 令牌之后：让 AI 代理反编译一款第一人称射击游戏 / 500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
-        "title_zh": "500B 令牌之后：让 AI 代理反编译一款第一人称射击游戏",
-        "title_en": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
-        "title_original": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
+        "id": "d4378b42aa82d46dd6b05a4df0120857ebcd45dd",
+        "title": "Linux手机能否成为Android/iOS双头垄断的可行替代方案？ / Will Linux phones become a viable alternative to the Android/iOS duopoly?",
+        "title_zh": "Linux手机能否成为Android/iOS双头垄断的可行替代方案？",
+        "title_en": "Will Linux phones become a viable alternative to the Android/iOS duopoly?",
+        "title_original": "Will Linux phones become a viable alternative to the Android/iOS duopoly?",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://momo5502.com/posts/2026-10-09-game-decompilation",
+        "url": "https://amosbbatto.wordpress.com/2026/10/05/linux-phones-alternative",
         "source": "Hacker News front page",
         "source_name": "Curated Media"
       },
@@ -360,7 +1339,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-12T00:33:43.543909Z"
+        "scored_at": "2026-10-12T09:52:34.807993Z"
       }
     },
     {
@@ -386,6 +1365,20 @@
           "published_at": "2026-10-11T10:27:53Z"
         },
         {
+          "id": "b35f1169fd6dc7e03a9c2339f997408a11f1aef6",
+          "title": "Yandex 数据中心遭攻击后，机器人流量下降了 99%",
+          "title_zh": "Yandex 数据中心遭攻击后，机器人流量下降了 99%",
+          "title_en": null,
+          "title_original": "Yandex 数据中心遭攻击后，机器人流量下降了 99%",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://radar.cloudflare.com/bots/as13238?dateRange=7d",
+          "source": "radar.cloudflare.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-12T06:11:18.706000Z"
+        },
+        {
           "id": "a8118afd9d8c055fe56179df87453cc005e4163f",
           "title": "Yandex数据中心遭攻击后，Cloudflare的机器人流量骤降",
           "title_zh": "Yandex数据中心遭攻击后，Cloudflare的机器人流量骤降",
@@ -400,7 +1393,7 @@
           "published_at": "2026-10-11T11:58:52.400000Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 3,
       "source_names": [
         "Hacker News front page",
         "radar.cloudflare.com"
@@ -421,6 +1414,20 @@
           "published_at": "2026-10-11T10:27:53Z"
         },
         {
+          "id": "b35f1169fd6dc7e03a9c2339f997408a11f1aef6",
+          "title": "Yandex 数据中心遭攻击后，机器人流量下降了 99%",
+          "title_zh": "Yandex 数据中心遭攻击后，机器人流量下降了 99%",
+          "title_en": null,
+          "title_original": "Yandex 数据中心遭攻击后，机器人流量下降了 99%",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://radar.cloudflare.com/bots/as13238?dateRange=7d",
+          "source": "radar.cloudflare.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-12T06:11:18.706000Z"
+        },
+        {
           "id": "a8118afd9d8c055fe56179df87453cc005e4163f",
           "title": "Yandex数据中心遭攻击后，Cloudflare的机器人流量骤降",
           "title_zh": "Yandex数据中心遭攻击后，Cloudflare的机器人流量骤降",
@@ -435,25 +1442,25 @@
           "published_at": "2026-10-11T11:58:52.400000Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5467,
-      "importance": 0.5467,
-      "importance_score": 0.5467,
-      "importance_label": "值得关注",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5533,
+      "importance": 0.5533,
+      "importance_score": 0.5533,
+      "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.45,
         "source_tier": 0.58,
         "ai_relevance": 0.56,
-        "recency": 0.8175,
-        "story_heat": 0.25
+        "recency": 0.7152,
+        "story_heat": 0.5
       },
-      "category": "watch",
+      "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
       "earliest_at": "2026-10-11T10:27:53Z",
-      "latest_at": "2026-10-11T11:58:52.400000Z",
+      "latest_at": "2026-10-12T06:11:18.706000Z",
       "primary_item": {
         "id": "a86bb38ef40318d04b006c6c8b8bf2ec03e1a238",
         "title": "Yandex数据中心遭攻击后，Cloudflare的机器人流量骤降 / Bot traffic from Yandex",
@@ -470,7 +1477,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-12T00:33:43.543909Z"
+        "scored_at": "2026-10-12T09:52:34.807993Z"
       }
     }
   ]
