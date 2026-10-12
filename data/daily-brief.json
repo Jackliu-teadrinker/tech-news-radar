@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-12T19:58:25.413543Z",
+  "generated_at": "2026-10-12T23:34:11.657122Z",
   "window_hours": 24,
-  "total_items": 20,
+  "total_items": 14,
   "items": [
     {
       "story_id": "story_1327604ea90f",
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8163,
-      "importance": 0.8163,
-      "importance_score": 0.8163,
+      "score": 0.8075,
+      "importance": 0.8075,
+      "importance_score": 0.8075,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.76,
-        "recency": 0.9682,
+        "recency": 0.9192,
         "story_heat": 0.0
       },
       "category": "official",
@@ -82,7 +82,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-12T19:59:35.401131Z"
+        "scored_at": "2026-10-12T23:45:44.409630Z"
       }
     },
     {
@@ -130,15 +130,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8072,
-      "importance": 0.8072,
-      "importance_score": 0.8072,
+      "score": 0.7985,
+      "importance": 0.7985,
+      "importance_score": 0.7985,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.73,
-        "recency": 0.9511,
+        "recency": 0.903,
         "story_heat": 0.0
       },
       "category": "official",
@@ -164,7 +164,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-12T19:59:35.401131Z"
+        "scored_at": "2026-10-12T23:45:44.409630Z"
       }
     },
     {
@@ -212,15 +212,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7715,
-      "importance": 0.7715,
-      "importance_score": 0.7715,
+      "score": 0.7626,
+      "importance": 0.7626,
+      "importance_score": 0.7626,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.977,
+        "recency": 0.9275,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -246,7 +246,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-12T19:59:35.401131Z"
+        "scored_at": "2026-10-12T23:45:44.409630Z"
       }
     },
     {
@@ -294,15 +294,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7707,
-      "importance": 0.7707,
-      "importance_score": 0.7707,
+      "score": 0.7619,
+      "importance": 0.7619,
+      "importance_score": 0.7619,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.973,
+        "recency": 0.9238,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -328,169 +328,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-12T19:59:35.401131Z"
-      }
-    },
-    {
-      "story_id": "story_75aedb54f50c",
-      "title": "用 Claude Opus 5.5、Blender、Unreal Engine 和 Meshy 构建游戏的七步教程 / How to build a game with Claude Opus 5.5 + Blender + Unreal Engine + Meshy 🎮",
-      "url": "https://x.com/MeshyAI/status/2109550836934471864",
-      "primary_url": "https://x.com/MeshyAI/status/2109550836934471864",
-      "source": "X：Meshy (@MeshyAI)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "91f6030ffc8e5c0d29755a33d9fe85e93f9085d5",
-          "title": "用 Claude Opus 5.5、Blender、Unreal Engine 和 Meshy 构建游戏的七步教程 / How to build a game with Claude Opus 5.5 + Blender + Unreal Engine + Meshy 🎮",
-          "title_zh": "用 Claude Opus 5.5、Blender、Unreal Engine 和 Meshy 构建游戏的七步教程",
-          "title_en": "How to build a game with Claude Opus 5.5 + Blender + Unreal Engine + Meshy 🎮",
-          "title_original": "How to build a game with Claude Opus 5.5 + Blender + Unreal Engine + Meshy 🎮",
-          "summary": "一篇教程介绍用 Claude Opus 5.5 配合 Claude Code、Blender、Unreal Engine 5 和 Meshy 构建游戏的方法。核心思路是给每个工具分配单一职责：通过 MCP 连接 Blender 和 Meshy，由 Meshy 生成道具和角色、Blender 清理和放置、Unreal 负责光照物理和游戏本身、Opus 在一个对话里调度三者。流程为先让 Opus 头脑风暴 5 个游戏点子再展开，告知 GPU 以便压满画面性能，首个完整构建约花 4 小时和约 19% 的每周 Max plan 用量，之后因素材复用会快很多。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/MeshyAI/status/2109550836934471864",
-          "source": "X：Meshy (@MeshyAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-12T07:44:47Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Meshy (@MeshyAI)"
-      ],
-      "items": [
-        {
-          "id": "91f6030ffc8e5c0d29755a33d9fe85e93f9085d5",
-          "title": "用 Claude Opus 5.5、Blender、Unreal Engine 和 Meshy 构建游戏的七步教程 / How to build a game with Claude Opus 5.5 + Blender + Unreal Engine + Meshy 🎮",
-          "title_zh": "用 Claude Opus 5.5、Blender、Unreal Engine 和 Meshy 构建游戏的七步教程",
-          "title_en": "How to build a game with Claude Opus 5.5 + Blender + Unreal Engine + Meshy 🎮",
-          "title_original": "How to build a game with Claude Opus 5.5 + Blender + Unreal Engine + Meshy 🎮",
-          "summary": "一篇教程介绍用 Claude Opus 5.5 配合 Claude Code、Blender、Unreal Engine 5 和 Meshy 构建游戏的方法。核心思路是给每个工具分配单一职责：通过 MCP 连接 Blender 和 Meshy，由 Meshy 生成道具和角色、Blender 清理和放置、Unreal 负责光照物理和游戏本身、Opus 在一个对话里调度三者。流程为先让 Opus 头脑风暴 5 个游戏点子再展开，告知 GPU 以便压满画面性能，首个完整构建约花 4 小时和约 19% 的每周 Max plan 用量，之后因素材复用会快很多。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/MeshyAI/status/2109550836934471864",
-          "source": "X：Meshy (@MeshyAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-12T07:44:47Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7225,
-      "importance": 0.7225,
-      "importance_score": 0.7225,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 0.95,
-        "recency": 0.8381,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-12T07:44:47Z",
-      "latest_at": "2026-10-12T07:44:47Z",
-      "primary_item": {
-        "id": "91f6030ffc8e5c0d29755a33d9fe85e93f9085d5",
-        "title": "用 Claude Opus 5.5、Blender、Unreal Engine 和 Meshy 构建游戏的七步教程 / How to build a game with Claude Opus 5.5 + Blender + Unreal Engine + Meshy 🎮",
-        "title_zh": "用 Claude Opus 5.5、Blender、Unreal Engine 和 Meshy 构建游戏的七步教程",
-        "title_en": "How to build a game with Claude Opus 5.5 + Blender + Unreal Engine + Meshy 🎮",
-        "title_original": "How to build a game with Claude Opus 5.5 + Blender + Unreal Engine + Meshy 🎮",
-        "summary": "一篇教程介绍用 Claude Opus 5.5 配合 Claude Code、Blender、Unreal Engine 5 和 Meshy 构建游戏的方法。核心思路是给每个工具分配单一职责：通过 MCP 连接 Blender 和 Meshy，由 Meshy 生成道具和角色、Blender 清理和放置、Unreal 负责光照物理和游戏本身、Opus 在一个对话里调度三者。流程为先让 Opus 头脑风暴 5 个游戏点子再展开，告知 GPU 以便压满画面性能，首个完整构建约花 4 小时和约 19% 的每周 Max plan 用量，之后因素材复用会快很多。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/MeshyAI/status/2109550836934471864",
-        "source": "X：Meshy (@MeshyAI)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-12T19:59:35.401131Z"
-      }
-    },
-    {
-      "story_id": "story_57cb2220043e",
-      "title": "OpenAI 给 GPT-6.1 Sol 扩容：默认上下文 272k 飙到 500k，长文本还免费",
-      "url": "https://www.aibase.com/news/31560",
-      "primary_url": "https://www.aibase.com/news/31560",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "34352ae1ec29a4f379c5d7bd45c4375d3f608950",
-          "title": "OpenAI 给 GPT-6.1 Sol 扩容：默认上下文 272k 飙到 500k，长文本还免费",
-          "title_zh": "OpenAI 给 GPT-6.1 Sol 扩容：默认上下文 272k 飙到 500k，长文本还免费",
-          "title_en": null,
-          "title_original": "OpenAI 给 GPT-6.1 Sol 扩容：默认上下文 272k 飙到 500k，长文本还免费",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31560",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-12T09:40:36.455093Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "34352ae1ec29a4f379c5d7bd45c4375d3f608950",
-          "title": "OpenAI 给 GPT-6.1 Sol 扩容：默认上下文 272k 飙到 500k，长文本还免费",
-          "title_zh": "OpenAI 给 GPT-6.1 Sol 扩容：默认上下文 272k 飙到 500k，长文本还免费",
-          "title_en": null,
-          "title_original": "OpenAI 给 GPT-6.1 Sol 扩容：默认上下文 272k 飙到 500k，长文本还免费",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31560",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-12T09:40:36.455093Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7219,
-      "importance": 0.7219,
-      "importance_score": 0.7219,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.684,
-        "source_tier": 0.78,
-        "ai_relevance": 0.95,
-        "recency": 0.8618,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-12T09:40:36.455093Z",
-      "latest_at": "2026-10-12T09:40:36.455093Z",
-      "primary_item": {
-        "id": "34352ae1ec29a4f379c5d7bd45c4375d3f608950",
-        "title": "OpenAI 给 GPT-6.1 Sol 扩容：默认上下文 272k 飙到 500k，长文本还免费",
-        "title_zh": "OpenAI 给 GPT-6.1 Sol 扩容：默认上下文 272k 飙到 500k，长文本还免费",
-        "title_en": null,
-        "title_original": "OpenAI 给 GPT-6.1 Sol 扩容：默认上下文 272k 飙到 500k，长文本还免费",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31560",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-12T19:59:35.401131Z"
+        "scored_at": "2026-10-12T23:45:44.409630Z"
       }
     },
     {
@@ -567,15 +405,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.701,
-      "importance": 0.701,
-      "importance_score": 0.701,
+      "score": 0.6942,
+      "importance": 0.6942,
+      "importance_score": 0.6942,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.6,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.7469,
+        "recency": 0.7091,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -601,7 +439,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-12T19:59:35.401131Z"
+        "scored_at": "2026-10-12T23:45:44.409630Z"
       }
     },
     {
@@ -736,15 +574,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.7001,
-      "importance": 0.7001,
-      "importance_score": 0.7001,
+      "score": 0.6913,
+      "importance": 0.6913,
+      "importance_score": 0.6913,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5616,
         "source_tier": 0.58,
         "ai_relevance": 0.78,
-        "recency": 0.9612,
+        "recency": 0.9126,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -769,169 +607,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-12T19:59:35.401131Z"
-      }
-    },
-    {
-      "story_id": "story_79c60ffdb517",
-      "title": "​Claude Opus 5.5 Max 强势登顶智能体榜首，国产多模型稳居中上游",
-      "url": "https://www.aibase.com/news/31567",
-      "primary_url": "https://www.aibase.com/news/31567",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "dc349e2b58e652e68a9117c8d8585b1a510af352",
-          "title": "​Claude Opus 5.5 Max 强势登顶智能体榜首，国产多模型稳居中上游",
-          "title_zh": "​Claude Opus 5.5 Max 强势登顶智能体榜首，国产多模型稳居中上游",
-          "title_en": null,
-          "title_original": "​Claude Opus 5.5 Max 强势登顶智能体榜首，国产多模型稳居中上游",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31567",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-12T09:40:36.455093Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "dc349e2b58e652e68a9117c8d8585b1a510af352",
-          "title": "​Claude Opus 5.5 Max 强势登顶智能体榜首，国产多模型稳居中上游",
-          "title_zh": "​Claude Opus 5.5 Max 强势登顶智能体榜首，国产多模型稳居中上游",
-          "title_en": null,
-          "title_original": "​Claude Opus 5.5 Max 强势登顶智能体榜首，国产多模型稳居中上游",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31567",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-12T09:40:36.455093Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7219,
-      "importance": 0.7219,
-      "importance_score": 0.7219,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.684,
-        "source_tier": 0.78,
-        "ai_relevance": 0.95,
-        "recency": 0.8618,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-12T09:40:36.455093Z",
-      "latest_at": "2026-10-12T09:40:36.455093Z",
-      "primary_item": {
-        "id": "dc349e2b58e652e68a9117c8d8585b1a510af352",
-        "title": "​Claude Opus 5.5 Max 强势登顶智能体榜首，国产多模型稳居中上游",
-        "title_zh": "​Claude Opus 5.5 Max 强势登顶智能体榜首，国产多模型稳居中上游",
-        "title_en": null,
-        "title_original": "​Claude Opus 5.5 Max 强势登顶智能体榜首，国产多模型稳居中上游",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31567",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-12T19:59:35.401131Z"
-      }
-    },
-    {
-      "story_id": "story_608bad1068ca",
-      "title": "宇树科技王兴兴发声：过去犯的最大错误是不够相信 AI，具身智能临界点最快一两年内爆发",
-      "url": "https://www.aibase.com/news/31564",
-      "primary_url": "https://www.aibase.com/news/31564",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "8b932b656a992ffbcddd40ec349aa0c0af49d6dc",
-          "title": "宇树科技王兴兴发声：过去犯的最大错误是不够相信 AI，具身智能临界点最快一两年内爆发",
-          "title_zh": "宇树科技王兴兴发声：过去犯的最大错误是不够相信 AI，具身智能临界点最快一两年内爆发",
-          "title_en": null,
-          "title_original": "宇树科技王兴兴发声：过去犯的最大错误是不够相信 AI，具身智能临界点最快一两年内爆发",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31564",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-12T09:40:36.455093Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "8b932b656a992ffbcddd40ec349aa0c0af49d6dc",
-          "title": "宇树科技王兴兴发声：过去犯的最大错误是不够相信 AI，具身智能临界点最快一两年内爆发",
-          "title_zh": "宇树科技王兴兴发声：过去犯的最大错误是不够相信 AI，具身智能临界点最快一两年内爆发",
-          "title_en": null,
-          "title_original": "宇树科技王兴兴发声：过去犯的最大错误是不够相信 AI，具身智能临界点最快一两年内爆发",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31564",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-12T09:40:36.455093Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7219,
-      "importance": 0.7219,
-      "importance_score": 0.7219,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.684,
-        "source_tier": 0.78,
-        "ai_relevance": 0.95,
-        "recency": 0.8618,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-12T09:40:36.455093Z",
-      "latest_at": "2026-10-12T09:40:36.455093Z",
-      "primary_item": {
-        "id": "8b932b656a992ffbcddd40ec349aa0c0af49d6dc",
-        "title": "宇树科技王兴兴发声：过去犯的最大错误是不够相信 AI，具身智能临界点最快一两年内爆发",
-        "title_zh": "宇树科技王兴兴发声：过去犯的最大错误是不够相信 AI，具身智能临界点最快一两年内爆发",
-        "title_en": null,
-        "title_original": "宇树科技王兴兴发声：过去犯的最大错误是不够相信 AI，具身智能临界点最快一两年内爆发",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31564",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-12T19:59:35.401131Z"
+        "scored_at": "2026-10-12T23:45:44.409630Z"
       }
     },
     {
@@ -1066,15 +742,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.6722,
-      "importance": 0.6722,
-      "importance_score": 0.6722,
+      "score": 0.6649,
+      "importance": 0.6649,
+      "importance_score": 0.6649,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5616,
         "source_tier": 0.58,
         "ai_relevance": 0.78,
-        "recency": 0.8063,
+        "recency": 0.7655,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1099,169 +775,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-12T19:59:35.401131Z"
-      }
-    },
-    {
-      "story_id": "story_ec16e714cb98",
-      "title": "Claude半年封杀 1140 万账号申诉翻盘仅4. 2 万，Anthropic还要立规矩禁止虐待AI",
-      "url": "https://www.aibase.com/news/31556",
-      "primary_url": "https://www.aibase.com/news/31556",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "fdb9288b3e1f0b01dd8b9b568a5056b07bdb199f",
-          "title": "Claude半年封杀 1140 万账号申诉翻盘仅4. 2 万，Anthropic还要立规矩禁止虐待AI",
-          "title_zh": "Claude半年封杀 1140 万账号申诉翻盘仅4. 2 万，Anthropic还要立规矩禁止虐待AI",
-          "title_en": null,
-          "title_original": "Claude半年封杀 1140 万账号申诉翻盘仅4. 2 万，Anthropic还要立规矩禁止虐待AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31556",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-12T09:32:36.455093Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "fdb9288b3e1f0b01dd8b9b568a5056b07bdb199f",
-          "title": "Claude半年封杀 1140 万账号申诉翻盘仅4. 2 万，Anthropic还要立规矩禁止虐待AI",
-          "title_zh": "Claude半年封杀 1140 万账号申诉翻盘仅4. 2 万，Anthropic还要立规矩禁止虐待AI",
-          "title_en": null,
-          "title_original": "Claude半年封杀 1140 万账号申诉翻盘仅4. 2 万，Anthropic还要立规矩禁止虐待AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31556",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-12T09:32:36.455093Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7216,
-      "importance": 0.7216,
-      "importance_score": 0.7216,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.684,
-        "source_tier": 0.78,
-        "ai_relevance": 0.95,
-        "recency": 0.8602,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-12T09:32:36.455093Z",
-      "latest_at": "2026-10-12T09:32:36.455093Z",
-      "primary_item": {
-        "id": "fdb9288b3e1f0b01dd8b9b568a5056b07bdb199f",
-        "title": "Claude半年封杀 1140 万账号申诉翻盘仅4. 2 万，Anthropic还要立规矩禁止虐待AI",
-        "title_zh": "Claude半年封杀 1140 万账号申诉翻盘仅4. 2 万，Anthropic还要立规矩禁止虐待AI",
-        "title_en": null,
-        "title_original": "Claude半年封杀 1140 万账号申诉翻盘仅4. 2 万，Anthropic还要立规矩禁止虐待AI",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31556",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-12T19:59:35.401131Z"
-      }
-    },
-    {
-      "story_id": "story_001851d65eda",
-      "title": "OpenAI悄悄挂出未发布生命科学模型gpt-rosalind-discovery，要给药企当\"工具贩子\"",
-      "url": "https://www.aibase.com/news/31554",
-      "primary_url": "https://www.aibase.com/news/31554",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "51646a104dd439f6b214c57d0b6064d0e6fd929e",
-          "title": "OpenAI悄悄挂出未发布生命科学模型gpt-rosalind-discovery，要给药企当\"工具贩子\"",
-          "title_zh": "OpenAI悄悄挂出未发布生命科学模型gpt-rosalind-discovery，要给药企当\"工具贩子\"",
-          "title_en": null,
-          "title_original": "OpenAI悄悄挂出未发布生命科学模型gpt-rosalind-discovery，要给药企当\"工具贩子\"",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31554",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-12T09:18:36.455093Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "51646a104dd439f6b214c57d0b6064d0e6fd929e",
-          "title": "OpenAI悄悄挂出未发布生命科学模型gpt-rosalind-discovery，要给药企当\"工具贩子\"",
-          "title_zh": "OpenAI悄悄挂出未发布生命科学模型gpt-rosalind-discovery，要给药企当\"工具贩子\"",
-          "title_en": null,
-          "title_original": "OpenAI悄悄挂出未发布生命科学模型gpt-rosalind-discovery，要给药企当\"工具贩子\"",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31554",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-12T09:18:36.455093Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7211,
-      "importance": 0.7211,
-      "importance_score": 0.7211,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.684,
-        "source_tier": 0.78,
-        "ai_relevance": 0.95,
-        "recency": 0.8573,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-12T09:18:36.455093Z",
-      "latest_at": "2026-10-12T09:18:36.455093Z",
-      "primary_item": {
-        "id": "51646a104dd439f6b214c57d0b6064d0e6fd929e",
-        "title": "OpenAI悄悄挂出未发布生命科学模型gpt-rosalind-discovery，要给药企当\"工具贩子\"",
-        "title_zh": "OpenAI悄悄挂出未发布生命科学模型gpt-rosalind-discovery，要给药企当\"工具贩子\"",
-        "title_en": null,
-        "title_original": "OpenAI悄悄挂出未发布生命科学模型gpt-rosalind-discovery，要给药企当\"工具贩子\"",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31554",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-12T19:59:35.401131Z"
+        "scored_at": "2026-10-12T23:45:44.409630Z"
       }
     },
     {
@@ -1338,15 +852,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5985,
-      "importance": 0.5985,
-      "importance_score": 0.5985,
+      "score": 0.5894,
+      "importance": 0.5894,
+      "importance_score": 0.5894,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5616,
         "source_tier": 0.32,
         "ai_relevance": 0.78,
-        "recency": 0.9922,
+        "recency": 0.942,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1371,7 +885,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-12T19:59:35.401131Z"
+        "scored_at": "2026-10-12T23:45:44.409630Z"
       }
     },
     {
@@ -1448,15 +962,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6359,
-      "importance": 0.6359,
-      "importance_score": 0.6359,
+      "score": 0.6272,
+      "importance": 0.6272,
+      "importance_score": 0.6272,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.54,
         "source_tier": 0.58,
         "ai_relevance": 0.75,
-        "recency": 0.9515,
+        "recency": 0.9034,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1481,411 +995,219 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-12T19:59:35.401131Z"
+        "scored_at": "2026-10-12T23:45:44.409630Z"
       }
     },
     {
-      "story_id": "story_41427d70694c",
-      "title": "亚马逊拟 70 亿美元收购 Decart，抢下 AI 芯片\"通用适配器\"",
-      "url": "https://www.aibase.com/news/31552",
-      "primary_url": "https://www.aibase.com/news/31552",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_2ade4c1d2535",
+      "title": "Show HN: Atticus – Hold-to-talk voice assistant for macOS that runs on Claude -p",
+      "url": "https://github.com/SaarthurR/atticus-mac",
+      "primary_url": "https://github.com/SaarthurR/atticus-mac",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
       "sources": [
         {
-          "id": "41fcc96c83b71573194983addaf7625bd77dbe23",
-          "title": "亚马逊拟 70 亿美元收购 Decart，抢下 AI 芯片\"通用适配器\"",
-          "title_zh": "亚马逊拟 70 亿美元收购 Decart，抢下 AI 芯片\"通用适配器\"",
-          "title_en": null,
-          "title_original": "亚马逊拟 70 亿美元收购 Decart，抢下 AI 芯片\"通用适配器\"",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31552",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-12T09:13:36.455093Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "41fcc96c83b71573194983addaf7625bd77dbe23",
-          "title": "亚马逊拟 70 亿美元收购 Decart，抢下 AI 芯片\"通用适配器\"",
-          "title_zh": "亚马逊拟 70 亿美元收购 Decart，抢下 AI 芯片\"通用适配器\"",
-          "title_en": null,
-          "title_original": "亚马逊拟 70 亿美元收购 Decart，抢下 AI 芯片\"通用适配器\"",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31552",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-12T09:13:36.455093Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7209,
-      "importance": 0.7209,
-      "importance_score": 0.7209,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.684,
-        "source_tier": 0.78,
-        "ai_relevance": 0.95,
-        "recency": 0.8563,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-12T09:13:36.455093Z",
-      "latest_at": "2026-10-12T09:13:36.455093Z",
-      "primary_item": {
-        "id": "41fcc96c83b71573194983addaf7625bd77dbe23",
-        "title": "亚马逊拟 70 亿美元收购 Decart，抢下 AI 芯片\"通用适配器\"",
-        "title_zh": "亚马逊拟 70 亿美元收购 Decart，抢下 AI 芯片\"通用适配器\"",
-        "title_en": null,
-        "title_original": "亚马逊拟 70 亿美元收购 Decart，抢下 AI 芯片\"通用适配器\"",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31552",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-12T19:59:35.401131Z"
-      }
-    },
-    {
-      "story_id": "story_8044a36c6dff",
-      "title": "Anthropic放手后亚马逊接盘： 70 亿美元洽购Decart，盯上AI芯片间的\"万能转接头\"",
-      "url": "https://www.aibase.com/news/31551",
-      "primary_url": "https://www.aibase.com/news/31551",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "635e8df7bff5aec1f66e2f5d88f872aa3dda7de7",
-          "title": "Anthropic放手后亚马逊接盘： 70 亿美元洽购Decart，盯上AI芯片间的\"万能转接头\"",
-          "title_zh": "Anthropic放手后亚马逊接盘： 70 亿美元洽购Decart，盯上AI芯片间的\"万能转接头\"",
-          "title_en": null,
-          "title_original": "Anthropic放手后亚马逊接盘： 70 亿美元洽购Decart，盯上AI芯片间的\"万能转接头\"",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31551",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-12T09:10:36.455093Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "635e8df7bff5aec1f66e2f5d88f872aa3dda7de7",
-          "title": "Anthropic放手后亚马逊接盘： 70 亿美元洽购Decart，盯上AI芯片间的\"万能转接头\"",
-          "title_zh": "Anthropic放手后亚马逊接盘： 70 亿美元洽购Decart，盯上AI芯片间的\"万能转接头\"",
-          "title_en": null,
-          "title_original": "Anthropic放手后亚马逊接盘： 70 亿美元洽购Decart，盯上AI芯片间的\"万能转接头\"",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31551",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-12T09:10:36.455093Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7208,
-      "importance": 0.7208,
-      "importance_score": 0.7208,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.684,
-        "source_tier": 0.78,
-        "ai_relevance": 0.95,
-        "recency": 0.8556,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-12T09:10:36.455093Z",
-      "latest_at": "2026-10-12T09:10:36.455093Z",
-      "primary_item": {
-        "id": "635e8df7bff5aec1f66e2f5d88f872aa3dda7de7",
-        "title": "Anthropic放手后亚马逊接盘： 70 亿美元洽购Decart，盯上AI芯片间的\"万能转接头\"",
-        "title_zh": "Anthropic放手后亚马逊接盘： 70 亿美元洽购Decart，盯上AI芯片间的\"万能转接头\"",
-        "title_en": null,
-        "title_original": "Anthropic放手后亚马逊接盘： 70 亿美元洽购Decart，盯上AI芯片间的\"万能转接头\"",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31551",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-12T19:59:35.401131Z"
-      }
-    },
-    {
-      "story_id": "story_667c0b5ccb88",
-      "title": "人们对大型语言模型（LLM）能力的共识差距正在扩大 / The gap in shared understanding of LLM capability is widening",
-      "url": "https://twitter.com/karpathy/status/2109361546505966046",
-      "primary_url": "https://twitter.com/karpathy/status/2109361546505966046",
-      "source": "Hacker News front page",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "f13f31797c12838f59f3e07c325c8c00a65cf4a0",
-          "title": "人们对大型语言模型（LLM）能力的共识差距正在扩大 / The gap in shared understanding of LLM capability is widening",
-          "title_zh": "人们对大型语言模型（LLM）能力的共识差距正在扩大",
-          "title_en": "The gap in shared understanding of LLM capability is widening",
-          "title_original": "The gap in shared understanding of LLM capability is widening",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://twitter.com/karpathy/status/2109361546505966046",
-          "source": "Hacker News front page",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-11T20:20:52Z"
-        },
-        {
-          "id": "ff8439be52dcb4f33af60b1dc3e8217af7b89c59",
-          "title": "人们对大型语言模型（LLM）能力的共识差距正在扩大",
-          "title_zh": "人们对大型语言模型（LLM）能力的共识差距正在扩大",
-          "title_en": null,
-          "title_original": "人们对大型语言模型（LLM）能力的共识差距正在扩大",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://twitter.com/karpathy/status/2109361546505966046",
-          "source": "twitter.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-12T00:03:41.228000Z"
-        },
-        {
-          "id": "543336c7453bd62c021d5c77fa16b9da5378a6d2",
-          "title": "The gap in shared understanding of LLM capability is widening",
+          "id": "2fe6fedd49a5e99958abc84cbd0f891412635728",
+          "title": "Show HN: Atticus – Hold-to-talk voice assistant for macOS that runs on Claude -p",
           "title_zh": null,
-          "title_en": "The gap in shared understanding of LLM capability is widening",
-          "title_original": "The gap in shared understanding of LLM capability is widening",
+          "title_en": "Show HN: Atticus – Hold-to-talk voice assistant for macOS that runs on Claude -p",
+          "title_original": "Show HN: Atticus – Hold-to-talk voice assistant for macOS that runs on Claude -p",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50047422",
+          "url": "https://github.com/SaarthurR/atticus-mac",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-12T00:15:12Z"
+        },
+        {
+          "id": "12621b09ca8e70466e06fdab25b956d4f6d12372",
+          "title": "Show HN: Atticus – Hold-to-talk voice assistant for macOS that runs on Claude -p",
+          "title_zh": null,
+          "title_en": "Show HN: Atticus – Hold-to-talk voice assistant for macOS that runs on Claude -p",
+          "title_original": "Show HN: Atticus – Hold-to-talk voice assistant for macOS that runs on Claude -p",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50049588",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-11T20:20:52Z"
+          "published_at": "2026-10-12T00:15:12Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 2,
       "source_names": [
-        "Hacker News front page",
-        "hackernews",
-        "twitter.com"
+        "Hacker News · 24h最热",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "f13f31797c12838f59f3e07c325c8c00a65cf4a0",
-          "title": "人们对大型语言模型（LLM）能力的共识差距正在扩大 / The gap in shared understanding of LLM capability is widening",
-          "title_zh": "人们对大型语言模型（LLM）能力的共识差距正在扩大",
-          "title_en": "The gap in shared understanding of LLM capability is widening",
-          "title_original": "The gap in shared understanding of LLM capability is widening",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://twitter.com/karpathy/status/2109361546505966046",
-          "source": "Hacker News front page",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-11T20:20:52Z"
-        },
-        {
-          "id": "ff8439be52dcb4f33af60b1dc3e8217af7b89c59",
-          "title": "人们对大型语言模型（LLM）能力的共识差距正在扩大",
-          "title_zh": "人们对大型语言模型（LLM）能力的共识差距正在扩大",
-          "title_en": null,
-          "title_original": "人们对大型语言模型（LLM）能力的共识差距正在扩大",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://twitter.com/karpathy/status/2109361546505966046",
-          "source": "twitter.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-12T00:03:41.228000Z"
-        },
-        {
-          "id": "543336c7453bd62c021d5c77fa16b9da5378a6d2",
-          "title": "The gap in shared understanding of LLM capability is widening",
+          "id": "2fe6fedd49a5e99958abc84cbd0f891412635728",
+          "title": "Show HN: Atticus – Hold-to-talk voice assistant for macOS that runs on Claude -p",
           "title_zh": null,
-          "title_en": "The gap in shared understanding of LLM capability is widening",
-          "title_original": "The gap in shared understanding of LLM capability is widening",
+          "title_en": "Show HN: Atticus – Hold-to-talk voice assistant for macOS that runs on Claude -p",
+          "title_original": "Show HN: Atticus – Hold-to-talk voice assistant for macOS that runs on Claude -p",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50047422",
+          "url": "https://github.com/SaarthurR/atticus-mac",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-12T00:15:12Z"
+        },
+        {
+          "id": "12621b09ca8e70466e06fdab25b956d4f6d12372",
+          "title": "Show HN: Atticus – Hold-to-talk voice assistant for macOS that runs on Claude -p",
+          "title_zh": null,
+          "title_en": "Show HN: Atticus – Hold-to-talk voice assistant for macOS that runs on Claude -p",
+          "title_original": "Show HN: Atticus – Hold-to-talk voice assistant for macOS that runs on Claude -p",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50049588",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-11T20:20:52Z"
+          "published_at": "2026-10-12T00:15:12Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.63,
-      "importance": 0.63,
-      "importance_score": 0.63,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5068,
+      "importance": 0.5068,
+      "importance_score": 0.5068,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.5616,
-        "source_tier": 0.58,
-        "ai_relevance": 0.78,
-        "recency": 0.7109,
-        "story_heat": 0.5
+        "editorial": 0.4896,
+        "source_tier": 0.32,
+        "ai_relevance": 0.68,
+        "recency": 0.7141,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-11T20:20:52Z",
-      "latest_at": "2026-10-12T00:03:41.228000Z",
+      "earliest_at": "2026-10-12T00:15:12Z",
+      "latest_at": "2026-10-12T00:15:12Z",
       "primary_item": {
-        "id": "f13f31797c12838f59f3e07c325c8c00a65cf4a0",
-        "title": "人们对大型语言模型（LLM）能力的共识差距正在扩大 / The gap in shared understanding of LLM capability is widening",
-        "title_zh": "人们对大型语言模型（LLM）能力的共识差距正在扩大",
-        "title_en": "The gap in shared understanding of LLM capability is widening",
-        "title_original": "The gap in shared understanding of LLM capability is widening",
+        "id": "2fe6fedd49a5e99958abc84cbd0f891412635728",
+        "title": "Show HN: Atticus – Hold-to-talk voice assistant for macOS that runs on Claude -p",
+        "title_zh": null,
+        "title_en": "Show HN: Atticus – Hold-to-talk voice assistant for macOS that runs on Claude -p",
+        "title_original": "Show HN: Atticus – Hold-to-talk voice assistant for macOS that runs on Claude -p",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://twitter.com/karpathy/status/2109361546505966046",
-        "source": "Hacker News front page",
-        "source_name": "Curated Media"
+        "url": "https://github.com/SaarthurR/atticus-mac",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-12T19:59:35.401131Z"
+        "scored_at": "2026-10-12T23:45:44.409630Z"
       }
     },
     {
-      "story_id": "story_914b92508f61",
-      "title": "通过集体智慧实现递归式自我提升 / Recursive self-improvement through collective intelligence",
-      "url": "https://pub.sakana.ai/mass",
-      "primary_url": "https://pub.sakana.ai/mass",
+      "story_id": "story_75693946bd76",
+      "title": "人工智能是一种工具。要善用它，需要技巧。 / AI Is a Tool. Using It Well Takes Skill.",
+      "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool",
+      "primary_url": "https://yyhh.org/blog/2026/10/ai-is-a-tool",
       "source": "Hacker News front page",
       "source_name": "Curated Media",
       "sources": [
         {
-          "id": "b51a2cf5a4c355ca75858ce6175b9ec9f900afc6",
-          "title": "通过集体智慧实现递归式自我提升 / Recursive self-improvement through collective intelligence",
-          "title_zh": "通过集体智慧实现递归式自我提升",
-          "title_en": "Recursive self-improvement through collective intelligence",
-          "title_original": "Recursive self-improvement through collective intelligence",
+          "id": "b4d4ae6ed840f066a214899d24a5822af306d20e",
+          "title": "人工智能是一种工具。要善用它，需要技巧。 / AI Is a Tool. Using It Well Takes Skill.",
+          "title_zh": "人工智能是一种工具。要善用它，需要技巧。",
+          "title_en": "AI Is a Tool. Using It Well Takes Skill.",
+          "title_original": "AI Is a Tool. Using It Well Takes Skill.",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://pub.sakana.ai/mass",
+          "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool",
           "source": "Hacker News front page",
           "source_name": "Curated Media",
           "site_id": "curated_media",
-          "published_at": "2026-10-11T22:22:10Z"
+          "published_at": "2026-10-12T21:40:18Z"
         },
         {
-          "id": "a1e7269f5b859e3b4f2025c35280cdf10237567b",
-          "title": "Recursive self-improvement through collective intelligence",
-          "title_zh": null,
-          "title_en": "Recursive self-improvement through collective intelligence",
-          "title_original": "Recursive self-improvement through collective intelligence",
+          "id": "f34b5760b361ac6365cef93dd32f3fd17f8cad23",
+          "title": "人工智能是一种工具。要善用它，需要技巧。",
+          "title_zh": "人工智能是一种工具。要善用它，需要技巧。",
+          "title_en": null,
+          "title_original": "人工智能是一种工具。要善用它，需要技巧。",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50048522",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-11T22:22:10Z"
+          "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool",
+          "source": "yyhh.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-12T22:51:56.438000Z"
         }
       ],
       "source_count": 2,
       "source_names": [
         "Hacker News front page",
-        "hackernews"
+        "yyhh.org"
       ],
       "items": [
         {
-          "id": "b51a2cf5a4c355ca75858ce6175b9ec9f900afc6",
-          "title": "通过集体智慧实现递归式自我提升 / Recursive self-improvement through collective intelligence",
-          "title_zh": "通过集体智慧实现递归式自我提升",
-          "title_en": "Recursive self-improvement through collective intelligence",
-          "title_original": "Recursive self-improvement through collective intelligence",
+          "id": "b4d4ae6ed840f066a214899d24a5822af306d20e",
+          "title": "人工智能是一种工具。要善用它，需要技巧。 / AI Is a Tool. Using It Well Takes Skill.",
+          "title_zh": "人工智能是一种工具。要善用它，需要技巧。",
+          "title_en": "AI Is a Tool. Using It Well Takes Skill.",
+          "title_original": "AI Is a Tool. Using It Well Takes Skill.",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://pub.sakana.ai/mass",
+          "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool",
           "source": "Hacker News front page",
           "source_name": "Curated Media",
           "site_id": "curated_media",
-          "published_at": "2026-10-11T22:22:10Z"
+          "published_at": "2026-10-12T21:40:18Z"
         },
         {
-          "id": "a1e7269f5b859e3b4f2025c35280cdf10237567b",
-          "title": "Recursive self-improvement through collective intelligence",
-          "title_zh": null,
-          "title_en": "Recursive self-improvement through collective intelligence",
-          "title_original": "Recursive self-improvement through collective intelligence",
+          "id": "f34b5760b361ac6365cef93dd32f3fd17f8cad23",
+          "title": "人工智能是一种工具。要善用它，需要技巧。",
+          "title_zh": "人工智能是一种工具。要善用它，需要技巧。",
+          "title_en": null,
+          "title_original": "人工智能是一种工具。要善用它，需要技巧。",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50048522",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-11T22:22:10Z"
+          "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool",
+          "source": "yyhh.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-12T22:51:56.438000Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6213,
-      "importance": 0.6213,
-      "importance_score": 0.6213,
+      "score": 0.5747,
+      "importance": 0.5747,
+      "importance_score": 0.5747,
       "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.5832,
+        "editorial": 0.45,
         "source_tier": 0.58,
-        "ai_relevance": 0.81,
-        "recency": 0.732,
+        "ai_relevance": 0.56,
+        "recency": 0.973,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
-        "multi_source",
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-10-11T22:22:10Z",
-      "latest_at": "2026-10-11T22:22:10Z",
+      "earliest_at": "2026-10-12T21:40:18Z",
+      "latest_at": "2026-10-12T22:51:56.438000Z",
       "primary_item": {
-        "id": "b51a2cf5a4c355ca75858ce6175b9ec9f900afc6",
-        "title": "通过集体智慧实现递归式自我提升 / Recursive self-improvement through collective intelligence",
-        "title_zh": "通过集体智慧实现递归式自我提升",
-        "title_en": "Recursive self-improvement through collective intelligence",
-        "title_original": "Recursive self-improvement through collective intelligence",
+        "id": "b4d4ae6ed840f066a214899d24a5822af306d20e",
+        "title": "人工智能是一种工具。要善用它，需要技巧。 / AI Is a Tool. Using It Well Takes Skill.",
+        "title_zh": "人工智能是一种工具。要善用它，需要技巧。",
+        "title_en": "AI Is a Tool. Using It Well Takes Skill.",
+        "title_original": "AI Is a Tool. Using It Well Takes Skill.",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://pub.sakana.ai/mass",
+        "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool",
         "source": "Hacker News front page",
         "source_name": "Curated Media"
       },
@@ -1893,7 +1215,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-12T19:59:35.401131Z"
+        "scored_at": "2026-10-12T23:45:44.409630Z"
+      }
+    },
+    {
+      "story_id": "story_de430e8992a2",
+      "title": "凯文·凯利2016年对人工智能的预测，10年后回顾 / Kevin Kelly's 2016 AI Predictions, 10 Years Later",
+      "url": "https://taylor.town/kk-ai-2026",
+      "primary_url": "https://taylor.town/kk-ai-2026",
+      "source": "Hacker News front page",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "dc1209739b0b90f0f8d5ec2f586a5dc7b2848dca",
+          "title": "凯文·凯利2016年对人工智能的预测，10年后回顾 / Kevin Kelly's 2016 AI Predictions, 10 Years Later",
+          "title_zh": "凯文·凯利2016年对人工智能的预测，10年后回顾",
+          "title_en": "Kevin Kelly's 2016 AI Predictions, 10 Years Later",
+          "title_original": "Kevin Kelly's 2016 AI Predictions, 10 Years Later",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://taylor.town/kk-ai-2026",
+          "source": "Hacker News front page",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-12T15:16:45Z"
+        },
+        {
+          "id": "7d214b228980efc495c6e0ff08772c673a91ca19",
+          "title": "凯文·凯利2016年对人工智能的预测，10年后回顾",
+          "title_zh": "凯文·凯利2016年对人工智能的预测，10年后回顾",
+          "title_en": null,
+          "title_original": "凯文·凯利2016年对人工智能的预测，10年后回顾",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://taylor.town/kk-ai-2026",
+          "source": "taylor.town",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-12T21:48:54.856000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News front page",
+        "taylor.town"
+      ],
+      "items": [
+        {
+          "id": "dc1209739b0b90f0f8d5ec2f586a5dc7b2848dca",
+          "title": "凯文·凯利2016年对人工智能的预测，10年后回顾 / Kevin Kelly's 2016 AI Predictions, 10 Years Later",
+          "title_zh": "凯文·凯利2016年对人工智能的预测，10年后回顾",
+          "title_en": "Kevin Kelly's 2016 AI Predictions, 10 Years Later",
+          "title_original": "Kevin Kelly's 2016 AI Predictions, 10 Years Later",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://taylor.town/kk-ai-2026",
+          "source": "Hacker News front page",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-12T15:16:45Z"
+        },
+        {
+          "id": "7d214b228980efc495c6e0ff08772c673a91ca19",
+          "title": "凯文·凯利2016年对人工智能的预测，10年后回顾",
+          "title_zh": "凯文·凯利2016年对人工智能的预测，10年后回顾",
+          "title_en": null,
+          "title_original": "凯文·凯利2016年对人工智能的预测，10年后回顾",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://taylor.town/kk-ai-2026",
+          "source": "taylor.town",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-12T21:48:54.856000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5593,
+      "importance": 0.5593,
+      "importance_score": 0.5593,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.45,
+        "source_tier": 0.58,
+        "ai_relevance": 0.56,
+        "recency": 0.8872,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-12T15:16:45Z",
+      "latest_at": "2026-10-12T21:48:54.856000Z",
+      "primary_item": {
+        "id": "dc1209739b0b90f0f8d5ec2f586a5dc7b2848dca",
+        "title": "凯文·凯利2016年对人工智能的预测，10年后回顾 / Kevin Kelly's 2016 AI Predictions, 10 Years Later",
+        "title_zh": "凯文·凯利2016年对人工智能的预测，10年后回顾",
+        "title_en": "Kevin Kelly's 2016 AI Predictions, 10 Years Later",
+        "title_original": "Kevin Kelly's 2016 AI Predictions, 10 Years Later",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://taylor.town/kk-ai-2026",
+        "source": "Hacker News front page",
+        "source_name": "Curated Media"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-12T23:45:44.409630Z"
       }
     },
     {
@@ -1970,15 +1402,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5586,
-      "importance": 0.5586,
-      "importance_score": 0.5586,
+      "score": 0.5505,
+      "importance": 0.5505,
+      "importance_score": 0.5505,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.45,
         "source_tier": 0.58,
         "ai_relevance": 0.56,
-        "recency": 0.8832,
+        "recency": 0.8385,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -2003,7 +1435,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-12T19:59:35.401131Z"
+        "scored_at": "2026-10-12T23:45:44.409630Z"
+      }
+    },
+    {
+      "story_id": "story_613afea439d0",
+      "title": "Linux手机能否成为Android/iOS双头垄断的可行替代方案？ / Will Linux phones become a viable alternative to the Android/iOS duopoly?",
+      "url": "https://amosbbatto.wordpress.com/2026/10/05/linux-phones-alternative",
+      "primary_url": "https://amosbbatto.wordpress.com/2026/10/05/linux-phones-alternative",
+      "source": "Hacker News front page",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "d4378b42aa82d46dd6b05a4df0120857ebcd45dd",
+          "title": "Linux手机能否成为Android/iOS双头垄断的可行替代方案？ / Will Linux phones become a viable alternative to the Android/iOS duopoly?",
+          "title_zh": "Linux手机能否成为Android/iOS双头垄断的可行替代方案？",
+          "title_en": "Will Linux phones become a viable alternative to the Android/iOS duopoly?",
+          "title_original": "Will Linux phones become a viable alternative to the Android/iOS duopoly?",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://amosbbatto.wordpress.com/2026/10/05/linux-phones-alternative",
+          "source": "Hacker News front page",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-12T04:54:00Z"
+        },
+        {
+          "id": "e1eb3bdbf85e1ce38c45cd28e231fc613f5a2000",
+          "title": "Linux手机能否成为Android/iOS双头垄断的可行替代方案？",
+          "title_zh": "Linux手机能否成为Android/iOS双头垄断的可行替代方案？",
+          "title_en": null,
+          "title_original": "Linux手机能否成为Android/iOS双头垄断的可行替代方案？",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://amosbbatto.wordpress.com/2026/10/05/linux-phones-alternative",
+          "source": "amosbbatto.wordpress.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-12T08:03:21.922000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News front page",
+        "amosbbatto.wordpress.com"
+      ],
+      "items": [
+        {
+          "id": "d4378b42aa82d46dd6b05a4df0120857ebcd45dd",
+          "title": "Linux手机能否成为Android/iOS双头垄断的可行替代方案？ / Will Linux phones become a viable alternative to the Android/iOS duopoly?",
+          "title_zh": "Linux手机能否成为Android/iOS双头垄断的可行替代方案？",
+          "title_en": "Will Linux phones become a viable alternative to the Android/iOS duopoly?",
+          "title_original": "Will Linux phones become a viable alternative to the Android/iOS duopoly?",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://amosbbatto.wordpress.com/2026/10/05/linux-phones-alternative",
+          "source": "Hacker News front page",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-12T04:54:00Z"
+        },
+        {
+          "id": "e1eb3bdbf85e1ce38c45cd28e231fc613f5a2000",
+          "title": "Linux手机能否成为Android/iOS双头垄断的可行替代方案？",
+          "title_zh": "Linux手机能否成为Android/iOS双头垄断的可行替代方案？",
+          "title_en": null,
+          "title_original": "Linux手机能否成为Android/iOS双头垄断的可行替代方案？",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://amosbbatto.wordpress.com/2026/10/05/linux-phones-alternative",
+          "source": "amosbbatto.wordpress.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-12T08:03:21.922000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5491,
+      "importance": 0.5491,
+      "importance_score": 0.5491,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.45,
+        "source_tier": 0.58,
+        "ai_relevance": 0.62,
+        "recency": 0.7637,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-12T04:54:00Z",
+      "latest_at": "2026-10-12T08:03:21.922000Z",
+      "primary_item": {
+        "id": "d4378b42aa82d46dd6b05a4df0120857ebcd45dd",
+        "title": "Linux手机能否成为Android/iOS双头垄断的可行替代方案？ / Will Linux phones become a viable alternative to the Android/iOS duopoly?",
+        "title_zh": "Linux手机能否成为Android/iOS双头垄断的可行替代方案？",
+        "title_en": "Will Linux phones become a viable alternative to the Android/iOS duopoly?",
+        "title_original": "Will Linux phones become a viable alternative to the Android/iOS duopoly?",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://amosbbatto.wordpress.com/2026/10/05/linux-phones-alternative",
+        "source": "Hacker News front page",
+        "source_name": "Curated Media"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-12T23:45:44.409630Z"
       }
     }
   ]
