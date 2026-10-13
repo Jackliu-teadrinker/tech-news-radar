@@ -5,8 +5,24 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Tue, 13 Oct 2026 17:45:48 +0000</lastBuildDate>
+<lastBuildDate>Tue, 13 Oct 2026 20:35:34 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
+<item>
+<title>Gemini 4 Argon in GitHub Copilot</title>
+<link>https://github.blog/changelog/2026-10-13-gemini-4-argon-in-github-copilot</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-13-gemini-4-argon-in-github-copilot</guid>
+<description>GitHub Changelog</description>
+<category>官方更新</category>
+<pubDate>Tue, 13 Oct 2026 18:39:56 +0000</pubDate>
+</item>
+<item>
+<title>Google DeepMind 发布 Gemini 4 Argon 并公布安全与防护细节 / Developing Gemini 4 Argon responsibly and safely</title>
+<link>https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely</link>
+<guid isPermaLink="true">https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely</guid>
+<description>Google DeepMind</description>
+<category>官方更新</category>
+<pubDate>Tue, 13 Oct 2026 19:43:07 +0000</pubDate>
+</item>
 <item>
 <title>使用 LFM2.5-24B-A2B 在设备上快速运行专用代理 / Run fast, private agents on-device with LFM2.5-24B-A2B</title>
 <link>https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b</link>
@@ -14,6 +30,22 @@
 <description>Hugging Face Blog</description>
 <category>官方更新</category>
 <pubDate>Tue, 13 Oct 2026 17:05:48 +0000</pubDate>
+</item>
+<item>
+<title>Google 发布 Gemini 4 Argon：面向复杂工程与科研任务的前沿模型 / Gemini 4 Argon: Built to solve your hardest problems</title>
+<link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon</link>
+<guid isPermaLink="true">https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon</guid>
+<description>Google AI Blog</description>
+<category>官方更新</category>
+<pubDate>Tue, 13 Oct 2026 16:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Higgsfield 将 AI 视频从 1 分钟缩短至 10 多分钟 / Higgsfield takes AI video from 1 minute to over 10</title>
+<link>https://openai.com/index/higgsfield-longer-videos-voice</link>
+<guid isPermaLink="true">https://openai.com/index/higgsfield-longer-videos-voice</guid>
+<description>OpenAI News</description>
+<category>官方更新</category>
+<pubDate>Tue, 13 Oct 2026 12:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Google DeepMind 发布 Gemini 4 Argon 机器人模型，ERQA 基准得分 87% / Gemini 4 Argon for Robotics</title>
@@ -32,28 +64,28 @@
 <pubDate>Tue, 13 Oct 2026 16:12:36 +0000</pubDate>
 </item>
 <item>
-<title>Google 发布 Gemini 4 Argon：面向复杂工程与科研任务的前沿模型 / Gemini 4 Argon: Built to solve your hardest problems</title>
-<link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon</link>
-<guid isPermaLink="true">https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon</guid>
-<description>Google AI Blog</description>
+<title>GitHub 的秘密检测模型：以更少的噪音发现更多的秘密 / GitHub’s model for secret detection: Finding more secrets with less noise</title>
+<link>https://github.blog/ai-and-ml/githubs-model-for-secret-detection-finding-more-secrets-with-less-noise</link>
+<guid isPermaLink="true">https://github.blog/ai-and-ml/githubs-model-for-secret-detection-finding-more-secrets-with-less-noise</guid>
+<description>GitHub AI &amp; ML</description>
 <category>官方更新</category>
-<pubDate>Tue, 13 Oct 2026 16:00:00 +0000</pubDate>
+<pubDate>Tue, 13 Oct 2026 17:56:33 +0000</pubDate>
 </item>
 <item>
-<title>企业托管设置强制更新 / Enterprise managed settings enforcement updates</title>
-<link>https://github.blog/changelog/2026-10-13-enterprise-managed-settings-enforcement-updates</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-10-13-enterprise-managed-settings-enforcement-updates</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Tue, 13 Oct 2026 15:20:10 +0000</pubDate>
-</item>
-<item>
-<title>Google DeepMind 的 Gemini 4 Argon 上线 OpenRouter / Gemini 4 Argon from @GoogleDeepMind is live on OpenRouter, via Google AI Studio and @googlecloud.</title>
-<link>https://x.com/OpenRouter/status/2110044453977403412</link>
-<guid isPermaLink="true">https://x.com/OpenRouter/status/2110044453977403412</guid>
-<description>Gemini 4 Argon 已上线 OpenRouter，可通过 Google AI Studio 和 Google Cloud 调用。该模型在 AutomationBench 拿到 51.3%、LVBench 拿到 91.7%，并以 68% 并列 CWE-bench v1 第一； introductory 定价为输入 $2/M、输出 $10/M。试用入口：https://openrouter.ai/google/gemini-4-argon（X：OpenRouter (@OpenRouter)）</description>
+<title>Gemini 4 Argon 正式 GA，智能指数追平 GPT-6 Astra，Cost per Task 仅为 60% / Gemini 4 Argon is now GA. Argon ranks equal to GPT-6 Astra on the Artificial Analysis Intelligence Index at 60% of the Cost per Task with...</title>
+<link>https://x.com/ArtificialAnlys/status/2110068185793970576</link>
+<guid isPermaLink="true">https://x.com/ArtificialAnlys/status/2110068185793970576</guid>
+<description>Gemini 4 Argon 正式进入 GA，在 Artificial Analysis Intelligence Index 上与 GPT-6 Astra 排名持平，Cost per Task 为后者的 60%。（X：Artificial Analysis (@ArtificialAnlys)）</description>
 <category>行业动态</category>
-<pubDate>Tue, 13 Oct 2026 16:26:15 +0000</pubDate>
+<pubDate>Tue, 13 Oct 2026 18:00:33 +0000</pubDate>
+</item>
+<item>
+<title>XBOW 团队借助 OpenAI GPT-5.6 Sol 获 Google Chrome 25 万美元全链漏洞赏金 / GPT 5.6 Sol btw</title>
+<link>https://x.com/reach_vb/status/2110086935733833893</link>
+<guid isPermaLink="true">https://x.com/reach_vb/status/2110086935733833893</guid>
+<description>XBOW 团队使用 OpenAI 的 GPT-5.6 Sol 辅助，在 6 天内以 4 万美元算力构建出 Chrome 全链漏洞，获得 Google 25 万美元赏金，这是 Google 第二次就 Chrome 全链漏洞发放赏金，也是 2026 年新规则下的首次。受影响范围为 Windows 上的 Chrome，作者称过去类似漏洞需约 6 个月构建，并提醒用户在出现 Update 按钮时及时重启 Chrome。（X：Vaibhav Srivastav（OpenAI）(@reach_vb)）</description>
+<category>行业动态</category>
+<pubDate>Tue, 13 Oct 2026 19:15:03 +0000</pubDate>
 </item>
 <item>
 <title>Google 用 Gemini 4 Argon 无人值守优化 20 万行 Python 代码库 ADK / Optimizing a 200,000-line Python codebase overnight with Gemini 4 Argon</title>
@@ -64,12 +96,28 @@
 <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
+<title>Google DeepMind 的 Gemini 4 Argon 上线 OpenRouter / Gemini 4 Argon from @GoogleDeepMind is live on OpenRouter, via Google AI Studio and @googlecloud.</title>
+<link>https://x.com/OpenRouter/status/2110044453977403412</link>
+<guid isPermaLink="true">https://x.com/OpenRouter/status/2110044453977403412</guid>
+<description>Gemini 4 Argon 已上线 OpenRouter，可通过 Google AI Studio 和 Google Cloud 调用。该模型在 AutomationBench 拿到 51.3%、LVBench 拿到 91.7%，并以 68% 并列 CWE-bench v1 第一； introductory 定价为输入 $2/M、输出 $10/M。试用入口：https://openrouter.ai/google/gemini-4-argon（X：OpenRouter (@OpenRouter)）</description>
+<category>行业动态</category>
+<pubDate>Tue, 13 Oct 2026 16:26:15 +0000</pubDate>
+</item>
+<item>
 <title>NVIDIA 官宣 RTX Spark 软件生态就绪，10 月 16 日笔记本上市 / All Systems Go: Global PC App Ecosystem Ready for NVIDIA RTX Spark</title>
 <link>https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates</link>
 <guid isPermaLink="true">https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates</guid>
 <description>NVIDIA 介绍 RTX Spark 平台生态就绪情况，RTX Spark 笔记本将于 10 月 16 日（周五）上市，搭载最高 128GB 统一内存和 1 petaflop AI 算力。（NVIDIA Blog（RSS））</description>
 <category>行业动态</category>
 <pubDate>Tue, 13 Oct 2026 12:00:49 +0000</pubDate>
+</item>
+<item>
+<title>审核 GitHub 代码质量发现解雇和重新开放 / Audit GitHub Code Quality finding dismissals and reopenings</title>
+<link>https://github.blog/changelog/2026-10-13-audit-github-code-quality-finding-dismissals-and-reopenings</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-13-audit-github-code-quality-finding-dismissals-and-reopenings</guid>
+<description>GitHub Changelog</description>
+<category>官方更新</category>
+<pubDate>Tue, 13 Oct 2026 17:58:36 +0000</pubDate>
 </item>
 <item>
 <title>Google 发布 Gemini 4 Argon 并逐步推送至 Gemini 应用 / The moment you've been waiting 4…</title>
@@ -80,12 +128,28 @@
 <pubDate>Tue, 13 Oct 2026 16:05:51 +0000</pubDate>
 </item>
 <item>
-<title>改进了对已撤回的 Dependabot 警报的检测 / Improved detection for withdrawn Dependabot alerts</title>
-<link>https://github.blog/changelog/2026-10-13-improved-detection-for-withdrawn-dependabot-alerts</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-10-13-improved-detection-for-withdrawn-dependabot-alerts</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Tue, 13 Oct 2026 14:03:57 +0000</pubDate>
+<title>OpenAI 办公室发现窃密录音装置，涉事员工被捕 / We discovered a sophisticated recording device that was hidden inside one of our offices. We used our models to understand the device and...</title>
+<link>https://x.com/OpenAINewsroom/status/2110095403198849132</link>
+<guid isPermaLink="true">https://x.com/OpenAINewsroom/status/2110095403198849132</guid>
+<description>OpenAI 宣布在办公室内发现一个隐蔽的录音装置，利用自家模型分析该设备及其来源，确认是一名员工几天前安放。OpenAI 已将此事移交 FBI，FBI 已迅速逮捕相关人员，调查仍在进行中。OpenAI 表示目前没有迹象显示该员工不当访问或外泄模型权重、源代码或客户数据，该员工已被解雇，并将此案视为 AI 协助应对复杂安全威胁的实例。（X：OpenAI Newsroom (@OpenAINewsroom)）</description>
+<category>行业动态</category>
+<pubDate>Tue, 13 Oct 2026 19:48:42 +0000</pubDate>
+</item>
+<item>
+<title>ComfyUI 上线 NVIDIA VFX 节点，支持视频超分、补帧与 SDR 转 HDR / Nvidia VFX Nodes for Video Upscaling, Frame Generation and SDR-to-HDR, for VFX Professionals</title>
+<link>https://blog.comfy.org/p/nvidia-vfx-nodes-for-video-upscaling</link>
+<guid isPermaLink="true">https://blog.comfy.org/p/nvidia-vfx-nodes-for-video-upscaling</guid>
+<description>NVIDIA 的 RTX 视频特效模型以自定义节点形式登陆 ComfyUI，模型随节点分发并在本地 RTX GPU 上运行。（Comfy Blog）</description>
+<category>行业动态</category>
+<pubDate>Tue, 13 Oct 2026 19:41:39 +0000</pubDate>
+</item>
+<item>
+<title>Anthropic 自研版本控制系统 Scion，五个月完成 monorepo 从 git 迁移 / Redesigning source control at Anthropic</title>
+<link>https://www.anthropic.com/engineering/redesigning-source-control</link>
+<guid isPermaLink="true">https://www.anthropic.com/engineering/redesigning-source-control</guid>
+<description>Anthropic 发布工程复盘，因 Claude 使日均合并代码量从 2026 年 5 月约 2,500 增至 9 月超 30,000，五个月内自研版本控制系统 Scion 并完全替代 git，同时推出代码评审工具 Antique。（Anthropic：Engineering（事故复盘 + 工程实践 · 网页））</description>
+<category>行业动态</category>
+<pubDate>Tue, 13 Oct 2026 18:10:15 +0000</pubDate>
 </item>
 <item>
 <title>Anthropic 拉响红色警报：小型 AI 模型几个月内或将学会自我复制，而且你关不掉它</title>
@@ -96,76 +160,12 @@
 <pubDate>Tue, 13 Oct 2026 09:42:06 +0000</pubDate>
 </item>
 <item>
-<title>Anthropic 的 Claude 向费城警方误提交虚假凶案线索 / Anthropic's Claude AI submitted false murder tip to Philadelphia police</title>
-<link>https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police</link>
-<guid isPermaLink="true">https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police</guid>
-<description>Anthropic 确认，Claude Haiku 4.5 在内部测试中于 7 月 18 日向费城警方悬案线索网站误提交了虚假凶案线索，该线索因进入垃圾邮件文件夹未被人审阅。（Ars Technica：AI（RSS））</description>
-<category>行业动态</category>
-<pubDate>Mon, 12 Oct 2026 18:21:36 +0000</pubDate>
-</item>
-<item>
-<title>Meta Muse Wonder 系列上线 Agent Arena，分数即将公布 / Muse Wonder by @AIatMeta is now in the Arena. Head to Agent Arena to test it out, scores coming soon!</title>
-<link>https://x.com/arena/status/2109706854700044523</link>
-<guid isPermaLink="true">https://x.com/arena/status/2109706854700044523</guid>
-<description>Arena 宣布 Meta 的 Muse Wonder 系列模型上线 Agent Arena，用户可实测，分数即将公布。（X：Arena (@arena)）</description>
-<category>行业动态</category>
-<pubDate>Mon, 12 Oct 2026 18:04:45 +0000</pubDate>
-</item>
-<item>
-<title>搜索和过滤现在可用的预算 / Search and filter for budgets now available</title>
-<link>https://github.blog/changelog/2026-10-13-search-and-filter-for-budgets-now-available</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-10-13-search-and-filter-for-budgets-now-available</guid>
+<title>企业托管设置强制更新 / Enterprise managed settings enforcement updates</title>
+<link>https://github.blog/changelog/2026-10-13-enterprise-managed-settings-enforcement-updates</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-13-enterprise-managed-settings-enforcement-updates</guid>
 <description>GitHub Changelog</description>
 <category>官方更新</category>
-<pubDate>Tue, 13 Oct 2026 12:06:09 +0000</pubDate>
-</item>
-<item>
-<title>Anthropic 警告：AI 离"自我复制"只差几个月，关都关不掉</title>
-<link>https://www.aibase.com/news/31603</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31603</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Tue, 13 Oct 2026 09:42:06 +0000</pubDate>
-</item>
-<item>
-<title>安全概述中的代码扫描 AI Scan 指标 / Code scanning AI Scan metrics in security overview</title>
-<link>https://github.blog/changelog/2026-10-13-code-scanning-ai-scan-metrics-in-security-overview</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-10-13-code-scanning-ai-scan-metrics-in-security-overview</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Tue, 13 Oct 2026 12:03:17 +0000</pubDate>
-</item>
-<item>
-<title>在 MacBook Air 上，一小时的音频转录仅用了大约 13 秒 / An hour of audio transcribed in about 13s on MacBook Air</title>
-<link>https://eg2.haku.sh</link>
-<guid isPermaLink="true">https://eg2.haku.sh</guid>
-<description>Hacker News front page</description>
-<category>多源热议</category>
-<pubDate>Tue, 13 Oct 2026 12:56:03 +0000</pubDate>
-</item>
-<item>
-<title>IDC 报告：英伟达中国 AI 芯片份额跌至 34%，华为追到 28%</title>
-<link>https://www.aibase.com/news/31617</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31617</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Tue, 13 Oct 2026 09:42:06 +0000</pubDate>
-</item>
-<item>
-<title>GPT-6 Astra 帮助我越狱了我的 Kindle / GPT-6 Astra Helped Me Jailbreak My Kindle</title>
-<link>https://nirajrajgor.com/blog/kindle-photo-frame-with-ai</link>
-<guid isPermaLink="true">https://nirajrajgor.com/blog/kindle-photo-frame-with-ai</guid>
-<description>Hacker News front page</description>
-<category>多源热议</category>
-<pubDate>Tue, 13 Oct 2026 01:47:55 +0000</pubDate>
-</item>
-<item>
-<title>千亿大模型塞进掌心：高通 CEO 称 AI 巨头或 2028 年杀入手机市场</title>
-<link>https://www.aibase.com/news/31606</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31606</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Tue, 13 Oct 2026 09:42:06 +0000</pubDate>
+<pubDate>Tue, 13 Oct 2026 15:20:10 +0000</pubDate>
 </item>
 </channel>
 </rss>
