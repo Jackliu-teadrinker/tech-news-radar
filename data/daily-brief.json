@@ -1,29 +1,195 @@
 {
-  "generated_at": "2026-10-13T14:56:32.596988Z",
+  "generated_at": "2026-10-13T17:45:48.662317Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_564a92d1b485",
-      "title": "改进了对已撤回的 Dependabot 警报的检测 / Improved detection for withdrawn Dependabot alerts",
-      "url": "https://github.blog/changelog/2026-10-13-improved-detection-for-withdrawn-dependabot-alerts",
-      "primary_url": "https://github.blog/changelog/2026-10-13-improved-detection-for-withdrawn-dependabot-alerts",
+      "story_id": "story_e4780bdccfac",
+      "title": "使用 LFM2.5-24B-A2B 在设备上快速运行专用代理 / Run fast, private agents on-device with LFM2.5-24B-A2B",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
+      "primary_url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "567ee7a3adaf80d955228f167072a768666a7393",
+          "title": "使用 LFM2.5-24B-A2B 在设备上快速运行专用代理 / Run fast, private agents on-device with LFM2.5-24B-A2B",
+          "title_zh": "使用 LFM2.5-24B-A2B 在设备上快速运行专用代理",
+          "title_en": "Run fast, private agents on-device with LFM2.5-24B-A2B",
+          "title_original": "Run fast, private agents on-device with LFM2.5-24B-A2B",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-13T17:05:48Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "567ee7a3adaf80d955228f167072a768666a7393",
+          "title": "使用 LFM2.5-24B-A2B 在设备上快速运行专用代理 / Run fast, private agents on-device with LFM2.5-24B-A2B",
+          "title_zh": "使用 LFM2.5-24B-A2B 在设备上快速运行专用代理",
+          "title_en": "Run fast, private agents on-device with LFM2.5-24B-A2B",
+          "title_original": "Run fast, private agents on-device with LFM2.5-24B-A2B",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-13T17:05:48Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8683,
+      "importance": 0.8683,
+      "importance_score": 0.8683,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 1.0,
+        "recency": 0.9904,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-13T17:05:48Z",
+      "latest_at": "2026-10-13T17:05:48Z",
+      "primary_item": {
+        "id": "567ee7a3adaf80d955228f167072a768666a7393",
+        "title": "使用 LFM2.5-24B-A2B 在设备上快速运行专用代理 / Run fast, private agents on-device with LFM2.5-24B-A2B",
+        "title_zh": "使用 LFM2.5-24B-A2B 在设备上快速运行专用代理",
+        "title_en": "Run fast, private agents on-device with LFM2.5-24B-A2B",
+        "title_original": "Run fast, private agents on-device with LFM2.5-24B-A2B",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-13T17:47:29.817395Z"
+      }
+    },
+    {
+      "story_id": "story_7e7580bbc9b4",
+      "title": "Google DeepMind 发布 Gemini 4 Argon 机器人模型，ERQA 基准得分 87% / Gemini 4 Argon for Robotics",
+      "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics",
+      "primary_url": "https://deepmind.google/blog/gemini-4-argon-for-robotics",
+      "source": "Google DeepMind",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "f6e477ced73c4d2931cb1aa49deae0a673ccf494",
+          "title": "Google DeepMind 发布 Gemini 4 Argon 机器人模型，ERQA 基准得分 87% / Gemini 4 Argon for Robotics",
+          "title_zh": "Google DeepMind 发布 Gemini 4 Argon 机器人模型，ERQA 基准得分 87%",
+          "title_en": "Gemini 4 Argon for Robotics",
+          "title_original": "Gemini 4 Argon for Robotics",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-13T16:01:58Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google DeepMind"
+      ],
+      "items": [
+        {
+          "id": "f6e477ced73c4d2931cb1aa49deae0a673ccf494",
+          "title": "Google DeepMind 发布 Gemini 4 Argon 机器人模型，ERQA 基准得分 87% / Gemini 4 Argon for Robotics",
+          "title_zh": "Google DeepMind 发布 Gemini 4 Argon 机器人模型，ERQA 基准得分 87%",
+          "title_en": "Gemini 4 Argon for Robotics",
+          "title_original": "Gemini 4 Argon for Robotics",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-13T16:01:58Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8656,
+      "importance": 0.8656,
+      "importance_score": 0.8656,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 1.0,
+        "recency": 0.9753,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-13T16:01:58Z",
+      "latest_at": "2026-10-13T16:01:58Z",
+      "primary_item": {
+        "id": "f6e477ced73c4d2931cb1aa49deae0a673ccf494",
+        "title": "Google DeepMind 发布 Gemini 4 Argon 机器人模型，ERQA 基准得分 87% / Gemini 4 Argon for Robotics",
+        "title_zh": "Google DeepMind 发布 Gemini 4 Argon 机器人模型，ERQA 基准得分 87%",
+        "title_en": "Gemini 4 Argon for Robotics",
+        "title_original": "Gemini 4 Argon for Robotics",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics",
+        "source": "Google DeepMind",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-13T17:47:29.817395Z"
+      }
+    },
+    {
+      "story_id": "story_d010181126b6",
+      "title": "Salesforce 补充道，秘密扫描默认会阻止人为密钥 / Secret scanning blocks Anthropic keys by default, adds Salesforce",
+      "url": "https://github.blog/changelog/2026-10-13-secret-scanning-blocks-anthropic-keys-by-default-adds-salesforce",
+      "primary_url": "https://github.blog/changelog/2026-10-13-secret-scanning-blocks-anthropic-keys-by-default-adds-salesforce",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "fcd8d5a9a5318dea4fd7c6fad1266a55537e35da",
-          "title": "改进了对已撤回的 Dependabot 警报的检测 / Improved detection for withdrawn Dependabot alerts",
-          "title_zh": "改进了对已撤回的 Dependabot 警报的检测",
-          "title_en": "Improved detection for withdrawn Dependabot alerts",
-          "title_original": "Improved detection for withdrawn Dependabot alerts",
+          "id": "f261c399866f5bed612f3badc309d5e56d8ec694",
+          "title": "Salesforce 补充道，秘密扫描默认会阻止人为密钥 / Secret scanning blocks Anthropic keys by default, adds Salesforce",
+          "title_zh": "Salesforce 补充道，秘密扫描默认会阻止人为密钥",
+          "title_en": "Secret scanning blocks Anthropic keys by default, adds Salesforce",
+          "title_original": "Secret scanning blocks Anthropic keys by default, adds Salesforce",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-13-improved-detection-for-withdrawn-dependabot-alerts",
+          "url": "https://github.blog/changelog/2026-10-13-secret-scanning-blocks-anthropic-keys-by-default-adds-salesforce",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-13T14:03:57Z"
+          "published_at": "2026-10-13T16:12:36Z"
         }
       ],
       "source_count": 1,
@@ -32,49 +198,50 @@
       ],
       "items": [
         {
-          "id": "fcd8d5a9a5318dea4fd7c6fad1266a55537e35da",
-          "title": "改进了对已撤回的 Dependabot 警报的检测 / Improved detection for withdrawn Dependabot alerts",
-          "title_zh": "改进了对已撤回的 Dependabot 警报的检测",
-          "title_en": "Improved detection for withdrawn Dependabot alerts",
-          "title_original": "Improved detection for withdrawn Dependabot alerts",
+          "id": "f261c399866f5bed612f3badc309d5e56d8ec694",
+          "title": "Salesforce 补充道，秘密扫描默认会阻止人为密钥 / Secret scanning blocks Anthropic keys by default, adds Salesforce",
+          "title_zh": "Salesforce 补充道，秘密扫描默认会阻止人为密钥",
+          "title_en": "Secret scanning blocks Anthropic keys by default, adds Salesforce",
+          "title_original": "Secret scanning blocks Anthropic keys by default, adds Salesforce",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-13-improved-detection-for-withdrawn-dependabot-alerts",
+          "url": "https://github.blog/changelog/2026-10-13-secret-scanning-blocks-anthropic-keys-by-default-adds-salesforce",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-13T14:03:57Z"
+          "published_at": "2026-10-13T16:12:36Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8137,
-      "importance": 0.8137,
-      "importance_score": 0.8137,
+      "score": 0.862,
+      "importance": 0.862,
+      "importance_score": 0.862,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.73,
-        "recency": 0.9874,
+        "ai_relevance": 0.98,
+        "recency": 0.9778,
         "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
+        "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-13T14:03:57Z",
-      "latest_at": "2026-10-13T14:03:57Z",
+      "earliest_at": "2026-10-13T16:12:36Z",
+      "latest_at": "2026-10-13T16:12:36Z",
       "primary_item": {
-        "id": "fcd8d5a9a5318dea4fd7c6fad1266a55537e35da",
-        "title": "改进了对已撤回的 Dependabot 警报的检测 / Improved detection for withdrawn Dependabot alerts",
-        "title_zh": "改进了对已撤回的 Dependabot 警报的检测",
-        "title_en": "Improved detection for withdrawn Dependabot alerts",
-        "title_original": "Improved detection for withdrawn Dependabot alerts",
+        "id": "f261c399866f5bed612f3badc309d5e56d8ec694",
+        "title": "Salesforce 补充道，秘密扫描默认会阻止人为密钥 / Secret scanning blocks Anthropic keys by default, adds Salesforce",
+        "title_zh": "Salesforce 补充道，秘密扫描默认会阻止人为密钥",
+        "title_en": "Secret scanning blocks Anthropic keys by default, adds Salesforce",
+        "title_original": "Secret scanning blocks Anthropic keys by default, adds Salesforce",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-13-improved-detection-for-withdrawn-dependabot-alerts",
+        "url": "https://github.blog/changelog/2026-10-13-secret-scanning-blocks-anthropic-keys-by-default-adds-salesforce",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -82,30 +249,113 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-13T14:57:59.793270Z"
+        "scored_at": "2026-10-13T17:47:29.817395Z"
       }
     },
     {
-      "story_id": "story_3881ff799aa4",
-      "title": "搜索和过滤现在可用的预算 / Search and filter for budgets now available",
-      "url": "https://github.blog/changelog/2026-10-13-search-and-filter-for-budgets-now-available",
-      "primary_url": "https://github.blog/changelog/2026-10-13-search-and-filter-for-budgets-now-available",
+      "story_id": "story_7d588311103d",
+      "title": "Google 发布 Gemini 4 Argon：面向复杂工程与科研任务的前沿模型 / Gemini 4 Argon: Built to solve your hardest problems",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon",
+      "primary_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon",
+      "source": "Google AI Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "373cf49b91ed75fb644ccf052521c55f368114c9",
+          "title": "Google 发布 Gemini 4 Argon：面向复杂工程与科研任务的前沿模型 / Gemini 4 Argon: Built to solve your hardest problems",
+          "title_zh": "Google 发布 Gemini 4 Argon：面向复杂工程与科研任务的前沿模型",
+          "title_en": "Gemini 4 Argon: Built to solve your hardest problems",
+          "title_original": "Gemini 4 Argon: Built to solve your hardest problems",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-13T16:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google AI Blog"
+      ],
+      "items": [
+        {
+          "id": "373cf49b91ed75fb644ccf052521c55f368114c9",
+          "title": "Google 发布 Gemini 4 Argon：面向复杂工程与科研任务的前沿模型 / Gemini 4 Argon: Built to solve your hardest problems",
+          "title_zh": "Google 发布 Gemini 4 Argon：面向复杂工程与科研任务的前沿模型",
+          "title_en": "Gemini 4 Argon: Built to solve your hardest problems",
+          "title_original": "Gemini 4 Argon: Built to solve your hardest problems",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-13T16:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8615,
+      "importance": 0.8615,
+      "importance_score": 0.8615,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.9749,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-13T16:00:00Z",
+      "latest_at": "2026-10-13T16:00:00Z",
+      "primary_item": {
+        "id": "373cf49b91ed75fb644ccf052521c55f368114c9",
+        "title": "Google 发布 Gemini 4 Argon：面向复杂工程与科研任务的前沿模型 / Gemini 4 Argon: Built to solve your hardest problems",
+        "title_zh": "Google 发布 Gemini 4 Argon：面向复杂工程与科研任务的前沿模型",
+        "title_en": "Gemini 4 Argon: Built to solve your hardest problems",
+        "title_original": "Gemini 4 Argon: Built to solve your hardest problems",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon",
+        "source": "Google AI Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-13T17:47:29.817395Z"
+      }
+    },
+    {
+      "story_id": "story_0fb62e8392fa",
+      "title": "企业托管设置强制更新 / Enterprise managed settings enforcement updates",
+      "url": "https://github.blog/changelog/2026-10-13-enterprise-managed-settings-enforcement-updates",
+      "primary_url": "https://github.blog/changelog/2026-10-13-enterprise-managed-settings-enforcement-updates",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "14446fcecef84449e8d27784b7b08a63449d6e35",
-          "title": "搜索和过滤现在可用的预算 / Search and filter for budgets now available",
-          "title_zh": "搜索和过滤现在可用的预算",
-          "title_en": "Search and filter for budgets now available",
-          "title_original": "Search and filter for budgets now available",
+          "id": "76121c3382bf89148d718d62808d2ea54f5748f9",
+          "title": "企业托管设置强制更新 / Enterprise managed settings enforcement updates",
+          "title_zh": "企业托管设置强制更新",
+          "title_en": "Enterprise managed settings enforcement updates",
+          "title_original": "Enterprise managed settings enforcement updates",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-13-search-and-filter-for-budgets-now-available",
+          "url": "https://github.blog/changelog/2026-10-13-enterprise-managed-settings-enforcement-updates",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-13T12:06:09Z"
+          "published_at": "2026-10-13T15:20:10Z"
         }
       ],
       "source_count": 1,
@@ -114,31 +364,31 @@
       ],
       "items": [
         {
-          "id": "14446fcecef84449e8d27784b7b08a63449d6e35",
-          "title": "搜索和过滤现在可用的预算 / Search and filter for budgets now available",
-          "title_zh": "搜索和过滤现在可用的预算",
-          "title_en": "Search and filter for budgets now available",
-          "title_original": "Search and filter for budgets now available",
+          "id": "76121c3382bf89148d718d62808d2ea54f5748f9",
+          "title": "企业托管设置强制更新 / Enterprise managed settings enforcement updates",
+          "title_zh": "企业托管设置强制更新",
+          "title_en": "Enterprise managed settings enforcement updates",
+          "title_original": "Enterprise managed settings enforcement updates",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-13-search-and-filter-for-budgets-now-available",
+          "url": "https://github.blog/changelog/2026-10-13-enterprise-managed-settings-enforcement-updates",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-13T12:06:09Z"
+          "published_at": "2026-10-13T15:20:10Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8088,
-      "importance": 0.8088,
-      "importance_score": 0.8088,
+      "score": 0.8098,
+      "importance": 0.8098,
+      "importance_score": 0.8098,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.73,
-        "recency": 0.9598,
+        "recency": 0.9656,
         "story_heat": 0.0
       },
       "category": "official",
@@ -146,17 +396,17 @@
         "official_source",
         "high_importance"
       ],
-      "earliest_at": "2026-10-13T12:06:09Z",
-      "latest_at": "2026-10-13T12:06:09Z",
+      "earliest_at": "2026-10-13T15:20:10Z",
+      "latest_at": "2026-10-13T15:20:10Z",
       "primary_item": {
-        "id": "14446fcecef84449e8d27784b7b08a63449d6e35",
-        "title": "搜索和过滤现在可用的预算 / Search and filter for budgets now available",
-        "title_zh": "搜索和过滤现在可用的预算",
-        "title_en": "Search and filter for budgets now available",
-        "title_original": "Search and filter for budgets now available",
+        "id": "76121c3382bf89148d718d62808d2ea54f5748f9",
+        "title": "企业托管设置强制更新 / Enterprise managed settings enforcement updates",
+        "title_zh": "企业托管设置强制更新",
+        "title_en": "Enterprise managed settings enforcement updates",
+        "title_original": "Enterprise managed settings enforcement updates",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-13-search-and-filter-for-budgets-now-available",
+        "url": "https://github.blog/changelog/2026-10-13-enterprise-managed-settings-enforcement-updates",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -164,89 +414,171 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-13T14:57:59.793270Z"
+        "scored_at": "2026-10-13T17:47:29.817395Z"
       }
     },
     {
-      "story_id": "story_1327604ea90f",
-      "title": "适合初学者的 GitHub Copilot 应用程序：如何向 Copilot 教授您的代码库 / GitHub Copilot app for Beginners: How to teach Copilot about your codebase",
-      "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase",
-      "primary_url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase",
-      "source": "GitHub AI & ML",
-      "source_name": "Official AI Updates",
+      "story_id": "story_d3e22af5fa1a",
+      "title": "Google DeepMind 的 Gemini 4 Argon 上线 OpenRouter / Gemini 4 Argon from @GoogleDeepMind is live on OpenRouter, via Google AI Studio and @googlecloud.",
+      "url": "https://x.com/OpenRouter/status/2110044453977403412",
+      "primary_url": "https://x.com/OpenRouter/status/2110044453977403412",
+      "source": "X：OpenRouter (@OpenRouter)",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "6025f2a1f2f1476572425a515efa301b659def40",
-          "title": "适合初学者的 GitHub Copilot 应用程序：如何向 Copilot 教授您的代码库 / GitHub Copilot app for Beginners: How to teach Copilot about your codebase",
-          "title_zh": "适合初学者的 GitHub Copilot 应用程序：如何向 Copilot 教授您的代码库",
-          "title_en": "GitHub Copilot app for Beginners: How to teach Copilot about your codebase",
-          "title_original": "GitHub Copilot app for Beginners: How to teach Copilot about your codebase",
-          "summary": null,
+          "id": "cdfde445b10540f1a3407f8b5c99c59136036617",
+          "title": "Google DeepMind 的 Gemini 4 Argon 上线 OpenRouter / Gemini 4 Argon from @GoogleDeepMind is live on OpenRouter, via Google AI Studio and @googlecloud.",
+          "title_zh": "Google DeepMind 的 Gemini 4 Argon 上线 OpenRouter",
+          "title_en": "Gemini 4 Argon from @GoogleDeepMind is live on OpenRouter, via Google AI Studio and @googlecloud.",
+          "title_original": "Gemini 4 Argon from @GoogleDeepMind is live on OpenRouter, via Google AI Studio and @googlecloud.",
+          "summary": "Gemini 4 Argon 已上线 OpenRouter，可通过 Google AI Studio 和 Google Cloud 调用。该模型在 AutomationBench 拿到 51.3%、LVBench 拿到 91.7%，并以 68% 并列 CWE-bench v1 第一； introductory 定价为输入 $2/M、输出 $10/M。试用入口：https://openrouter.ai/google/gemini-4-argon",
           "recommend_reason_zh": null,
-          "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-12T17:43:59Z"
+          "url": "https://x.com/OpenRouter/status/2110044453977403412",
+          "source": "X：OpenRouter (@OpenRouter)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-13T16:26:15Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub AI & ML"
+        "X：OpenRouter (@OpenRouter)"
       ],
       "items": [
         {
-          "id": "6025f2a1f2f1476572425a515efa301b659def40",
-          "title": "适合初学者的 GitHub Copilot 应用程序：如何向 Copilot 教授您的代码库 / GitHub Copilot app for Beginners: How to teach Copilot about your codebase",
-          "title_zh": "适合初学者的 GitHub Copilot 应用程序：如何向 Copilot 教授您的代码库",
-          "title_en": "GitHub Copilot app for Beginners: How to teach Copilot about your codebase",
-          "title_original": "GitHub Copilot app for Beginners: How to teach Copilot about your codebase",
-          "summary": null,
+          "id": "cdfde445b10540f1a3407f8b5c99c59136036617",
+          "title": "Google DeepMind 的 Gemini 4 Argon 上线 OpenRouter / Gemini 4 Argon from @GoogleDeepMind is live on OpenRouter, via Google AI Studio and @googlecloud.",
+          "title_zh": "Google DeepMind 的 Gemini 4 Argon 上线 OpenRouter",
+          "title_en": "Gemini 4 Argon from @GoogleDeepMind is live on OpenRouter, via Google AI Studio and @googlecloud.",
+          "title_original": "Gemini 4 Argon from @GoogleDeepMind is live on OpenRouter, via Google AI Studio and @googlecloud.",
+          "summary": "Gemini 4 Argon 已上线 OpenRouter，可通过 Google AI Studio 和 Google Cloud 调用。该模型在 AutomationBench 拿到 51.3%、LVBench 拿到 91.7%，并以 68% 并列 CWE-bench v1 第一； introductory 定价为输入 $2/M、输出 $10/M。试用入口：https://openrouter.ai/google/gemini-4-argon",
           "recommend_reason_zh": null,
-          "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-12T17:43:59Z"
+          "url": "https://x.com/OpenRouter/status/2110044453977403412",
+          "source": "X：OpenRouter (@OpenRouter)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-13T16:26:15Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7745,
-      "importance": 0.7745,
-      "importance_score": 0.7745,
-      "importance_label": "官方更新",
+      "score": 0.7602,
+      "importance": 0.7602,
+      "importance_score": 0.7602,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.76,
-        "recency": 0.7362,
+        "editorial": 0.74,
+        "source_tier": 0.78,
+        "ai_relevance": 0.95,
+        "recency": 0.981,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
+        "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-12T17:43:59Z",
-      "latest_at": "2026-10-12T17:43:59Z",
+      "earliest_at": "2026-10-13T16:26:15Z",
+      "latest_at": "2026-10-13T16:26:15Z",
       "primary_item": {
-        "id": "6025f2a1f2f1476572425a515efa301b659def40",
-        "title": "适合初学者的 GitHub Copilot 应用程序：如何向 Copilot 教授您的代码库 / GitHub Copilot app for Beginners: How to teach Copilot about your codebase",
-        "title_zh": "适合初学者的 GitHub Copilot 应用程序：如何向 Copilot 教授您的代码库",
-        "title_en": "GitHub Copilot app for Beginners: How to teach Copilot about your codebase",
-        "title_original": "GitHub Copilot app for Beginners: How to teach Copilot about your codebase",
-        "summary": null,
+        "id": "cdfde445b10540f1a3407f8b5c99c59136036617",
+        "title": "Google DeepMind 的 Gemini 4 Argon 上线 OpenRouter / Gemini 4 Argon from @GoogleDeepMind is live on OpenRouter, via Google AI Studio and @googlecloud.",
+        "title_zh": "Google DeepMind 的 Gemini 4 Argon 上线 OpenRouter",
+        "title_en": "Gemini 4 Argon from @GoogleDeepMind is live on OpenRouter, via Google AI Studio and @googlecloud.",
+        "title_original": "Gemini 4 Argon from @GoogleDeepMind is live on OpenRouter, via Google AI Studio and @googlecloud.",
+        "summary": "Gemini 4 Argon 已上线 OpenRouter，可通过 Google AI Studio 和 Google Cloud 调用。该模型在 AutomationBench 拿到 51.3%、LVBench 拿到 91.7%，并以 68% 并列 CWE-bench v1 第一； introductory 定价为输入 $2/M、输出 $10/M。试用入口：https://openrouter.ai/google/gemini-4-argon",
         "recommend_reason_zh": null,
-        "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase",
-        "source": "GitHub AI & ML",
-        "source_name": "Official AI Updates"
+        "url": "https://x.com/OpenRouter/status/2110044453977403412",
+        "source": "X：OpenRouter (@OpenRouter)",
+        "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-13T14:57:59.793270Z"
+        "scored_at": "2026-10-13T17:47:29.817395Z"
+      }
+    },
+    {
+      "story_id": "story_552c975a2127",
+      "title": "Google 用 Gemini 4 Argon 无人值守优化 20 万行 Python 代码库 ADK / Optimizing a 200,000-line Python codebase overnight with Gemini 4 Argon",
+      "url": "https://developers.googleblog.com/optimizing-a-200000-line-python-codebase-overnight-with-gemini-4-argon",
+      "primary_url": "https://developers.googleblog.com/optimizing-a-200000-line-python-codebase-overnight-with-gemini-4-argon",
+      "source": "Google Developers Blog（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "a98c60eeae09a755ca52fc3665ec6c25f625b473",
+          "title": "Google 用 Gemini 4 Argon 无人值守优化 20 万行 Python 代码库 ADK / Optimizing a 200,000-line Python codebase overnight with Gemini 4 Argon",
+          "title_zh": "Google 用 Gemini 4 Argon 无人值守优化 20 万行 Python 代码库 ADK",
+          "title_en": "Optimizing a 200,000-line Python codebase overnight with Gemini 4 Argon",
+          "title_original": "Optimizing a 200,000-line Python codebase overnight with Gemini 4 Argon",
+          "summary": "Google 工程师用 Gemini 4 Argon 在 google/adk-python 上无人值守跑 11 小时，提出 6 项优化、审查后合并 2 项，使长会话内存会话准备时间降低约 40%，包导入加快 21%。",
+          "recommend_reason_zh": null,
+          "url": "https://developers.googleblog.com/optimizing-a-200000-line-python-codebase-overnight-with-gemini-4-argon",
+          "source": "Google Developers Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-13T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google Developers Blog（RSS）"
+      ],
+      "items": [
+        {
+          "id": "a98c60eeae09a755ca52fc3665ec6c25f625b473",
+          "title": "Google 用 Gemini 4 Argon 无人值守优化 20 万行 Python 代码库 ADK / Optimizing a 200,000-line Python codebase overnight with Gemini 4 Argon",
+          "title_zh": "Google 用 Gemini 4 Argon 无人值守优化 20 万行 Python 代码库 ADK",
+          "title_en": "Optimizing a 200,000-line Python codebase overnight with Gemini 4 Argon",
+          "title_original": "Optimizing a 200,000-line Python codebase overnight with Gemini 4 Argon",
+          "summary": "Google 工程师用 Gemini 4 Argon 在 google/adk-python 上无人值守跑 11 小时，提出 6 项优化、审查后合并 2 项，使长会话内存会话准备时间降低约 40%，包导入加快 21%。",
+          "recommend_reason_zh": null,
+          "url": "https://developers.googleblog.com/optimizing-a-200000-line-python-codebase-overnight-with-gemini-4-argon",
+          "source": "Google Developers Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-13T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7593,
+      "importance": 0.7593,
+      "importance_score": 0.7593,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.7737,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-13T00:00:00Z",
+      "latest_at": "2026-10-13T00:00:00Z",
+      "primary_item": {
+        "id": "a98c60eeae09a755ca52fc3665ec6c25f625b473",
+        "title": "Google 用 Gemini 4 Argon 无人值守优化 20 万行 Python 代码库 ADK / Optimizing a 200,000-line Python codebase overnight with Gemini 4 Argon",
+        "title_zh": "Google 用 Gemini 4 Argon 无人值守优化 20 万行 Python 代码库 ADK",
+        "title_en": "Optimizing a 200,000-line Python codebase overnight with Gemini 4 Argon",
+        "title_original": "Optimizing a 200,000-line Python codebase overnight with Gemini 4 Argon",
+        "summary": "Google 工程师用 Gemini 4 Argon 在 google/adk-python 上无人值守跑 11 小时，提出 6 项优化、审查后合并 2 项，使长会话内存会话准备时间降低约 40%，包导入加快 21%。",
+        "recommend_reason_zh": null,
+        "url": "https://developers.googleblog.com/optimizing-a-200000-line-python-codebase-overnight-with-gemini-4-argon",
+        "source": "Google Developers Blog（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-13T17:47:29.817395Z"
       }
     },
     {
@@ -294,15 +626,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7651,
-      "importance": 0.7651,
-      "importance_score": 0.7651,
+      "score": 0.7583,
+      "importance": 0.7583,
+      "importance_score": 0.7583,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.9586,
+        "recency": 0.9203,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -328,30 +660,112 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-13T14:57:59.793270Z"
+        "scored_at": "2026-10-13T17:47:29.817395Z"
       }
     },
     {
-      "story_id": "story_299fe0589862",
-      "title": "安全概述中的代码扫描 AI Scan 指标 / Code scanning AI Scan metrics in security overview",
-      "url": "https://github.blog/changelog/2026-10-13-code-scanning-ai-scan-metrics-in-security-overview",
-      "primary_url": "https://github.blog/changelog/2026-10-13-code-scanning-ai-scan-metrics-in-security-overview",
+      "story_id": "story_de0f8dfb214b",
+      "title": "Google 发布 Gemini 4 Argon 并逐步推送至 Gemini 应用 / The moment you've been waiting 4…",
+      "url": "https://x.com/GeminiApp/status/2110039322229649783",
+      "primary_url": "https://x.com/GeminiApp/status/2110039322229649783",
+      "source": "X：Gemini (@GeminiApp)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "589dd9437283599e6151abc64ac077382ae863c2",
+          "title": "Google 发布 Gemini 4 Argon 并逐步推送至 Gemini 应用 / The moment you've been waiting 4…",
+          "title_zh": "Google 发布 Gemini 4 Argon 并逐步推送至 Gemini 应用",
+          "title_en": "The moment you've been waiting 4…",
+          "title_original": "The moment you've been waiting 4…",
+          "summary": "Google Gemini 宣布新前沿模型 Gemini 4 Argon 正在 Gemini 应用中逐步推出，定位是把复杂想法变为现实。作者还预告将以推文串介绍 Gemini 4 Argon 及应用内最新更新如何提升每条提示词的效果。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/GeminiApp/status/2110039322229649783",
+          "source": "X：Gemini (@GeminiApp)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-13T16:05:51Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Gemini (@GeminiApp)"
+      ],
+      "items": [
+        {
+          "id": "589dd9437283599e6151abc64ac077382ae863c2",
+          "title": "Google 发布 Gemini 4 Argon 并逐步推送至 Gemini 应用 / The moment you've been waiting 4…",
+          "title_zh": "Google 发布 Gemini 4 Argon 并逐步推送至 Gemini 应用",
+          "title_en": "The moment you've been waiting 4…",
+          "title_original": "The moment you've been waiting 4…",
+          "summary": "Google Gemini 宣布新前沿模型 Gemini 4 Argon 正在 Gemini 应用中逐步推出，定位是把复杂想法变为现实。作者还预告将以推文串介绍 Gemini 4 Argon 及应用内最新更新如何提升每条提示词的效果。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/GeminiApp/status/2110039322229649783",
+          "source": "X：Gemini (@GeminiApp)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-13T16:05:51Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7563,
+      "importance": 0.7563,
+      "importance_score": 0.7563,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.73,
+        "source_tier": 0.78,
+        "ai_relevance": 0.95,
+        "recency": 0.9762,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-13T16:05:51Z",
+      "latest_at": "2026-10-13T16:05:51Z",
+      "primary_item": {
+        "id": "589dd9437283599e6151abc64ac077382ae863c2",
+        "title": "Google 发布 Gemini 4 Argon 并逐步推送至 Gemini 应用 / The moment you've been waiting 4…",
+        "title_zh": "Google 发布 Gemini 4 Argon 并逐步推送至 Gemini 应用",
+        "title_en": "The moment you've been waiting 4…",
+        "title_original": "The moment you've been waiting 4…",
+        "summary": "Google Gemini 宣布新前沿模型 Gemini 4 Argon 正在 Gemini 应用中逐步推出，定位是把复杂想法变为现实。作者还预告将以推文串介绍 Gemini 4 Argon 及应用内最新更新如何提升每条提示词的效果。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/GeminiApp/status/2110039322229649783",
+        "source": "X：Gemini (@GeminiApp)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-13T17:47:29.817395Z"
+      }
+    },
+    {
+      "story_id": "story_564a92d1b485",
+      "title": "改进了对已撤回的 Dependabot 警报的检测 / Improved detection for withdrawn Dependabot alerts",
+      "url": "https://github.blog/changelog/2026-10-13-improved-detection-for-withdrawn-dependabot-alerts",
+      "primary_url": "https://github.blog/changelog/2026-10-13-improved-detection-for-withdrawn-dependabot-alerts",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "b179efb6fc01acad3d80e0a10e0a338c893ce8d5",
-          "title": "安全概述中的代码扫描 AI Scan 指标 / Code scanning AI Scan metrics in security overview",
-          "title_zh": "安全概述中的代码扫描 AI Scan 指标",
-          "title_en": "Code scanning AI Scan metrics in security overview",
-          "title_original": "Code scanning AI Scan metrics in security overview",
+          "id": "fcd8d5a9a5318dea4fd7c6fad1266a55537e35da",
+          "title": "改进了对已撤回的 Dependabot 警报的检测 / Improved detection for withdrawn Dependabot alerts",
+          "title_zh": "改进了对已撤回的 Dependabot 警报的检测",
+          "title_en": "Improved detection for withdrawn Dependabot alerts",
+          "title_original": "Improved detection for withdrawn Dependabot alerts",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-13-code-scanning-ai-scan-metrics-in-security-overview",
+          "url": "https://github.blog/changelog/2026-10-13-improved-detection-for-withdrawn-dependabot-alerts",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-13T12:03:17Z"
+          "published_at": "2026-10-13T14:03:57Z"
         }
       ],
       "source_count": 1,
@@ -360,31 +774,31 @@
       ],
       "items": [
         {
-          "id": "b179efb6fc01acad3d80e0a10e0a338c893ce8d5",
-          "title": "安全概述中的代码扫描 AI Scan 指标 / Code scanning AI Scan metrics in security overview",
-          "title_zh": "安全概述中的代码扫描 AI Scan 指标",
-          "title_en": "Code scanning AI Scan metrics in security overview",
-          "title_original": "Code scanning AI Scan metrics in security overview",
+          "id": "fcd8d5a9a5318dea4fd7c6fad1266a55537e35da",
+          "title": "改进了对已撤回的 Dependabot 警报的检测 / Improved detection for withdrawn Dependabot alerts",
+          "title_zh": "改进了对已撤回的 Dependabot 警报的检测",
+          "title_en": "Improved detection for withdrawn Dependabot alerts",
+          "title_original": "Improved detection for withdrawn Dependabot alerts",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-13-code-scanning-ai-scan-metrics-in-security-overview",
+          "url": "https://github.blog/changelog/2026-10-13-improved-detection-for-withdrawn-dependabot-alerts",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-13T12:03:17Z"
+          "published_at": "2026-10-13T14:03:57Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8086,
-      "importance": 0.8086,
-      "importance_score": 0.8086,
+      "score": 0.8066,
+      "importance": 0.8066,
+      "importance_score": 0.8066,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.73,
-        "recency": 0.9592,
+        "recency": 0.948,
         "story_heat": 0.0
       },
       "category": "official",
@@ -392,17 +806,17 @@
         "official_source",
         "high_importance"
       ],
-      "earliest_at": "2026-10-13T12:03:17Z",
-      "latest_at": "2026-10-13T12:03:17Z",
+      "earliest_at": "2026-10-13T14:03:57Z",
+      "latest_at": "2026-10-13T14:03:57Z",
       "primary_item": {
-        "id": "b179efb6fc01acad3d80e0a10e0a338c893ce8d5",
-        "title": "安全概述中的代码扫描 AI Scan 指标 / Code scanning AI Scan metrics in security overview",
-        "title_zh": "安全概述中的代码扫描 AI Scan 指标",
-        "title_en": "Code scanning AI Scan metrics in security overview",
-        "title_original": "Code scanning AI Scan metrics in security overview",
+        "id": "fcd8d5a9a5318dea4fd7c6fad1266a55537e35da",
+        "title": "改进了对已撤回的 Dependabot 警报的检测 / Improved detection for withdrawn Dependabot alerts",
+        "title_zh": "改进了对已撤回的 Dependabot 警报的检测",
+        "title_en": "Improved detection for withdrawn Dependabot alerts",
+        "title_original": "Improved detection for withdrawn Dependabot alerts",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-13-code-scanning-ai-scan-metrics-in-security-overview",
+        "url": "https://github.blog/changelog/2026-10-13-improved-detection-for-withdrawn-dependabot-alerts",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -410,7 +824,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-13T14:57:59.793270Z"
+        "scored_at": "2026-10-13T17:47:29.817395Z"
       }
     },
     {
@@ -458,15 +872,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7337,
-      "importance": 0.7337,
-      "importance_score": 0.7337,
+      "score": 0.727,
+      "importance": 0.727,
+      "importance_score": 0.727,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.684,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.9271,
+        "recency": 0.8901,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -491,7 +905,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-13T14:57:59.793270Z"
+        "scored_at": "2026-10-13T17:47:29.817395Z"
       }
     },
     {
@@ -539,15 +953,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7293,
-      "importance": 0.7293,
-      "importance_score": 0.7293,
+      "score": 0.724,
+      "importance": 0.724,
+      "importance_score": 0.724,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.7429,
+        "recency": 0.7132,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -572,7 +986,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-13T14:57:59.793270Z"
+        "scored_at": "2026-10-13T17:47:29.817395Z"
       }
     },
     {
@@ -620,15 +1034,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7288,
-      "importance": 0.7288,
-      "importance_score": 0.7288,
+      "score": 0.7235,
+      "importance": 0.7235,
+      "importance_score": 0.7235,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.7399,
+        "recency": 0.7103,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -653,7 +1067,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-13T14:57:59.793270Z"
+        "scored_at": "2026-10-13T17:47:29.817395Z"
+      }
+    },
+    {
+      "story_id": "story_3881ff799aa4",
+      "title": "搜索和过滤现在可用的预算 / Search and filter for budgets now available",
+      "url": "https://github.blog/changelog/2026-10-13-search-and-filter-for-budgets-now-available",
+      "primary_url": "https://github.blog/changelog/2026-10-13-search-and-filter-for-budgets-now-available",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "14446fcecef84449e8d27784b7b08a63449d6e35",
+          "title": "搜索和过滤现在可用的预算 / Search and filter for budgets now available",
+          "title_zh": "搜索和过滤现在可用的预算",
+          "title_en": "Search and filter for budgets now available",
+          "title_original": "Search and filter for budgets now available",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-13-search-and-filter-for-budgets-now-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-13T12:06:09Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "14446fcecef84449e8d27784b7b08a63449d6e35",
+          "title": "搜索和过滤现在可用的预算 / Search and filter for budgets now available",
+          "title_zh": "搜索和过滤现在可用的预算",
+          "title_en": "Search and filter for budgets now available",
+          "title_original": "Search and filter for budgets now available",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-13-search-and-filter-for-budgets-now-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-13T12:06:09Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8019,
+      "importance": 0.8019,
+      "importance_score": 0.8019,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.73,
+        "recency": 0.9215,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-13T12:06:09Z",
+      "latest_at": "2026-10-13T12:06:09Z",
+      "primary_item": {
+        "id": "14446fcecef84449e8d27784b7b08a63449d6e35",
+        "title": "搜索和过滤现在可用的预算 / Search and filter for budgets now available",
+        "title_zh": "搜索和过滤现在可用的预算",
+        "title_en": "Search and filter for budgets now available",
+        "title_original": "Search and filter for budgets now available",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-10-13-search-and-filter-for-budgets-now-available",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-13T17:47:29.817395Z"
       }
     },
     {
@@ -701,15 +1197,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7337,
-      "importance": 0.7337,
-      "importance_score": 0.7337,
+      "score": 0.727,
+      "importance": 0.727,
+      "importance_score": 0.727,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.684,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.9271,
+        "recency": 0.8901,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -734,30 +1230,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-13T14:57:59.793270Z"
+        "scored_at": "2026-10-13T17:47:29.817395Z"
       }
     },
     {
-      "story_id": "story_028d06be8228",
-      "title": "客户端遥测用户归因和可配置捕获 / Client telemetry user attribution and configurable capture",
-      "url": "https://github.blog/changelog/2026-10-12-client-telemetry-user-attribution-and-configurable-capture",
-      "primary_url": "https://github.blog/changelog/2026-10-12-client-telemetry-user-attribution-and-configurable-capture",
+      "story_id": "story_299fe0589862",
+      "title": "安全概述中的代码扫描 AI Scan 指标 / Code scanning AI Scan metrics in security overview",
+      "url": "https://github.blog/changelog/2026-10-13-code-scanning-ai-scan-metrics-in-security-overview",
+      "primary_url": "https://github.blog/changelog/2026-10-13-code-scanning-ai-scan-metrics-in-security-overview",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "896121d98ef8227ad431f910e0a960594c422738",
-          "title": "客户端遥测用户归因和可配置捕获 / Client telemetry user attribution and configurable capture",
-          "title_zh": "客户端遥测用户归因和可配置捕获",
-          "title_en": "Client telemetry user attribution and configurable capture",
-          "title_original": "Client telemetry user attribution and configurable capture",
+          "id": "b179efb6fc01acad3d80e0a10e0a338c893ce8d5",
+          "title": "安全概述中的代码扫描 AI Scan 指标 / Code scanning AI Scan metrics in security overview",
+          "title_zh": "安全概述中的代码扫描 AI Scan 指标",
+          "title_en": "Code scanning AI Scan metrics in security overview",
+          "title_original": "Code scanning AI Scan metrics in security overview",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-12-client-telemetry-user-attribution-and-configurable-capture",
+          "url": "https://github.blog/changelog/2026-10-13-code-scanning-ai-scan-metrics-in-security-overview",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-12T22:38:00Z"
+          "published_at": "2026-10-13T12:03:17Z"
         }
       ],
       "source_count": 1,
@@ -766,31 +1262,31 @@
       ],
       "items": [
         {
-          "id": "896121d98ef8227ad431f910e0a960594c422738",
-          "title": "客户端遥测用户归因和可配置捕获 / Client telemetry user attribution and configurable capture",
-          "title_zh": "客户端遥测用户归因和可配置捕获",
-          "title_en": "Client telemetry user attribution and configurable capture",
-          "title_original": "Client telemetry user attribution and configurable capture",
+          "id": "b179efb6fc01acad3d80e0a10e0a338c893ce8d5",
+          "title": "安全概述中的代码扫描 AI Scan 指标 / Code scanning AI Scan metrics in security overview",
+          "title_zh": "安全概述中的代码扫描 AI Scan 指标",
+          "title_en": "Code scanning AI Scan metrics in security overview",
+          "title_original": "Code scanning AI Scan metrics in security overview",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-12-client-telemetry-user-attribution-and-configurable-capture",
+          "url": "https://github.blog/changelog/2026-10-13-code-scanning-ai-scan-metrics-in-security-overview",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-12T22:38:00Z"
+          "published_at": "2026-10-13T12:03:17Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7782,
-      "importance": 0.7782,
-      "importance_score": 0.7782,
+      "score": 0.8018,
+      "importance": 0.8018,
+      "importance_score": 0.8018,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.73,
-        "recency": 0.7902,
+        "recency": 0.9209,
         "story_heat": 0.0
       },
       "category": "official",
@@ -798,17 +1294,17 @@
         "official_source",
         "high_importance"
       ],
-      "earliest_at": "2026-10-12T22:38:00Z",
-      "latest_at": "2026-10-12T22:38:00Z",
+      "earliest_at": "2026-10-13T12:03:17Z",
+      "latest_at": "2026-10-13T12:03:17Z",
       "primary_item": {
-        "id": "896121d98ef8227ad431f910e0a960594c422738",
-        "title": "客户端遥测用户归因和可配置捕获 / Client telemetry user attribution and configurable capture",
-        "title_zh": "客户端遥测用户归因和可配置捕获",
-        "title_en": "Client telemetry user attribution and configurable capture",
-        "title_original": "Client telemetry user attribution and configurable capture",
+        "id": "b179efb6fc01acad3d80e0a10e0a338c893ce8d5",
+        "title": "安全概述中的代码扫描 AI Scan 指标 / Code scanning AI Scan metrics in security overview",
+        "title_zh": "安全概述中的代码扫描 AI Scan 指标",
+        "title_en": "Code scanning AI Scan metrics in security overview",
+        "title_original": "Code scanning AI Scan metrics in security overview",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-12-client-telemetry-user-attribution-and-configurable-capture",
+        "url": "https://github.blog/changelog/2026-10-13-code-scanning-ai-scan-metrics-in-security-overview",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -816,7 +1312,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-13T14:57:59.793270Z"
+        "scored_at": "2026-10-13T17:47:29.817395Z"
       }
     },
     {
@@ -922,15 +1418,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6857,
-      "importance": 0.6857,
-      "importance_score": 0.6857,
+      "score": 0.6789,
+      "importance": 0.6789,
+      "importance_score": 0.6789,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5832,
         "source_tier": 0.58,
         "ai_relevance": 0.81,
-        "recency": 0.9509,
+        "recency": 0.9129,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -956,7 +1452,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-13T14:57:59.793270Z"
+        "scored_at": "2026-10-13T17:47:29.817395Z"
       }
     },
     {
@@ -1004,15 +1500,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7337,
-      "importance": 0.7337,
-      "importance_score": 0.7337,
+      "score": 0.727,
+      "importance": 0.727,
+      "importance_score": 0.727,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.684,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.9271,
+        "recency": 0.8901,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1037,7 +1533,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-13T14:57:59.793270Z"
+        "scored_at": "2026-10-13T17:47:29.817395Z"
       }
     },
     {
@@ -1172,15 +1668,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.6828,
-      "importance": 0.6828,
-      "importance_score": 0.6828,
+      "score": 0.6771,
+      "importance": 0.6771,
+      "importance_score": 0.6771,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5832,
         "source_tier": 0.58,
         "ai_relevance": 0.81,
-        "recency": 0.7958,
+        "recency": 0.764,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1206,89 +1702,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-13T14:57:59.793270Z"
-      }
-    },
-    {
-      "story_id": "story_7924bc1de44f",
-      "title": "在有限的公开预览中推送提交的归因 / Push attribution for commits in limited public preview",
-      "url": "https://github.blog/changelog/2026-10-12-push-attribution-public-preview",
-      "primary_url": "https://github.blog/changelog/2026-10-12-push-attribution-public-preview",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "4e074d6e65757c2e5a30537f520bca332288c848",
-          "title": "在有限的公开预览中推送提交的归因 / Push attribution for commits in limited public preview",
-          "title_zh": "在有限的公开预览中推送提交的归因",
-          "title_en": "Push attribution for commits in limited public preview",
-          "title_original": "Push attribution for commits in limited public preview",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-12-push-attribution-public-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-12T16:30:11Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "4e074d6e65757c2e5a30537f520bca332288c848",
-          "title": "在有限的公开预览中推送提交的归因 / Push attribution for commits in limited public preview",
-          "title_zh": "在有限的公开预览中推送提交的归因",
-          "title_en": "Push attribution for commits in limited public preview",
-          "title_original": "Push attribution for commits in limited public preview",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-12-push-attribution-public-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-12T16:30:11Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7662,
-      "importance": 0.7662,
-      "importance_score": 0.7662,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.73,
-        "recency": 0.7232,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-12T16:30:11Z",
-      "latest_at": "2026-10-12T16:30:11Z",
-      "primary_item": {
-        "id": "4e074d6e65757c2e5a30537f520bca332288c848",
-        "title": "在有限的公开预览中推送提交的归因 / Push attribution for commits in limited public preview",
-        "title_zh": "在有限的公开预览中推送提交的归因",
-        "title_en": "Push attribution for commits in limited public preview",
-        "title_original": "Push attribution for commits in limited public preview",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-12-push-attribution-public-preview",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-13T14:57:59.793270Z"
+        "scored_at": "2026-10-13T17:47:29.817395Z"
       }
     },
     {
@@ -1336,15 +1750,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7337,
-      "importance": 0.7337,
-      "importance_score": 0.7337,
+      "score": 0.727,
+      "importance": 0.727,
+      "importance_score": 0.727,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.684,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.9271,
+        "recency": 0.8901,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1369,559 +1783,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-13T14:57:59.793270Z"
-      }
-    },
-    {
-      "story_id": "story_cc9699be565c",
-      "title": "Show HN: 使用您的 OpenAI 订阅来制作有声读物 / Show HN: Use your OpenAI subscription to create audiobooks",
-      "url": "https://pdftomp3.com/connect-ai",
-      "primary_url": "https://pdftomp3.com/connect-ai",
-      "source": "Hacker News front page",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "afd20a0381d2b63034256398435f858094186016",
-          "title": "Show HN: 使用您的 OpenAI 订阅来制作有声读物 / Show HN: Use your OpenAI subscription to create audiobooks",
-          "title_zh": "Show HN: 使用您的 OpenAI 订阅来制作有声读物",
-          "title_en": "Show HN: Use your OpenAI subscription to create audiobooks",
-          "title_original": "Show HN: Use your OpenAI subscription to create audiobooks",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://pdftomp3.com/connect-ai",
-          "source": "Hacker News front page",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-13T10:08:34Z"
-        },
-        {
-          "id": "b238f17895613bb0a4b1788f539d3bdbaa51e236",
-          "title": "Show HN: 使用您的 OpenAI 订阅来制作有声读物",
-          "title_zh": "Show HN: 使用您的 OpenAI 订阅来制作有声读物",
-          "title_en": null,
-          "title_original": "Show HN: 使用您的 OpenAI 订阅来制作有声读物",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://pdftomp3.com/connect-ai",
-          "source": "pdftomp3.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-13T14:29:01.098000Z"
-        },
-        {
-          "id": "f8bfb6e1553b44437f9348f922a80b001e27d52c",
-          "title": "Show HN：使用您的 OpenAI 订阅来创建有声读物 / Show HN: Use your OpenAI subscription to create audiobooks",
-          "title_zh": "Show HN：使用您的 OpenAI 订阅来创建有声读物",
-          "title_en": "Show HN: Use your OpenAI subscription to create audiobooks",
-          "title_original": "Show HN: Use your OpenAI subscription to create audiobooks",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50069337",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-13T10:08:34Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News front page",
-        "hackernews",
-        "pdftomp3.com"
-      ],
-      "items": [
-        {
-          "id": "afd20a0381d2b63034256398435f858094186016",
-          "title": "Show HN: 使用您的 OpenAI 订阅来制作有声读物 / Show HN: Use your OpenAI subscription to create audiobooks",
-          "title_zh": "Show HN: 使用您的 OpenAI 订阅来制作有声读物",
-          "title_en": "Show HN: Use your OpenAI subscription to create audiobooks",
-          "title_original": "Show HN: Use your OpenAI subscription to create audiobooks",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://pdftomp3.com/connect-ai",
-          "source": "Hacker News front page",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-13T10:08:34Z"
-        },
-        {
-          "id": "b238f17895613bb0a4b1788f539d3bdbaa51e236",
-          "title": "Show HN: 使用您的 OpenAI 订阅来制作有声读物",
-          "title_zh": "Show HN: 使用您的 OpenAI 订阅来制作有声读物",
-          "title_en": null,
-          "title_original": "Show HN: 使用您的 OpenAI 订阅来制作有声读物",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://pdftomp3.com/connect-ai",
-          "source": "pdftomp3.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-13T14:29:01.098000Z"
-        },
-        {
-          "id": "f8bfb6e1553b44437f9348f922a80b001e27d52c",
-          "title": "Show HN：使用您的 OpenAI 订阅来创建有声读物 / Show HN: Use your OpenAI subscription to create audiobooks",
-          "title_zh": "Show HN：使用您的 OpenAI 订阅来创建有声读物",
-          "title_en": "Show HN: Use your OpenAI subscription to create audiobooks",
-          "title_original": "Show HN: Use your OpenAI subscription to create audiobooks",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50069337",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-13T10:08:34Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.6825,
-      "importance": 0.6825,
-      "importance_score": 0.6825,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.5832,
-        "source_tier": 0.58,
-        "ai_relevance": 0.81,
-        "recency": 0.933,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-13T10:08:34Z",
-      "latest_at": "2026-10-13T14:29:01.098000Z",
-      "primary_item": {
-        "id": "afd20a0381d2b63034256398435f858094186016",
-        "title": "Show HN: 使用您的 OpenAI 订阅来制作有声读物 / Show HN: Use your OpenAI subscription to create audiobooks",
-        "title_zh": "Show HN: 使用您的 OpenAI 订阅来制作有声读物",
-        "title_en": "Show HN: Use your OpenAI subscription to create audiobooks",
-        "title_original": "Show HN: Use your OpenAI subscription to create audiobooks",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://pdftomp3.com/connect-ai",
-        "source": "Hacker News front page",
-        "source_name": "Curated Media"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-13T14:57:59.793270Z"
-      }
-    },
-    {
-      "story_id": "story_f77f25222c33",
-      "title": "字节跳动单设大模型安全部门：给狂奔的智能体套上对齐的缰绳",
-      "url": "https://www.aibase.com/news/31604",
-      "primary_url": "https://www.aibase.com/news/31604",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "d5987c21bdb54611217b5f88b804202b668d477a",
-          "title": "字节跳动单设大模型安全部门：给狂奔的智能体套上对齐的缰绳",
-          "title_zh": "字节跳动单设大模型安全部门：给狂奔的智能体套上对齐的缰绳",
-          "title_en": null,
-          "title_original": "字节跳动单设大模型安全部门：给狂奔的智能体套上对齐的缰绳",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31604",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-13T09:42:06.567635Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "d5987c21bdb54611217b5f88b804202b668d477a",
-          "title": "字节跳动单设大模型安全部门：给狂奔的智能体套上对齐的缰绳",
-          "title_zh": "字节跳动单设大模型安全部门：给狂奔的智能体套上对齐的缰绳",
-          "title_en": null,
-          "title_original": "字节跳动单设大模型安全部门：给狂奔的智能体套上对齐的缰绳",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31604",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-13T09:42:06.567635Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7337,
-      "importance": 0.7337,
-      "importance_score": 0.7337,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.684,
-        "source_tier": 0.78,
-        "ai_relevance": 0.95,
-        "recency": 0.9271,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-13T09:42:06.567635Z",
-      "latest_at": "2026-10-13T09:42:06.567635Z",
-      "primary_item": {
-        "id": "d5987c21bdb54611217b5f88b804202b668d477a",
-        "title": "字节跳动单设大模型安全部门：给狂奔的智能体套上对齐的缰绳",
-        "title_zh": "字节跳动单设大模型安全部门：给狂奔的智能体套上对齐的缰绳",
-        "title_en": null,
-        "title_original": "字节跳动单设大模型安全部门：给狂奔的智能体套上对齐的缰绳",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31604",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-13T14:57:59.793270Z"
-      }
-    },
-    {
-      "story_id": "story_3e09a42052c8",
-      "title": "没有总开关的\"数字蠕虫\"：Anthropic 称小模型年底就能自己复制自己",
-      "url": "https://www.aibase.com/news/31610",
-      "primary_url": "https://www.aibase.com/news/31610",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "c25d158398ccd72447753a0f5cd8d099d1e854ed",
-          "title": "没有总开关的\"数字蠕虫\"：Anthropic 称小模型年底就能自己复制自己",
-          "title_zh": "没有总开关的\"数字蠕虫\"：Anthropic 称小模型年底就能自己复制自己",
-          "title_en": null,
-          "title_original": "没有总开关的\"数字蠕虫\"：Anthropic 称小模型年底就能自己复制自己",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31610",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-13T09:42:06.567635Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "c25d158398ccd72447753a0f5cd8d099d1e854ed",
-          "title": "没有总开关的\"数字蠕虫\"：Anthropic 称小模型年底就能自己复制自己",
-          "title_zh": "没有总开关的\"数字蠕虫\"：Anthropic 称小模型年底就能自己复制自己",
-          "title_en": null,
-          "title_original": "没有总开关的\"数字蠕虫\"：Anthropic 称小模型年底就能自己复制自己",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31610",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-13T09:42:06.567635Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7337,
-      "importance": 0.7337,
-      "importance_score": 0.7337,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.684,
-        "source_tier": 0.78,
-        "ai_relevance": 0.95,
-        "recency": 0.9271,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-13T09:42:06.567635Z",
-      "latest_at": "2026-10-13T09:42:06.567635Z",
-      "primary_item": {
-        "id": "c25d158398ccd72447753a0f5cd8d099d1e854ed",
-        "title": "没有总开关的\"数字蠕虫\"：Anthropic 称小模型年底就能自己复制自己",
-        "title_zh": "没有总开关的\"数字蠕虫\"：Anthropic 称小模型年底就能自己复制自己",
-        "title_en": null,
-        "title_original": "没有总开关的\"数字蠕虫\"：Anthropic 称小模型年底就能自己复制自己",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31610",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-13T14:57:59.793270Z"
-      }
-    },
-    {
-      "story_id": "story_44b6b5f4e96a",
-      "title": "英特尔 D270 GPU AI 加速器——最高支持 480 GB LPDDR5X / Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
-      "url": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
-      "primary_url": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
-      "source": "Hacker News front page",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "ce11cbcd9417ab5c1e71c85fefe519f1faae13ac",
-          "title": "英特尔 D270 GPU AI 加速器——最高支持 480 GB LPDDR5X / Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
-          "title_zh": "英特尔 D270 GPU AI 加速器——最高支持 480 GB LPDDR5X",
-          "title_en": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
-          "title_original": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
-          "source": "Hacker News front page",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-12T21:35:35Z"
-        },
-        {
-          "id": "8ed2041c29506787c0d5284621d33c58603f8ba3",
-          "title": "英特尔 D270 GPU AI 加速器——最高支持 480 GB LPDDR5X",
-          "title_zh": "英特尔 D270 GPU AI 加速器——最高支持 480 GB LPDDR5X",
-          "title_en": null,
-          "title_original": "英特尔 D270 GPU AI 加速器——最高支持 480 GB LPDDR5X",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
-          "source": "www.intel.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-13T09:23:14.160000Z"
-        },
-        {
-          "id": "4a0f7d6ae2b69bd1f6ea49589d547165e90767b0",
-          "title": "英特尔 D270 GPU AI 加速器 – 高达 480 GB LPDDR5X / Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
-          "title_zh": "英特尔 D270 GPU AI 加速器 – 高达 480 GB LPDDR5X",
-          "title_en": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
-          "title_original": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50063365",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-12T21:35:35Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News front page",
-        "hackernews",
-        "www.intel.com"
-      ],
-      "items": [
-        {
-          "id": "ce11cbcd9417ab5c1e71c85fefe519f1faae13ac",
-          "title": "英特尔 D270 GPU AI 加速器——最高支持 480 GB LPDDR5X / Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
-          "title_zh": "英特尔 D270 GPU AI 加速器——最高支持 480 GB LPDDR5X",
-          "title_en": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
-          "title_original": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
-          "source": "Hacker News front page",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-12T21:35:35Z"
-        },
-        {
-          "id": "8ed2041c29506787c0d5284621d33c58603f8ba3",
-          "title": "英特尔 D270 GPU AI 加速器——最高支持 480 GB LPDDR5X",
-          "title_zh": "英特尔 D270 GPU AI 加速器——最高支持 480 GB LPDDR5X",
-          "title_en": null,
-          "title_original": "英特尔 D270 GPU AI 加速器——最高支持 480 GB LPDDR5X",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
-          "source": "www.intel.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-13T09:23:14.160000Z"
-        },
-        {
-          "id": "4a0f7d6ae2b69bd1f6ea49589d547165e90767b0",
-          "title": "英特尔 D270 GPU AI 加速器 – 高达 480 GB LPDDR5X / Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
-          "title_zh": "英特尔 D270 GPU AI 加速器 – 高达 480 GB LPDDR5X",
-          "title_en": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
-          "title_original": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50063365",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-12T21:35:35Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.6671,
-      "importance": 0.6671,
-      "importance_score": 0.6671,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.6048,
-        "source_tier": 0.58,
-        "ai_relevance": 0.84,
-        "recency": 0.7784,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-12T21:35:35Z",
-      "latest_at": "2026-10-13T09:23:14.160000Z",
-      "primary_item": {
-        "id": "ce11cbcd9417ab5c1e71c85fefe519f1faae13ac",
-        "title": "英特尔 D270 GPU AI 加速器——最高支持 480 GB LPDDR5X / Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
-        "title_zh": "英特尔 D270 GPU AI 加速器——最高支持 480 GB LPDDR5X",
-        "title_en": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
-        "title_original": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
-        "source": "Hacker News front page",
-        "source_name": "Curated Media"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-13T14:57:59.793270Z"
-      }
-    },
-    {
-      "story_id": "story_407f73911a57",
-      "title": "对OpenAI和Anthropic说“不”",
-      "url": "https://micahflee.com/just-say-no-to-openai-and-anthropic",
-      "primary_url": "https://micahflee.com/just-say-no-to-openai-and-anthropic",
-      "source": "micahflee.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "202c2205fb75ebc90a488e4f3099e98736f1d22f",
-          "title": "对OpenAI和Anthropic说“不”",
-          "title_zh": "对OpenAI和Anthropic说“不”",
-          "title_en": null,
-          "title_original": "对OpenAI和Anthropic说“不”",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://micahflee.com/just-say-no-to-openai-and-anthropic",
-          "source": "micahflee.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-12T19:25:54.718000Z"
-        },
-        {
-          "id": "dd670288098d71a4d828e2dca0825e6e1cb33188",
-          "title": "对OpenAI和Anthropic说“不” / Just say no to OpenAI and Anthropic",
-          "title_zh": "对OpenAI和Anthropic说“不”",
-          "title_en": "Just say no to OpenAI and Anthropic",
-          "title_original": "Just say no to OpenAI and Anthropic",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://micahflee.com/just-say-no-to-openai-and-anthropic",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-12T18:17:29Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "micahflee.com"
-      ],
-      "items": [
-        {
-          "id": "202c2205fb75ebc90a488e4f3099e98736f1d22f",
-          "title": "对OpenAI和Anthropic说“不”",
-          "title_zh": "对OpenAI和Anthropic说“不”",
-          "title_en": null,
-          "title_original": "对OpenAI和Anthropic说“不”",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://micahflee.com/just-say-no-to-openai-and-anthropic",
-          "source": "micahflee.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-12T19:25:54.718000Z"
-        },
-        {
-          "id": "dd670288098d71a4d828e2dca0825e6e1cb33188",
-          "title": "对OpenAI和Anthropic说“不” / Just say no to OpenAI and Anthropic",
-          "title_zh": "对OpenAI和Anthropic说“不”",
-          "title_en": "Just say no to OpenAI and Anthropic",
-          "title_original": "Just say no to OpenAI and Anthropic",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://micahflee.com/just-say-no-to-openai-and-anthropic",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-12T18:17:29Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5557,
-      "importance": 0.5557,
-      "importance_score": 0.5557,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.5616,
-        "source_tier": 0.32,
-        "ai_relevance": 0.78,
-        "recency": 0.7545,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-12T18:17:29Z",
-      "latest_at": "2026-10-12T19:25:54.718000Z",
-      "primary_item": {
-        "id": "202c2205fb75ebc90a488e4f3099e98736f1d22f",
-        "title": "对OpenAI和Anthropic说“不”",
-        "title_zh": "对OpenAI和Anthropic说“不”",
-        "title_en": null,
-        "title_original": "对OpenAI和Anthropic说“不”",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://micahflee.com/just-say-no-to-openai-and-anthropic",
-        "source": "micahflee.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-13T14:57:59.793270Z"
+        "scored_at": "2026-10-13T17:47:29.817395Z"
       }
     }
   ]
