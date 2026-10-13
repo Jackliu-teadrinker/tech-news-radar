@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-12T23:34:11.657122Z",
+  "generated_at": "2026-10-13T02:12:47.273512Z",
   "window_hours": 24,
-  "total_items": 14,
+  "total_items": 20,
   "items": [
     {
       "story_id": "story_1327604ea90f",
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8075,
-      "importance": 0.8075,
-      "importance_score": 0.8075,
+      "score": 0.8013,
+      "importance": 0.8013,
+      "importance_score": 0.8013,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.76,
-        "recency": 0.9192,
+        "recency": 0.8847,
         "story_heat": 0.0
       },
       "category": "official",
@@ -82,7 +82,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-12T23:45:44.409630Z"
+        "scored_at": "2026-10-13T02:24:45.989064Z"
       }
     },
     {
@@ -130,15 +130,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7985,
-      "importance": 0.7985,
-      "importance_score": 0.7985,
+      "score": 0.7925,
+      "importance": 0.7925,
+      "importance_score": 0.7925,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.73,
-        "recency": 0.903,
+        "recency": 0.8692,
         "story_heat": 0.0
       },
       "category": "official",
@@ -164,7 +164,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-12T23:45:44.409630Z"
+        "scored_at": "2026-10-13T02:24:45.989064Z"
+      }
+    },
+    {
+      "story_id": "story_06f333b9aafa",
+      "title": "Anonymous organization-level registries for Dependabot",
+      "url": "https://github.blog/changelog/2026-10-12-anonymous-organization-level-registries-for-dependabot",
+      "primary_url": "https://github.blog/changelog/2026-10-12-anonymous-organization-level-registries-for-dependabot",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "089955f40de8038c107a9911361603ae50607306",
+          "title": "Anonymous organization-level registries for Dependabot",
+          "title_zh": null,
+          "title_en": "Anonymous organization-level registries for Dependabot",
+          "title_original": "Anonymous organization-level registries for Dependabot",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-12-anonymous-organization-level-registries-for-dependabot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-12T14:04:16Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "089955f40de8038c107a9911361603ae50607306",
+          "title": "Anonymous organization-level registries for Dependabot",
+          "title_zh": null,
+          "title_en": "Anonymous organization-level registries for Dependabot",
+          "title_original": "Anonymous organization-level registries for Dependabot",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-12-anonymous-organization-level-registries-for-dependabot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-12T14:04:16Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7871,
+      "importance": 0.7871,
+      "importance_score": 0.7871,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.73,
+        "recency": 0.8392,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-12T14:04:16Z",
+      "latest_at": "2026-10-12T14:04:16Z",
+      "primary_item": {
+        "id": "089955f40de8038c107a9911361603ae50607306",
+        "title": "Anonymous organization-level registries for Dependabot",
+        "title_zh": null,
+        "title_en": "Anonymous organization-level registries for Dependabot",
+        "title_original": "Anonymous organization-level registries for Dependabot",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-10-12-anonymous-organization-level-registries-for-dependabot",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-13T02:24:45.989064Z"
       }
     },
     {
@@ -212,15 +294,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7626,
-      "importance": 0.7626,
-      "importance_score": 0.7626,
+      "score": 0.7563,
+      "importance": 0.7563,
+      "importance_score": 0.7563,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.9275,
+        "recency": 0.8928,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -246,7 +328,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-12T23:45:44.409630Z"
+        "scored_at": "2026-10-13T02:24:45.989064Z"
       }
     },
     {
@@ -294,15 +376,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7619,
-      "importance": 0.7619,
-      "importance_score": 0.7619,
+      "score": 0.7557,
+      "importance": 0.7557,
+      "importance_score": 0.7557,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.9238,
+        "recency": 0.8892,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -328,118 +410,500 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-12T23:45:44.409630Z"
+        "scored_at": "2026-10-13T02:24:45.989064Z"
       }
     },
     {
-      "story_id": "story_bfd50c0d14b1",
-      "title": "GPT-6.1 Sol 在 Codex 与 Work 中默认上下文长度提升至 500k",
-      "url": "https://x.com/thsottiaux/status/2109430343346581527",
-      "primary_url": "https://x.com/thsottiaux/status/2109430343346581527",
-      "source": "X：Tibo (@thsottiaux)",
-      "source_name": "AI HOT",
+      "story_id": "story_af833dea3300",
+      "title": "Meta端出Muse Wonder对标GPT- 6 与Claude，内部代号\"西瓜\"、烤肉直播里剧透",
+      "url": "https://www.aibase.com/news/31572",
+      "primary_url": "https://www.aibase.com/news/31572",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "7921d07cf3992ab1a77138e5c638870e2449d8fd",
-          "title": "GPT-6.1 Sol 在 Codex 与 Work 中默认上下文长度提升至 500k",
-          "title_zh": "GPT-6.1 Sol 在 Codex 与 Work 中默认上下文长度提升至 500k",
+          "id": "a129178d1c13aa8df01f61c84f2e8570050675a9",
+          "title": "Meta端出Muse Wonder对标GPT- 6 与Claude，内部代号\"西瓜\"、烤肉直播里剧透",
+          "title_zh": "Meta端出Muse Wonder对标GPT- 6 与Claude，内部代号\"西瓜\"、烤肉直播里剧透",
           "title_en": null,
-          "title_original": "GPT-6.1 Sol 在 Codex 与 Work 中默认上下文长度提升至 500k",
-          "summary": "Tibo 宣布 GPT-6.1 Sol 在 Codex 与 Work 中的默认上下文长度从 272k 提升到 500k，约增加 80%。此举可减少压缩（compaction）发生，帮助需要长期保留大量上下文和细节的任务；用户仍可自行覆盖设置，模型最大上下文长度为 1M。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/thsottiaux/status/2109430343346581527",
-          "source": "X：Tibo (@thsottiaux)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-11T23:45:59Z"
-        },
-        {
-          "id": "5e00d77cbcb5a808b5af90105220dee3ba7bc6c1",
-          "title": "GPT-6.1 Sol 在 Codex 与 Work 中默认上下文长度提升至 500k / Day 7/ We have increased default context length for GPT-6.1 Sol to 500k when used through Codex & Work, up from 272k or an ~ 80% increase. We will go higher in the future, but it helps reduce occurrence of compactions...",
-          "title_zh": "GPT-6.1 Sol 在 Codex 与 Work 中默认上下文长度提升至 500k",
-          "title_en": "Day 7/ We have increased default context length for GPT-6.1 Sol to 500k when used through Codex & Work, up from 272k or an ~ 80% increase. We will go higher in the future, but it helps reduce occurrence of compactions...",
-          "title_original": "Day 7/ We have increased default context length for GPT-6.1 Sol to 500k when used through Codex & Work, up from 272k or an ~ 80% increase. We will go higher in the future, but it helps reduce occurrence of compactions...",
+          "title_original": "Meta端出Muse Wonder对标GPT- 6 与Claude，内部代号\"西瓜\"、烤肉直播里剧透",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://x.com/thsottiaux/status/2109430343346581527",
-          "source": "Follow Builders · X · Thibault Sottiaux",
-          "source_name": "Follow Builders",
-          "site_id": "followbuilders",
-          "published_at": "2026-10-11T23:45:59Z"
+          "url": "https://www.aibase.com/news/31572",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-13T02:12:47.273512Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "Follow Builders · X · Thibault Sottiaux",
-        "X：Tibo (@thsottiaux)"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "7921d07cf3992ab1a77138e5c638870e2449d8fd",
-          "title": "GPT-6.1 Sol 在 Codex 与 Work 中默认上下文长度提升至 500k",
-          "title_zh": "GPT-6.1 Sol 在 Codex 与 Work 中默认上下文长度提升至 500k",
+          "id": "a129178d1c13aa8df01f61c84f2e8570050675a9",
+          "title": "Meta端出Muse Wonder对标GPT- 6 与Claude，内部代号\"西瓜\"、烤肉直播里剧透",
+          "title_zh": "Meta端出Muse Wonder对标GPT- 6 与Claude，内部代号\"西瓜\"、烤肉直播里剧透",
           "title_en": null,
-          "title_original": "GPT-6.1 Sol 在 Codex 与 Work 中默认上下文长度提升至 500k",
-          "summary": "Tibo 宣布 GPT-6.1 Sol 在 Codex 与 Work 中的默认上下文长度从 272k 提升到 500k，约增加 80%。此举可减少压缩（compaction）发生，帮助需要长期保留大量上下文和细节的任务；用户仍可自行覆盖设置，模型最大上下文长度为 1M。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/thsottiaux/status/2109430343346581527",
-          "source": "X：Tibo (@thsottiaux)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-11T23:45:59Z"
-        },
-        {
-          "id": "5e00d77cbcb5a808b5af90105220dee3ba7bc6c1",
-          "title": "GPT-6.1 Sol 在 Codex 与 Work 中默认上下文长度提升至 500k / Day 7/ We have increased default context length for GPT-6.1 Sol to 500k when used through Codex & Work, up from 272k or an ~ 80% increase. We will go higher in the future, but it helps reduce occurrence of compactions...",
-          "title_zh": "GPT-6.1 Sol 在 Codex 与 Work 中默认上下文长度提升至 500k",
-          "title_en": "Day 7/ We have increased default context length for GPT-6.1 Sol to 500k when used through Codex & Work, up from 272k or an ~ 80% increase. We will go higher in the future, but it helps reduce occurrence of compactions...",
-          "title_original": "Day 7/ We have increased default context length for GPT-6.1 Sol to 500k when used through Codex & Work, up from 272k or an ~ 80% increase. We will go higher in the future, but it helps reduce occurrence of compactions...",
+          "title_original": "Meta端出Muse Wonder对标GPT- 6 与Claude，内部代号\"西瓜\"、烤肉直播里剧透",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://x.com/thsottiaux/status/2109430343346581527",
-          "source": "Follow Builders · X · Thibault Sottiaux",
-          "source_name": "Follow Builders",
-          "site_id": "followbuilders",
-          "published_at": "2026-10-11T23:45:59Z"
+          "url": "https://www.aibase.com/news/31572",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-13T02:12:47.273512Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6942,
-      "importance": 0.6942,
-      "importance_score": 0.6942,
-      "importance_label": "值得关注",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7468,
+      "importance": 0.7468,
+      "importance_score": 0.7468,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.6,
+        "editorial": 0.684,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.7091,
-        "story_heat": 0.25
+        "recency": 1.0,
+        "story_heat": 0.0
       },
-      "category": "watch",
+      "category": "industry",
       "reasons": [
-        "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-11T23:45:59Z",
-      "latest_at": "2026-10-11T23:45:59Z",
+      "earliest_at": "2026-10-13T02:12:47.273512Z",
+      "latest_at": "2026-10-13T02:12:47.273512Z",
       "primary_item": {
-        "id": "7921d07cf3992ab1a77138e5c638870e2449d8fd",
-        "title": "GPT-6.1 Sol 在 Codex 与 Work 中默认上下文长度提升至 500k",
-        "title_zh": "GPT-6.1 Sol 在 Codex 与 Work 中默认上下文长度提升至 500k",
+        "id": "a129178d1c13aa8df01f61c84f2e8570050675a9",
+        "title": "Meta端出Muse Wonder对标GPT- 6 与Claude，内部代号\"西瓜\"、烤肉直播里剧透",
+        "title_zh": "Meta端出Muse Wonder对标GPT- 6 与Claude，内部代号\"西瓜\"、烤肉直播里剧透",
         "title_en": null,
-        "title_original": "GPT-6.1 Sol 在 Codex 与 Work 中默认上下文长度提升至 500k",
-        "summary": "Tibo 宣布 GPT-6.1 Sol 在 Codex 与 Work 中的默认上下文长度从 272k 提升到 500k，约增加 80%。此举可减少压缩（compaction）发生，帮助需要长期保留大量上下文和细节的任务；用户仍可自行覆盖设置，模型最大上下文长度为 1M。",
+        "title_original": "Meta端出Muse Wonder对标GPT- 6 与Claude，内部代号\"西瓜\"、烤肉直播里剧透",
+        "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://x.com/thsottiaux/status/2109430343346581527",
-        "source": "X：Tibo (@thsottiaux)",
-        "source_name": "AI HOT"
+        "url": "https://www.aibase.com/news/31572",
+        "source": "AIbase",
+        "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-12T23:45:44.409630Z"
+        "scored_at": "2026-10-13T02:24:45.989064Z"
+      }
+    },
+    {
+      "story_id": "story_a00783ceb298",
+      "title": "OpenAI拟以股权合作方式重启Sora 转向好莱坞专业影视制作市场",
+      "url": "https://www.aibase.com/news/31580",
+      "primary_url": "https://www.aibase.com/news/31580",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "f0eb7efbe570c0c4f69eda432bb5353656e858a8",
+          "title": "OpenAI拟以股权合作方式重启Sora 转向好莱坞专业影视制作市场",
+          "title_zh": "OpenAI拟以股权合作方式重启Sora 转向好莱坞专业影视制作市场",
+          "title_en": null,
+          "title_original": "OpenAI拟以股权合作方式重启Sora 转向好莱坞专业影视制作市场",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31580",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-13T02:12:47.273512Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "f0eb7efbe570c0c4f69eda432bb5353656e858a8",
+          "title": "OpenAI拟以股权合作方式重启Sora 转向好莱坞专业影视制作市场",
+          "title_zh": "OpenAI拟以股权合作方式重启Sora 转向好莱坞专业影视制作市场",
+          "title_en": null,
+          "title_original": "OpenAI拟以股权合作方式重启Sora 转向好莱坞专业影视制作市场",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31580",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-13T02:12:47.273512Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7468,
+      "importance": 0.7468,
+      "importance_score": 0.7468,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.684,
+        "source_tier": 0.78,
+        "ai_relevance": 0.95,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-13T02:12:47.273512Z",
+      "latest_at": "2026-10-13T02:12:47.273512Z",
+      "primary_item": {
+        "id": "f0eb7efbe570c0c4f69eda432bb5353656e858a8",
+        "title": "OpenAI拟以股权合作方式重启Sora 转向好莱坞专业影视制作市场",
+        "title_zh": "OpenAI拟以股权合作方式重启Sora 转向好莱坞专业影视制作市场",
+        "title_en": null,
+        "title_original": "OpenAI拟以股权合作方式重启Sora 转向好莱坞专业影视制作市场",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31580",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-13T02:24:45.989064Z"
+      }
+    },
+    {
+      "story_id": "story_fae6ac7ea602",
+      "title": "GPT-6 Astra 帮助我越狱了我的 Kindle / GPT-6 Astra Helped Me Jailbreak My Kindle",
+      "url": "https://nirajrajgor.com/blog/kindle-photo-frame-with-ai",
+      "primary_url": "https://nirajrajgor.com/blog/kindle-photo-frame-with-ai",
+      "source": "Hacker News front page",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "5aea984081398d42ba1d7cbcdf8bf66df48873cd",
+          "title": "GPT-6 Astra 帮助我越狱了我的 Kindle / GPT-6 Astra Helped Me Jailbreak My Kindle",
+          "title_zh": "GPT-6 Astra 帮助我越狱了我的 Kindle",
+          "title_en": "GPT-6 Astra Helped Me Jailbreak My Kindle",
+          "title_original": "GPT-6 Astra Helped Me Jailbreak My Kindle",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://nirajrajgor.com/blog/kindle-photo-frame-with-ai",
+          "source": "Hacker News front page",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-12T23:07:25Z"
+        },
+        {
+          "id": "b1300804fee9f1f531ae29784b4126ef89a2fc1e",
+          "title": "GPT-6 Astra 帮助我越狱了我的 Kindle",
+          "title_zh": "GPT-6 Astra 帮助我越狱了我的 Kindle",
+          "title_en": null,
+          "title_original": "GPT-6 Astra 帮助我越狱了我的 Kindle",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://nirajrajgor.com/blog/kindle-photo-frame-with-ai",
+          "source": "nirajrajgor.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-13T01:47:55.127000Z"
+        },
+        {
+          "id": "2651e0e35611b89b7d2824e609552a0c307b6d5a",
+          "title": "GPT-6 Astra Helped Me Jailbreak My Kindle",
+          "title_zh": null,
+          "title_en": "GPT-6 Astra Helped Me Jailbreak My Kindle",
+          "title_original": "GPT-6 Astra Helped Me Jailbreak My Kindle",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50064318",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-12T23:07:25Z"
+        },
+        {
+          "id": "e622d7b04707002e6579f683fdca5e44c14b370b",
+          "title": "GPT-6 Astra 帮助我越狱了我的 Kindle / I turned my unused Kindle into a photo frame with GPT-6 Astra",
+          "title_zh": "GPT-6 Astra 帮助我越狱了我的 Kindle",
+          "title_en": "I turned my unused Kindle into a photo frame with GPT-6 Astra",
+          "title_original": "I turned my unused Kindle into a photo frame with GPT-6 Astra",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://nirajrajgor.com/blog/kindle-photo-frame-with-ai",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-12T23:07:25Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "Hacker News front page",
+        "Hacker News · 24h最热",
+        "hackernews",
+        "nirajrajgor.com"
+      ],
+      "items": [
+        {
+          "id": "5aea984081398d42ba1d7cbcdf8bf66df48873cd",
+          "title": "GPT-6 Astra 帮助我越狱了我的 Kindle / GPT-6 Astra Helped Me Jailbreak My Kindle",
+          "title_zh": "GPT-6 Astra 帮助我越狱了我的 Kindle",
+          "title_en": "GPT-6 Astra Helped Me Jailbreak My Kindle",
+          "title_original": "GPT-6 Astra Helped Me Jailbreak My Kindle",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://nirajrajgor.com/blog/kindle-photo-frame-with-ai",
+          "source": "Hacker News front page",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-12T23:07:25Z"
+        },
+        {
+          "id": "b1300804fee9f1f531ae29784b4126ef89a2fc1e",
+          "title": "GPT-6 Astra 帮助我越狱了我的 Kindle",
+          "title_zh": "GPT-6 Astra 帮助我越狱了我的 Kindle",
+          "title_en": null,
+          "title_original": "GPT-6 Astra 帮助我越狱了我的 Kindle",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://nirajrajgor.com/blog/kindle-photo-frame-with-ai",
+          "source": "nirajrajgor.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-13T01:47:55.127000Z"
+        },
+        {
+          "id": "2651e0e35611b89b7d2824e609552a0c307b6d5a",
+          "title": "GPT-6 Astra Helped Me Jailbreak My Kindle",
+          "title_zh": null,
+          "title_en": "GPT-6 Astra Helped Me Jailbreak My Kindle",
+          "title_original": "GPT-6 Astra Helped Me Jailbreak My Kindle",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50064318",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-12T23:07:25Z"
+        },
+        {
+          "id": "e622d7b04707002e6579f683fdca5e44c14b370b",
+          "title": "GPT-6 Astra 帮助我越狱了我的 Kindle / I turned my unused Kindle into a photo frame with GPT-6 Astra",
+          "title_zh": "GPT-6 Astra 帮助我越狱了我的 Kindle",
+          "title_en": "I turned my unused Kindle into a photo frame with GPT-6 Astra",
+          "title_original": "I turned my unused Kindle into a photo frame with GPT-6 Astra",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://nirajrajgor.com/blog/kindle-photo-frame-with-ai",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-12T23:07:25Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.7117,
+      "importance": 0.7117,
+      "importance_score": 0.7117,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.5832,
+        "source_tier": 0.58,
+        "ai_relevance": 0.81,
+        "recency": 0.9564,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-12T23:07:25Z",
+      "latest_at": "2026-10-13T01:47:55.127000Z",
+      "primary_item": {
+        "id": "5aea984081398d42ba1d7cbcdf8bf66df48873cd",
+        "title": "GPT-6 Astra 帮助我越狱了我的 Kindle / GPT-6 Astra Helped Me Jailbreak My Kindle",
+        "title_zh": "GPT-6 Astra 帮助我越狱了我的 Kindle",
+        "title_en": "GPT-6 Astra Helped Me Jailbreak My Kindle",
+        "title_original": "GPT-6 Astra Helped Me Jailbreak My Kindle",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://nirajrajgor.com/blog/kindle-photo-frame-with-ai",
+        "source": "Hacker News front page",
+        "source_name": "Curated Media"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-13T02:24:45.989064Z"
+      }
+    },
+    {
+      "story_id": "story_44e9421b5ba8",
+      "title": "OpenAI给ChatGPT装上交互界面，手搓AI应用赛道要被跨域了",
+      "url": "https://www.aibase.com/news/31573",
+      "primary_url": "https://www.aibase.com/news/31573",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "583450795fa0231ddcd50b8d182cb2a5e722ece1",
+          "title": "OpenAI给ChatGPT装上交互界面，手搓AI应用赛道要被跨域了",
+          "title_zh": "OpenAI给ChatGPT装上交互界面，手搓AI应用赛道要被跨域了",
+          "title_en": null,
+          "title_original": "OpenAI给ChatGPT装上交互界面，手搓AI应用赛道要被跨域了",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31573",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-13T02:12:47.273512Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "583450795fa0231ddcd50b8d182cb2a5e722ece1",
+          "title": "OpenAI给ChatGPT装上交互界面，手搓AI应用赛道要被跨域了",
+          "title_zh": "OpenAI给ChatGPT装上交互界面，手搓AI应用赛道要被跨域了",
+          "title_en": null,
+          "title_original": "OpenAI给ChatGPT装上交互界面，手搓AI应用赛道要被跨域了",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31573",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-13T02:12:47.273512Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7468,
+      "importance": 0.7468,
+      "importance_score": 0.7468,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.684,
+        "source_tier": 0.78,
+        "ai_relevance": 0.95,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-13T02:12:47.273512Z",
+      "latest_at": "2026-10-13T02:12:47.273512Z",
+      "primary_item": {
+        "id": "583450795fa0231ddcd50b8d182cb2a5e722ece1",
+        "title": "OpenAI给ChatGPT装上交互界面，手搓AI应用赛道要被跨域了",
+        "title_zh": "OpenAI给ChatGPT装上交互界面，手搓AI应用赛道要被跨域了",
+        "title_en": null,
+        "title_original": "OpenAI给ChatGPT装上交互界面，手搓AI应用赛道要被跨域了",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31573",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-13T02:24:45.989064Z"
+      }
+    },
+    {
+      "story_id": "story_5c3b7bc2e45a",
+      "title": "估值4亿美元!DeepSeek出手布局人形机器人AI赛道",
+      "url": "https://www.aibase.com/news/31574",
+      "primary_url": "https://www.aibase.com/news/31574",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "5057abdae034f75116a7e762d82e9170695e24bd",
+          "title": "估值4亿美元!DeepSeek出手布局人形机器人AI赛道",
+          "title_zh": "估值4亿美元!DeepSeek出手布局人形机器人AI赛道",
+          "title_en": null,
+          "title_original": "估值4亿美元!DeepSeek出手布局人形机器人AI赛道",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31574",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-13T02:12:47.273512Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "5057abdae034f75116a7e762d82e9170695e24bd",
+          "title": "估值4亿美元!DeepSeek出手布局人形机器人AI赛道",
+          "title_zh": "估值4亿美元!DeepSeek出手布局人形机器人AI赛道",
+          "title_en": null,
+          "title_original": "估值4亿美元!DeepSeek出手布局人形机器人AI赛道",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31574",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-13T02:12:47.273512Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7468,
+      "importance": 0.7468,
+      "importance_score": 0.7468,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.684,
+        "source_tier": 0.78,
+        "ai_relevance": 0.95,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-13T02:12:47.273512Z",
+      "latest_at": "2026-10-13T02:12:47.273512Z",
+      "primary_item": {
+        "id": "5057abdae034f75116a7e762d82e9170695e24bd",
+        "title": "估值4亿美元!DeepSeek出手布局人形机器人AI赛道",
+        "title_zh": "估值4亿美元!DeepSeek出手布局人形机器人AI赛道",
+        "title_en": null,
+        "title_original": "估值4亿美元!DeepSeek出手布局人形机器人AI赛道",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31574",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-13T02:24:45.989064Z"
       }
     },
     {
@@ -574,15 +1038,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.6913,
-      "importance": 0.6913,
-      "importance_score": 0.6913,
+      "score": 0.6852,
+      "importance": 0.6852,
+      "importance_score": 0.6852,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5616,
         "source_tier": 0.58,
         "ai_relevance": 0.78,
-        "recency": 0.9126,
+        "recency": 0.8784,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -607,167 +1071,191 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-12T23:45:44.409630Z"
+        "scored_at": "2026-10-13T02:24:45.989064Z"
       }
     },
     {
-      "story_id": "story_699de06c9e23",
-      "title": "研究机构称Anthropic的IPO是“对投资者轻信程度的史无前例的考验” / Research Firm Calls Anthropic's IPO 'Unprecedented Test of Investor Gullibity'",
-      "url": "https://www.cnbc.com/2026/10/07/anthropic-will-be-most-ridiculous-ipo-of-year-analyst-says.html",
-      "primary_url": "https://www.cnbc.com/2026/10/07/anthropic-will-be-most-ridiculous-ipo-of-year-analyst-says.html",
+      "story_id": "story_a1157fadd5d8",
+      "title": "微软发布第三代自研AI芯片Maia300，计划2027年投产",
+      "url": "https://www.aibase.com/news/31577",
+      "primary_url": "https://www.aibase.com/news/31577",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "fd1ed1651caa172f4517f5d1d14742901285080f",
+          "title": "微软发布第三代自研AI芯片Maia300，计划2027年投产",
+          "title_zh": "微软发布第三代自研AI芯片Maia300，计划2027年投产",
+          "title_en": null,
+          "title_original": "微软发布第三代自研AI芯片Maia300，计划2027年投产",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31577",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-13T02:12:47.273512Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "fd1ed1651caa172f4517f5d1d14742901285080f",
+          "title": "微软发布第三代自研AI芯片Maia300，计划2027年投产",
+          "title_zh": "微软发布第三代自研AI芯片Maia300，计划2027年投产",
+          "title_en": null,
+          "title_original": "微软发布第三代自研AI芯片Maia300，计划2027年投产",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31577",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-13T02:12:47.273512Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7468,
+      "importance": 0.7468,
+      "importance_score": 0.7468,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.684,
+        "source_tier": 0.78,
+        "ai_relevance": 0.95,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-13T02:12:47.273512Z",
+      "latest_at": "2026-10-13T02:12:47.273512Z",
+      "primary_item": {
+        "id": "fd1ed1651caa172f4517f5d1d14742901285080f",
+        "title": "微软发布第三代自研AI芯片Maia300，计划2027年投产",
+        "title_zh": "微软发布第三代自研AI芯片Maia300，计划2027年投产",
+        "title_en": null,
+        "title_original": "微软发布第三代自研AI芯片Maia300，计划2027年投产",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31577",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-13T02:24:45.989064Z"
+      }
+    },
+    {
+      "story_id": "story_44b6b5f4e96a",
+      "title": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
+      "url": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
+      "primary_url": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
       "source": "Hacker News front page",
       "source_name": "Curated Media",
       "sources": [
         {
-          "id": "2e1aa43d5889de24db824bb1b688469a72f435b6",
-          "title": "研究机构称Anthropic的IPO是“对投资者轻信程度的史无前例的考验” / Research Firm Calls Anthropic's IPO 'Unprecedented Test of Investor Gullibity'",
-          "title_zh": "研究机构称Anthropic的IPO是“对投资者轻信程度的史无前例的考验”",
-          "title_en": "Research Firm Calls Anthropic's IPO 'Unprecedented Test of Investor Gullibity'",
-          "title_original": "Research Firm Calls Anthropic's IPO 'Unprecedented Test of Investor Gullibity'",
+          "id": "ce11cbcd9417ab5c1e71c85fefe519f1faae13ac",
+          "title": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
+          "title_zh": null,
+          "title_en": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
+          "title_original": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.cnbc.com/2026/10/07/anthropic-will-be-most-ridiculous-ipo-of-year-analyst-says.html",
+          "url": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
           "source": "Hacker News front page",
           "source_name": "Curated Media",
           "site_id": "curated_media",
-          "published_at": "2026-10-12T05:03:47Z"
+          "published_at": "2026-10-12T21:35:35Z"
         },
         {
-          "id": "e836625ca0958d53610a4213c5c05b370e36fb43",
-          "title": "研究机构称Anthropic的IPO是“对投资者轻信程度的史无前例的考验”",
-          "title_zh": "研究机构称Anthropic的IPO是“对投资者轻信程度的史无前例的考验”",
-          "title_en": null,
-          "title_original": "研究机构称Anthropic的IPO是“对投资者轻信程度的史无前例的考验”",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.cnbc.com/2026/10/07/anthropic-will-be-most-ridiculous-ipo-of-year-analyst-says.html",
-          "source": "www.cnbc.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-12T11:44:08.530000Z"
-        },
-        {
-          "id": "ccac9711f886a42474949e6632ce27a336123513",
-          "title": "Research Firm Calls Anthropic's IPO 'Unprecedented Test of Investor Gullibity'",
+          "id": "4a0f7d6ae2b69bd1f6ea49589d547165e90767b0",
+          "title": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
           "title_zh": null,
-          "title_en": "Research Firm Calls Anthropic's IPO 'Unprecedented Test of Investor Gullibity'",
-          "title_original": "Research Firm Calls Anthropic's IPO 'Unprecedented Test of Investor Gullibity'",
+          "title_en": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
+          "title_original": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50051583",
+          "url": "https://news.ycombinator.com/item?id=50063365",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-12T05:03:47Z"
-        },
-        {
-          "id": "5a3c879cec8abf93c678812f7416ab91cd7e85b1",
-          "title": "Research Firm Calls Anthropic's Upcoming IPO 'Unprecedented Test of Investor Gullibity'",
-          "title_zh": null,
-          "title_en": "Research Firm Calls Anthropic's Upcoming IPO 'Unprecedented Test of Investor Gullibity'",
-          "title_original": "Research Firm Calls Anthropic's Upcoming IPO 'Unprecedented Test of Investor Gullibity'",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://slashdot.org/story/26/10/11/2355238/research-firm-calls-anthropics-upcoming-ipo-unprecedented-test-of-investor-gullibity",
-          "source": "Slashdot",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-11T23:58:00Z"
+          "published_at": "2026-10-12T21:35:35Z"
         }
       ],
-      "source_count": 4,
+      "source_count": 2,
       "source_names": [
         "Hacker News front page",
-        "Slashdot",
-        "hackernews",
-        "www.cnbc.com"
+        "hackernews"
       ],
       "items": [
         {
-          "id": "2e1aa43d5889de24db824bb1b688469a72f435b6",
-          "title": "研究机构称Anthropic的IPO是“对投资者轻信程度的史无前例的考验” / Research Firm Calls Anthropic's IPO 'Unprecedented Test of Investor Gullibity'",
-          "title_zh": "研究机构称Anthropic的IPO是“对投资者轻信程度的史无前例的考验”",
-          "title_en": "Research Firm Calls Anthropic's IPO 'Unprecedented Test of Investor Gullibity'",
-          "title_original": "Research Firm Calls Anthropic's IPO 'Unprecedented Test of Investor Gullibity'",
+          "id": "ce11cbcd9417ab5c1e71c85fefe519f1faae13ac",
+          "title": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
+          "title_zh": null,
+          "title_en": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
+          "title_original": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.cnbc.com/2026/10/07/anthropic-will-be-most-ridiculous-ipo-of-year-analyst-says.html",
+          "url": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
           "source": "Hacker News front page",
           "source_name": "Curated Media",
           "site_id": "curated_media",
-          "published_at": "2026-10-12T05:03:47Z"
+          "published_at": "2026-10-12T21:35:35Z"
         },
         {
-          "id": "e836625ca0958d53610a4213c5c05b370e36fb43",
-          "title": "研究机构称Anthropic的IPO是“对投资者轻信程度的史无前例的考验”",
-          "title_zh": "研究机构称Anthropic的IPO是“对投资者轻信程度的史无前例的考验”",
-          "title_en": null,
-          "title_original": "研究机构称Anthropic的IPO是“对投资者轻信程度的史无前例的考验”",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.cnbc.com/2026/10/07/anthropic-will-be-most-ridiculous-ipo-of-year-analyst-says.html",
-          "source": "www.cnbc.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-12T11:44:08.530000Z"
-        },
-        {
-          "id": "ccac9711f886a42474949e6632ce27a336123513",
-          "title": "Research Firm Calls Anthropic's IPO 'Unprecedented Test of Investor Gullibity'",
+          "id": "4a0f7d6ae2b69bd1f6ea49589d547165e90767b0",
+          "title": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
           "title_zh": null,
-          "title_en": "Research Firm Calls Anthropic's IPO 'Unprecedented Test of Investor Gullibity'",
-          "title_original": "Research Firm Calls Anthropic's IPO 'Unprecedented Test of Investor Gullibity'",
+          "title_en": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
+          "title_original": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50051583",
+          "url": "https://news.ycombinator.com/item?id=50063365",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-12T05:03:47Z"
-        },
-        {
-          "id": "5a3c879cec8abf93c678812f7416ab91cd7e85b1",
-          "title": "Research Firm Calls Anthropic's Upcoming IPO 'Unprecedented Test of Investor Gullibity'",
-          "title_zh": null,
-          "title_en": "Research Firm Calls Anthropic's Upcoming IPO 'Unprecedented Test of Investor Gullibity'",
-          "title_original": "Research Firm Calls Anthropic's Upcoming IPO 'Unprecedented Test of Investor Gullibity'",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://slashdot.org/story/26/10/11/2355238/research-firm-calls-anthropics-upcoming-ipo-unprecedented-test-of-investor-gullibity",
-          "source": "Slashdot",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-11T23:58:00Z"
+          "published_at": "2026-10-12T21:35:35Z"
         }
       ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.6649,
-      "importance": 0.6649,
-      "importance_score": 0.6649,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6704,
+      "importance": 0.6704,
+      "importance_score": 0.6704,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.5616,
+        "editorial": 0.6048,
         "source_tier": 0.58,
-        "ai_relevance": 0.78,
-        "recency": 0.7655,
-        "story_heat": 0.75
+        "ai_relevance": 0.84,
+        "recency": 0.9355,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "watch",
       "reasons": [
-        "multi_source"
+        "multi_source",
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-11T23:58:00Z",
-      "latest_at": "2026-10-12T11:44:08.530000Z",
+      "earliest_at": "2026-10-12T21:35:35Z",
+      "latest_at": "2026-10-12T21:35:35Z",
       "primary_item": {
-        "id": "2e1aa43d5889de24db824bb1b688469a72f435b6",
-        "title": "研究机构称Anthropic的IPO是“对投资者轻信程度的史无前例的考验” / Research Firm Calls Anthropic's IPO 'Unprecedented Test of Investor Gullibity'",
-        "title_zh": "研究机构称Anthropic的IPO是“对投资者轻信程度的史无前例的考验”",
-        "title_en": "Research Firm Calls Anthropic's IPO 'Unprecedented Test of Investor Gullibity'",
-        "title_original": "Research Firm Calls Anthropic's IPO 'Unprecedented Test of Investor Gullibity'",
+        "id": "ce11cbcd9417ab5c1e71c85fefe519f1faae13ac",
+        "title": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
+        "title_zh": null,
+        "title_en": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
+        "title_original": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.cnbc.com/2026/10/07/anthropic-will-be-most-ridiculous-ipo-of-year-analyst-says.html",
+        "url": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
         "source": "Hacker News front page",
         "source_name": "Curated Media"
       },
@@ -775,7 +1263,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-12T23:45:44.409630Z"
+        "scored_at": "2026-10-13T02:24:45.989064Z"
+      }
+    },
+    {
+      "story_id": "story_dd5acd70d709",
+      "title": "微软押注自研Maia芯片： 2027 年铺到吉瓦级，纳德拉称\"对自家硅最大一赌\"",
+      "url": "https://www.aibase.com/news/31579",
+      "primary_url": "https://www.aibase.com/news/31579",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "cc906e0e8a06597c7b4b830a274fc3e2918f9030",
+          "title": "微软押注自研Maia芯片： 2027 年铺到吉瓦级，纳德拉称\"对自家硅最大一赌\"",
+          "title_zh": "微软押注自研Maia芯片： 2027 年铺到吉瓦级，纳德拉称\"对自家硅最大一赌\"",
+          "title_en": null,
+          "title_original": "微软押注自研Maia芯片： 2027 年铺到吉瓦级，纳德拉称\"对自家硅最大一赌\"",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31579",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-13T02:12:47.273512Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "cc906e0e8a06597c7b4b830a274fc3e2918f9030",
+          "title": "微软押注自研Maia芯片： 2027 年铺到吉瓦级，纳德拉称\"对自家硅最大一赌\"",
+          "title_zh": "微软押注自研Maia芯片： 2027 年铺到吉瓦级，纳德拉称\"对自家硅最大一赌\"",
+          "title_en": null,
+          "title_original": "微软押注自研Maia芯片： 2027 年铺到吉瓦级，纳德拉称\"对自家硅最大一赌\"",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31579",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-13T02:12:47.273512Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7468,
+      "importance": 0.7468,
+      "importance_score": 0.7468,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.684,
+        "source_tier": 0.78,
+        "ai_relevance": 0.95,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-13T02:12:47.273512Z",
+      "latest_at": "2026-10-13T02:12:47.273512Z",
+      "primary_item": {
+        "id": "cc906e0e8a06597c7b4b830a274fc3e2918f9030",
+        "title": "微软押注自研Maia芯片： 2027 年铺到吉瓦级，纳德拉称\"对自家硅最大一赌\"",
+        "title_zh": "微软押注自研Maia芯片： 2027 年铺到吉瓦级，纳德拉称\"对自家硅最大一赌\"",
+        "title_en": null,
+        "title_original": "微软押注自研Maia芯片： 2027 年铺到吉瓦级，纳德拉称\"对自家硅最大一赌\"",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31579",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-13T02:24:45.989064Z"
       }
     },
     {
@@ -852,15 +1421,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5894,
-      "importance": 0.5894,
-      "importance_score": 0.5894,
+      "score": 0.5831,
+      "importance": 0.5831,
+      "importance_score": 0.5831,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5616,
         "source_tier": 0.32,
         "ai_relevance": 0.78,
-        "recency": 0.942,
+        "recency": 0.9067,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -885,44 +1454,44 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-12T23:45:44.409630Z"
+        "scored_at": "2026-10-13T02:24:45.989064Z"
       }
     },
     {
-      "story_id": "story_9436b16f7570",
-      "title": "使用代理对任何内容进行逆向工程，从应用程序行为到本机二进制文件 / Reverse engineer anything with agents, from app behavior down to native binaries",
-      "url": "https://github.com/morluto/rea",
-      "primary_url": "https://github.com/morluto/rea",
+      "story_id": "story_72ce1f790251",
+      "title": "Janas: Run LLMs larger than RAM by streaming experts from SSD",
+      "url": "https://github.com/prabanta-dev/janas",
+      "primary_url": "https://github.com/prabanta-dev/janas",
       "source": "Hacker News front page",
       "source_name": "Curated Media",
       "sources": [
         {
-          "id": "cafcdfe50405e4a414b3ebc8a428662d6bab7e25",
-          "title": "使用代理对任何内容进行逆向工程，从应用程序行为到本机二进制文件 / Reverse engineer anything with agents, from app behavior down to native binaries",
-          "title_zh": "使用代理对任何内容进行逆向工程，从应用程序行为到本机二进制文件",
-          "title_en": "Reverse engineer anything with agents, from app behavior down to native binaries",
-          "title_original": "Reverse engineer anything with agents, from app behavior down to native binaries",
+          "id": "21e0d354d004639d9bfa6d4830880eb3080f9f42",
+          "title": "Janas: Run LLMs larger than RAM by streaming experts from SSD",
+          "title_zh": null,
+          "title_en": "Janas: Run LLMs larger than RAM by streaming experts from SSD",
+          "title_original": "Janas: Run LLMs larger than RAM by streaming experts from SSD",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.com/morluto/rea",
+          "url": "https://github.com/prabanta-dev/janas",
           "source": "Hacker News front page",
           "source_name": "Curated Media",
           "site_id": "curated_media",
-          "published_at": "2026-10-12T16:31:55Z"
+          "published_at": "2026-10-12T22:05:43Z"
         },
         {
-          "id": "f6386e7834232b457e4d87d54add1e0b5c3a7bce",
-          "title": "使用代理对任何内容进行逆向工程，从应用程序行为到本机二进制文件 / Reverse engineer anything with agents, from app behavior down to native binaries",
-          "title_zh": "使用代理对任何内容进行逆向工程，从应用程序行为到本机二进制文件",
-          "title_en": "Reverse engineer anything with agents, from app behavior down to native binaries",
-          "title_original": "Reverse engineer anything with agents, from app behavior down to native binaries",
+          "id": "01044dc7a8f3e57bcbbcc1f9f05d1d5733666514",
+          "title": "Janas: Run LLMs larger than RAM by streaming experts from SSD",
+          "title_zh": null,
+          "title_en": "Janas: Run LLMs larger than RAM by streaming experts from SSD",
+          "title_original": "Janas: Run LLMs larger than RAM by streaming experts from SSD",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50058850",
+          "url": "https://news.ycombinator.com/item?id=50063717",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-12T16:31:55Z"
+          "published_at": "2026-10-12T22:05:43Z"
         }
       ],
       "source_count": 2,
@@ -932,62 +1501,474 @@
       ],
       "items": [
         {
-          "id": "cafcdfe50405e4a414b3ebc8a428662d6bab7e25",
-          "title": "使用代理对任何内容进行逆向工程，从应用程序行为到本机二进制文件 / Reverse engineer anything with agents, from app behavior down to native binaries",
-          "title_zh": "使用代理对任何内容进行逆向工程，从应用程序行为到本机二进制文件",
-          "title_en": "Reverse engineer anything with agents, from app behavior down to native binaries",
-          "title_original": "Reverse engineer anything with agents, from app behavior down to native binaries",
+          "id": "21e0d354d004639d9bfa6d4830880eb3080f9f42",
+          "title": "Janas: Run LLMs larger than RAM by streaming experts from SSD",
+          "title_zh": null,
+          "title_en": "Janas: Run LLMs larger than RAM by streaming experts from SSD",
+          "title_original": "Janas: Run LLMs larger than RAM by streaming experts from SSD",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.com/morluto/rea",
+          "url": "https://github.com/prabanta-dev/janas",
           "source": "Hacker News front page",
           "source_name": "Curated Media",
           "site_id": "curated_media",
-          "published_at": "2026-10-12T16:31:55Z"
+          "published_at": "2026-10-12T22:05:43Z"
         },
         {
-          "id": "f6386e7834232b457e4d87d54add1e0b5c3a7bce",
-          "title": "使用代理对任何内容进行逆向工程，从应用程序行为到本机二进制文件 / Reverse engineer anything with agents, from app behavior down to native binaries",
-          "title_zh": "使用代理对任何内容进行逆向工程，从应用程序行为到本机二进制文件",
-          "title_en": "Reverse engineer anything with agents, from app behavior down to native binaries",
-          "title_original": "Reverse engineer anything with agents, from app behavior down to native binaries",
+          "id": "01044dc7a8f3e57bcbbcc1f9f05d1d5733666514",
+          "title": "Janas: Run LLMs larger than RAM by streaming experts from SSD",
+          "title_zh": null,
+          "title_en": "Janas: Run LLMs larger than RAM by streaming experts from SSD",
+          "title_original": "Janas: Run LLMs larger than RAM by streaming experts from SSD",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50058850",
+          "url": "https://news.ycombinator.com/item?id=50063717",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-12T16:31:55Z"
+          "published_at": "2026-10-12T22:05:43Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6272,
-      "importance": 0.6272,
-      "importance_score": 0.6272,
+      "score": 0.6592,
+      "importance": 0.6592,
+      "importance_score": 0.6592,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5832,
+        "source_tier": 0.58,
+        "ai_relevance": 0.81,
+        "recency": 0.9423,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-12T22:05:43Z",
+      "latest_at": "2026-10-12T22:05:43Z",
+      "primary_item": {
+        "id": "21e0d354d004639d9bfa6d4830880eb3080f9f42",
+        "title": "Janas: Run LLMs larger than RAM by streaming experts from SSD",
+        "title_zh": null,
+        "title_en": "Janas: Run LLMs larger than RAM by streaming experts from SSD",
+        "title_original": "Janas: Run LLMs larger than RAM by streaming experts from SSD",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.com/prabanta-dev/janas",
+        "source": "Hacker News front page",
+        "source_name": "Curated Media"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-13T02:24:45.989064Z"
+      }
+    },
+    {
+      "story_id": "story_31570338089f",
+      "title": "英特尔陈立武预警：AI 硬件还要缺两三年，智能体正改写芯片配比",
+      "url": "https://www.aibase.com/news/31578",
+      "primary_url": "https://www.aibase.com/news/31578",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "e57bd27e0ea23f9f69b0e2141c1f130e4a5a19b6",
+          "title": "英特尔陈立武预警：AI 硬件还要缺两三年，智能体正改写芯片配比",
+          "title_zh": "英特尔陈立武预警：AI 硬件还要缺两三年，智能体正改写芯片配比",
+          "title_en": null,
+          "title_original": "英特尔陈立武预警：AI 硬件还要缺两三年，智能体正改写芯片配比",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31578",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-13T02:12:47.273512Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "e57bd27e0ea23f9f69b0e2141c1f130e4a5a19b6",
+          "title": "英特尔陈立武预警：AI 硬件还要缺两三年，智能体正改写芯片配比",
+          "title_zh": "英特尔陈立武预警：AI 硬件还要缺两三年，智能体正改写芯片配比",
+          "title_en": null,
+          "title_original": "英特尔陈立武预警：AI 硬件还要缺两三年，智能体正改写芯片配比",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31578",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-13T02:12:47.273512Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7468,
+      "importance": 0.7468,
+      "importance_score": 0.7468,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.684,
+        "source_tier": 0.78,
+        "ai_relevance": 0.95,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-13T02:12:47.273512Z",
+      "latest_at": "2026-10-13T02:12:47.273512Z",
+      "primary_item": {
+        "id": "e57bd27e0ea23f9f69b0e2141c1f130e4a5a19b6",
+        "title": "英特尔陈立武预警：AI 硬件还要缺两三年，智能体正改写芯片配比",
+        "title_zh": "英特尔陈立武预警：AI 硬件还要缺两三年，智能体正改写芯片配比",
+        "title_en": null,
+        "title_original": "英特尔陈立武预警：AI 硬件还要缺两三年，智能体正改写芯片配比",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31578",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-13T02:24:45.989064Z"
+      }
+    },
+    {
+      "story_id": "story_db87b9297eae",
+      "title": "谷歌Gemini正在开发“Shop this”新功能 支持跨应用一键识别与购物对比",
+      "url": "https://www.aibase.com/news/31583",
+      "primary_url": "https://www.aibase.com/news/31583",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "5ee06e24901b84cd4554ccf351d22ceb67fd0a7b",
+          "title": "谷歌Gemini正在开发“Shop this”新功能 支持跨应用一键识别与购物对比",
+          "title_zh": "谷歌Gemini正在开发“Shop this”新功能 支持跨应用一键识别与购物对比",
+          "title_en": null,
+          "title_original": "谷歌Gemini正在开发“Shop this”新功能 支持跨应用一键识别与购物对比",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31583",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-13T02:12:47.273512Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "5ee06e24901b84cd4554ccf351d22ceb67fd0a7b",
+          "title": "谷歌Gemini正在开发“Shop this”新功能 支持跨应用一键识别与购物对比",
+          "title_zh": "谷歌Gemini正在开发“Shop this”新功能 支持跨应用一键识别与购物对比",
+          "title_en": null,
+          "title_original": "谷歌Gemini正在开发“Shop this”新功能 支持跨应用一键识别与购物对比",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31583",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-13T02:12:47.273512Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7468,
+      "importance": 0.7468,
+      "importance_score": 0.7468,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.684,
+        "source_tier": 0.78,
+        "ai_relevance": 0.95,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-13T02:12:47.273512Z",
+      "latest_at": "2026-10-13T02:12:47.273512Z",
+      "primary_item": {
+        "id": "5ee06e24901b84cd4554ccf351d22ceb67fd0a7b",
+        "title": "谷歌Gemini正在开发“Shop this”新功能 支持跨应用一键识别与购物对比",
+        "title_zh": "谷歌Gemini正在开发“Shop this”新功能 支持跨应用一键识别与购物对比",
+        "title_en": null,
+        "title_original": "谷歌Gemini正在开发“Shop this”新功能 支持跨应用一键识别与购物对比",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31583",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-13T02:24:45.989064Z"
+      }
+    },
+    {
+      "story_id": "story_3eb62173a3fa",
+      "title": "研究机构称Anthropic的IPO是“对投资者轻信程度的史无前例的考验” / Research Firm Calls Anthropic's IPO 'Unprecedented Test of Investor Gullibity'",
+      "url": "https://www.cnbc.com/2026/10/07/anthropic-will-be-most-ridiculous-ipo-of-year-analyst-says.html",
+      "primary_url": "https://www.cnbc.com/2026/10/07/anthropic-will-be-most-ridiculous-ipo-of-year-analyst-says.html",
+      "source": "Hacker News front page",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "2e1aa43d5889de24db824bb1b688469a72f435b6",
+          "title": "研究机构称Anthropic的IPO是“对投资者轻信程度的史无前例的考验” / Research Firm Calls Anthropic's IPO 'Unprecedented Test of Investor Gullibity'",
+          "title_zh": "研究机构称Anthropic的IPO是“对投资者轻信程度的史无前例的考验”",
+          "title_en": "Research Firm Calls Anthropic's IPO 'Unprecedented Test of Investor Gullibity'",
+          "title_original": "Research Firm Calls Anthropic's IPO 'Unprecedented Test of Investor Gullibity'",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.cnbc.com/2026/10/07/anthropic-will-be-most-ridiculous-ipo-of-year-analyst-says.html",
+          "source": "Hacker News front page",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-12T05:03:47Z"
+        },
+        {
+          "id": "e836625ca0958d53610a4213c5c05b370e36fb43",
+          "title": "研究机构称Anthropic的IPO是“对投资者轻信程度的史无前例的考验”",
+          "title_zh": "研究机构称Anthropic的IPO是“对投资者轻信程度的史无前例的考验”",
+          "title_en": null,
+          "title_original": "研究机构称Anthropic的IPO是“对投资者轻信程度的史无前例的考验”",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.cnbc.com/2026/10/07/anthropic-will-be-most-ridiculous-ipo-of-year-analyst-says.html",
+          "source": "www.cnbc.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-12T11:44:08.530000Z"
+        },
+        {
+          "id": "ccac9711f886a42474949e6632ce27a336123513",
+          "title": "Research Firm Calls Anthropic's IPO 'Unprecedented Test of Investor Gullibity'",
+          "title_zh": null,
+          "title_en": "Research Firm Calls Anthropic's IPO 'Unprecedented Test of Investor Gullibity'",
+          "title_original": "Research Firm Calls Anthropic's IPO 'Unprecedented Test of Investor Gullibity'",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50051583",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-12T05:03:47Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News front page",
+        "hackernews",
+        "www.cnbc.com"
+      ],
+      "items": [
+        {
+          "id": "2e1aa43d5889de24db824bb1b688469a72f435b6",
+          "title": "研究机构称Anthropic的IPO是“对投资者轻信程度的史无前例的考验” / Research Firm Calls Anthropic's IPO 'Unprecedented Test of Investor Gullibity'",
+          "title_zh": "研究机构称Anthropic的IPO是“对投资者轻信程度的史无前例的考验”",
+          "title_en": "Research Firm Calls Anthropic's IPO 'Unprecedented Test of Investor Gullibity'",
+          "title_original": "Research Firm Calls Anthropic's IPO 'Unprecedented Test of Investor Gullibity'",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.cnbc.com/2026/10/07/anthropic-will-be-most-ridiculous-ipo-of-year-analyst-says.html",
+          "source": "Hacker News front page",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-12T05:03:47Z"
+        },
+        {
+          "id": "e836625ca0958d53610a4213c5c05b370e36fb43",
+          "title": "研究机构称Anthropic的IPO是“对投资者轻信程度的史无前例的考验”",
+          "title_zh": "研究机构称Anthropic的IPO是“对投资者轻信程度的史无前例的考验”",
+          "title_en": null,
+          "title_original": "研究机构称Anthropic的IPO是“对投资者轻信程度的史无前例的考验”",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.cnbc.com/2026/10/07/anthropic-will-be-most-ridiculous-ipo-of-year-analyst-says.html",
+          "source": "www.cnbc.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-12T11:44:08.530000Z"
+        },
+        {
+          "id": "ccac9711f886a42474949e6632ce27a336123513",
+          "title": "Research Firm Calls Anthropic's IPO 'Unprecedented Test of Investor Gullibity'",
+          "title_zh": null,
+          "title_en": "Research Firm Calls Anthropic's IPO 'Unprecedented Test of Investor Gullibity'",
+          "title_original": "Research Firm Calls Anthropic's IPO 'Unprecedented Test of Investor Gullibity'",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50051583",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-12T05:03:47Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.6347,
+      "importance": 0.6347,
+      "importance_score": 0.6347,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.5616,
+        "source_tier": 0.58,
+        "ai_relevance": 0.78,
+        "recency": 0.7368,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-12T05:03:47Z",
+      "latest_at": "2026-10-12T11:44:08.530000Z",
+      "primary_item": {
+        "id": "2e1aa43d5889de24db824bb1b688469a72f435b6",
+        "title": "研究机构称Anthropic的IPO是“对投资者轻信程度的史无前例的考验” / Research Firm Calls Anthropic's IPO 'Unprecedented Test of Investor Gullibity'",
+        "title_zh": "研究机构称Anthropic的IPO是“对投资者轻信程度的史无前例的考验”",
+        "title_en": "Research Firm Calls Anthropic's IPO 'Unprecedented Test of Investor Gullibity'",
+        "title_original": "Research Firm Calls Anthropic's IPO 'Unprecedented Test of Investor Gullibity'",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.cnbc.com/2026/10/07/anthropic-will-be-most-ridiculous-ipo-of-year-analyst-says.html",
+        "source": "Hacker News front page",
+        "source_name": "Curated Media"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-13T02:24:45.989064Z"
+      }
+    },
+    {
+      "story_id": "story_d4c8067a232a",
+      "title": "Launch HN: Agent37（YC F26）——用于运行代理的低成本代理沙箱 / Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents",
+      "url": "https://news.ycombinator.com/item?id=50059096",
+      "primary_url": "https://news.ycombinator.com/item?id=50059096",
+      "source": "Hacker News front page",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "d93da60973fdb102d1cb870831b3d17f81fea934",
+          "title": "Launch HN: Agent37（YC F26）——用于运行代理的低成本代理沙箱 / Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents",
+          "title_zh": "Launch HN: Agent37（YC F26）——用于运行代理的低成本代理沙箱",
+          "title_en": "Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents",
+          "title_original": "Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50059096",
+          "source": "Hacker News front page",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-12T16:46:34Z"
+        },
+        {
+          "id": "cf28d38301c5e79a1c47c099d7c0321141fb7dc1",
+          "title": "Launch HN: Agent37（YC F26）——用于运行代理的低成本代理沙箱",
+          "title_zh": "Launch HN: Agent37（YC F26）——用于运行代理的低成本代理沙箱",
+          "title_en": null,
+          "title_original": "Launch HN: Agent37（YC F26）——用于运行代理的低成本代理沙箱",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50059096",
+          "source": "news.ycombinator.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-13T01:47:55.123000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News front page",
+        "news.ycombinator.com"
+      ],
+      "items": [
+        {
+          "id": "d93da60973fdb102d1cb870831b3d17f81fea934",
+          "title": "Launch HN: Agent37（YC F26）——用于运行代理的低成本代理沙箱 / Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents",
+          "title_zh": "Launch HN: Agent37（YC F26）——用于运行代理的低成本代理沙箱",
+          "title_en": "Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents",
+          "title_original": "Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50059096",
+          "source": "Hacker News front page",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-12T16:46:34Z"
+        },
+        {
+          "id": "cf28d38301c5e79a1c47c099d7c0321141fb7dc1",
+          "title": "Launch HN: Agent37（YC F26）——用于运行代理的低成本代理沙箱",
+          "title_zh": "Launch HN: Agent37（YC F26）——用于运行代理的低成本代理沙箱",
+          "title_en": null,
+          "title_original": "Launch HN: Agent37（YC F26）——用于运行代理的低成本代理沙箱",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50059096",
+          "source": "news.ycombinator.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-13T01:47:55.123000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6217,
+      "importance": 0.6217,
+      "importance_score": 0.6217,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.54,
         "source_tier": 0.58,
         "ai_relevance": 0.75,
-        "recency": 0.9034,
+        "recency": 0.8726,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-12T16:31:55Z",
-      "latest_at": "2026-10-12T16:31:55Z",
+      "earliest_at": "2026-10-12T16:46:34Z",
+      "latest_at": "2026-10-13T01:47:55.123000Z",
       "primary_item": {
-        "id": "cafcdfe50405e4a414b3ebc8a428662d6bab7e25",
-        "title": "使用代理对任何内容进行逆向工程，从应用程序行为到本机二进制文件 / Reverse engineer anything with agents, from app behavior down to native binaries",
-        "title_zh": "使用代理对任何内容进行逆向工程，从应用程序行为到本机二进制文件",
-        "title_en": "Reverse engineer anything with agents, from app behavior down to native binaries",
-        "title_original": "Reverse engineer anything with agents, from app behavior down to native binaries",
+        "id": "d93da60973fdb102d1cb870831b3d17f81fea934",
+        "title": "Launch HN: Agent37（YC F26）——用于运行代理的低成本代理沙箱 / Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents",
+        "title_zh": "Launch HN: Agent37（YC F26）——用于运行代理的低成本代理沙箱",
+        "title_en": "Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents",
+        "title_original": "Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.com/morluto/rea",
+        "url": "https://news.ycombinator.com/item?id=50059096",
         "source": "Hacker News front page",
         "source_name": "Curated Media"
       },
@@ -995,557 +1976,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-12T23:45:44.409630Z"
-      }
-    },
-    {
-      "story_id": "story_2ade4c1d2535",
-      "title": "Show HN: Atticus – Hold-to-talk voice assistant for macOS that runs on Claude -p",
-      "url": "https://github.com/SaarthurR/atticus-mac",
-      "primary_url": "https://github.com/SaarthurR/atticus-mac",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "2fe6fedd49a5e99958abc84cbd0f891412635728",
-          "title": "Show HN: Atticus – Hold-to-talk voice assistant for macOS that runs on Claude -p",
-          "title_zh": null,
-          "title_en": "Show HN: Atticus – Hold-to-talk voice assistant for macOS that runs on Claude -p",
-          "title_original": "Show HN: Atticus – Hold-to-talk voice assistant for macOS that runs on Claude -p",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/SaarthurR/atticus-mac",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-12T00:15:12Z"
-        },
-        {
-          "id": "12621b09ca8e70466e06fdab25b956d4f6d12372",
-          "title": "Show HN: Atticus – Hold-to-talk voice assistant for macOS that runs on Claude -p",
-          "title_zh": null,
-          "title_en": "Show HN: Atticus – Hold-to-talk voice assistant for macOS that runs on Claude -p",
-          "title_original": "Show HN: Atticus – Hold-to-talk voice assistant for macOS that runs on Claude -p",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50049588",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-12T00:15:12Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "2fe6fedd49a5e99958abc84cbd0f891412635728",
-          "title": "Show HN: Atticus – Hold-to-talk voice assistant for macOS that runs on Claude -p",
-          "title_zh": null,
-          "title_en": "Show HN: Atticus – Hold-to-talk voice assistant for macOS that runs on Claude -p",
-          "title_original": "Show HN: Atticus – Hold-to-talk voice assistant for macOS that runs on Claude -p",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/SaarthurR/atticus-mac",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-12T00:15:12Z"
-        },
-        {
-          "id": "12621b09ca8e70466e06fdab25b956d4f6d12372",
-          "title": "Show HN: Atticus – Hold-to-talk voice assistant for macOS that runs on Claude -p",
-          "title_zh": null,
-          "title_en": "Show HN: Atticus – Hold-to-talk voice assistant for macOS that runs on Claude -p",
-          "title_original": "Show HN: Atticus – Hold-to-talk voice assistant for macOS that runs on Claude -p",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50049588",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-12T00:15:12Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5068,
-      "importance": 0.5068,
-      "importance_score": 0.5068,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.4896,
-        "source_tier": 0.32,
-        "ai_relevance": 0.68,
-        "recency": 0.7141,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-12T00:15:12Z",
-      "latest_at": "2026-10-12T00:15:12Z",
-      "primary_item": {
-        "id": "2fe6fedd49a5e99958abc84cbd0f891412635728",
-        "title": "Show HN: Atticus – Hold-to-talk voice assistant for macOS that runs on Claude -p",
-        "title_zh": null,
-        "title_en": "Show HN: Atticus – Hold-to-talk voice assistant for macOS that runs on Claude -p",
-        "title_original": "Show HN: Atticus – Hold-to-talk voice assistant for macOS that runs on Claude -p",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.com/SaarthurR/atticus-mac",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-12T23:45:44.409630Z"
-      }
-    },
-    {
-      "story_id": "story_75693946bd76",
-      "title": "人工智能是一种工具。要善用它，需要技巧。 / AI Is a Tool. Using It Well Takes Skill.",
-      "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool",
-      "primary_url": "https://yyhh.org/blog/2026/10/ai-is-a-tool",
-      "source": "Hacker News front page",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "b4d4ae6ed840f066a214899d24a5822af306d20e",
-          "title": "人工智能是一种工具。要善用它，需要技巧。 / AI Is a Tool. Using It Well Takes Skill.",
-          "title_zh": "人工智能是一种工具。要善用它，需要技巧。",
-          "title_en": "AI Is a Tool. Using It Well Takes Skill.",
-          "title_original": "AI Is a Tool. Using It Well Takes Skill.",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool",
-          "source": "Hacker News front page",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-12T21:40:18Z"
-        },
-        {
-          "id": "f34b5760b361ac6365cef93dd32f3fd17f8cad23",
-          "title": "人工智能是一种工具。要善用它，需要技巧。",
-          "title_zh": "人工智能是一种工具。要善用它，需要技巧。",
-          "title_en": null,
-          "title_original": "人工智能是一种工具。要善用它，需要技巧。",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool",
-          "source": "yyhh.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-12T22:51:56.438000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News front page",
-        "yyhh.org"
-      ],
-      "items": [
-        {
-          "id": "b4d4ae6ed840f066a214899d24a5822af306d20e",
-          "title": "人工智能是一种工具。要善用它，需要技巧。 / AI Is a Tool. Using It Well Takes Skill.",
-          "title_zh": "人工智能是一种工具。要善用它，需要技巧。",
-          "title_en": "AI Is a Tool. Using It Well Takes Skill.",
-          "title_original": "AI Is a Tool. Using It Well Takes Skill.",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool",
-          "source": "Hacker News front page",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-12T21:40:18Z"
-        },
-        {
-          "id": "f34b5760b361ac6365cef93dd32f3fd17f8cad23",
-          "title": "人工智能是一种工具。要善用它，需要技巧。",
-          "title_zh": "人工智能是一种工具。要善用它，需要技巧。",
-          "title_en": null,
-          "title_original": "人工智能是一种工具。要善用它，需要技巧。",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool",
-          "source": "yyhh.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-12T22:51:56.438000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5747,
-      "importance": 0.5747,
-      "importance_score": 0.5747,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.45,
-        "source_tier": 0.58,
-        "ai_relevance": 0.56,
-        "recency": 0.973,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-12T21:40:18Z",
-      "latest_at": "2026-10-12T22:51:56.438000Z",
-      "primary_item": {
-        "id": "b4d4ae6ed840f066a214899d24a5822af306d20e",
-        "title": "人工智能是一种工具。要善用它，需要技巧。 / AI Is a Tool. Using It Well Takes Skill.",
-        "title_zh": "人工智能是一种工具。要善用它，需要技巧。",
-        "title_en": "AI Is a Tool. Using It Well Takes Skill.",
-        "title_original": "AI Is a Tool. Using It Well Takes Skill.",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool",
-        "source": "Hacker News front page",
-        "source_name": "Curated Media"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-12T23:45:44.409630Z"
-      }
-    },
-    {
-      "story_id": "story_de430e8992a2",
-      "title": "凯文·凯利2016年对人工智能的预测，10年后回顾 / Kevin Kelly's 2016 AI Predictions, 10 Years Later",
-      "url": "https://taylor.town/kk-ai-2026",
-      "primary_url": "https://taylor.town/kk-ai-2026",
-      "source": "Hacker News front page",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "dc1209739b0b90f0f8d5ec2f586a5dc7b2848dca",
-          "title": "凯文·凯利2016年对人工智能的预测，10年后回顾 / Kevin Kelly's 2016 AI Predictions, 10 Years Later",
-          "title_zh": "凯文·凯利2016年对人工智能的预测，10年后回顾",
-          "title_en": "Kevin Kelly's 2016 AI Predictions, 10 Years Later",
-          "title_original": "Kevin Kelly's 2016 AI Predictions, 10 Years Later",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://taylor.town/kk-ai-2026",
-          "source": "Hacker News front page",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-12T15:16:45Z"
-        },
-        {
-          "id": "7d214b228980efc495c6e0ff08772c673a91ca19",
-          "title": "凯文·凯利2016年对人工智能的预测，10年后回顾",
-          "title_zh": "凯文·凯利2016年对人工智能的预测，10年后回顾",
-          "title_en": null,
-          "title_original": "凯文·凯利2016年对人工智能的预测，10年后回顾",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://taylor.town/kk-ai-2026",
-          "source": "taylor.town",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-12T21:48:54.856000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News front page",
-        "taylor.town"
-      ],
-      "items": [
-        {
-          "id": "dc1209739b0b90f0f8d5ec2f586a5dc7b2848dca",
-          "title": "凯文·凯利2016年对人工智能的预测，10年后回顾 / Kevin Kelly's 2016 AI Predictions, 10 Years Later",
-          "title_zh": "凯文·凯利2016年对人工智能的预测，10年后回顾",
-          "title_en": "Kevin Kelly's 2016 AI Predictions, 10 Years Later",
-          "title_original": "Kevin Kelly's 2016 AI Predictions, 10 Years Later",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://taylor.town/kk-ai-2026",
-          "source": "Hacker News front page",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-12T15:16:45Z"
-        },
-        {
-          "id": "7d214b228980efc495c6e0ff08772c673a91ca19",
-          "title": "凯文·凯利2016年对人工智能的预测，10年后回顾",
-          "title_zh": "凯文·凯利2016年对人工智能的预测，10年后回顾",
-          "title_en": null,
-          "title_original": "凯文·凯利2016年对人工智能的预测，10年后回顾",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://taylor.town/kk-ai-2026",
-          "source": "taylor.town",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-12T21:48:54.856000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5593,
-      "importance": 0.5593,
-      "importance_score": 0.5593,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.45,
-        "source_tier": 0.58,
-        "ai_relevance": 0.56,
-        "recency": 0.8872,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-12T15:16:45Z",
-      "latest_at": "2026-10-12T21:48:54.856000Z",
-      "primary_item": {
-        "id": "dc1209739b0b90f0f8d5ec2f586a5dc7b2848dca",
-        "title": "凯文·凯利2016年对人工智能的预测，10年后回顾 / Kevin Kelly's 2016 AI Predictions, 10 Years Later",
-        "title_zh": "凯文·凯利2016年对人工智能的预测，10年后回顾",
-        "title_en": "Kevin Kelly's 2016 AI Predictions, 10 Years Later",
-        "title_original": "Kevin Kelly's 2016 AI Predictions, 10 Years Later",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://taylor.town/kk-ai-2026",
-        "source": "Hacker News front page",
-        "source_name": "Curated Media"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-12T23:45:44.409630Z"
-      }
-    },
-    {
-      "story_id": "story_41c5d4380fc2",
-      "title": "QGIS 通过 QEP428 禁止 AI 辅助贡献 / QGIS bans AI assisted contributions",
-      "url": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
-      "primary_url": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
-      "source": "Hacker News front page",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "f995da75d63ca3c5552f61747f9bb87b68f1924d",
-          "title": "QGIS 通过 QEP428 禁止 AI 辅助贡献 / QGIS bans AI assisted contributions",
-          "title_zh": "QGIS 通过 QEP428 禁止 AI 辅助贡献",
-          "title_en": "QGIS bans AI assisted contributions",
-          "title_original": "QGIS bans AI assisted contributions",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
-          "source": "Hacker News front page",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-12T11:22:24Z"
-        },
-        {
-          "id": "5a8d5a7dfa130542456f3aaaed2113fcaf4fa8ba",
-          "title": "QGIS 禁止使用人工智能辅助的贡献",
-          "title_zh": "QGIS 禁止使用人工智能辅助的贡献",
-          "title_en": null,
-          "title_original": "QGIS 禁止使用人工智能辅助的贡献",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-12T12:48:18.792000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News front page",
-        "github.com"
-      ],
-      "items": [
-        {
-          "id": "f995da75d63ca3c5552f61747f9bb87b68f1924d",
-          "title": "QGIS 通过 QEP428 禁止 AI 辅助贡献 / QGIS bans AI assisted contributions",
-          "title_zh": "QGIS 通过 QEP428 禁止 AI 辅助贡献",
-          "title_en": "QGIS bans AI assisted contributions",
-          "title_original": "QGIS bans AI assisted contributions",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
-          "source": "Hacker News front page",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-12T11:22:24Z"
-        },
-        {
-          "id": "5a8d5a7dfa130542456f3aaaed2113fcaf4fa8ba",
-          "title": "QGIS 禁止使用人工智能辅助的贡献",
-          "title_zh": "QGIS 禁止使用人工智能辅助的贡献",
-          "title_en": null,
-          "title_original": "QGIS 禁止使用人工智能辅助的贡献",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-12T12:48:18.792000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5505,
-      "importance": 0.5505,
-      "importance_score": 0.5505,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.45,
-        "source_tier": 0.58,
-        "ai_relevance": 0.56,
-        "recency": 0.8385,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-12T11:22:24Z",
-      "latest_at": "2026-10-12T12:48:18.792000Z",
-      "primary_item": {
-        "id": "f995da75d63ca3c5552f61747f9bb87b68f1924d",
-        "title": "QGIS 通过 QEP428 禁止 AI 辅助贡献 / QGIS bans AI assisted contributions",
-        "title_zh": "QGIS 通过 QEP428 禁止 AI 辅助贡献",
-        "title_en": "QGIS bans AI assisted contributions",
-        "title_original": "QGIS bans AI assisted contributions",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
-        "source": "Hacker News front page",
-        "source_name": "Curated Media"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-12T23:45:44.409630Z"
-      }
-    },
-    {
-      "story_id": "story_613afea439d0",
-      "title": "Linux手机能否成为Android/iOS双头垄断的可行替代方案？ / Will Linux phones become a viable alternative to the Android/iOS duopoly?",
-      "url": "https://amosbbatto.wordpress.com/2026/10/05/linux-phones-alternative",
-      "primary_url": "https://amosbbatto.wordpress.com/2026/10/05/linux-phones-alternative",
-      "source": "Hacker News front page",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "d4378b42aa82d46dd6b05a4df0120857ebcd45dd",
-          "title": "Linux手机能否成为Android/iOS双头垄断的可行替代方案？ / Will Linux phones become a viable alternative to the Android/iOS duopoly?",
-          "title_zh": "Linux手机能否成为Android/iOS双头垄断的可行替代方案？",
-          "title_en": "Will Linux phones become a viable alternative to the Android/iOS duopoly?",
-          "title_original": "Will Linux phones become a viable alternative to the Android/iOS duopoly?",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://amosbbatto.wordpress.com/2026/10/05/linux-phones-alternative",
-          "source": "Hacker News front page",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-12T04:54:00Z"
-        },
-        {
-          "id": "e1eb3bdbf85e1ce38c45cd28e231fc613f5a2000",
-          "title": "Linux手机能否成为Android/iOS双头垄断的可行替代方案？",
-          "title_zh": "Linux手机能否成为Android/iOS双头垄断的可行替代方案？",
-          "title_en": null,
-          "title_original": "Linux手机能否成为Android/iOS双头垄断的可行替代方案？",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://amosbbatto.wordpress.com/2026/10/05/linux-phones-alternative",
-          "source": "amosbbatto.wordpress.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-12T08:03:21.922000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News front page",
-        "amosbbatto.wordpress.com"
-      ],
-      "items": [
-        {
-          "id": "d4378b42aa82d46dd6b05a4df0120857ebcd45dd",
-          "title": "Linux手机能否成为Android/iOS双头垄断的可行替代方案？ / Will Linux phones become a viable alternative to the Android/iOS duopoly?",
-          "title_zh": "Linux手机能否成为Android/iOS双头垄断的可行替代方案？",
-          "title_en": "Will Linux phones become a viable alternative to the Android/iOS duopoly?",
-          "title_original": "Will Linux phones become a viable alternative to the Android/iOS duopoly?",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://amosbbatto.wordpress.com/2026/10/05/linux-phones-alternative",
-          "source": "Hacker News front page",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-12T04:54:00Z"
-        },
-        {
-          "id": "e1eb3bdbf85e1ce38c45cd28e231fc613f5a2000",
-          "title": "Linux手机能否成为Android/iOS双头垄断的可行替代方案？",
-          "title_zh": "Linux手机能否成为Android/iOS双头垄断的可行替代方案？",
-          "title_en": null,
-          "title_original": "Linux手机能否成为Android/iOS双头垄断的可行替代方案？",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://amosbbatto.wordpress.com/2026/10/05/linux-phones-alternative",
-          "source": "amosbbatto.wordpress.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-12T08:03:21.922000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5491,
-      "importance": 0.5491,
-      "importance_score": 0.5491,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.45,
-        "source_tier": 0.58,
-        "ai_relevance": 0.62,
-        "recency": 0.7637,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-12T04:54:00Z",
-      "latest_at": "2026-10-12T08:03:21.922000Z",
-      "primary_item": {
-        "id": "d4378b42aa82d46dd6b05a4df0120857ebcd45dd",
-        "title": "Linux手机能否成为Android/iOS双头垄断的可行替代方案？ / Will Linux phones become a viable alternative to the Android/iOS duopoly?",
-        "title_zh": "Linux手机能否成为Android/iOS双头垄断的可行替代方案？",
-        "title_en": "Will Linux phones become a viable alternative to the Android/iOS duopoly?",
-        "title_original": "Will Linux phones become a viable alternative to the Android/iOS duopoly?",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://amosbbatto.wordpress.com/2026/10/05/linux-phones-alternative",
-        "source": "Hacker News front page",
-        "source_name": "Curated Media"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-12T23:45:44.409630Z"
+        "scored_at": "2026-10-13T02:24:45.989064Z"
       }
     }
   ]
