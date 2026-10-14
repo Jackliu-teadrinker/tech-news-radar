@@ -1,16 +1,30 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-14T00:14:32.431821Z",
+  "generated_at": "2026-10-14T07:57:59.164783Z",
   "ok": true,
-  "active_count": 0,
+  "active_count": 1,
   "providers": [
     {
       "id": "openai",
       "name": "OpenAI",
       "status_url": "https://status.openai.com/",
       "ok": true,
-      "active_count": 0
+      "active_count": 1
     }
   ],
-  "incidents": []
+  "incidents": [
+    {
+      "id": "01M4WKPE1EY48ZB4RZJ80YH7ES",
+      "provider": "OpenAI",
+      "title": "Degraded performance in Codex and ChatGPT Work",
+      "title_zh": "Degraded performance in Codex and ChatGPT Work",
+      "status": "identified",
+      "impact": "minor",
+      "started_at": "2026-10-14T07:05:44Z",
+      "updated_at": "2026-10-14T07:05:44Z",
+      "message": "We have identified that users are experiencing elevated errors for the impacted services. We are working on implementing a mitigation.",
+      "affected_components": [],
+      "url": "https://status.openai.com/incidents/01M4WKPE1EY48ZB4RZJ80YH7ES"
+    }
+  ]
 }

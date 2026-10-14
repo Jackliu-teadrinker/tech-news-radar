@@ -5,7 +5,7 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Wed, 14 Oct 2026 00:14:32 +0000</lastBuildDate>
+<lastBuildDate>Wed, 14 Oct 2026 07:57:59 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
 <item>
 <title>Gemini 4 Argon in GitHub Copilot</title>
@@ -72,6 +72,14 @@
 <pubDate>Tue, 13 Oct 2026 17:56:33 +0000</pubDate>
 </item>
 <item>
+<title>Xbow 用 GPT-5.6 挖出 Chrome 三个漏洞，获 Google 25 万美元全链奖励 / GPT-5.6 helped break Chrome’s defenses for a $250,000 Google bounty.</title>
+<link>https://x.com/rohanpaul_ai/status/2110203596948353155</link>
+<guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2110203596948353155</guid>
+<description>Xbow 工程师 Brendan Dolan-Gavitt 用 OpenAI 的 gpt-5.6-sol 分析 Chrome 源码，历时六天、花费约 4 万美元算力，找到三个独立漏洞组成漏洞链，使标签页内普通 JavaScript 代码穿越两个防护边界、逃出所有沙箱。（X：Rohan Paul (@rohanpaul_ai)）</description>
+<category>行业动态</category>
+<pubDate>Wed, 14 Oct 2026 02:58:37 +0000</pubDate>
+</item>
+<item>
 <title>Gemini 4 Argon 正式 GA，智能指数追平 GPT-6 Astra，Cost per Task 仅为 60% / Gemini 4 Argon is now GA. Argon ranks equal to GPT-6 Astra on the Artificial Analysis Intelligence Index at 60% of the Cost per Task with...</title>
 <link>https://x.com/ArtificialAnlys/status/2110068185793970576</link>
 <guid isPermaLink="true">https://x.com/ArtificialAnlys/status/2110068185793970576</guid>
@@ -88,6 +96,22 @@
 <pubDate>Tue, 13 Oct 2026 22:56:51 +0000</pubDate>
 </item>
 <item>
+<title>Gemini 4 Argon 全面开放，作者实测后认为难以撼动 Claude Opus 5.5 和 GPT-6 Astra</title>
+<link>https://x.com/Khazix0918/status/2110174495420064055</link>
+<guid isPermaLink="true">https://x.com/Khazix0918/status/2110174495420064055</guid>
+<description>Google 于10月14日全面开放 Gemini 4 Argon，作者实测后认为其很难冲击 Claude Opus 5.5 和 GPT-6 Astra 的地位。（X：卡兹克 (@Khazix0918)）</description>
+<category>行业动态</category>
+<pubDate>Wed, 14 Oct 2026 01:02:59 +0000</pubDate>
+</item>
+<item>
+<title>10 分钟 AI 长视频来了：GPT-6 Astra 接管 Higgsfield，角色场景不再"串戏"</title>
+<link>https://www.aibase.com/news/31623</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31623</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Wed, 14 Oct 2026 07:57:59 +0000</pubDate>
+</item>
+<item>
 <title>XBOW 团队借助 OpenAI GPT-5.6 Sol 获 Google Chrome 25 万美元全链漏洞赏金 / GPT 5.6 Sol btw</title>
 <link>https://x.com/reach_vb/status/2110086935733833893</link>
 <guid isPermaLink="true">https://x.com/reach_vb/status/2110086935733833893</guid>
@@ -96,20 +120,20 @@
 <pubDate>Tue, 13 Oct 2026 19:15:03 +0000</pubDate>
 </item>
 <item>
-<title>GitHub App improvements for least privilege and management</title>
+<title>Google DeepMind 与新加坡政府合作构建用于诈骗检测的微调人工智能模型 / Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection</title>
+<link>https://deepmind.google/blog/on-device-ai-scam-detection-mddi</link>
+<guid isPermaLink="true">https://deepmind.google/blog/on-device-ai-scam-detection-mddi</guid>
+<description>Google DeepMind</description>
+<category>官方更新</category>
+<pubDate>Wed, 14 Oct 2026 02:00:14 +0000</pubDate>
+</item>
+<item>
+<title>GitHub 应用程序的最小权限和管理改进 / GitHub App improvements for least privilege and management</title>
 <link>https://github.blog/changelog/2026-10-13-github-app-improvements-for-least-privilege-and-management</link>
 <guid isPermaLink="true">https://github.blog/changelog/2026-10-13-github-app-improvements-for-least-privilege-and-management</guid>
 <description>GitHub Changelog</description>
 <category>官方更新</category>
 <pubDate>Tue, 13 Oct 2026 23:17:55 +0000</pubDate>
-</item>
-<item>
-<title>Google DeepMind 的 Gemini 4 Argon 上线 OpenRouter / Gemini 4 Argon from @GoogleDeepMind is live on OpenRouter, via Google AI Studio and @googlecloud.</title>
-<link>https://x.com/OpenRouter/status/2110044453977403412</link>
-<guid isPermaLink="true">https://x.com/OpenRouter/status/2110044453977403412</guid>
-<description>Gemini 4 Argon 已上线 OpenRouter，可通过 Google AI Studio 和 Google Cloud 调用。该模型在 AutomationBench 拿到 51.3%、LVBench 拿到 91.7%，并以 68% 并列 CWE-bench v1 第一； introductory 定价为输入 $2/M、输出 $10/M。试用入口：https://openrouter.ai/google/gemini-4-argon（X：OpenRouter (@OpenRouter)）</description>
-<category>行业动态</category>
-<pubDate>Tue, 13 Oct 2026 16:26:15 +0000</pubDate>
 </item>
 <item>
 <title>NVIDIA 官宣 RTX Spark 软件生态就绪，10 月 16 日笔记本上市 / All Systems Go: Global PC App Ecosystem Ready for NVIDIA RTX Spark</title>
@@ -120,6 +144,14 @@
 <pubDate>Tue, 13 Oct 2026 12:00:49 +0000</pubDate>
 </item>
 <item>
+<title>Google DeepMind 的 Gemini 4 Argon 上线 OpenRouter / Gemini 4 Argon from @GoogleDeepMind is live on OpenRouter, via Google AI Studio and @googlecloud.</title>
+<link>https://x.com/OpenRouter/status/2110044453977403412</link>
+<guid isPermaLink="true">https://x.com/OpenRouter/status/2110044453977403412</guid>
+<description>Gemini 4 Argon 已上线 OpenRouter，可通过 Google AI Studio 和 Google Cloud 调用。该模型在 AutomationBench 拿到 51.3%、LVBench 拿到 91.7%，并以 68% 并列 CWE-bench v1 第一； introductory 定价为输入 $2/M、输出 $10/M。试用入口：https://openrouter.ai/google/gemini-4-argon（X：OpenRouter (@OpenRouter)）</description>
+<category>行业动态</category>
+<pubDate>Tue, 13 Oct 2026 16:26:15 +0000</pubDate>
+</item>
+<item>
 <title>Google 发布 Gemini 4 Argon 并逐步推送至 Gemini 应用 / The moment you've been waiting 4…</title>
 <link>https://x.com/GeminiApp/status/2110039322229649783</link>
 <guid isPermaLink="true">https://x.com/GeminiApp/status/2110039322229649783</guid>
@@ -128,44 +160,12 @@
 <pubDate>Tue, 13 Oct 2026 16:05:51 +0000</pubDate>
 </item>
 <item>
-<title>OpenAI 办公室发现窃密录音装置，涉事员工被捕 / We discovered a sophisticated recording device that was hidden inside one of our offices. We used our models to understand the device and...</title>
-<link>https://x.com/OpenAINewsroom/status/2110095403198849132</link>
-<guid isPermaLink="true">https://x.com/OpenAINewsroom/status/2110095403198849132</guid>
-<description>OpenAI 宣布在办公室内发现一个隐蔽的录音装置，利用自家模型分析该设备及其来源，确认是一名员工几天前安放。OpenAI 已将此事移交 FBI，FBI 已迅速逮捕相关人员，调查仍在进行中。OpenAI 表示目前没有迹象显示该员工不当访问或外泄模型权重、源代码或客户数据，该员工已被解雇，并将此案视为 AI 协助应对复杂安全威胁的实例。（X：OpenAI Newsroom (@OpenAINewsroom)）</description>
+<title>Google DeepMind 亮出 Gemini 4 Argon：单次输出飙到百万 Token，专啃长周期硬活</title>
+<link>https://www.aibase.com/news/31634</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31634</guid>
+<description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Tue, 13 Oct 2026 19:48:42 +0000</pubDate>
-</item>
-<item>
-<title>ComfyUI 上线 NVIDIA VFX 节点，支持视频超分、补帧与 SDR 转 HDR / Nvidia VFX Nodes for Video Upscaling, Frame Generation and SDR-to-HDR, for VFX Professionals</title>
-<link>https://blog.comfy.org/p/nvidia-vfx-nodes-for-video-upscaling</link>
-<guid isPermaLink="true">https://blog.comfy.org/p/nvidia-vfx-nodes-for-video-upscaling</guid>
-<description>NVIDIA 的 RTX 视频特效模型以自定义节点形式登陆 ComfyUI，模型随节点分发并在本地 RTX GPU 上运行。（Comfy Blog）</description>
-<category>行业动态</category>
-<pubDate>Tue, 13 Oct 2026 19:41:39 +0000</pubDate>
-</item>
-<item>
-<title>审核 GitHub 代码质量发现解雇和重新开放 / Audit GitHub Code Quality finding dismissals and reopenings</title>
-<link>https://github.blog/changelog/2026-10-13-audit-github-code-quality-finding-dismissals-and-reopenings</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-10-13-audit-github-code-quality-finding-dismissals-and-reopenings</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Tue, 13 Oct 2026 17:58:36 +0000</pubDate>
-</item>
-<item>
-<title>Gemini 4 机器人用氩气 / Gemini 4 Argon for Robotics</title>
-<link>https://developers.googleblog.com/gemini-4-argon-for-robotics</link>
-<guid isPermaLink="true">https://developers.googleblog.com/gemini-4-argon-for-robotics</guid>
-<description>Hacker News front page</description>
-<category>值得关注</category>
-<pubDate>Tue, 13 Oct 2026 19:14:06 +0000</pubDate>
-</item>
-<item>
-<title>企业托管设置强制更新 / Enterprise managed settings enforcement updates</title>
-<link>https://github.blog/changelog/2026-10-13-enterprise-managed-settings-enforcement-updates</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-10-13-enterprise-managed-settings-enforcement-updates</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Tue, 13 Oct 2026 15:20:10 +0000</pubDate>
+<pubDate>Wed, 14 Oct 2026 07:57:59 +0000</pubDate>
 </item>
 </channel>
 </rss>
