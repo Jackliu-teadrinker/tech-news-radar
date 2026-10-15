@@ -1,12 +1,275 @@
 {
-  "generated_at": "2026-10-15T18:34:12.801724Z",
+  "generated_at": "2026-10-15T21:42:32.197498Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-  "history_url": null,
+  "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
-  "count_7d": 0,
-  "updates_7d": [],
-  "warning": "WaytoAGI 近7日更新抓取失败",
-  "has_error": true,
-  "error": "Expecting value: line 1 column 1 (char 0)"
+  "latest_date": "2026-10-15",
+  "count_today": 7,
+  "updates_today": [
+    {
+      "date": "2026-10-15",
+      "title": "给大一新生的三万字World Models 和 World-Action Models 入学指南",
+      "summary": "World Model 最近越来越火，但很多人只知道它能“预测未来”，再往下就容易被强化学习、隐空间和视频生成等概念劝退。这份三万字指南梳理了 220 多项研究、六类技术路线及机器人、自动驾驶、游戏等应用，也直面“视频逼真是否等于理解物理”的争议。适合刚入门的学生和想补全研究版图的开发者，用一篇建立完整认知框架。",
+      "url": "https://waytoagi.feishu.cn/wiki/DhAzwYRuTi8jack9kbocPD94nEe?from=from_copylink"
+    },
+    {
+      "date": "2026-10-15",
+      "title": "用好开发板内存，先分清这三种存储",
+      "summary": "不少开发板项目明明代码没问题，最后却卡在内存：屏幕带不动、中文字库塞不下、断电后数据消失，甚至买完板子才发现没有 PSRAM。CY这篇文章把 Flash、SRAM 和 PSRAM 比作书柜、桌面和抽屉柜，和大家聊一下这三种存储。很适合刚接触嵌入式、准备做带屏设备的人读一遍，能省下不少返工时间。",
+      "url": "https://waytoagi.feishu.cn/wiki/R7uDwlHBXiDpT7kUqFvcbm1PnKc?from=from_copylink"
+    },
+    {
+      "date": "2026-10-15",
+      "title": "每次都要重说一遍？Meta给AI装上了长期记忆",
+      "summary": "Meta 全新 Muse Wonder 模型带来亮眼的 Active Memory 主动记忆能力，突破了传统 AI 仅存储对话文本的局限，能调取你的过往偏好，直接参与任务决策。老金以长跑规划、婚礼排座、T 恤定制演示为例，搭配 Active Focus 能力，跨工具执行时仍然可以持续守住你的个性化。",
+      "url": "https://waytoagi.feishu.cn/wiki/IHjYwdT2fiflWPkmIWWc46aenWo?from=from_copylink"
+    },
+    {
+      "date": "2026-10-15",
+      "title": "把逆向工程交给 Agent：一文拆解爆火的 REA 技术原理",
+      "summary": "GitHub 上一个叫 REA 的项目 Star 从 1.5 万冲到 23 万+，凭什么这么火？REA 全称 Reverse Engineer Anything——逆向一切。本文深入拆解了 REA 的工作机制与架构——逆向工程从\"人用工具\"切换到\"Agent 用工具\"，究竟是如何实现的。",
+      "url": "https://waytoagi.feishu.cn/wiki/QWDWw23c6ishwGkDRENc8p86nTf?from=from_copylink"
+    },
+    {
+      "date": "2026-10-15",
+      "title": "我用 GitHub 第一的 REA 拆了飞书，6 分钟实现了飞书多开",
+      "summary": "作者实测了爆火开源逆向工具REA，仅用6分钟就让AI解析出飞书客户端架构并做出本地多开版本。文中复盘了REA短时间内爆火的底层原因，同时还整理了社区热议的争议点，包括工具价值、IP合规风险与使用边界。最后附上了实操安全提醒，可以帮你看懂AI逆向的能力上限，避开法律与安全陷阱。",
+      "url": "https://waytoagi.feishu.cn/wiki/RgtWwB7hLi80NrkDEFXc1GVdnqb?from=from_copylink"
+    },
+    {
+      "date": "2026-10-15",
+      "title": "实测 Opus 做宣传片的能力，顺手做了个 skill",
+      "summary": "作者利用Opus 5.5通过编写HTML动效网页截帧生成视频，无需AE、不用手动找图，仅靠几句指令就完成多款AI产品宣传片，还开源了整套制作Skill。",
+      "url": "https://waytoagi.feishu.cn/wiki/VxcbwP6Ryisp0sknooEcRhQ1ndd?from=from_copylink"
+    },
+    {
+      "date": "2026-10-15",
+      "title": "Opus 5.5 做视频全教程：一段话到成片，16 种风格 Skill 免费开源",
+      "summary": "作者开源视频风格Skill chengfeng-video-styles，依托Opus 5.5，搭建起了一套可复用的AI视频生产工作流。内置16种成熟视频风格，还支持上传参考素材复刻全新视觉。流程也很巧妙，先生成多版3秒样片筛选风格，确认满意后再渲染全片，避免token浪费。来上手试试！",
+      "url": "https://waytoagi.feishu.cn/wiki/YzJkwQ4QniB4Tdk4YNacUobmngc?from=from_copylink"
+    }
+  ],
+  "count_7d": 36,
+  "updates_7d": [
+    {
+      "date": "2026-10-15",
+      "title": "给大一新生的三万字World Models 和 World-Action Models 入学指南",
+      "summary": "World Model 最近越来越火，但很多人只知道它能“预测未来”，再往下就容易被强化学习、隐空间和视频生成等概念劝退。这份三万字指南梳理了 220 多项研究、六类技术路线及机器人、自动驾驶、游戏等应用，也直面“视频逼真是否等于理解物理”的争议。适合刚入门的学生和想补全研究版图的开发者，用一篇建立完整认知框架。",
+      "url": "https://waytoagi.feishu.cn/wiki/DhAzwYRuTi8jack9kbocPD94nEe?from=from_copylink"
+    },
+    {
+      "date": "2026-10-15",
+      "title": "用好开发板内存，先分清这三种存储",
+      "summary": "不少开发板项目明明代码没问题，最后却卡在内存：屏幕带不动、中文字库塞不下、断电后数据消失，甚至买完板子才发现没有 PSRAM。CY这篇文章把 Flash、SRAM 和 PSRAM 比作书柜、桌面和抽屉柜，和大家聊一下这三种存储。很适合刚接触嵌入式、准备做带屏设备的人读一遍，能省下不少返工时间。",
+      "url": "https://waytoagi.feishu.cn/wiki/R7uDwlHBXiDpT7kUqFvcbm1PnKc?from=from_copylink"
+    },
+    {
+      "date": "2026-10-15",
+      "title": "每次都要重说一遍？Meta给AI装上了长期记忆",
+      "summary": "Meta 全新 Muse Wonder 模型带来亮眼的 Active Memory 主动记忆能力，突破了传统 AI 仅存储对话文本的局限，能调取你的过往偏好，直接参与任务决策。老金以长跑规划、婚礼排座、T 恤定制演示为例，搭配 Active Focus 能力，跨工具执行时仍然可以持续守住你的个性化。",
+      "url": "https://waytoagi.feishu.cn/wiki/IHjYwdT2fiflWPkmIWWc46aenWo?from=from_copylink"
+    },
+    {
+      "date": "2026-10-15",
+      "title": "把逆向工程交给 Agent：一文拆解爆火的 REA 技术原理",
+      "summary": "GitHub 上一个叫 REA 的项目 Star 从 1.5 万冲到 23 万+，凭什么这么火？REA 全称 Reverse Engineer Anything——逆向一切。本文深入拆解了 REA 的工作机制与架构——逆向工程从\"人用工具\"切换到\"Agent 用工具\"，究竟是如何实现的。",
+      "url": "https://waytoagi.feishu.cn/wiki/QWDWw23c6ishwGkDRENc8p86nTf?from=from_copylink"
+    },
+    {
+      "date": "2026-10-15",
+      "title": "我用 GitHub 第一的 REA 拆了飞书，6 分钟实现了飞书多开",
+      "summary": "作者实测了爆火开源逆向工具REA，仅用6分钟就让AI解析出飞书客户端架构并做出本地多开版本。文中复盘了REA短时间内爆火的底层原因，同时还整理了社区热议的争议点，包括工具价值、IP合规风险与使用边界。最后附上了实操安全提醒，可以帮你看懂AI逆向的能力上限，避开法律与安全陷阱。",
+      "url": "https://waytoagi.feishu.cn/wiki/RgtWwB7hLi80NrkDEFXc1GVdnqb?from=from_copylink"
+    },
+    {
+      "date": "2026-10-15",
+      "title": "实测 Opus 做宣传片的能力，顺手做了个 skill",
+      "summary": "作者利用Opus 5.5通过编写HTML动效网页截帧生成视频，无需AE、不用手动找图，仅靠几句指令就完成多款AI产品宣传片，还开源了整套制作Skill。",
+      "url": "https://waytoagi.feishu.cn/wiki/VxcbwP6Ryisp0sknooEcRhQ1ndd?from=from_copylink"
+    },
+    {
+      "date": "2026-10-15",
+      "title": "Opus 5.5 做视频全教程：一段话到成片，16 种风格 Skill 免费开源",
+      "summary": "作者开源视频风格Skill chengfeng-video-styles，依托Opus 5.5，搭建起了一套可复用的AI视频生产工作流。内置16种成熟视频风格，还支持上传参考素材复刻全新视觉。流程也很巧妙，先生成多版3秒样片筛选风格，确认满意后再渲染全片，避免token浪费。来上手试试！",
+      "url": "https://waytoagi.feishu.cn/wiki/YzJkwQ4QniB4Tdk4YNacUobmngc?from=from_copylink"
+    },
+    {
+      "date": "2026-10-14",
+      "title": "开源「红绿灯」提示语，解决Agent刹不住车浪费token额度的老毛病",
+      "summary": "Agent 最容易浪费额度的地方，常常发生在需求完成之后：它不断追加优化建议，你顺手点头，半小时的任务就拖成了一下午。作者开源了一套不到 300 字的“红绿灯”提示语，适合经常使用 Codex、Claude Code的人，把是否继续推进的决定权重新留给自己。",
+      "url": "https://waytoagi.feishu.cn/wiki/HyZOwXGMaiDuBAkv2EXc6AlsnKh?from=from_copylink"
+    },
+    {
+      "date": "2026-10-14",
+      "title": "实测Gemini 4 Argon写作能力，百万上下文竟恐怖如斯",
+      "summary": "卡尔让 Gemini 4 Argon 用“起点修仙文”来写自己的更新点，结果成品在长篇连贯、指令遵循和风格模仿上表现都很亮眼，也减少了套话和反复续写带来的割裂。来看看写作能力到底如何？",
+      "url": "https://waytoagi.feishu.cn/wiki/FnXzwxSgxiTdw3kGX2vc0AbUn5e?from=from_copylink"
+    },
+    {
+      "date": "2026-10-14",
+      "title": "吴桐×蟹老板：AI双人成行｜WaytoAGI 校园先疯",
+      "summary": "大家总爱问，年轻人学 AI 到底能拿到什么结果？这篇专访记录了WaytoAGI校园大使吴桐与搭档蟹老板的AI创业故事。他们一边借力AI快速落地项目、承接商单，一边坚守慢节奏的人际相处，理性看待AI依赖问题，思考效率红利背后的隐患。他们的故事或许能够带给想要入局AI的年轻人更加真实的参考与启发。",
+      "url": "https://waytoagi.feishu.cn/wiki/MAkAwsNCGijDGDkmj5pcKuzvn5d?from=from_copylink"
+    },
+    {
+      "date": "2026-10-14",
+      "title": "MiniMax Design - 手册与指南",
+      "summary": "MiniMax Design 全新 Agent V3 上线！这次升级，创作消耗降低 30% 以上，同页面素材互通复用，自定义规则可以锁定你的创作习惯，素材分类管理并留存历史版本，修改迭代更省心！",
+      "url": "https://waytoagi.feishu.cn/wiki/EGfUwEXpHi0GBjkdwymc7BHKnWh?from=from_copylink"
+    },
+    {
+      "date": "2026-10-14",
+      "title": "GEO 开源 Skill：ChatGPT 的 Fan-out Queries 报告",
+      "summary": "做GEO不能只盯着 ChatGPT 的最终回答，而是要看的它把问题拆成了什么、搜过哪些页面，又真正引用了谁。作者开源了 chatgpt-fanout-queries Skill。输入一个真实问题，它会调用 Responses API，保存完整搜索轨迹，提取 Fan-out 搜索词，并将搜索来源与最终引用分开统计，最后输出可离线查看的 HTML 报告。",
+      "url": "https://waytoagi.feishu.cn/wiki/NpcuwadtWiSistkXxTsc2Fvqn3e?from=from_copylink"
+    },
+    {
+      "date": "2026-10-14",
+      "title": "AI接管业务实录（落地篇）：从一场拜访日程开始，跑通真正的业务闭环",
+      "summary": "很多团队说要让 AI 接管业务，最后却只做到“生成一份报告”：资料没进系统、客户重复建档，换个对话入口，规则还可能失效。这篇文章从一场企业拜访出发，跑通了一条真实闭环：AI 读取日历确定拜访对象，调用调研 Skill 拆解商业模式和现场问题，再按 SOP 建客户主档、关联业务、归档报告，最后用定时任务扫描未来日程。",
+      "url": "https://waytoagi.feishu.cn/wiki/E1qyw2vUpi3Yedkm7SAc3f27n4c?from=from_copylink"
+    },
+    {
+      "date": "2026-10-13",
+      "title": "通读完13万星的REA源码，它的防幻觉设计值得每个做AI的人抄一遍",
+      "summary": "REA短短一周收获了13万GitHub星标，它爆火的核心不止降低了逆向门槛，更藏着一套解决AI幻觉的优秀工程思路。不靠提示词约束大模型，而是在工具层搭建多重可信机制：事实分级标注、传输哈希校验，强制标记未知信息，矛盾结论直接拦截。一旦环境校验失败就停止工作，绝不编造虚假内容。这套架构可以迁移到MCP工具开发，给医疗、法律等高严谨场景构建可信AI系统提供可落地的参考范式。",
+      "url": "https://waytoagi.feishu.cn/wiki/S9dFwM0hgiU1RAkjHzjcZa7FnVd?from=from_copylink"
+    },
+    {
+      "date": "2026-10-13",
+      "title": "老马开大四合一！每月30美元，全包了！",
+      "summary": "X推出全新30美元Premium打包订阅，一次性囊括Grok、Cursor、Grok Bot和X会员。老金拆解了不同档位的差异与老用户迁移的风险，帮你判断这套打包方案是否适合自己。",
+      "url": "https://waytoagi.feishu.cn/wiki/L2WOw67PFiVvsFkKIJJcXBaUnkd?from=from_copylink"
+    },
+    {
+      "date": "2026-10-13",
+      "title": "给Codex装上这3个Skill，让它从理工男变成专属视觉设计师",
+      "summary": "还在为内容配图、制作漫画与分享PPT耗费大量时间？作者迭代三款开源AI创作Skill，一键就能部署使用。配图助手拥有28种画风，适配多种画面比例；漫画助手借助IP形象把抽象知识点可视化；PPT助手则可快速产出多风格演示文稿。快来上手试试！",
+      "url": "https://waytoagi.feishu.cn/wiki/In4cwfJ1viv6FXk7N7bcLTWPnSd?from=from_copylink"
+    },
+    {
+      "date": "2026-10-13",
+      "title": "Codex 软件开发完整工作流，1:1 复刻任何软件（REA+PentAGI+ReverseSkill）",
+      "summary": "很多人看到 REA 刷屏后，只想到“拿它逆向软件”。但是逆向≠复刻。作者发现REA+Reverse-skill+PentAGI三件套，打通了从逆向解析到复刻开发、安全检测的完整 AI 流水线，交给 Codex 就可以自动执行。",
+      "url": "https://waytoagi.feishu.cn/wiki/YlcQwzSD6iCJnXkdxn8cifsmnfg?from=from_copylink"
+    },
+    {
+      "date": "2026-10-13",
+      "title": "Codex 生成 “Claude感”动画skill（已开源）",
+      "summary": "很多人让 Codex 做动画，镜头、材质、动作节奏都像临时拼出来的。作者分析了 100 多个 Claude 动画源码，通过双盲和消融实验，把“Claude 感”的绘图代码、场景、模型和制作系统整理成素材库，让 GPT 生成动画时能直接查案例、复用实现，再重新改编成新故事。",
+      "url": "https://waytoagi.feishu.cn/wiki/BqDcwbQDMi5loikpW4vceIVInye?from=from_copylink"
+    },
+    {
+      "date": "2026-10-12",
+      "title": "我把 Jev 部署到了一个开源Agent Harness中",
+      "summary": "想降低智能体批量决策的高昂开销，可以看看这套Jev+TrueForge组合方案。Jev作为专用决策模型，在匹配分类任务上和Opus精度持平，成本仅为后者1/150。而TrueForge工具链通过多种手段压缩上下文，减少不必要的模型调用。把固定选项判断交给轻量决策模型，大模型聚焦文本生成，这套架构可复用在工单、CRM等业务场景，有效控制Agent长期运行成本。",
+      "url": "https://waytoagi.feishu.cn/wiki/NkknwTOIzimajRkwBepc3KbWnwe?from=from_copylink"
+    },
+    {
+      "date": "2026-10-12",
+      "title": "全程拿着手机，我让dot准备了一场AI分享",
+      "summary": "作者仅凭手机下达指令，就能让Dot调取电脑内私有PPT制作Skill与历史对话素材，自主完成PPT撰写、内容自检与修改，产出配套讲稿。他还对比了Dot、grokbot、Muse三款智能体的差异，一起来看看。",
+      "url": "https://waytoagi.feishu.cn/wiki/XExFwiXXSi5ua7kvve5comQAnJl?from=from_copylink"
+    },
+    {
+      "date": "2026-10-12",
+      "title": "为什么我们需要 Agent 评测",
+      "summary": "Agent 评测已经成为了当前 Agent应用的基石。作者这篇文章就给大家详细介绍一下什么是评测、怎么做，以及其中的一些方法论和细节。",
+      "url": "https://waytoagi.feishu.cn/wiki/LYzvwbwVFimJm2kNfjhcCII4nVd?from=from_copylink"
+    },
+    {
+      "date": "2026-10-12",
+      "title": "REA 保姆级上手教程: Codex 实操官方案例",
+      "summary": "爆火开源工具REA，可以搭配Codex完成AI驱动逆向工程。文章以经典恐龙跑酷小游戏作为实战案例，附上Mac环境全套部署命令，带你直接拆解游戏底层加速逻辑，再让AI生成可自定义调速的新版网页游戏。全程不用手写大量代码，附带详细校验步骤与常见报错解决方案。学会这套工作流，你就能解析网页、桌面应用的底层实现，自由复刻改造各类软件功能。",
+      "url": "https://waytoagi.feishu.cn/wiki/Ps2cwMQEqiOTWCk7GwscR33vnGe?from=from_copylink"
+    },
+    {
+      "date": "2026-10-12",
+      "title": "Agent、MCP、Skill、Cli、Model 一次讲透：老系统接入 AI 的概念地图与三条路径",
+      "summary": "很多企业现在想“让 AI 深入老系统”，但是概念和接入路径都没理清：Agent、Model、Skill、MCP、CLI 到底谁负责什么，老系统又该从哪下手？这篇文章给出了一个比较清晰的路径，一起学习下！",
+      "url": "https://waytoagi.feishu.cn/wiki/CKHXwpuq1iNSpVkPeaGcoLiWnab?from=from_copylink"
+    },
+    {
+      "date": "2026-10-12",
+      "title": "AI音乐周刊 W.A 049",
+      "summary": "本周AI音乐领域的信号很密：一边是生成能力继续往创作流程里钻，一边是版权、刷量和平台治理开始加强。索尼已要求平台下架超 26 万首 AI 仿唱曲目，首例 AI 音乐刷量欺诈案也进入刑事判决；产品侧 Mureka Remix 支持清唱和 Demo 二创，Google Flow Music 接入 DAW 与 Android，Suno 则补上专辑发布和 Studio 编辑细节。还有5篇论文，从可演奏声音形变、实时神经合成器到音乐裁判模型评估，能看出 AI 音乐正在从“能生成”走向“能生产、能分发、能被监管”。",
+      "url": "https://waytoagi.feishu.cn/wiki/WSm2wJGMYiPFgnkEwaOclrExnaf?from=from_copylink"
+    },
+    {
+      "date": "2026-10-11",
+      "title": "如何构建 AI Agent：从一个提示词到生产级部署",
+      "summary": "汇集Stripe、Uber、Meta等大厂工程实践，作者提炼出10类多智能体落地范式，还总结出可复用的六条核心设计原则。大家也可以结合自身的业务痛点，从轻量化单一场景起步快速验证。",
+      "url": "https://waytoagi.feishu.cn/wiki/UuHFwalEHimXJqkwbDicrseOnUe?from=from_copylink"
+    },
+    {
+      "date": "2026-10-11",
+      "title": "卡兹克的飞书工作台是怎么搭的？我从 0 到 1 手把手带你搭一遍",
+      "summary": "想低成本搭建企业AI业务中台？这篇文章拆解了卡兹克团队在飞书工作台搭建组织中台的完整方案，提供了零代码自助搭建、网页嵌入两套落地路径。覆盖权限配置、模板选用、页面编辑、发布上线全流程，搭配各类小组件与布局方案，可快速搭建千人千面的业务门户，复帮团队把AI能力落地到真实业务场景。",
+      "url": "https://waytoagi.feishu.cn/wiki/RMr5wo19Ii1TSvkBHD8cACqWnSd?from=from_copylink"
+    },
+    {
+      "date": "2026-10-11",
+      "title": "入职大厂两个月，我的 AI 开发心得",
+      "summary": "作者这份实战分享，带来一套轻量化的Agent开发工作流，涵盖需求对齐、多Agent协同开发、搭建Agent友好的端到端测试环境，以及AI生成代码的评审策略。",
+      "url": "https://waytoagi.feishu.cn/wiki/OP5wwCIEFiSOx4koIoOcy0Ken8d?from=from_copylink"
+    },
+    {
+      "date": "2026-10-11",
+      "title": "「万字总结」- 我偷来了一份成为 Agent 工程师的学习线路",
+      "summary": "很多人想转行 Agent 工程师，一上来就收藏框架、跑 demo，结果 API、RAG、状态管理、后端工程都没真正串起来。作者整理了一份学习路线：覆盖 LLM 原理、提示词工程、RAG、智能体循环，延伸至后端开发全栈能力，配套学习链接、实操项目与验收标准。或许可以帮你快速定位知识盲区，搭建可用于求职展示的技术作品集。",
+      "url": "https://waytoagi.feishu.cn/wiki/OofFwRLQZillgVk6rQxcwKWbnHc?from=from_copylink"
+    },
+    {
+      "date": "2026-10-11",
+      "title": "Karpathy 的本地 LLM 加速技巧，终于有了正解",
+      "summary": "本地跑 LLM 慢，问题往往不只是“算力不够”，更常见的是内存带宽把生成速度锁住了。Mirai 开源推理引擎 Uzu，凭借硬件专属量化、DFlash-Weaver 草稿生成与免回滚树验证方案，在 M5 芯片上实现性能飞跃。一起来看看是怎么回事！",
+      "url": "https://waytoagi.feishu.cn/wiki/O2tKwzw3CiH0VrkWIcUcANyKnPg?from=from_copylink"
+    },
+    {
+      "date": "2026-10-11",
+      "title": "10.5—10.11｜本周顶级 AI 论文",
+      "summary": "本周精选的10篇 AI 论文正在从“换更强模型”转向“把模型外面的系统做扎实”，集结了 CMU、微软、谷歌、Meta 等机构的突破性成果。内容覆盖控制程序工程、检索增强、长周期任务校验、多智能体自优化与记忆架构等核心方向。",
+      "url": "https://waytoagi.feishu.cn/wiki/KcvdwvBYJivQPWkn4yVcIRYGnnH?from=from_copylink"
+    },
+    {
+      "date": "2026-10-10",
+      "title": "近期海外爆火的 Personal Agent 的完整复盘",
+      "summary": "这波 Personal Agent 火起来，不只是“AI 助手换个名字”，背后其实是产品形态开始收敛：每个用户一台云电脑、一个浏览器、一个常驻后台 Agent，敏感操作再拉人审批。这篇文章把 Meta Muse、OpenAI Dots、Grok Bot、Gemini Spark、Manus Cue 放在一起进行了全面复盘。",
+      "url": "https://waytoagi.feishu.cn/wiki/OKAnw7hAyiOIF8k1Y48ceQWMnmf?from=from_copylink"
+    },
+    {
+      "date": "2026-10-10",
+      "title": "教师办公Agent入门指南",
+      "summary": "很多老师对 Agent 很感兴趣，却常常卡在资料太散、工具名太多、教程太碎，不知道从哪一步开始。这套《教师办公 Agent 入门指南》很适合一线教师入门：用豆包工作串起备课资料整理、PPT 生成、录音处理、公众号排版、成绩分析、课堂互动、Skill 制作、飞书知识库 / 多维表格 / 自动化等 21 个主题。",
+      "url": "https://waytoagi.feishu.cn/wiki/ZvHYw4CH4ipYehklzGPccwX0nhh?from=from_copylink"
+    },
+    {
+      "date": "2026-10-10",
+      "title": "刚刚，Anthropic发布「动效视频」指南：扔文档自动找亮点，纯代码直接渲染MP4",
+      "summary": "Anthropic推出的Claude Motion，不靠视频大模型，直接用代码渲染演示动效。只需调整文字、数字、时长等参数，其余画面不会被破坏。文中还提供了可直接丢给 Opus 5.5 的全套提示词，自动筛选适合可视化的内容、输出分镜脚本、生成代码并导出 1080p MP4，快速制作产品演示短片。",
+      "url": "https://waytoagi.feishu.cn/wiki/DGpUwV8uQivf4CkPqA9cY7Vontz?from=from_copylink"
+    },
+    {
+      "date": "2026-10-10",
+      "title": "万字长文｜Cloudflare 从入门到精通，一个域名搞定建站、邮箱、存储和 AI 后端",
+      "summary": "想低成本搭建个人网站与轻量AI接口？这份Cloudflare实操指南从域名接入、HTTPS配置、GitHub自动部署网站，到域名邮箱、R2对象存储，还讲解了Workers调用开源模型、全新cf命令行交由Agent管理的整套资源，帮你避开各类配置陷阱，零服务器成本落地你的线上项目。",
+      "url": "https://waytoagi.feishu.cn/wiki/LhhHwMKioiiebqkbmQXc9S13nVd?from=from_copylink"
+    },
+    {
+      "date": "2026-10-10",
+      "title": "ChatGPT dots，到底能替你操多少心？",
+      "summary": "老金深度体验了 由 GPT-6 Astra 驱动的 Dot 个人云端智能体后，分享了开源项目看板、复用工作手册、手机语音续改、定时巡检等实操方案，可以帮你简化多任务管理，不用反复复述需求，轻松托管各类长期工作项目。",
+      "url": "https://waytoagi.feishu.cn/wiki/Xbozw5hANiQiFMkAH30cCRcXnVg?from=from_copylink"
+    },
+    {
+      "date": "2026-10-10",
+      "title": "23 岁 DeepSeek 工程师，为什么想念“慢慢写代码”的日子？",
+      "summary": "AI 写代码越来越强，大家最常聊效率，却很少认真聊：当机器接过越来越多“手活”，工程师会失去什么。",
+      "url": "https://waytoagi.feishu.cn/wiki/Vj95wFAbOikyUpkQ9q2cIBv7nMf?from=from_copylink"
+    }
+  ],
+  "warning": null,
+  "has_error": false,
+  "error": null
 }
