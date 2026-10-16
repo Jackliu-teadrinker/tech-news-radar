@@ -5,7 +5,7 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Thu, 15 Oct 2026 22:07:02 +0000</lastBuildDate>
+<lastBuildDate>Fri, 16 Oct 2026 00:40:07 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
 <item>
 <title>Bringing GPT-Rosalind to academic research labs</title>
@@ -30,14 +30,6 @@
 <description>Hugging Face Blog</description>
 <category>官方更新</category>
 <pubDate>Thu, 15 Oct 2026 20:34:01 +0000</pubDate>
-</item>
-<item>
-<title>Codex CLI 0.163.0</title>
-<link>https://developers.openai.com/codex/changelog</link>
-<guid isPermaLink="true">https://developers.openai.com/codex/changelog</guid>
-<description>OpenAI Codex Changelog</description>
-<category>官方更新</category>
-<pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Teaching students to think and learn through questions</title>
@@ -120,14 +112,6 @@
 <pubDate>Thu, 15 Oct 2026 20:11:26 +0000</pubDate>
 </item>
 <item>
-<title>欧盟就模型越狱事件调查 OpenAI 和 Anthropic，最高可罚全球营业额 3%</title>
-<link>https://www.ithome.com/1/013/154.htm</link>
-<guid isPermaLink="true">https://www.ithome.com/1/013/154.htm</guid>
-<description>欧盟委员会人工智能办公室正式向 OpenAI 和 Anthropic 发出信息调取请求，调查两家公司前沿模型测试期间的模型越狱及入侵外部真实系统事件，这是《人工智能法案》实施以来对前沿实验室安全事故的首次重要执法考验。（IT之家·人工智能）</description>
-<category>行业动态</category>
-<pubDate>Wed, 14 Oct 2026 23:13:18 +0000</pubDate>
-</item>
-<item>
 <title>NVIDIA 发布开源 Nemotron 3.5 Super VL 及 Bolt 两款端侧模型 / Open From Data Center to Desktop: NVIDIA Expands Nemotron Family With Highest Efficiency Super VL and Bolt Models</title>
 <link>https://blogs.nvidia.com/blog/nemotron-3-5-super-vl</link>
 <guid isPermaLink="true">https://blogs.nvidia.com/blog/nemotron-3-5-super-vl</guid>
@@ -144,28 +128,44 @@
 <pubDate>Thu, 15 Oct 2026 00:52:13 +0000</pubDate>
 </item>
 <item>
-<title>Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta</title>
-<link>https://huggingface.co/blog/meta-muse-spark-open</link>
-<guid isPermaLink="true">https://huggingface.co/blog/meta-muse-spark-open</guid>
-<description>Hugging Face Blog</description>
+<title>AI Scan for pull requests generally available</title>
+<link>https://github.blog/changelog/2026-10-15-ai-scan-for-pull-requests-generally-available</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-15-ai-scan-for-pull-requests-generally-available</guid>
+<description>GitHub Changelog</description>
 <category>官方更新</category>
-<pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+<pubDate>Thu, 15 Oct 2026 15:04:51 +0000</pubDate>
 </item>
 <item>
-<title>Gemini 4 Argon 在 ARC-AGI (Verified) 评测中公布：ARC-AGI-3 得分 97.5% / Gemini 4 Argon from @Google on ARC-AGI (Verified):</title>
-<link>https://x.com/arcprize/status/2110768288523251762</link>
-<guid isPermaLink="true">https://x.com/arcprize/status/2110768288523251762</guid>
-<description>ARC Prize 公布 Gemini 4 Argon 在 ARC-AGI (Verified) 的评测成绩。ARC-AGI-3 上，provider adapter harness 得分 97.5%、成本 $4.8K，标准 harness 得分 49.8%、成本 $5.8K；ARC-AGI-2 得分 91.3%、$0.32/task；ARC-AGI-1 得分 98.5%、$0.16/task。Google DeepMind 是第二家在 ARC-AGI-3 上得分超过 95% 的前沿 AI 实验室。（X：ARC Prize (@arcprize)）</description>
-<category>行业动态</category>
-<pubDate>Thu, 15 Oct 2026 16:22:30 +0000</pubDate>
+<title>Email notifications for repository push events have been retired</title>
+<link>https://github.blog/changelog/2026-10-15-email-notifications-for-repository-push-events-have-been-retired</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-15-email-notifications-for-repository-push-events-have-been-retired</guid>
+<description>GitHub Changelog</description>
+<category>官方更新</category>
+<pubDate>Thu, 15 Oct 2026 13:42:19 +0000</pubDate>
 </item>
 <item>
-<title>Microsoft AI 公布 MAI-Base-2 预训练细节，2.8T 参数 MoE 模型 FLOPs 效率达 DeepSeek-V4-Pro-Base 的 4.2 至 12.3 倍 / Frontier Pre-training at Microsoft AI</title>
-<link>https://microsoft.ai/news/frontier-pre-training-at-microsoft-ai</link>
-<guid isPermaLink="true">https://microsoft.ai/news/frontier-pre-training-at-microsoft-ai</guid>
-<description>Microsoft AI 宣布完成 MAI-Base-2 预训练，这是一个 800 亿激活、2.8T 总参数的 MoE 基础模型，在 held-out 评测中 BPB 低于所测全部开源权重模型，预训练 FLOPs 效率比 DeepSeek-V4-Pro-Base 高 4.2 至 12.3 倍。（Microsoft AI：官方博客（网页））</description>
-<category>行业动态</category>
-<pubDate>Thu, 15 Oct 2026 16:09:01 +0000</pubDate>
+<title>关于Anthropic的《Scion》抄袭《幽灵公主》的更多报道 / More on Anthropic's Scion ripping off Mononoke</title>
+<link>https://sunshowers.io/posts/anthropic-mononoke-2</link>
+<guid isPermaLink="true">https://sunshowers.io/posts/anthropic-mononoke-2</guid>
+<description>Hacker News front page</description>
+<category>多源热议</category>
+<pubDate>Thu, 15 Oct 2026 18:29:59 +0000</pubDate>
+</item>
+<item>
+<title>Friends don&amp;#8217;t let friends feed their data to AI agents</title>
+<link>https://www.theverge.com/tech/1011938/muse-ai-data-friends-consent</link>
+<guid isPermaLink="true">https://www.theverge.com/tech/1011938/muse-ai-data-friends-consent</guid>
+<description>The Verge</description>
+<category>值得关注</category>
+<pubDate>Thu, 15 Oct 2026 16:21:45 +0000</pubDate>
+</item>
+<item>
+<title>Aidlc: Adaptive workflow steering rules for AI coding agents</title>
+<link>https://github.com/awslabs/aidlc-workflows</link>
+<guid isPermaLink="true">https://github.com/awslabs/aidlc-workflows</guid>
+<description>Hacker News front page</description>
+<category>值得关注</category>
+<pubDate>Thu, 15 Oct 2026 07:20:39 +0000</pubDate>
 </item>
 </channel>
 </rss>
