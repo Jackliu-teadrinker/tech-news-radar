@@ -1,40 +1,40 @@
 {
-  "generated_at": "2026-10-18T17:30:24.478584Z",
+  "generated_at": "2026-10-18T19:22:16.592922Z",
   "window_hours": 24,
-  "total_items": 166,
-  "total_items_ai_raw": 190,
-  "total_items_raw": 954,
-  "total_items_all_mode": 315,
+  "total_items": 156,
+  "total_items_ai_raw": 177,
+  "total_items_raw": 908,
+  "total_items_all_mode": 295,
   "topic_filter": "tech_broad_scoring_v1_0",
   "ai_relevance_threshold": 0.65,
   "tech_relevance_mode": "broad",
-  "archive_total": 32956,
+  "archive_total": 32815,
   "site_count": 17,
-  "source_count": 40,
+  "source_count": 36,
   "site_stats": [
     {
       "site_id": "curated_media",
       "site_name": "Curated Media",
-      "count": 63,
-      "raw_count": 127
-    },
-    {
-      "site_id": "techurls",
-      "site_name": "TechURLs",
-      "count": 26,
-      "raw_count": 206
+      "count": 62,
+      "raw_count": 126
     },
     {
       "site_id": "iris",
       "site_name": "Info Flow",
-      "count": 24,
-      "raw_count": 175
+      "count": 25,
+      "raw_count": 172
+    },
+    {
+      "site_id": "techurls",
+      "site_name": "TechURLs",
+      "count": 20,
+      "raw_count": 184
     },
     {
       "site_id": "newsnow",
       "site_name": "NewsNow",
-      "count": 19,
-      "raw_count": 111
+      "count": 18,
+      "raw_count": 109
     },
     {
       "site_id": "sector_sources",
@@ -45,14 +45,14 @@
     {
       "site_id": "followbuilders",
       "site_name": "Follow Builders",
-      "count": 5,
-      "raw_count": 6
+      "count": 4,
+      "raw_count": 5
     },
     {
-      "site_id": "buzzing",
-      "site_name": "Buzzing",
-      "count": 3,
-      "raw_count": 111
+      "site_id": "aihot",
+      "site_name": "AI HOT",
+      "count": 2,
+      "raw_count": 5
     },
     {
       "site_id": "waytoagi",
@@ -73,16 +73,16 @@
       "raw_count": 2
     },
     {
-      "site_id": "zeli",
-      "site_name": "Zeli",
-      "count": 2,
-      "raw_count": 63
+      "site_id": "buzzing",
+      "site_name": "Buzzing",
+      "count": 1,
+      "raw_count": 100
     },
     {
-      "site_id": "aihot",
-      "site_name": "AI HOT",
+      "site_id": "zeli",
+      "site_name": "Zeli",
       "count": 1,
-      "raw_count": 4
+      "raw_count": 56
     },
     {
       "site_id": "official_ai",
@@ -121,6 +121,60 @@
   "creator_items_all": [],
   "items": [
     {
+      "id": "2887eb19ae3474d03e7d10ff36cad10038688e3a",
+      "site_id": "aihot",
+      "site_name": "AI HOT",
+      "source": "X：Arena (@arena)",
+      "title": "DeepSeek-V4.1-Flash-20261017 登顶 Code Arena: WebDev 开源模型榜首",
+      "url": "https://x.com/arena/status/2111894091168682086",
+      "published_at": "2026-10-18T18:56:03Z",
+      "first_seen_at": "2026-10-18T19:22:16.592922Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
+      "aihot_score": 69,
+      "aihot_category": "ai-models",
+      "aihot_selected": true,
+      "summary": "Arena 宣布 DeepSeek-V4.1-Flash-20261017 (Max) 成为 Code Arena: WebDev 榜单第一开源模型，超过 Kimi K3 (Max)，成本低约 10 倍。",
+      "ai_is_related": true,
+      "ai_score": 0.95,
+      "ai_label": "ai_model",
+      "ai_relevance_reason": "trusted_tech_source+strong",
+      "ai_signals": [
+        "ai",
+        "deepseek",
+        "开源",
+        "开源模型"
+      ],
+      "ai_noise": [],
+      "tech_is_related": true,
+      "tech_score": 0.95,
+      "tech_label": "ai_model",
+      "source_tier": "ai_vertical",
+      "source_tier_label": "AI垂直源",
+      "source_tier_rank": 1,
+      "direction": "ai_models_apps",
+      "direction_hits": [
+        {
+          "direction_id": "ai_models_apps",
+          "score": 2.5,
+          "matched_keywords": [
+            "deepseek",
+            "code",
+            "deepseek"
+          ],
+          "companies": [
+            "deepseek"
+          ]
+        }
+      ],
+      "companies": [
+        "deepseek"
+      ],
+      "title_original": "Exciting news: DeepSeek-V4.1-Flash-20261017 (Max) by @deepseek_ai is now the #1 open model in Code Arena: WebDev, surpassing Kimi K3 (Max...",
+      "title_en": "Exciting news: DeepSeek-V4.1-Flash-20261017 (Max) by @deepseek_ai is now the #1 open model in Code Arena: WebDev, surpassing Kimi K3 (Max...",
+      "title_zh": "DeepSeek-V4.1-Flash-20261017 登顶 Code Arena: WebDev 开源模型榜首",
+      "title_bilingual": "DeepSeek-V4.1-Flash-20261017 登顶 Code Arena: WebDev 开源模型榜首 / Exciting news: DeepSeek-V4.1-Flash-20261017 (Max) by @deepseek_ai is now the #1 open model in Code Arena: WebDev, surpassing Kimi K3 (Max..."
+    },
+    {
       "id": "f0d84e4695df7dc1adcddf7e53b2cca1f8df2755",
       "site_id": "aihot",
       "site_name": "AI HOT",
@@ -129,7 +183,7 @@
       "url": "https://the-decoder.com/anthropic-has-nearly-stopped-hiring-junior-staff-because-ai-agents-now-work-six-times-as-many-hours",
       "published_at": "2026-10-18T13:22:26Z",
       "first_seen_at": "2026-10-18T16:26:34.529941Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "aihot_score": 78,
       "aihot_category": "industry",
       "aihot_selected": true,
@@ -195,6 +249,326 @@
       "title_bilingual": "Anthropic 内部研究显示初级技术岗位占比下降，AI Agent 工时达员工六倍 / Anthropic has nearly stopped hiring junior staff because AI agents now work six times as many hours"
     },
     {
+      "id": "00d388c80f263afc5741ed29f060216c1f94fc56",
+      "site_id": "curated_media",
+      "site_name": "Curated Media",
+      "source": "Engadget",
+      "title": "Here's how the Slate truck gets software updates without built-in infotainment",
+      "url": "https://www.engadget.com/2283988/slate-truck-no-infotainment-over-the-air-sofware-updates",
+      "published_at": "2026-10-18T18:30:00Z",
+      "first_seen_at": "2026-10-18T19:22:16.592922Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
+      "ai_is_related": true,
+      "ai_score": 0.56,
+      "ai_label": "software_saas",
+      "ai_relevance_reason": "matched_tech_signal",
+      "ai_signals": [
+        "ai"
+      ],
+      "ai_noise": [],
+      "tech_is_related": true,
+      "tech_score": 0.56,
+      "tech_label": "software_saas",
+      "source_tier": "ai_media",
+      "source_tier_label": "精选AI媒体",
+      "source_tier_rank": 2,
+      "direction": "autonomous_vehicle",
+      "direction_hits": [
+        {
+          "direction_id": "autonomous_vehicle",
+          "score": 0.94,
+          "matched_keywords": [
+            "ad",
+            "ota"
+          ],
+          "companies": []
+        }
+      ],
+      "companies": [],
+      "title_original": "Here's how the Slate truck gets software updates without built-in infotainment",
+      "title_en": "Here's how the Slate truck gets software updates without built-in infotainment",
+      "title_zh": "以下是 Slate 卡车如何在没有内置信息娱乐系统的情况下获取软件更新的方法",
+      "title_bilingual": "以下是 Slate 卡车如何在没有内置信息娱乐系统的情况下获取软件更新的方法 / Here's how the Slate truck gets software updates without built-in infotainment"
+    },
+    {
+      "id": "30d5a466b43b07355af3b2c7e2f5f1db84a84af0",
+      "site_id": "curated_media",
+      "site_name": "Curated Media",
+      "source": "The Verge (all)",
+      "title": "A woman was arrested in Philly for blocking a delivery robot",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
+      "published_at": "2026-10-18T18:28:10Z",
+      "first_seen_at": "2026-10-18T19:22:16.592922Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
+      "ai_is_related": true,
+      "ai_score": 0.56,
+      "ai_label": "robotics",
+      "ai_relevance_reason": "matched_tech_signal",
+      "ai_signals": [
+        "robot"
+      ],
+      "ai_noise": [],
+      "tech_is_related": true,
+      "tech_score": 0.56,
+      "tech_label": "robotics",
+      "source_tier": "ai_media",
+      "source_tier_label": "精选AI媒体",
+      "source_tier_rank": 2,
+      "direction": "compute_dc",
+      "direction_hits": [
+        {
+          "direction_id": "compute_dc",
+          "score": 0.75,
+          "matched_keywords": [
+            "intel"
+          ],
+          "companies": [
+            "intel"
+          ]
+        },
+        {
+          "direction_id": "semiconductor",
+          "score": 0.75,
+          "matched_keywords": [
+            "co",
+            "intel"
+          ],
+          "companies": [
+            "intel"
+          ]
+        }
+      ],
+      "companies": [
+        "intel"
+      ],
+      "title_original": "A woman was arrested in Philly for blocking a delivery robot",
+      "title_en": "A woman was arrested in Philly for blocking a delivery robot",
+      "title_zh": "一名女子因阻挡送货机器人而在费城被捕",
+      "title_bilingual": "一名女子因阻挡送货机器人而在费城被捕 / A woman was arrested in Philly for blocking a delivery robot"
+    },
+    {
+      "id": "79ff5e4038e1a036e6899d7c9b68400c5dfda45b",
+      "site_id": "curated_media",
+      "site_name": "Curated Media",
+      "source": "MarkTechPost Research",
+      "title": "TinyFish Makes Search Free: What It Really Costs an AI Agent to Read the Web",
+      "url": "https://www.marktechpost.com/2026/10/18/tinyfish-free-search-ai-agent-token-cost",
+      "published_at": "2026-10-18T18:20:28Z",
+      "first_seen_at": "2026-10-18T19:22:16.592922Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
+      "ai_is_related": true,
+      "ai_score": 0.78,
+      "ai_label": "ai_model",
+      "ai_relevance_reason": "matched_strong_tech_signal",
+      "ai_signals": [
+        "ai"
+      ],
+      "ai_noise": [],
+      "tech_is_related": true,
+      "tech_score": 0.78,
+      "tech_label": "ai_model",
+      "source_tier": "ai_media",
+      "source_tier_label": "精选AI媒体",
+      "source_tier_rank": 2,
+      "direction": "ai_terminal",
+      "direction_hits": [
+        {
+          "direction_id": "ai_terminal",
+          "score": 1.44,
+          "matched_keywords": [
+            "ar",
+            "agent"
+          ],
+          "companies": []
+        },
+        {
+          "direction_id": "ai_models_apps",
+          "score": 0.97,
+          "matched_keywords": [
+            "token",
+            "agent"
+          ],
+          "companies": []
+        }
+      ],
+      "companies": [],
+      "title_original": "TinyFish Makes Search Free: What It Really Costs an AI Agent to Read the Web",
+      "title_en": "TinyFish Makes Search Free: What It Really Costs an AI Agent to Read the Web",
+      "title_zh": "TinyFish 让搜索变得免费：AI 代理阅读网页的真正成本是多少",
+      "title_bilingual": "TinyFish 让搜索变得免费：AI 代理阅读网页的真正成本是多少 / TinyFish Makes Search Free: What It Really Costs an AI Agent to Read the Web"
+    },
+    {
+      "id": "b7ad9ce962997a76ceb7f6d06da70d6211748380",
+      "site_id": "curated_media",
+      "site_name": "Curated Media",
+      "source": "Hacker News front page",
+      "title": "Investing in the Public Benefit",
+      "url": "https://www.anthropic.com/news/public-benefit-fund",
+      "published_at": "2026-10-18T18:15:10Z",
+      "first_seen_at": "2026-10-18T19:22:16.592922Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
+      "ai_is_related": true,
+      "ai_score": 0.78,
+      "ai_label": "ai_product",
+      "ai_relevance_reason": "matched_strong_tech_signal",
+      "ai_signals": [
+        "anthropic"
+      ],
+      "ai_noise": [],
+      "tech_is_related": true,
+      "tech_score": 0.78,
+      "tech_label": "ai_product",
+      "source_tier": "ai_media",
+      "source_tier_label": "精选AI媒体",
+      "source_tier_rank": 2,
+      "direction": "ai_models_apps",
+      "direction_hits": [
+        {
+          "direction_id": "ai_models_apps",
+          "score": 0.75,
+          "matched_keywords": [
+            "anthropic",
+            "anthropic"
+          ],
+          "companies": [
+            "anthropic"
+          ]
+        }
+      ],
+      "companies": [
+        "anthropic"
+      ],
+      "title_original": "Investing in the Public Benefit",
+      "title_en": "Investing in the Public Benefit",
+      "title_zh": null,
+      "title_bilingual": "Investing in the Public Benefit"
+    },
+    {
+      "id": "88276688b64af321c9c5da6d4843573957d6fc91",
+      "site_id": "curated_media",
+      "site_name": "Curated Media",
+      "source": "Bloomberg Tech",
+      "title": "Anthropic Plans to Shift Some Shares Into New ‘Public Good’ Fund",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-18/anthropic-plans-to-shift-some-shares-into-new-public-good-fund",
+      "published_at": "2026-10-18T18:03:03Z",
+      "first_seen_at": "2026-10-18T19:22:16.592922Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
+      "ai_is_related": true,
+      "ai_score": 0.78,
+      "ai_label": "ai_product",
+      "ai_relevance_reason": "matched_strong_tech_signal",
+      "ai_signals": [
+        "anthropic"
+      ],
+      "ai_noise": [],
+      "tech_is_related": true,
+      "tech_score": 0.78,
+      "tech_label": "ai_product",
+      "source_tier": "ai_media",
+      "source_tier_label": "精选AI媒体",
+      "source_tier_rank": 2,
+      "direction": "ai_models_apps",
+      "direction_hits": [
+        {
+          "direction_id": "ai_models_apps",
+          "score": 0.75,
+          "matched_keywords": [
+            "anthropic",
+            "anthropic"
+          ],
+          "companies": [
+            "anthropic"
+          ]
+        }
+      ],
+      "companies": [
+        "anthropic"
+      ],
+      "title_original": "Anthropic Plans to Shift Some Shares Into New ‘Public Good’ Fund",
+      "title_en": "Anthropic Plans to Shift Some Shares Into New ‘Public Good’ Fund",
+      "title_zh": "Anthropic 计划将部分股份转入新的“公益”基金",
+      "title_bilingual": "Anthropic 计划将部分股份转入新的“公益”基金 / Anthropic Plans to Shift Some Shares Into New ‘Public Good’ Fund"
+    },
+    {
+      "id": "d14a17f87f9e98dc4c01e6abd2e54b07487d7b81",
+      "site_id": "curated_media",
+      "site_name": "Curated Media",
+      "source": "Engadget",
+      "title": "From the Royole FlexPai to the iPhone Duo: How the modern foldable phone has evolved",
+      "url": "https://www.engadget.com/2286505/how-modern-foldable-phone-evolved-from-royole-flexpai-to-iphone-duo",
+      "published_at": "2026-10-18T18:00:00Z",
+      "first_seen_at": "2026-10-18T19:22:16.592922Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
+      "ai_is_related": true,
+      "ai_score": 0.81,
+      "ai_label": "consumer_hw",
+      "ai_relevance_reason": "matched_strong_tech_signal",
+      "ai_signals": [
+        "ai",
+        "iphone"
+      ],
+      "ai_noise": [],
+      "tech_is_related": true,
+      "tech_score": 0.81,
+      "tech_label": "consumer_hw",
+      "source_tier": "ai_media",
+      "source_tier_label": "精选AI媒体",
+      "source_tier_rank": 2,
+      "direction": "ai_terminal",
+      "direction_hits": [
+        {
+          "direction_id": "ai_terminal",
+          "score": 0.75,
+          "matched_keywords": [
+            "iphone",
+            "iphone"
+          ],
+          "companies": [
+            "iphone"
+          ]
+        }
+      ],
+      "companies": [
+        "iphone"
+      ],
+      "title_original": "From the Royole FlexPai to the iPhone Duo: How the modern foldable phone has evolved",
+      "title_en": "From the Royole FlexPai to the iPhone Duo: How the modern foldable phone has evolved",
+      "title_zh": "从 Royole FlexPai 到 iPhone Duo：现代可折叠手机的演变",
+      "title_bilingual": "从 Royole FlexPai 到 iPhone Duo：现代可折叠手机的演变 / From the Royole FlexPai to the iPhone Duo: How the modern foldable phone has evolved"
+    },
+    {
+      "id": "83b41829aacfe3f8ed0fa97394e2908285d477e2",
+      "site_id": "curated_media",
+      "site_name": "Curated Media",
+      "source": "Hacker News front page",
+      "title": "Namecheap just seized and disabled all my domains",
+      "url": "https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains",
+      "published_at": "2026-10-18T16:56:56Z",
+      "first_seen_at": "2026-10-18T19:22:16.592922Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
+      "ai_is_related": true,
+      "ai_score": 0.56,
+      "ai_label": "tech_general",
+      "ai_relevance_reason": "matched_tech_signal",
+      "ai_signals": [
+        "ai"
+      ],
+      "ai_noise": [],
+      "tech_is_related": true,
+      "tech_score": 0.56,
+      "tech_label": "tech_general",
+      "source_tier": "ai_media",
+      "source_tier_label": "精选AI媒体",
+      "source_tier_rank": 2,
+      "direction": "",
+      "direction_hits": [],
+      "companies": [],
+      "title_original": "Namecheap just seized and disabled all my domains",
+      "title_en": "Namecheap just seized and disabled all my domains",
+      "title_zh": "Namecheap 刚刚查封并禁用了我的所有域名",
+      "title_bilingual": "Namecheap 刚刚查封并禁用了我的所有域名 / Namecheap just seized and disabled all my domains"
+    },
+    {
       "id": "ae0505a894decb738ac6d3c2ed0d6e4420cf7c5e",
       "site_id": "curated_media",
       "site_name": "Curated Media",
@@ -203,7 +577,7 @@
       "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce",
       "published_at": "2026-10-18T16:30:00Z",
       "first_seen_at": "2026-10-18T17:30:24.478584Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.56,
       "ai_label": "tech_general",
@@ -235,7 +609,7 @@
       "url": "https://waytoagi.feishu.cn/wiki/Qa92wZVeyiUghvkGFpAcAnjun3e?from=from_copylink",
       "published_at": "2026-10-18T16:26:34.529941Z",
       "first_seen_at": "2026-10-18T16:26:34.529941Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "summary": "DeepSeek-V4.1-Flash重磅更新，在模型单价不变的前提下大幅强化代码与工具能力，能一键生成赛车、故宫3D场景、Godot游戏交互原型。软件工程、终端任务评测指标也明显上涨，同时还新增了Search与Fetch联网抓取接口，可以低成本实现资料检索。一起看看效果如何！",
       "ai_is_related": true,
       "ai_score": 0.7,
@@ -291,7 +665,7 @@
       "url": "https://waytoagi.feishu.cn/wiki/VscJw5ODIiV9A2k9rIFcgq1HnHc?from=from_copylink",
       "published_at": "2026-10-18T16:26:34.529941Z",
       "first_seen_at": "2026-10-18T16:26:34.529941Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "summary": "Ambi 创始人子皓结合自身丰富的创业经历，剖析了当下 Personal AI 赛道的机遇。文中抛出诸多反常识判断，搭配真实商业落地案例，给大家提供了很多宝贵的行业判断与实战思路。",
       "ai_is_related": true,
       "ai_score": 0.67,
@@ -322,7 +696,7 @@
       "url": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access",
       "published_at": "2026-10-18T16:25:19Z",
       "first_seen_at": "2026-10-18T17:30:24.478584Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.81,
       "ai_label": "ai_product",
@@ -378,7 +752,7 @@
       "url": "https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html",
       "published_at": "2026-10-18T16:20:27Z",
       "first_seen_at": "2026-10-18T17:30:24.478584Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.81,
       "ai_label": "chip_semi",
@@ -435,7 +809,7 @@
       "url": "https://www.engadget.com/2286431/how-to-fix-scaling-app-size-issues-samsung-galaxy-z-fold-8",
       "published_at": "2026-10-18T16:15:00Z",
       "first_seen_at": "2026-10-18T16:26:34.529941Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.81,
       "ai_label": "software_saas",
@@ -483,7 +857,7 @@
       "url": "https://www.tomshardware.com/pc-components/gpus/amd-cards-now-run-all-dlss-features-thanks-to-one-developers-project-plans-to-match-native-nvidia-gpu-performance",
       "published_at": "2026-10-18T16:03:01Z",
       "first_seen_at": "2026-10-18T16:26:34.529941Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.84,
       "ai_label": "chip_semi",
@@ -568,7 +942,7 @@
       "url": "https://developer.apple.com/forums/verify-human/verify.html?next=%2Fforums%2Fthread%2F850550",
       "published_at": "2026-10-18T15:26:06Z",
       "first_seen_at": "2026-10-18T16:26:34.529941Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.59,
       "ai_label": "dev_tool",
@@ -615,7 +989,7 @@
       "url": "https://www.engadget.com/2286322/why-new-drive-shows-less-storage",
       "published_at": "2026-10-18T15:15:00Z",
       "first_seen_at": "2026-10-18T16:26:34.529941Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.56,
       "ai_label": "tech_general",
@@ -647,7 +1021,7 @@
       "url": "https://www.tomshardware.com/tech-industry/drones/f-22-raptor-pilot-successfully-demonstrates-command-of-wingman-fighter-drone-in-simulated-combat-anduril-yfq-44a-fury-test-advances-usafs-program-to-integrate-uncrewed-aircraft-into-fighter-squadrons",
       "published_at": "2026-10-18T15:02:19Z",
       "first_seen_at": "2026-10-18T16:26:34.529941Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.56,
       "ai_label": "tech_general",
@@ -744,7 +1118,7 @@
       "url": "https://www.engadget.com/2286246/ios-27-carplay-features-not-available-older-iphones",
       "published_at": "2026-10-18T14:45:00Z",
       "first_seen_at": "2026-10-18T16:26:34.529941Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.81,
       "ai_label": "software_saas",
@@ -862,7 +1236,7 @@
       "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-siteguard-waf-flaw-to-run-commands-as-system-root",
       "published_at": "2026-10-18T14:23:16Z",
       "first_seen_at": "2026-10-18T16:26:34.529941Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.56,
       "ai_label": "software_saas",
@@ -941,7 +1315,7 @@
       "url": "https://www.bloomberg.com/news/newsletters/2026-10-18/apple-homeview-with-robotic-arm-new-mac-ipad-mini-nov-6-release-iphone-duo",
       "published_at": "2026-10-18T14:00:01Z",
       "first_seen_at": "2026-10-18T16:26:34.529941Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.84,
       "ai_label": "ai_model",
@@ -995,7 +1369,7 @@
       "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-5090-shipment-worth-usd470-000-goes-missing-in-brazilian-airport-two-pallets-disappear-distributor-seeks-explanations-but-met-with-zero-answers",
       "published_at": "2026-10-18T13:24:23Z",
       "first_seen_at": "2026-10-18T16:26:34.529941Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.81,
       "ai_label": "chip_semi",
@@ -1117,7 +1491,7 @@
       "url": "https://www.tomshardware.com/video-games/pc-gaming/chip-fab-engineering-game-goes-viral-in-taiwan-realistic-and-stressful-simulation-is-basically-a-horror-game-say-some-players",
       "published_at": "2026-10-18T12:50:33Z",
       "first_seen_at": "2026-10-18T16:26:34.529941Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.62,
       "ai_label": "chip_semi",
@@ -1189,7 +1563,7 @@
       "url": "https://the-decoder.com/four-gemini-4-argon-agents-beat-minecraft-without-any-human-help",
       "published_at": "2026-10-18T12:39:51Z",
       "first_seen_at": "2026-10-18T12:45:54.488349Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.83,
       "ai_label": "ai_model",
@@ -1247,7 +1621,7 @@
       "url": "https://www.bloomberg.com/news/videos/2026-10-18/openai-arrest-raises-ai-espionage-concerns-video",
       "published_at": "2026-10-18T12:27:37Z",
       "first_seen_at": "2026-10-18T12:45:54.488349Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.81,
       "ai_label": "ai_product",
@@ -1326,7 +1700,7 @@
       "url": "https://www.tomshardware.com/tech-industry/cyber-security/typo-squatting-attacks-with-major-domains-are-still-viable-corner-cases-with-cyrillic-characters-still-evade-the-best-checks",
       "published_at": "2026-10-18T12:05:00Z",
       "first_seen_at": "2026-10-18T12:45:54.488349Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.56,
       "ai_label": "tech_general",
@@ -1377,7 +1751,7 @@
       "url": "https://www.theverge.com/transportation/1013220/robotaxi-self-driving-car-laws",
       "published_at": "2026-10-18T12:00:00Z",
       "first_seen_at": "2026-10-18T12:01:10.358224Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.81,
       "ai_label": "robotics",
@@ -1479,7 +1853,7 @@
       "url": "https://terriblesoftware.org/2026/10/02/the-brain-sandwich",
       "published_at": "2026-10-18T11:15:37Z",
       "first_seen_at": "2026-10-18T16:26:34.529941Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.56,
       "ai_label": "software_saas",
@@ -1567,7 +1941,7 @@
       "url": "https://the-decoder.com/two-german-courts-now-hold-google-liable-for-what-its-ai-overviews-say",
       "published_at": "2026-10-18T10:52:39Z",
       "first_seen_at": "2026-10-18T12:01:10.358224Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.56,
       "ai_label": "ai_product",
@@ -1693,7 +2067,7 @@
       "url": "https://www.wired.com/story/onlyfans-creators-are-pissed-that-meta-lets-muse-talk-dirty",
       "published_at": "2026-10-18T10:30:00Z",
       "first_seen_at": "2026-10-18T12:01:10.358224Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.56,
       "ai_label": "ai_product",
@@ -1749,7 +2123,7 @@
       "url": "https://www.bloomberg.com/news/articles/2026-10-18/short-of-time-and-influence-macron-fights-to-remain-relevant",
       "published_at": "2026-10-18T10:30:00Z",
       "first_seen_at": "2026-10-18T12:01:10.358224Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.56,
       "ai_label": "tech_general",
@@ -1791,7 +2165,7 @@
       "url": "https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes",
       "published_at": "2026-10-18T10:21:51Z",
       "first_seen_at": "2026-10-18T12:01:10.358224Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.59,
       "ai_label": "dev_tool",
@@ -1848,7 +2222,7 @@
       "url": "https://the-decoder.com/anthropic-consults-law-firms-to-set-fair-negotiation-norms-before-ai-agents-start-cutting-deals",
       "published_at": "2026-10-18T09:11:29Z",
       "first_seen_at": "2026-10-18T12:01:10.358224Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.83,
       "ai_label": "ai_model",
@@ -1906,7 +2280,7 @@
       "url": "https://www.wired.com/story/magnesium-may-not-reach-your-brain-despite-supplement-label-promises",
       "published_at": "2026-10-18T09:00:00Z",
       "first_seen_at": "2026-10-18T12:01:10.358224Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.56,
       "ai_label": "tech_general",
@@ -1938,7 +2312,7 @@
       "url": "https://www.wired.com/story/best-airpods-case",
       "published_at": "2026-10-18T09:00:00Z",
       "first_seen_at": "2026-10-18T12:01:10.358224Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.56,
       "ai_label": "tech_general",
@@ -1970,7 +2344,7 @@
       "url": "https://the-decoder.com/ai-agents-have-bad-taste-in-long-term-decisions-and-a-new-benchmark-proves-it",
       "published_at": "2026-10-18T08:49:41Z",
       "first_seen_at": "2026-10-18T12:01:10.358224Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.78,
       "ai_label": "ai_model",
@@ -2021,7 +2395,7 @@
       "url": "https://the-decoder.com/ai-agents-chasing-a-465-train-refund-invented-excuses-leaked-medical-data-and-spammed-an-mps-office",
       "published_at": "2026-10-18T08:15:04Z",
       "first_seen_at": "2026-10-18T12:01:10.358224Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.78,
       "ai_label": "ai_model",
@@ -2072,7 +2446,7 @@
       "url": "https://www.marktechpost.com/2026/10/18/google-harness2-recursive-agent-harnessing-framework",
       "published_at": "2026-10-18T08:15:04Z",
       "first_seen_at": "2026-10-18T12:01:10.358224Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.78,
       "ai_label": "ai_model",
@@ -2127,7 +2501,7 @@
       "url": "https://www.theregister.com/offbeat/2026/10/18/oh-no-what-happened-to-my-oohpod-windows-command-prompt-puts-in-a-surprise-appearance/5303109",
       "published_at": "2026-10-18T08:09:00Z",
       "first_seen_at": "2026-10-18T12:01:10.358224Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.59,
       "ai_label": "software_saas",
@@ -2170,7 +2544,7 @@
       "url": "https://api-docs.deepseek.com/guides/search",
       "published_at": "2026-10-18T06:50:36Z",
       "first_seen_at": "2026-10-18T07:23:48.144406Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.81,
       "ai_label": "ai_model",
@@ -2217,7 +2591,7 @@
       "url": "https://www.marktechpost.com/2026/10/17/how-to-make-zero-training-tabular-predictions-with-nvidia-structured-data-models",
       "published_at": "2026-10-18T05:56:05Z",
       "first_seen_at": "2026-10-18T07:23:48.144406Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.81,
       "ai_label": "ai_model",
@@ -2326,7 +2700,7 @@
       "url": "https://sphinx-six-theta.vercel.app",
       "published_at": "2026-10-18T04:33:49Z",
       "first_seen_at": "2026-10-18T07:23:48.144406Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.56,
       "ai_label": "software_saas",
@@ -2358,7 +2732,7 @@
       "url": "https://www.marktechpost.com/2026/10/17/voxel51-3-0-physical-ai-data-platform",
       "published_at": "2026-10-18T04:06:33Z",
       "first_seen_at": "2026-10-18T07:23:48.144406Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.59,
       "ai_label": "tech_general",
@@ -2401,7 +2775,7 @@
       "url": "https://x.com/petergyang/status/2111663267995361287",
       "published_at": "2026-10-18T03:38:50Z",
       "first_seen_at": "2026-10-18T07:23:48.144406Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.63,
       "ai_label": "tech_general",
@@ -2433,7 +2807,7 @@
       "url": "https://x.com/rauchg/status/2111643672274165938",
       "published_at": "2026-10-18T02:20:58Z",
       "first_seen_at": "2026-10-18T07:23:48.144406Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.63,
       "ai_label": "tech_general",
@@ -2701,7 +3075,7 @@
       "url": "https://x.com/thenanyu/status/2111597172840083574",
       "published_at": "2026-10-17T23:16:12Z",
       "first_seen_at": "2026-10-18T07:23:48.144406Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.63,
       "ai_label": "tech_general",
@@ -2765,7 +3139,7 @@
       "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns",
       "published_at": "2026-10-17T21:31:32Z",
       "first_seen_at": "2026-10-17T22:35:51.450530Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.62,
       "ai_label": "dev_tool",
@@ -2869,7 +3243,7 @@
       "url": "https://x.com/nikunj/status/2111558586421920134",
       "published_at": "2026-10-17T20:42:52Z",
       "first_seen_at": "2026-10-18T07:23:48.144406Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.63,
       "ai_label": "dev_tool",
@@ -2901,7 +3275,7 @@
       "url": "https://www.marktechpost.com/2026/10/17/meet-kyutai-reki-the-2-4b-vla-model-bringing-efficient-memory-to-robot-manipulation",
       "published_at": "2026-10-17T20:22:11Z",
       "first_seen_at": "2026-10-17T22:35:51.450530Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.59,
       "ai_label": "ai_model",
@@ -2944,7 +3318,7 @@
       "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings",
       "published_at": "2026-10-17T20:21:19Z",
       "first_seen_at": "2026-10-17T22:35:51.450530Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.81,
       "ai_label": "ai_product",
@@ -3027,387 +3401,6 @@
       "title_bilingual": "Chrome 和 Edge 将移除 XSLT：哪些功能会受影响，哪些不会 / Chrome and Edge are removing XSLT: what breaks and what does not"
     },
     {
-      "id": "47136f0ae0a03b3f61f7341c1e7dc35b2d834d4f",
-      "site_id": "curated_media",
-      "site_name": "Curated Media",
-      "source": "TechCrunch AI",
-      "title": "Replit is no longer working with Anthropic, CEO says",
-      "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says",
-      "published_at": "2026-10-17T18:48:08Z",
-      "first_seen_at": "2026-10-17T19:11:29.184301Z",
-      "last_seen_at": "2026-10-17T19:11:29.184301Z",
-      "ai_is_related": true,
-      "ai_score": 0.81,
-      "ai_label": "ai_product",
-      "ai_relevance_reason": "matched_strong_tech_signal",
-      "ai_signals": [
-        "ai",
-        "anthropic"
-      ],
-      "ai_noise": [],
-      "tech_is_related": true,
-      "tech_score": 0.81,
-      "tech_label": "ai_product",
-      "source_tier": "ai_media",
-      "source_tier_label": "精选AI媒体",
-      "source_tier_rank": 2,
-      "direction": "ai_models_apps",
-      "direction_hits": [
-        {
-          "direction_id": "ai_models_apps",
-          "score": 0.75,
-          "matched_keywords": [
-            "anthropic",
-            "anthropic"
-          ],
-          "companies": [
-            "anthropic"
-          ]
-        }
-      ],
-      "companies": [
-        "anthropic"
-      ],
-      "title_original": "Replit is no longer working with Anthropic, CEO says",
-      "title_en": "Replit is no longer working with Anthropic, CEO says",
-      "title_zh": "Replit 首席执行官表示不再与 Anthropic 合作",
-      "title_bilingual": "Replit 首席执行官表示不再与 Anthropic 合作 / Replit is no longer working with Anthropic, CEO says"
-    },
-    {
-      "id": "6bdde82551cc226e49deefc203dc843250bda1a2",
-      "site_id": "curated_media",
-      "site_name": "Curated Media",
-      "source": "TechCrunch AI",
-      "title": "Replit makes OpenAI its default over Anthropic, CEO says",
-      "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says",
-      "published_at": "2026-10-17T18:48:08Z",
-      "first_seen_at": "2026-10-17T22:35:51.450530Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
-      "ai_is_related": true,
-      "ai_score": 0.86,
-      "ai_label": "ai_product",
-      "ai_relevance_reason": "matched_strong_tech_signal",
-      "ai_signals": [
-        "ai",
-        "anthropic",
-        "openai"
-      ],
-      "ai_noise": [],
-      "tech_is_related": true,
-      "tech_score": 0.86,
-      "tech_label": "ai_product",
-      "source_tier": "ai_media",
-      "source_tier_label": "精选AI媒体",
-      "source_tier_rank": 2,
-      "direction": "ai_models_apps",
-      "direction_hits": [
-        {
-          "direction_id": "ai_models_apps",
-          "score": 2.77,
-          "matched_keywords": [
-            "openai",
-            "anthropic",
-            "anthropic",
-            "openai"
-          ],
-          "companies": [
-            "anthropic",
-            "openai"
-          ]
-        }
-      ],
-      "companies": [
-        "anthropic",
-        "openai"
-      ],
-      "title_original": "Replit makes OpenAI its default over Anthropic, CEO says",
-      "title_en": "Replit makes OpenAI its default over Anthropic, CEO says",
-      "title_zh": "Replit 首席执行官表示，将 OpenAI 设为默认值，而不是 Anthropic",
-      "title_bilingual": "Replit 首席执行官表示，将 OpenAI 设为默认值，而不是 Anthropic / Replit makes OpenAI its default over Anthropic, CEO says"
-    },
-    {
-      "id": "9164796beddb6b239fd94e21329d63fb1fcbde8b",
-      "site_id": "curated_media",
-      "site_name": "Curated Media",
-      "source": "Hacker News front page",
-      "title": "Microsoft and CMU team up to train early career software engineers",
-      "url": "https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise",
-      "published_at": "2026-10-17T18:45:07Z",
-      "first_seen_at": "2026-10-17T22:35:51.450530Z",
-      "last_seen_at": "2026-10-18T00:14:50.692022Z",
-      "ai_is_related": true,
-      "ai_score": 0.56,
-      "ai_label": "software_saas",
-      "ai_relevance_reason": "matched_tech_signal",
-      "ai_signals": [
-        "ai"
-      ],
-      "ai_noise": [],
-      "tech_is_related": true,
-      "tech_score": 0.56,
-      "tech_label": "software_saas",
-      "source_tier": "ai_media",
-      "source_tier_label": "精选AI媒体",
-      "source_tier_rank": 2,
-      "direction": "",
-      "direction_hits": [],
-      "companies": [],
-      "title_original": "Microsoft and CMU team up to train early career software engineers",
-      "title_en": "Microsoft and CMU team up to train early career software engineers",
-      "title_zh": "微软和卡耐基梅隆大学联手培训早期职业软件工程师",
-      "title_bilingual": "微软和卡耐基梅隆大学联手培训早期职业软件工程师 / Microsoft and CMU team up to train early career software engineers"
-    },
-    {
-      "id": "8868621fcb5bfc7692f615cd404fa1480cf4defc",
-      "site_id": "curated_media",
-      "site_name": "Curated Media",
-      "source": "Engadget",
-      "title": "Android Auto can be used outside of your car: Here's how",
-      "url": "https://www.engadget.com/2284102/how-android-auto-used-outside-of-car",
-      "published_at": "2026-10-17T18:45:00Z",
-      "first_seen_at": "2026-10-17T19:11:29.184301Z",
-      "last_seen_at": "2026-10-18T00:14:50.692022Z",
-      "ai_is_related": true,
-      "ai_score": 0.56,
-      "ai_label": "software_saas",
-      "ai_relevance_reason": "matched_tech_signal",
-      "ai_signals": [
-        "android"
-      ],
-      "ai_noise": [],
-      "tech_is_related": true,
-      "tech_score": 0.56,
-      "tech_label": "software_saas",
-      "source_tier": "ai_media",
-      "source_tier_label": "精选AI媒体",
-      "source_tier_rank": 2,
-      "direction": "ai_terminal",
-      "direction_hits": [
-        {
-          "direction_id": "ai_terminal",
-          "score": 1.56,
-          "matched_keywords": [
-            "ar",
-            "android"
-          ],
-          "companies": []
-        }
-      ],
-      "companies": [],
-      "title_original": "Android Auto can be used outside of your car: Here's how",
-      "title_en": "Android Auto can be used outside of your car: Here's how",
-      "title_zh": "Android Auto 可以在车外使用：操作方法如下",
-      "title_bilingual": "Android Auto 可以在车外使用：操作方法如下 / Android Auto can be used outside of your car: Here's how"
-    },
-    {
-      "id": "0db1404d2cf8973e5c1855f4f86425a476f4d663",
-      "site_id": "followbuilders",
-      "site_name": "Follow Builders",
-      "source": "Follow Builders · X · Aaron Levie",
-      "title": "The biggest misread of anyone predicting the end of software engineering was imagining that the world only needed a certain amount of software, and bringing automation to the field would reduce the need for labor. Exa...",
-      "url": "https://x.com/levie/status/2111525362446520466",
-      "published_at": "2026-10-17T18:30:51Z",
-      "first_seen_at": "2026-10-18T07:23:48.144406Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
-      "ai_is_related": true,
-      "ai_score": 0.63,
-      "ai_label": "software_saas",
-      "ai_relevance_reason": "matched_tech_signal",
-      "ai_signals": [
-        "ai"
-      ],
-      "ai_noise": [],
-      "tech_is_related": true,
-      "tech_score": 0.63,
-      "tech_label": "software_saas",
-      "source_tier": "builders",
-      "source_tier_label": "Builders/X源",
-      "source_tier_rank": 2,
-      "direction": "",
-      "direction_hits": [],
-      "companies": [],
-      "title_original": "The biggest misread of anyone predicting the end of software engineering was imagining that the world only needed a certain amount of software, and bringing automation to the field would reduce the need for labor. Exa...",
-      "title_en": "The biggest misread of anyone predicting the end of software engineering was imagining that the world only needed a certain amount of software, and bringing automation to the field would reduce the need for labor. Exa...",
-      "title_zh": null,
-      "title_bilingual": "The biggest misread of anyone predicting the end of software engineering was imagining that the world only needed a certain amount of software, and bringing automation to the field would reduce the need for labor. Exa..."
-    },
-    {
-      "id": "e34a6f3eda564b3b066ee38d790b441775b8a7df",
-      "site_id": "curated_media",
-      "site_name": "Curated Media",
-      "source": "Engadget",
-      "title": "What's actually eating all the storage space on your Android Phone?",
-      "url": "https://www.engadget.com/2283986/whats-actually-eating-all-the-storage-space-on-your-android-phone",
-      "published_at": "2026-10-17T18:30:00Z",
-      "first_seen_at": "2026-10-17T19:11:29.184301Z",
-      "last_seen_at": "2026-10-17T22:59:57.377829Z",
-      "ai_is_related": true,
-      "ai_score": 0.56,
-      "ai_label": "software_saas",
-      "ai_relevance_reason": "matched_tech_signal",
-      "ai_signals": [
-        "android"
-      ],
-      "ai_noise": [],
-      "tech_is_related": true,
-      "tech_score": 0.56,
-      "tech_label": "software_saas",
-      "source_tier": "ai_media",
-      "source_tier_label": "精选AI媒体",
-      "source_tier_rank": 2,
-      "direction": "",
-      "direction_hits": [],
-      "companies": [],
-      "title_original": "What's actually eating all the storage space on your Android Phone?",
-      "title_en": "What's actually eating all the storage space on your Android Phone?",
-      "title_zh": "究竟是什么占用了 Android 手机上的所有存储空间？",
-      "title_bilingual": "究竟是什么占用了 Android 手机上的所有存储空间？ / What's actually eating all the storage space on your Android Phone?"
-    },
-    {
-      "id": "f4eedef72d58c1d3b280c10ffad2c9aa7fa633e0",
-      "site_id": "curated_media",
-      "site_name": "Curated Media",
-      "source": "Engadget",
-      "title": "iPhone Duo shipping estimates have already been pushed back to 2027",
-      "url": "https://www.engadget.com/2289629/iphone-duo-shipping-estimates-have-already-been-pushed-back-to-2027",
-      "published_at": "2026-10-17T18:12:35Z",
-      "first_seen_at": "2026-10-17T18:45:54.115746Z",
-      "last_seen_at": "2026-10-17T22:59:57.377829Z",
-      "ai_is_related": true,
-      "ai_score": 0.78,
-      "ai_label": "consumer_hw",
-      "ai_relevance_reason": "matched_strong_tech_signal",
-      "ai_signals": [
-        "iphone"
-      ],
-      "ai_noise": [],
-      "tech_is_related": true,
-      "tech_score": 0.78,
-      "tech_label": "consumer_hw",
-      "source_tier": "ai_media",
-      "source_tier_label": "精选AI媒体",
-      "source_tier_rank": 2,
-      "direction": "ai_terminal",
-      "direction_hits": [
-        {
-          "direction_id": "ai_terminal",
-          "score": 0.75,
-          "matched_keywords": [
-            "iphone",
-            "iphone"
-          ],
-          "companies": [
-            "iphone"
-          ]
-        }
-      ],
-      "companies": [
-        "iphone"
-      ],
-      "title_original": "iPhone Duo shipping estimates have already been pushed back to 2027",
-      "title_en": "iPhone Duo shipping estimates have already been pushed back to 2027",
-      "title_zh": "iPhone Duo 的出货量预计已推迟至 2027 年",
-      "title_bilingual": "iPhone Duo 的出货量预计已推迟至 2027 年 / iPhone Duo shipping estimates have already been pushed back to 2027"
-    },
-    {
-      "id": "ab9f4d56554fc938da7b758dd3b5b6eaf42fb2ce",
-      "site_id": "curated_media",
-      "site_name": "Curated Media",
-      "source": "Hacker News front page",
-      "title": "Codex Desktop continuously generates Crashpad pending dumps",
-      "url": "https://github.com/openai/codex/issues/25921",
-      "published_at": "2026-10-17T17:45:08Z",
-      "first_seen_at": "2026-10-17T22:59:57.377829Z",
-      "last_seen_at": "2026-10-18T12:45:54.488349Z",
-      "ai_is_related": true,
-      "ai_score": 0.56,
-      "ai_label": "dev_tool",
-      "ai_relevance_reason": "matched_tech_signal",
-      "ai_signals": [
-        "codex"
-      ],
-      "ai_noise": [],
-      "tech_is_related": true,
-      "tech_score": 0.56,
-      "tech_label": "dev_tool",
-      "source_tier": "ai_media",
-      "source_tier_label": "精选AI媒体",
-      "source_tier_rank": 2,
-      "direction": "ai_models_apps",
-      "direction_hits": [
-        {
-          "direction_id": "ai_models_apps",
-          "score": 2.66,
-          "matched_keywords": [
-            "code",
-            "openai",
-            "codex",
-            "github",
-            "openai"
-          ],
-          "companies": [
-            "openai"
-          ]
-        }
-      ],
-      "companies": [
-        "openai"
-      ],
-      "title_original": "Codex Desktop continuously generates Crashpad pending dumps",
-      "title_en": "Codex Desktop continuously generates Crashpad pending dumps",
-      "title_zh": "Codex Desktop 会持续生成 Crashpad 的待处理转储文件",
-      "title_bilingual": "Codex Desktop 会持续生成 Crashpad 的待处理转储文件 / Codex Desktop continuously generates Crashpad pending dumps"
-    },
-    {
-      "id": "efd48097aac3f4aa88303ccf4073ddb21c427ad2",
-      "site_id": "curated_media",
-      "site_name": "Curated Media",
-      "source": "Hacker News front page",
-      "title": "Codex is EATING my Mac's disk space",
-      "url": "https://github.com/openai/codex/issues/25921",
-      "published_at": "2026-10-17T17:45:08Z",
-      "first_seen_at": "2026-10-17T22:35:51.450530Z",
-      "last_seen_at": "2026-10-17T22:35:51.450530Z",
-      "ai_is_related": true,
-      "ai_score": 0.56,
-      "ai_label": "dev_tool",
-      "ai_relevance_reason": "matched_tech_signal",
-      "ai_signals": [
-        "codex"
-      ],
-      "ai_noise": [],
-      "tech_is_related": true,
-      "tech_score": 0.56,
-      "tech_label": "dev_tool",
-      "source_tier": "ai_media",
-      "source_tier_label": "精选AI媒体",
-      "source_tier_rank": 2,
-      "direction": "ai_models_apps",
-      "direction_hits": [
-        {
-          "direction_id": "ai_models_apps",
-          "score": 2.66,
-          "matched_keywords": [
-            "code",
-            "openai",
-            "codex",
-            "github",
-            "openai"
-          ],
-          "companies": [
-            "openai"
-          ]
-        }
-      ],
-      "companies": [
-        "openai"
-      ],
-      "title_original": "Codex is EATING my Mac's disk space",
-      "title_en": "Codex is EATING my Mac's disk space",
-      "title_zh": "Codex Desktop 会持续生成 Crashpad 的待处理转储文件",
-      "title_bilingual": "Codex Desktop 会持续生成 Crashpad 的待处理转储文件 / Codex is EATING my Mac's disk space"
-    },
-    {
       "id": "34ae8e1d9b30d6ec2ee49006a83cf48f1975e260",
       "site_id": "opmlrss",
       "site_name": "OPML RSS",
@@ -3416,7 +3409,7 @@
       "url": "https://www.infoq.cn/article/EuYOPRUBAeBgBGBu5ktk",
       "published_at": "2026-10-18T15:01:33Z",
       "first_seen_at": "2026-10-18T16:26:34.529941Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.59,
       "ai_label": "ai_model",
@@ -3485,7 +3478,7 @@
       "url": "https://www.infoq.cn/article/qZPH971CbfHkaCfgG0cb",
       "published_at": "2026-10-18T02:00:00Z",
       "first_seen_at": "2026-10-18T07:23:48.144406Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.78,
       "ai_label": "ai_model",
@@ -3510,6 +3503,233 @@
       "title_bilingual": "“AI+终端”时代的萌芽：大模型在终端领域的探索和量产落地｜QCon上海"
     },
     {
+      "id": "3f0006d901ee0c377c92f6cd39f74afee8f960dc",
+      "site_id": "techurls",
+      "site_name": "TechURLs",
+      "source": "Techmeme",
+      "title": "Sources: Nvidia asked Samsung, SK Hynix, and Micron to make base dies for its custom NVHBM memory on TSMC's 3nm process; Samsung agreed, its first use of TSMC (Kyu-Seok Shim/Reuters)",
+      "url": "https://www.techmeme.com/261018/p9",
+      "published_at": "2026-10-18T18:10:01Z",
+      "first_seen_at": "2026-10-18T19:22:16.592922Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
+      "ai_is_related": true,
+      "ai_score": 0.81,
+      "ai_label": "chip_semi",
+      "ai_relevance_reason": "matched_strong_tech_signal",
+      "ai_signals": [
+        "hbm",
+        "nvidia",
+        "samsung",
+        "tsmc"
+      ],
+      "ai_noise": [],
+      "tech_is_related": true,
+      "tech_score": 0.81,
+      "tech_label": "chip_semi",
+      "source_tier": "discussion",
+      "source_tier_label": "热议参考",
+      "source_tier_rank": 5,
+      "direction": "compute_dc",
+      "direction_hits": [
+        {
+          "direction_id": "compute_dc",
+          "score": 2.31,
+          "matched_keywords": [
+            "hbm",
+            "nvidia",
+            "nvidia"
+          ],
+          "companies": [
+            "nvidia"
+          ]
+        },
+        {
+          "direction_id": "semiconductor",
+          "score": 1.71,
+          "matched_keywords": [
+            "die",
+            "co",
+            "nvidia",
+            "tsmc"
+          ],
+          "companies": [
+            "nvidia",
+            "tsmc"
+          ]
+        },
+        {
+          "direction_id": "autonomous_hardware",
+          "score": 0.75,
+          "matched_keywords": [
+            "nvidia"
+          ],
+          "companies": [
+            "nvidia"
+          ]
+        },
+        {
+          "direction_id": "ai_terminal",
+          "score": 0.75,
+          "matched_keywords": [
+            "samsung",
+            "samsung"
+          ],
+          "companies": [
+            "samsung"
+          ]
+        }
+      ],
+      "companies": [
+        "samsung",
+        "nvidia",
+        "tsmc"
+      ],
+      "title_original": "Sources: Nvidia asked Samsung, SK Hynix, and Micron to make base dies for its custom NVHBM memory on TSMC's 3nm process; Samsung agreed, its first use of TSMC (Kyu-Seok Shim/Reuters)",
+      "title_en": "Sources: Nvidia asked Samsung, SK Hynix, and Micron to make base dies for its custom NVHBM memory on TSMC's 3nm process; Samsung agreed, its first use of TSMC (Kyu-Seok Shim/Reuters)",
+      "title_zh": null,
+      "title_bilingual": "Sources: Nvidia asked Samsung, SK Hynix, and Micron to make base dies for its custom NVHBM memory on TSMC's 3nm process; Samsung agreed, its first use of TSMC (Kyu-Seok Shim/Reuters)"
+    },
+    {
+      "id": "b8dc89d87d6f0508938e279165c823c49dc97695",
+      "site_id": "iris",
+      "site_name": "Info Flow",
+      "source": "V2EX (创意工作者社区)",
+      "title": "[分享创造] 分享一个开源项目 Agent8：让只有 Java 8 的 AIX / HP-UX / Solaris 继续当新版 Jenkins 的 agent",
+      "url": "https://www.v2ex.com/t/1249844",
+      "published_at": "2026-10-18T17:48:47Z",
+      "first_seen_at": "2026-10-18T19:22:16.592922Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
+      "ai_is_related": true,
+      "ai_score": 0.68,
+      "ai_label": "ai_model",
+      "ai_relevance_reason": "matched_strong_tech_signal",
+      "ai_signals": [
+        "ai",
+        "开源"
+      ],
+      "ai_noise": [],
+      "tech_is_related": true,
+      "tech_score": 0.68,
+      "tech_label": "ai_model",
+      "source_tier": "discussion",
+      "source_tier_label": "热议参考",
+      "source_tier_rank": 5,
+      "direction": "ai_terminal",
+      "direction_hits": [
+        {
+          "direction_id": "ai_terminal",
+          "score": 1.44,
+          "matched_keywords": [
+            "ar",
+            "agent"
+          ],
+          "companies": []
+        }
+      ],
+      "companies": [],
+      "title_original": "[分享创造] 分享一个开源项目 Agent8：让只有 Java 8 的 AIX / HP-UX / Solaris 继续当新版 Jenkins 的 agent",
+      "title_en": null,
+      "title_zh": "[分享创造] 分享一个开源项目 Agent8：让只有 Java 8 的 AIX / HP-UX / Solaris 继续当新版 Jenkins 的 agent",
+      "title_bilingual": "[分享创造] 分享一个开源项目 Agent8：让只有 Java 8 的 AIX / HP-UX / Solaris 继续当新版 Jenkins 的 agent"
+    },
+    {
+      "id": "c1ea11c37d2ba26a11362fa4603111587f8c75fd",
+      "site_id": "iris",
+      "site_name": "Info Flow",
+      "source": "V2EX (创意工作者社区)",
+      "title": "[OpenAI] codex 邀请新用户各得 1000 额度，还有需要的吗，留下邮箱",
+      "url": "https://www.v2ex.com/t/1249843",
+      "published_at": "2026-10-18T17:39:12Z",
+      "first_seen_at": "2026-10-18T19:22:16.592922Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
+      "ai_is_related": true,
+      "ai_score": 0.71,
+      "ai_label": "dev_tool",
+      "ai_relevance_reason": "matched_strong_tech_signal",
+      "ai_signals": [
+        "ai",
+        "codex",
+        "openai"
+      ],
+      "ai_noise": [],
+      "tech_is_related": true,
+      "tech_score": 0.71,
+      "tech_label": "dev_tool",
+      "source_tier": "discussion",
+      "source_tier_label": "热议参考",
+      "source_tier_rank": 5,
+      "direction": "ai_models_apps",
+      "direction_hits": [
+        {
+          "direction_id": "ai_models_apps",
+          "score": 3.19,
+          "matched_keywords": [
+            "code",
+            "openai",
+            "codex",
+            "openai"
+          ],
+          "companies": [
+            "openai"
+          ]
+        }
+      ],
+      "companies": [
+        "openai"
+      ],
+      "title_original": "[OpenAI] codex 邀请新用户各得 1000 额度，还有需要的吗，留下邮箱",
+      "title_en": null,
+      "title_zh": "[OpenAI] codex 邀请新用户各得 1000 额度，还有需要的吗，留下邮箱",
+      "title_bilingual": "[OpenAI] codex 邀请新用户各得 1000 额度，还有需要的吗，留下邮箱"
+    },
+    {
+      "id": "6e07069da33fb0c0a74aea52adb081f5e8f31ecd",
+      "site_id": "techurls",
+      "site_name": "TechURLs",
+      "source": "Slashdot",
+      "title": "More Details on Arrested Saudi OpenAI Employee, Who is Seeking Release on Bail",
+      "url": "https://yro.slashdot.org/story/26/10/18/0318232/more-details-on-arrested-saudi-openai-employee-who-is-seeking-release-on-bail",
+      "published_at": "2026-10-18T17:34:00Z",
+      "first_seen_at": "2026-10-18T19:22:16.592922Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
+      "ai_is_related": true,
+      "ai_score": 0.73,
+      "ai_label": "ai_model",
+      "ai_relevance_reason": "matched_strong_tech_signal",
+      "ai_signals": [
+        "ai",
+        "openai"
+      ],
+      "ai_noise": [],
+      "tech_is_related": true,
+      "tech_score": 0.73,
+      "tech_label": "ai_model",
+      "source_tier": "discussion",
+      "source_tier_label": "热议参考",
+      "source_tier_rank": 5,
+      "direction": "ai_models_apps",
+      "direction_hits": [
+        {
+          "direction_id": "ai_models_apps",
+          "score": 0.75,
+          "matched_keywords": [
+            "openai",
+            "openai"
+          ],
+          "companies": [
+            "openai"
+          ]
+        }
+      ],
+      "companies": [
+        "openai"
+      ],
+      "title_original": "More Details on Arrested Saudi OpenAI Employee, Who is Seeking Release on Bail",
+      "title_en": "More Details on Arrested Saudi OpenAI Employee, Who is Seeking Release on Bail",
+      "title_zh": "有关被捕的沙特 OpenAI 员工的更多详细信息，该员工正在寻求保释",
+      "title_bilingual": "有关被捕的沙特 OpenAI 员工的更多详细信息，该员工正在寻求保释 / More Details on Arrested Saudi OpenAI Employee, Who is Seeking Release on Bail"
+    },
+    {
       "id": "fdcecf78e8657fe5baa6b130baa87b5255d63f7d",
       "site_id": "newsnow",
       "site_name": "NewsNow",
@@ -3518,7 +3738,7 @@
       "url": "https://juejin.cn/post/7696759034847068175",
       "published_at": "2026-10-18T17:31:14.795000Z",
       "first_seen_at": "2026-10-18T17:30:24.478584Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "ai_model",
@@ -3550,7 +3770,7 @@
       "url": "https://h9p3r.fr",
       "published_at": "2026-10-18T16:44:19Z",
       "first_seen_at": "2026-10-18T17:30:24.478584Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.78,
       "ai_label": "ai_model",
@@ -3594,7 +3814,7 @@
       "url": "https://www.v2ex.com/t/1249837",
       "published_at": "2026-10-18T16:43:45Z",
       "first_seen_at": "2026-10-18T17:30:24.478584Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.68,
       "ai_label": "chip_semi",
@@ -3662,7 +3882,7 @@
       "url": "https://www.v2ex.com/t/1249832",
       "published_at": "2026-10-18T16:23:07Z",
       "first_seen_at": "2026-10-18T16:26:34.529941Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "ai_model",
@@ -3694,7 +3914,7 @@
       "url": "https://news.ycombinator.com/item?id=50142449",
       "published_at": "2026-10-18T16:20:27Z",
       "first_seen_at": "2026-10-18T17:30:24.478584Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.68,
       "ai_label": "chip_semi",
@@ -3751,7 +3971,7 @@
       "url": "https://juejin.cn/post/7696822189491912742",
       "published_at": "2026-10-18T16:00:45.123000Z",
       "first_seen_at": "2026-10-18T16:26:34.529941Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "ai_model",
@@ -3797,7 +4017,7 @@
       "url": "https://www.androidpolice.com/pixelify-your-android-phone",
       "published_at": "2026-10-18T16:00:13Z",
       "first_seen_at": "2026-10-18T16:26:34.529941Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.73,
       "ai_label": "software_saas",
@@ -3840,7 +4060,7 @@
       "url": "https://www.techmeme.com/261018/p8",
       "published_at": "2026-10-18T15:30:01Z",
       "first_seen_at": "2026-10-18T16:26:34.529941Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.7,
       "ai_label": "software_saas",
@@ -3891,7 +4111,7 @@
       "url": "https://www.v2ex.com/t/1249830",
       "published_at": "2026-10-18T15:28:06Z",
       "first_seen_at": "2026-10-18T16:26:34.529941Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "ai_model",
@@ -3923,7 +4143,7 @@
       "url": "https://www.macrumors.com/2026/10/18/iphone-duo-battery-capacity",
       "published_at": "2026-10-18T15:07:06Z",
       "first_seen_at": "2026-10-18T16:26:34.529941Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.7,
       "ai_label": "software_saas",
@@ -4015,7 +4235,7 @@
       "url": "https://www.v2ex.com/t/1249822",
       "published_at": "2026-10-18T14:34:05Z",
       "first_seen_at": "2026-10-18T16:26:34.529941Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "tech_general",
@@ -4047,7 +4267,7 @@
       "url": "https://www.macrumors.com/2026/10/18/gurman-says-iphone-duo-preorders-major-mistake",
       "published_at": "2026-10-18T14:33:47Z",
       "first_seen_at": "2026-10-18T16:26:34.529941Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.7,
       "ai_label": "software_saas",
@@ -4145,7 +4365,7 @@
       "url": "https://www.techradar.com/phones/iphone/nothing-short-of-extraordinary-high-iphone-duo-demand-means-you-probably-wont-be-able-to-pick-up-apples-foldable-by-walking-into-a-store-on-october-23",
       "published_at": "2026-10-18T14:30:00Z",
       "first_seen_at": "2026-10-18T16:26:34.529941Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.7,
       "ai_label": "software_saas",
@@ -4195,7 +4415,7 @@
       "url": "https://www.v2ex.com/t/1249819",
       "published_at": "2026-10-18T14:24:00Z",
       "first_seen_at": "2026-10-18T16:26:34.529941Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "robotics",
@@ -4306,7 +4526,7 @@
       "url": "https://www.androidpolice.com/i-am-ditching-pixel-watch-4-for-fitbit-air-heres-why",
       "published_at": "2026-10-18T13:30:13Z",
       "first_seen_at": "2026-10-18T16:26:34.529941Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.76,
       "ai_label": "software_saas",
@@ -4351,7 +4571,7 @@
       "url": "https://www.androidpolice.com/fitbit-edge-middle-ground-between-air-and-pixel-watch-5-misses-point-of-both",
       "published_at": "2026-10-18T12:45:13Z",
       "first_seen_at": "2026-10-18T16:26:34.529941Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.76,
       "ai_label": "software_saas",
@@ -4439,7 +4659,7 @@
       "url": "https://www.producthunt.com/products/3am-super-intelligence",
       "published_at": "2026-10-18T12:02:13.324000Z",
       "first_seen_at": "2026-10-18T12:01:10.358224Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "chip_semi",
@@ -4527,7 +4747,7 @@
       "url": "https://juejin.cn/post/7697104677602803739",
       "published_at": "2026-10-18T12:02:13.324000Z",
       "first_seen_at": "2026-10-18T12:01:10.358224Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.67,
       "ai_label": "ai_model",
@@ -4571,7 +4791,7 @@
       "url": "https://juejin.cn/post/7672849477074616383",
       "published_at": "2026-10-18T12:02:13.324000Z",
       "first_seen_at": "2026-10-18T12:01:10.358224Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.7,
       "ai_label": "ai_model",
@@ -4614,7 +4834,7 @@
       "url": "https://juejin.cn/post/7696736365812940851",
       "published_at": "2026-10-18T12:02:13.324000Z",
       "first_seen_at": "2026-10-18T12:01:10.358224Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.62,
       "ai_label": "ai_model",
@@ -4644,7 +4864,7 @@
       "url": "https://www.producthunt.com/products/tomo-for-chatgpt",
       "published_at": "2026-10-18T12:02:13.324000Z",
       "first_seen_at": "2026-10-18T12:01:10.358224Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "ai_model",
@@ -4676,7 +4896,7 @@
       "url": "https://github.com/mlabonne/llm-course",
       "published_at": "2026-10-18T12:02:13.324000Z",
       "first_seen_at": "2026-10-18T12:01:10.358224Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "ai_model",
@@ -4718,7 +4938,7 @@
       "url": "https://juejin.cn/post/7697056782357037099",
       "published_at": "2026-10-18T12:02:13.324000Z",
       "first_seen_at": "2026-10-18T12:01:10.358224Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.68,
       "ai_label": "ai_model",
@@ -4861,7 +5081,7 @@
       "url": "https://www.androidpolice.com/turned-google-keep-into-my-personal-assistant-with-gemini",
       "published_at": "2026-10-18T11:00:13Z",
       "first_seen_at": "2026-10-18T12:01:10.358224Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.73,
       "ai_label": "ai_model",
@@ -4987,7 +5207,7 @@
       "url": "https://www.androidpolice.com/skip-intel-googlebooks-for-now",
       "published_at": "2026-10-18T10:00:13Z",
       "first_seen_at": "2026-10-18T12:01:10.358224Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.73,
       "ai_label": "chip_semi",
@@ -5162,7 +5382,7 @@
       "url": "https://api-docs.deepseek.com/guides/search",
       "published_at": "2026-10-18T08:37:12.821000Z",
       "first_seen_at": "2026-10-18T12:01:10.358224Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.73,
       "ai_label": "ai_model",
@@ -5363,7 +5583,7 @@
       "url": "https://mashable.com/tech/oct-18-free-apple-iphone-18-deal",
       "published_at": "2026-10-18T07:00:00Z",
       "first_seen_at": "2026-10-18T12:01:10.358224Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.73,
       "ai_label": "software_saas",
@@ -5456,7 +5676,7 @@
       "url": "https://news.ycombinator.com/item?id=50138531",
       "published_at": "2026-10-18T06:50:36Z",
       "first_seen_at": "2026-10-18T07:23:48.144406Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "ai_model",
@@ -5534,7 +5754,7 @@
       "url": "https://www.techmeme.com/261018/p4",
       "published_at": "2026-10-18T06:05:00Z",
       "first_seen_at": "2026-10-18T07:23:48.144406Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.79,
       "ai_label": "chip_semi",
@@ -5614,7 +5834,7 @@
       "url": "https://www.techmeme.com/261018/p2",
       "published_at": "2026-10-18T05:10:01Z",
       "first_seen_at": "2026-10-18T07:23:48.144406Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.75,
       "ai_label": "ai_model",
@@ -5717,7 +5937,7 @@
       "url": "https://yro.slashdot.org/story/26/10/18/0323207/saudi-openai-employees-arrest-revives-fears-us-tech-companies-are-hiring-spies",
       "published_at": "2026-10-18T04:34:00Z",
       "first_seen_at": "2026-10-18T07:23:48.144406Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.73,
       "ai_label": "ai_product",
@@ -5933,7 +6153,7 @@
       "url": "https://www.techmeme.com/261017/p20",
       "published_at": "2026-10-18T01:20:02Z",
       "first_seen_at": "2026-10-18T07:23:48.144406Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.78,
       "ai_label": "ai_model",
@@ -6128,7 +6348,7 @@
       "url": "https://www.androidpolice.com/i-tried-eqsweep-on-my-pixel-buds-and-now-my-music-sounds-dramatically-better",
       "published_at": "2026-10-17T23:00:13Z",
       "first_seen_at": "2026-10-18T00:14:50.692022Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.73,
       "ai_label": "software_saas",
@@ -6171,7 +6391,7 @@
       "url": "https://www.macrumors.com/2026/10/17/staff-warn-against-iphone-duo-walk-ins",
       "published_at": "2026-10-17T21:30:45Z",
       "first_seen_at": "2026-10-17T22:35:51.450530Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.73,
       "ai_label": "software_saas",
@@ -6223,7 +6443,7 @@
       "url": "https://alignment.openai.com/misalignment-reports/retrieving-server-secrets-and-bypassing-authorization-on-a-government-statistics-website",
       "published_at": "2026-10-17T21:09:40Z",
       "first_seen_at": "2026-10-18T07:23:48.144406Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.78,
       "ai_label": "ai_model",
@@ -6270,7 +6490,7 @@
       "url": "https://www.techmeme.com/261017/p18",
       "published_at": "2026-10-17T20:50:01Z",
       "first_seen_at": "2026-10-17T22:35:51.450530Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.7,
       "ai_label": "ai_model",
@@ -6368,7 +6588,7 @@
       "url": "https://newsletter.danielpaleka.com/p/the-math-that-openai-keeps-for-itself",
       "published_at": "2026-10-17T19:22:52Z",
       "first_seen_at": "2026-10-18T07:23:48.144406Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.68,
       "ai_label": "ai_product",
@@ -6407,636 +6627,6 @@
       "title_bilingual": "OpenAI 保留自己的数学知识 / The math that OpenAI keeps for itself"
     },
     {
-      "id": "a3297038fde279329518cbac6dd672063aaa53d2",
-      "site_id": "buzzing",
-      "site_name": "Buzzing",
-      "source": "fortune.com",
-      "title": "OpenAI披露了另外四起违规事件",
-      "url": "https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data",
-      "published_at": "2026-10-17T19:22:11.943000Z",
-      "first_seen_at": "2026-10-17T22:35:51.450530Z",
-      "last_seen_at": "2026-10-18T12:45:54.488349Z",
-      "ai_is_related": true,
-      "ai_score": 0.73,
-      "ai_label": "ai_product",
-      "ai_relevance_reason": "matched_strong_tech_signal",
-      "ai_signals": [
-        "ai",
-        "openai"
-      ],
-      "ai_noise": [],
-      "tech_is_related": true,
-      "tech_score": 0.73,
-      "tech_label": "ai_product",
-      "source_tier": "discussion",
-      "source_tier_label": "热议参考",
-      "source_tier_rank": 5,
-      "direction": "security_governance",
-      "direction_hits": [
-        {
-          "direction_id": "security_governance",
-          "score": 0.78,
-          "matched_keywords": [
-            "ai",
-            "data"
-          ],
-          "companies": []
-        },
-        {
-          "direction_id": "ai_models_apps",
-          "score": 0.75,
-          "matched_keywords": [
-            "openai",
-            "openai"
-          ],
-          "companies": [
-            "openai"
-          ]
-        }
-      ],
-      "companies": [
-        "openai"
-      ],
-      "title_original": "OpenAI披露了另外四起违规事件",
-      "title_en": null,
-      "title_zh": "OpenAI披露了另外四起违规事件",
-      "title_bilingual": "OpenAI披露了另外四起违规事件"
-    },
-    {
-      "id": "569f9d1f91b9f78f601f4a54c5b505c863e4df03",
-      "site_id": "techurls",
-      "site_name": "TechURLs",
-      "source": "TechRadar",
-      "title": "Microsoft's Maia 300 swaps raw compute for a 2.5x memory bandwidth gain as it moves to make in-house silicon its main AI engine while claiming a 40% efficiency bump — could going the Google route be the pin that pops the Nvidia AI bubble?",
-      "url": "https://www.techradar.com/pro/microsofts-maia-300-swaps-raw-compute-for-a-2-5x-memory-bandwidth-gain-as-it-moves-to-make-in-house-silicon-its-main-ai-engine-while-claiming-a-40-percent-efficiency-bump-could-going-the-google-route-be-the-pin-that-pops-the-nvidia-ai-bubble",
-      "published_at": "2026-10-17T19:20:00Z",
-      "first_seen_at": "2026-10-17T22:35:51.450530Z",
-      "last_seen_at": "2026-10-18T07:23:48.144406Z",
-      "ai_is_related": true,
-      "ai_score": 0.76,
-      "ai_label": "chip_semi",
-      "ai_relevance_reason": "matched_strong_tech_signal",
-      "ai_signals": [
-        "ai",
-        "nvidia",
-        "silicon"
-      ],
-      "ai_noise": [],
-      "tech_is_related": true,
-      "tech_score": 0.76,
-      "tech_label": "chip_semi",
-      "source_tier": "discussion",
-      "source_tier_label": "热议参考",
-      "source_tier_rank": 5,
-      "direction": "compute_dc",
-      "direction_hits": [
-        {
-          "direction_id": "compute_dc",
-          "score": 0.75,
-          "matched_keywords": [
-            "nvidia",
-            "nvidia"
-          ],
-          "companies": [
-            "nvidia"
-          ]
-        },
-        {
-          "direction_id": "semiconductor",
-          "score": 0.75,
-          "matched_keywords": [
-            "co",
-            "nvidia"
-          ],
-          "companies": [
-            "nvidia"
-          ]
-        },
-        {
-          "direction_id": "autonomous_hardware",
-          "score": 0.75,
-          "matched_keywords": [
-            "nvidia"
-          ],
-          "companies": [
-            "nvidia"
-          ]
-        },
-        {
-          "direction_id": "ai_models_apps",
-          "score": 0.75,
-          "matched_keywords": [
-            "google"
-          ],
-          "companies": [
-            "google"
-          ]
-        }
-      ],
-      "companies": [
-        "nvidia",
-        "google"
-      ],
-      "title_original": "Microsoft's Maia 300 swaps raw compute for a 2.5x memory bandwidth gain as it moves to make in-house silicon its main AI engine while claiming a 40% efficiency bump — could going the Google route be the pin that pops the Nvidia AI bubble?",
-      "title_en": "Microsoft's Maia 300 swaps raw compute for a 2.5x memory bandwidth gain as it moves to make in-house silicon its main AI engine while claiming a 40% efficiency bump — could going the Google route be the pin that pops the Nvidia AI bubble?",
-      "title_zh": null,
-      "title_bilingual": "Microsoft's Maia 300 swaps raw compute for a 2.5x memory bandwidth gain as it moves to make in-house silicon its main AI engine while claiming a 40% efficiency bump — could going the Google route be the pin that pops the Nvidia AI bubble?"
-    },
-    {
-      "id": "233b0dee6d00e871394ff5c9d2bffa785e95a8cf",
-      "site_id": "techurls",
-      "site_name": "TechURLs",
-      "source": "The Next Web",
-      "title": "Sergey Brin says Gemini now helps build the next Gemini",
-      "url": "https://thenextweb.com/news/sergey-brin-gemini-recursive-self-improvement-safety-report",
-      "published_at": "2026-10-17T19:08:40Z",
-      "first_seen_at": "2026-10-17T22:35:51.450530Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
-      "ai_is_related": true,
-      "ai_score": 0.7,
-      "ai_label": "ai_model",
-      "ai_relevance_reason": "matched_strong_tech_signal",
-      "ai_signals": [
-        "gemini"
-      ],
-      "ai_noise": [],
-      "tech_is_related": true,
-      "tech_score": 0.7,
-      "tech_label": "ai_model",
-      "source_tier": "discussion",
-      "source_tier_label": "热议参考",
-      "source_tier_rank": 5,
-      "direction": "ai_models_apps",
-      "direction_hits": [
-        {
-          "direction_id": "ai_models_apps",
-          "score": 0.75,
-          "matched_keywords": [
-            "gemini",
-            "gemini"
-          ],
-          "companies": [
-            "gemini"
-          ]
-        }
-      ],
-      "companies": [
-        "gemini"
-      ],
-      "title_original": "Sergey Brin says Gemini now helps build the next Gemini",
-      "title_en": "Sergey Brin says Gemini now helps build the next Gemini",
-      "title_zh": "谢尔盖·布林表示，Gemini现在正在帮助打造下一个Gemini",
-      "title_bilingual": "谢尔盖·布林表示，Gemini现在正在帮助打造下一个Gemini / Sergey Brin says Gemini now helps build the next Gemini"
-    },
-    {
-      "id": "171f92e490f6cf0f32d9461e3379f9e18cc4488f",
-      "site_id": "techurls",
-      "site_name": "TechURLs",
-      "source": "Android Police",
-      "title": "Liquid cooling finally made a Qi2 power bank worth it for my Pixel 11 Pro",
-      "url": "https://www.androidpolice.com/ugreeen-magflow-pro-liquid-cooling-pixel-11",
-      "published_at": "2026-10-17T19:00:13Z",
-      "first_seen_at": "2026-10-17T22:35:51.450530Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
-      "ai_is_related": true,
-      "ai_score": 0.73,
-      "ai_label": "software_saas",
-      "ai_relevance_reason": "matched_strong_tech_signal",
-      "ai_signals": [
-        "android",
-        "pixel"
-      ],
-      "ai_noise": [],
-      "tech_is_related": true,
-      "tech_score": 0.73,
-      "tech_label": "software_saas",
-      "source_tier": "discussion",
-      "source_tier_label": "热议参考",
-      "source_tier_rank": 5,
-      "direction": "ai_terminal",
-      "direction_hits": [
-        {
-          "direction_id": "ai_terminal",
-          "score": 1.19,
-          "matched_keywords": [
-            "pixel",
-            "android"
-          ],
-          "companies": []
-        }
-      ],
-      "companies": [],
-      "title_original": "Liquid cooling finally made a Qi2 power bank worth it for my Pixel 11 Pro",
-      "title_en": "Liquid cooling finally made a Qi2 power bank worth it for my Pixel 11 Pro",
-      "title_zh": "液体冷却终于让我的 Pixel 11 Pro 值得购买 Qi2 移动电源",
-      "title_bilingual": "液体冷却终于让我的 Pixel 11 Pro 值得购买 Qi2 移动电源 / Liquid cooling finally made a Qi2 power bank worth it for my Pixel 11 Pro"
-    },
-    {
-      "id": "e1535b0dc52db736dfb209546a7f46eb77cef765",
-      "site_id": "newsnow",
-      "site_name": "NewsNow",
-      "source": "sspai",
-      "title": "带给摄影师更多自由：Austin Mann 评 iPhone 18 Pro 影像体验",
-      "url": "https://sspai.com/post/115426",
-      "published_at": "2026-10-17T18:35:03.646000Z",
-      "first_seen_at": "2026-10-17T18:45:54.115746Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
-      "ai_is_related": true,
-      "ai_score": 0.68,
-      "ai_label": "consumer_hw",
-      "ai_relevance_reason": "matched_strong_tech_signal",
-      "ai_signals": [
-        "ai",
-        "iphone"
-      ],
-      "ai_noise": [],
-      "tech_is_related": true,
-      "tech_score": 0.68,
-      "tech_label": "consumer_hw",
-      "source_tier": "discussion",
-      "source_tier_label": "热议参考",
-      "source_tier_rank": 5,
-      "direction": "ai_terminal",
-      "direction_hits": [
-        {
-          "direction_id": "ai_terminal",
-          "score": 0.75,
-          "matched_keywords": [
-            "iphone",
-            "iphone"
-          ],
-          "companies": [
-            "iphone"
-          ]
-        }
-      ],
-      "companies": [
-        "iphone"
-      ],
-      "title_original": "带给摄影师更多自由：Austin Mann 评 iPhone 18 Pro 影像体验",
-      "title_en": null,
-      "title_zh": "带给摄影师更多自由：Austin Mann 评 iPhone 18 Pro 影像体验",
-      "title_bilingual": "带给摄影师更多自由：Austin Mann 评 iPhone 18 Pro 影像体验"
-    },
-    {
-      "id": "948c145d79facd298f05f16806d04ef6da86e21c",
-      "site_id": "buzzing",
-      "site_name": "Buzzing",
-      "source": "www.opendemocracy.net",
-      "title": "亚马逊利用人工智能监测英国仓库的工会风险",
-      "url": "https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield",
-      "published_at": "2026-10-17T18:34:06.954000Z",
-      "first_seen_at": "2026-10-17T18:45:54.115746Z",
-      "last_seen_at": "2026-10-18T07:23:48.144406Z",
-      "ai_is_related": true,
-      "ai_score": 0.73,
-      "ai_label": "tech_general",
-      "ai_relevance_reason": "matched_strong_tech_signal",
-      "ai_signals": [
-        "亚马逊",
-        "人工智能"
-      ],
-      "ai_noise": [],
-      "tech_is_related": true,
-      "tech_score": 0.73,
-      "tech_label": "tech_general",
-      "source_tier": "discussion",
-      "source_tier_label": "热议参考",
-      "source_tier_rank": 5,
-      "direction": "autonomous_vehicle",
-      "direction_hits": [
-        {
-          "direction_id": "autonomous_vehicle",
-          "score": 0.75,
-          "matched_keywords": [
-            "nio",
-            "nio"
-          ],
-          "companies": [
-            "nio"
-          ]
-        }
-      ],
-      "companies": [
-        "nio"
-      ],
-      "title_original": "亚马逊利用人工智能监测英国仓库的工会风险",
-      "title_en": null,
-      "title_zh": "亚马逊利用人工智能监测英国仓库的工会风险",
-      "title_bilingual": "亚马逊利用人工智能监测英国仓库的工会风险"
-    },
-    {
-      "id": "2c6685b39a4d7d1a442786e8d5691926352516bf",
-      "site_id": "techurls",
-      "site_name": "TechURLs",
-      "source": "The Next Web",
-      "title": "Robots and AI could reach 80% of work but rarely cheaply, Anthropic says",
-      "url": "https://thenextweb.com/news/robots-and-ai-could-reach-80-of-work-but-rarely-cheaply-anthropic-says",
-      "published_at": "2026-10-17T18:16:16Z",
-      "first_seen_at": "2026-10-17T18:45:54.115746Z",
-      "last_seen_at": "2026-10-18T12:01:10.358224Z",
-      "ai_is_related": true,
-      "ai_score": 0.79,
-      "ai_label": "robotics",
-      "ai_relevance_reason": "matched_strong_tech_signal",
-      "ai_signals": [
-        "ai",
-        "anthropic",
-        "robot",
-        "robots"
-      ],
-      "ai_noise": [],
-      "tech_is_related": true,
-      "tech_score": 0.79,
-      "tech_label": "robotics",
-      "source_tier": "discussion",
-      "source_tier_label": "热议参考",
-      "source_tier_rank": 5,
-      "direction": "ai_models_apps",
-      "direction_hits": [
-        {
-          "direction_id": "ai_models_apps",
-          "score": 0.75,
-          "matched_keywords": [
-            "anthropic",
-            "anthropic"
-          ],
-          "companies": [
-            "anthropic"
-          ]
-        }
-      ],
-      "companies": [
-        "anthropic"
-      ],
-      "title_original": "Robots and AI could reach 80% of work but rarely cheaply, Anthropic says",
-      "title_en": "Robots and AI could reach 80% of work but rarely cheaply, Anthropic says",
-      "title_zh": "Anthropic 表示，机器人和人工智能可以完成 80% 的工作，但成本很少",
-      "title_bilingual": "Anthropic 表示，机器人和人工智能可以完成 80% 的工作，但成本很少 / Robots and AI could reach 80% of work but rarely cheaply, Anthropic says"
-    },
-    {
-      "id": "08a5db4d9ebfb56439df96a5ceb15534112cf38b",
-      "site_id": "zeli",
-      "site_name": "Zeli",
-      "source": "Hacker News · 24h最热",
-      "title": "Qwen3.8-27B on the iPhone 18 Neural Engine at 15–70 tok/s (1.5 bpw)",
-      "url": "https://twitter.com/anemll/status/2111517143087067309",
-      "published_at": "2026-10-17T18:10:21Z",
-      "first_seen_at": "2026-10-17T19:11:29.184301Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
-      "ai_is_related": true,
-      "ai_score": 0.65,
-      "ai_label": "consumer_hw",
-      "ai_relevance_reason": "matched_strong_tech_signal",
-      "ai_signals": [
-        "iphone"
-      ],
-      "ai_noise": [],
-      "tech_is_related": true,
-      "tech_score": 0.65,
-      "tech_label": "consumer_hw",
-      "source_tier": "discussion",
-      "source_tier_label": "热议参考",
-      "source_tier_rank": 5,
-      "direction": "ai_terminal",
-      "direction_hits": [
-        {
-          "direction_id": "ai_terminal",
-          "score": 0.75,
-          "matched_keywords": [
-            "iphone",
-            "iphone"
-          ],
-          "companies": [
-            "iphone"
-          ]
-        }
-      ],
-      "companies": [
-        "iphone"
-      ],
-      "title_original": "Qwen3.8-27B on the iPhone 18 Neural Engine at 15–70 tok/s (1.5 bpw)",
-      "title_en": "Qwen3.8-27B on the iPhone 18 Neural Engine at 15–70 tok/s (1.5 bpw)",
-      "title_zh": "iPhone 18 神经引擎上的 Qwen3.8-27B，速度为 15–70 tok/s (1.5 bpw)",
-      "title_bilingual": "iPhone 18 神经引擎上的 Qwen3.8-27B，速度为 15–70 tok/s (1.5 bpw) / Qwen3.8-27B on the iPhone 18 Neural Engine at 15–70 tok/s (1.5 bpw)"
-    },
-    {
-      "id": "ef0141a13fa7f4e1737d852dbd1f867e900ab245",
-      "site_id": "techurls",
-      "site_name": "TechURLs",
-      "source": "The Next Web",
-      "title": "Musk tells Isaacson only AI and robots can fix US debt, Axios reports",
-      "url": "https://thenextweb.com/news/musk-tells-isaacson-only-ai-and-robots-can-fix-us-debt-axios-reports",
-      "published_at": "2026-10-17T18:06:35Z",
-      "first_seen_at": "2026-10-17T18:45:54.115746Z",
-      "last_seen_at": "2026-10-18T12:01:10.358224Z",
-      "ai_is_related": true,
-      "ai_score": 0.57,
-      "ai_label": "robotics",
-      "ai_relevance_reason": "matched_tech_signal",
-      "ai_signals": [
-        "ai",
-        "ios",
-        "robot",
-        "robots"
-      ],
-      "ai_noise": [],
-      "tech_is_related": true,
-      "tech_score": 0.57,
-      "tech_label": "robotics",
-      "source_tier": "discussion",
-      "source_tier_label": "热议参考",
-      "source_tier_rank": 5,
-      "direction": "",
-      "direction_hits": [],
-      "companies": [],
-      "title_original": "Musk tells Isaacson only AI and robots can fix US debt, Axios reports",
-      "title_en": "Musk tells Isaacson only AI and robots can fix US debt, Axios reports",
-      "title_zh": "据 Axios 报道，马斯克告诉艾萨克森，只有人工智能和机器人才能解决美国债务问题",
-      "title_bilingual": "据 Axios 报道，马斯克告诉艾萨克森，只有人工智能和机器人才能解决美国债务问题 / Musk tells Isaacson only AI and robots can fix US debt, Axios reports"
-    },
-    {
-      "id": "716e61ffe4b824a847c555acdbb2dfed00364f8a",
-      "site_id": "techurls",
-      "site_name": "TechURLs",
-      "source": "The Next Web",
-      "title": "TSMC posts a sixth straight record profit but turns cautious on 2027",
-      "url": "https://thenextweb.com/news/tsmc-q3-2026-record-profit-prudent-2027",
-      "published_at": "2026-10-17T18:02:28Z",
-      "first_seen_at": "2026-10-17T18:45:54.115746Z",
-      "last_seen_at": "2026-10-18T12:01:10.358224Z",
-      "ai_is_related": true,
-      "ai_score": 0.73,
-      "ai_label": "chip_semi",
-      "ai_relevance_reason": "matched_strong_tech_signal",
-      "ai_signals": [
-        "ai",
-        "tsmc"
-      ],
-      "ai_noise": [],
-      "tech_is_related": true,
-      "tech_score": 0.73,
-      "tech_label": "chip_semi",
-      "source_tier": "discussion",
-      "source_tier_label": "热议参考",
-      "source_tier_rank": 5,
-      "direction": "semiconductor",
-      "direction_hits": [
-        {
-          "direction_id": "semiconductor",
-          "score": 0.75,
-          "matched_keywords": [
-            "co",
-            "tsmc"
-          ],
-          "companies": [
-            "tsmc"
-          ]
-        }
-      ],
-      "companies": [
-        "tsmc"
-      ],
-      "title_original": "TSMC posts a sixth straight record profit but turns cautious on 2027",
-      "title_en": "TSMC posts a sixth straight record profit but turns cautious on 2027",
-      "title_zh": "台积电连续第六年盈利创纪录，但对 2027 年持谨慎态度",
-      "title_bilingual": "台积电连续第六年盈利创纪录，但对 2027 年持谨慎态度 / TSMC posts a sixth straight record profit but turns cautious on 2027"
-    },
-    {
-      "id": "80cde23d90876bb1f927d8a3742125fd4bc8a0ad",
-      "site_id": "techurls",
-      "site_name": "TechURLs",
-      "source": "Slashdot",
-      "title": "Deno Acquired by Cloudflare, Will Work on Open Source Self-Hosting Platform for Applications",
-      "url": "https://developers.slashdot.org/story/26/10/17/0549255/deno-acquired-by-cloudflare-will-work-on-open-source-self-hosting-platform-for-applications",
-      "published_at": "2026-10-17T18:00:00Z",
-      "first_seen_at": "2026-10-17T18:45:54.115746Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
-      "ai_is_related": true,
-      "ai_score": 0.57,
-      "ai_label": "dev_tool",
-      "ai_relevance_reason": "matched_tech_signal",
-      "ai_signals": [
-        "cloud",
-        "developer",
-        "developers",
-        "open source"
-      ],
-      "ai_noise": [],
-      "tech_is_related": true,
-      "tech_score": 0.57,
-      "tech_label": "dev_tool",
-      "source_tier": "discussion",
-      "source_tier_label": "热议参考",
-      "source_tier_rank": 5,
-      "direction": "",
-      "direction_hits": [],
-      "companies": [],
-      "title_original": "Deno Acquired by Cloudflare, Will Work on Open Source Self-Hosting Platform for Applications",
-      "title_en": "Deno Acquired by Cloudflare, Will Work on Open Source Self-Hosting Platform for Applications",
-      "title_zh": "Deno 被 Cloudflare 收购，将致力于开发应用程序的开源自托管平台",
-      "title_bilingual": "Deno 被 Cloudflare 收购，将致力于开发应用程序的开源自托管平台 / Deno Acquired by Cloudflare, Will Work on Open Source Self-Hosting Platform for Applications"
-    },
-    {
-      "id": "5cc4992bb13ed0ca4080ae744932a2277aa6ba78",
-      "site_id": "iris",
-      "site_name": "Info Flow",
-      "source": "V2EX (创意工作者社区)",
-      "title": "[OpenAI] tibo 发推了，还有额度的赶紧用，重置卡先留着",
-      "url": "https://www.v2ex.com/t/1249683",
-      "published_at": "2026-10-17T17:58:59Z",
-      "first_seen_at": "2026-10-17T18:45:54.115746Z",
-      "last_seen_at": "2026-10-18T00:14:50.692022Z",
-      "ai_is_related": true,
-      "ai_score": 0.68,
-      "ai_label": "ai_product",
-      "ai_relevance_reason": "matched_strong_tech_signal",
-      "ai_signals": [
-        "ai",
-        "openai"
-      ],
-      "ai_noise": [],
-      "tech_is_related": true,
-      "tech_score": 0.68,
-      "tech_label": "ai_product",
-      "source_tier": "discussion",
-      "source_tier_label": "热议参考",
-      "source_tier_rank": 5,
-      "direction": "ai_models_apps",
-      "direction_hits": [
-        {
-          "direction_id": "ai_models_apps",
-          "score": 0.75,
-          "matched_keywords": [
-            "openai",
-            "openai"
-          ],
-          "companies": [
-            "openai"
-          ]
-        }
-      ],
-      "companies": [
-        "openai"
-      ],
-      "title_original": "[OpenAI] tibo 发推了，还有额度的赶紧用，重置卡先留着",
-      "title_en": null,
-      "title_zh": "[OpenAI] tibo 发推了，还有额度的赶紧用，重置卡先留着",
-      "title_bilingual": "[OpenAI] tibo 发推了，还有额度的赶紧用，重置卡先留着"
-    },
-    {
-      "id": "353af148033fc472acc10adcb71832e7cede5fdf",
-      "site_id": "techurls",
-      "site_name": "TechURLs",
-      "source": "The Next Web",
-      "title": "FTC subpoenas OpenAI and Anthropic over AI safety incidents",
-      "url": "https://thenextweb.com/news/ftc-subpoenas-openai-anthropic-ai-safety-incidents",
-      "published_at": "2026-10-17T17:51:58Z",
-      "first_seen_at": "2026-10-17T18:45:54.115746Z",
-      "last_seen_at": "2026-10-18T12:01:10.358224Z",
-      "ai_is_related": true,
-      "ai_score": 0.78,
-      "ai_label": "ai_product",
-      "ai_relevance_reason": "matched_strong_tech_signal",
-      "ai_signals": [
-        "ai",
-        "anthropic",
-        "openai"
-      ],
-      "ai_noise": [],
-      "tech_is_related": true,
-      "tech_score": 0.78,
-      "tech_label": "ai_product",
-      "source_tier": "discussion",
-      "source_tier_label": "热议参考",
-      "source_tier_rank": 5,
-      "direction": "ai_models_apps",
-      "direction_hits": [
-        {
-          "direction_id": "ai_models_apps",
-          "score": 2.77,
-          "matched_keywords": [
-            "openai",
-            "anthropic",
-            "anthropic",
-            "openai"
-          ],
-          "companies": [
-            "anthropic",
-            "openai"
-          ]
-        }
-      ],
-      "companies": [
-        "anthropic",
-        "openai"
-      ],
-      "title_original": "FTC subpoenas OpenAI and Anthropic over AI safety incidents",
-      "title_en": "FTC subpoenas OpenAI and Anthropic over AI safety incidents",
-      "title_zh": "FTC 因人工智能安全事件向 OpenAI 和 Anthropic 发出传票",
-      "title_bilingual": "FTC 因人工智能安全事件向 OpenAI 和 Anthropic 发出传票 / FTC subpoenas OpenAI and Anthropic over AI safety incidents"
-    },
-    {
       "id": "c296ccad419c057b398b3ddd2d13e32e32939c16",
       "site_id": "sector_sources",
       "site_name": "Sector Sources",
@@ -7045,7 +6635,7 @@
       "url": "https://www.ithome.com/1/014/613.htm",
       "published_at": "2026-10-18T15:01:01Z",
       "first_seen_at": "2026-10-18T16:26:34.529941Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.63,
       "ai_label": "consumer_hw",
@@ -7096,7 +6686,7 @@
       "url": "https://www.ithome.com/1/014/612.htm",
       "published_at": "2026-10-18T14:51:53Z",
       "first_seen_at": "2026-10-18T16:26:34.529941Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.68,
       "ai_label": "chip_semi",
@@ -7180,7 +6770,7 @@
       "url": "https://www.ithome.com/1/014/599.htm",
       "published_at": "2026-10-18T14:05:49Z",
       "first_seen_at": "2026-10-18T16:26:34.529941Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.6,
       "ai_label": "consumer_hw",
@@ -7229,7 +6819,7 @@
       "url": "https://www.ithome.com/1/014/598.htm",
       "published_at": "2026-10-18T13:49:42Z",
       "first_seen_at": "2026-10-18T16:26:34.529941Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.6,
       "ai_label": "chip_semi",
@@ -7296,7 +6886,7 @@
       "url": "https://www.ithome.com/1/014/595.htm",
       "published_at": "2026-10-18T13:25:18Z",
       "first_seen_at": "2026-10-18T16:26:34.529941Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.63,
       "ai_label": "ai_model",
@@ -7375,7 +6965,7 @@
       "url": "https://www.ithome.com/1/014/587.htm",
       "published_at": "2026-10-18T11:59:52Z",
       "first_seen_at": "2026-10-18T12:01:10.358224Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.63,
       "ai_label": "ai_model",
@@ -7559,7 +7149,7 @@
       "url": "https://www.leiphone.com/category/chips/DnZbjQYkyrBmdOAJ.html",
       "published_at": "2026-10-18T04:47:00Z",
       "first_seen_at": "2026-10-18T07:23:48.144406Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.6,
       "ai_label": "consumer_hw",
@@ -8010,6 +7600,60 @@
   ],
   "items_ai": [
     {
+      "id": "2887eb19ae3474d03e7d10ff36cad10038688e3a",
+      "site_id": "aihot",
+      "site_name": "AI HOT",
+      "source": "X：Arena (@arena)",
+      "title": "DeepSeek-V4.1-Flash-20261017 登顶 Code Arena: WebDev 开源模型榜首",
+      "url": "https://x.com/arena/status/2111894091168682086",
+      "published_at": "2026-10-18T18:56:03Z",
+      "first_seen_at": "2026-10-18T19:22:16.592922Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
+      "aihot_score": 69,
+      "aihot_category": "ai-models",
+      "aihot_selected": true,
+      "summary": "Arena 宣布 DeepSeek-V4.1-Flash-20261017 (Max) 成为 Code Arena: WebDev 榜单第一开源模型，超过 Kimi K3 (Max)，成本低约 10 倍。",
+      "ai_is_related": true,
+      "ai_score": 0.95,
+      "ai_label": "ai_model",
+      "ai_relevance_reason": "trusted_tech_source+strong",
+      "ai_signals": [
+        "ai",
+        "deepseek",
+        "开源",
+        "开源模型"
+      ],
+      "ai_noise": [],
+      "tech_is_related": true,
+      "tech_score": 0.95,
+      "tech_label": "ai_model",
+      "source_tier": "ai_vertical",
+      "source_tier_label": "AI垂直源",
+      "source_tier_rank": 1,
+      "direction": "ai_models_apps",
+      "direction_hits": [
+        {
+          "direction_id": "ai_models_apps",
+          "score": 2.5,
+          "matched_keywords": [
+            "deepseek",
+            "code",
+            "deepseek"
+          ],
+          "companies": [
+            "deepseek"
+          ]
+        }
+      ],
+      "companies": [
+        "deepseek"
+      ],
+      "title_original": "Exciting news: DeepSeek-V4.1-Flash-20261017 (Max) by @deepseek_ai is now the #1 open model in Code Arena: WebDev, surpassing Kimi K3 (Max...",
+      "title_en": "Exciting news: DeepSeek-V4.1-Flash-20261017 (Max) by @deepseek_ai is now the #1 open model in Code Arena: WebDev, surpassing Kimi K3 (Max...",
+      "title_zh": "DeepSeek-V4.1-Flash-20261017 登顶 Code Arena: WebDev 开源模型榜首",
+      "title_bilingual": "DeepSeek-V4.1-Flash-20261017 登顶 Code Arena: WebDev 开源模型榜首 / Exciting news: DeepSeek-V4.1-Flash-20261017 (Max) by @deepseek_ai is now the #1 open model in Code Arena: WebDev, surpassing Kimi K3 (Max..."
+    },
+    {
       "id": "f0d84e4695df7dc1adcddf7e53b2cca1f8df2755",
       "site_id": "aihot",
       "site_name": "AI HOT",
@@ -8018,7 +7662,7 @@
       "url": "https://the-decoder.com/anthropic-has-nearly-stopped-hiring-junior-staff-because-ai-agents-now-work-six-times-as-many-hours",
       "published_at": "2026-10-18T13:22:26Z",
       "first_seen_at": "2026-10-18T16:26:34.529941Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "aihot_score": 78,
       "aihot_category": "industry",
       "aihot_selected": true,
@@ -8084,6 +7728,326 @@
       "title_bilingual": "Anthropic 内部研究显示初级技术岗位占比下降，AI Agent 工时达员工六倍 / Anthropic has nearly stopped hiring junior staff because AI agents now work six times as many hours"
     },
     {
+      "id": "00d388c80f263afc5741ed29f060216c1f94fc56",
+      "site_id": "curated_media",
+      "site_name": "Curated Media",
+      "source": "Engadget",
+      "title": "Here's how the Slate truck gets software updates without built-in infotainment",
+      "url": "https://www.engadget.com/2283988/slate-truck-no-infotainment-over-the-air-sofware-updates",
+      "published_at": "2026-10-18T18:30:00Z",
+      "first_seen_at": "2026-10-18T19:22:16.592922Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
+      "ai_is_related": true,
+      "ai_score": 0.56,
+      "ai_label": "software_saas",
+      "ai_relevance_reason": "matched_tech_signal",
+      "ai_signals": [
+        "ai"
+      ],
+      "ai_noise": [],
+      "tech_is_related": true,
+      "tech_score": 0.56,
+      "tech_label": "software_saas",
+      "source_tier": "ai_media",
+      "source_tier_label": "精选AI媒体",
+      "source_tier_rank": 2,
+      "direction": "autonomous_vehicle",
+      "direction_hits": [
+        {
+          "direction_id": "autonomous_vehicle",
+          "score": 0.94,
+          "matched_keywords": [
+            "ad",
+            "ota"
+          ],
+          "companies": []
+        }
+      ],
+      "companies": [],
+      "title_original": "Here's how the Slate truck gets software updates without built-in infotainment",
+      "title_en": "Here's how the Slate truck gets software updates without built-in infotainment",
+      "title_zh": "以下是 Slate 卡车如何在没有内置信息娱乐系统的情况下获取软件更新的方法",
+      "title_bilingual": "以下是 Slate 卡车如何在没有内置信息娱乐系统的情况下获取软件更新的方法 / Here's how the Slate truck gets software updates without built-in infotainment"
+    },
+    {
+      "id": "30d5a466b43b07355af3b2c7e2f5f1db84a84af0",
+      "site_id": "curated_media",
+      "site_name": "Curated Media",
+      "source": "The Verge (all)",
+      "title": "A woman was arrested in Philly for blocking a delivery robot",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
+      "published_at": "2026-10-18T18:28:10Z",
+      "first_seen_at": "2026-10-18T19:22:16.592922Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
+      "ai_is_related": true,
+      "ai_score": 0.56,
+      "ai_label": "robotics",
+      "ai_relevance_reason": "matched_tech_signal",
+      "ai_signals": [
+        "robot"
+      ],
+      "ai_noise": [],
+      "tech_is_related": true,
+      "tech_score": 0.56,
+      "tech_label": "robotics",
+      "source_tier": "ai_media",
+      "source_tier_label": "精选AI媒体",
+      "source_tier_rank": 2,
+      "direction": "compute_dc",
+      "direction_hits": [
+        {
+          "direction_id": "compute_dc",
+          "score": 0.75,
+          "matched_keywords": [
+            "intel"
+          ],
+          "companies": [
+            "intel"
+          ]
+        },
+        {
+          "direction_id": "semiconductor",
+          "score": 0.75,
+          "matched_keywords": [
+            "co",
+            "intel"
+          ],
+          "companies": [
+            "intel"
+          ]
+        }
+      ],
+      "companies": [
+        "intel"
+      ],
+      "title_original": "A woman was arrested in Philly for blocking a delivery robot",
+      "title_en": "A woman was arrested in Philly for blocking a delivery robot",
+      "title_zh": "一名女子因阻挡送货机器人而在费城被捕",
+      "title_bilingual": "一名女子因阻挡送货机器人而在费城被捕 / A woman was arrested in Philly for blocking a delivery robot"
+    },
+    {
+      "id": "79ff5e4038e1a036e6899d7c9b68400c5dfda45b",
+      "site_id": "curated_media",
+      "site_name": "Curated Media",
+      "source": "MarkTechPost Research",
+      "title": "TinyFish Makes Search Free: What It Really Costs an AI Agent to Read the Web",
+      "url": "https://www.marktechpost.com/2026/10/18/tinyfish-free-search-ai-agent-token-cost",
+      "published_at": "2026-10-18T18:20:28Z",
+      "first_seen_at": "2026-10-18T19:22:16.592922Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
+      "ai_is_related": true,
+      "ai_score": 0.78,
+      "ai_label": "ai_model",
+      "ai_relevance_reason": "matched_strong_tech_signal",
+      "ai_signals": [
+        "ai"
+      ],
+      "ai_noise": [],
+      "tech_is_related": true,
+      "tech_score": 0.78,
+      "tech_label": "ai_model",
+      "source_tier": "ai_media",
+      "source_tier_label": "精选AI媒体",
+      "source_tier_rank": 2,
+      "direction": "ai_terminal",
+      "direction_hits": [
+        {
+          "direction_id": "ai_terminal",
+          "score": 1.44,
+          "matched_keywords": [
+            "ar",
+            "agent"
+          ],
+          "companies": []
+        },
+        {
+          "direction_id": "ai_models_apps",
+          "score": 0.97,
+          "matched_keywords": [
+            "token",
+            "agent"
+          ],
+          "companies": []
+        }
+      ],
+      "companies": [],
+      "title_original": "TinyFish Makes Search Free: What It Really Costs an AI Agent to Read the Web",
+      "title_en": "TinyFish Makes Search Free: What It Really Costs an AI Agent to Read the Web",
+      "title_zh": "TinyFish 让搜索变得免费：AI 代理阅读网页的真正成本是多少",
+      "title_bilingual": "TinyFish 让搜索变得免费：AI 代理阅读网页的真正成本是多少 / TinyFish Makes Search Free: What It Really Costs an AI Agent to Read the Web"
+    },
+    {
+      "id": "b7ad9ce962997a76ceb7f6d06da70d6211748380",
+      "site_id": "curated_media",
+      "site_name": "Curated Media",
+      "source": "Hacker News front page",
+      "title": "Investing in the Public Benefit",
+      "url": "https://www.anthropic.com/news/public-benefit-fund",
+      "published_at": "2026-10-18T18:15:10Z",
+      "first_seen_at": "2026-10-18T19:22:16.592922Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
+      "ai_is_related": true,
+      "ai_score": 0.78,
+      "ai_label": "ai_product",
+      "ai_relevance_reason": "matched_strong_tech_signal",
+      "ai_signals": [
+        "anthropic"
+      ],
+      "ai_noise": [],
+      "tech_is_related": true,
+      "tech_score": 0.78,
+      "tech_label": "ai_product",
+      "source_tier": "ai_media",
+      "source_tier_label": "精选AI媒体",
+      "source_tier_rank": 2,
+      "direction": "ai_models_apps",
+      "direction_hits": [
+        {
+          "direction_id": "ai_models_apps",
+          "score": 0.75,
+          "matched_keywords": [
+            "anthropic",
+            "anthropic"
+          ],
+          "companies": [
+            "anthropic"
+          ]
+        }
+      ],
+      "companies": [
+        "anthropic"
+      ],
+      "title_original": "Investing in the Public Benefit",
+      "title_en": "Investing in the Public Benefit",
+      "title_zh": null,
+      "title_bilingual": "Investing in the Public Benefit"
+    },
+    {
+      "id": "88276688b64af321c9c5da6d4843573957d6fc91",
+      "site_id": "curated_media",
+      "site_name": "Curated Media",
+      "source": "Bloomberg Tech",
+      "title": "Anthropic Plans to Shift Some Shares Into New ‘Public Good’ Fund",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-18/anthropic-plans-to-shift-some-shares-into-new-public-good-fund",
+      "published_at": "2026-10-18T18:03:03Z",
+      "first_seen_at": "2026-10-18T19:22:16.592922Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
+      "ai_is_related": true,
+      "ai_score": 0.78,
+      "ai_label": "ai_product",
+      "ai_relevance_reason": "matched_strong_tech_signal",
+      "ai_signals": [
+        "anthropic"
+      ],
+      "ai_noise": [],
+      "tech_is_related": true,
+      "tech_score": 0.78,
+      "tech_label": "ai_product",
+      "source_tier": "ai_media",
+      "source_tier_label": "精选AI媒体",
+      "source_tier_rank": 2,
+      "direction": "ai_models_apps",
+      "direction_hits": [
+        {
+          "direction_id": "ai_models_apps",
+          "score": 0.75,
+          "matched_keywords": [
+            "anthropic",
+            "anthropic"
+          ],
+          "companies": [
+            "anthropic"
+          ]
+        }
+      ],
+      "companies": [
+        "anthropic"
+      ],
+      "title_original": "Anthropic Plans to Shift Some Shares Into New ‘Public Good’ Fund",
+      "title_en": "Anthropic Plans to Shift Some Shares Into New ‘Public Good’ Fund",
+      "title_zh": "Anthropic 计划将部分股份转入新的“公益”基金",
+      "title_bilingual": "Anthropic 计划将部分股份转入新的“公益”基金 / Anthropic Plans to Shift Some Shares Into New ‘Public Good’ Fund"
+    },
+    {
+      "id": "d14a17f87f9e98dc4c01e6abd2e54b07487d7b81",
+      "site_id": "curated_media",
+      "site_name": "Curated Media",
+      "source": "Engadget",
+      "title": "From the Royole FlexPai to the iPhone Duo: How the modern foldable phone has evolved",
+      "url": "https://www.engadget.com/2286505/how-modern-foldable-phone-evolved-from-royole-flexpai-to-iphone-duo",
+      "published_at": "2026-10-18T18:00:00Z",
+      "first_seen_at": "2026-10-18T19:22:16.592922Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
+      "ai_is_related": true,
+      "ai_score": 0.81,
+      "ai_label": "consumer_hw",
+      "ai_relevance_reason": "matched_strong_tech_signal",
+      "ai_signals": [
+        "ai",
+        "iphone"
+      ],
+      "ai_noise": [],
+      "tech_is_related": true,
+      "tech_score": 0.81,
+      "tech_label": "consumer_hw",
+      "source_tier": "ai_media",
+      "source_tier_label": "精选AI媒体",
+      "source_tier_rank": 2,
+      "direction": "ai_terminal",
+      "direction_hits": [
+        {
+          "direction_id": "ai_terminal",
+          "score": 0.75,
+          "matched_keywords": [
+            "iphone",
+            "iphone"
+          ],
+          "companies": [
+            "iphone"
+          ]
+        }
+      ],
+      "companies": [
+        "iphone"
+      ],
+      "title_original": "From the Royole FlexPai to the iPhone Duo: How the modern foldable phone has evolved",
+      "title_en": "From the Royole FlexPai to the iPhone Duo: How the modern foldable phone has evolved",
+      "title_zh": "从 Royole FlexPai 到 iPhone Duo：现代可折叠手机的演变",
+      "title_bilingual": "从 Royole FlexPai 到 iPhone Duo：现代可折叠手机的演变 / From the Royole FlexPai to the iPhone Duo: How the modern foldable phone has evolved"
+    },
+    {
+      "id": "83b41829aacfe3f8ed0fa97394e2908285d477e2",
+      "site_id": "curated_media",
+      "site_name": "Curated Media",
+      "source": "Hacker News front page",
+      "title": "Namecheap just seized and disabled all my domains",
+      "url": "https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains",
+      "published_at": "2026-10-18T16:56:56Z",
+      "first_seen_at": "2026-10-18T19:22:16.592922Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
+      "ai_is_related": true,
+      "ai_score": 0.56,
+      "ai_label": "tech_general",
+      "ai_relevance_reason": "matched_tech_signal",
+      "ai_signals": [
+        "ai"
+      ],
+      "ai_noise": [],
+      "tech_is_related": true,
+      "tech_score": 0.56,
+      "tech_label": "tech_general",
+      "source_tier": "ai_media",
+      "source_tier_label": "精选AI媒体",
+      "source_tier_rank": 2,
+      "direction": "",
+      "direction_hits": [],
+      "companies": [],
+      "title_original": "Namecheap just seized and disabled all my domains",
+      "title_en": "Namecheap just seized and disabled all my domains",
+      "title_zh": "Namecheap 刚刚查封并禁用了我的所有域名",
+      "title_bilingual": "Namecheap 刚刚查封并禁用了我的所有域名 / Namecheap just seized and disabled all my domains"
+    },
+    {
       "id": "ae0505a894decb738ac6d3c2ed0d6e4420cf7c5e",
       "site_id": "curated_media",
       "site_name": "Curated Media",
@@ -8092,7 +8056,7 @@
       "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce",
       "published_at": "2026-10-18T16:30:00Z",
       "first_seen_at": "2026-10-18T17:30:24.478584Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.56,
       "ai_label": "tech_general",
@@ -8124,7 +8088,7 @@
       "url": "https://waytoagi.feishu.cn/wiki/Qa92wZVeyiUghvkGFpAcAnjun3e?from=from_copylink",
       "published_at": "2026-10-18T16:26:34.529941Z",
       "first_seen_at": "2026-10-18T16:26:34.529941Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "summary": "DeepSeek-V4.1-Flash重磅更新，在模型单价不变的前提下大幅强化代码与工具能力，能一键生成赛车、故宫3D场景、Godot游戏交互原型。软件工程、终端任务评测指标也明显上涨，同时还新增了Search与Fetch联网抓取接口，可以低成本实现资料检索。一起看看效果如何！",
       "ai_is_related": true,
       "ai_score": 0.7,
@@ -8180,7 +8144,7 @@
       "url": "https://waytoagi.feishu.cn/wiki/VscJw5ODIiV9A2k9rIFcgq1HnHc?from=from_copylink",
       "published_at": "2026-10-18T16:26:34.529941Z",
       "first_seen_at": "2026-10-18T16:26:34.529941Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "summary": "Ambi 创始人子皓结合自身丰富的创业经历，剖析了当下 Personal AI 赛道的机遇。文中抛出诸多反常识判断，搭配真实商业落地案例，给大家提供了很多宝贵的行业判断与实战思路。",
       "ai_is_related": true,
       "ai_score": 0.67,
@@ -8211,7 +8175,7 @@
       "url": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access",
       "published_at": "2026-10-18T16:25:19Z",
       "first_seen_at": "2026-10-18T17:30:24.478584Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.81,
       "ai_label": "ai_product",
@@ -8267,7 +8231,7 @@
       "url": "https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html",
       "published_at": "2026-10-18T16:20:27Z",
       "first_seen_at": "2026-10-18T17:30:24.478584Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.81,
       "ai_label": "chip_semi",
@@ -8324,7 +8288,7 @@
       "url": "https://www.engadget.com/2286431/how-to-fix-scaling-app-size-issues-samsung-galaxy-z-fold-8",
       "published_at": "2026-10-18T16:15:00Z",
       "first_seen_at": "2026-10-18T16:26:34.529941Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.81,
       "ai_label": "software_saas",
@@ -8372,7 +8336,7 @@
       "url": "https://www.tomshardware.com/pc-components/gpus/amd-cards-now-run-all-dlss-features-thanks-to-one-developers-project-plans-to-match-native-nvidia-gpu-performance",
       "published_at": "2026-10-18T16:03:01Z",
       "first_seen_at": "2026-10-18T16:26:34.529941Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.84,
       "ai_label": "chip_semi",
@@ -8457,7 +8421,7 @@
       "url": "https://developer.apple.com/forums/verify-human/verify.html?next=%2Fforums%2Fthread%2F850550",
       "published_at": "2026-10-18T15:26:06Z",
       "first_seen_at": "2026-10-18T16:26:34.529941Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.59,
       "ai_label": "dev_tool",
@@ -8504,7 +8468,7 @@
       "url": "https://www.engadget.com/2286322/why-new-drive-shows-less-storage",
       "published_at": "2026-10-18T15:15:00Z",
       "first_seen_at": "2026-10-18T16:26:34.529941Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.56,
       "ai_label": "tech_general",
@@ -8536,7 +8500,7 @@
       "url": "https://www.tomshardware.com/tech-industry/drones/f-22-raptor-pilot-successfully-demonstrates-command-of-wingman-fighter-drone-in-simulated-combat-anduril-yfq-44a-fury-test-advances-usafs-program-to-integrate-uncrewed-aircraft-into-fighter-squadrons",
       "published_at": "2026-10-18T15:02:19Z",
       "first_seen_at": "2026-10-18T16:26:34.529941Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.56,
       "ai_label": "tech_general",
@@ -8633,7 +8597,7 @@
       "url": "https://www.engadget.com/2286246/ios-27-carplay-features-not-available-older-iphones",
       "published_at": "2026-10-18T14:45:00Z",
       "first_seen_at": "2026-10-18T16:26:34.529941Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.81,
       "ai_label": "software_saas",
@@ -8751,7 +8715,7 @@
       "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-siteguard-waf-flaw-to-run-commands-as-system-root",
       "published_at": "2026-10-18T14:23:16Z",
       "first_seen_at": "2026-10-18T16:26:34.529941Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.56,
       "ai_label": "software_saas",
@@ -8830,7 +8794,7 @@
       "url": "https://www.bloomberg.com/news/newsletters/2026-10-18/apple-homeview-with-robotic-arm-new-mac-ipad-mini-nov-6-release-iphone-duo",
       "published_at": "2026-10-18T14:00:01Z",
       "first_seen_at": "2026-10-18T16:26:34.529941Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.84,
       "ai_label": "ai_model",
@@ -8884,7 +8848,7 @@
       "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-5090-shipment-worth-usd470-000-goes-missing-in-brazilian-airport-two-pallets-disappear-distributor-seeks-explanations-but-met-with-zero-answers",
       "published_at": "2026-10-18T13:24:23Z",
       "first_seen_at": "2026-10-18T16:26:34.529941Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.81,
       "ai_label": "chip_semi",
@@ -9006,7 +8970,7 @@
       "url": "https://www.tomshardware.com/video-games/pc-gaming/chip-fab-engineering-game-goes-viral-in-taiwan-realistic-and-stressful-simulation-is-basically-a-horror-game-say-some-players",
       "published_at": "2026-10-18T12:50:33Z",
       "first_seen_at": "2026-10-18T16:26:34.529941Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.62,
       "ai_label": "chip_semi",
@@ -9078,7 +9042,7 @@
       "url": "https://the-decoder.com/four-gemini-4-argon-agents-beat-minecraft-without-any-human-help",
       "published_at": "2026-10-18T12:39:51Z",
       "first_seen_at": "2026-10-18T12:45:54.488349Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.83,
       "ai_label": "ai_model",
@@ -9136,7 +9100,7 @@
       "url": "https://www.bloomberg.com/news/videos/2026-10-18/openai-arrest-raises-ai-espionage-concerns-video",
       "published_at": "2026-10-18T12:27:37Z",
       "first_seen_at": "2026-10-18T12:45:54.488349Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.81,
       "ai_label": "ai_product",
@@ -9215,7 +9179,7 @@
       "url": "https://www.tomshardware.com/tech-industry/cyber-security/typo-squatting-attacks-with-major-domains-are-still-viable-corner-cases-with-cyrillic-characters-still-evade-the-best-checks",
       "published_at": "2026-10-18T12:05:00Z",
       "first_seen_at": "2026-10-18T12:45:54.488349Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.56,
       "ai_label": "tech_general",
@@ -9266,7 +9230,7 @@
       "url": "https://www.theverge.com/transportation/1013220/robotaxi-self-driving-car-laws",
       "published_at": "2026-10-18T12:00:00Z",
       "first_seen_at": "2026-10-18T12:01:10.358224Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.81,
       "ai_label": "robotics",
@@ -9368,7 +9332,7 @@
       "url": "https://terriblesoftware.org/2026/10/02/the-brain-sandwich",
       "published_at": "2026-10-18T11:15:37Z",
       "first_seen_at": "2026-10-18T16:26:34.529941Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.56,
       "ai_label": "software_saas",
@@ -9456,7 +9420,7 @@
       "url": "https://the-decoder.com/two-german-courts-now-hold-google-liable-for-what-its-ai-overviews-say",
       "published_at": "2026-10-18T10:52:39Z",
       "first_seen_at": "2026-10-18T12:01:10.358224Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.56,
       "ai_label": "ai_product",
@@ -9582,7 +9546,7 @@
       "url": "https://www.wired.com/story/onlyfans-creators-are-pissed-that-meta-lets-muse-talk-dirty",
       "published_at": "2026-10-18T10:30:00Z",
       "first_seen_at": "2026-10-18T12:01:10.358224Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.56,
       "ai_label": "ai_product",
@@ -9638,7 +9602,7 @@
       "url": "https://www.bloomberg.com/news/articles/2026-10-18/short-of-time-and-influence-macron-fights-to-remain-relevant",
       "published_at": "2026-10-18T10:30:00Z",
       "first_seen_at": "2026-10-18T12:01:10.358224Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.56,
       "ai_label": "tech_general",
@@ -9680,7 +9644,7 @@
       "url": "https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes",
       "published_at": "2026-10-18T10:21:51Z",
       "first_seen_at": "2026-10-18T12:01:10.358224Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.59,
       "ai_label": "dev_tool",
@@ -9737,7 +9701,7 @@
       "url": "https://the-decoder.com/anthropic-consults-law-firms-to-set-fair-negotiation-norms-before-ai-agents-start-cutting-deals",
       "published_at": "2026-10-18T09:11:29Z",
       "first_seen_at": "2026-10-18T12:01:10.358224Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.83,
       "ai_label": "ai_model",
@@ -9795,7 +9759,7 @@
       "url": "https://www.wired.com/story/magnesium-may-not-reach-your-brain-despite-supplement-label-promises",
       "published_at": "2026-10-18T09:00:00Z",
       "first_seen_at": "2026-10-18T12:01:10.358224Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.56,
       "ai_label": "tech_general",
@@ -9827,7 +9791,7 @@
       "url": "https://www.wired.com/story/best-airpods-case",
       "published_at": "2026-10-18T09:00:00Z",
       "first_seen_at": "2026-10-18T12:01:10.358224Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.56,
       "ai_label": "tech_general",
@@ -9859,7 +9823,7 @@
       "url": "https://the-decoder.com/ai-agents-have-bad-taste-in-long-term-decisions-and-a-new-benchmark-proves-it",
       "published_at": "2026-10-18T08:49:41Z",
       "first_seen_at": "2026-10-18T12:01:10.358224Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.78,
       "ai_label": "ai_model",
@@ -9910,7 +9874,7 @@
       "url": "https://the-decoder.com/ai-agents-chasing-a-465-train-refund-invented-excuses-leaked-medical-data-and-spammed-an-mps-office",
       "published_at": "2026-10-18T08:15:04Z",
       "first_seen_at": "2026-10-18T12:01:10.358224Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.78,
       "ai_label": "ai_model",
@@ -9961,7 +9925,7 @@
       "url": "https://www.marktechpost.com/2026/10/18/google-harness2-recursive-agent-harnessing-framework",
       "published_at": "2026-10-18T08:15:04Z",
       "first_seen_at": "2026-10-18T12:01:10.358224Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.78,
       "ai_label": "ai_model",
@@ -10016,7 +9980,7 @@
       "url": "https://www.theregister.com/offbeat/2026/10/18/oh-no-what-happened-to-my-oohpod-windows-command-prompt-puts-in-a-surprise-appearance/5303109",
       "published_at": "2026-10-18T08:09:00Z",
       "first_seen_at": "2026-10-18T12:01:10.358224Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.59,
       "ai_label": "software_saas",
@@ -10059,7 +10023,7 @@
       "url": "https://api-docs.deepseek.com/guides/search",
       "published_at": "2026-10-18T06:50:36Z",
       "first_seen_at": "2026-10-18T07:23:48.144406Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.81,
       "ai_label": "ai_model",
@@ -10106,7 +10070,7 @@
       "url": "https://www.marktechpost.com/2026/10/17/how-to-make-zero-training-tabular-predictions-with-nvidia-structured-data-models",
       "published_at": "2026-10-18T05:56:05Z",
       "first_seen_at": "2026-10-18T07:23:48.144406Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.81,
       "ai_label": "ai_model",
@@ -10215,7 +10179,7 @@
       "url": "https://sphinx-six-theta.vercel.app",
       "published_at": "2026-10-18T04:33:49Z",
       "first_seen_at": "2026-10-18T07:23:48.144406Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.56,
       "ai_label": "software_saas",
@@ -10247,7 +10211,7 @@
       "url": "https://www.marktechpost.com/2026/10/17/voxel51-3-0-physical-ai-data-platform",
       "published_at": "2026-10-18T04:06:33Z",
       "first_seen_at": "2026-10-18T07:23:48.144406Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.59,
       "ai_label": "tech_general",
@@ -10290,7 +10254,7 @@
       "url": "https://x.com/petergyang/status/2111663267995361287",
       "published_at": "2026-10-18T03:38:50Z",
       "first_seen_at": "2026-10-18T07:23:48.144406Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.63,
       "ai_label": "tech_general",
@@ -10322,7 +10286,7 @@
       "url": "https://x.com/rauchg/status/2111643672274165938",
       "published_at": "2026-10-18T02:20:58Z",
       "first_seen_at": "2026-10-18T07:23:48.144406Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.63,
       "ai_label": "tech_general",
@@ -10590,7 +10554,7 @@
       "url": "https://x.com/thenanyu/status/2111597172840083574",
       "published_at": "2026-10-17T23:16:12Z",
       "first_seen_at": "2026-10-18T07:23:48.144406Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.63,
       "ai_label": "tech_general",
@@ -10654,7 +10618,7 @@
       "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns",
       "published_at": "2026-10-17T21:31:32Z",
       "first_seen_at": "2026-10-17T22:35:51.450530Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.62,
       "ai_label": "dev_tool",
@@ -10758,7 +10722,7 @@
       "url": "https://x.com/nikunj/status/2111558586421920134",
       "published_at": "2026-10-17T20:42:52Z",
       "first_seen_at": "2026-10-18T07:23:48.144406Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.63,
       "ai_label": "dev_tool",
@@ -10790,7 +10754,7 @@
       "url": "https://www.marktechpost.com/2026/10/17/meet-kyutai-reki-the-2-4b-vla-model-bringing-efficient-memory-to-robot-manipulation",
       "published_at": "2026-10-17T20:22:11Z",
       "first_seen_at": "2026-10-17T22:35:51.450530Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.59,
       "ai_label": "ai_model",
@@ -10833,7 +10797,7 @@
       "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings",
       "published_at": "2026-10-17T20:21:19Z",
       "first_seen_at": "2026-10-17T22:35:51.450530Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.81,
       "ai_label": "ai_product",
@@ -10916,387 +10880,6 @@
       "title_bilingual": "Chrome 和 Edge 将移除 XSLT：哪些功能会受影响，哪些不会 / Chrome and Edge are removing XSLT: what breaks and what does not"
     },
     {
-      "id": "47136f0ae0a03b3f61f7341c1e7dc35b2d834d4f",
-      "site_id": "curated_media",
-      "site_name": "Curated Media",
-      "source": "TechCrunch AI",
-      "title": "Replit is no longer working with Anthropic, CEO says",
-      "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says",
-      "published_at": "2026-10-17T18:48:08Z",
-      "first_seen_at": "2026-10-17T19:11:29.184301Z",
-      "last_seen_at": "2026-10-17T19:11:29.184301Z",
-      "ai_is_related": true,
-      "ai_score": 0.81,
-      "ai_label": "ai_product",
-      "ai_relevance_reason": "matched_strong_tech_signal",
-      "ai_signals": [
-        "ai",
-        "anthropic"
-      ],
-      "ai_noise": [],
-      "tech_is_related": true,
-      "tech_score": 0.81,
-      "tech_label": "ai_product",
-      "source_tier": "ai_media",
-      "source_tier_label": "精选AI媒体",
-      "source_tier_rank": 2,
-      "direction": "ai_models_apps",
-      "direction_hits": [
-        {
-          "direction_id": "ai_models_apps",
-          "score": 0.75,
-          "matched_keywords": [
-            "anthropic",
-            "anthropic"
-          ],
-          "companies": [
-            "anthropic"
-          ]
-        }
-      ],
-      "companies": [
-        "anthropic"
-      ],
-      "title_original": "Replit is no longer working with Anthropic, CEO says",
-      "title_en": "Replit is no longer working with Anthropic, CEO says",
-      "title_zh": "Replit 首席执行官表示不再与 Anthropic 合作",
-      "title_bilingual": "Replit 首席执行官表示不再与 Anthropic 合作 / Replit is no longer working with Anthropic, CEO says"
-    },
-    {
-      "id": "6bdde82551cc226e49deefc203dc843250bda1a2",
-      "site_id": "curated_media",
-      "site_name": "Curated Media",
-      "source": "TechCrunch AI",
-      "title": "Replit makes OpenAI its default over Anthropic, CEO says",
-      "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says",
-      "published_at": "2026-10-17T18:48:08Z",
-      "first_seen_at": "2026-10-17T22:35:51.450530Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
-      "ai_is_related": true,
-      "ai_score": 0.86,
-      "ai_label": "ai_product",
-      "ai_relevance_reason": "matched_strong_tech_signal",
-      "ai_signals": [
-        "ai",
-        "anthropic",
-        "openai"
-      ],
-      "ai_noise": [],
-      "tech_is_related": true,
-      "tech_score": 0.86,
-      "tech_label": "ai_product",
-      "source_tier": "ai_media",
-      "source_tier_label": "精选AI媒体",
-      "source_tier_rank": 2,
-      "direction": "ai_models_apps",
-      "direction_hits": [
-        {
-          "direction_id": "ai_models_apps",
-          "score": 2.77,
-          "matched_keywords": [
-            "openai",
-            "anthropic",
-            "anthropic",
-            "openai"
-          ],
-          "companies": [
-            "anthropic",
-            "openai"
-          ]
-        }
-      ],
-      "companies": [
-        "anthropic",
-        "openai"
-      ],
-      "title_original": "Replit makes OpenAI its default over Anthropic, CEO says",
-      "title_en": "Replit makes OpenAI its default over Anthropic, CEO says",
-      "title_zh": "Replit 首席执行官表示，将 OpenAI 设为默认值，而不是 Anthropic",
-      "title_bilingual": "Replit 首席执行官表示，将 OpenAI 设为默认值，而不是 Anthropic / Replit makes OpenAI its default over Anthropic, CEO says"
-    },
-    {
-      "id": "9164796beddb6b239fd94e21329d63fb1fcbde8b",
-      "site_id": "curated_media",
-      "site_name": "Curated Media",
-      "source": "Hacker News front page",
-      "title": "Microsoft and CMU team up to train early career software engineers",
-      "url": "https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise",
-      "published_at": "2026-10-17T18:45:07Z",
-      "first_seen_at": "2026-10-17T22:35:51.450530Z",
-      "last_seen_at": "2026-10-18T00:14:50.692022Z",
-      "ai_is_related": true,
-      "ai_score": 0.56,
-      "ai_label": "software_saas",
-      "ai_relevance_reason": "matched_tech_signal",
-      "ai_signals": [
-        "ai"
-      ],
-      "ai_noise": [],
-      "tech_is_related": true,
-      "tech_score": 0.56,
-      "tech_label": "software_saas",
-      "source_tier": "ai_media",
-      "source_tier_label": "精选AI媒体",
-      "source_tier_rank": 2,
-      "direction": "",
-      "direction_hits": [],
-      "companies": [],
-      "title_original": "Microsoft and CMU team up to train early career software engineers",
-      "title_en": "Microsoft and CMU team up to train early career software engineers",
-      "title_zh": "微软和卡耐基梅隆大学联手培训早期职业软件工程师",
-      "title_bilingual": "微软和卡耐基梅隆大学联手培训早期职业软件工程师 / Microsoft and CMU team up to train early career software engineers"
-    },
-    {
-      "id": "8868621fcb5bfc7692f615cd404fa1480cf4defc",
-      "site_id": "curated_media",
-      "site_name": "Curated Media",
-      "source": "Engadget",
-      "title": "Android Auto can be used outside of your car: Here's how",
-      "url": "https://www.engadget.com/2284102/how-android-auto-used-outside-of-car",
-      "published_at": "2026-10-17T18:45:00Z",
-      "first_seen_at": "2026-10-17T19:11:29.184301Z",
-      "last_seen_at": "2026-10-18T00:14:50.692022Z",
-      "ai_is_related": true,
-      "ai_score": 0.56,
-      "ai_label": "software_saas",
-      "ai_relevance_reason": "matched_tech_signal",
-      "ai_signals": [
-        "android"
-      ],
-      "ai_noise": [],
-      "tech_is_related": true,
-      "tech_score": 0.56,
-      "tech_label": "software_saas",
-      "source_tier": "ai_media",
-      "source_tier_label": "精选AI媒体",
-      "source_tier_rank": 2,
-      "direction": "ai_terminal",
-      "direction_hits": [
-        {
-          "direction_id": "ai_terminal",
-          "score": 1.56,
-          "matched_keywords": [
-            "ar",
-            "android"
-          ],
-          "companies": []
-        }
-      ],
-      "companies": [],
-      "title_original": "Android Auto can be used outside of your car: Here's how",
-      "title_en": "Android Auto can be used outside of your car: Here's how",
-      "title_zh": "Android Auto 可以在车外使用：操作方法如下",
-      "title_bilingual": "Android Auto 可以在车外使用：操作方法如下 / Android Auto can be used outside of your car: Here's how"
-    },
-    {
-      "id": "0db1404d2cf8973e5c1855f4f86425a476f4d663",
-      "site_id": "followbuilders",
-      "site_name": "Follow Builders",
-      "source": "Follow Builders · X · Aaron Levie",
-      "title": "The biggest misread of anyone predicting the end of software engineering was imagining that the world only needed a certain amount of software, and bringing automation to the field would reduce the need for labor. Exa...",
-      "url": "https://x.com/levie/status/2111525362446520466",
-      "published_at": "2026-10-17T18:30:51Z",
-      "first_seen_at": "2026-10-18T07:23:48.144406Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
-      "ai_is_related": true,
-      "ai_score": 0.63,
-      "ai_label": "software_saas",
-      "ai_relevance_reason": "matched_tech_signal",
-      "ai_signals": [
-        "ai"
-      ],
-      "ai_noise": [],
-      "tech_is_related": true,
-      "tech_score": 0.63,
-      "tech_label": "software_saas",
-      "source_tier": "builders",
-      "source_tier_label": "Builders/X源",
-      "source_tier_rank": 2,
-      "direction": "",
-      "direction_hits": [],
-      "companies": [],
-      "title_original": "The biggest misread of anyone predicting the end of software engineering was imagining that the world only needed a certain amount of software, and bringing automation to the field would reduce the need for labor. Exa...",
-      "title_en": "The biggest misread of anyone predicting the end of software engineering was imagining that the world only needed a certain amount of software, and bringing automation to the field would reduce the need for labor. Exa...",
-      "title_zh": null,
-      "title_bilingual": "The biggest misread of anyone predicting the end of software engineering was imagining that the world only needed a certain amount of software, and bringing automation to the field would reduce the need for labor. Exa..."
-    },
-    {
-      "id": "e34a6f3eda564b3b066ee38d790b441775b8a7df",
-      "site_id": "curated_media",
-      "site_name": "Curated Media",
-      "source": "Engadget",
-      "title": "What's actually eating all the storage space on your Android Phone?",
-      "url": "https://www.engadget.com/2283986/whats-actually-eating-all-the-storage-space-on-your-android-phone",
-      "published_at": "2026-10-17T18:30:00Z",
-      "first_seen_at": "2026-10-17T19:11:29.184301Z",
-      "last_seen_at": "2026-10-17T22:59:57.377829Z",
-      "ai_is_related": true,
-      "ai_score": 0.56,
-      "ai_label": "software_saas",
-      "ai_relevance_reason": "matched_tech_signal",
-      "ai_signals": [
-        "android"
-      ],
-      "ai_noise": [],
-      "tech_is_related": true,
-      "tech_score": 0.56,
-      "tech_label": "software_saas",
-      "source_tier": "ai_media",
-      "source_tier_label": "精选AI媒体",
-      "source_tier_rank": 2,
-      "direction": "",
-      "direction_hits": [],
-      "companies": [],
-      "title_original": "What's actually eating all the storage space on your Android Phone?",
-      "title_en": "What's actually eating all the storage space on your Android Phone?",
-      "title_zh": "究竟是什么占用了 Android 手机上的所有存储空间？",
-      "title_bilingual": "究竟是什么占用了 Android 手机上的所有存储空间？ / What's actually eating all the storage space on your Android Phone?"
-    },
-    {
-      "id": "f4eedef72d58c1d3b280c10ffad2c9aa7fa633e0",
-      "site_id": "curated_media",
-      "site_name": "Curated Media",
-      "source": "Engadget",
-      "title": "iPhone Duo shipping estimates have already been pushed back to 2027",
-      "url": "https://www.engadget.com/2289629/iphone-duo-shipping-estimates-have-already-been-pushed-back-to-2027",
-      "published_at": "2026-10-17T18:12:35Z",
-      "first_seen_at": "2026-10-17T18:45:54.115746Z",
-      "last_seen_at": "2026-10-17T22:59:57.377829Z",
-      "ai_is_related": true,
-      "ai_score": 0.78,
-      "ai_label": "consumer_hw",
-      "ai_relevance_reason": "matched_strong_tech_signal",
-      "ai_signals": [
-        "iphone"
-      ],
-      "ai_noise": [],
-      "tech_is_related": true,
-      "tech_score": 0.78,
-      "tech_label": "consumer_hw",
-      "source_tier": "ai_media",
-      "source_tier_label": "精选AI媒体",
-      "source_tier_rank": 2,
-      "direction": "ai_terminal",
-      "direction_hits": [
-        {
-          "direction_id": "ai_terminal",
-          "score": 0.75,
-          "matched_keywords": [
-            "iphone",
-            "iphone"
-          ],
-          "companies": [
-            "iphone"
-          ]
-        }
-      ],
-      "companies": [
-        "iphone"
-      ],
-      "title_original": "iPhone Duo shipping estimates have already been pushed back to 2027",
-      "title_en": "iPhone Duo shipping estimates have already been pushed back to 2027",
-      "title_zh": "iPhone Duo 的出货量预计已推迟至 2027 年",
-      "title_bilingual": "iPhone Duo 的出货量预计已推迟至 2027 年 / iPhone Duo shipping estimates have already been pushed back to 2027"
-    },
-    {
-      "id": "ab9f4d56554fc938da7b758dd3b5b6eaf42fb2ce",
-      "site_id": "curated_media",
-      "site_name": "Curated Media",
-      "source": "Hacker News front page",
-      "title": "Codex Desktop continuously generates Crashpad pending dumps",
-      "url": "https://github.com/openai/codex/issues/25921",
-      "published_at": "2026-10-17T17:45:08Z",
-      "first_seen_at": "2026-10-17T22:59:57.377829Z",
-      "last_seen_at": "2026-10-18T12:45:54.488349Z",
-      "ai_is_related": true,
-      "ai_score": 0.56,
-      "ai_label": "dev_tool",
-      "ai_relevance_reason": "matched_tech_signal",
-      "ai_signals": [
-        "codex"
-      ],
-      "ai_noise": [],
-      "tech_is_related": true,
-      "tech_score": 0.56,
-      "tech_label": "dev_tool",
-      "source_tier": "ai_media",
-      "source_tier_label": "精选AI媒体",
-      "source_tier_rank": 2,
-      "direction": "ai_models_apps",
-      "direction_hits": [
-        {
-          "direction_id": "ai_models_apps",
-          "score": 2.66,
-          "matched_keywords": [
-            "code",
-            "openai",
-            "codex",
-            "github",
-            "openai"
-          ],
-          "companies": [
-            "openai"
-          ]
-        }
-      ],
-      "companies": [
-        "openai"
-      ],
-      "title_original": "Codex Desktop continuously generates Crashpad pending dumps",
-      "title_en": "Codex Desktop continuously generates Crashpad pending dumps",
-      "title_zh": "Codex Desktop 会持续生成 Crashpad 的待处理转储文件",
-      "title_bilingual": "Codex Desktop 会持续生成 Crashpad 的待处理转储文件 / Codex Desktop continuously generates Crashpad pending dumps"
-    },
-    {
-      "id": "efd48097aac3f4aa88303ccf4073ddb21c427ad2",
-      "site_id": "curated_media",
-      "site_name": "Curated Media",
-      "source": "Hacker News front page",
-      "title": "Codex is EATING my Mac's disk space",
-      "url": "https://github.com/openai/codex/issues/25921",
-      "published_at": "2026-10-17T17:45:08Z",
-      "first_seen_at": "2026-10-17T22:35:51.450530Z",
-      "last_seen_at": "2026-10-17T22:35:51.450530Z",
-      "ai_is_related": true,
-      "ai_score": 0.56,
-      "ai_label": "dev_tool",
-      "ai_relevance_reason": "matched_tech_signal",
-      "ai_signals": [
-        "codex"
-      ],
-      "ai_noise": [],
-      "tech_is_related": true,
-      "tech_score": 0.56,
-      "tech_label": "dev_tool",
-      "source_tier": "ai_media",
-      "source_tier_label": "精选AI媒体",
-      "source_tier_rank": 2,
-      "direction": "ai_models_apps",
-      "direction_hits": [
-        {
-          "direction_id": "ai_models_apps",
-          "score": 2.66,
-          "matched_keywords": [
-            "code",
-            "openai",
-            "codex",
-            "github",
-            "openai"
-          ],
-          "companies": [
-            "openai"
-          ]
-        }
-      ],
-      "companies": [
-        "openai"
-      ],
-      "title_original": "Codex is EATING my Mac's disk space",
-      "title_en": "Codex is EATING my Mac's disk space",
-      "title_zh": "Codex Desktop 会持续生成 Crashpad 的待处理转储文件",
-      "title_bilingual": "Codex Desktop 会持续生成 Crashpad 的待处理转储文件 / Codex is EATING my Mac's disk space"
-    },
-    {
       "id": "34ae8e1d9b30d6ec2ee49006a83cf48f1975e260",
       "site_id": "opmlrss",
       "site_name": "OPML RSS",
@@ -11305,7 +10888,7 @@
       "url": "https://www.infoq.cn/article/EuYOPRUBAeBgBGBu5ktk",
       "published_at": "2026-10-18T15:01:33Z",
       "first_seen_at": "2026-10-18T16:26:34.529941Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.59,
       "ai_label": "ai_model",
@@ -11374,7 +10957,7 @@
       "url": "https://www.infoq.cn/article/qZPH971CbfHkaCfgG0cb",
       "published_at": "2026-10-18T02:00:00Z",
       "first_seen_at": "2026-10-18T07:23:48.144406Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.78,
       "ai_label": "ai_model",
@@ -11399,6 +10982,233 @@
       "title_bilingual": "“AI+终端”时代的萌芽：大模型在终端领域的探索和量产落地｜QCon上海"
     },
     {
+      "id": "3f0006d901ee0c377c92f6cd39f74afee8f960dc",
+      "site_id": "techurls",
+      "site_name": "TechURLs",
+      "source": "Techmeme",
+      "title": "Sources: Nvidia asked Samsung, SK Hynix, and Micron to make base dies for its custom NVHBM memory on TSMC's 3nm process; Samsung agreed, its first use of TSMC (Kyu-Seok Shim/Reuters)",
+      "url": "https://www.techmeme.com/261018/p9",
+      "published_at": "2026-10-18T18:10:01Z",
+      "first_seen_at": "2026-10-18T19:22:16.592922Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
+      "ai_is_related": true,
+      "ai_score": 0.81,
+      "ai_label": "chip_semi",
+      "ai_relevance_reason": "matched_strong_tech_signal",
+      "ai_signals": [
+        "hbm",
+        "nvidia",
+        "samsung",
+        "tsmc"
+      ],
+      "ai_noise": [],
+      "tech_is_related": true,
+      "tech_score": 0.81,
+      "tech_label": "chip_semi",
+      "source_tier": "discussion",
+      "source_tier_label": "热议参考",
+      "source_tier_rank": 5,
+      "direction": "compute_dc",
+      "direction_hits": [
+        {
+          "direction_id": "compute_dc",
+          "score": 2.31,
+          "matched_keywords": [
+            "hbm",
+            "nvidia",
+            "nvidia"
+          ],
+          "companies": [
+            "nvidia"
+          ]
+        },
+        {
+          "direction_id": "semiconductor",
+          "score": 1.71,
+          "matched_keywords": [
+            "die",
+            "co",
+            "nvidia",
+            "tsmc"
+          ],
+          "companies": [
+            "nvidia",
+            "tsmc"
+          ]
+        },
+        {
+          "direction_id": "autonomous_hardware",
+          "score": 0.75,
+          "matched_keywords": [
+            "nvidia"
+          ],
+          "companies": [
+            "nvidia"
+          ]
+        },
+        {
+          "direction_id": "ai_terminal",
+          "score": 0.75,
+          "matched_keywords": [
+            "samsung",
+            "samsung"
+          ],
+          "companies": [
+            "samsung"
+          ]
+        }
+      ],
+      "companies": [
+        "samsung",
+        "nvidia",
+        "tsmc"
+      ],
+      "title_original": "Sources: Nvidia asked Samsung, SK Hynix, and Micron to make base dies for its custom NVHBM memory on TSMC's 3nm process; Samsung agreed, its first use of TSMC (Kyu-Seok Shim/Reuters)",
+      "title_en": "Sources: Nvidia asked Samsung, SK Hynix, and Micron to make base dies for its custom NVHBM memory on TSMC's 3nm process; Samsung agreed, its first use of TSMC (Kyu-Seok Shim/Reuters)",
+      "title_zh": null,
+      "title_bilingual": "Sources: Nvidia asked Samsung, SK Hynix, and Micron to make base dies for its custom NVHBM memory on TSMC's 3nm process; Samsung agreed, its first use of TSMC (Kyu-Seok Shim/Reuters)"
+    },
+    {
+      "id": "b8dc89d87d6f0508938e279165c823c49dc97695",
+      "site_id": "iris",
+      "site_name": "Info Flow",
+      "source": "V2EX (创意工作者社区)",
+      "title": "[分享创造] 分享一个开源项目 Agent8：让只有 Java 8 的 AIX / HP-UX / Solaris 继续当新版 Jenkins 的 agent",
+      "url": "https://www.v2ex.com/t/1249844",
+      "published_at": "2026-10-18T17:48:47Z",
+      "first_seen_at": "2026-10-18T19:22:16.592922Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
+      "ai_is_related": true,
+      "ai_score": 0.68,
+      "ai_label": "ai_model",
+      "ai_relevance_reason": "matched_strong_tech_signal",
+      "ai_signals": [
+        "ai",
+        "开源"
+      ],
+      "ai_noise": [],
+      "tech_is_related": true,
+      "tech_score": 0.68,
+      "tech_label": "ai_model",
+      "source_tier": "discussion",
+      "source_tier_label": "热议参考",
+      "source_tier_rank": 5,
+      "direction": "ai_terminal",
+      "direction_hits": [
+        {
+          "direction_id": "ai_terminal",
+          "score": 1.44,
+          "matched_keywords": [
+            "ar",
+            "agent"
+          ],
+          "companies": []
+        }
+      ],
+      "companies": [],
+      "title_original": "[分享创造] 分享一个开源项目 Agent8：让只有 Java 8 的 AIX / HP-UX / Solaris 继续当新版 Jenkins 的 agent",
+      "title_en": null,
+      "title_zh": "[分享创造] 分享一个开源项目 Agent8：让只有 Java 8 的 AIX / HP-UX / Solaris 继续当新版 Jenkins 的 agent",
+      "title_bilingual": "[分享创造] 分享一个开源项目 Agent8：让只有 Java 8 的 AIX / HP-UX / Solaris 继续当新版 Jenkins 的 agent"
+    },
+    {
+      "id": "c1ea11c37d2ba26a11362fa4603111587f8c75fd",
+      "site_id": "iris",
+      "site_name": "Info Flow",
+      "source": "V2EX (创意工作者社区)",
+      "title": "[OpenAI] codex 邀请新用户各得 1000 额度，还有需要的吗，留下邮箱",
+      "url": "https://www.v2ex.com/t/1249843",
+      "published_at": "2026-10-18T17:39:12Z",
+      "first_seen_at": "2026-10-18T19:22:16.592922Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
+      "ai_is_related": true,
+      "ai_score": 0.71,
+      "ai_label": "dev_tool",
+      "ai_relevance_reason": "matched_strong_tech_signal",
+      "ai_signals": [
+        "ai",
+        "codex",
+        "openai"
+      ],
+      "ai_noise": [],
+      "tech_is_related": true,
+      "tech_score": 0.71,
+      "tech_label": "dev_tool",
+      "source_tier": "discussion",
+      "source_tier_label": "热议参考",
+      "source_tier_rank": 5,
+      "direction": "ai_models_apps",
+      "direction_hits": [
+        {
+          "direction_id": "ai_models_apps",
+          "score": 3.19,
+          "matched_keywords": [
+            "code",
+            "openai",
+            "codex",
+            "openai"
+          ],
+          "companies": [
+            "openai"
+          ]
+        }
+      ],
+      "companies": [
+        "openai"
+      ],
+      "title_original": "[OpenAI] codex 邀请新用户各得 1000 额度，还有需要的吗，留下邮箱",
+      "title_en": null,
+      "title_zh": "[OpenAI] codex 邀请新用户各得 1000 额度，还有需要的吗，留下邮箱",
+      "title_bilingual": "[OpenAI] codex 邀请新用户各得 1000 额度，还有需要的吗，留下邮箱"
+    },
+    {
+      "id": "6e07069da33fb0c0a74aea52adb081f5e8f31ecd",
+      "site_id": "techurls",
+      "site_name": "TechURLs",
+      "source": "Slashdot",
+      "title": "More Details on Arrested Saudi OpenAI Employee, Who is Seeking Release on Bail",
+      "url": "https://yro.slashdot.org/story/26/10/18/0318232/more-details-on-arrested-saudi-openai-employee-who-is-seeking-release-on-bail",
+      "published_at": "2026-10-18T17:34:00Z",
+      "first_seen_at": "2026-10-18T19:22:16.592922Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
+      "ai_is_related": true,
+      "ai_score": 0.73,
+      "ai_label": "ai_model",
+      "ai_relevance_reason": "matched_strong_tech_signal",
+      "ai_signals": [
+        "ai",
+        "openai"
+      ],
+      "ai_noise": [],
+      "tech_is_related": true,
+      "tech_score": 0.73,
+      "tech_label": "ai_model",
+      "source_tier": "discussion",
+      "source_tier_label": "热议参考",
+      "source_tier_rank": 5,
+      "direction": "ai_models_apps",
+      "direction_hits": [
+        {
+          "direction_id": "ai_models_apps",
+          "score": 0.75,
+          "matched_keywords": [
+            "openai",
+            "openai"
+          ],
+          "companies": [
+            "openai"
+          ]
+        }
+      ],
+      "companies": [
+        "openai"
+      ],
+      "title_original": "More Details on Arrested Saudi OpenAI Employee, Who is Seeking Release on Bail",
+      "title_en": "More Details on Arrested Saudi OpenAI Employee, Who is Seeking Release on Bail",
+      "title_zh": "有关被捕的沙特 OpenAI 员工的更多详细信息，该员工正在寻求保释",
+      "title_bilingual": "有关被捕的沙特 OpenAI 员工的更多详细信息，该员工正在寻求保释 / More Details on Arrested Saudi OpenAI Employee, Who is Seeking Release on Bail"
+    },
+    {
       "id": "fdcecf78e8657fe5baa6b130baa87b5255d63f7d",
       "site_id": "newsnow",
       "site_name": "NewsNow",
@@ -11407,7 +11217,7 @@
       "url": "https://juejin.cn/post/7696759034847068175",
       "published_at": "2026-10-18T17:31:14.795000Z",
       "first_seen_at": "2026-10-18T17:30:24.478584Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "ai_model",
@@ -11439,7 +11249,7 @@
       "url": "https://h9p3r.fr",
       "published_at": "2026-10-18T16:44:19Z",
       "first_seen_at": "2026-10-18T17:30:24.478584Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.78,
       "ai_label": "ai_model",
@@ -11483,7 +11293,7 @@
       "url": "https://www.v2ex.com/t/1249837",
       "published_at": "2026-10-18T16:43:45Z",
       "first_seen_at": "2026-10-18T17:30:24.478584Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.68,
       "ai_label": "chip_semi",
@@ -11551,7 +11361,7 @@
       "url": "https://www.v2ex.com/t/1249832",
       "published_at": "2026-10-18T16:23:07Z",
       "first_seen_at": "2026-10-18T16:26:34.529941Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "ai_model",
@@ -11583,7 +11393,7 @@
       "url": "https://news.ycombinator.com/item?id=50142449",
       "published_at": "2026-10-18T16:20:27Z",
       "first_seen_at": "2026-10-18T17:30:24.478584Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.68,
       "ai_label": "chip_semi",
@@ -11640,7 +11450,7 @@
       "url": "https://juejin.cn/post/7696822189491912742",
       "published_at": "2026-10-18T16:00:45.123000Z",
       "first_seen_at": "2026-10-18T16:26:34.529941Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "ai_model",
@@ -11686,7 +11496,7 @@
       "url": "https://www.androidpolice.com/pixelify-your-android-phone",
       "published_at": "2026-10-18T16:00:13Z",
       "first_seen_at": "2026-10-18T16:26:34.529941Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.73,
       "ai_label": "software_saas",
@@ -11729,7 +11539,7 @@
       "url": "https://www.techmeme.com/261018/p8",
       "published_at": "2026-10-18T15:30:01Z",
       "first_seen_at": "2026-10-18T16:26:34.529941Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.7,
       "ai_label": "software_saas",
@@ -11780,7 +11590,7 @@
       "url": "https://www.v2ex.com/t/1249830",
       "published_at": "2026-10-18T15:28:06Z",
       "first_seen_at": "2026-10-18T16:26:34.529941Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "ai_model",
@@ -11812,7 +11622,7 @@
       "url": "https://www.macrumors.com/2026/10/18/iphone-duo-battery-capacity",
       "published_at": "2026-10-18T15:07:06Z",
       "first_seen_at": "2026-10-18T16:26:34.529941Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.7,
       "ai_label": "software_saas",
@@ -11904,7 +11714,7 @@
       "url": "https://www.v2ex.com/t/1249822",
       "published_at": "2026-10-18T14:34:05Z",
       "first_seen_at": "2026-10-18T16:26:34.529941Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "tech_general",
@@ -11936,7 +11746,7 @@
       "url": "https://www.macrumors.com/2026/10/18/gurman-says-iphone-duo-preorders-major-mistake",
       "published_at": "2026-10-18T14:33:47Z",
       "first_seen_at": "2026-10-18T16:26:34.529941Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.7,
       "ai_label": "software_saas",
@@ -12034,7 +11844,7 @@
       "url": "https://www.techradar.com/phones/iphone/nothing-short-of-extraordinary-high-iphone-duo-demand-means-you-probably-wont-be-able-to-pick-up-apples-foldable-by-walking-into-a-store-on-october-23",
       "published_at": "2026-10-18T14:30:00Z",
       "first_seen_at": "2026-10-18T16:26:34.529941Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.7,
       "ai_label": "software_saas",
@@ -12084,7 +11894,7 @@
       "url": "https://www.v2ex.com/t/1249819",
       "published_at": "2026-10-18T14:24:00Z",
       "first_seen_at": "2026-10-18T16:26:34.529941Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "robotics",
@@ -12195,7 +12005,7 @@
       "url": "https://www.androidpolice.com/i-am-ditching-pixel-watch-4-for-fitbit-air-heres-why",
       "published_at": "2026-10-18T13:30:13Z",
       "first_seen_at": "2026-10-18T16:26:34.529941Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.76,
       "ai_label": "software_saas",
@@ -12240,7 +12050,7 @@
       "url": "https://www.androidpolice.com/fitbit-edge-middle-ground-between-air-and-pixel-watch-5-misses-point-of-both",
       "published_at": "2026-10-18T12:45:13Z",
       "first_seen_at": "2026-10-18T16:26:34.529941Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.76,
       "ai_label": "software_saas",
@@ -12328,7 +12138,7 @@
       "url": "https://www.producthunt.com/products/3am-super-intelligence",
       "published_at": "2026-10-18T12:02:13.324000Z",
       "first_seen_at": "2026-10-18T12:01:10.358224Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "chip_semi",
@@ -12416,7 +12226,7 @@
       "url": "https://juejin.cn/post/7697104677602803739",
       "published_at": "2026-10-18T12:02:13.324000Z",
       "first_seen_at": "2026-10-18T12:01:10.358224Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.67,
       "ai_label": "ai_model",
@@ -12460,7 +12270,7 @@
       "url": "https://juejin.cn/post/7672849477074616383",
       "published_at": "2026-10-18T12:02:13.324000Z",
       "first_seen_at": "2026-10-18T12:01:10.358224Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.7,
       "ai_label": "ai_model",
@@ -12503,7 +12313,7 @@
       "url": "https://juejin.cn/post/7696736365812940851",
       "published_at": "2026-10-18T12:02:13.324000Z",
       "first_seen_at": "2026-10-18T12:01:10.358224Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.62,
       "ai_label": "ai_model",
@@ -12533,7 +12343,7 @@
       "url": "https://www.producthunt.com/products/tomo-for-chatgpt",
       "published_at": "2026-10-18T12:02:13.324000Z",
       "first_seen_at": "2026-10-18T12:01:10.358224Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "ai_model",
@@ -12565,7 +12375,7 @@
       "url": "https://github.com/mlabonne/llm-course",
       "published_at": "2026-10-18T12:02:13.324000Z",
       "first_seen_at": "2026-10-18T12:01:10.358224Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "ai_model",
@@ -12607,7 +12417,7 @@
       "url": "https://juejin.cn/post/7697056782357037099",
       "published_at": "2026-10-18T12:02:13.324000Z",
       "first_seen_at": "2026-10-18T12:01:10.358224Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.68,
       "ai_label": "ai_model",
@@ -12750,7 +12560,7 @@
       "url": "https://www.androidpolice.com/turned-google-keep-into-my-personal-assistant-with-gemini",
       "published_at": "2026-10-18T11:00:13Z",
       "first_seen_at": "2026-10-18T12:01:10.358224Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.73,
       "ai_label": "ai_model",
@@ -12876,7 +12686,7 @@
       "url": "https://www.androidpolice.com/skip-intel-googlebooks-for-now",
       "published_at": "2026-10-18T10:00:13Z",
       "first_seen_at": "2026-10-18T12:01:10.358224Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.73,
       "ai_label": "chip_semi",
@@ -13051,7 +12861,7 @@
       "url": "https://api-docs.deepseek.com/guides/search",
       "published_at": "2026-10-18T08:37:12.821000Z",
       "first_seen_at": "2026-10-18T12:01:10.358224Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.73,
       "ai_label": "ai_model",
@@ -13252,7 +13062,7 @@
       "url": "https://mashable.com/tech/oct-18-free-apple-iphone-18-deal",
       "published_at": "2026-10-18T07:00:00Z",
       "first_seen_at": "2026-10-18T12:01:10.358224Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.73,
       "ai_label": "software_saas",
@@ -13345,7 +13155,7 @@
       "url": "https://news.ycombinator.com/item?id=50138531",
       "published_at": "2026-10-18T06:50:36Z",
       "first_seen_at": "2026-10-18T07:23:48.144406Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "ai_model",
@@ -13423,7 +13233,7 @@
       "url": "https://www.techmeme.com/261018/p4",
       "published_at": "2026-10-18T06:05:00Z",
       "first_seen_at": "2026-10-18T07:23:48.144406Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.79,
       "ai_label": "chip_semi",
@@ -13503,7 +13313,7 @@
       "url": "https://www.techmeme.com/261018/p2",
       "published_at": "2026-10-18T05:10:01Z",
       "first_seen_at": "2026-10-18T07:23:48.144406Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.75,
       "ai_label": "ai_model",
@@ -13606,7 +13416,7 @@
       "url": "https://yro.slashdot.org/story/26/10/18/0323207/saudi-openai-employees-arrest-revives-fears-us-tech-companies-are-hiring-spies",
       "published_at": "2026-10-18T04:34:00Z",
       "first_seen_at": "2026-10-18T07:23:48.144406Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.73,
       "ai_label": "ai_product",
@@ -13822,7 +13632,7 @@
       "url": "https://www.techmeme.com/261017/p20",
       "published_at": "2026-10-18T01:20:02Z",
       "first_seen_at": "2026-10-18T07:23:48.144406Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.78,
       "ai_label": "ai_model",
@@ -14017,7 +13827,7 @@
       "url": "https://www.androidpolice.com/i-tried-eqsweep-on-my-pixel-buds-and-now-my-music-sounds-dramatically-better",
       "published_at": "2026-10-17T23:00:13Z",
       "first_seen_at": "2026-10-18T00:14:50.692022Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.73,
       "ai_label": "software_saas",
@@ -14060,7 +13870,7 @@
       "url": "https://www.macrumors.com/2026/10/17/staff-warn-against-iphone-duo-walk-ins",
       "published_at": "2026-10-17T21:30:45Z",
       "first_seen_at": "2026-10-17T22:35:51.450530Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.73,
       "ai_label": "software_saas",
@@ -14112,7 +13922,7 @@
       "url": "https://alignment.openai.com/misalignment-reports/retrieving-server-secrets-and-bypassing-authorization-on-a-government-statistics-website",
       "published_at": "2026-10-17T21:09:40Z",
       "first_seen_at": "2026-10-18T07:23:48.144406Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.78,
       "ai_label": "ai_model",
@@ -14159,7 +13969,7 @@
       "url": "https://www.techmeme.com/261017/p18",
       "published_at": "2026-10-17T20:50:01Z",
       "first_seen_at": "2026-10-17T22:35:51.450530Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.7,
       "ai_label": "ai_model",
@@ -14257,7 +14067,7 @@
       "url": "https://newsletter.danielpaleka.com/p/the-math-that-openai-keeps-for-itself",
       "published_at": "2026-10-17T19:22:52Z",
       "first_seen_at": "2026-10-18T07:23:48.144406Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.68,
       "ai_label": "ai_product",
@@ -14296,636 +14106,6 @@
       "title_bilingual": "OpenAI 保留自己的数学知识 / The math that OpenAI keeps for itself"
     },
     {
-      "id": "a3297038fde279329518cbac6dd672063aaa53d2",
-      "site_id": "buzzing",
-      "site_name": "Buzzing",
-      "source": "fortune.com",
-      "title": "OpenAI披露了另外四起违规事件",
-      "url": "https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data",
-      "published_at": "2026-10-17T19:22:11.943000Z",
-      "first_seen_at": "2026-10-17T22:35:51.450530Z",
-      "last_seen_at": "2026-10-18T12:45:54.488349Z",
-      "ai_is_related": true,
-      "ai_score": 0.73,
-      "ai_label": "ai_product",
-      "ai_relevance_reason": "matched_strong_tech_signal",
-      "ai_signals": [
-        "ai",
-        "openai"
-      ],
-      "ai_noise": [],
-      "tech_is_related": true,
-      "tech_score": 0.73,
-      "tech_label": "ai_product",
-      "source_tier": "discussion",
-      "source_tier_label": "热议参考",
-      "source_tier_rank": 5,
-      "direction": "security_governance",
-      "direction_hits": [
-        {
-          "direction_id": "security_governance",
-          "score": 0.78,
-          "matched_keywords": [
-            "ai",
-            "data"
-          ],
-          "companies": []
-        },
-        {
-          "direction_id": "ai_models_apps",
-          "score": 0.75,
-          "matched_keywords": [
-            "openai",
-            "openai"
-          ],
-          "companies": [
-            "openai"
-          ]
-        }
-      ],
-      "companies": [
-        "openai"
-      ],
-      "title_original": "OpenAI披露了另外四起违规事件",
-      "title_en": null,
-      "title_zh": "OpenAI披露了另外四起违规事件",
-      "title_bilingual": "OpenAI披露了另外四起违规事件"
-    },
-    {
-      "id": "569f9d1f91b9f78f601f4a54c5b505c863e4df03",
-      "site_id": "techurls",
-      "site_name": "TechURLs",
-      "source": "TechRadar",
-      "title": "Microsoft's Maia 300 swaps raw compute for a 2.5x memory bandwidth gain as it moves to make in-house silicon its main AI engine while claiming a 40% efficiency bump — could going the Google route be the pin that pops the Nvidia AI bubble?",
-      "url": "https://www.techradar.com/pro/microsofts-maia-300-swaps-raw-compute-for-a-2-5x-memory-bandwidth-gain-as-it-moves-to-make-in-house-silicon-its-main-ai-engine-while-claiming-a-40-percent-efficiency-bump-could-going-the-google-route-be-the-pin-that-pops-the-nvidia-ai-bubble",
-      "published_at": "2026-10-17T19:20:00Z",
-      "first_seen_at": "2026-10-17T22:35:51.450530Z",
-      "last_seen_at": "2026-10-18T07:23:48.144406Z",
-      "ai_is_related": true,
-      "ai_score": 0.76,
-      "ai_label": "chip_semi",
-      "ai_relevance_reason": "matched_strong_tech_signal",
-      "ai_signals": [
-        "ai",
-        "nvidia",
-        "silicon"
-      ],
-      "ai_noise": [],
-      "tech_is_related": true,
-      "tech_score": 0.76,
-      "tech_label": "chip_semi",
-      "source_tier": "discussion",
-      "source_tier_label": "热议参考",
-      "source_tier_rank": 5,
-      "direction": "compute_dc",
-      "direction_hits": [
-        {
-          "direction_id": "compute_dc",
-          "score": 0.75,
-          "matched_keywords": [
-            "nvidia",
-            "nvidia"
-          ],
-          "companies": [
-            "nvidia"
-          ]
-        },
-        {
-          "direction_id": "semiconductor",
-          "score": 0.75,
-          "matched_keywords": [
-            "co",
-            "nvidia"
-          ],
-          "companies": [
-            "nvidia"
-          ]
-        },
-        {
-          "direction_id": "autonomous_hardware",
-          "score": 0.75,
-          "matched_keywords": [
-            "nvidia"
-          ],
-          "companies": [
-            "nvidia"
-          ]
-        },
-        {
-          "direction_id": "ai_models_apps",
-          "score": 0.75,
-          "matched_keywords": [
-            "google"
-          ],
-          "companies": [
-            "google"
-          ]
-        }
-      ],
-      "companies": [
-        "nvidia",
-        "google"
-      ],
-      "title_original": "Microsoft's Maia 300 swaps raw compute for a 2.5x memory bandwidth gain as it moves to make in-house silicon its main AI engine while claiming a 40% efficiency bump — could going the Google route be the pin that pops the Nvidia AI bubble?",
-      "title_en": "Microsoft's Maia 300 swaps raw compute for a 2.5x memory bandwidth gain as it moves to make in-house silicon its main AI engine while claiming a 40% efficiency bump — could going the Google route be the pin that pops the Nvidia AI bubble?",
-      "title_zh": null,
-      "title_bilingual": "Microsoft's Maia 300 swaps raw compute for a 2.5x memory bandwidth gain as it moves to make in-house silicon its main AI engine while claiming a 40% efficiency bump — could going the Google route be the pin that pops the Nvidia AI bubble?"
-    },
-    {
-      "id": "233b0dee6d00e871394ff5c9d2bffa785e95a8cf",
-      "site_id": "techurls",
-      "site_name": "TechURLs",
-      "source": "The Next Web",
-      "title": "Sergey Brin says Gemini now helps build the next Gemini",
-      "url": "https://thenextweb.com/news/sergey-brin-gemini-recursive-self-improvement-safety-report",
-      "published_at": "2026-10-17T19:08:40Z",
-      "first_seen_at": "2026-10-17T22:35:51.450530Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
-      "ai_is_related": true,
-      "ai_score": 0.7,
-      "ai_label": "ai_model",
-      "ai_relevance_reason": "matched_strong_tech_signal",
-      "ai_signals": [
-        "gemini"
-      ],
-      "ai_noise": [],
-      "tech_is_related": true,
-      "tech_score": 0.7,
-      "tech_label": "ai_model",
-      "source_tier": "discussion",
-      "source_tier_label": "热议参考",
-      "source_tier_rank": 5,
-      "direction": "ai_models_apps",
-      "direction_hits": [
-        {
-          "direction_id": "ai_models_apps",
-          "score": 0.75,
-          "matched_keywords": [
-            "gemini",
-            "gemini"
-          ],
-          "companies": [
-            "gemini"
-          ]
-        }
-      ],
-      "companies": [
-        "gemini"
-      ],
-      "title_original": "Sergey Brin says Gemini now helps build the next Gemini",
-      "title_en": "Sergey Brin says Gemini now helps build the next Gemini",
-      "title_zh": "谢尔盖·布林表示，Gemini现在正在帮助打造下一个Gemini",
-      "title_bilingual": "谢尔盖·布林表示，Gemini现在正在帮助打造下一个Gemini / Sergey Brin says Gemini now helps build the next Gemini"
-    },
-    {
-      "id": "171f92e490f6cf0f32d9461e3379f9e18cc4488f",
-      "site_id": "techurls",
-      "site_name": "TechURLs",
-      "source": "Android Police",
-      "title": "Liquid cooling finally made a Qi2 power bank worth it for my Pixel 11 Pro",
-      "url": "https://www.androidpolice.com/ugreeen-magflow-pro-liquid-cooling-pixel-11",
-      "published_at": "2026-10-17T19:00:13Z",
-      "first_seen_at": "2026-10-17T22:35:51.450530Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
-      "ai_is_related": true,
-      "ai_score": 0.73,
-      "ai_label": "software_saas",
-      "ai_relevance_reason": "matched_strong_tech_signal",
-      "ai_signals": [
-        "android",
-        "pixel"
-      ],
-      "ai_noise": [],
-      "tech_is_related": true,
-      "tech_score": 0.73,
-      "tech_label": "software_saas",
-      "source_tier": "discussion",
-      "source_tier_label": "热议参考",
-      "source_tier_rank": 5,
-      "direction": "ai_terminal",
-      "direction_hits": [
-        {
-          "direction_id": "ai_terminal",
-          "score": 1.19,
-          "matched_keywords": [
-            "pixel",
-            "android"
-          ],
-          "companies": []
-        }
-      ],
-      "companies": [],
-      "title_original": "Liquid cooling finally made a Qi2 power bank worth it for my Pixel 11 Pro",
-      "title_en": "Liquid cooling finally made a Qi2 power bank worth it for my Pixel 11 Pro",
-      "title_zh": "液体冷却终于让我的 Pixel 11 Pro 值得购买 Qi2 移动电源",
-      "title_bilingual": "液体冷却终于让我的 Pixel 11 Pro 值得购买 Qi2 移动电源 / Liquid cooling finally made a Qi2 power bank worth it for my Pixel 11 Pro"
-    },
-    {
-      "id": "e1535b0dc52db736dfb209546a7f46eb77cef765",
-      "site_id": "newsnow",
-      "site_name": "NewsNow",
-      "source": "sspai",
-      "title": "带给摄影师更多自由：Austin Mann 评 iPhone 18 Pro 影像体验",
-      "url": "https://sspai.com/post/115426",
-      "published_at": "2026-10-17T18:35:03.646000Z",
-      "first_seen_at": "2026-10-17T18:45:54.115746Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
-      "ai_is_related": true,
-      "ai_score": 0.68,
-      "ai_label": "consumer_hw",
-      "ai_relevance_reason": "matched_strong_tech_signal",
-      "ai_signals": [
-        "ai",
-        "iphone"
-      ],
-      "ai_noise": [],
-      "tech_is_related": true,
-      "tech_score": 0.68,
-      "tech_label": "consumer_hw",
-      "source_tier": "discussion",
-      "source_tier_label": "热议参考",
-      "source_tier_rank": 5,
-      "direction": "ai_terminal",
-      "direction_hits": [
-        {
-          "direction_id": "ai_terminal",
-          "score": 0.75,
-          "matched_keywords": [
-            "iphone",
-            "iphone"
-          ],
-          "companies": [
-            "iphone"
-          ]
-        }
-      ],
-      "companies": [
-        "iphone"
-      ],
-      "title_original": "带给摄影师更多自由：Austin Mann 评 iPhone 18 Pro 影像体验",
-      "title_en": null,
-      "title_zh": "带给摄影师更多自由：Austin Mann 评 iPhone 18 Pro 影像体验",
-      "title_bilingual": "带给摄影师更多自由：Austin Mann 评 iPhone 18 Pro 影像体验"
-    },
-    {
-      "id": "948c145d79facd298f05f16806d04ef6da86e21c",
-      "site_id": "buzzing",
-      "site_name": "Buzzing",
-      "source": "www.opendemocracy.net",
-      "title": "亚马逊利用人工智能监测英国仓库的工会风险",
-      "url": "https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield",
-      "published_at": "2026-10-17T18:34:06.954000Z",
-      "first_seen_at": "2026-10-17T18:45:54.115746Z",
-      "last_seen_at": "2026-10-18T07:23:48.144406Z",
-      "ai_is_related": true,
-      "ai_score": 0.73,
-      "ai_label": "tech_general",
-      "ai_relevance_reason": "matched_strong_tech_signal",
-      "ai_signals": [
-        "亚马逊",
-        "人工智能"
-      ],
-      "ai_noise": [],
-      "tech_is_related": true,
-      "tech_score": 0.73,
-      "tech_label": "tech_general",
-      "source_tier": "discussion",
-      "source_tier_label": "热议参考",
-      "source_tier_rank": 5,
-      "direction": "autonomous_vehicle",
-      "direction_hits": [
-        {
-          "direction_id": "autonomous_vehicle",
-          "score": 0.75,
-          "matched_keywords": [
-            "nio",
-            "nio"
-          ],
-          "companies": [
-            "nio"
-          ]
-        }
-      ],
-      "companies": [
-        "nio"
-      ],
-      "title_original": "亚马逊利用人工智能监测英国仓库的工会风险",
-      "title_en": null,
-      "title_zh": "亚马逊利用人工智能监测英国仓库的工会风险",
-      "title_bilingual": "亚马逊利用人工智能监测英国仓库的工会风险"
-    },
-    {
-      "id": "2c6685b39a4d7d1a442786e8d5691926352516bf",
-      "site_id": "techurls",
-      "site_name": "TechURLs",
-      "source": "The Next Web",
-      "title": "Robots and AI could reach 80% of work but rarely cheaply, Anthropic says",
-      "url": "https://thenextweb.com/news/robots-and-ai-could-reach-80-of-work-but-rarely-cheaply-anthropic-says",
-      "published_at": "2026-10-17T18:16:16Z",
-      "first_seen_at": "2026-10-17T18:45:54.115746Z",
-      "last_seen_at": "2026-10-18T12:01:10.358224Z",
-      "ai_is_related": true,
-      "ai_score": 0.79,
-      "ai_label": "robotics",
-      "ai_relevance_reason": "matched_strong_tech_signal",
-      "ai_signals": [
-        "ai",
-        "anthropic",
-        "robot",
-        "robots"
-      ],
-      "ai_noise": [],
-      "tech_is_related": true,
-      "tech_score": 0.79,
-      "tech_label": "robotics",
-      "source_tier": "discussion",
-      "source_tier_label": "热议参考",
-      "source_tier_rank": 5,
-      "direction": "ai_models_apps",
-      "direction_hits": [
-        {
-          "direction_id": "ai_models_apps",
-          "score": 0.75,
-          "matched_keywords": [
-            "anthropic",
-            "anthropic"
-          ],
-          "companies": [
-            "anthropic"
-          ]
-        }
-      ],
-      "companies": [
-        "anthropic"
-      ],
-      "title_original": "Robots and AI could reach 80% of work but rarely cheaply, Anthropic says",
-      "title_en": "Robots and AI could reach 80% of work but rarely cheaply, Anthropic says",
-      "title_zh": "Anthropic 表示，机器人和人工智能可以完成 80% 的工作，但成本很少",
-      "title_bilingual": "Anthropic 表示，机器人和人工智能可以完成 80% 的工作，但成本很少 / Robots and AI could reach 80% of work but rarely cheaply, Anthropic says"
-    },
-    {
-      "id": "08a5db4d9ebfb56439df96a5ceb15534112cf38b",
-      "site_id": "zeli",
-      "site_name": "Zeli",
-      "source": "Hacker News · 24h最热",
-      "title": "Qwen3.8-27B on the iPhone 18 Neural Engine at 15–70 tok/s (1.5 bpw)",
-      "url": "https://twitter.com/anemll/status/2111517143087067309",
-      "published_at": "2026-10-17T18:10:21Z",
-      "first_seen_at": "2026-10-17T19:11:29.184301Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
-      "ai_is_related": true,
-      "ai_score": 0.65,
-      "ai_label": "consumer_hw",
-      "ai_relevance_reason": "matched_strong_tech_signal",
-      "ai_signals": [
-        "iphone"
-      ],
-      "ai_noise": [],
-      "tech_is_related": true,
-      "tech_score": 0.65,
-      "tech_label": "consumer_hw",
-      "source_tier": "discussion",
-      "source_tier_label": "热议参考",
-      "source_tier_rank": 5,
-      "direction": "ai_terminal",
-      "direction_hits": [
-        {
-          "direction_id": "ai_terminal",
-          "score": 0.75,
-          "matched_keywords": [
-            "iphone",
-            "iphone"
-          ],
-          "companies": [
-            "iphone"
-          ]
-        }
-      ],
-      "companies": [
-        "iphone"
-      ],
-      "title_original": "Qwen3.8-27B on the iPhone 18 Neural Engine at 15–70 tok/s (1.5 bpw)",
-      "title_en": "Qwen3.8-27B on the iPhone 18 Neural Engine at 15–70 tok/s (1.5 bpw)",
-      "title_zh": "iPhone 18 神经引擎上的 Qwen3.8-27B，速度为 15–70 tok/s (1.5 bpw)",
-      "title_bilingual": "iPhone 18 神经引擎上的 Qwen3.8-27B，速度为 15–70 tok/s (1.5 bpw) / Qwen3.8-27B on the iPhone 18 Neural Engine at 15–70 tok/s (1.5 bpw)"
-    },
-    {
-      "id": "ef0141a13fa7f4e1737d852dbd1f867e900ab245",
-      "site_id": "techurls",
-      "site_name": "TechURLs",
-      "source": "The Next Web",
-      "title": "Musk tells Isaacson only AI and robots can fix US debt, Axios reports",
-      "url": "https://thenextweb.com/news/musk-tells-isaacson-only-ai-and-robots-can-fix-us-debt-axios-reports",
-      "published_at": "2026-10-17T18:06:35Z",
-      "first_seen_at": "2026-10-17T18:45:54.115746Z",
-      "last_seen_at": "2026-10-18T12:01:10.358224Z",
-      "ai_is_related": true,
-      "ai_score": 0.57,
-      "ai_label": "robotics",
-      "ai_relevance_reason": "matched_tech_signal",
-      "ai_signals": [
-        "ai",
-        "ios",
-        "robot",
-        "robots"
-      ],
-      "ai_noise": [],
-      "tech_is_related": true,
-      "tech_score": 0.57,
-      "tech_label": "robotics",
-      "source_tier": "discussion",
-      "source_tier_label": "热议参考",
-      "source_tier_rank": 5,
-      "direction": "",
-      "direction_hits": [],
-      "companies": [],
-      "title_original": "Musk tells Isaacson only AI and robots can fix US debt, Axios reports",
-      "title_en": "Musk tells Isaacson only AI and robots can fix US debt, Axios reports",
-      "title_zh": "据 Axios 报道，马斯克告诉艾萨克森，只有人工智能和机器人才能解决美国债务问题",
-      "title_bilingual": "据 Axios 报道，马斯克告诉艾萨克森，只有人工智能和机器人才能解决美国债务问题 / Musk tells Isaacson only AI and robots can fix US debt, Axios reports"
-    },
-    {
-      "id": "716e61ffe4b824a847c555acdbb2dfed00364f8a",
-      "site_id": "techurls",
-      "site_name": "TechURLs",
-      "source": "The Next Web",
-      "title": "TSMC posts a sixth straight record profit but turns cautious on 2027",
-      "url": "https://thenextweb.com/news/tsmc-q3-2026-record-profit-prudent-2027",
-      "published_at": "2026-10-17T18:02:28Z",
-      "first_seen_at": "2026-10-17T18:45:54.115746Z",
-      "last_seen_at": "2026-10-18T12:01:10.358224Z",
-      "ai_is_related": true,
-      "ai_score": 0.73,
-      "ai_label": "chip_semi",
-      "ai_relevance_reason": "matched_strong_tech_signal",
-      "ai_signals": [
-        "ai",
-        "tsmc"
-      ],
-      "ai_noise": [],
-      "tech_is_related": true,
-      "tech_score": 0.73,
-      "tech_label": "chip_semi",
-      "source_tier": "discussion",
-      "source_tier_label": "热议参考",
-      "source_tier_rank": 5,
-      "direction": "semiconductor",
-      "direction_hits": [
-        {
-          "direction_id": "semiconductor",
-          "score": 0.75,
-          "matched_keywords": [
-            "co",
-            "tsmc"
-          ],
-          "companies": [
-            "tsmc"
-          ]
-        }
-      ],
-      "companies": [
-        "tsmc"
-      ],
-      "title_original": "TSMC posts a sixth straight record profit but turns cautious on 2027",
-      "title_en": "TSMC posts a sixth straight record profit but turns cautious on 2027",
-      "title_zh": "台积电连续第六年盈利创纪录，但对 2027 年持谨慎态度",
-      "title_bilingual": "台积电连续第六年盈利创纪录，但对 2027 年持谨慎态度 / TSMC posts a sixth straight record profit but turns cautious on 2027"
-    },
-    {
-      "id": "80cde23d90876bb1f927d8a3742125fd4bc8a0ad",
-      "site_id": "techurls",
-      "site_name": "TechURLs",
-      "source": "Slashdot",
-      "title": "Deno Acquired by Cloudflare, Will Work on Open Source Self-Hosting Platform for Applications",
-      "url": "https://developers.slashdot.org/story/26/10/17/0549255/deno-acquired-by-cloudflare-will-work-on-open-source-self-hosting-platform-for-applications",
-      "published_at": "2026-10-17T18:00:00Z",
-      "first_seen_at": "2026-10-17T18:45:54.115746Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
-      "ai_is_related": true,
-      "ai_score": 0.57,
-      "ai_label": "dev_tool",
-      "ai_relevance_reason": "matched_tech_signal",
-      "ai_signals": [
-        "cloud",
-        "developer",
-        "developers",
-        "open source"
-      ],
-      "ai_noise": [],
-      "tech_is_related": true,
-      "tech_score": 0.57,
-      "tech_label": "dev_tool",
-      "source_tier": "discussion",
-      "source_tier_label": "热议参考",
-      "source_tier_rank": 5,
-      "direction": "",
-      "direction_hits": [],
-      "companies": [],
-      "title_original": "Deno Acquired by Cloudflare, Will Work on Open Source Self-Hosting Platform for Applications",
-      "title_en": "Deno Acquired by Cloudflare, Will Work on Open Source Self-Hosting Platform for Applications",
-      "title_zh": "Deno 被 Cloudflare 收购，将致力于开发应用程序的开源自托管平台",
-      "title_bilingual": "Deno 被 Cloudflare 收购，将致力于开发应用程序的开源自托管平台 / Deno Acquired by Cloudflare, Will Work on Open Source Self-Hosting Platform for Applications"
-    },
-    {
-      "id": "5cc4992bb13ed0ca4080ae744932a2277aa6ba78",
-      "site_id": "iris",
-      "site_name": "Info Flow",
-      "source": "V2EX (创意工作者社区)",
-      "title": "[OpenAI] tibo 发推了，还有额度的赶紧用，重置卡先留着",
-      "url": "https://www.v2ex.com/t/1249683",
-      "published_at": "2026-10-17T17:58:59Z",
-      "first_seen_at": "2026-10-17T18:45:54.115746Z",
-      "last_seen_at": "2026-10-18T00:14:50.692022Z",
-      "ai_is_related": true,
-      "ai_score": 0.68,
-      "ai_label": "ai_product",
-      "ai_relevance_reason": "matched_strong_tech_signal",
-      "ai_signals": [
-        "ai",
-        "openai"
-      ],
-      "ai_noise": [],
-      "tech_is_related": true,
-      "tech_score": 0.68,
-      "tech_label": "ai_product",
-      "source_tier": "discussion",
-      "source_tier_label": "热议参考",
-      "source_tier_rank": 5,
-      "direction": "ai_models_apps",
-      "direction_hits": [
-        {
-          "direction_id": "ai_models_apps",
-          "score": 0.75,
-          "matched_keywords": [
-            "openai",
-            "openai"
-          ],
-          "companies": [
-            "openai"
-          ]
-        }
-      ],
-      "companies": [
-        "openai"
-      ],
-      "title_original": "[OpenAI] tibo 发推了，还有额度的赶紧用，重置卡先留着",
-      "title_en": null,
-      "title_zh": "[OpenAI] tibo 发推了，还有额度的赶紧用，重置卡先留着",
-      "title_bilingual": "[OpenAI] tibo 发推了，还有额度的赶紧用，重置卡先留着"
-    },
-    {
-      "id": "353af148033fc472acc10adcb71832e7cede5fdf",
-      "site_id": "techurls",
-      "site_name": "TechURLs",
-      "source": "The Next Web",
-      "title": "FTC subpoenas OpenAI and Anthropic over AI safety incidents",
-      "url": "https://thenextweb.com/news/ftc-subpoenas-openai-anthropic-ai-safety-incidents",
-      "published_at": "2026-10-17T17:51:58Z",
-      "first_seen_at": "2026-10-17T18:45:54.115746Z",
-      "last_seen_at": "2026-10-18T12:01:10.358224Z",
-      "ai_is_related": true,
-      "ai_score": 0.78,
-      "ai_label": "ai_product",
-      "ai_relevance_reason": "matched_strong_tech_signal",
-      "ai_signals": [
-        "ai",
-        "anthropic",
-        "openai"
-      ],
-      "ai_noise": [],
-      "tech_is_related": true,
-      "tech_score": 0.78,
-      "tech_label": "ai_product",
-      "source_tier": "discussion",
-      "source_tier_label": "热议参考",
-      "source_tier_rank": 5,
-      "direction": "ai_models_apps",
-      "direction_hits": [
-        {
-          "direction_id": "ai_models_apps",
-          "score": 2.77,
-          "matched_keywords": [
-            "openai",
-            "anthropic",
-            "anthropic",
-            "openai"
-          ],
-          "companies": [
-            "anthropic",
-            "openai"
-          ]
-        }
-      ],
-      "companies": [
-        "anthropic",
-        "openai"
-      ],
-      "title_original": "FTC subpoenas OpenAI and Anthropic over AI safety incidents",
-      "title_en": "FTC subpoenas OpenAI and Anthropic over AI safety incidents",
-      "title_zh": "FTC 因人工智能安全事件向 OpenAI 和 Anthropic 发出传票",
-      "title_bilingual": "FTC 因人工智能安全事件向 OpenAI 和 Anthropic 发出传票 / FTC subpoenas OpenAI and Anthropic over AI safety incidents"
-    },
-    {
       "id": "c296ccad419c057b398b3ddd2d13e32e32939c16",
       "site_id": "sector_sources",
       "site_name": "Sector Sources",
@@ -14934,7 +14114,7 @@
       "url": "https://www.ithome.com/1/014/613.htm",
       "published_at": "2026-10-18T15:01:01Z",
       "first_seen_at": "2026-10-18T16:26:34.529941Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.63,
       "ai_label": "consumer_hw",
@@ -14985,7 +14165,7 @@
       "url": "https://www.ithome.com/1/014/612.htm",
       "published_at": "2026-10-18T14:51:53Z",
       "first_seen_at": "2026-10-18T16:26:34.529941Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.68,
       "ai_label": "chip_semi",
@@ -15069,7 +14249,7 @@
       "url": "https://www.ithome.com/1/014/599.htm",
       "published_at": "2026-10-18T14:05:49Z",
       "first_seen_at": "2026-10-18T16:26:34.529941Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.6,
       "ai_label": "consumer_hw",
@@ -15118,7 +14298,7 @@
       "url": "https://www.ithome.com/1/014/598.htm",
       "published_at": "2026-10-18T13:49:42Z",
       "first_seen_at": "2026-10-18T16:26:34.529941Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.6,
       "ai_label": "chip_semi",
@@ -15185,7 +14365,7 @@
       "url": "https://www.ithome.com/1/014/595.htm",
       "published_at": "2026-10-18T13:25:18Z",
       "first_seen_at": "2026-10-18T16:26:34.529941Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.63,
       "ai_label": "ai_model",
@@ -15264,7 +14444,7 @@
       "url": "https://www.ithome.com/1/014/587.htm",
       "published_at": "2026-10-18T11:59:52Z",
       "first_seen_at": "2026-10-18T12:01:10.358224Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.63,
       "ai_label": "ai_model",
@@ -15448,7 +14628,7 @@
       "url": "https://www.leiphone.com/category/chips/DnZbjQYkyrBmdOAJ.html",
       "published_at": "2026-10-18T04:47:00Z",
       "first_seen_at": "2026-10-18T07:23:48.144406Z",
-      "last_seen_at": "2026-10-18T17:30:24.478584Z",
+      "last_seen_at": "2026-10-18T19:22:16.592922Z",
       "ai_is_related": true,
       "ai_score": 0.6,
       "ai_label": "consumer_hw",
