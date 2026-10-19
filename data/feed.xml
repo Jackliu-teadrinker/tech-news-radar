@@ -5,8 +5,16 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Mon, 19 Oct 2026 15:49:49 +0000</lastBuildDate>
+<lastBuildDate>Mon, 19 Oct 2026 20:30:54 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
+<item>
+<title>如何在 VS Code 中继续 GitHub Copilot 应用程序会话 / How to continue a GitHub Copilot app session in VS Code</title>
+<link>https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code</link>
+<guid isPermaLink="true">https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code</guid>
+<description>GitHub AI &amp; ML</description>
+<category>官方更新</category>
+<pubDate>Mon, 19 Oct 2026 18:47:22 +0000</pubDate>
+</item>
 <item>
 <title>macOS 27、Xcode 27 和 Swift 6.4 的 CodeQL 更改 / CodeQL changes for macOS 27, Xcode 27, and Swift 6.4</title>
 <link>https://github.blog/changelog/2026-10-19-codeql-changes-for-macos-27-xcode-27-and-swift-6-4</link>
@@ -14,6 +22,14 @@
 <description>GitHub Changelog</description>
 <category>官方更新</category>
 <pubDate>Mon, 19 Oct 2026 10:29:09 +0000</pubDate>
+</item>
+<item>
+<title>TorchNeuron：在 AWS Trainium 上运行 HF 模型比以往更容易 / TorchNeuron: running HF models on AWS Trainium is easier than ever</title>
+<link>https://huggingface.co/blog/hf-torchneuron</link>
+<guid isPermaLink="true">https://huggingface.co/blog/hf-torchneuron</guid>
+<description>Hugging Face Blog</description>
+<category>官方更新</category>
+<pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
 <title>某些基于 HTTPS 的 Git 可能暂时需要身份验证 / Some Git over HTTPS may temporarily require authentication</title>
@@ -24,12 +40,28 @@
 <pubDate>Mon, 19 Oct 2026 10:37:30 +0000</pubDate>
 </item>
 <item>
+<title>DeepSeek-V4.1-Flash-20261017 (Max) 登顶 Agent Arena 开源模型第一 / Big news: DeepSeek-V4.1-Flash-20261017 (Max) by @deepseek_ai is now the #1 open model in Agent Arena! It just landed at #11 overall with ...</title>
+<link>https://x.com/arena/status/2112247114944360666</link>
+<guid isPermaLink="true">https://x.com/arena/status/2112247114944360666</guid>
+<description>Arena 宣布 DeepSeek-V4.1-Flash-20261017 (Max) 成为 Agent Arena 第一开源模型，总排名第 11，基于超 7.5K 真实会话净提升 +5.1%。其中位任务成本 $0.20，约为 GPT-6.1 Sol 提升幅度的 37%、成本的 27%；Confirmed Success 提升 +11.5%，且无 Tool Hallucination 问题。（X：Arena (@arena)）</description>
+<category>行业动态</category>
+<pubDate>Mon, 19 Oct 2026 18:18:50 +0000</pubDate>
+</item>
+<item>
 <title>OpenAI发布ChatGPT扩展程序重大升级，支持跨标签页上下文读取与自动化操作</title>
 <link>https://www.aibase.com/news/31728</link>
 <guid isPermaLink="true">https://www.aibase.com/news/31728</guid>
 <description>AIbase</description>
 <category>行业动态</category>
 <pubDate>Mon, 19 Oct 2026 14:33:46 +0000</pubDate>
+</item>
+<item>
+<title>DeepSeek V4.1 Flash 1017 发布，Artificial Analysis 智能指数得分 45 并列开源模型第二 / DeepSeek V4.1 Flash 1017 scores 45 on the Artificial Analysis Intelligence Index, improving on DeepSeek V4.1 Flash by 6 points, and is th...</title>
+<link>https://x.com/ArtificialAnlys/status/2112218661432000694</link>
+<guid isPermaLink="true">https://x.com/ArtificialAnlys/status/2112218661432000694</guid>
+<description>DeepSeek 发布 DeepSeek V4.1 Flash 1017，在 Artificial Analysis Intelligence Index 得分 45，比 DeepSeek V4.1 Flash 提高 6 分，与 GLM-5.3 并列开源权重模型第二，仅次于 MiMo-V2.6-Pro。（X：Artificial Analysis (@ArtificialAnlys)）</description>
+<category>行业动态</category>
+<pubDate>Mon, 19 Oct 2026 16:25:46 +0000</pubDate>
 </item>
 <item>
 <title>n8n 教程：在 NVIDIA DGX Spark 上离线运行全套 AI 工作流 / Run your n8n AI workflows on NVIDIA DGX Spark, with no cloud API</title>
@@ -64,12 +96,12 @@
 <pubDate>Mon, 19 Oct 2026 14:33:46 +0000</pubDate>
 </item>
 <item>
-<title>Anthropic 自曝就业之变：AI 智能体干活时长碾压人类 6 倍，新人岗位被腰斩</title>
-<link>https://www.aibase.com/news/31716</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31716</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Mon, 19 Oct 2026 08:03:00 +0000</pubDate>
+<title>推出 HN：Laminar (YC S24) – AI 代理的开源可观测性 / Launch HN: Laminar (YC S24) – Open-source observability for AI agents</title>
+<link>https://news.ycombinator.com/item?id=50154029</link>
+<guid isPermaLink="true">https://news.ycombinator.com/item?id=50154029</guid>
+<description>Hacker News front page</description>
+<category>值得关注</category>
+<pubDate>Mon, 19 Oct 2026 16:00:18 +0000</pubDate>
 </item>
 <item>
 <title>Tmux 和 Claude Code：会话、Send-Keys 以及上限 / Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling</title>
@@ -80,14 +112,6 @@
 <pubDate>Mon, 19 Oct 2026 15:02:49 +0000</pubDate>
 </item>
 <item>
-<title>DeepSeek发布API网页搜索与抓取服务:每1000次成功请求收费5元</title>
-<link>https://www.aibase.com/news/31711</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31711</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Mon, 19 Oct 2026 08:03:00 +0000</pubDate>
-</item>
-<item>
 <title>文件：警官将她的 Flock 登录信息交给了她的 ICE 特工丈夫 / Documents: Police officer gave her Flock login to her ICE agent husband</title>
 <link>https://www.wjcl.com/article/savannah-police-officer-ice-agent-flock-access/74135816</link>
 <guid isPermaLink="true">https://www.wjcl.com/article/savannah-police-officer-ice-agent-flock-access/74135816</guid>
@@ -96,12 +120,12 @@
 <pubDate>Mon, 19 Oct 2026 10:45:14 +0000</pubDate>
 </item>
 <item>
-<title>OpenAI狂揽硬件人才，具身智能“终极战”全面打响</title>
-<link>https://www.aibase.com/news/31720</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31720</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Mon, 19 Oct 2026 08:03:00 +0000</pubDate>
+<title>Anthropic 首次公开募股中笼罩着模糊的信任 / The obscure trust looming over Anthropic's IPO</title>
+<link>https://www.wsj.com/tech/ai/anthropic-ipo-private-trust-188f41f7?st=RtdGHg&amp;reflink=desktopwebshare_permalink</link>
+<guid isPermaLink="true">https://www.wsj.com/tech/ai/anthropic-ipo-private-trust-188f41f7?st=RtdGHg&amp;reflink=desktopwebshare_permalink</guid>
+<description>Hacker News front page</description>
+<category>值得关注</category>
+<pubDate>Mon, 19 Oct 2026 12:06:03 +0000</pubDate>
 </item>
 <item>
 <title>DeepSeek V4.1 闪存 1017（最大） / DeepSeek V4.1 Flash 1017 (Max)</title>
@@ -112,44 +136,12 @@
 <pubDate>Mon, 19 Oct 2026 04:41:46 +0000</pubDate>
 </item>
 <item>
-<title>垂直大模型"同源观澜"在福州发布：用 AI 把两岸共同历史记忆"激活"</title>
-<link>https://www.aibase.com/news/31707</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31707</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Mon, 19 Oct 2026 08:03:00 +0000</pubDate>
-</item>
-<item>
-<title>英特尔 8087 芯片：浮点加法和减法 / The Intel 8087 chip: floating-point addition and subtraction</title>
-<link>https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html</link>
-<guid isPermaLink="true">https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html</guid>
-<description>Hacker News front page</description>
-<category>多源热议</category>
-<pubDate>Mon, 19 Oct 2026 06:51:06 +0000</pubDate>
-</item>
-<item>
-<title>成本砍掉90%！DeepSeek-V4.1-Flash 重磅升级：逆袭成为 WebDev 榜首开源模型</title>
-<link>https://www.aibase.com/news/31712</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31712</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Mon, 19 Oct 2026 08:03:00 +0000</pubDate>
-</item>
-<item>
 <title>如果你没有运行自己的 LLM 代理，你怎么知道里面发生了什么？ / If you don't run your own LLM proxy, how do you know whats going on?</title>
 <link>https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on</link>
 <guid isPermaLink="true">https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on</guid>
 <description>Hacker News front page</description>
 <category>多源热议</category>
 <pubDate>Mon, 19 Oct 2026 06:20:08 +0000</pubDate>
-</item>
-<item>
-<title>英特尔杀入大模型推理市场！发布GPU D系列：最高配480GB显存，专为万亿参数推理而生</title>
-<link>https://www.aibase.com/news/31722</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31722</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Mon, 19 Oct 2026 08:03:00 +0000</pubDate>
 </item>
 <item>
 <title>Harness2（谷歌研究）——递归代理利用 / Harness2 by Google Research – Recursive Agent Harnessing</title>
@@ -166,6 +158,14 @@
 <description>Hacker News front page</description>
 <category>值得关注</category>
 <pubDate>Sun, 18 Oct 2026 20:48:14 +0000</pubDate>
+</item>
+<item>
+<title>混合推理代理：在潜空间中进行推理、通过文本采取行动的大语言模型（LLM）代理 / Hybrid Reasoning Agents: 35–55% fewer tokens and up to 2.6× faster inference</title>
+<link>https://arxiv.org/abs/2610.18861</link>
+<guid isPermaLink="true">https://arxiv.org/abs/2610.18861</guid>
+<description>Hacker News front page</description>
+<category>值得关注</category>
+<pubDate>Sun, 18 Oct 2026 22:42:18 +0000</pubDate>
 </item>
 </channel>
 </rss>
