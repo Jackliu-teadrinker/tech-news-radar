@@ -5,10 +5,10 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Tue, 20 Oct 2026 01:12:21 +0000</lastBuildDate>
+<lastBuildDate>Tue, 20 Oct 2026 07:53:30 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
 <item>
-<title>OpenAI 发布 GPT-6 系列模型，提升 COBOL 等低资源编程语言编码能力 / Advancing coding in low‑resource programming languages</title>
+<title>OpenAI 发布 MultiLangBench 与 COBOL 迁移评测，GPT-6 系列大幅提升低资源编程语言能力 / Advancing coding in low‑resource programming languages</title>
 <link>https://openai.com/index/low-resource-programming-languages</link>
 <guid isPermaLink="true">https://openai.com/index/low-resource-programming-languages</guid>
 <description>OpenAI News</description>
@@ -32,6 +32,14 @@
 <pubDate>Mon, 19 Oct 2026 18:47:22 +0000</pubDate>
 </item>
 <item>
+<title>Redact 调查：WhatsApp 帮助页面隐藏 LLM 指令，让 AI 不推荐监管机构、不提 GDPR / WhatsApp's help pages hid LLM instructions: dont recommend a regulator</title>
+<link>https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions</link>
+<guid isPermaLink="true">https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions</guid>
+<description>Redact 发现 WhatsApp 帮助中心页面向 LLM 发送用户看不到的隐藏指令，指示其支持聊天机器人不推荐数据保护监管机构，并在用户提到律师或法律行动后不引用 GDPR、LGPD 或 CCPA。（Hacker News：AI 热帖）</description>
+<category>行业动态</category>
+<pubDate>Tue, 20 Oct 2026 04:21:32 +0000</pubDate>
+</item>
+<item>
 <title>GitHub Copilot 模型已于 2026 年 10 月 19 日弃用 / GitHub Copilot models deprecated on October 19, 2026</title>
 <link>https://github.blog/changelog/2026-10-19-github-copilot-models-deprecated-on-october-19-2026</link>
 <guid isPermaLink="true">https://github.blog/changelog/2026-10-19-github-copilot-models-deprecated-on-october-19-2026</guid>
@@ -48,20 +56,12 @@
 <pubDate>Mon, 19 Oct 2026 20:21:53 +0000</pubDate>
 </item>
 <item>
-<title>美国国土安全部下令所有联邦文职机构移除 DeepSeek 及基于其开发的产品 / The US orders every civilian agency to rip out DeepSeek, even tools built on it</title>
-<link>https://madrobot.blog/2026/10/19/us-bans-deepseek-federal-agencies-dhs-order-remove-third-party</link>
-<guid isPermaLink="true">https://madrobot.blog/2026/10/19/us-bans-deepseek-federal-agencies-dhs-order-remove-third-party</guid>
-<description>美国国土安全部依据 2018 年供应链法发布 2026-01 号命令，要求所有联邦文职机构立即停止采购 DeepSeek 及其关联公司产品，并从 IT 系统中移除相关产品，包括使用 DeepSeek 实现开发的第三方产品与服务。（Hacker News：AI 热帖）</description>
-<category>行业动态</category>
-<pubDate>Mon, 19 Oct 2026 15:05:00 +0000</pubDate>
-</item>
-<item>
-<title>抢在对头上市前“吸金”！OpenAI 紧急开启 300 亿美元新融资，估值冲向 1.4 万亿美元</title>
-<link>https://www.aibase.com/news/31733</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31733</guid>
+<title>AI 红利怎么分？Anthropic 捐 5% 股份，马斯克给每个孩子送 SpaceX 股票</title>
+<link>https://www.aibase.com/news/31748</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31748</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Tue, 20 Oct 2026 01:12:21 +0000</pubDate>
+<pubDate>Tue, 20 Oct 2026 07:53:30 +0000</pubDate>
 </item>
 <item>
 <title>DeepSeek-V4.1-Flash-20261017 (Max) 登顶 Agent Arena 开源模型第一 / Big news: DeepSeek-V4.1-Flash-20261017 (Max) by @deepseek_ai is now the #1 open model in Agent Arena! It just landed at #11 overall with ...</title>
@@ -72,12 +72,44 @@
 <pubDate>Mon, 19 Oct 2026 18:18:50 +0000</pubDate>
 </item>
 <item>
+<title>美国国土安全部下令所有联邦文职机构移除 DeepSeek 及基于其开发的产品 / The US orders every civilian agency to rip out DeepSeek, even tools built on it</title>
+<link>https://madrobot.blog/2026/10/19/us-bans-deepseek-federal-agencies-dhs-order-remove-third-party</link>
+<guid isPermaLink="true">https://madrobot.blog/2026/10/19/us-bans-deepseek-federal-agencies-dhs-order-remove-third-party</guid>
+<description>美国国土安全部依据 2018 年供应链法发布 2026-01 号命令，要求所有联邦文职机构立即停止采购 DeepSeek 及其关联公司产品，并从 IT 系统中移除相关产品，包括使用 DeepSeek 实现开发的第三方产品与服务。（Hacker News：AI 热帖）</description>
+<category>行业动态</category>
+<pubDate>Mon, 19 Oct 2026 15:05:00 +0000</pubDate>
+</item>
+<item>
+<title>Anthropic初级技术岗位占比降至14%，AI代理工作时长达员工6倍</title>
+<link>https://www.aibase.com/news/31744</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31744</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Tue, 20 Oct 2026 07:53:30 +0000</pubDate>
+</item>
+<item>
 <title>macOS 27、Xcode 27 和 Swift 6.4 的 CodeQL 更改 / CodeQL changes for macOS 27, Xcode 27, and Swift 6.4</title>
 <link>https://github.blog/changelog/2026-10-19-codeql-changes-for-macos-27-xcode-27-and-swift-6-4</link>
 <guid isPermaLink="true">https://github.blog/changelog/2026-10-19-codeql-changes-for-macos-27-xcode-27-and-swift-6-4</guid>
 <description>GitHub Changelog</description>
 <category>官方更新</category>
 <pubDate>Mon, 19 Oct 2026 10:29:09 +0000</pubDate>
+</item>
+<item>
+<title>OpenBSD 8.0 版本将包含来自 Linux 6.18 的 inteldrm/radeondrm/amdgpu 驱动程序 / OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18</title>
+<link>https://bsd.network/@brynet/117407035545900963</link>
+<guid isPermaLink="true">https://bsd.network/@brynet/117407035545900963</guid>
+<description>Hacker News front page</description>
+<category>多源热议</category>
+<pubDate>Tue, 20 Oct 2026 03:01:35 +0000</pubDate>
+</item>
+<item>
+<title>Claude 给 Mac 当了一回"保安"：写个测温小工具，顺手揪出吃满 12 核的挖矿木马</title>
+<link>https://www.aibase.com/news/31737</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31737</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Tue, 20 Oct 2026 07:53:30 +0000</pubDate>
 </item>
 <item>
 <title>某些基于 HTTPS 的 Git 可能暂时需要身份验证 / Some Git over HTTPS may temporarily require authentication</title>
@@ -88,84 +120,52 @@
 <pubDate>Mon, 19 Oct 2026 10:37:30 +0000</pubDate>
 </item>
 <item>
-<title>OpenAI发布ChatGPT扩展程序重大升级，支持跨标签页上下文读取与自动化操作</title>
-<link>https://www.aibase.com/news/31728</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31728</guid>
+<title>OpenAI 升级 ChatGPT 浏览器扩展，支持跨标签页读取与自动化操作</title>
+<link>https://www.aibase.com/news/31742</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31742</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Mon, 19 Oct 2026 14:33:46 +0000</pubDate>
+<pubDate>Tue, 20 Oct 2026 07:53:30 +0000</pubDate>
 </item>
 <item>
-<title>OpenBSD 8.0 版本将包含 Linux 6.18 的 inteldrm/radeondrm/amdgpu 驱动程序 / OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18</title>
-<link>https://bsd.network/@brynet/117407035545900963</link>
-<guid isPermaLink="true">https://bsd.network/@brynet/117407035545900963</guid>
+<title>根据美国国土安全部（DHS）的新命令，DeepSeek被禁止在美国联邦民用机构中使用 / DeepSeek banned from U.S. federal civilian agencies under new DHS order</title>
+<link>https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19</link>
+<guid isPermaLink="true">https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19</guid>
 <description>Hacker News front page</description>
-<category>值得关注</category>
-<pubDate>Mon, 19 Oct 2026 21:11:45 +0000</pubDate>
+<category>多源热议</category>
+<pubDate>Tue, 20 Oct 2026 05:25:17 +0000</pubDate>
 </item>
 <item>
-<title>从汽车制造商到全球智能科技公司！奇瑞全球创新大会重磅官宣：首个行业垂域大模型与人形机器人“墨宝”震撼登场</title>
-<link>https://www.aibase.com/news/31731</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31731</guid>
+<title>OpenAI 录音门工程师保释被拒：妻儿已赴沙特，法官怕他"一走了之"</title>
+<link>https://www.aibase.com/news/31745</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31745</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Mon, 19 Oct 2026 14:33:46 +0000</pubDate>
+<pubDate>Tue, 20 Oct 2026 07:53:30 +0000</pubDate>
 </item>
 <item>
-<title>线束工程入门：LLM是大脑，线束是身体Simplified Chinese (Mainland) / Harness Engineering 101: The LLM is the brain, the harness is the body</title>
-<link>https://github.com/IsuruMaduranga/harness-engineering-101</link>
-<guid isPermaLink="true">https://github.com/IsuruMaduranga/harness-engineering-101</guid>
-<description>Hacker News front page</description>
-<category>多源热议</category>
-<pubDate>Mon, 19 Oct 2026 14:47:39 +0000</pubDate>
-</item>
-<item>
-<title>检方羁押申请揭 OpenAI 录音门新线：嫌疑人被捕前 4 天仍密聊沙特王室</title>
-<link>https://www.aibase.com/news/31730</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31730</guid>
+<title>OpenAI 补齐 ChatGPT"办公三件套"：Slides 上线，能协作能导出 PPT</title>
+<link>https://www.aibase.com/news/31747</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31747</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Mon, 19 Oct 2026 14:33:46 +0000</pubDate>
+<pubDate>Tue, 20 Oct 2026 07:53:30 +0000</pubDate>
 </item>
 <item>
-<title>笼罩在Anthropic首次公开募股（IPO）上空的神秘信托 / The obscure trust looming over Anthropic's IPO</title>
-<link>https://www.wsj.com/tech/ai/anthropic-ipo-private-trust-188f41f7?st=RtdGHg&amp;reflink=desktopwebshare_permalink</link>
-<guid isPermaLink="true">https://www.wsj.com/tech/ai/anthropic-ipo-private-trust-188f41f7?st=RtdGHg&amp;reflink=desktopwebshare_permalink</guid>
-<description>Hacker News front page</description>
-<category>多源热议</category>
-<pubDate>Mon, 19 Oct 2026 20:37:07 +0000</pubDate>
-</item>
-<item>
-<title>Tmux 和 Claude Code：会话、Send-Keys 以及上限 / Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling</title>
-<link>https://crystl.dev/guides/tmux-for-ai-agents</link>
-<guid isPermaLink="true">https://crystl.dev/guides/tmux-for-ai-agents</guid>
-<description>Hacker News front page</description>
-<category>多源热议</category>
-<pubDate>Mon, 19 Oct 2026 15:02:49 +0000</pubDate>
-</item>
-<item>
-<title>文件：警官将她的 Flock 登录信息交给了她的 ICE 特工丈夫 / Documents: Police officer gave her Flock login to her ICE agent husband</title>
-<link>https://www.wjcl.com/article/savannah-police-officer-ice-agent-flock-access/74135816</link>
-<guid isPermaLink="true">https://www.wjcl.com/article/savannah-police-officer-ice-agent-flock-access/74135816</guid>
-<description>Hacker News front page</description>
-<category>多源热议</category>
-<pubDate>Mon, 19 Oct 2026 10:45:14 +0000</pubDate>
-</item>
-<item>
-<title>DeepSeek V4.1 闪存 1017（最大） / DeepSeek V4.1 Flash 1017 (Max)</title>
-<link>https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017</link>
-<guid isPermaLink="true">https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017</guid>
+<title>Vite+ an excellent toolchain for AI agent development</title>
+<link>https://janmichalek.com/blog/vite-plus-agentni-vyvoj?lang=en</link>
+<guid isPermaLink="true">https://janmichalek.com/blog/vite-plus-agentni-vyvoj?lang=en</guid>
 <description>Hacker News front page</description>
 <category>值得关注</category>
-<pubDate>Mon, 19 Oct 2026 04:41:46 +0000</pubDate>
+<pubDate>Tue, 20 Oct 2026 06:40:49 +0000</pubDate>
 </item>
 <item>
-<title>Harness2（谷歌研究）——递归代理利用 / Harness2 by Google Research – Recursive Agent Harnessing</title>
-<link>https://github.com/google-research/harness2</link>
-<guid isPermaLink="true">https://github.com/google-research/harness2</guid>
-<description>Hacker News front page</description>
-<category>值得关注</category>
-<pubDate>Mon, 19 Oct 2026 11:28:45 +0000</pubDate>
+<title>OpenAI推出ChatGPT Slides，支持AI生成演示文稿与实时协作</title>
+<link>https://www.aibase.com/news/31750</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31750</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Tue, 20 Oct 2026 07:53:30 +0000</pubDate>
 </item>
 </channel>
 </rss>
