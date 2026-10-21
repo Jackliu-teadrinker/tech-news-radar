@@ -1,16 +1,30 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-21T14:04:36.638553Z",
+  "generated_at": "2026-10-21T17:58:16.565610Z",
   "ok": true,
-  "active_count": 0,
+  "active_count": 1,
   "providers": [
     {
       "id": "openai",
       "name": "OpenAI",
       "status_url": "https://status.openai.com/",
       "ok": true,
-      "active_count": 0
+      "active_count": 1
     }
   ],
-  "incidents": []
+  "incidents": [
+    {
+      "id": "01M5FD63HHDRPQPM5YMQWJ5HTN",
+      "provider": "OpenAI",
+      "title": "Elevated FedRAMP API error rates for Astra and Sol",
+      "title_zh": "Elevated FedRAMP API error rates for Astra and Sol",
+      "status": "monitoring",
+      "impact": "minor",
+      "started_at": "2026-10-21T14:17:32Z",
+      "updated_at": "2026-10-21T17:04:07Z",
+      "message": "We have applied the mitigation and are monitoring the recovery.",
+      "affected_components": [],
+      "url": "https://status.openai.com/incidents/01M5FD63HHDRPQPM5YMQWJ5HTN"
+    }
+  ]
 }
