@@ -1,16 +1,30 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-22T18:44:57.176711Z",
+  "generated_at": "2026-10-22T22:14:26.460950Z",
   "ok": true,
-  "active_count": 0,
+  "active_count": 1,
   "providers": [
     {
       "id": "openai",
       "name": "OpenAI",
       "status_url": "https://status.openai.com/",
       "ok": true,
-      "active_count": 0
+      "active_count": 1
     }
   ],
-  "incidents": []
+  "incidents": [
+    {
+      "id": "01M5JHVJVC8WAXB4WRYFMKG6HP",
+      "provider": "OpenAI",
+      "title": "New Ad Accounts failing to provision admins",
+      "title_zh": "New Ad Accounts failing to provision admins",
+      "status": "identified",
+      "impact": "minor",
+      "started_at": "2026-10-22T19:36:53Z",
+      "updated_at": "2026-10-22T21:30:55Z",
+      "message": "We have identified the issue and are working to implement the mitigation.",
+      "affected_components": [],
+      "url": "https://status.openai.com/incidents/01M5JHVJVC8WAXB4WRYFMKG6HP"
+    }
+  ]
 }
