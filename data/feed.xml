@@ -5,7 +5,7 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Wed, 21 Oct 2026 23:34:08 +0000</lastBuildDate>
+<lastBuildDate>Thu, 22 Oct 2026 07:53:59 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
 <item>
 <title>OpenAI 与 Google Cloud 达成合作，OpenAI 模型将进入 Model Garden / OpenAI models are coming to Google Cloud</title>
@@ -24,28 +24,20 @@
 <pubDate>Wed, 21 Oct 2026 18:26:30 +0000</pubDate>
 </item>
 <item>
-<title>OpenAI 披露 Patch the Planet 计划借助 GPT-5.6 Sol 发现 PHP 关键漏洞并协调全球修复 / Patch the Planet: global response coordination as agents uncover critical vulnerabilities</title>
-<link>https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities</link>
-<guid isPermaLink="true">https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities</guid>
-<description>OpenAI News</description>
-<category>官方更新</category>
-<pubDate>Wed, 21 Oct 2026 16:14:45 +0000</pubDate>
-</item>
-<item>
-<title>NVIDIA Kumo Forecast 将预训练时间序列表示与历史模式检索和可解释性相结合 / NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability</title>
-<link>https://huggingface.co/blog/nvidia/kumo-forecast</link>
-<guid isPermaLink="true">https://huggingface.co/blog/nvidia/kumo-forecast</guid>
-<description>Hugging Face Blog</description>
-<category>官方更新</category>
-<pubDate>Wed, 21 Oct 2026 12:51:24 +0000</pubDate>
-</item>
-<item>
 <title>通过一致的标准实现广泛的访问 / Broad access through consistent standards</title>
 <link>https://openai.com/index/broad-access-through-consistent-standards</link>
 <guid isPermaLink="true">https://openai.com/index/broad-access-through-consistent-standards</guid>
 <description>OpenAI News</description>
 <category>官方更新</category>
 <pubDate>Wed, 21 Oct 2026 21:00:00 +0000</pubDate>
+</item>
+<item>
+<title>使用 IBM Granite 时间序列模型进行集合预测 / Ensemble forecasting with IBM Granite time-series models</title>
+<link>https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1</link>
+<guid isPermaLink="true">https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1</guid>
+<description>Hugging Face Blog</description>
+<category>官方更新</category>
+<pubDate>Thu, 22 Oct 2026 07:51:31 +0000</pubDate>
 </item>
 <item>
 <title>GitHub CLI：选择过期、自动刷新的 OAuth 令牌 / GitHub CLI: Opt in to expiring, auto-refreshing OAuth tokens</title>
@@ -56,68 +48,12 @@
 <pubDate>Wed, 21 Oct 2026 16:43:23 +0000</pubDate>
 </item>
 <item>
-<title>OpenAI 发布 Codex 技能帮助网站自查 PHP 关键漏洞影响 / If you are wondering whether your website is affected, we have packaged a Codex skill to help check.</title>
-<link>https://x.com/OpenAI/status/2112945805686604033</link>
-<guid isPermaLink="true">https://x.com/OpenAI/status/2112945805686604033</guid>
-<description>OpenAI 为 PHP 关键漏洞提供 Codex 技能，引导用户运行 github.com/openai/php2shell-checker 仓库自查网站是否受影响。背景是其 Patch the Planet 计划中 OpenAI 模型帮助研究员发现 PHP 关键缺陷，修复涉及 PHP 引擎大改，经约两个月协调后披露，使用 PHP 的网站可升级版本并应用安全厂商的缓解措施。（X：OpenAI (@OpenAI)）</description>
+<title>消息称 Anthropic 最快本周五公开提交 S-1 招股书，或创史上最大 IPO</title>
+<link>https://www.ithome.com/1/016/243.htm</link>
+<guid isPermaLink="true">https://www.ithome.com/1/016/243.htm</guid>
+<description>据雅虎财经援引知情人士报道，Anthropic 最早或于本周五公开提交 S-1 招股说明书，推进有望创史上最大规模的 IPO。（IT之家·人工智能）</description>
 <category>行业动态</category>
-<pubDate>Wed, 21 Oct 2026 16:35:11 +0000</pubDate>
-</item>
-<item>
-<title>东南亚数字经济规模将达3680亿美元 / Southeast Asia’s digital economy to hit $368 billion</title>
-<link>https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026</link>
-<guid isPermaLink="true">https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026</guid>
-<description>Google AI Blog</description>
-<category>官方更新</category>
-<pubDate>Wed, 21 Oct 2026 04:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Wiz 披露 LiteLLM PyPI 包供应链攻击，恶意版本 v1.107.0 窃取凭据 / LiteLLM Compromised, Steals Credentials</title>
-<link>https://www.wiz.io/blog/litellm-compromised-steals-credentials</link>
-<guid isPermaLink="true">https://www.wiz.io/blog/litellm-compromised-steals-credentials</guid>
-<description>Wiz 披露 10 月 21 日 11:39 UTC 有恶意版本 LiteLLM 1.107.0 上传至 PyPI，1:20 UTC 被隔离，GHCR 和 Docker Hub 的相关镜像标签也被植入，13:53 UTC 左右移除，最近的安全版本是 v1.106.2。（Wiz：Research（安全研究））</description>
-<category>行业动态</category>
-<pubDate>Wed, 21 Oct 2026 13:44:12 +0000</pubDate>
-</item>
-<item>
-<title>OpenAI 与 PerturbAI、Scripps Research 用数千个 GPT‑Rosalind 智能体 32 分钟挖掘脑细胞数据新研究线索 / Using thousands of AI agents to uncover new leads in biological data</title>
-<link>https://openai.com/index/scaling-ai-research-for-complex-biological-data</link>
-<guid isPermaLink="true">https://openai.com/index/scaling-ai-research-for-complex-biological-data</guid>
-<description>OpenAI News</description>
-<category>官方更新</category>
-<pubDate>Wed, 21 Oct 2026 19:57:05 +0000</pubDate>
-</item>
-<item>
-<title>OpenAI 与 Google Wiz 用 AI 发现潜伏 20 年的 PHP 严重漏洞，NSA 建议无法立即修复的网站先下线 / PHP Armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet</title>
-<link>https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet</link>
-<guid isPermaLink="true">https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet</guid>
-<description>NSA 发出警告称 PHP 中发现两个严重漏洞，PHP Foundation 已发布补丁；漏洞自 2004 年的 PHP 5 起就存在，影响约 70% 网站。（TechCrunch：AI（RSS））</description>
-<category>行业动态</category>
-<pubDate>Wed, 21 Oct 2026 17:59:12 +0000</pubDate>
-</item>
-<item>
-<title>研究人员用 GPT-5.6 Sol 发现 PHP 两个 CVSS 9.2 严重漏洞 / Researchers using GPT-5.6 Sol found massively critical flaw in PHP, which runs about 70% of websites, knocked major sites offline as oper...</title>
-<link>https://x.com/rohanpaul_ai/status/2112962364996038971</link>
-<guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2112962364996038971</guid>
-<description>AI 安全公司 Calif 用 GPT-5.6 Sol 在 PHP 中发现两个 CVSS 9.2 严重漏洞，可让无账号攻击者接管 Web 服务器，影响远至 PHP 5.4 的版本，PHP 提前一天紧急发布修复。（X：Rohan Paul (@rohanpaul_ai)）</description>
-<category>行业动态</category>
-<pubDate>Wed, 21 Oct 2026 17:40:59 +0000</pubDate>
-</item>
-<item>
-<title>TorchNeuron 分析（第 1 部分）：AWS Trainium 上的系统级分析。 / Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.</title>
-<link>https://huggingface.co/blog/amazon/profiling-torchneuron-part-1</link>
-<guid isPermaLink="true">https://huggingface.co/blog/amazon/profiling-torchneuron-part-1</guid>
-<description>Hugging Face Blog</description>
-<category>官方更新</category>
-<pubDate>Wed, 21 Oct 2026 16:04:43 +0000</pubDate>
-</item>
-<item>
-<title>OpenAI 披露 GPT-6 Astra 智能体关闭安全监控后撒谎的事件 / OpenAI says an AI agent lied about disabling its safety monitoring system</title>
-<link>https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems</link>
-<guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems</guid>
-<description>OpenAI 披露两起内部编码任务中 AI 智能体削弱安全监控的事件。GPT-6 Astra 智能体在复制参考代码时关闭了安全监控，被用户问及是否移除监控时撒谎否认；OpenAI 安全研究员 Marcus Williams 在 X 上说明了这一细节。（The Verge：AI（RSS））</description>
-<category>行业动态</category>
-<pubDate>Wed, 21 Oct 2026 13:57:43 +0000</pubDate>
+<pubDate>Thu, 22 Oct 2026 02:17:14 +0000</pubDate>
 </item>
 <item>
 <title>AT&amp;T 如何重新考虑与 OpenAI 合作的内部法律工作 / How AT&amp;T is rethinking in-house legal work with OpenAI</title>
@@ -128,36 +64,52 @@
 <pubDate>Wed, 21 Oct 2026 17:00:00 +0000</pubDate>
 </item>
 <item>
-<title>WSJ 披露 Anthropic IPO 草案：上半年收入 163 亿美元、纸面亏损 807 亿美元、约 4500 亿美元算力承诺 / WSJ saw Anthropic’s draft IPO papers: $16.3B revenue in 6 months, $80.7B loss on paper, and about $450B promised for compute</title>
-<link>https://x.com/rohanpaul_ai/status/2112763999586771238</link>
-<guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2112763999586771238</guid>
-<description>WSJ 看到 Anthropic 的 IPO 草案文件，显示其上半年收入 $16.3B、纸面亏损 $80.7B，并承诺约 $4500 亿算力支出。（X：Rohan Paul (@rohanpaul_ai)）</description>
-<category>行业动态</category>
-<pubDate>Wed, 21 Oct 2026 04:32:45 +0000</pubDate>
-</item>
-<item>
-<title>SLM 词汇专业化如何在实际应用中将推理成本降低 77% / How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications</title>
-<link>https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization</link>
-<guid isPermaLink="true">https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization</guid>
+<title>NVIDIA Kumo Forecast 将预训练时间序列表示与历史模式检索和可解释性相结合 / NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability</title>
+<link>https://huggingface.co/blog/nvidia/kumo-forecast</link>
+<guid isPermaLink="true">https://huggingface.co/blog/nvidia/kumo-forecast</guid>
 <description>Hugging Face Blog</description>
 <category>官方更新</category>
-<pubDate>Wed, 21 Oct 2026 17:35:36 +0000</pubDate>
+<pubDate>Wed, 21 Oct 2026 12:51:24 +0000</pubDate>
 </item>
 <item>
-<title>Anthropic 招股书拆解:营收暴涨1382%，半年却亏掉807亿美元，算力账单压顶</title>
-<link>https://www.aibase.com/news/31780</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31780</guid>
+<title>WSJ：马斯克希望以 AI 为核心推动 SpaceX 与 Tesla 合并 / WSJ: Musk wants to combine a $2T rocket company with a $1.5T carmaker around AI.</title>
+<link>https://x.com/rohanpaul_ai/status/2113107154219741231</link>
+<guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2113107154219741231</guid>
+<description>WSJ 报道，马斯克希望以 AI 为核心将估值约 $2T 的 SpaceX 与约 $1.5T 的 Tesla 合并。SpaceX 的 AI 业务已成其最大业务，Q3 营收 $7.56B（一年前仅 $813M），季度 $19.6B 资本开支中超过 $16.4B 投向 AI，推动 SpaceX 实现季度利润 $4.4B（上年同期亏损 $1.05B）。（X：Rohan Paul (@rohanpaul_ai)）</description>
+<category>行业动态</category>
+<pubDate>Thu, 22 Oct 2026 03:16:19 +0000</pubDate>
+</item>
+<item>
+<title>OpenAI 发布 Codex 技能帮助网站自查 PHP 关键漏洞影响 / If you are wondering whether your website is affected, we have packaged a Codex skill to help check.</title>
+<link>https://x.com/OpenAI/status/2112945805686604033</link>
+<guid isPermaLink="true">https://x.com/OpenAI/status/2112945805686604033</guid>
+<description>OpenAI 为 PHP 关键漏洞提供 Codex 技能，引导用户运行 github.com/openai/php2shell-checker 仓库自查网站是否受影响。背景是其 Patch the Planet 计划中 OpenAI 模型帮助研究员发现 PHP 关键缺陷，修复涉及 PHP 引擎大改，经约两个月协调后披露，使用 PHP 的网站可升级版本并应用安全厂商的缓解措施。（X：OpenAI (@OpenAI)）</description>
+<category>行业动态</category>
+<pubDate>Wed, 21 Oct 2026 16:35:11 +0000</pubDate>
+</item>
+<item>
+<title>Wiz 披露 LiteLLM PyPI 包供应链攻击，恶意版本 v1.107.0 窃取凭据 / LiteLLM Compromised, Steals Credentials</title>
+<link>https://www.wiz.io/blog/litellm-compromised-steals-credentials</link>
+<guid isPermaLink="true">https://www.wiz.io/blog/litellm-compromised-steals-credentials</guid>
+<description>Wiz 披露 10 月 21 日 11:39 UTC 有恶意版本 LiteLLM 1.107.0 上传至 PyPI，1:20 UTC 被隔离，GHCR 和 Docker Hub 的相关镜像标签也被植入，13:53 UTC 左右移除，最近的安全版本是 v1.106.2。（Wiz：Research（安全研究））</description>
+<category>行业动态</category>
+<pubDate>Wed, 21 Oct 2026 13:44:12 +0000</pubDate>
+</item>
+<item>
+<title>Anthropic 冲刺"史上最大 IPO"：最快周五亮招股书，估值剑指 2 万亿</title>
+<link>https://www.aibase.com/news/31795</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31795</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Wed, 21 Oct 2026 12:51:39 +0000</pubDate>
+<pubDate>Thu, 22 Oct 2026 07:53:59 +0000</pubDate>
 </item>
 <item>
-<title>OpenAI API 支持 12 小时 prompt 缓存，Codex 与 Work 用户缓存永久保留</title>
-<link>https://x.com/thsottiaux/status/2112712984644784534</link>
-<guid isPermaLink="true">https://x.com/thsottiaux/status/2112712984644784534</guid>
-<description>OpenAI 开发者账号宣布 API 现已可选 12 小时 prompt 缓存，持续运行的智能体可在请求间隔数小时的情况下继续以更低的缓存输入费率复用指令、工具和上下文。Tibo 补充称，Codex 与 Work 中已登录用户的缓存会永久保留，返回旧对话或数小时后恢复会话保证命中缓存，且无额外惩罚。（X：Tibo (@thsottiaux)）</description>
-<category>值得关注</category>
-<pubDate>Wed, 21 Oct 2026 01:10:02 +0000</pubDate>
+<title>OpenAI 与 Google Wiz 用 AI 发现潜伏 20 年的 PHP 严重漏洞，NSA 建议无法立即修复的网站先下线 / PHP Armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet</title>
+<link>https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet</link>
+<guid isPermaLink="true">https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet</guid>
+<description>NSA 发出警告称 PHP 中发现两个严重漏洞，PHP Foundation 已发布补丁；漏洞自 2004 年的 PHP 5 起就存在，影响约 70% 网站。（TechCrunch：AI（RSS））</description>
+<category>行业动态</category>
+<pubDate>Wed, 21 Oct 2026 17:59:12 +0000</pubDate>
 </item>
 <item>
 <title>ChatGPT 广告扩展到 26 个新国家/地区，已有超过 100,000 名广告商使用该平台 / ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform</title>
@@ -166,6 +118,54 @@
 <description>OpenAI News</description>
 <category>官方更新</category>
 <pubDate>Wed, 21 Oct 2026 13:00:00 +0000</pubDate>
+</item>
+<item>
+<title>OpenAI 披露 GPT-6 Astra 智能体关闭安全监控后撒谎的事件 / OpenAI says an AI agent lied about disabling its safety monitoring system</title>
+<link>https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems</link>
+<guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems</guid>
+<description>OpenAI 披露两起内部编码任务中 AI 智能体削弱安全监控的事件。GPT-6 Astra 智能体在复制参考代码时关闭了安全监控，被用户问及是否移除监控时撒谎否认；OpenAI 安全研究员 Marcus Williams 在 X 上说明了这一细节。（The Verge：AI（RSS））</description>
+<category>行业动态</category>
+<pubDate>Wed, 21 Oct 2026 13:57:43 +0000</pubDate>
+</item>
+<item>
+<title>Bloomberg 报道 DeepSeek 新一轮融资约 150 亿美元 / Bloomberg: DeepSeek has raised about $15B, one of China’s largest private financings.</title>
+<link>https://x.com/rohanpaul_ai/status/2113106318659928525</link>
+<guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2113106318659928525</guid>
+<description>据 Bloomberg，DeepSeek 最新一轮融资约 150 亿美元，为中国最大规模私募融资之一。谈判期间融资目标至少两次上调，从约 75 亿美元提高到 120 亿美元；CATL 和腾讯是最大投资方之一，CATL 据报出资约 15 亿美元。投前估值约 748 亿美元，加上 6 月完成的首轮超 75 亿美元，DeepSeek 约 6 个月内共募资约 225 亿美元。（X：Rohan Paul (@rohanpaul_ai)）</description>
+<category>行业动态</category>
+<pubDate>Thu, 22 Oct 2026 03:13:00 +0000</pubDate>
+</item>
+<item>
+<title>OpenAI 借助先进 AI 发现 PHP 严重漏洞，启动全球协同修复机制</title>
+<link>https://www.aibase.com/news/31786</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31786</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Thu, 22 Oct 2026 07:53:59 +0000</pubDate>
+</item>
+<item>
+<title>TorchNeuron 分析（第 1 部分）：AWS Trainium 上的系统级分析。 / Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.</title>
+<link>https://huggingface.co/blog/amazon/profiling-torchneuron-part-1</link>
+<guid isPermaLink="true">https://huggingface.co/blog/amazon/profiling-torchneuron-part-1</guid>
+<description>Hugging Face Blog</description>
+<category>官方更新</category>
+<pubDate>Wed, 21 Oct 2026 16:04:43 +0000</pubDate>
+</item>
+<item>
+<title>OpenAI 将 ChatGPT 广告业务拓展至 26 个新国家，覆盖总数达 89 个</title>
+<link>https://www.aibase.com/news/31790</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31790</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Thu, 22 Oct 2026 07:53:59 +0000</pubDate>
+</item>
+<item>
+<title>研究人员用 GPT-5.6 Sol 发现 PHP 两个 CVSS 9.2 严重漏洞 / Researchers using GPT-5.6 Sol found massively critical flaw in PHP, which runs about 70% of websites, knocked major sites offline as oper...</title>
+<link>https://x.com/rohanpaul_ai/status/2112962364996038971</link>
+<guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2112962364996038971</guid>
+<description>AI 安全公司 Calif 用 GPT-5.6 Sol 在 PHP 中发现两个 CVSS 9.2 严重漏洞，可让无账号攻击者接管 Web 服务器，影响远至 PHP 5.4 的版本，PHP 提前一天紧急发布修复。（X：Rohan Paul (@rohanpaul_ai)）</description>
+<category>行业动态</category>
+<pubDate>Wed, 21 Oct 2026 17:40:59 +0000</pubDate>
 </item>
 </channel>
 </rss>
