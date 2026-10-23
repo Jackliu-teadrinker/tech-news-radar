@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T23:31:30.409807Z",
+  "generated_at": "2026-10-23T07:53:10.374910Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8671,
-      "importance": 0.8671,
-      "importance_score": 0.8671,
+      "score": 0.847,
+      "importance": 0.847,
+      "importance_score": 0.847,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.984,
+        "recency": 0.8721,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,173 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-22T23:32:53.092022Z"
+        "scored_at": "2026-10-23T07:54:42.604688Z"
+      }
+    },
+    {
+      "story_id": "story_99e301a8a71e",
+      "title": "使用指标 API 中的自定义技能、代理和 MCP 服务器 / Custom skills, agents, and MCP servers in usage metrics API",
+      "url": "https://github.blog/changelog/2026-10-22-custom-skills-agents-and-mcp-servers-in-usage-metrics-api",
+      "primary_url": "https://github.blog/changelog/2026-10-22-custom-skills-agents-and-mcp-servers-in-usage-metrics-api",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "d16f1d6ac60a28268ca1ad5910b6fb861ac96ed0",
+          "title": "使用指标 API 中的自定义技能、代理和 MCP 服务器 / Custom skills, agents, and MCP servers in usage metrics API",
+          "title_zh": "使用指标 API 中的自定义技能、代理和 MCP 服务器",
+          "title_en": "Custom skills, agents, and MCP servers in usage metrics API",
+          "title_original": "Custom skills, agents, and MCP servers in usage metrics API",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-22-custom-skills-agents-and-mcp-servers-in-usage-metrics-api",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-22T22:19:17Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "d16f1d6ac60a28268ca1ad5910b6fb861ac96ed0",
+          "title": "使用指标 API 中的自定义技能、代理和 MCP 服务器 / Custom skills, agents, and MCP servers in usage metrics API",
+          "title_zh": "使用指标 API 中的自定义技能、代理和 MCP 服务器",
+          "title_en": "Custom skills, agents, and MCP servers in usage metrics API",
+          "title_original": "Custom skills, agents, and MCP servers in usage metrics API",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-22-custom-skills-agents-and-mcp-servers-in-usage-metrics-api",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-22T22:19:17Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8468,
+      "importance": 0.8468,
+      "importance_score": 0.8468,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 1.0,
+        "recency": 0.871,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-22T22:19:17Z",
+      "latest_at": "2026-10-22T22:19:17Z",
+      "primary_item": {
+        "id": "d16f1d6ac60a28268ca1ad5910b6fb861ac96ed0",
+        "title": "使用指标 API 中的自定义技能、代理和 MCP 服务器 / Custom skills, agents, and MCP servers in usage metrics API",
+        "title_zh": "使用指标 API 中的自定义技能、代理和 MCP 服务器",
+        "title_en": "Custom skills, agents, and MCP servers in usage metrics API",
+        "title_original": "Custom skills, agents, and MCP servers in usage metrics API",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-10-22-custom-skills-agents-and-mcp-servers-in-usage-metrics-api",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-23T07:54:42.604688Z"
+      }
+    },
+    {
+      "story_id": "story_ce7f81360e67",
+      "title": "OpenAI 与波兰 NSK 合作推进人工智能安全 / OpenAI and Poland’s NASK partner to advance AI safety and security",
+      "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+      "primary_url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "630bfc3514ea5821d0559d703bba5e93973627a1",
+          "title": "OpenAI 与波兰 NSK 合作推进人工智能安全 / OpenAI and Poland’s NASK partner to advance AI safety and security",
+          "title_zh": "OpenAI 与波兰 NSK 合作推进人工智能安全",
+          "title_en": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+          "title_original": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-23T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "630bfc3514ea5821d0559d703bba5e93973627a1",
+          "title": "OpenAI 与波兰 NSK 合作推进人工智能安全 / OpenAI and Poland’s NASK partner to advance AI safety and security",
+          "title_zh": "OpenAI 与波兰 NSK 合作推进人工智能安全",
+          "title_en": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+          "title_original": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-23T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8466,
+      "importance": 0.8466,
+      "importance_score": 0.8466,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.8924,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-23T00:00:00Z",
+      "latest_at": "2026-10-23T00:00:00Z",
+      "primary_item": {
+        "id": "630bfc3514ea5821d0559d703bba5e93973627a1",
+        "title": "OpenAI 与波兰 NSK 合作推进人工智能安全 / OpenAI and Poland’s NASK partner to advance AI safety and security",
+        "title_zh": "OpenAI 与波兰 NSK 合作推进人工智能安全",
+        "title_en": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+        "title_original": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-23T07:54:42.604688Z"
       }
     },
     {
@@ -131,15 +297,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8586,
-      "importance": 0.8586,
-      "importance_score": 0.8586,
+      "score": 0.8394,
+      "importance": 0.8394,
+      "importance_score": 0.8394,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9367,
+        "recency": 0.8302,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,172 +332,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-22T23:32:53.092022Z"
-      }
-    },
-    {
-      "story_id": "story_ea79a79632a0",
-      "title": "Copilot 功能的全局默认设置已全面可用 / Global default for Copilot features generally available",
-      "url": "https://github.blog/changelog/2026-10-22-global-default-for-copilot-features-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-10-22-global-default-for-copilot-features-generally-available",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "6fbf6465cc070be2afaa5ed6a14206f4f418c014",
-          "title": "Copilot 功能的全局默认设置已全面可用 / Global default for Copilot features generally available",
-          "title_zh": "Copilot 功能的全局默认设置已全面可用",
-          "title_en": "Global default for Copilot features generally available",
-          "title_original": "Global default for Copilot features generally available",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-22-global-default-for-copilot-features-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-22T20:44:28Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "6fbf6465cc070be2afaa5ed6a14206f4f418c014",
-          "title": "Copilot 功能的全局默认设置已全面可用 / Global default for Copilot features generally available",
-          "title_zh": "Copilot 功能的全局默认设置已全面可用",
-          "title_en": "Global default for Copilot features generally available",
-          "title_original": "Global default for Copilot features generally available",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-22-global-default-for-copilot-features-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-22T20:44:28Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8149,
-      "importance": 0.8149,
-      "importance_score": 0.8149,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.76,
-        "recency": 0.9606,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-22T20:44:28Z",
-      "latest_at": "2026-10-22T20:44:28Z",
-      "primary_item": {
-        "id": "6fbf6465cc070be2afaa5ed6a14206f4f418c014",
-        "title": "Copilot 功能的全局默认设置已全面可用 / Global default for Copilot features generally available",
-        "title_zh": "Copilot 功能的全局默认设置已全面可用",
-        "title_en": "Global default for Copilot features generally available",
-        "title_original": "Global default for Copilot features generally available",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-22-global-default-for-copilot-features-generally-available",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-22T23:32:53.092022Z"
-      }
-    },
-    {
-      "story_id": "story_c737801d4d18",
-      "title": "FDE 在 OpenAI 中意味着什么 / What FDE means at OpenAI",
-      "url": "https://openai.com/index/forward-deployed-engineering-means",
-      "primary_url": "https://openai.com/index/forward-deployed-engineering-means",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "7211e5faaaa4484816d9693f0e637588544211e6",
-          "title": "FDE 在 OpenAI 中意味着什么 / What FDE means at OpenAI",
-          "title_zh": "FDE 在 OpenAI 中意味着什么",
-          "title_en": "What FDE means at OpenAI",
-          "title_original": "What FDE means at OpenAI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/forward-deployed-engineering-means",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-22T06:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "7211e5faaaa4484816d9693f0e637588544211e6",
-          "title": "FDE 在 OpenAI 中意味着什么 / What FDE means at OpenAI",
-          "title_zh": "FDE 在 OpenAI 中意味着什么",
-          "title_en": "What FDE means at OpenAI",
-          "title_original": "What FDE means at OpenAI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/forward-deployed-engineering-means",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-22T06:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8258,
-      "importance": 0.8258,
-      "importance_score": 0.8258,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.7764,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-22T06:00:00Z",
-      "latest_at": "2026-10-22T06:00:00Z",
-      "primary_item": {
-        "id": "7211e5faaaa4484816d9693f0e637588544211e6",
-        "title": "FDE 在 OpenAI 中意味着什么 / What FDE means at OpenAI",
-        "title_zh": "FDE 在 OpenAI 中意味着什么",
-        "title_en": "What FDE means at OpenAI",
-        "title_original": "What FDE means at OpenAI",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/forward-deployed-engineering-means",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-22T23:32:53.092022Z"
+        "scored_at": "2026-10-23T07:54:42.604688Z"
       }
     },
     {
@@ -379,15 +380,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.794,
-      "importance": 0.794,
-      "importance_score": 0.794,
+      "score": 0.776,
+      "importance": 0.776,
+      "importance_score": 0.776,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.73,
-        "recency": 0.8779,
+        "recency": 0.778,
         "story_heat": 0.0
       },
       "category": "official",
@@ -413,30 +414,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-22T23:32:53.092022Z"
+        "scored_at": "2026-10-23T07:54:42.604688Z"
       }
     },
     {
-      "story_id": "story_6c65f6b7b543",
-      "title": "更新了 Actions blob 存储的元 API 端点 / Meta API endpoints updated for Actions blob storage",
-      "url": "https://github.blog/changelog/2026-10-22-meta-api-endpoints-updated-for-actions-blob-storage",
-      "primary_url": "https://github.blog/changelog/2026-10-22-meta-api-endpoints-updated-for-actions-blob-storage",
+      "story_id": "story_fde7fea26706",
+      "title": "Visual Studio 中的 GitHub Copilot — 9 月更新 / GitHub Copilot in Visual Studio — September update",
+      "url": "https://github.blog/changelog/2026-10-22-github-copilot-in-visual-studio-september-update-2",
+      "primary_url": "https://github.blog/changelog/2026-10-22-github-copilot-in-visual-studio-september-update-2",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "0e4fb600be972c4f22258715998d6f1ca534faf3",
-          "title": "更新了 Actions blob 存储的元 API 端点 / Meta API endpoints updated for Actions blob storage",
-          "title_zh": "更新了 Actions blob 存储的元 API 端点",
-          "title_en": "Meta API endpoints updated for Actions blob storage",
-          "title_original": "Meta API endpoints updated for Actions blob storage",
+          "id": "a88735ec39ef7947f5cfe28a64300598600ccc15",
+          "title": "Visual Studio 中的 GitHub Copilot — 9 月更新 / GitHub Copilot in Visual Studio — September update",
+          "title_zh": "Visual Studio 中的 GitHub Copilot — 9 月更新",
+          "title_en": "GitHub Copilot in Visual Studio — September update",
+          "title_original": "GitHub Copilot in Visual Studio — September update",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-22-meta-api-endpoints-updated-for-actions-blob-storage",
+          "url": "https://github.blog/changelog/2026-10-22-github-copilot-in-visual-studio-september-update-2",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-22T18:14:16Z"
+          "published_at": "2026-10-23T00:17:51Z"
         }
       ],
       "source_count": 1,
@@ -445,31 +446,31 @@
       ],
       "items": [
         {
-          "id": "0e4fb600be972c4f22258715998d6f1ca534faf3",
-          "title": "更新了 Actions blob 存储的元 API 端点 / Meta API endpoints updated for Actions blob storage",
-          "title_zh": "更新了 Actions blob 存储的元 API 端点",
-          "title_en": "Meta API endpoints updated for Actions blob storage",
-          "title_original": "Meta API endpoints updated for Actions blob storage",
+          "id": "a88735ec39ef7947f5cfe28a64300598600ccc15",
+          "title": "Visual Studio 中的 GitHub Copilot — 9 月更新 / GitHub Copilot in Visual Studio — September update",
+          "title_zh": "Visual Studio 中的 GitHub Copilot — 9 月更新",
+          "title_en": "GitHub Copilot in Visual Studio — September update",
+          "title_original": "GitHub Copilot in Visual Studio — September update",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-22-meta-api-endpoints-updated-for-actions-blob-storage",
+          "url": "https://github.blog/changelog/2026-10-22-github-copilot-in-visual-studio-september-update-2",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-22T18:14:16Z"
+          "published_at": "2026-10-23T00:17:51Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8148,
-      "importance": 0.8148,
-      "importance_score": 0.8148,
+      "score": 0.8033,
+      "importance": 0.8033,
+      "importance_score": 0.8033,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.79,
-        "recency": 0.9265,
+        "ai_relevance": 0.76,
+        "recency": 0.8962,
         "story_heat": 0.0
       },
       "category": "official",
@@ -477,17 +478,17 @@
         "official_source",
         "high_importance"
       ],
-      "earliest_at": "2026-10-22T18:14:16Z",
-      "latest_at": "2026-10-22T18:14:16Z",
+      "earliest_at": "2026-10-23T00:17:51Z",
+      "latest_at": "2026-10-23T00:17:51Z",
       "primary_item": {
-        "id": "0e4fb600be972c4f22258715998d6f1ca534faf3",
-        "title": "更新了 Actions blob 存储的元 API 端点 / Meta API endpoints updated for Actions blob storage",
-        "title_zh": "更新了 Actions blob 存储的元 API 端点",
-        "title_en": "Meta API endpoints updated for Actions blob storage",
-        "title_original": "Meta API endpoints updated for Actions blob storage",
+        "id": "a88735ec39ef7947f5cfe28a64300598600ccc15",
+        "title": "Visual Studio 中的 GitHub Copilot — 9 月更新 / GitHub Copilot in Visual Studio — September update",
+        "title_zh": "Visual Studio 中的 GitHub Copilot — 9 月更新",
+        "title_en": "GitHub Copilot in Visual Studio — September update",
+        "title_original": "GitHub Copilot in Visual Studio — September update",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-22-meta-api-endpoints-updated-for-actions-blob-storage",
+        "url": "https://github.blog/changelog/2026-10-22-github-copilot-in-visual-studio-september-update-2",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -495,7 +496,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-22T23:32:53.092022Z"
+        "scored_at": "2026-10-23T07:54:42.604688Z"
+      }
+    },
+    {
+      "story_id": "story_ffd9a592cd0f",
+      "title": "WSJ：OpenAI 因 Signal 阅后即焚聊天解雇 3 名安全研究员 / WSJ: OpenAI fired 3 safety researchers after security staff found disappearing Signal chats with an outside safety researcher.",
+      "url": "https://x.com/rohanpaul_ai/status/2113511968112042349",
+      "primary_url": "https://x.com/rohanpaul_ai/status/2113511968112042349",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "81db8060d36870e13c889c0bc355e2f558aa4c14",
+          "title": "WSJ：OpenAI 因 Signal 阅后即焚聊天解雇 3 名安全研究员 / WSJ: OpenAI fired 3 safety researchers after security staff found disappearing Signal chats with an outside safety researcher.",
+          "title_zh": "WSJ：OpenAI 因 Signal 阅后即焚聊天解雇 3 名安全研究员",
+          "title_en": "WSJ: OpenAI fired 3 safety researchers after security staff found disappearing Signal chats with an outside safety researcher.",
+          "title_original": "WSJ: OpenAI fired 3 safety researchers after security staff found disappearing Signal chats with an outside safety researcher.",
+          "summary": "据 WSJ 报道，OpenAI 安全人员发现 3 名安全研究员与一名外部安全研究员使用阅后即焚的 Signal 聊天后将其解雇。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/rohanpaul_ai/status/2113511968112042349",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-23T06:04:55Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Rohan Paul (@rohanpaul_ai)"
+      ],
+      "items": [
+        {
+          "id": "81db8060d36870e13c889c0bc355e2f558aa4c14",
+          "title": "WSJ：OpenAI 因 Signal 阅后即焚聊天解雇 3 名安全研究员 / WSJ: OpenAI fired 3 safety researchers after security staff found disappearing Signal chats with an outside safety researcher.",
+          "title_zh": "WSJ：OpenAI 因 Signal 阅后即焚聊天解雇 3 名安全研究员",
+          "title_en": "WSJ: OpenAI fired 3 safety researchers after security staff found disappearing Signal chats with an outside safety researcher.",
+          "title_original": "WSJ: OpenAI fired 3 safety researchers after security staff found disappearing Signal chats with an outside safety researcher.",
+          "summary": "据 WSJ 报道，OpenAI 安全人员发现 3 名安全研究员与一名外部安全研究员使用阅后即焚的 Signal 聊天后将其解雇。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/rohanpaul_ai/status/2113511968112042349",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-23T06:04:55Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.765,
+      "importance": 0.765,
+      "importance_score": 0.765,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 0.95,
+        "recency": 0.9743,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-23T06:04:55Z",
+      "latest_at": "2026-10-23T06:04:55Z",
+      "primary_item": {
+        "id": "81db8060d36870e13c889c0bc355e2f558aa4c14",
+        "title": "WSJ：OpenAI 因 Signal 阅后即焚聊天解雇 3 名安全研究员 / WSJ: OpenAI fired 3 safety researchers after security staff found disappearing Signal chats with an outside safety researcher.",
+        "title_zh": "WSJ：OpenAI 因 Signal 阅后即焚聊天解雇 3 名安全研究员",
+        "title_en": "WSJ: OpenAI fired 3 safety researchers after security staff found disappearing Signal chats with an outside safety researcher.",
+        "title_original": "WSJ: OpenAI fired 3 safety researchers after security staff found disappearing Signal chats with an outside safety researcher.",
+        "summary": "据 WSJ 报道，OpenAI 安全人员发现 3 名安全研究员与一名外部安全研究员使用阅后即焚的 Signal 聊天后将其解雇。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/rohanpaul_ai/status/2113511968112042349",
+        "source": "X：Rohan Paul (@rohanpaul_ai)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-23T07:54:42.604688Z"
       }
     },
     {
@@ -543,15 +626,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8099,
-      "importance": 0.8099,
-      "importance_score": 0.8099,
+      "score": 0.7915,
+      "importance": 0.7915,
+      "importance_score": 0.7915,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.79,
-        "recency": 0.8995,
+        "recency": 0.7972,
         "story_heat": 0.0
       },
       "category": "official",
@@ -577,7 +660,119 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-22T23:32:53.092022Z"
+        "scored_at": "2026-10-23T07:54:42.604688Z"
+      }
+    },
+    {
+      "story_id": "story_141a9a8b3646",
+      "title": "Claude 网页、桌面和移动端将默认启用 auto mode / Starting next week, sessions across Claude web, desktop, and mobile apps will run in auto mode by default on Pro, Max, and Team plans.",
+      "url": "https://x.com/claudeai/status/2113360845409583307",
+      "primary_url": "https://x.com/claudeai/status/2113360845409583307",
+      "source": "X：Claude (@claudeai)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "34d0fdc7f22bba3a5ddc7a131c3e37f3cb047186",
+          "title": "Claude 网页、桌面和移动端将默认启用 auto mode / Starting next week, sessions across Claude web, desktop, and mobile apps will run in auto mode by default on Pro, Max, and Team plans.",
+          "title_zh": "Claude 网页、桌面和移动端将默认启用 auto mode",
+          "title_en": "Starting next week, sessions across Claude web, desktop, and mobile apps will run in auto mode by default on Pro, Max, and Team plans.",
+          "title_original": "Starting next week, sessions across Claude web, desktop, and mobile apps will run in auto mode by default on Pro, Max, and Team plans.",
+          "summary": "Claude 官方宣布，下周起 Pro、Max 和 Team 套餐在 Claude 网页、桌面和移动端应用中的会话将默认以 auto mode 运行。auto mode 不再逐步请求用户批准，而是由自动检查拦截高风险操作，用户可随时切回手动模式。其引用的 Claude Code 更新提到 auto mode 用独立分类器审查 shell 命令，测试中拦截了 89% 的危险命令，手动批准为 14%。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/claudeai/status/2113360845409583307",
+          "source": "X：Claude (@claudeai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-22T20:04:24Z"
+        },
+        {
+          "id": "1beed41df013e8cf0fc60c38661e7145eeb7a344",
+          "title": "Claude 网页、桌面和移动端将默认启用 auto mode / Starting next week, sessions across Claude web, desktop, and mobile apps will run in auto mode by default on Pro, Max, and Team plans. Rather than asking you to approve each step, an automated check blocks risky actio...",
+          "title_zh": "Claude 网页、桌面和移动端将默认启用 auto mode",
+          "title_en": "Starting next week, sessions across Claude web, desktop, and mobile apps will run in auto mode by default on Pro, Max, and Team plans. Rather than asking you to approve each step, an automated check blocks risky actio...",
+          "title_original": "Starting next week, sessions across Claude web, desktop, and mobile apps will run in auto mode by default on Pro, Max, and Team plans. Rather than asking you to approve each step, an automated check blocks risky actio...",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://x.com/claudeai/status/2113360845409583307",
+          "source": "Follow Builders · X · Claude",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-10-22T20:04:24Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Follow Builders · X · Claude",
+        "X：Claude (@claudeai)"
+      ],
+      "items": [
+        {
+          "id": "34d0fdc7f22bba3a5ddc7a131c3e37f3cb047186",
+          "title": "Claude 网页、桌面和移动端将默认启用 auto mode / Starting next week, sessions across Claude web, desktop, and mobile apps will run in auto mode by default on Pro, Max, and Team plans.",
+          "title_zh": "Claude 网页、桌面和移动端将默认启用 auto mode",
+          "title_en": "Starting next week, sessions across Claude web, desktop, and mobile apps will run in auto mode by default on Pro, Max, and Team plans.",
+          "title_original": "Starting next week, sessions across Claude web, desktop, and mobile apps will run in auto mode by default on Pro, Max, and Team plans.",
+          "summary": "Claude 官方宣布，下周起 Pro、Max 和 Team 套餐在 Claude 网页、桌面和移动端应用中的会话将默认以 auto mode 运行。auto mode 不再逐步请求用户批准，而是由自动检查拦截高风险操作，用户可随时切回手动模式。其引用的 Claude Code 更新提到 auto mode 用独立分类器审查 shell 命令，测试中拦截了 89% 的危险命令，手动批准为 14%。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/claudeai/status/2113360845409583307",
+          "source": "X：Claude (@claudeai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-22T20:04:24Z"
+        },
+        {
+          "id": "1beed41df013e8cf0fc60c38661e7145eeb7a344",
+          "title": "Claude 网页、桌面和移动端将默认启用 auto mode / Starting next week, sessions across Claude web, desktop, and mobile apps will run in auto mode by default on Pro, Max, and Team plans. Rather than asking you to approve each step, an automated check blocks risky actio...",
+          "title_zh": "Claude 网页、桌面和移动端将默认启用 auto mode",
+          "title_en": "Starting next week, sessions across Claude web, desktop, and mobile apps will run in auto mode by default on Pro, Max, and Team plans. Rather than asking you to approve each step, an automated check blocks risky actio...",
+          "title_original": "Starting next week, sessions across Claude web, desktop, and mobile apps will run in auto mode by default on Pro, Max, and Team plans. Rather than asking you to approve each step, an automated check blocks risky actio...",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://x.com/claudeai/status/2113360845409583307",
+          "source": "Follow Builders · X · Claude",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-10-22T20:04:24Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7544,
+      "importance": 0.7544,
+      "importance_score": 0.7544,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 0.95,
+        "recency": 0.8432,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-22T20:04:24Z",
+      "latest_at": "2026-10-22T20:04:24Z",
+      "primary_item": {
+        "id": "34d0fdc7f22bba3a5ddc7a131c3e37f3cb047186",
+        "title": "Claude 网页、桌面和移动端将默认启用 auto mode / Starting next week, sessions across Claude web, desktop, and mobile apps will run in auto mode by default on Pro, Max, and Team plans.",
+        "title_zh": "Claude 网页、桌面和移动端将默认启用 auto mode",
+        "title_en": "Starting next week, sessions across Claude web, desktop, and mobile apps will run in auto mode by default on Pro, Max, and Team plans.",
+        "title_original": "Starting next week, sessions across Claude web, desktop, and mobile apps will run in auto mode by default on Pro, Max, and Team plans.",
+        "summary": "Claude 官方宣布，下周起 Pro、Max 和 Team 套餐在 Claude 网页、桌面和移动端应用中的会话将默认以 auto mode 运行。auto mode 不再逐步请求用户批准，而是由自动检查拦截高风险操作，用户可随时切回手动模式。其引用的 Claude Code 更新提到 auto mode 用独立分类器审查 shell 命令，测试中拦截了 89% 的危险命令，手动批准为 14%。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/claudeai/status/2113360845409583307",
+        "source": "X：Claude (@claudeai)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-23T07:54:42.604688Z"
       }
     },
     {
@@ -625,21 +820,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7658,
-      "importance": 0.7658,
-      "importance_score": 0.7658,
+      "score": 0.7475,
+      "importance": 0.7475,
+      "importance_score": 0.7475,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.8957,
+        "recency": 0.7938,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-22T15:53:55Z",
       "latest_at": "2026-10-22T15:53:55Z",
@@ -659,90 +853,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-22T23:32:53.092022Z"
+        "scored_at": "2026-10-23T07:54:42.604688Z"
       }
     },
     {
-      "story_id": "story_03328888af92",
-      "title": "Uber 通过 OpenAI 为所有员工带来 ChatGPT Work / Uber brings ChatGPT Work to all employees with OpenAI",
-      "url": "https://openai.com/index/uber-chatgpt-work-rollout",
-      "primary_url": "https://openai.com/index/uber-chatgpt-work-rollout",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
+      "story_id": "story_6bb0286065bb",
+      "title": "Anthropic 把智能体\"说明书\"交出去：Agent Skills 标准捐给社区",
+      "url": "https://www.aibase.com/news/31831",
+      "primary_url": "https://www.aibase.com/news/31831",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "736bc27726d9b7823372f2500e780984c02fd065",
-          "title": "Uber 通过 OpenAI 为所有员工带来 ChatGPT Work / Uber brings ChatGPT Work to all employees with OpenAI",
-          "title_zh": "Uber 通过 OpenAI 为所有员工带来 ChatGPT Work",
-          "title_en": "Uber brings ChatGPT Work to all employees with OpenAI",
-          "title_original": "Uber brings ChatGPT Work to all employees with OpenAI",
+          "id": "f0fc17e07e9b913f504f5b2de2e5d5be180025a8",
+          "title": "Anthropic 把智能体\"说明书\"交出去：Agent Skills 标准捐给社区",
+          "title_zh": "Anthropic 把智能体\"说明书\"交出去：Agent Skills 标准捐给社区",
+          "title_en": null,
+          "title_original": "Anthropic 把智能体\"说明书\"交出去：Agent Skills 标准捐给社区",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/uber-chatgpt-work-rollout",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-22T00:00:00Z"
+          "url": "https://www.aibase.com/news/31831",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-23T07:53:10.374910Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "OpenAI News"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "736bc27726d9b7823372f2500e780984c02fd065",
-          "title": "Uber 通过 OpenAI 为所有员工带来 ChatGPT Work / Uber brings ChatGPT Work to all employees with OpenAI",
-          "title_zh": "Uber 通过 OpenAI 为所有员工带来 ChatGPT Work",
-          "title_en": "Uber brings ChatGPT Work to all employees with OpenAI",
-          "title_original": "Uber brings ChatGPT Work to all employees with OpenAI",
+          "id": "f0fc17e07e9b913f504f5b2de2e5d5be180025a8",
+          "title": "Anthropic 把智能体\"说明书\"交出去：Agent Skills 标准捐给社区",
+          "title_zh": "Anthropic 把智能体\"说明书\"交出去：Agent Skills 标准捐给社区",
+          "title_en": null,
+          "title_original": "Anthropic 把智能体\"说明书\"交出去：Agent Skills 标准捐给社区",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/uber-chatgpt-work-rollout",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-22T00:00:00Z"
+          "url": "https://www.aibase.com/news/31831",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-23T07:53:10.374910Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8182,
-      "importance": 0.8182,
-      "importance_score": 0.8182,
-      "importance_label": "官方更新",
+      "score": 0.7468,
+      "importance": 0.7468,
+      "importance_score": 0.7468,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.712,
+        "editorial": 0.684,
+        "source_tier": 0.78,
+        "ai_relevance": 0.95,
+        "recency": 1.0,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-22T00:00:00Z",
-      "latest_at": "2026-10-22T00:00:00Z",
+      "earliest_at": "2026-10-23T07:53:10.374910Z",
+      "latest_at": "2026-10-23T07:53:10.374910Z",
       "primary_item": {
-        "id": "736bc27726d9b7823372f2500e780984c02fd065",
-        "title": "Uber 通过 OpenAI 为所有员工带来 ChatGPT Work / Uber brings ChatGPT Work to all employees with OpenAI",
-        "title_zh": "Uber 通过 OpenAI 为所有员工带来 ChatGPT Work",
-        "title_en": "Uber brings ChatGPT Work to all employees with OpenAI",
-        "title_original": "Uber brings ChatGPT Work to all employees with OpenAI",
+        "id": "f0fc17e07e9b913f504f5b2de2e5d5be180025a8",
+        "title": "Anthropic 把智能体\"说明书\"交出去：Agent Skills 标准捐给社区",
+        "title_zh": "Anthropic 把智能体\"说明书\"交出去：Agent Skills 标准捐给社区",
+        "title_en": null,
+        "title_original": "Anthropic 把智能体\"说明书\"交出去：Agent Skills 标准捐给社区",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/uber-chatgpt-work-rollout",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
+        "url": "https://www.aibase.com/news/31831",
+        "source": "AIbase",
+        "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-22T23:32:53.092022Z"
+        "scored_at": "2026-10-23T07:54:42.604688Z"
       }
     },
     {
@@ -790,21 +982,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.756,
-      "importance": 0.756,
-      "importance_score": 0.756,
+      "score": 0.7377,
+      "importance": 0.7377,
+      "importance_score": 0.7377,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.8911,
+        "recency": 0.7897,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-22T15:32:17Z",
       "latest_at": "2026-10-22T15:32:17Z",
@@ -824,111 +1015,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-22T23:32:53.092022Z"
+        "scored_at": "2026-10-23T07:54:42.604688Z"
       }
     },
     {
-      "story_id": "story_141a9a8b3646",
-      "title": "Claude 网页、桌面和移动端将默认启用 auto mode / Starting next week, sessions across Claude web, desktop, and mobile apps will run in auto mode by default on Pro, Max, and Team plans.",
-      "url": "https://x.com/claudeai/status/2113360845409583307",
-      "primary_url": "https://x.com/claudeai/status/2113360845409583307",
-      "source": "X：Claude (@claudeai)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "34d0fdc7f22bba3a5ddc7a131c3e37f3cb047186",
-          "title": "Claude 网页、桌面和移动端将默认启用 auto mode / Starting next week, sessions across Claude web, desktop, and mobile apps will run in auto mode by default on Pro, Max, and Team plans.",
-          "title_zh": "Claude 网页、桌面和移动端将默认启用 auto mode",
-          "title_en": "Starting next week, sessions across Claude web, desktop, and mobile apps will run in auto mode by default on Pro, Max, and Team plans.",
-          "title_original": "Starting next week, sessions across Claude web, desktop, and mobile apps will run in auto mode by default on Pro, Max, and Team plans.",
-          "summary": "Claude 官方宣布，下周起 Pro、Max 和 Team 套餐在 Claude 网页、桌面和移动端应用中的会话将默认以 auto mode 运行。auto mode 不再逐步请求用户批准，而是由自动检查拦截高风险操作，用户可随时切回手动模式。其引用的 Claude Code 更新提到 auto mode 用独立分类器审查 shell 命令，测试中拦截了 89% 的危险命令，手动批准为 14%。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/claudeai/status/2113360845409583307",
-          "source": "X：Claude (@claudeai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-22T20:04:24Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Claude (@claudeai)"
-      ],
-      "items": [
-        {
-          "id": "34d0fdc7f22bba3a5ddc7a131c3e37f3cb047186",
-          "title": "Claude 网页、桌面和移动端将默认启用 auto mode / Starting next week, sessions across Claude web, desktop, and mobile apps will run in auto mode by default on Pro, Max, and Team plans.",
-          "title_zh": "Claude 网页、桌面和移动端将默认启用 auto mode",
-          "title_en": "Starting next week, sessions across Claude web, desktop, and mobile apps will run in auto mode by default on Pro, Max, and Team plans.",
-          "title_original": "Starting next week, sessions across Claude web, desktop, and mobile apps will run in auto mode by default on Pro, Max, and Team plans.",
-          "summary": "Claude 官方宣布，下周起 Pro、Max 和 Team 套餐在 Claude 网页、桌面和移动端应用中的会话将默认以 auto mode 运行。auto mode 不再逐步请求用户批准，而是由自动检查拦截高风险操作，用户可随时切回手动模式。其引用的 Claude Code 更新提到 auto mode 用独立分类器审查 shell 命令，测试中拦截了 89% 的危险命令，手动批准为 14%。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/claudeai/status/2113360845409583307",
-          "source": "X：Claude (@claudeai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-22T20:04:24Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7488,
-      "importance": 0.7488,
-      "importance_score": 0.7488,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 0.95,
-        "recency": 0.9514,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-22T20:04:24Z",
-      "latest_at": "2026-10-22T20:04:24Z",
-      "primary_item": {
-        "id": "34d0fdc7f22bba3a5ddc7a131c3e37f3cb047186",
-        "title": "Claude 网页、桌面和移动端将默认启用 auto mode / Starting next week, sessions across Claude web, desktop, and mobile apps will run in auto mode by default on Pro, Max, and Team plans.",
-        "title_zh": "Claude 网页、桌面和移动端将默认启用 auto mode",
-        "title_en": "Starting next week, sessions across Claude web, desktop, and mobile apps will run in auto mode by default on Pro, Max, and Team plans.",
-        "title_original": "Starting next week, sessions across Claude web, desktop, and mobile apps will run in auto mode by default on Pro, Max, and Team plans.",
-        "summary": "Claude 官方宣布，下周起 Pro、Max 和 Team 套餐在 Claude 网页、桌面和移动端应用中的会话将默认以 auto mode 运行。auto mode 不再逐步请求用户批准，而是由自动检查拦截高风险操作，用户可随时切回手动模式。其引用的 Claude Code 更新提到 auto mode 用独立分类器审查 shell 命令，测试中拦截了 89% 的危险命令，手动批准为 14%。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/claudeai/status/2113360845409583307",
-        "source": "X：Claude (@claudeai)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-22T23:32:53.092022Z"
-      }
-    },
-    {
-      "story_id": "story_30f439995a89",
-      "title": "现在可以通过数据驻留进行公共监控 / Public monitoring now available with data residency",
-      "url": "https://github.blog/changelog/2026-10-22-public-monitoring-now-available-with-data-residency",
-      "primary_url": "https://github.blog/changelog/2026-10-22-public-monitoring-now-available-with-data-residency",
+      "story_id": "story_6c65f6b7b543",
+      "title": "更新了 Actions blob 存储的元 API 端点 / Meta API endpoints updated for Actions blob storage",
+      "url": "https://github.blog/changelog/2026-10-22-meta-api-endpoints-updated-for-actions-blob-storage",
+      "primary_url": "https://github.blog/changelog/2026-10-22-meta-api-endpoints-updated-for-actions-blob-storage",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "fb5ee40338344200220e3d476a9a376feaaf6005",
-          "title": "现在可以通过数据驻留进行公共监控 / Public monitoring now available with data residency",
-          "title_zh": "现在可以通过数据驻留进行公共监控",
-          "title_en": "Public monitoring now available with data residency",
-          "title_original": "Public monitoring now available with data residency",
+          "id": "0e4fb600be972c4f22258715998d6f1ca534faf3",
+          "title": "更新了 Actions blob 存储的元 API 端点 / Meta API endpoints updated for Actions blob storage",
+          "title_zh": "更新了 Actions blob 存储的元 API 端点",
+          "title_en": "Meta API endpoints updated for Actions blob storage",
+          "title_original": "Meta API endpoints updated for Actions blob storage",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-22-public-monitoring-now-available-with-data-residency",
+          "url": "https://github.blog/changelog/2026-10-22-meta-api-endpoints-updated-for-actions-blob-storage",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-22T18:12:58Z"
+          "published_at": "2026-10-22T18:14:16Z"
         }
       ],
       "source_count": 1,
@@ -937,31 +1047,31 @@
       ],
       "items": [
         {
-          "id": "fb5ee40338344200220e3d476a9a376feaaf6005",
-          "title": "现在可以通过数据驻留进行公共监控 / Public monitoring now available with data residency",
-          "title_zh": "现在可以通过数据驻留进行公共监控",
-          "title_en": "Public monitoring now available with data residency",
-          "title_original": "Public monitoring now available with data residency",
+          "id": "0e4fb600be972c4f22258715998d6f1ca534faf3",
+          "title": "更新了 Actions blob 存储的元 API 端点 / Meta API endpoints updated for Actions blob storage",
+          "title_zh": "更新了 Actions blob 存储的元 API 端点",
+          "title_en": "Meta API endpoints updated for Actions blob storage",
+          "title_original": "Meta API endpoints updated for Actions blob storage",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-22-public-monitoring-now-available-with-data-residency",
+          "url": "https://github.blog/changelog/2026-10-22-meta-api-endpoints-updated-for-actions-blob-storage",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-22T18:12:58Z"
+          "published_at": "2026-10-22T18:14:16Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8087,
-      "importance": 0.8087,
-      "importance_score": 0.8087,
+      "score": 0.7958,
+      "importance": 0.7958,
+      "importance_score": 0.7958,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.76,
-        "recency": 0.9262,
+        "ai_relevance": 0.79,
+        "recency": 0.8211,
         "story_heat": 0.0
       },
       "category": "official",
@@ -969,17 +1079,17 @@
         "official_source",
         "high_importance"
       ],
-      "earliest_at": "2026-10-22T18:12:58Z",
-      "latest_at": "2026-10-22T18:12:58Z",
+      "earliest_at": "2026-10-22T18:14:16Z",
+      "latest_at": "2026-10-22T18:14:16Z",
       "primary_item": {
-        "id": "fb5ee40338344200220e3d476a9a376feaaf6005",
-        "title": "现在可以通过数据驻留进行公共监控 / Public monitoring now available with data residency",
-        "title_zh": "现在可以通过数据驻留进行公共监控",
-        "title_en": "Public monitoring now available with data residency",
-        "title_original": "Public monitoring now available with data residency",
+        "id": "0e4fb600be972c4f22258715998d6f1ca534faf3",
+        "title": "更新了 Actions blob 存储的元 API 端点 / Meta API endpoints updated for Actions blob storage",
+        "title_zh": "更新了 Actions blob 存储的元 API 端点",
+        "title_en": "Meta API endpoints updated for Actions blob storage",
+        "title_original": "Meta API endpoints updated for Actions blob storage",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-22-public-monitoring-now-available-with-data-residency",
+        "url": "https://github.blog/changelog/2026-10-22-meta-api-endpoints-updated-for-actions-blob-storage",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -987,7 +1097,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-22T23:32:53.092022Z"
+        "scored_at": "2026-10-23T07:54:42.604688Z"
       }
     },
     {
@@ -1035,15 +1145,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7407,
-      "importance": 0.7407,
-      "importance_score": 0.7407,
+      "score": 0.7211,
+      "importance": 0.7211,
+      "importance_score": 0.7211,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.9559,
+        "recency": 0.8472,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1068,274 +1178,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-22T23:32:53.092022Z"
+        "scored_at": "2026-10-23T07:54:42.604688Z"
       }
     },
     {
-      "story_id": "story_1677cb208364",
-      "title": "消息称 Anthropic 最快本周五公开提交 S-1 招股书，或创史上最大 IPO",
-      "url": "https://www.ithome.com/1/016/243.htm",
-      "primary_url": "https://www.ithome.com/1/016/243.htm",
-      "source": "IT之家·人工智能",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "4fefaa54e689348369ec1f4fb223bbd75ef6f756",
-          "title": "消息称 Anthropic 最快本周五公开提交 S-1 招股书，或创史上最大 IPO",
-          "title_zh": "消息称 Anthropic 最快本周五公开提交 S-1 招股书，或创史上最大 IPO",
-          "title_en": null,
-          "title_original": "消息称 Anthropic 最快本周五公开提交 S-1 招股书，或创史上最大 IPO",
-          "summary": "据雅虎财经援引知情人士报道，Anthropic 最早或于本周五公开提交 S-1 招股说明书，推进有望创史上最大规模的 IPO。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/1/016/243.htm",
-          "source": "IT之家·人工智能",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-22T02:17:14.247000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家·人工智能"
-      ],
-      "items": [
-        {
-          "id": "4fefaa54e689348369ec1f4fb223bbd75ef6f756",
-          "title": "消息称 Anthropic 最快本周五公开提交 S-1 招股书，或创史上最大 IPO",
-          "title_zh": "消息称 Anthropic 最快本周五公开提交 S-1 招股书，或创史上最大 IPO",
-          "title_en": null,
-          "title_original": "消息称 Anthropic 最快本周五公开提交 S-1 招股书，或创史上最大 IPO",
-          "summary": "据雅虎财经援引知情人士报道，Anthropic 最早或于本周五公开提交 S-1 招股说明书，推进有望创史上最大规模的 IPO。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/1/016/243.htm",
-          "source": "IT之家·人工智能",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-22T02:17:14.247000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7401,
-      "importance": 0.7401,
-      "importance_score": 0.7401,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.82,
-        "source_tier": 0.78,
-        "ai_relevance": 0.95,
-        "recency": 0.7359,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-22T02:17:14.247000Z",
-      "latest_at": "2026-10-22T02:17:14.247000Z",
-      "primary_item": {
-        "id": "4fefaa54e689348369ec1f4fb223bbd75ef6f756",
-        "title": "消息称 Anthropic 最快本周五公开提交 S-1 招股书，或创史上最大 IPO",
-        "title_zh": "消息称 Anthropic 最快本周五公开提交 S-1 招股书，或创史上最大 IPO",
-        "title_en": null,
-        "title_original": "消息称 Anthropic 最快本周五公开提交 S-1 招股书，或创史上最大 IPO",
-        "summary": "据雅虎财经援引知情人士报道，Anthropic 最早或于本周五公开提交 S-1 招股说明书，推进有望创史上最大规模的 IPO。",
-        "recommend_reason_zh": null,
-        "url": "https://www.ithome.com/1/016/243.htm",
-        "source": "IT之家·人工智能",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-22T23:32:53.092022Z"
-      }
-    },
-    {
-      "story_id": "story_30ae19eb5cdf",
-      "title": "使用 IBM Granite 时间序列模型进行集合预测 / Ensemble forecasting with IBM Granite time-series models",
-      "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
-      "primary_url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "7cb33189552d9e5b25bb3a8bd053cde189fc030f",
-          "title": "使用 IBM Granite 时间序列模型进行集合预测 / Ensemble forecasting with IBM Granite time-series models",
-          "title_zh": "使用 IBM Granite 时间序列模型进行集合预测",
-          "title_en": "Ensemble forecasting with IBM Granite time-series models",
-          "title_original": "Ensemble forecasting with IBM Granite time-series models",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-22T07:51:31Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "7cb33189552d9e5b25bb3a8bd053cde189fc030f",
-          "title": "使用 IBM Granite 时间序列模型进行集合预测 / Ensemble forecasting with IBM Granite time-series models",
-          "title_zh": "使用 IBM Granite 时间序列模型进行集合预测",
-          "title_en": "Ensemble forecasting with IBM Granite time-series models",
-          "title_original": "Ensemble forecasting with IBM Granite time-series models",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-22T07:51:31Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7916,
-      "importance": 0.7916,
-      "importance_score": 0.7916,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.79,
-        "recency": 0.7975,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-22T07:51:31Z",
-      "latest_at": "2026-10-22T07:51:31Z",
-      "primary_item": {
-        "id": "7cb33189552d9e5b25bb3a8bd053cde189fc030f",
-        "title": "使用 IBM Granite 时间序列模型进行集合预测 / Ensemble forecasting with IBM Granite time-series models",
-        "title_zh": "使用 IBM Granite 时间序列模型进行集合预测",
-        "title_en": "Ensemble forecasting with IBM Granite time-series models",
-        "title_original": "Ensemble forecasting with IBM Granite time-series models",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-22T23:32:53.092022Z"
-      }
-    },
-    {
-      "story_id": "story_c057aaf2b433",
-      "title": "WSJ：马斯克希望以 AI 为核心推动 SpaceX 与 Tesla 合并 / WSJ: Musk wants to combine a $2T rocket company with a $1.5T carmaker around AI.",
-      "url": "https://x.com/rohanpaul_ai/status/2113107154219741231",
-      "primary_url": "https://x.com/rohanpaul_ai/status/2113107154219741231",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "c2f4517ba61d9f58b109ef72c772f37a529e1d5c",
-          "title": "WSJ：马斯克希望以 AI 为核心推动 SpaceX 与 Tesla 合并 / WSJ: Musk wants to combine a $2T rocket company with a $1.5T carmaker around AI.",
-          "title_zh": "WSJ：马斯克希望以 AI 为核心推动 SpaceX 与 Tesla 合并",
-          "title_en": "WSJ: Musk wants to combine a $2T rocket company with a $1.5T carmaker around AI.",
-          "title_original": "WSJ: Musk wants to combine a $2T rocket company with a $1.5T carmaker around AI.",
-          "summary": "WSJ 报道，马斯克希望以 AI 为核心将估值约 $2T 的 SpaceX 与约 $1.5T 的 Tesla 合并。SpaceX 的 AI 业务已成其最大业务，Q3 营收 $7.56B（一年前仅 $813M），季度 $19.6B 资本开支中超过 $16.4B 投向 AI，推动 SpaceX 实现季度利润 $4.4B（上年同期亏损 $1.05B）。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/rohanpaul_ai/status/2113107154219741231",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-22T03:16:19Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Rohan Paul (@rohanpaul_ai)"
-      ],
-      "items": [
-        {
-          "id": "c2f4517ba61d9f58b109ef72c772f37a529e1d5c",
-          "title": "WSJ：马斯克希望以 AI 为核心推动 SpaceX 与 Tesla 合并 / WSJ: Musk wants to combine a $2T rocket company with a $1.5T carmaker around AI.",
-          "title_zh": "WSJ：马斯克希望以 AI 为核心推动 SpaceX 与 Tesla 合并",
-          "title_en": "WSJ: Musk wants to combine a $2T rocket company with a $1.5T carmaker around AI.",
-          "title_original": "WSJ: Musk wants to combine a $2T rocket company with a $1.5T carmaker around AI.",
-          "summary": "WSJ 报道，马斯克希望以 AI 为核心将估值约 $2T 的 SpaceX 与约 $1.5T 的 Tesla 合并。SpaceX 的 AI 业务已成其最大业务，Q3 营收 $7.56B（一年前仅 $813M），季度 $19.6B 资本开支中超过 $16.4B 投向 AI，推动 SpaceX 实现季度利润 $4.4B（上年同期亏损 $1.05B）。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/rohanpaul_ai/status/2113107154219741231",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-22T03:16:19Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.724,
-      "importance": 0.724,
-      "importance_score": 0.724,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 0.95,
-        "recency": 0.7464,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-22T03:16:19Z",
-      "latest_at": "2026-10-22T03:16:19Z",
-      "primary_item": {
-        "id": "c2f4517ba61d9f58b109ef72c772f37a529e1d5c",
-        "title": "WSJ：马斯克希望以 AI 为核心推动 SpaceX 与 Tesla 合并 / WSJ: Musk wants to combine a $2T rocket company with a $1.5T carmaker around AI.",
-        "title_zh": "WSJ：马斯克希望以 AI 为核心推动 SpaceX 与 Tesla 合并",
-        "title_en": "WSJ: Musk wants to combine a $2T rocket company with a $1.5T carmaker around AI.",
-        "title_original": "WSJ: Musk wants to combine a $2T rocket company with a $1.5T carmaker around AI.",
-        "summary": "WSJ 报道，马斯克希望以 AI 为核心将估值约 $2T 的 SpaceX 与约 $1.5T 的 Tesla 合并。SpaceX 的 AI 业务已成其最大业务，Q3 营收 $7.56B（一年前仅 $813M），季度 $19.6B 资本开支中超过 $16.4B 投向 AI，推动 SpaceX 实现季度利润 $4.4B（上年同期亏损 $1.05B）。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/rohanpaul_ai/status/2113107154219741231",
-        "source": "X：Rohan Paul (@rohanpaul_ai)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-22T23:32:53.092022Z"
-      }
-    },
-    {
-      "story_id": "story_3eeb2af7db81",
-      "title": "AI日报：讯飞星火X2.6发布；红果短剧上线小果AI；宇树发布H2X人形机器人测试广告",
-      "url": "https://www.aibase.com/news/31807",
-      "primary_url": "https://www.aibase.com/news/31807",
+      "story_id": "story_c275180a11be",
+      "title": "Claude 狂写 1.8 亿行数学证明：万亿次测试都没抓到的漏洞，被 AI 一锅端",
+      "url": "https://www.aibase.com/news/31834",
+      "primary_url": "https://www.aibase.com/news/31834",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "75c33e996ac35be153d3733042b5408c4f3b3df2",
-          "title": "AI日报：讯飞星火X2.6发布；红果短剧上线小果AI；宇树发布H2X人形机器人测试广告",
-          "title_zh": "AI日报：讯飞星火X2.6发布；红果短剧上线小果AI；宇树发布H2X人形机器人测试广告",
+          "id": "7e327636d52cccd7ae89a907fc592cfd77874820",
+          "title": "Claude 狂写 1.8 亿行数学证明：万亿次测试都没抓到的漏洞，被 AI 一锅端",
+          "title_zh": "Claude 狂写 1.8 亿行数学证明：万亿次测试都没抓到的漏洞，被 AI 一锅端",
           "title_en": null,
-          "title_original": "AI日报：讯飞星火X2.6发布；红果短剧上线小果AI；宇树发布H2X人形机器人测试广告",
+          "title_original": "Claude 狂写 1.8 亿行数学证明：万亿次测试都没抓到的漏洞，被 AI 一锅端",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31807",
+          "url": "https://www.aibase.com/news/31834",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-22T12:54:34.395012Z"
+          "published_at": "2026-10-23T07:53:10.374910Z"
         }
       ],
       "source_count": 1,
@@ -1344,48 +1210,48 @@
       ],
       "items": [
         {
-          "id": "75c33e996ac35be153d3733042b5408c4f3b3df2",
-          "title": "AI日报：讯飞星火X2.6发布；红果短剧上线小果AI；宇树发布H2X人形机器人测试广告",
-          "title_zh": "AI日报：讯飞星火X2.6发布；红果短剧上线小果AI；宇树发布H2X人形机器人测试广告",
+          "id": "7e327636d52cccd7ae89a907fc592cfd77874820",
+          "title": "Claude 狂写 1.8 亿行数学证明：万亿次测试都没抓到的漏洞，被 AI 一锅端",
+          "title_zh": "Claude 狂写 1.8 亿行数学证明：万亿次测试都没抓到的漏洞，被 AI 一锅端",
           "title_en": null,
-          "title_original": "AI日报：讯飞星火X2.6发布；红果短剧上线小果AI；宇树发布H2X人形机器人测试广告",
+          "title_original": "Claude 狂写 1.8 亿行数学证明：万亿次测试都没抓到的漏洞，被 AI 一锅端",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31807",
+          "url": "https://www.aibase.com/news/31834",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-22T12:54:34.395012Z"
+          "published_at": "2026-10-23T07:53:10.374910Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7212,
-      "importance": 0.7212,
-      "importance_score": 0.7212,
+      "score": 0.7468,
+      "importance": 0.7468,
+      "importance_score": 0.7468,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.684,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.8579,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-22T12:54:34.395012Z",
-      "latest_at": "2026-10-22T12:54:34.395012Z",
+      "earliest_at": "2026-10-23T07:53:10.374910Z",
+      "latest_at": "2026-10-23T07:53:10.374910Z",
       "primary_item": {
-        "id": "75c33e996ac35be153d3733042b5408c4f3b3df2",
-        "title": "AI日报：讯飞星火X2.6发布；红果短剧上线小果AI；宇树发布H2X人形机器人测试广告",
-        "title_zh": "AI日报：讯飞星火X2.6发布；红果短剧上线小果AI；宇树发布H2X人形机器人测试广告",
+        "id": "7e327636d52cccd7ae89a907fc592cfd77874820",
+        "title": "Claude 狂写 1.8 亿行数学证明：万亿次测试都没抓到的漏洞，被 AI 一锅端",
+        "title_zh": "Claude 狂写 1.8 亿行数学证明：万亿次测试都没抓到的漏洞，被 AI 一锅端",
         "title_en": null,
-        "title_original": "AI日报：讯飞星火X2.6发布；红果短剧上线小果AI；宇树发布H2X人形机器人测试广告",
+        "title_original": "Claude 狂写 1.8 亿行数学证明：万亿次测试都没抓到的漏洞，被 AI 一锅端",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31807",
+        "url": "https://www.aibase.com/news/31834",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1393,30 +1259,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-22T23:32:53.092022Z"
+        "scored_at": "2026-10-23T07:54:42.604688Z"
       }
     },
     {
-      "story_id": "story_2bb3b3856ddd",
-      "title": "Copilot 影响仪表板中的行业比较 / Industry comparisons in the Copilot impact dashboard",
-      "url": "https://github.blog/changelog/2026-10-22-industry-comparisons-in-the-copilot-impact-dashboard",
-      "primary_url": "https://github.blog/changelog/2026-10-22-industry-comparisons-in-the-copilot-impact-dashboard",
+      "story_id": "story_ea79a79632a0",
+      "title": "Copilot 功能的全局默认设置已全面可用 / Global default for Copilot features generally available",
+      "url": "https://github.blog/changelog/2026-10-22-global-default-for-copilot-features-generally-available",
+      "primary_url": "https://github.blog/changelog/2026-10-22-global-default-for-copilot-features-generally-available",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "e30a9f9228ed0e2efdadaba9e9c8cafa417722b0",
-          "title": "Copilot 影响仪表板中的行业比较 / Industry comparisons in the Copilot impact dashboard",
-          "title_zh": "Copilot 影响仪表板中的行业比较",
-          "title_en": "Industry comparisons in the Copilot impact dashboard",
-          "title_original": "Industry comparisons in the Copilot impact dashboard",
+          "id": "6fbf6465cc070be2afaa5ed6a14206f4f418c014",
+          "title": "Copilot 功能的全局默认设置已全面可用 / Global default for Copilot features generally available",
+          "title_zh": "Copilot 功能的全局默认设置已全面可用",
+          "title_en": "Global default for Copilot features generally available",
+          "title_original": "Global default for Copilot features generally available",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-22-industry-comparisons-in-the-copilot-impact-dashboard",
+          "url": "https://github.blog/changelog/2026-10-22-global-default-for-copilot-features-generally-available",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-22T16:28:24Z"
+          "published_at": "2026-10-22T20:44:28Z"
         }
       ],
       "source_count": 1,
@@ -1425,31 +1291,31 @@
       ],
       "items": [
         {
-          "id": "e30a9f9228ed0e2efdadaba9e9c8cafa417722b0",
-          "title": "Copilot 影响仪表板中的行业比较 / Industry comparisons in the Copilot impact dashboard",
-          "title_zh": "Copilot 影响仪表板中的行业比较",
-          "title_en": "Industry comparisons in the Copilot impact dashboard",
-          "title_original": "Industry comparisons in the Copilot impact dashboard",
+          "id": "6fbf6465cc070be2afaa5ed6a14206f4f418c014",
+          "title": "Copilot 功能的全局默认设置已全面可用 / Global default for Copilot features generally available",
+          "title_zh": "Copilot 功能的全局默认设置已全面可用",
+          "title_en": "Global default for Copilot features generally available",
+          "title_original": "Global default for Copilot features generally available",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-22-industry-comparisons-in-the-copilot-impact-dashboard",
+          "url": "https://github.blog/changelog/2026-10-22-global-default-for-copilot-features-generally-available",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-22T16:28:24Z"
+          "published_at": "2026-10-22T20:44:28Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8046,
-      "importance": 0.8046,
-      "importance_score": 0.8046,
+      "score": 0.7952,
+      "importance": 0.7952,
+      "importance_score": 0.7952,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.76,
-        "recency": 0.9032,
+        "recency": 0.8513,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1457,17 +1323,17 @@
         "official_source",
         "high_importance"
       ],
-      "earliest_at": "2026-10-22T16:28:24Z",
-      "latest_at": "2026-10-22T16:28:24Z",
+      "earliest_at": "2026-10-22T20:44:28Z",
+      "latest_at": "2026-10-22T20:44:28Z",
       "primary_item": {
-        "id": "e30a9f9228ed0e2efdadaba9e9c8cafa417722b0",
-        "title": "Copilot 影响仪表板中的行业比较 / Industry comparisons in the Copilot impact dashboard",
-        "title_zh": "Copilot 影响仪表板中的行业比较",
-        "title_en": "Industry comparisons in the Copilot impact dashboard",
-        "title_original": "Industry comparisons in the Copilot impact dashboard",
+        "id": "6fbf6465cc070be2afaa5ed6a14206f4f418c014",
+        "title": "Copilot 功能的全局默认设置已全面可用 / Global default for Copilot features generally available",
+        "title_zh": "Copilot 功能的全局默认设置已全面可用",
+        "title_en": "Global default for Copilot features generally available",
+        "title_original": "Global default for Copilot features generally available",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-22-industry-comparisons-in-the-copilot-impact-dashboard",
+        "url": "https://github.blog/changelog/2026-10-22-global-default-for-copilot-features-generally-available",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -1475,111 +1341,170 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-22T23:32:53.092022Z"
+        "scored_at": "2026-10-23T07:54:42.604688Z"
       }
     },
     {
-      "story_id": "story_55fa31ca20d9",
-      "title": "Bloomberg 报道 DeepSeek 新一轮融资约 150 亿美元 / Bloomberg: DeepSeek has raised about $15B, one of China’s largest private financings.",
-      "url": "https://x.com/rohanpaul_ai/status/2113106318659928525",
-      "primary_url": "https://x.com/rohanpaul_ai/status/2113106318659928525",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "source_name": "AI HOT",
+      "story_id": "story_34dedb414694",
+      "title": "大型语言模型（LLMs）使得在更大规模上进行形式化软件验证成为可能 / LLMs are making formal software verification feasible at a much larger scale",
+      "url": "https://www.anthropic.com/research/formal-verification",
+      "primary_url": "https://www.anthropic.com/research/formal-verification",
+      "source": "Hacker News front page",
+      "source_name": "Curated Media",
       "sources": [
         {
-          "id": "f069b3c3ee83687d67b15f4bbf7c509fce8aefb8",
-          "title": "Bloomberg 报道 DeepSeek 新一轮融资约 150 亿美元 / Bloomberg: DeepSeek has raised about $15B, one of China’s largest private financings.",
-          "title_zh": "Bloomberg 报道 DeepSeek 新一轮融资约 150 亿美元",
-          "title_en": "Bloomberg: DeepSeek has raised about $15B, one of China’s largest private financings.",
-          "title_original": "Bloomberg: DeepSeek has raised about $15B, one of China’s largest private financings.",
-          "summary": "据 Bloomberg，DeepSeek 最新一轮融资约 150 亿美元，为中国最大规模私募融资之一。谈判期间融资目标至少两次上调，从约 75 亿美元提高到 120 亿美元；CATL 和腾讯是最大投资方之一，CATL 据报出资约 15 亿美元。投前估值约 748 亿美元，加上 6 月完成的首轮超 75 亿美元，DeepSeek 约 6 个月内共募资约 225 亿美元。",
+          "id": "6a0cde6f7e5179f435e501d1a90bcbacd6d51e13",
+          "title": "大型语言模型（LLMs）使得在更大规模上进行形式化软件验证成为可能 / LLMs are making formal software verification feasible at a much larger scale",
+          "title_zh": "大型语言模型（LLMs）使得在更大规模上进行形式化软件验证成为可能",
+          "title_en": "LLMs are making formal software verification feasible at a much larger scale",
+          "title_original": "LLMs are making formal software verification feasible at a much larger scale",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://x.com/rohanpaul_ai/status/2113106318659928525",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-22T03:13:00Z"
+          "url": "https://www.anthropic.com/research/formal-verification",
+          "source": "Hacker News front page",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-22T22:54:43Z"
+        },
+        {
+          "id": "4cea80120de15cf5b77d0a81f090e35503a9854e",
+          "title": "大型语言模型（LLMs）使得在更大规模上进行形式化软件验证成为可能",
+          "title_zh": "大型语言模型（LLMs）使得在更大规模上进行形式化软件验证成为可能",
+          "title_en": null,
+          "title_original": "大型语言模型（LLMs）使得在更大规模上进行形式化软件验证成为可能",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.anthropic.com/research/formal-verification",
+          "source": "www.anthropic.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-23T01:37:52.370000Z"
+        },
+        {
+          "id": "4236c301418b38737fb2fc5d3fd3ad24524465ba",
+          "title": "LLM正在使正式软件验证在更大范围内变得可行 / LLMs are making formal software verification feasible at a much larger scale",
+          "title_zh": "LLM正在使正式软件验证在更大范围内变得可行",
+          "title_en": "LLMs are making formal software verification feasible at a much larger scale",
+          "title_original": "LLMs are making formal software verification feasible at a much larger scale",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50202217",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-22T22:54:43Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 3,
       "source_names": [
-        "X：Rohan Paul (@rohanpaul_ai)"
+        "Hacker News front page",
+        "hackernews",
+        "www.anthropic.com"
       ],
       "items": [
         {
-          "id": "f069b3c3ee83687d67b15f4bbf7c509fce8aefb8",
-          "title": "Bloomberg 报道 DeepSeek 新一轮融资约 150 亿美元 / Bloomberg: DeepSeek has raised about $15B, one of China’s largest private financings.",
-          "title_zh": "Bloomberg 报道 DeepSeek 新一轮融资约 150 亿美元",
-          "title_en": "Bloomberg: DeepSeek has raised about $15B, one of China’s largest private financings.",
-          "title_original": "Bloomberg: DeepSeek has raised about $15B, one of China’s largest private financings.",
-          "summary": "据 Bloomberg，DeepSeek 最新一轮融资约 150 亿美元，为中国最大规模私募融资之一。谈判期间融资目标至少两次上调，从约 75 亿美元提高到 120 亿美元；CATL 和腾讯是最大投资方之一，CATL 据报出资约 15 亿美元。投前估值约 748 亿美元，加上 6 月完成的首轮超 75 亿美元，DeepSeek 约 6 个月内共募资约 225 亿美元。",
+          "id": "6a0cde6f7e5179f435e501d1a90bcbacd6d51e13",
+          "title": "大型语言模型（LLMs）使得在更大规模上进行形式化软件验证成为可能 / LLMs are making formal software verification feasible at a much larger scale",
+          "title_zh": "大型语言模型（LLMs）使得在更大规模上进行形式化软件验证成为可能",
+          "title_en": "LLMs are making formal software verification feasible at a much larger scale",
+          "title_original": "LLMs are making formal software verification feasible at a much larger scale",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://x.com/rohanpaul_ai/status/2113106318659928525",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-22T03:13:00Z"
+          "url": "https://www.anthropic.com/research/formal-verification",
+          "source": "Hacker News front page",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-22T22:54:43Z"
+        },
+        {
+          "id": "4cea80120de15cf5b77d0a81f090e35503a9854e",
+          "title": "大型语言模型（LLMs）使得在更大规模上进行形式化软件验证成为可能",
+          "title_zh": "大型语言模型（LLMs）使得在更大规模上进行形式化软件验证成为可能",
+          "title_en": null,
+          "title_original": "大型语言模型（LLMs）使得在更大规模上进行形式化软件验证成为可能",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.anthropic.com/research/formal-verification",
+          "source": "www.anthropic.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-23T01:37:52.370000Z"
+        },
+        {
+          "id": "4236c301418b38737fb2fc5d3fd3ad24524465ba",
+          "title": "LLM正在使正式软件验证在更大范围内变得可行 / LLMs are making formal software verification feasible at a much larger scale",
+          "title_zh": "LLM正在使正式软件验证在更大范围内变得可行",
+          "title_en": "LLMs are making formal software verification feasible at a much larger scale",
+          "title_original": "LLMs are making formal software verification feasible at a much larger scale",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50202217",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-22T22:54:43Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7238,
-      "importance": 0.7238,
-      "importance_score": 0.7238,
-      "importance_label": "行业动态",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.6935,
+      "importance": 0.6935,
+      "importance_score": 0.6935,
+      "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 0.95,
-        "recency": 0.7458,
-        "story_heat": 0.0
+        "editorial": 0.6192,
+        "source_tier": 0.58,
+        "ai_relevance": 0.86,
+        "recency": 0.8785,
+        "story_heat": 0.5
       },
-      "category": "industry",
+      "category": "multi_source",
       "reasons": [
+        "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-22T03:13:00Z",
-      "latest_at": "2026-10-22T03:13:00Z",
+      "earliest_at": "2026-10-22T22:54:43Z",
+      "latest_at": "2026-10-23T01:37:52.370000Z",
       "primary_item": {
-        "id": "f069b3c3ee83687d67b15f4bbf7c509fce8aefb8",
-        "title": "Bloomberg 报道 DeepSeek 新一轮融资约 150 亿美元 / Bloomberg: DeepSeek has raised about $15B, one of China’s largest private financings.",
-        "title_zh": "Bloomberg 报道 DeepSeek 新一轮融资约 150 亿美元",
-        "title_en": "Bloomberg: DeepSeek has raised about $15B, one of China’s largest private financings.",
-        "title_original": "Bloomberg: DeepSeek has raised about $15B, one of China’s largest private financings.",
-        "summary": "据 Bloomberg，DeepSeek 最新一轮融资约 150 亿美元，为中国最大规模私募融资之一。谈判期间融资目标至少两次上调，从约 75 亿美元提高到 120 亿美元；CATL 和腾讯是最大投资方之一，CATL 据报出资约 15 亿美元。投前估值约 748 亿美元，加上 6 月完成的首轮超 75 亿美元，DeepSeek 约 6 个月内共募资约 225 亿美元。",
+        "id": "6a0cde6f7e5179f435e501d1a90bcbacd6d51e13",
+        "title": "大型语言模型（LLMs）使得在更大规模上进行形式化软件验证成为可能 / LLMs are making formal software verification feasible at a much larger scale",
+        "title_zh": "大型语言模型（LLMs）使得在更大规模上进行形式化软件验证成为可能",
+        "title_en": "LLMs are making formal software verification feasible at a much larger scale",
+        "title_original": "LLMs are making formal software verification feasible at a much larger scale",
+        "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://x.com/rohanpaul_ai/status/2113106318659928525",
-        "source": "X：Rohan Paul (@rohanpaul_ai)",
-        "source_name": "AI HOT"
+        "url": "https://www.anthropic.com/research/formal-verification",
+        "source": "Hacker News front page",
+        "source_name": "Curated Media"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-22T23:32:53.092022Z"
+        "scored_at": "2026-10-23T07:54:42.604688Z"
       }
     },
     {
-      "story_id": "story_0eb254cffc88",
-      "title": "Anthropic 上市前亮出特殊治理架构：把控制权交给不持股的外部受托人",
-      "url": "https://www.aibase.com/news/31810",
-      "primary_url": "https://www.aibase.com/news/31810",
+      "story_id": "story_c83694389b0f",
+      "title": "DeepSeek、MiniMax完成相关登记，推进开源与海外授权使用",
+      "url": "https://www.aibase.com/news/31828",
+      "primary_url": "https://www.aibase.com/news/31828",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "935c0c54688337af319c3925e207e41877c601c9",
-          "title": "Anthropic 上市前亮出特殊治理架构：把控制权交给不持股的外部受托人",
-          "title_zh": "Anthropic 上市前亮出特殊治理架构：把控制权交给不持股的外部受托人",
+          "id": "5a8b852e1984a46cadbdc479a1d06f7e83c9b0f7",
+          "title": "DeepSeek、MiniMax完成相关登记，推进开源与海外授权使用",
+          "title_zh": "DeepSeek、MiniMax完成相关登记，推进开源与海外授权使用",
           "title_en": null,
-          "title_original": "Anthropic 上市前亮出特殊治理架构：把控制权交给不持股的外部受托人",
+          "title_original": "DeepSeek、MiniMax完成相关登记，推进开源与海外授权使用",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31810",
+          "url": "https://www.aibase.com/news/31828",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-22T12:54:34.395012Z"
+          "published_at": "2026-10-23T07:53:10.374910Z"
         }
       ],
       "source_count": 1,
@@ -1588,48 +1513,48 @@
       ],
       "items": [
         {
-          "id": "935c0c54688337af319c3925e207e41877c601c9",
-          "title": "Anthropic 上市前亮出特殊治理架构：把控制权交给不持股的外部受托人",
-          "title_zh": "Anthropic 上市前亮出特殊治理架构：把控制权交给不持股的外部受托人",
+          "id": "5a8b852e1984a46cadbdc479a1d06f7e83c9b0f7",
+          "title": "DeepSeek、MiniMax完成相关登记，推进开源与海外授权使用",
+          "title_zh": "DeepSeek、MiniMax完成相关登记，推进开源与海外授权使用",
           "title_en": null,
-          "title_original": "Anthropic 上市前亮出特殊治理架构：把控制权交给不持股的外部受托人",
+          "title_original": "DeepSeek、MiniMax完成相关登记，推进开源与海外授权使用",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31810",
+          "url": "https://www.aibase.com/news/31828",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-22T12:54:34.395012Z"
+          "published_at": "2026-10-23T07:53:10.374910Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7212,
-      "importance": 0.7212,
-      "importance_score": 0.7212,
+      "score": 0.7468,
+      "importance": 0.7468,
+      "importance_score": 0.7468,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.684,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.8579,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-22T12:54:34.395012Z",
-      "latest_at": "2026-10-22T12:54:34.395012Z",
+      "earliest_at": "2026-10-23T07:53:10.374910Z",
+      "latest_at": "2026-10-23T07:53:10.374910Z",
       "primary_item": {
-        "id": "935c0c54688337af319c3925e207e41877c601c9",
-        "title": "Anthropic 上市前亮出特殊治理架构：把控制权交给不持股的外部受托人",
-        "title_zh": "Anthropic 上市前亮出特殊治理架构：把控制权交给不持股的外部受托人",
+        "id": "5a8b852e1984a46cadbdc479a1d06f7e83c9b0f7",
+        "title": "DeepSeek、MiniMax完成相关登记，推进开源与海外授权使用",
+        "title_zh": "DeepSeek、MiniMax完成相关登记，推进开源与海外授权使用",
         "title_en": null,
-        "title_original": "Anthropic 上市前亮出特殊治理架构：把控制权交给不持股的外部受托人",
+        "title_original": "DeepSeek、MiniMax完成相关登记，推进开源与海外授权使用",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31810",
+        "url": "https://www.aibase.com/news/31828",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1637,7 +1562,170 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-22T23:32:53.092022Z"
+        "scored_at": "2026-10-23T07:54:42.604688Z"
+      }
+    },
+    {
+      "story_id": "story_30f439995a89",
+      "title": "现在可以通过数据驻留进行公共监控 / Public monitoring now available with data residency",
+      "url": "https://github.blog/changelog/2026-10-22-public-monitoring-now-available-with-data-residency",
+      "primary_url": "https://github.blog/changelog/2026-10-22-public-monitoring-now-available-with-data-residency",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "fb5ee40338344200220e3d476a9a376feaaf6005",
+          "title": "现在可以通过数据驻留进行公共监控 / Public monitoring now available with data residency",
+          "title_zh": "现在可以通过数据驻留进行公共监控",
+          "title_en": "Public monitoring now available with data residency",
+          "title_original": "Public monitoring now available with data residency",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-22-public-monitoring-now-available-with-data-residency",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-22T18:12:58Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "fb5ee40338344200220e3d476a9a376feaaf6005",
+          "title": "现在可以通过数据驻留进行公共监控 / Public monitoring now available with data residency",
+          "title_zh": "现在可以通过数据驻留进行公共监控",
+          "title_en": "Public monitoring now available with data residency",
+          "title_original": "Public monitoring now available with data residency",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-22-public-monitoring-now-available-with-data-residency",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-22T18:12:58Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7898,
+      "importance": 0.7898,
+      "importance_score": 0.7898,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.76,
+        "recency": 0.8209,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-22T18:12:58Z",
+      "latest_at": "2026-10-22T18:12:58Z",
+      "primary_item": {
+        "id": "fb5ee40338344200220e3d476a9a376feaaf6005",
+        "title": "现在可以通过数据驻留进行公共监控 / Public monitoring now available with data residency",
+        "title_zh": "现在可以通过数据驻留进行公共监控",
+        "title_en": "Public monitoring now available with data residency",
+        "title_original": "Public monitoring now available with data residency",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-10-22-public-monitoring-now-available-with-data-residency",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-23T07:54:42.604688Z"
+      }
+    },
+    {
+      "story_id": "story_967a5437469b",
+      "title": "Gemini 4 Argon 首发 72 小时吞下 25 万亿 Token，皮查伊首谈砍掉 3.5 Pro 内幕",
+      "url": "https://www.aibase.com/news/31840",
+      "primary_url": "https://www.aibase.com/news/31840",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "d5582a0754fb83f46fc3681774d0e10d25b1cc9f",
+          "title": "Gemini 4 Argon 首发 72 小时吞下 25 万亿 Token，皮查伊首谈砍掉 3.5 Pro 内幕",
+          "title_zh": "Gemini 4 Argon 首发 72 小时吞下 25 万亿 Token，皮查伊首谈砍掉 3.5 Pro 内幕",
+          "title_en": null,
+          "title_original": "Gemini 4 Argon 首发 72 小时吞下 25 万亿 Token，皮查伊首谈砍掉 3.5 Pro 内幕",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31840",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-23T07:53:10.374910Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "d5582a0754fb83f46fc3681774d0e10d25b1cc9f",
+          "title": "Gemini 4 Argon 首发 72 小时吞下 25 万亿 Token，皮查伊首谈砍掉 3.5 Pro 内幕",
+          "title_zh": "Gemini 4 Argon 首发 72 小时吞下 25 万亿 Token，皮查伊首谈砍掉 3.5 Pro 内幕",
+          "title_en": null,
+          "title_original": "Gemini 4 Argon 首发 72 小时吞下 25 万亿 Token，皮查伊首谈砍掉 3.5 Pro 内幕",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31840",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-23T07:53:10.374910Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7468,
+      "importance": 0.7468,
+      "importance_score": 0.7468,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.684,
+        "source_tier": 0.78,
+        "ai_relevance": 0.95,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-23T07:53:10.374910Z",
+      "latest_at": "2026-10-23T07:53:10.374910Z",
+      "primary_item": {
+        "id": "d5582a0754fb83f46fc3681774d0e10d25b1cc9f",
+        "title": "Gemini 4 Argon 首发 72 小时吞下 25 万亿 Token，皮查伊首谈砍掉 3.5 Pro 内幕",
+        "title_zh": "Gemini 4 Argon 首发 72 小时吞下 25 万亿 Token，皮查伊首谈砍掉 3.5 Pro 内幕",
+        "title_en": null,
+        "title_original": "Gemini 4 Argon 首发 72 小时吞下 25 万亿 Token，皮查伊首谈砍掉 3.5 Pro 内幕",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31840",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-23T07:54:42.604688Z"
       }
     }
   ]
