@@ -5,7 +5,7 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Fri, 23 Oct 2026 21:58:13 +0000</lastBuildDate>
+<lastBuildDate>Fri, 23 Oct 2026 23:25:00 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
 <item>
 <title>OpenAI 详解前沿模型训练环境的安全加固与红队测试 / Securing our frontier model training environment</title>
@@ -32,20 +32,12 @@
 <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
-<title>将数据库评分转化为 RL 奖励：使用 ThinkingBox 进行训练后智能体 / Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox</title>
-<link>https://huggingface.co/blog/microsoft/thinkingbox-training</link>
-<guid isPermaLink="true">https://huggingface.co/blog/microsoft/thinkingbox-training</guid>
-<description>Hugging Face Blog</description>
-<category>官方更新</category>
-<pubDate>Thu, 22 Oct 2026 22:24:34 +0000</pubDate>
-</item>
-<item>
-<title>使用指标 API 中的自定义技能、代理和 MCP 服务器 / Custom skills, agents, and MCP servers in usage metrics API</title>
-<link>https://github.blog/changelog/2026-10-22-custom-skills-agents-and-mcp-servers-in-usage-metrics-api</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-10-22-custom-skills-agents-and-mcp-servers-in-usage-metrics-api</guid>
+<title>使用 Teams 中的 GitHub 应用将通知转换为代码 / Turn notifications into code with the GitHub app in Teams</title>
+<link>https://github.blog/changelog/2026-10-23-turn-notifications-into-code-with-github-copilot-in-teams</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-23-turn-notifications-into-code-with-github-copilot-in-teams</guid>
 <description>GitHub Changelog</description>
 <category>官方更新</category>
-<pubDate>Thu, 22 Oct 2026 22:19:17 +0000</pubDate>
+<pubDate>Fri, 23 Oct 2026 21:29:58 +0000</pubDate>
 </item>
 <item>
 <title>LitPivot：通过文学景观中的动态情境化发展研究思路 / LitPivot: Developing research ideas through dynamic contextualization within the literature landscape</title>
@@ -54,6 +46,14 @@
 <description>Hugging Face Blog</description>
 <category>官方更新</category>
 <pubDate>Fri, 23 Oct 2026 16:15:50 +0000</pubDate>
+</item>
+<item>
+<title>OpenAI 红队测试发现 Brotli 未认证远程代码执行漏洞并已披露 / During this red-teaming exercise, we also found a vulnerability that allows for unauthenticated remote code execution in Brotli, a widely...</title>
+<link>https://x.com/OpenAI/status/2113766354386084338</link>
+<guid isPermaLink="true">https://x.com/OpenAI/status/2113766354386084338</guid>
+<description>OpenAI 公布其在红队演练中发现 Brotli 压缩库存在未认证远程代码执行漏洞，攻击者可通过发送或回复恶意压缩数据在受影响系统上执行代码，无需创建用户账号，影响 Node.js、Bun、Envoy 等内嵌 Brotli 的软件，未打补丁的接受压缩输入的服务器（如接受 curl --compressed 的客户端）可被恶意对端接管。（X：OpenAI (@OpenAI)）</description>
+<category>行业动态</category>
+<pubDate>Fri, 23 Oct 2026 22:55:45 +0000</pubDate>
 </item>
 <item>
 <title>EMU deletions fix</title>
@@ -68,6 +68,14 @@
 <link>https://openai.com/index/openai-nask-ai-safety-security-partnership</link>
 <guid isPermaLink="true">https://openai.com/index/openai-nask-ai-safety-security-partnership</guid>
 <description>OpenAI News</description>
+<category>官方更新</category>
+<pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>您的模型在 AWS Trainium 上运行吗？查找一下 / Does Your Model Run on AWS Trainium? Look It Up</title>
+<link>https://huggingface.co/blog/torch-neuronx-model-support</link>
+<guid isPermaLink="true">https://huggingface.co/blog/torch-neuronx-model-support</guid>
+<description>Hugging Face Blog</description>
 <category>官方更新</category>
 <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
 </item>
@@ -104,14 +112,6 @@
 <pubDate>Fri, 23 Oct 2026 06:04:55 +0000</pubDate>
 </item>
 <item>
-<title>您的模型在 AWS Trainium 上运行吗？查找一下 / Does Your Model Run on AWS Trainium? Look It Up</title>
-<link>https://huggingface.co/blog/torch-neuronx-model-support</link>
-<guid isPermaLink="true">https://huggingface.co/blog/torch-neuronx-model-support</guid>
-<description>Hugging Face Blog</description>
-<category>官方更新</category>
-<pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
 <title>砸下 150 亿美元！DeepSeek 携手宁德时代转战内蒙古，1GW 国产智算中心掀起基建狂潮</title>
 <link>https://www.aibase.com/news/31844</link>
 <guid isPermaLink="true">https://www.aibase.com/news/31844</guid>
@@ -144,20 +144,20 @@
 <pubDate>Fri, 23 Oct 2026 16:51:17 +0000</pubDate>
 </item>
 <item>
-<title>大型语言模型（LLMs）使得在更大规模上进行形式化软件验证成为可能 / LLMs are making formal software verification feasible at a much larger scale</title>
-<link>https://www.anthropic.com/research/formal-verification</link>
-<guid isPermaLink="true">https://www.anthropic.com/research/formal-verification</guid>
-<description>Hacker News front page</description>
-<category>多源热议</category>
-<pubDate>Fri, 23 Oct 2026 01:37:52 +0000</pubDate>
-</item>
-<item>
-<title>显示 HN：CATT 0.2.1：在 CI 中针对类似 Muse/Instinct 的测试代理/服务 / Show HN: CATT 0.2.1: Test agents/services against a Muse/Instinct-alike, in CI</title>
-<link>https://github.com/Coverage-Cat/consumer-agent-testing-tool</link>
-<guid isPermaLink="true">https://github.com/Coverage-Cat/consumer-agent-testing-tool</guid>
+<title>Show HN：Corgi，一个有用的{代理，终端}多路复用器 / Show HN: Corgi, a helpful {agent, terminal} multiplexer</title>
+<link>https://corgi.computer</link>
+<guid isPermaLink="true">https://corgi.computer</guid>
 <description>Hacker News front page</description>
 <category>值得关注</category>
-<pubDate>Thu, 22 Oct 2026 22:18:40 +0000</pubDate>
+<pubDate>Fri, 23 Oct 2026 19:46:38 +0000</pubDate>
+</item>
+<item>
+<title>据报道，Anthropic 的一些支持者在首次公开募股前的身价是多少 / What some of Anthropic’s backers are reportedly worth before its IPO</title>
+<link>https://techcrunch.com/2026/10/23/what-some-of-anthropics-backers-are-reportedly-worth-before-its-ipo</link>
+<guid isPermaLink="true">https://techcrunch.com/2026/10/23/what-some-of-anthropics-backers-are-reportedly-worth-before-its-ipo</guid>
+<description>TechCrunch</description>
+<category>值得关注</category>
+<pubDate>Fri, 23 Oct 2026 16:02:43 +0000</pubDate>
 </item>
 </channel>
 </rss>
