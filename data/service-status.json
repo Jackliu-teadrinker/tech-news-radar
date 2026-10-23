@@ -1,16 +1,30 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-23T18:39:45.682253Z",
+  "generated_at": "2026-10-23T21:58:13.094722Z",
   "ok": true,
-  "active_count": 0,
+  "active_count": 1,
   "providers": [
     {
       "id": "openai",
       "name": "OpenAI",
       "status_url": "https://status.openai.com/",
       "ok": true,
-      "active_count": 0
+      "active_count": 1
     }
   ],
-  "incidents": []
+  "incidents": [
+    {
+      "id": "01M5NAR5GZC5M7D0S7AQ6CGEEN",
+      "provider": "OpenAI",
+      "title": "Help Center Chat Support Degraded",
+      "title_zh": "Help Center Chat Support Degraded",
+      "status": "monitoring",
+      "impact": "none",
+      "started_at": "2026-10-23T21:30:25Z",
+      "updated_at": "2026-10-23T21:52:07Z",
+      "message": "We have applied the mitigation and are monitoring the recovery.",
+      "affected_components": [],
+      "url": "https://status.openai.com/incidents/01M5NAR5GZC5M7D0S7AQ6CGEEN"
+    }
+  ]
 }
