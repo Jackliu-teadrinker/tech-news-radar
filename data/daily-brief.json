@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-23T23:25:00.627598Z",
+  "generated_at": "2026-10-24T07:33:55.045224Z",
   "window_hours": 24,
-  "total_items": 19,
+  "total_items": 17,
   "items": [
     {
       "story_id": "story_f1fd04d99c59",
@@ -38,12 +38,27 @@
           "source_name": "Curated Media",
           "site_id": "curated_media",
           "published_at": "2026-10-23T19:50:56Z"
+        },
+        {
+          "id": "1918442280c89123af768e8d5ef1c994a2bace17",
+          "title": "保障我们的前沿模型训练环境安全",
+          "title_zh": "保障我们的前沿模型训练环境安全",
+          "title_en": null,
+          "title_original": "保障我们的前沿模型训练环境安全",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-24T06:38:45.839000Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 3,
       "source_names": [
         "Hacker News front page",
-        "OpenAI News"
+        "OpenAI News",
+        "openai.com"
       ],
       "items": [
         {
@@ -73,20 +88,34 @@
           "source_name": "Curated Media",
           "site_id": "curated_media",
           "published_at": "2026-10-23T19:50:56Z"
+        },
+        {
+          "id": "1918442280c89123af768e8d5ef1c994a2bace17",
+          "title": "保障我们的前沿模型训练环境安全",
+          "title_zh": "保障我们的前沿模型训练环境安全",
+          "title_en": null,
+          "title_original": "保障我们的前沿模型训练环境安全",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-24T06:38:45.839000Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8593,
-      "importance": 0.8593,
-      "importance_score": 0.8593,
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8678,
+      "importance": 0.8678,
+      "importance_score": 0.8678,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.8239,
-        "story_heat": 0.25
+        "recency": 0.7324,
+        "story_heat": 0.5
       },
       "category": "official",
       "reasons": [
@@ -96,7 +125,7 @@
         "high_importance"
       ],
       "earliest_at": "2026-10-23T10:00:00Z",
-      "latest_at": "2026-10-23T19:50:56Z",
+      "latest_at": "2026-10-24T06:38:45.839000Z",
       "primary_item": {
         "id": "c454633931fc080d83f73a727cbc6af5769ae497",
         "title": "OpenAI 详解前沿模型训练环境的安全加固与红队测试 / Securing our frontier model training environment",
@@ -113,7 +142,118 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T23:26:12.783160Z"
+        "scored_at": "2026-10-24T07:35:16.231876Z"
+      }
+    },
+    {
+      "story_id": "story_f72f49ac2b3d",
+      "title": "使用 Teams 中的 GitHub Copilot 将通知转换为代码 / Turn notifications into code with GitHub Copilot in Teams",
+      "url": "https://github.blog/changelog/2026-10-23-turn-notifications-into-code-with-github-copilot-in-teams",
+      "primary_url": "https://github.blog/changelog/2026-10-23-turn-notifications-into-code-with-github-copilot-in-teams",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "0a71e3d318d0c7fd2e0f0bea1f082ce0ad117ce5",
+          "title": "使用 Teams 中的 GitHub Copilot 将通知转换为代码 / Turn notifications into code with GitHub Copilot in Teams",
+          "title_zh": "使用 Teams 中的 GitHub Copilot 将通知转换为代码",
+          "title_en": "Turn notifications into code with GitHub Copilot in Teams",
+          "title_original": "Turn notifications into code with GitHub Copilot in Teams",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-23-turn-notifications-into-code-with-github-copilot-in-teams",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-23T21:29:58Z"
+        },
+        {
+          "id": "7249caaf5d8e4fa74f500b63fd84ef08e048b474",
+          "title": "使用 Teams 中的 GitHub 应用将通知转换为代码 / Turn notifications into code with the GitHub app in Teams",
+          "title_zh": "使用 Teams 中的 GitHub 应用将通知转换为代码",
+          "title_en": "Turn notifications into code with the GitHub app in Teams",
+          "title_original": "Turn notifications into code with the GitHub app in Teams",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-23-turn-notifications-into-code-with-github-copilot-in-teams",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-23T21:29:58Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "0a71e3d318d0c7fd2e0f0bea1f082ce0ad117ce5",
+          "title": "使用 Teams 中的 GitHub Copilot 将通知转换为代码 / Turn notifications into code with GitHub Copilot in Teams",
+          "title_zh": "使用 Teams 中的 GitHub Copilot 将通知转换为代码",
+          "title_en": "Turn notifications into code with GitHub Copilot in Teams",
+          "title_original": "Turn notifications into code with GitHub Copilot in Teams",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-23-turn-notifications-into-code-with-github-copilot-in-teams",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-23T21:29:58Z"
+        },
+        {
+          "id": "7249caaf5d8e4fa74f500b63fd84ef08e048b474",
+          "title": "使用 Teams 中的 GitHub 应用将通知转换为代码 / Turn notifications into code with the GitHub app in Teams",
+          "title_zh": "使用 Teams 中的 GitHub 应用将通知转换为代码",
+          "title_en": "Turn notifications into code with the GitHub app in Teams",
+          "title_original": "Turn notifications into code with the GitHub app in Teams",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-23-turn-notifications-into-code-with-github-copilot-in-teams",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-23T21:29:58Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8226,
+      "importance": 0.8226,
+      "importance_score": 0.8226,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.76,
+        "recency": 0.8647,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-23T21:29:58Z",
+      "latest_at": "2026-10-23T21:29:58Z",
+      "primary_item": {
+        "id": "0a71e3d318d0c7fd2e0f0bea1f082ce0ad117ce5",
+        "title": "使用 Teams 中的 GitHub Copilot 将通知转换为代码 / Turn notifications into code with GitHub Copilot in Teams",
+        "title_zh": "使用 Teams 中的 GitHub Copilot 将通知转换为代码",
+        "title_en": "Turn notifications into code with GitHub Copilot in Teams",
+        "title_original": "Turn notifications into code with GitHub Copilot in Teams",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-10-23-turn-notifications-into-code-with-github-copilot-in-teams",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-24T07:35:16.231876Z"
       }
     },
     {
@@ -161,15 +301,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8541,
-      "importance": 0.8541,
-      "importance_score": 0.8541,
+      "score": 0.8359,
+      "importance": 0.8359,
+      "importance_score": 0.8359,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9115,
+        "recency": 0.8103,
         "story_heat": 0.0
       },
       "category": "official",
@@ -196,172 +336,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T23:26:12.783160Z"
-      }
-    },
-    {
-      "story_id": "story_8df94465a5bc",
-      "title": "Codex CLI 0.164.0",
-      "url": "https://developers.openai.com/codex/changelog",
-      "primary_url": "https://developers.openai.com/codex/changelog",
-      "source": "OpenAI Codex Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "46cf2412bc319ea7599997de82d560e558ffac5d",
-          "title": "Codex CLI 0.164.0",
-          "title_zh": null,
-          "title_en": "Codex CLI 0.164.0",
-          "title_original": "Codex CLI 0.164.0",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-23T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI Codex Changelog"
-      ],
-      "items": [
-        {
-          "id": "46cf2412bc319ea7599997de82d560e558ffac5d",
-          "title": "Codex CLI 0.164.0",
-          "title_zh": null,
-          "title_en": "Codex CLI 0.164.0",
-          "title_original": "Codex CLI 0.164.0",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-23T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8184,
-      "importance": 0.8184,
-      "importance_score": 0.8184,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.7131,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-23T00:00:00Z",
-      "latest_at": "2026-10-23T00:00:00Z",
-      "primary_item": {
-        "id": "46cf2412bc319ea7599997de82d560e558ffac5d",
-        "title": "Codex CLI 0.164.0",
-        "title_zh": null,
-        "title_en": "Codex CLI 0.164.0",
-        "title_original": "Codex CLI 0.164.0",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://developers.openai.com/codex/changelog",
-        "source": "OpenAI Codex Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-23T23:26:12.783160Z"
-      }
-    },
-    {
-      "story_id": "story_ef0581bb03bf",
-      "title": "使用 Teams 中的 GitHub 应用将通知转换为代码 / Turn notifications into code with the GitHub app in Teams",
-      "url": "https://github.blog/changelog/2026-10-23-turn-notifications-into-code-with-github-copilot-in-teams",
-      "primary_url": "https://github.blog/changelog/2026-10-23-turn-notifications-into-code-with-github-copilot-in-teams",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "7249caaf5d8e4fa74f500b63fd84ef08e048b474",
-          "title": "使用 Teams 中的 GitHub 应用将通知转换为代码 / Turn notifications into code with the GitHub app in Teams",
-          "title_zh": "使用 Teams 中的 GitHub 应用将通知转换为代码",
-          "title_en": "Turn notifications into code with the GitHub app in Teams",
-          "title_original": "Turn notifications into code with the GitHub app in Teams",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-23-turn-notifications-into-code-with-github-copilot-in-teams",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-23T21:29:58Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "7249caaf5d8e4fa74f500b63fd84ef08e048b474",
-          "title": "使用 Teams 中的 GitHub 应用将通知转换为代码 / Turn notifications into code with the GitHub app in Teams",
-          "title_zh": "使用 Teams 中的 GitHub 应用将通知转换为代码",
-          "title_en": "Turn notifications into code with the GitHub app in Teams",
-          "title_original": "Turn notifications into code with the GitHub app in Teams",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-23-turn-notifications-into-code-with-github-copilot-in-teams",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-23T21:29:58Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8111,
-      "importance": 0.8111,
-      "importance_score": 0.8111,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.73,
-        "recency": 0.9727,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-23T21:29:58Z",
-      "latest_at": "2026-10-23T21:29:58Z",
-      "primary_item": {
-        "id": "7249caaf5d8e4fa74f500b63fd84ef08e048b474",
-        "title": "使用 Teams 中的 GitHub 应用将通知转换为代码 / Turn notifications into code with the GitHub app in Teams",
-        "title_zh": "使用 Teams 中的 GitHub 应用将通知转换为代码",
-        "title_en": "Turn notifications into code with the GitHub app in Teams",
-        "title_original": "Turn notifications into code with the GitHub app in Teams",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-23-turn-notifications-into-code-with-github-copilot-in-teams",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-23T23:26:12.783160Z"
+        "scored_at": "2026-10-24T07:35:16.231876Z"
       }
     },
     {
@@ -409,15 +384,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8103,
-      "importance": 0.8103,
-      "importance_score": 0.8103,
+      "score": 0.7923,
+      "importance": 0.7923,
+      "importance_score": 0.7923,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.79,
-        "recency": 0.9019,
+        "recency": 0.8017,
         "story_heat": 0.0
       },
       "category": "official",
@@ -443,7 +418,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T23:26:12.783160Z"
+        "scored_at": "2026-10-24T07:35:16.231876Z"
       }
     },
     {
@@ -491,15 +466,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7953,
-      "importance": 0.7953,
-      "importance_score": 0.7953,
+      "score": 0.7755,
+      "importance": 0.7755,
+      "importance_score": 0.7755,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.993,
+        "recency": 0.8828,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -525,30 +500,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T23:26:12.783160Z"
+        "scored_at": "2026-10-24T07:35:16.231876Z"
       }
     },
     {
-      "story_id": "story_e601481ec54f",
-      "title": "EMU deletions fix",
-      "url": "https://github.blog/changelog/2026-10-23-emu-deletions-fix",
-      "primary_url": "https://github.blog/changelog/2026-10-23-emu-deletions-fix",
+      "story_id": "story_84a11f0b50ca",
+      "title": "使用指标 API 添加了 OpenCode 等工具的使用情况 / Usage metrics API adds usage from tools like OpenCode",
+      "url": "https://github.blog/changelog/2026-10-23-usage-metrics-api-adds-usage-from-tools-like-opencode",
+      "primary_url": "https://github.blog/changelog/2026-10-23-usage-metrics-api-adds-usage-from-tools-like-opencode",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "528bd92cad03cc6da0c9082f63cc3b317526cd7f",
-          "title": "EMU deletions fix",
-          "title_zh": null,
-          "title_en": "EMU deletions fix",
-          "title_original": "EMU deletions fix",
+          "id": "3b4fcd596e6825d3abe88776d6c9bae75a9a3323",
+          "title": "使用指标 API 添加了 OpenCode 等工具的使用情况 / Usage metrics API adds usage from tools like OpenCode",
+          "title_zh": "使用指标 API 添加了 OpenCode 等工具的使用情况",
+          "title_en": "Usage metrics API adds usage from tools like OpenCode",
+          "title_original": "Usage metrics API adds usage from tools like OpenCode",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-23-emu-deletions-fix",
+          "url": "https://github.blog/changelog/2026-10-23-usage-metrics-api-adds-usage-from-tools-like-opencode",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-23T18:56:18Z"
+          "published_at": "2026-10-23T23:42:03Z"
         }
       ],
       "source_count": 1,
@@ -557,31 +532,31 @@
       ],
       "items": [
         {
-          "id": "528bd92cad03cc6da0c9082f63cc3b317526cd7f",
-          "title": "EMU deletions fix",
-          "title_zh": null,
-          "title_en": "EMU deletions fix",
-          "title_original": "EMU deletions fix",
+          "id": "3b4fcd596e6825d3abe88776d6c9bae75a9a3323",
+          "title": "使用指标 API 添加了 OpenCode 等工具的使用情况 / Usage metrics API adds usage from tools like OpenCode",
+          "title_zh": "使用指标 API 添加了 OpenCode 等工具的使用情况",
+          "title_en": "Usage metrics API adds usage from tools like OpenCode",
+          "title_original": "Usage metrics API adds usage from tools like OpenCode",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-23-emu-deletions-fix",
+          "url": "https://github.blog/changelog/2026-10-23-usage-metrics-api-adds-usage-from-tools-like-opencode",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-23T18:56:18Z"
+          "published_at": "2026-10-23T23:42:03Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8047,
-      "importance": 0.8047,
-      "importance_score": 0.8047,
+      "score": 0.8027,
+      "importance": 0.8027,
+      "importance_score": 0.8027,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.73,
-        "recency": 0.9374,
+        "ai_relevance": 0.76,
+        "recency": 0.8926,
         "story_heat": 0.0
       },
       "category": "official",
@@ -589,17 +564,17 @@
         "official_source",
         "high_importance"
       ],
-      "earliest_at": "2026-10-23T18:56:18Z",
-      "latest_at": "2026-10-23T18:56:18Z",
+      "earliest_at": "2026-10-23T23:42:03Z",
+      "latest_at": "2026-10-23T23:42:03Z",
       "primary_item": {
-        "id": "528bd92cad03cc6da0c9082f63cc3b317526cd7f",
-        "title": "EMU deletions fix",
-        "title_zh": null,
-        "title_en": "EMU deletions fix",
-        "title_original": "EMU deletions fix",
+        "id": "3b4fcd596e6825d3abe88776d6c9bae75a9a3323",
+        "title": "使用指标 API 添加了 OpenCode 等工具的使用情况 / Usage metrics API adds usage from tools like OpenCode",
+        "title_zh": "使用指标 API 添加了 OpenCode 等工具的使用情况",
+        "title_en": "Usage metrics API adds usage from tools like OpenCode",
+        "title_original": "Usage metrics API adds usage from tools like OpenCode",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-23-emu-deletions-fix",
+        "url": "https://github.blog/changelog/2026-10-23-usage-metrics-api-adds-usage-from-tools-like-opencode",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -607,173 +582,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T23:26:12.783160Z"
+        "scored_at": "2026-10-24T07:35:16.231876Z"
       }
     },
     {
-      "story_id": "story_ce7f81360e67",
-      "title": "OpenAI 与波兰 NSK 合作推进人工智能安全 / OpenAI and Poland’s NASK partner to advance AI safety and security",
-      "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
-      "primary_url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
-      "source": "OpenAI News",
+      "story_id": "story_b44e0e852702",
+      "title": "公共监控增加了分类、有效性、API 和 webhooks / Public monitoring adds triage, validity, API, and webhooks",
+      "url": "https://github.blog/changelog/2026-10-23-public-monitoring-adds-triage-validity-api-and-webhooks",
+      "primary_url": "https://github.blog/changelog/2026-10-23-public-monitoring-adds-triage-validity-api-and-webhooks",
+      "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "630bfc3514ea5821d0559d703bba5e93973627a1",
-          "title": "OpenAI 与波兰 NSK 合作推进人工智能安全 / OpenAI and Poland’s NASK partner to advance AI safety and security",
-          "title_zh": "OpenAI 与波兰 NSK 合作推进人工智能安全",
-          "title_en": "OpenAI and Poland’s NASK partner to advance AI safety and security",
-          "title_original": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+          "id": "b5ab9adf42604bd348a662da8c020d8636a91d7c",
+          "title": "公共监控增加了分类、有效性、API 和 webhooks / Public monitoring adds triage, validity, API, and webhooks",
+          "title_zh": "公共监控增加了分类、有效性、API 和 webhooks",
+          "title_en": "Public monitoring adds triage, validity, API, and webhooks",
+          "title_original": "Public monitoring adds triage, validity, API, and webhooks",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
-          "source": "OpenAI News",
+          "url": "https://github.blog/changelog/2026-10-23-public-monitoring-adds-triage-validity-api-and-webhooks",
+          "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-23T00:00:00Z"
+          "published_at": "2026-10-23T17:17:58Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "OpenAI News"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "630bfc3514ea5821d0559d703bba5e93973627a1",
-          "title": "OpenAI 与波兰 NSK 合作推进人工智能安全 / OpenAI and Poland’s NASK partner to advance AI safety and security",
-          "title_zh": "OpenAI 与波兰 NSK 合作推进人工智能安全",
-          "title_en": "OpenAI and Poland’s NASK partner to advance AI safety and security",
-          "title_original": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+          "id": "b5ab9adf42604bd348a662da8c020d8636a91d7c",
+          "title": "公共监控增加了分类、有效性、API 和 webhooks / Public monitoring adds triage, validity, API, and webhooks",
+          "title_zh": "公共监控增加了分类、有效性、API 和 webhooks",
+          "title_en": "Public monitoring adds triage, validity, API, and webhooks",
+          "title_original": "Public monitoring adds triage, validity, API, and webhooks",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
-          "source": "OpenAI News",
+          "url": "https://github.blog/changelog/2026-10-23-public-monitoring-adds-triage-validity-api-and-webhooks",
+          "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-23T00:00:00Z"
+          "published_at": "2026-10-23T17:17:58Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8144,
-      "importance": 0.8144,
-      "importance_score": 0.8144,
+      "score": 0.7945,
+      "importance": 0.7945,
+      "importance_score": 0.7945,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.7131,
+        "ai_relevance": 0.79,
+        "recency": 0.8138,
         "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-23T00:00:00Z",
-      "latest_at": "2026-10-23T00:00:00Z",
+      "earliest_at": "2026-10-23T17:17:58Z",
+      "latest_at": "2026-10-23T17:17:58Z",
       "primary_item": {
-        "id": "630bfc3514ea5821d0559d703bba5e93973627a1",
-        "title": "OpenAI 与波兰 NSK 合作推进人工智能安全 / OpenAI and Poland’s NASK partner to advance AI safety and security",
-        "title_zh": "OpenAI 与波兰 NSK 合作推进人工智能安全",
-        "title_en": "OpenAI and Poland’s NASK partner to advance AI safety and security",
-        "title_original": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+        "id": "b5ab9adf42604bd348a662da8c020d8636a91d7c",
+        "title": "公共监控增加了分类、有效性、API 和 webhooks / Public monitoring adds triage, validity, API, and webhooks",
+        "title_zh": "公共监控增加了分类、有效性、API 和 webhooks",
+        "title_en": "Public monitoring adds triage, validity, API, and webhooks",
+        "title_original": "Public monitoring adds triage, validity, API, and webhooks",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
-        "source": "OpenAI News",
+        "url": "https://github.blog/changelog/2026-10-23-public-monitoring-adds-triage-validity-api-and-webhooks",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T23:26:12.783160Z"
-      }
-    },
-    {
-      "story_id": "story_4cbd065cbc83",
-      "title": "您的模型在 AWS Trainium 上运行吗？查找一下 / Does Your Model Run on AWS Trainium? Look It Up",
-      "url": "https://huggingface.co/blog/torch-neuronx-model-support",
-      "primary_url": "https://huggingface.co/blog/torch-neuronx-model-support",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "84c7447f6830a11c70e161779cc185595db8c6cf",
-          "title": "您的模型在 AWS Trainium 上运行吗？查找一下 / Does Your Model Run on AWS Trainium? Look It Up",
-          "title_zh": "您的模型在 AWS Trainium 上运行吗？查找一下",
-          "title_en": "Does Your Model Run on AWS Trainium? Look It Up",
-          "title_original": "Does Your Model Run on AWS Trainium? Look It Up",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/torch-neuronx-model-support",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-23T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "84c7447f6830a11c70e161779cc185595db8c6cf",
-          "title": "您的模型在 AWS Trainium 上运行吗？查找一下 / Does Your Model Run on AWS Trainium? Look It Up",
-          "title_zh": "您的模型在 AWS Trainium 上运行吗？查找一下",
-          "title_en": "Does Your Model Run on AWS Trainium? Look It Up",
-          "title_original": "Does Your Model Run on AWS Trainium? Look It Up",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/torch-neuronx-model-support",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-23T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7824,
-      "importance": 0.7824,
-      "importance_score": 0.7824,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.82,
-        "recency": 0.7131,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-23T00:00:00Z",
-      "latest_at": "2026-10-23T00:00:00Z",
-      "primary_item": {
-        "id": "84c7447f6830a11c70e161779cc185595db8c6cf",
-        "title": "您的模型在 AWS Trainium 上运行吗？查找一下 / Does Your Model Run on AWS Trainium? Look It Up",
-        "title_zh": "您的模型在 AWS Trainium 上运行吗？查找一下",
-        "title_en": "Does Your Model Run on AWS Trainium? Look It Up",
-        "title_original": "Does Your Model Run on AWS Trainium? Look It Up",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/torch-neuronx-model-support",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-23T23:26:12.783160Z"
+        "scored_at": "2026-10-24T07:35:16.231876Z"
       }
     },
     {
@@ -821,15 +712,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7405,
-      "importance": 0.7405,
-      "importance_score": 0.7405,
+      "score": 0.7241,
+      "importance": 0.7241,
+      "importance_score": 0.7241,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.8218,
+        "recency": 0.7306,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -854,7 +745,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T23:26:12.783160Z"
+        "scored_at": "2026-10-24T07:35:16.231876Z"
       }
     },
     {
@@ -902,15 +793,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7364,
-      "importance": 0.7364,
-      "importance_score": 0.7364,
+      "score": 0.7201,
+      "importance": 0.7201,
+      "importance_score": 0.7201,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.8154,
+        "recency": 0.7249,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -935,30 +826,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T23:26:12.783160Z"
+        "scored_at": "2026-10-24T07:35:16.231876Z"
       }
     },
     {
-      "story_id": "story_3844d9781f45",
-      "title": "GitHub 应用程序的企业安装现已普遍可用 / Enterprise installations for GitHub Apps generally available",
-      "url": "https://github.blog/changelog/2026-10-23-enterprise-installations-for-github-apps-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-10-23-enterprise-installations-for-github-apps-generally-available",
+      "story_id": "story_e601481ec54f",
+      "title": "EMU deletions fix",
+      "url": "https://github.blog/changelog/2026-10-23-emu-deletions-fix",
+      "primary_url": "https://github.blog/changelog/2026-10-23-emu-deletions-fix",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "d831c5d2e4928724c912ce58fc38d01b18b53922",
-          "title": "GitHub 应用程序的企业安装现已普遍可用 / Enterprise installations for GitHub Apps generally available",
-          "title_zh": "GitHub 应用程序的企业安装现已普遍可用",
-          "title_en": "Enterprise installations for GitHub Apps generally available",
-          "title_original": "Enterprise installations for GitHub Apps generally available",
+          "id": "528bd92cad03cc6da0c9082f63cc3b317526cd7f",
+          "title": "EMU deletions fix",
+          "title_zh": null,
+          "title_en": "EMU deletions fix",
+          "title_original": "EMU deletions fix",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-23-enterprise-installations-for-github-apps-generally-available",
+          "url": "https://github.blog/changelog/2026-10-23-emu-deletions-fix",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-23T15:03:30Z"
+          "published_at": "2026-10-23T18:56:18Z"
         }
       ],
       "source_count": 1,
@@ -967,31 +858,31 @@
       ],
       "items": [
         {
-          "id": "d831c5d2e4928724c912ce58fc38d01b18b53922",
-          "title": "GitHub 应用程序的企业安装现已普遍可用 / Enterprise installations for GitHub Apps generally available",
-          "title_zh": "GitHub 应用程序的企业安装现已普遍可用",
-          "title_en": "Enterprise installations for GitHub Apps generally available",
-          "title_original": "Enterprise installations for GitHub Apps generally available",
+          "id": "528bd92cad03cc6da0c9082f63cc3b317526cd7f",
+          "title": "EMU deletions fix",
+          "title_zh": null,
+          "title_en": "EMU deletions fix",
+          "title_original": "EMU deletions fix",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-23-enterprise-installations-for-github-apps-generally-available",
+          "url": "https://github.blog/changelog/2026-10-23-emu-deletions-fix",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-23T15:03:30Z"
+          "published_at": "2026-10-23T18:56:18Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7955,
-      "importance": 0.7955,
-      "importance_score": 0.7955,
+      "score": 0.786,
+      "importance": 0.786,
+      "importance_score": 0.786,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.73,
-        "recency": 0.8863,
+        "recency": 0.8333,
         "story_heat": 0.0
       },
       "category": "official",
@@ -999,17 +890,17 @@
         "official_source",
         "high_importance"
       ],
-      "earliest_at": "2026-10-23T15:03:30Z",
-      "latest_at": "2026-10-23T15:03:30Z",
+      "earliest_at": "2026-10-23T18:56:18Z",
+      "latest_at": "2026-10-23T18:56:18Z",
       "primary_item": {
-        "id": "d831c5d2e4928724c912ce58fc38d01b18b53922",
-        "title": "GitHub 应用程序的企业安装现已普遍可用 / Enterprise installations for GitHub Apps generally available",
-        "title_zh": "GitHub 应用程序的企业安装现已普遍可用",
-        "title_en": "Enterprise installations for GitHub Apps generally available",
-        "title_original": "Enterprise installations for GitHub Apps generally available",
+        "id": "528bd92cad03cc6da0c9082f63cc3b317526cd7f",
+        "title": "EMU deletions fix",
+        "title_zh": null,
+        "title_en": "EMU deletions fix",
+        "title_original": "EMU deletions fix",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-23-enterprise-installations-for-github-apps-generally-available",
+        "url": "https://github.blog/changelog/2026-10-23-emu-deletions-fix",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -1017,251 +908,118 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T23:26:12.783160Z"
+        "scored_at": "2026-10-24T07:35:16.231876Z"
       }
     },
     {
-      "story_id": "story_ffd9a592cd0f",
-      "title": "WSJ：OpenAI 因 Signal 阅后即焚聊天解雇 3 名安全研究员 / WSJ: OpenAI fired 3 safety researchers after security staff found disappearing Signal chats with an outside safety researcher.",
-      "url": "https://x.com/rohanpaul_ai/status/2113511968112042349",
-      "primary_url": "https://x.com/rohanpaul_ai/status/2113511968112042349",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "source_name": "AI HOT",
+      "story_id": "story_88569579ce04",
+      "title": "OpenAI 在模型训练期间禁用互联网访问，而 Anthropic 又提出了一个道歉 / OpenAI disables internet access during model training while Anthropic issues another mea culpa",
+      "url": "https://www.theregister.com/ai-and-ml/2026/10/23/openai-disables-internet-access-during-model-training-while-anthropic-issues-another-mea-culpa/5305238",
+      "primary_url": "https://www.theregister.com/ai-and-ml/2026/10/23/openai-disables-internet-access-during-model-training-while-anthropic-issues-another-mea-culpa/5305238",
+      "source": "The Register",
+      "source_name": "Curated Media",
       "sources": [
         {
-          "id": "81db8060d36870e13c889c0bc355e2f558aa4c14",
-          "title": "WSJ：OpenAI 因 Signal 阅后即焚聊天解雇 3 名安全研究员 / WSJ: OpenAI fired 3 safety researchers after security staff found disappearing Signal chats with an outside safety researcher.",
-          "title_zh": "WSJ：OpenAI 因 Signal 阅后即焚聊天解雇 3 名安全研究员",
-          "title_en": "WSJ: OpenAI fired 3 safety researchers after security staff found disappearing Signal chats with an outside safety researcher.",
-          "title_original": "WSJ: OpenAI fired 3 safety researchers after security staff found disappearing Signal chats with an outside safety researcher.",
-          "summary": "据 WSJ 报道，OpenAI 安全人员发现 3 名安全研究员与一名外部安全研究员使用阅后即焚的 Signal 聊天后将其解雇。",
+          "id": "22740a516c395aa43aa67a4210208f2cd1b694c0",
+          "title": "OpenAI 在模型训练期间禁用互联网访问，而 Anthropic 又提出了一个道歉 / OpenAI disables internet access during model training while Anthropic issues another mea culpa",
+          "title_zh": "OpenAI 在模型训练期间禁用互联网访问，而 Anthropic 又提出了一个道歉",
+          "title_en": "OpenAI disables internet access during model training while Anthropic issues another mea culpa",
+          "title_original": "OpenAI disables internet access during model training while Anthropic issues another mea culpa",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://x.com/rohanpaul_ai/status/2113511968112042349",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-23T06:04:55Z"
+          "url": "https://www.theregister.com/ai-and-ml/2026/10/23/openai-disables-internet-access-during-model-training-while-anthropic-issues-another-mea-culpa/5305238",
+          "source": "The Register",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-23T22:36:11Z"
+        },
+        {
+          "id": "f2c2bed892991ccce8229fe7d7a0743d3c672064",
+          "title": "OpenAI 在模型训练期间禁用互联网访问 / OpenAI disables internet access during model training",
+          "title_zh": "OpenAI 在模型训练期间禁用互联网访问",
+          "title_en": "OpenAI disables internet access during model training",
+          "title_original": "OpenAI disables internet access during model training",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theregister.com/ai-and-ml/2026/10/23/openai-disables-internet-access-during-model-training-while-anthropic-issues-another-mea-culpa/5305238",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-10-24T02:40:53Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "X：Rohan Paul (@rohanpaul_ai)"
+        "HN Algolia · AI 24h",
+        "The Register"
       ],
       "items": [
         {
-          "id": "81db8060d36870e13c889c0bc355e2f558aa4c14",
-          "title": "WSJ：OpenAI 因 Signal 阅后即焚聊天解雇 3 名安全研究员 / WSJ: OpenAI fired 3 safety researchers after security staff found disappearing Signal chats with an outside safety researcher.",
-          "title_zh": "WSJ：OpenAI 因 Signal 阅后即焚聊天解雇 3 名安全研究员",
-          "title_en": "WSJ: OpenAI fired 3 safety researchers after security staff found disappearing Signal chats with an outside safety researcher.",
-          "title_original": "WSJ: OpenAI fired 3 safety researchers after security staff found disappearing Signal chats with an outside safety researcher.",
-          "summary": "据 WSJ 报道，OpenAI 安全人员发现 3 名安全研究员与一名外部安全研究员使用阅后即焚的 Signal 聊天后将其解雇。",
+          "id": "22740a516c395aa43aa67a4210208f2cd1b694c0",
+          "title": "OpenAI 在模型训练期间禁用互联网访问，而 Anthropic 又提出了一个道歉 / OpenAI disables internet access during model training while Anthropic issues another mea culpa",
+          "title_zh": "OpenAI 在模型训练期间禁用互联网访问，而 Anthropic 又提出了一个道歉",
+          "title_en": "OpenAI disables internet access during model training while Anthropic issues another mea culpa",
+          "title_original": "OpenAI disables internet access during model training while Anthropic issues another mea culpa",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://x.com/rohanpaul_ai/status/2113511968112042349",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-23T06:04:55Z"
+          "url": "https://www.theregister.com/ai-and-ml/2026/10/23/openai-disables-internet-access-during-model-training-while-anthropic-issues-another-mea-culpa/5305238",
+          "source": "The Register",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-23T22:36:11Z"
+        },
+        {
+          "id": "f2c2bed892991ccce8229fe7d7a0743d3c672064",
+          "title": "OpenAI 在模型训练期间禁用互联网访问 / OpenAI disables internet access during model training",
+          "title_zh": "OpenAI 在模型训练期间禁用互联网访问",
+          "title_en": "OpenAI disables internet access during model training",
+          "title_original": "OpenAI disables internet access during model training",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theregister.com/ai-and-ml/2026/10/23/openai-disables-internet-access-during-model-training-while-anthropic-issues-another-mea-culpa/5305238",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-10-24T02:40:53Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7297,
-      "importance": 0.7297,
-      "importance_score": 0.7297,
-      "importance_label": "行业动态",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6685,
+      "importance": 0.6685,
+      "importance_score": 0.6685,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 0.95,
-        "recency": 0.7785,
-        "story_heat": 0.0
+        "editorial": 0.6192,
+        "source_tier": 0.58,
+        "ai_relevance": 0.86,
+        "recency": 0.8786,
+        "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
+        "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-23T06:04:55Z",
-      "latest_at": "2026-10-23T06:04:55Z",
+      "earliest_at": "2026-10-23T22:36:11Z",
+      "latest_at": "2026-10-24T02:40:53Z",
       "primary_item": {
-        "id": "81db8060d36870e13c889c0bc355e2f558aa4c14",
-        "title": "WSJ：OpenAI 因 Signal 阅后即焚聊天解雇 3 名安全研究员 / WSJ: OpenAI fired 3 safety researchers after security staff found disappearing Signal chats with an outside safety researcher.",
-        "title_zh": "WSJ：OpenAI 因 Signal 阅后即焚聊天解雇 3 名安全研究员",
-        "title_en": "WSJ: OpenAI fired 3 safety researchers after security staff found disappearing Signal chats with an outside safety researcher.",
-        "title_original": "WSJ: OpenAI fired 3 safety researchers after security staff found disappearing Signal chats with an outside safety researcher.",
-        "summary": "据 WSJ 报道，OpenAI 安全人员发现 3 名安全研究员与一名外部安全研究员使用阅后即焚的 Signal 聊天后将其解雇。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/rohanpaul_ai/status/2113511968112042349",
-        "source": "X：Rohan Paul (@rohanpaul_ai)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-23T23:26:12.783160Z"
-      }
-    },
-    {
-      "story_id": "story_8e35d2e824ae",
-      "title": "砸下 150 亿美元！DeepSeek 携手宁德时代转战内蒙古，1GW 国产智算中心掀起基建狂潮",
-      "url": "https://www.aibase.com/news/31844",
-      "primary_url": "https://www.aibase.com/news/31844",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "576db78930973a42eaa09a939eb35b2079d0e07e",
-          "title": "砸下 150 亿美元！DeepSeek 携手宁德时代转战内蒙古，1GW 国产智算中心掀起基建狂潮",
-          "title_zh": "砸下 150 亿美元！DeepSeek 携手宁德时代转战内蒙古，1GW 国产智算中心掀起基建狂潮",
-          "title_en": null,
-          "title_original": "砸下 150 亿美元！DeepSeek 携手宁德时代转战内蒙古，1GW 国产智算中心掀起基建狂潮",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31844",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-23T12:33:16.932364Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "576db78930973a42eaa09a939eb35b2079d0e07e",
-          "title": "砸下 150 亿美元！DeepSeek 携手宁德时代转战内蒙古，1GW 国产智算中心掀起基建狂潮",
-          "title_zh": "砸下 150 亿美元！DeepSeek 携手宁德时代转战内蒙古，1GW 国产智算中心掀起基建狂潮",
-          "title_en": null,
-          "title_original": "砸下 150 亿美元！DeepSeek 携手宁德时代转战内蒙古，1GW 国产智算中心掀起基建狂潮",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31844",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-23T12:33:16.932364Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7207,
-      "importance": 0.7207,
-      "importance_score": 0.7207,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.684,
-        "source_tier": 0.78,
-        "ai_relevance": 0.95,
-        "recency": 0.8548,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-23T12:33:16.932364Z",
-      "latest_at": "2026-10-23T12:33:16.932364Z",
-      "primary_item": {
-        "id": "576db78930973a42eaa09a939eb35b2079d0e07e",
-        "title": "砸下 150 亿美元！DeepSeek 携手宁德时代转战内蒙古，1GW 国产智算中心掀起基建狂潮",
-        "title_zh": "砸下 150 亿美元！DeepSeek 携手宁德时代转战内蒙古，1GW 国产智算中心掀起基建狂潮",
-        "title_en": null,
-        "title_original": "砸下 150 亿美元！DeepSeek 携手宁德时代转战内蒙古，1GW 国产智算中心掀起基建狂潮",
+        "id": "22740a516c395aa43aa67a4210208f2cd1b694c0",
+        "title": "OpenAI 在模型训练期间禁用互联网访问，而 Anthropic 又提出了一个道歉 / OpenAI disables internet access during model training while Anthropic issues another mea culpa",
+        "title_zh": "OpenAI 在模型训练期间禁用互联网访问，而 Anthropic 又提出了一个道歉",
+        "title_en": "OpenAI disables internet access during model training while Anthropic issues another mea culpa",
+        "title_original": "OpenAI disables internet access during model training while Anthropic issues another mea culpa",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31844",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "url": "https://www.theregister.com/ai-and-ml/2026/10/23/openai-disables-internet-access-during-model-training-while-anthropic-issues-another-mea-culpa/5305238",
+        "source": "The Register",
+        "source_name": "Curated Media"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T23:26:12.783160Z"
-      }
-    },
-    {
-      "story_id": "story_fde7fea26706",
-      "title": "Visual Studio 中的 GitHub Copilot — 9 月更新 / GitHub Copilot in Visual Studio — September update",
-      "url": "https://github.blog/changelog/2026-10-22-github-copilot-in-visual-studio-september-update-2",
-      "primary_url": "https://github.blog/changelog/2026-10-22-github-copilot-in-visual-studio-september-update-2",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "a88735ec39ef7947f5cfe28a64300598600ccc15",
-          "title": "Visual Studio 中的 GitHub Copilot — 9 月更新 / GitHub Copilot in Visual Studio — September update",
-          "title_zh": "Visual Studio 中的 GitHub Copilot — 9 月更新",
-          "title_en": "GitHub Copilot in Visual Studio — September update",
-          "title_original": "GitHub Copilot in Visual Studio — September update",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-22-github-copilot-in-visual-studio-september-update-2",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-23T00:17:51Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "a88735ec39ef7947f5cfe28a64300598600ccc15",
-          "title": "Visual Studio 中的 GitHub Copilot — 9 月更新 / GitHub Copilot in Visual Studio — September update",
-          "title_zh": "Visual Studio 中的 GitHub Copilot — 9 月更新",
-          "title_en": "GitHub Copilot in Visual Studio — September update",
-          "title_original": "GitHub Copilot in Visual Studio — September update",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-22-github-copilot-in-visual-studio-september-update-2",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-23T00:17:51Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7709,
-      "importance": 0.7709,
-      "importance_score": 0.7709,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.76,
-        "recency": 0.7162,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-23T00:17:51Z",
-      "latest_at": "2026-10-23T00:17:51Z",
-      "primary_item": {
-        "id": "a88735ec39ef7947f5cfe28a64300598600ccc15",
-        "title": "Visual Studio 中的 GitHub Copilot — 9 月更新 / GitHub Copilot in Visual Studio — September update",
-        "title_zh": "Visual Studio 中的 GitHub Copilot — 9 月更新",
-        "title_en": "GitHub Copilot in Visual Studio — September update",
-        "title_original": "GitHub Copilot in Visual Studio — September update",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-22-github-copilot-in-visual-studio-september-update-2",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-23T23:26:12.783160Z"
+        "scored_at": "2026-10-24T07:35:16.231876Z"
       }
     },
     {
@@ -1367,15 +1125,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6748,
-      "importance": 0.6748,
-      "importance_score": 0.6748,
+      "score": 0.6579,
+      "importance": 0.6579,
+      "importance_score": 0.6579,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5976,
         "source_tier": 0.58,
         "ai_relevance": 0.83,
-        "recency": 0.8439,
+        "recency": 0.7502,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1401,7 +1159,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T23:26:12.783160Z"
+        "scored_at": "2026-10-24T07:35:16.231876Z"
+      }
+    },
+    {
+      "story_id": "story_3844d9781f45",
+      "title": "GitHub 应用程序的企业安装现已普遍可用 / Enterprise installations for GitHub Apps generally available",
+      "url": "https://github.blog/changelog/2026-10-23-enterprise-installations-for-github-apps-generally-available",
+      "primary_url": "https://github.blog/changelog/2026-10-23-enterprise-installations-for-github-apps-generally-available",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "d831c5d2e4928724c912ce58fc38d01b18b53922",
+          "title": "GitHub 应用程序的企业安装现已普遍可用 / Enterprise installations for GitHub Apps generally available",
+          "title_zh": "GitHub 应用程序的企业安装现已普遍可用",
+          "title_en": "Enterprise installations for GitHub Apps generally available",
+          "title_original": "Enterprise installations for GitHub Apps generally available",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-23-enterprise-installations-for-github-apps-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-23T15:03:30Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "d831c5d2e4928724c912ce58fc38d01b18b53922",
+          "title": "GitHub 应用程序的企业安装现已普遍可用 / Enterprise installations for GitHub Apps generally available",
+          "title_zh": "GitHub 应用程序的企业安装现已普遍可用",
+          "title_en": "Enterprise installations for GitHub Apps generally available",
+          "title_original": "Enterprise installations for GitHub Apps generally available",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-23-enterprise-installations-for-github-apps-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-23T15:03:30Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7778,
+      "importance": 0.7778,
+      "importance_score": 0.7778,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.73,
+        "recency": 0.7879,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-23T15:03:30Z",
+      "latest_at": "2026-10-23T15:03:30Z",
+      "primary_item": {
+        "id": "d831c5d2e4928724c912ce58fc38d01b18b53922",
+        "title": "GitHub 应用程序的企业安装现已普遍可用 / Enterprise installations for GitHub Apps generally available",
+        "title_zh": "GitHub 应用程序的企业安装现已普遍可用",
+        "title_en": "Enterprise installations for GitHub Apps generally available",
+        "title_original": "Enterprise installations for GitHub Apps generally available",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-10-23-enterprise-installations-for-github-apps-generally-available",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-24T07:35:16.231876Z"
       }
     },
     {
@@ -1507,15 +1347,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6646,
-      "importance": 0.6646,
-      "importance_score": 0.6646,
+      "score": 0.6466,
+      "importance": 0.6466,
+      "importance_score": 0.6466,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5616,
         "source_tier": 0.58,
         "ai_relevance": 0.78,
-        "recency": 0.9032,
+        "recency": 0.8029,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1540,7 +1380,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T23:26:12.783160Z"
+        "scored_at": "2026-10-24T07:35:16.231876Z"
+      }
+    },
+    {
+      "story_id": "story_70c4dd51f339",
+      "title": "千问蒋冠军：Personal Agent技术框架，需要模型、记忆与生态协同推进",
+      "url": "https://www.infoq.cn/article/6EJRFIef67xr3x6vyCJa",
+      "primary_url": "https://www.infoq.cn/article/6EJRFIef67xr3x6vyCJa",
+      "source": "InfoQ CN",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "3b48e37362c859ec6ea2f6273267ef6fe3fa80e2",
+          "title": "千问蒋冠军：Personal Agent技术框架，需要模型、记忆与生态协同推进",
+          "title_zh": "千问蒋冠军：Personal Agent技术框架，需要模型、记忆与生态协同推进",
+          "title_en": null,
+          "title_original": "千问蒋冠军：Personal Agent技术框架，需要模型、记忆与生态协同推进",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.infoq.cn/article/6EJRFIef67xr3x6vyCJa",
+          "source": "InfoQ CN",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-10-23T07:45:32Z"
+        },
+        {
+          "id": "9613b4db478a3282def21f8a22110cb307426650",
+          "title": "千问蒋冠军：构建Personal Agent技术框架，需要模型、记忆与生态协同推进",
+          "title_zh": "千问蒋冠军：构建Personal Agent技术框架，需要模型、记忆与生态协同推进",
+          "title_en": null,
+          "title_original": "千问蒋冠军：构建Personal Agent技术框架，需要模型、记忆与生态协同推进",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.leiphone.com/category/industrynews/DHR4Qc9YwHX7lin8.html",
+          "source": "雷峰网",
+          "source_name": "Sector Sources",
+          "site_id": "sector_sources",
+          "published_at": "2026-10-23T07:38:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "InfoQ CN",
+        "雷峰网"
+      ],
+      "items": [
+        {
+          "id": "3b48e37362c859ec6ea2f6273267ef6fe3fa80e2",
+          "title": "千问蒋冠军：Personal Agent技术框架，需要模型、记忆与生态协同推进",
+          "title_zh": "千问蒋冠军：Personal Agent技术框架，需要模型、记忆与生态协同推进",
+          "title_en": null,
+          "title_original": "千问蒋冠军：Personal Agent技术框架，需要模型、记忆与生态协同推进",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.infoq.cn/article/6EJRFIef67xr3x6vyCJa",
+          "source": "InfoQ CN",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-10-23T07:45:32Z"
+        },
+        {
+          "id": "9613b4db478a3282def21f8a22110cb307426650",
+          "title": "千问蒋冠军：构建Personal Agent技术框架，需要模型、记忆与生态协同推进",
+          "title_zh": "千问蒋冠军：构建Personal Agent技术框架，需要模型、记忆与生态协同推进",
+          "title_en": null,
+          "title_original": "千问蒋冠军：构建Personal Agent技术框架，需要模型、记忆与生态协同推进",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.leiphone.com/category/industrynews/DHR4Qc9YwHX7lin8.html",
+          "source": "雷峰网",
+          "source_name": "Sector Sources",
+          "site_id": "sector_sources",
+          "published_at": "2026-10-23T07:38:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5622,
+      "importance": 0.5622,
+      "importance_score": 0.5622,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5184,
+        "source_tier": 0.5,
+        "ai_relevance": 0.72,
+        "recency": 0.7091,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-23T07:38:00Z",
+      "latest_at": "2026-10-23T07:45:32Z",
+      "primary_item": {
+        "id": "3b48e37362c859ec6ea2f6273267ef6fe3fa80e2",
+        "title": "千问蒋冠军：Personal Agent技术框架，需要模型、记忆与生态协同推进",
+        "title_zh": "千问蒋冠军：Personal Agent技术框架，需要模型、记忆与生态协同推进",
+        "title_en": null,
+        "title_original": "千问蒋冠军：Personal Agent技术框架，需要模型、记忆与生态协同推进",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.infoq.cn/article/6EJRFIef67xr3x6vyCJa",
+        "source": "InfoQ CN",
+        "source_name": "OPML RSS"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-24T07:35:16.231876Z"
       }
     },
     {
@@ -1617,15 +1567,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6354,
-      "importance": 0.6354,
-      "importance_score": 0.6354,
+      "score": 0.6164,
+      "importance": 0.6164,
+      "importance_score": 0.6164,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.54,
         "source_tier": 0.58,
         "ai_relevance": 0.75,
-        "recency": 0.9488,
+        "recency": 0.8435,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1650,7 +1600,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T23:26:12.783160Z"
+        "scored_at": "2026-10-24T07:35:16.231876Z"
       }
     },
     {
@@ -1726,15 +1676,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5484,
-      "importance": 0.5484,
-      "importance_score": 0.5484,
+      "score": 0.5305,
+      "importance": 0.5305,
+      "importance_score": 0.5305,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.504,
         "source_tier": 0.32,
         "ai_relevance": 0.7,
-        "recency": 0.899,
+        "recency": 0.7992,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1759,7 +1709,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T23:26:12.783160Z"
+        "scored_at": "2026-10-24T07:35:16.231876Z"
       }
     }
   ]
