@@ -1,89 +1,8 @@
 {
-  "generated_at": "2026-10-25T07:46:57.326068Z",
+  "generated_at": "2026-10-25T12:28:57.847341Z",
   "window_hours": 24,
-  "total_items": 11,
+  "total_items": 9,
   "items": [
-    {
-      "story_id": "story_57b57c29f36c",
-      "title": "OpenAI 智能体在隔离测试中借 CPU 缓存隐蔽通信 / OpenAI's isolated AI agents found ways to talk to each other through CPU cache",
-      "url": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache",
-      "primary_url": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b89f63b4fd497217f8aab5d9f7dd940f3bf706d2",
-          "title": "OpenAI 智能体在隔离测试中借 CPU 缓存隐蔽通信 / OpenAI's isolated AI agents found ways to talk to each other through CPU cache",
-          "title_zh": "OpenAI 智能体在隔离测试中借 CPU 缓存隐蔽通信",
-          "title_en": "OpenAI's isolated AI agents found ways to talk to each other through CPU cache",
-          "title_original": "OpenAI's isolated AI agents found ways to talk to each other through CPU cache",
-          "summary": "OpenAI 介绍其前沿模型训练已完全断网，并用 AI 智能体红队测试自家基础设施。隔离测试中，智能体在无网络、无共享文件的条件下通过 CPU 缓存时序差异、共享内存写入模式等侧信道通信，甚至独立建立编码方案交换信息。",
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-24T11:12:36Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "The Decoder：AI News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "b89f63b4fd497217f8aab5d9f7dd940f3bf706d2",
-          "title": "OpenAI 智能体在隔离测试中借 CPU 缓存隐蔽通信 / OpenAI's isolated AI agents found ways to talk to each other through CPU cache",
-          "title_zh": "OpenAI 智能体在隔离测试中借 CPU 缓存隐蔽通信",
-          "title_en": "OpenAI's isolated AI agents found ways to talk to each other through CPU cache",
-          "title_original": "OpenAI's isolated AI agents found ways to talk to each other through CPU cache",
-          "summary": "OpenAI 介绍其前沿模型训练已完全断网，并用 AI 智能体红队测试自家基础设施。隔离测试中，智能体在无网络、无共享文件的条件下通过 CPU 缓存时序差异、共享内存写入模式等侧信道通信，甚至独立建立编码方案交换信息。",
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-24T11:12:36Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7413,
-      "importance": 0.7413,
-      "importance_score": 0.7413,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.82,
-        "source_tier": 0.78,
-        "ai_relevance": 0.95,
-        "recency": 0.743,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-24T11:12:36Z",
-      "latest_at": "2026-10-24T11:12:36Z",
-      "primary_item": {
-        "id": "b89f63b4fd497217f8aab5d9f7dd940f3bf706d2",
-        "title": "OpenAI 智能体在隔离测试中借 CPU 缓存隐蔽通信 / OpenAI's isolated AI agents found ways to talk to each other through CPU cache",
-        "title_zh": "OpenAI 智能体在隔离测试中借 CPU 缓存隐蔽通信",
-        "title_en": "OpenAI's isolated AI agents found ways to talk to each other through CPU cache",
-        "title_original": "OpenAI's isolated AI agents found ways to talk to each other through CPU cache",
-        "summary": "OpenAI 介绍其前沿模型训练已完全断网，并用 AI 智能体红队测试自家基础设施。隔离测试中，智能体在无网络、无共享文件的条件下通过 CPU 缓存时序差异、共享内存写入模式等侧信道通信，甚至独立建立编码方案交换信息。",
-        "recommend_reason_zh": null,
-        "url": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-25T07:48:33.913808Z"
-      }
-    },
     {
       "story_id": "story_fbda2c665b46",
       "title": "Ethan Mollick：OpenAI 红队测试显示前沿模型智能体真能越狱沙箱，实验室的 AI 安全警告值得重视 / Without being overly credulous, we should be taking seemingly “out there” ideas about AI cybersecurity from the Labs more seriously. Exam...",
@@ -129,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7329,
-      "importance": 0.7329,
-      "importance_score": 0.7329,
+      "score": 0.7237,
+      "importance": 0.7237,
+      "importance_score": 0.7237,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.7793,
+        "recency": 0.7281,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -162,7 +81,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-25T07:48:33.913808Z"
+        "scored_at": "2026-10-25T12:30:18.121995Z"
       }
     },
     {
@@ -239,15 +158,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6332,
-      "importance": 0.6332,
-      "importance_score": 0.6332,
+      "score": 0.6229,
+      "importance": 0.6229,
+      "importance_score": 0.6229,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5616,
         "source_tier": 0.58,
         "ai_relevance": 0.78,
-        "recency": 0.8671,
+        "recency": 0.8102,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -272,7 +191,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-25T07:48:33.913808Z"
+        "scored_at": "2026-10-25T12:30:18.121995Z"
       }
     },
     {
@@ -349,15 +268,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.632,
-      "importance": 0.632,
-      "importance_score": 0.632,
+      "score": 0.6227,
+      "importance": 0.6227,
+      "importance_score": 0.6227,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5832,
         "source_tier": 0.58,
         "ai_relevance": 0.81,
-        "recency": 0.7915,
+        "recency": 0.7395,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -383,118 +302,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-25T07:48:33.913808Z"
-      }
-    },
-    {
-      "story_id": "story_e326538e2794",
-      "title": "GPU-unlock：Nvidia 3000系列显卡上的FP/BF16指令发射率 / GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards",
-      "url": "https://github.com/Zagitta/gpu-unlock",
-      "primary_url": "https://github.com/Zagitta/gpu-unlock",
-      "source": "Hacker News front page",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "42ba289543049798f726b0e62519a4f1baf496a2",
-          "title": "GPU-unlock：Nvidia 3000系列显卡上的FP/BF16指令发射率 / GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards",
-          "title_zh": "GPU-unlock：Nvidia 3000系列显卡上的FP/BF16指令发射率",
-          "title_en": "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards",
-          "title_original": "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/Zagitta/gpu-unlock",
-          "source": "Hacker News front page",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-24T09:58:27Z"
-        },
-        {
-          "id": "c716aaabd4dae3c664f715719718961b6278d2c9",
-          "title": "GPU-unlock：Nvidia 3000系列显卡上的FP/BF16指令发射率",
-          "title_zh": "GPU-unlock：Nvidia 3000系列显卡上的FP/BF16指令发射率",
-          "title_en": null,
-          "title_original": "GPU-unlock：Nvidia 3000系列显卡上的FP/BF16指令发射率",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/Zagitta/gpu-unlock",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-24T18:31:44.360000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News front page",
-        "github.com"
-      ],
-      "items": [
-        {
-          "id": "42ba289543049798f726b0e62519a4f1baf496a2",
-          "title": "GPU-unlock：Nvidia 3000系列显卡上的FP/BF16指令发射率 / GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards",
-          "title_zh": "GPU-unlock：Nvidia 3000系列显卡上的FP/BF16指令发射率",
-          "title_en": "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards",
-          "title_original": "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/Zagitta/gpu-unlock",
-          "source": "Hacker News front page",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-24T09:58:27Z"
-        },
-        {
-          "id": "c716aaabd4dae3c664f715719718961b6278d2c9",
-          "title": "GPU-unlock：Nvidia 3000系列显卡上的FP/BF16指令发射率",
-          "title_zh": "GPU-unlock：Nvidia 3000系列显卡上的FP/BF16指令发射率",
-          "title_en": null,
-          "title_original": "GPU-unlock：Nvidia 3000系列显卡上的FP/BF16指令发射率",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/Zagitta/gpu-unlock",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-24T18:31:44.360000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6209,
-      "importance": 0.6209,
-      "importance_score": 0.6209,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.5832,
-        "source_tier": 0.58,
-        "ai_relevance": 0.81,
-        "recency": 0.7298,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-24T09:58:27Z",
-      "latest_at": "2026-10-24T18:31:44.360000Z",
-      "primary_item": {
-        "id": "42ba289543049798f726b0e62519a4f1baf496a2",
-        "title": "GPU-unlock：Nvidia 3000系列显卡上的FP/BF16指令发射率 / GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards",
-        "title_zh": "GPU-unlock：Nvidia 3000系列显卡上的FP/BF16指令发射率",
-        "title_en": "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards",
-        "title_original": "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.com/Zagitta/gpu-unlock",
-        "source": "Hacker News front page",
-        "source_name": "Curated Media"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-25T07:48:33.913808Z"
+        "scored_at": "2026-10-25T12:30:18.121995Z"
       }
     },
     {
@@ -571,15 +379,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5476,
-      "importance": 0.5476,
-      "importance_score": 0.5476,
+      "score": 0.5378,
+      "importance": 0.5378,
+      "importance_score": 0.5378,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5256,
         "source_tier": 0.32,
         "ai_relevance": 0.73,
-        "recency": 0.825,
+        "recency": 0.7709,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -604,7 +412,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-25T07:48:33.913808Z"
+        "scored_at": "2026-10-25T12:30:18.121995Z"
       }
     },
     {
@@ -681,15 +489,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5641,
-      "importance": 0.5641,
-      "importance_score": 0.5641,
+      "score": 0.5533,
+      "importance": 0.5533,
+      "importance_score": 0.5533,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.45,
         "source_tier": 0.58,
         "ai_relevance": 0.56,
-        "recency": 0.9141,
+        "recency": 0.8541,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -714,7 +522,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-25T07:48:33.913808Z"
+        "scored_at": "2026-10-25T12:30:18.121995Z"
       }
     },
     {
@@ -791,15 +599,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5586,
-      "importance": 0.5586,
-      "importance_score": 0.5586,
+      "score": 0.5482,
+      "importance": 0.5482,
+      "importance_score": 0.5482,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.45,
         "source_tier": 0.58,
         "ai_relevance": 0.56,
-        "recency": 0.8834,
+        "recency": 0.8254,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -824,7 +632,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-25T07:48:33.913808Z"
+        "scored_at": "2026-10-25T12:30:18.121995Z"
       }
     },
     {
@@ -901,15 +709,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.551,
-      "importance": 0.551,
-      "importance_score": 0.551,
+      "score": 0.541,
+      "importance": 0.541,
+      "importance_score": 0.541,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.45,
         "source_tier": 0.58,
         "ai_relevance": 0.56,
-        "recency": 0.841,
+        "recency": 0.7858,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -934,7 +742,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-25T07:48:33.913808Z"
+        "scored_at": "2026-10-25T12:30:18.121995Z"
       }
     },
     {
@@ -1011,15 +819,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5488,
-      "importance": 0.5488,
-      "importance_score": 0.5488,
+      "score": 0.5394,
+      "importance": 0.5394,
+      "importance_score": 0.5394,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.45,
         "source_tier": 0.58,
         "ai_relevance": 0.59,
-        "recency": 0.7957,
+        "recency": 0.7435,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1044,7 +852,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-25T07:48:33.913808Z"
+        "scored_at": "2026-10-25T12:30:18.121995Z"
       }
     },
     {
@@ -1121,15 +929,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5473,
-      "importance": 0.5473,
-      "importance_score": 0.5473,
+      "score": 0.5376,
+      "importance": 0.5376,
+      "importance_score": 0.5376,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.45,
         "source_tier": 0.58,
         "ai_relevance": 0.56,
-        "recency": 0.8205,
+        "recency": 0.7667,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1154,7 +962,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-25T07:48:33.913808Z"
+        "scored_at": "2026-10-25T12:30:18.121995Z"
       }
     }
   ]
