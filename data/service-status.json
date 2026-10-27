@@ -1,16 +1,30 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-27T01:35:45.853956Z",
+  "generated_at": "2026-10-27T08:18:37.730772Z",
   "ok": true,
-  "active_count": 0,
+  "active_count": 1,
   "providers": [
     {
       "id": "openai",
       "name": "OpenAI",
       "status_url": "https://status.openai.com/",
       "ok": true,
-      "active_count": 0
+      "active_count": 1
     }
   ],
-  "incidents": []
+  "incidents": [
+    {
+      "id": "01M5Y60NQGGN514EB3943V94EN",
+      "provider": "OpenAI",
+      "title": "Elevated error rates for most hosted Code Reviews and Security Reviews on private GitHub repositories",
+      "title_zh": "Elevated error rates for most hosted Code Reviews and Security Reviews on private GitHub repositories",
+      "status": "investigating",
+      "impact": "none",
+      "started_at": "2026-10-27T08:00:50Z",
+      "updated_at": "2026-10-27T08:00:50Z",
+      "message": "We’re investigating a potential issue for the listed services and checking how it affects users. We’ll share an update when we know more.",
+      "affected_components": [],
+      "url": "https://status.openai.com/incidents/01M5Y60NQGGN514EB3943V94EN"
+    }
+  ]
 }
