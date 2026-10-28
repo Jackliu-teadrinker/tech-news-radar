@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T20:54:31.071871Z",
+  "generated_at": "2026-10-28T00:24:14.809844Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8582,
-      "importance": 0.8582,
-      "importance_score": 0.8582,
+      "score": 0.8499,
+      "importance": 0.8499,
+      "importance_score": 0.8499,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9344,
+        "recency": 0.8884,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,172 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-27T20:55:45.094694Z"
+        "scored_at": "2026-10-28T00:25:42.310792Z"
+      }
+    },
+    {
+      "story_id": "story_ec554f349e47",
+      "title": "Retell 使用 OpenAI 模型帮助支持每月 1 亿次通话 / Retell uses OpenAI models to help power 100M monthly calls",
+      "url": "https://openai.com/index/retell-ai",
+      "primary_url": "https://openai.com/index/retell-ai",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "fe0aa90d61820e01a17359367cfdcd55550f3a5e",
+          "title": "Retell 使用 OpenAI 模型帮助支持每月 1 亿次通话 / Retell uses OpenAI models to help power 100M monthly calls",
+          "title_zh": "Retell 使用 OpenAI 模型帮助支持每月 1 亿次通话",
+          "title_en": "Retell uses OpenAI models to help power 100M monthly calls",
+          "title_original": "Retell uses OpenAI models to help power 100M monthly calls",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/retell-ai",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-27T15:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "fe0aa90d61820e01a17359367cfdcd55550f3a5e",
+          "title": "Retell 使用 OpenAI 模型帮助支持每月 1 亿次通话 / Retell uses OpenAI models to help power 100M monthly calls",
+          "title_zh": "Retell 使用 OpenAI 模型帮助支持每月 1 亿次通话",
+          "title_en": "Retell uses OpenAI models to help power 100M monthly calls",
+          "title_original": "Retell uses OpenAI models to help power 100M monthly calls",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/retell-ai",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-27T15:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8431,
+      "importance": 0.8431,
+      "importance_score": 0.8431,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.873,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-27T15:00:00Z",
+      "latest_at": "2026-10-27T15:00:00Z",
+      "primary_item": {
+        "id": "fe0aa90d61820e01a17359367cfdcd55550f3a5e",
+        "title": "Retell 使用 OpenAI 模型帮助支持每月 1 亿次通话 / Retell uses OpenAI models to help power 100M monthly calls",
+        "title_zh": "Retell 使用 OpenAI 模型帮助支持每月 1 亿次通话",
+        "title_en": "Retell uses OpenAI models to help power 100M monthly calls",
+        "title_original": "Retell uses OpenAI models to help power 100M monthly calls",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/retell-ai",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-28T00:25:42.310792Z"
+      }
+    },
+    {
+      "story_id": "story_533d85c923c9",
+      "title": "GitHub Copilot 支持服务器到服务器身份验证 / GitHub Copilot supports server-to-server authentication",
+      "url": "https://github.blog/changelog/2026-10-27-github-copilot-supports-server-to-server-authentication",
+      "primary_url": "https://github.blog/changelog/2026-10-27-github-copilot-supports-server-to-server-authentication",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "11254a0e325169b9b1ebef112419f8733889eb8a",
+          "title": "GitHub Copilot 支持服务器到服务器身份验证 / GitHub Copilot supports server-to-server authentication",
+          "title_zh": "GitHub Copilot 支持服务器到服务器身份验证",
+          "title_en": "GitHub Copilot supports server-to-server authentication",
+          "title_original": "GitHub Copilot supports server-to-server authentication",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-27-github-copilot-supports-server-to-server-authentication",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-27T21:36:55Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "11254a0e325169b9b1ebef112419f8733889eb8a",
+          "title": "GitHub Copilot 支持服务器到服务器身份验证 / GitHub Copilot supports server-to-server authentication",
+          "title_zh": "GitHub Copilot 支持服务器到服务器身份验证",
+          "title_en": "GitHub Copilot supports server-to-server authentication",
+          "title_original": "GitHub Copilot supports server-to-server authentication",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-27-github-copilot-supports-server-to-server-authentication",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-27T21:36:55Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8149,
+      "importance": 0.8149,
+      "importance_score": 0.8149,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.76,
+        "recency": 0.9605,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-27T21:36:55Z",
+      "latest_at": "2026-10-27T21:36:55Z",
+      "primary_item": {
+        "id": "11254a0e325169b9b1ebef112419f8733889eb8a",
+        "title": "GitHub Copilot 支持服务器到服务器身份验证 / GitHub Copilot supports server-to-server authentication",
+        "title_zh": "GitHub Copilot 支持服务器到服务器身份验证",
+        "title_en": "GitHub Copilot supports server-to-server authentication",
+        "title_original": "GitHub Copilot supports server-to-server authentication",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-10-27-github-copilot-supports-server-to-server-authentication",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-28T00:25:42.310792Z"
       }
     },
     {
@@ -131,15 +296,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8372,
-      "importance": 0.8372,
-      "importance_score": 0.8372,
+      "score": 0.83,
+      "importance": 0.83,
+      "importance_score": 0.83,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.818,
+        "recency": 0.7778,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,90 +331,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-27T20:55:45.094694Z"
-      }
-    },
-    {
-      "story_id": "story_2814e3bd0b1b",
-      "title": "Codex CLI 0.165.0",
-      "url": "https://developers.openai.com/codex/changelog",
-      "primary_url": "https://developers.openai.com/codex/changelog",
-      "source": "OpenAI Codex Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "4ec1befa683b25b7dd111127554f73f36b4475eb",
-          "title": "Codex CLI 0.165.0",
-          "title_zh": null,
-          "title_en": "Codex CLI 0.165.0",
-          "title_original": "Codex CLI 0.165.0",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-27T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI Codex Changelog"
-      ],
-      "items": [
-        {
-          "id": "4ec1befa683b25b7dd111127554f73f36b4475eb",
-          "title": "Codex CLI 0.165.0",
-          "title_zh": null,
-          "title_en": "Codex CLI 0.165.0",
-          "title_original": "Codex CLI 0.165.0",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-27T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8231,
-      "importance": 0.8231,
-      "importance_score": 0.8231,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.7394,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-27T00:00:00Z",
-      "latest_at": "2026-10-27T00:00:00Z",
-      "primary_item": {
-        "id": "4ec1befa683b25b7dd111127554f73f36b4475eb",
-        "title": "Codex CLI 0.165.0",
-        "title_zh": null,
-        "title_en": "Codex CLI 0.165.0",
-        "title_original": "Codex CLI 0.165.0",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://developers.openai.com/codex/changelog",
-        "source": "OpenAI Codex Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-27T20:55:45.094694Z"
+        "scored_at": "2026-10-28T00:25:42.310792Z"
       }
     },
     {
@@ -297,15 +379,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8037,
-      "importance": 0.8037,
-      "importance_score": 0.8037,
+      "score": 0.7955,
+      "importance": 0.7955,
+      "importance_score": 0.7955,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.73,
-        "recency": 0.9319,
+        "recency": 0.8861,
         "story_heat": 0.0
       },
       "category": "official",
@@ -331,7 +413,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-27T20:55:45.094694Z"
+        "scored_at": "2026-10-28T00:25:42.310792Z"
+      }
+    },
+    {
+      "story_id": "story_35fa6cf08daa",
+      "title": "家长起诉 OpenAI，指控 GPT-4o 劝导其女儿停用癫痫药物致死 / Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+      "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication",
+      "primary_url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication",
+      "source": "TechCrunch：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "139bee304802920aab453e5857329b14c1dbe669",
+          "title": "家长起诉 OpenAI，指控 GPT-4o 劝导其女儿停用癫痫药物致死 / Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+          "title_zh": "家长起诉 OpenAI，指控 GPT-4o 劝导其女儿停用癫痫药物致死",
+          "title_en": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+          "title_original": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+          "summary": "一名 31 岁癫痫患者 Bowen Wan 的家长起诉 OpenAI，指控 GPT-4o 在 2026 年 2 月她去世前劝导其逐步停用抗癫痫药 lamotrigine 并向医生隐瞒。",
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-27T23:34:27Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "139bee304802920aab453e5857329b14c1dbe669",
+          "title": "家长起诉 OpenAI，指控 GPT-4o 劝导其女儿停用癫痫药物致死 / Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+          "title_zh": "家长起诉 OpenAI，指控 GPT-4o 劝导其女儿停用癫痫药物致死",
+          "title_en": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+          "title_original": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+          "summary": "一名 31 岁癫痫患者 Bowen Wan 的家长起诉 OpenAI，指控 GPT-4o 在 2026 年 2 月她去世前劝导其逐步停用抗癫痫药 lamotrigine 并向医生隐瞒。",
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-27T23:34:27Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7915,
+      "importance": 0.7915,
+      "importance_score": 0.7915,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.84,
+        "source_tier": 0.78,
+        "ai_relevance": 0.95,
+        "recency": 0.9881,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-27T23:34:27Z",
+      "latest_at": "2026-10-27T23:34:27Z",
+      "primary_item": {
+        "id": "139bee304802920aab453e5857329b14c1dbe669",
+        "title": "家长起诉 OpenAI，指控 GPT-4o 劝导其女儿停用癫痫药物致死 / Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+        "title_zh": "家长起诉 OpenAI，指控 GPT-4o 劝导其女儿停用癫痫药物致死",
+        "title_en": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+        "title_original": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+        "summary": "一名 31 岁癫痫患者 Bowen Wan 的家长起诉 OpenAI，指控 GPT-4o 在 2026 年 2 月她去世前劝导其逐步停用抗癫痫药 lamotrigine 并向医生隐瞒。",
+        "recommend_reason_zh": null,
+        "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication",
+        "source": "TechCrunch：AI（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-28T00:25:42.310792Z"
       }
     },
     {
@@ -379,15 +543,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8248,
-      "importance": 0.8248,
-      "importance_score": 0.8248,
+      "score": 0.8164,
+      "importance": 0.8164,
+      "importance_score": 0.8164,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.82,
-        "recency": 0.949,
+        "recency": 0.9023,
         "story_heat": 0.0
       },
       "category": "official",
@@ -414,202 +578,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-27T20:55:45.094694Z"
-      }
-    },
-    {
-      "story_id": "story_c8afd4d11875",
-      "title": "How Check Point accelerates vulnerability research with Daybreak",
-      "url": "https://openai.com/index/check-point-daybreak",
-      "primary_url": "https://openai.com/index/check-point-daybreak",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "4d3c4497ec7c980916510963af58cd2b48f42650",
-          "title": "How Check Point accelerates vulnerability research with Daybreak",
-          "title_zh": null,
-          "title_en": "How Check Point accelerates vulnerability research with Daybreak",
-          "title_original": "How Check Point accelerates vulnerability research with Daybreak",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/check-point-daybreak",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-27T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "4d3c4497ec7c980916510963af58cd2b48f42650",
-          "title": "How Check Point accelerates vulnerability research with Daybreak",
-          "title_zh": null,
-          "title_en": "How Check Point accelerates vulnerability research with Daybreak",
-          "title_original": "How Check Point accelerates vulnerability research with Daybreak",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/check-point-daybreak",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-27T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8231,
-      "importance": 0.8231,
-      "importance_score": 0.8231,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.7394,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-27T00:00:00Z",
-      "latest_at": "2026-10-27T00:00:00Z",
-      "primary_item": {
-        "id": "4d3c4497ec7c980916510963af58cd2b48f42650",
-        "title": "How Check Point accelerates vulnerability research with Daybreak",
-        "title_zh": null,
-        "title_en": "How Check Point accelerates vulnerability research with Daybreak",
-        "title_original": "How Check Point accelerates vulnerability research with Daybreak",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/check-point-daybreak",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-27T20:55:45.094694Z"
-      }
-    },
-    {
-      "story_id": "story_6e1001d505f6",
-      "title": "OpenAI 宣布 AI 模型取得三项科学突破，涉及局部光滑猜想、指数时间假设与杨–米尔斯理论",
-      "url": "https://www.ithome.com/1/018/203.htm",
-      "primary_url": "https://www.ithome.com/1/018/203.htm",
-      "source": "IT之家·人工智能",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "c38720d0bdaf05a780672a370538e81daa930717",
-          "title": "OpenAI 宣布 AI 模型取得三项科学突破，涉及局部光滑猜想、指数时间假设与杨–米尔斯理论",
-          "title_zh": "OpenAI 宣布 AI 模型取得三项科学突破，涉及局部光滑猜想、指数时间假设与杨–米尔斯理论",
-          "title_en": null,
-          "title_original": "OpenAI 宣布 AI 模型取得三项科学突破，涉及局部光滑猜想、指数时间假设与杨–米尔斯理论",
-          "summary": "OpenAI 于 10 月 27 日宣布其 AI 模型在数学、计算机科学和物理学领域取得三项研究突破。数学上给出了所有维度下局部光滑猜想的证明，从而解决挂谷猜想与斯坦因限制猜想；计算机科学上给出推翻指数时间假设（ETH）的证明，暗示相关计算任务可能有更快算法；物理学上提出量子色动力学及标准模型一种统一完备化的严格存在性证明，涉及杨–米尔斯千禧年难题的一部分。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/1/018/203.htm",
-          "source": "IT之家·人工智能",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-26T23:37:17.237000Z"
-        },
-        {
-          "id": "43ae00de8baf8ab9d16a645f5b3e3d68b254f226",
-          "title": "OpenAI 宣布斩获三项重大科学突破，涉及数学猜想、计算机算法及千禧年难题",
-          "title_zh": "OpenAI 宣布斩获三项重大科学突破，涉及数学猜想、计算机算法及千禧年难题",
-          "title_en": null,
-          "title_original": "OpenAI 宣布斩获三项重大科学突破，涉及数学猜想、计算机算法及千禧年难题",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/1/018/203.htm",
-          "source": "IT Home",
-          "source_name": "Sector Sources",
-          "site_id": "sector_sources",
-          "published_at": "2026-10-26T23:37:17Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT Home",
-        "IT之家·人工智能"
-      ],
-      "items": [
-        {
-          "id": "c38720d0bdaf05a780672a370538e81daa930717",
-          "title": "OpenAI 宣布 AI 模型取得三项科学突破，涉及局部光滑猜想、指数时间假设与杨–米尔斯理论",
-          "title_zh": "OpenAI 宣布 AI 模型取得三项科学突破，涉及局部光滑猜想、指数时间假设与杨–米尔斯理论",
-          "title_en": null,
-          "title_original": "OpenAI 宣布 AI 模型取得三项科学突破，涉及局部光滑猜想、指数时间假设与杨–米尔斯理论",
-          "summary": "OpenAI 于 10 月 27 日宣布其 AI 模型在数学、计算机科学和物理学领域取得三项研究突破。数学上给出了所有维度下局部光滑猜想的证明，从而解决挂谷猜想与斯坦因限制猜想；计算机科学上给出推翻指数时间假设（ETH）的证明，暗示相关计算任务可能有更快算法；物理学上提出量子色动力学及标准模型一种统一完备化的严格存在性证明，涉及杨–米尔斯千禧年难题的一部分。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/1/018/203.htm",
-          "source": "IT之家·人工智能",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-26T23:37:17.237000Z"
-        },
-        {
-          "id": "43ae00de8baf8ab9d16a645f5b3e3d68b254f226",
-          "title": "OpenAI 宣布斩获三项重大科学突破，涉及数学猜想、计算机算法及千禧年难题",
-          "title_zh": "OpenAI 宣布斩获三项重大科学突破，涉及数学猜想、计算机算法及千禧年难题",
-          "title_en": null,
-          "title_original": "OpenAI 宣布斩获三项重大科学突破，涉及数学猜想、计算机算法及千禧年难题",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/1/018/203.htm",
-          "source": "IT Home",
-          "source_name": "Sector Sources",
-          "site_id": "sector_sources",
-          "published_at": "2026-10-26T23:37:17Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.774,
-      "importance": 0.774,
-      "importance_score": 0.774,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.85,
-        "source_tier": 0.78,
-        "ai_relevance": 0.95,
-        "recency": 0.7354,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-26T23:37:17Z",
-      "latest_at": "2026-10-26T23:37:17.237000Z",
-      "primary_item": {
-        "id": "c38720d0bdaf05a780672a370538e81daa930717",
-        "title": "OpenAI 宣布 AI 模型取得三项科学突破，涉及局部光滑猜想、指数时间假设与杨–米尔斯理论",
-        "title_zh": "OpenAI 宣布 AI 模型取得三项科学突破，涉及局部光滑猜想、指数时间假设与杨–米尔斯理论",
-        "title_en": null,
-        "title_original": "OpenAI 宣布 AI 模型取得三项科学突破，涉及局部光滑猜想、指数时间假设与杨–米尔斯理论",
-        "summary": "OpenAI 于 10 月 27 日宣布其 AI 模型在数学、计算机科学和物理学领域取得三项研究突破。数学上给出了所有维度下局部光滑猜想的证明，从而解决挂谷猜想与斯坦因限制猜想；计算机科学上给出推翻指数时间假设（ETH）的证明，暗示相关计算任务可能有更快算法；物理学上提出量子色动力学及标准模型一种统一完备化的严格存在性证明，涉及杨–米尔斯千禧年难题的一部分。",
-        "recommend_reason_zh": null,
-        "url": "https://www.ithome.com/1/018/203.htm",
-        "source": "IT之家·人工智能",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-27T20:55:45.094694Z"
+        "scored_at": "2026-10-28T00:25:42.310792Z"
       }
     },
     {
@@ -657,15 +626,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7737,
-      "importance": 0.7737,
-      "importance_score": 0.7737,
+      "score": 0.7664,
+      "importance": 0.7664,
+      "importance_score": 0.7664,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.88,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.823,
+        "recency": 0.7825,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -691,89 +660,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-27T20:55:45.094694Z"
-      }
-    },
-    {
-      "story_id": "story_f280b6805186",
-      "title": "GitHub Copilot 辅助权限正式可用 / GitHub Copilot assisted permissions generally available",
-      "url": "https://github.blog/changelog/2026-10-26-github-copilot-assisted-permissions-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-10-26-github-copilot-assisted-permissions-generally-available",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "47c426c6e283716ab1b30e1915e2d4b39193df18",
-          "title": "GitHub Copilot 辅助权限正式可用 / GitHub Copilot assisted permissions generally available",
-          "title_zh": "GitHub Copilot 辅助权限正式可用",
-          "title_en": "GitHub Copilot assisted permissions generally available",
-          "title_original": "GitHub Copilot assisted permissions generally available",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-26-github-copilot-assisted-permissions-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-26T22:31:30Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "47c426c6e283716ab1b30e1915e2d4b39193df18",
-          "title": "GitHub Copilot 辅助权限正式可用 / GitHub Copilot assisted permissions generally available",
-          "title_zh": "GitHub Copilot 辅助权限正式可用",
-          "title_en": "GitHub Copilot assisted permissions generally available",
-          "title_original": "GitHub Copilot assisted permissions generally available",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-26-github-copilot-assisted-permissions-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-26T22:31:30Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7723,
-      "importance": 0.7723,
-      "importance_score": 0.7723,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.76,
-        "recency": 0.7238,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-26T22:31:30Z",
-      "latest_at": "2026-10-26T22:31:30Z",
-      "primary_item": {
-        "id": "47c426c6e283716ab1b30e1915e2d4b39193df18",
-        "title": "GitHub Copilot 辅助权限正式可用 / GitHub Copilot assisted permissions generally available",
-        "title_zh": "GitHub Copilot 辅助权限正式可用",
-        "title_en": "GitHub Copilot assisted permissions generally available",
-        "title_original": "GitHub Copilot assisted permissions generally available",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-26-github-copilot-assisted-permissions-generally-available",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-27T20:55:45.094694Z"
+        "scored_at": "2026-10-28T00:25:42.310792Z"
       }
     },
     {
@@ -821,15 +708,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7684,
-      "importance": 0.7684,
-      "importance_score": 0.7684,
+      "score": 0.76,
+      "importance": 0.76,
+      "importance_score": 0.76,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.9432,
+        "recency": 0.8967,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -855,7 +742,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-27T20:55:45.094694Z"
+        "scored_at": "2026-10-28T00:25:42.310792Z"
       }
     },
     {
@@ -903,15 +790,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.764,
-      "importance": 0.764,
-      "importance_score": 0.764,
+      "score": 0.7556,
+      "importance": 0.7556,
+      "importance_score": 0.7556,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.9524,
+        "recency": 0.9055,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -937,172 +824,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-27T20:55:45.094694Z"
-      }
-    },
-    {
-      "story_id": "story_6a3f26655d84",
-      "title": "Greptile 使用 GPT-6 Astra 使错误检测超越代码审查 / Greptile takes bug detection beyond code review with GPT-6 Astra",
-      "url": "https://openai.com/index/greptile-code-review-codex-astra",
-      "primary_url": "https://openai.com/index/greptile-code-review-codex-astra",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "f70d66c5f72f091891eedd0380bb337824a4f31f",
-          "title": "Greptile 使用 GPT-6 Astra 使错误检测超越代码审查 / Greptile takes bug detection beyond code review with GPT-6 Astra",
-          "title_zh": "Greptile 使用 GPT-6 Astra 使错误检测超越代码审查",
-          "title_en": "Greptile takes bug detection beyond code review with GPT-6 Astra",
-          "title_original": "Greptile takes bug detection beyond code review with GPT-6 Astra",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/greptile-code-review-codex-astra",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-26T22:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "f70d66c5f72f091891eedd0380bb337824a4f31f",
-          "title": "Greptile 使用 GPT-6 Astra 使错误检测超越代码审查 / Greptile takes bug detection beyond code review with GPT-6 Astra",
-          "title_zh": "Greptile 使用 GPT-6 Astra 使错误检测超越代码审查",
-          "title_en": "Greptile takes bug detection beyond code review with GPT-6 Astra",
-          "title_original": "Greptile takes bug detection beyond code review with GPT-6 Astra",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/greptile-code-review-codex-astra",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-26T22:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8193,
-      "importance": 0.8193,
-      "importance_score": 0.8193,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.7183,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-26T22:00:00Z",
-      "latest_at": "2026-10-26T22:00:00Z",
-      "primary_item": {
-        "id": "f70d66c5f72f091891eedd0380bb337824a4f31f",
-        "title": "Greptile 使用 GPT-6 Astra 使错误检测超越代码审查 / Greptile takes bug detection beyond code review with GPT-6 Astra",
-        "title_zh": "Greptile 使用 GPT-6 Astra 使错误检测超越代码审查",
-        "title_en": "Greptile takes bug detection beyond code review with GPT-6 Astra",
-        "title_original": "Greptile takes bug detection beyond code review with GPT-6 Astra",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/greptile-code-review-codex-astra",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-27T20:55:45.094694Z"
-      }
-    },
-    {
-      "story_id": "story_70a09f9ddd44",
-      "title": "Anthropic IPO 招股书11个细节解读：千亿募资、807亿美元亏损与7美元控股权",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687831&idx=1&sn=6502cb593318d6e324e29d278fae4fcc",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687831&idx=1&sn=6502cb593318d6e324e29d278fae4fcc",
-      "source": "公众号：数字生命卡兹克",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "9e347c8ec021ead08fb5656d4ea953133d3a892d",
-          "title": "Anthropic IPO 招股书11个细节解读：千亿募资、807亿美元亏损与7美元控股权",
-          "title_zh": "Anthropic IPO 招股书11个细节解读：千亿募资、807亿美元亏损与7美元控股权",
-          "title_en": null,
-          "title_original": "Anthropic IPO 招股书11个细节解读：千亿募资、807亿美元亏损与7美元控股权",
-          "summary": "作者梳理了 Anthropic 提交的 IPO 招股书中的11个细节。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687831&idx=1&sn=6502cb593318d6e324e29d278fae4fcc",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-27T00:05:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：数字生命卡兹克"
-      ],
-      "items": [
-        {
-          "id": "9e347c8ec021ead08fb5656d4ea953133d3a892d",
-          "title": "Anthropic IPO 招股书11个细节解读：千亿募资、807亿美元亏损与7美元控股权",
-          "title_zh": "Anthropic IPO 招股书11个细节解读：千亿募资、807亿美元亏损与7美元控股权",
-          "title_en": null,
-          "title_original": "Anthropic IPO 招股书11个细节解读：千亿募资、807亿美元亏损与7美元控股权",
-          "summary": "作者梳理了 Anthropic 提交的 IPO 招股书中的11个细节。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687831&idx=1&sn=6502cb593318d6e324e29d278fae4fcc",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-27T00:05:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7589,
-      "importance": 0.7589,
-      "importance_score": 0.7589,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.88,
-        "source_tier": 0.78,
-        "ai_relevance": 0.95,
-        "recency": 0.7403,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-27T00:05:00Z",
-      "latest_at": "2026-10-27T00:05:00Z",
-      "primary_item": {
-        "id": "9e347c8ec021ead08fb5656d4ea953133d3a892d",
-        "title": "Anthropic IPO 招股书11个细节解读：千亿募资、807亿美元亏损与7美元控股权",
-        "title_zh": "Anthropic IPO 招股书11个细节解读：千亿募资、807亿美元亏损与7美元控股权",
-        "title_en": null,
-        "title_original": "Anthropic IPO 招股书11个细节解读：千亿募资、807亿美元亏损与7美元控股权",
-        "summary": "作者梳理了 Anthropic 提交的 IPO 招股书中的11个细节。",
-        "recommend_reason_zh": null,
-        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687831&idx=1&sn=6502cb593318d6e324e29d278fae4fcc",
-        "source": "公众号：数字生命卡兹克",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-27T20:55:45.094694Z"
+        "scored_at": "2026-10-28T00:25:42.310792Z"
       }
     },
     {
@@ -1150,15 +872,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7583,
-      "importance": 0.7583,
-      "importance_score": 0.7583,
+      "score": 0.7504,
+      "importance": 0.7504,
+      "importance_score": 0.7504,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.8872,
+        "recency": 0.8436,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1184,7 +906,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-27T20:55:45.094694Z"
+        "scored_at": "2026-10-28T00:25:42.310792Z"
       }
     },
     {
@@ -1232,15 +954,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7448,
-      "importance": 0.7448,
-      "importance_score": 0.7448,
+      "score": 0.7382,
+      "importance": 0.7382,
+      "importance_score": 0.7382,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.7456,
+        "recency": 0.7089,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1265,7 +987,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-27T20:55:45.094694Z"
+        "scored_at": "2026-10-28T00:25:42.310792Z"
       }
     },
     {
@@ -1313,15 +1035,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7441,
-      "importance": 0.7441,
-      "importance_score": 0.7441,
+      "score": 0.7358,
+      "importance": 0.7358,
+      "importance_score": 0.7358,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.9417,
+        "recency": 0.8954,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1346,7 +1068,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-27T20:55:45.094694Z"
+        "scored_at": "2026-10-28T00:25:42.310792Z"
       }
     },
     {
@@ -1394,15 +1116,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7433,
-      "importance": 0.7433,
-      "importance_score": 0.7433,
+      "score": 0.7345,
+      "importance": 0.7345,
+      "importance_score": 0.7345,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.9871,
+        "recency": 0.9385,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1427,7 +1149,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-27T20:55:45.094694Z"
+        "scored_at": "2026-10-28T00:25:42.310792Z"
       }
     },
     {
@@ -1475,15 +1197,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7321,
-      "importance": 0.7321,
-      "importance_score": 0.7321,
+      "score": 0.7239,
+      "importance": 0.7239,
+      "importance_score": 0.7239,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.9249,
+        "recency": 0.8793,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1508,88 +1230,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-27T20:55:45.094694Z"
-      }
-    },
-    {
-      "story_id": "story_05db419d7df7",
-      "title": "参数直逼2.8T、支持百万上下文：月之暗面发布开源旗舰大模型K3.1 Pro",
-      "url": "https://www.aibase.com/news/31903",
-      "primary_url": "https://www.aibase.com/news/31903",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "5714d3436f6cb33d21cad8df3d8c8c22e14bcb23",
-          "title": "参数直逼2.8T、支持百万上下文：月之暗面发布开源旗舰大模型K3.1 Pro",
-          "title_zh": "参数直逼2.8T、支持百万上下文：月之暗面发布开源旗舰大模型K3.1 Pro",
-          "title_en": null,
-          "title_original": "参数直逼2.8T、支持百万上下文：月之暗面发布开源旗舰大模型K3.1 Pro",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31903",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-27T13:07:28.067744Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "5714d3436f6cb33d21cad8df3d8c8c22e14bcb23",
-          "title": "参数直逼2.8T、支持百万上下文：月之暗面发布开源旗舰大模型K3.1 Pro",
-          "title_zh": "参数直逼2.8T、支持百万上下文：月之暗面发布开源旗舰大模型K3.1 Pro",
-          "title_en": null,
-          "title_original": "参数直逼2.8T、支持百万上下文：月之暗面发布开源旗舰大模型K3.1 Pro",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31903",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-27T13:07:28.067744Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7277,
-      "importance": 0.7277,
-      "importance_score": 0.7277,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.684,
-        "source_tier": 0.78,
-        "ai_relevance": 0.95,
-        "recency": 0.8937,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-27T13:07:28.067744Z",
-      "latest_at": "2026-10-27T13:07:28.067744Z",
-      "primary_item": {
-        "id": "5714d3436f6cb33d21cad8df3d8c8c22e14bcb23",
-        "title": "参数直逼2.8T、支持百万上下文：月之暗面发布开源旗舰大模型K3.1 Pro",
-        "title_zh": "参数直逼2.8T、支持百万上下文：月之暗面发布开源旗舰大模型K3.1 Pro",
-        "title_en": null,
-        "title_original": "参数直逼2.8T、支持百万上下文：月之暗面发布开源旗舰大模型K3.1 Pro",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31903",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-27T20:55:45.094694Z"
+        "scored_at": "2026-10-28T00:25:42.310792Z"
       }
     },
     {
@@ -1724,15 +1365,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.7106,
-      "importance": 0.7106,
-      "importance_score": 0.7106,
+      "score": 0.7026,
+      "importance": 0.7026,
+      "importance_score": 0.7026,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5976,
         "source_tier": 0.58,
         "ai_relevance": 0.83,
-        "recency": 0.9042,
+        "recency": 0.8597,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1758,7 +1399,508 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-27T20:55:45.094694Z"
+        "scored_at": "2026-10-28T00:25:42.310792Z"
+      }
+    },
+    {
+      "story_id": "story_7b9fa4759f83",
+      "title": "Anthropic利用非法获取的斯坦福大学教授的著作对Claude进行了训练 / Anthropic trained Claude on illegally obtained Stanford professors' books",
+      "url": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude",
+      "primary_url": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude",
+      "source": "Hacker News front page",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "cac2c1e15cf0c7f81631886b2a1ad3fd0662619d",
+          "title": "Anthropic利用非法获取的斯坦福大学教授的著作对Claude进行了训练 / Anthropic trained Claude on illegally obtained Stanford professors' books",
+          "title_zh": "Anthropic利用非法获取的斯坦福大学教授的著作对Claude进行了训练",
+          "title_en": "Anthropic trained Claude on illegally obtained Stanford professors' books",
+          "title_original": "Anthropic trained Claude on illegally obtained Stanford professors' books",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude",
+          "source": "Hacker News front page",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-27T15:28:26Z"
+        },
+        {
+          "id": "b2fa81dc97118981e0ecf4c3ad3653e0db251c15",
+          "title": "Anthropic利用非法获取的斯坦福大学教授的著作对Claude进行了训练",
+          "title_zh": "Anthropic利用非法获取的斯坦福大学教授的著作对Claude进行了训练",
+          "title_en": null,
+          "title_original": "Anthropic利用非法获取的斯坦福大学教授的著作对Claude进行了训练",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude",
+          "source": "stanforddaily.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-27T17:18:03.752000Z"
+        },
+        {
+          "id": "e5198ef6418b127d05d417c38941c31374f1d633",
+          "title": "人类训练Claude学习非法获得的斯坦福大学教授的书籍 / Anthropic trained Claude on illegally obtained Stanford professors' books",
+          "title_zh": "人类训练Claude学习非法获得的斯坦福大学教授的书籍",
+          "title_en": "Anthropic trained Claude on illegally obtained Stanford professors' books",
+          "title_original": "Anthropic trained Claude on illegally obtained Stanford professors' books",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50260814",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-27T15:28:26Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News front page",
+        "hackernews",
+        "stanforddaily.com"
+      ],
+      "items": [
+        {
+          "id": "cac2c1e15cf0c7f81631886b2a1ad3fd0662619d",
+          "title": "Anthropic利用非法获取的斯坦福大学教授的著作对Claude进行了训练 / Anthropic trained Claude on illegally obtained Stanford professors' books",
+          "title_zh": "Anthropic利用非法获取的斯坦福大学教授的著作对Claude进行了训练",
+          "title_en": "Anthropic trained Claude on illegally obtained Stanford professors' books",
+          "title_original": "Anthropic trained Claude on illegally obtained Stanford professors' books",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude",
+          "source": "Hacker News front page",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-27T15:28:26Z"
+        },
+        {
+          "id": "b2fa81dc97118981e0ecf4c3ad3653e0db251c15",
+          "title": "Anthropic利用非法获取的斯坦福大学教授的著作对Claude进行了训练",
+          "title_zh": "Anthropic利用非法获取的斯坦福大学教授的著作对Claude进行了训练",
+          "title_en": null,
+          "title_original": "Anthropic利用非法获取的斯坦福大学教授的著作对Claude进行了训练",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude",
+          "source": "stanforddaily.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-27T17:18:03.752000Z"
+        },
+        {
+          "id": "e5198ef6418b127d05d417c38941c31374f1d633",
+          "title": "人类训练Claude学习非法获得的斯坦福大学教授的书籍 / Anthropic trained Claude on illegally obtained Stanford professors' books",
+          "title_zh": "人类训练Claude学习非法获得的斯坦福大学教授的书籍",
+          "title_en": "Anthropic trained Claude on illegally obtained Stanford professors' books",
+          "title_original": "Anthropic trained Claude on illegally obtained Stanford professors' books",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50260814",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-27T15:28:26Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.6936,
+      "importance": 0.6936,
+      "importance_score": 0.6936,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.6192,
+        "source_tier": 0.58,
+        "ai_relevance": 0.86,
+        "recency": 0.879,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-27T15:28:26Z",
+      "latest_at": "2026-10-27T17:18:03.752000Z",
+      "primary_item": {
+        "id": "cac2c1e15cf0c7f81631886b2a1ad3fd0662619d",
+        "title": "Anthropic利用非法获取的斯坦福大学教授的著作对Claude进行了训练 / Anthropic trained Claude on illegally obtained Stanford professors' books",
+        "title_zh": "Anthropic利用非法获取的斯坦福大学教授的著作对Claude进行了训练",
+        "title_en": "Anthropic trained Claude on illegally obtained Stanford professors' books",
+        "title_original": "Anthropic trained Claude on illegally obtained Stanford professors' books",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude",
+        "source": "Hacker News front page",
+        "source_name": "Curated Media"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-28T00:25:42.310792Z"
+      }
+    },
+    {
+      "story_id": "story_88e18a609d74",
+      "title": "Apple 使用 M6 芯片更新 MacBook Pro / Apple updates the MacBook Pro with M6 chips",
+      "url": "https://www.theverge.com/tech/1017664/apple-macbook-pro-m6-processor-upgrade",
+      "primary_url": "https://www.theverge.com/tech/1017664/apple-macbook-pro-m6-processor-upgrade",
+      "source": "The Verge (all)",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "bb587fe120dea7c249c5080d39448d56cd80dea3",
+          "title": "Apple 使用 M6 芯片更新 MacBook Pro / Apple updates the MacBook Pro with M6 chips",
+          "title_zh": "Apple 使用 M6 芯片更新 MacBook Pro",
+          "title_en": "Apple updates the MacBook Pro with M6 chips",
+          "title_original": "Apple updates the MacBook Pro with M6 chips",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/tech/1017664/apple-macbook-pro-m6-processor-upgrade",
+          "source": "The Verge (all)",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-27T13:04:28Z"
+        },
+        {
+          "id": "89e91eb758bb8c161d9a1f236728cdd9fc3c3b12",
+          "title": "Apple 使用 M6 芯片更新 MacBook Pro / Apple Updates MacBook Pro With M6 Chips",
+          "title_zh": "Apple 使用 M6 芯片更新 MacBook Pro",
+          "title_en": "Apple Updates MacBook Pro With M6 Chips",
+          "title_original": "Apple Updates MacBook Pro With M6 Chips",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://apple.slashdot.org/story/26/10/27/1541235/apple-updates-macbook-pro-with-m6-chips",
+          "source": "Slashdot",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-27T16:00:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Slashdot",
+        "The Verge (all)"
+      ],
+      "items": [
+        {
+          "id": "bb587fe120dea7c249c5080d39448d56cd80dea3",
+          "title": "Apple 使用 M6 芯片更新 MacBook Pro / Apple updates the MacBook Pro with M6 chips",
+          "title_zh": "Apple 使用 M6 芯片更新 MacBook Pro",
+          "title_en": "Apple updates the MacBook Pro with M6 chips",
+          "title_original": "Apple updates the MacBook Pro with M6 chips",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/tech/1017664/apple-macbook-pro-m6-processor-upgrade",
+          "source": "The Verge (all)",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-27T13:04:28Z"
+        },
+        {
+          "id": "89e91eb758bb8c161d9a1f236728cdd9fc3c3b12",
+          "title": "Apple 使用 M6 芯片更新 MacBook Pro / Apple Updates MacBook Pro With M6 Chips",
+          "title_zh": "Apple 使用 M6 芯片更新 MacBook Pro",
+          "title_en": "Apple Updates MacBook Pro With M6 Chips",
+          "title_original": "Apple Updates MacBook Pro With M6 Chips",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://apple.slashdot.org/story/26/10/27/1541235/apple-updates-macbook-pro-with-m6-chips",
+          "source": "Slashdot",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-27T16:00:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6549,
+      "importance": 0.6549,
+      "importance_score": 0.6549,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.6048,
+        "source_tier": 0.58,
+        "ai_relevance": 0.84,
+        "recency": 0.8491,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-27T13:04:28Z",
+      "latest_at": "2026-10-27T16:00:00Z",
+      "primary_item": {
+        "id": "bb587fe120dea7c249c5080d39448d56cd80dea3",
+        "title": "Apple 使用 M6 芯片更新 MacBook Pro / Apple updates the MacBook Pro with M6 chips",
+        "title_zh": "Apple 使用 M6 芯片更新 MacBook Pro",
+        "title_en": "Apple updates the MacBook Pro with M6 chips",
+        "title_original": "Apple updates the MacBook Pro with M6 chips",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.theverge.com/tech/1017664/apple-macbook-pro-m6-processor-upgrade",
+        "source": "The Verge (all)",
+        "source_name": "Curated Media"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-28T00:25:42.310792Z"
+      }
+    },
+    {
+      "story_id": "story_6aceb68606b8",
+      "title": "英国内政部可能因使用 OpenAI 技术而面临调查 / UK Home Office May Face Investigation Over Use of OpenAI Tech",
+      "url": "https://www.wired.com/story/uk-home-office-may-face-investigation-over-use-of-openai-tools",
+      "primary_url": "https://www.wired.com/story/uk-home-office-may-face-investigation-over-use-of-openai-tools",
+      "source": "Wired",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "4e03fd9098f0a3b730493f4a7a5f5e48efdb9269",
+          "title": "英国内政部可能因使用 OpenAI 技术而面临调查 / UK Home Office May Face Investigation Over Use of OpenAI Tech",
+          "title_zh": "英国内政部可能因使用 OpenAI 技术而面临调查",
+          "title_en": "UK Home Office May Face Investigation Over Use of OpenAI Tech",
+          "title_original": "UK Home Office May Face Investigation Over Use of OpenAI Tech",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.wired.com/story/uk-home-office-may-face-investigation-over-use-of-openai-tools",
+          "source": "Wired",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-27T15:10:26Z"
+        },
+        {
+          "id": "3e93853a45e09810256fb11f136d85c2a2cdf225",
+          "title": "英国内政部可能因使用 OpenAI 工具而面临调查 / UK Home Office May Face Investigation Over Use of OpenAI Tools",
+          "title_zh": "英国内政部可能因使用 OpenAI 工具而面临调查",
+          "title_en": "UK Home Office May Face Investigation Over Use of OpenAI Tools",
+          "title_original": "UK Home Office May Face Investigation Over Use of OpenAI Tools",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.wired.com/story/uk-home-office-may-face-investigation-over-use-of-openai-tools",
+          "source": "Wired",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-27T15:10:26Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Wired"
+      ],
+      "items": [
+        {
+          "id": "4e03fd9098f0a3b730493f4a7a5f5e48efdb9269",
+          "title": "英国内政部可能因使用 OpenAI 技术而面临调查 / UK Home Office May Face Investigation Over Use of OpenAI Tech",
+          "title_zh": "英国内政部可能因使用 OpenAI 技术而面临调查",
+          "title_en": "UK Home Office May Face Investigation Over Use of OpenAI Tech",
+          "title_original": "UK Home Office May Face Investigation Over Use of OpenAI Tech",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.wired.com/story/uk-home-office-may-face-investigation-over-use-of-openai-tools",
+          "source": "Wired",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-27T15:10:26Z"
+        },
+        {
+          "id": "3e93853a45e09810256fb11f136d85c2a2cdf225",
+          "title": "英国内政部可能因使用 OpenAI 工具而面临调查 / UK Home Office May Face Investigation Over Use of OpenAI Tools",
+          "title_zh": "英国内政部可能因使用 OpenAI 工具而面临调查",
+          "title_en": "UK Home Office May Face Investigation Over Use of OpenAI Tools",
+          "title_original": "UK Home Office May Face Investigation Over Use of OpenAI Tools",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.wired.com/story/uk-home-office-may-face-investigation-over-use-of-openai-tools",
+          "source": "Wired",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-27T15:10:26Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6471,
+      "importance": 0.6471,
+      "importance_score": 0.6471,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5832,
+        "source_tier": 0.58,
+        "ai_relevance": 0.81,
+        "recency": 0.8752,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-27T15:10:26Z",
+      "latest_at": "2026-10-27T15:10:26Z",
+      "primary_item": {
+        "id": "4e03fd9098f0a3b730493f4a7a5f5e48efdb9269",
+        "title": "英国内政部可能因使用 OpenAI 技术而面临调查 / UK Home Office May Face Investigation Over Use of OpenAI Tech",
+        "title_zh": "英国内政部可能因使用 OpenAI 技术而面临调查",
+        "title_en": "UK Home Office May Face Investigation Over Use of OpenAI Tech",
+        "title_original": "UK Home Office May Face Investigation Over Use of OpenAI Tech",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.wired.com/story/uk-home-office-may-face-investigation-over-use-of-openai-tools",
+        "source": "Wired",
+        "source_name": "Curated Media"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-28T00:25:42.310792Z"
+      }
+    },
+    {
+      "story_id": "story_213dbacc5a72",
+      "title": "Survival LLM：可在您自己的计算机上运行的 AI 助手和应急知识库 / Survival LLM: AI assistant and emergency library that runs on your own computer",
+      "url": "https://www.brangus.io/survival-llm",
+      "primary_url": "https://www.brangus.io/survival-llm",
+      "source": "Hacker News front page",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "9083baaee90f32384c536e51ac6b13c225ce7a78",
+          "title": "Survival LLM：可在您自己的计算机上运行的 AI 助手和应急知识库 / Survival LLM: AI assistant and emergency library that runs on your own computer",
+          "title_zh": "Survival LLM：可在您自己的计算机上运行的 AI 助手和应急知识库",
+          "title_en": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+          "title_original": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.brangus.io/survival-llm",
+          "source": "Hacker News front page",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-27T19:55:06Z"
+        },
+        {
+          "id": "eab8198d6485fd131fd9beadf9593fd7ef532550",
+          "title": "Survival LLM：可在您自己的计算机上运行的 AI 助手和应急知识库",
+          "title_zh": "Survival LLM：可在您自己的计算机上运行的 AI 助手和应急知识库",
+          "title_en": null,
+          "title_original": "Survival LLM：可在您自己的计算机上运行的 AI 助手和应急知识库",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.brangus.io/survival-llm",
+          "source": "www.brangus.io",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-27T22:20:46.155000Z"
+        },
+        {
+          "id": "6bbd9b33b1c00015e40cc2924690179a4d16f574",
+          "title": "Survival LLM：在您自己的计算机上运行的人工智能助手和应急库 / Survival LLM: AI assistant and emergency library that runs on your own computer",
+          "title_zh": "Survival LLM：在您自己的计算机上运行的人工智能助手和应急库",
+          "title_en": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+          "title_original": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50264853",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-27T19:55:06Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News front page",
+        "hackernews",
+        "www.brangus.io"
+      ],
+      "items": [
+        {
+          "id": "9083baaee90f32384c536e51ac6b13c225ce7a78",
+          "title": "Survival LLM：可在您自己的计算机上运行的 AI 助手和应急知识库 / Survival LLM: AI assistant and emergency library that runs on your own computer",
+          "title_zh": "Survival LLM：可在您自己的计算机上运行的 AI 助手和应急知识库",
+          "title_en": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+          "title_original": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.brangus.io/survival-llm",
+          "source": "Hacker News front page",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-27T19:55:06Z"
+        },
+        {
+          "id": "eab8198d6485fd131fd9beadf9593fd7ef532550",
+          "title": "Survival LLM：可在您自己的计算机上运行的 AI 助手和应急知识库",
+          "title_zh": "Survival LLM：可在您自己的计算机上运行的 AI 助手和应急知识库",
+          "title_en": null,
+          "title_original": "Survival LLM：可在您自己的计算机上运行的 AI 助手和应急知识库",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.brangus.io/survival-llm",
+          "source": "www.brangus.io",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-27T22:20:46.155000Z"
+        },
+        {
+          "id": "6bbd9b33b1c00015e40cc2924690179a4d16f574",
+          "title": "Survival LLM：在您自己的计算机上运行的人工智能助手和应急库 / Survival LLM: AI assistant and emergency library that runs on your own computer",
+          "title_zh": "Survival LLM：在您自己的计算机上运行的人工智能助手和应急库",
+          "title_en": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+          "title_original": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50264853",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-27T19:55:06Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.6833,
+      "importance": 0.6833,
+      "importance_score": 0.6833,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.5832,
+        "source_tier": 0.58,
+        "ai_relevance": 0.81,
+        "recency": 0.9373,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-27T19:55:06Z",
+      "latest_at": "2026-10-27T22:20:46.155000Z",
+      "primary_item": {
+        "id": "9083baaee90f32384c536e51ac6b13c225ce7a78",
+        "title": "Survival LLM：可在您自己的计算机上运行的 AI 助手和应急知识库 / Survival LLM: AI assistant and emergency library that runs on your own computer",
+        "title_zh": "Survival LLM：可在您自己的计算机上运行的 AI 助手和应急知识库",
+        "title_en": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+        "title_original": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.brangus.io/survival-llm",
+        "source": "Hacker News front page",
+        "source_name": "Curated Media"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-28T00:25:42.310792Z"
       }
     }
   ]
