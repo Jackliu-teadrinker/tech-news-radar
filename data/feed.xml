@@ -5,7 +5,7 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Wed, 28 Oct 2026 01:36:42 +0000</lastBuildDate>
+<lastBuildDate>Wed, 28 Oct 2026 08:56:04 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
 <item>
 <title>我们可以信任LLM来判断一个研究想法是否新颖吗？ / Can we trust LLMs to judge whether a research idea is novel?</title>
@@ -32,14 +32,6 @@
 <pubDate>Tue, 27 Oct 2026 21:36:55 +0000</pubDate>
 </item>
 <item>
-<title>OpenAI 扩大与 Oracle 合作，将 Oracle 应用与数据接入 ChatGPT / OpenAI expands partnership with Oracle to bring its apps to ChatGPT</title>
-<link>https://openai.com/index/oracle-apps-in-chatgpt</link>
-<guid isPermaLink="true">https://openai.com/index/oracle-apps-in-chatgpt</guid>
-<description>OpenAI News</description>
-<category>官方更新</category>
-<pubDate>Tue, 27 Oct 2026 07:00:00 +0000</pubDate>
-</item>
-<item>
 <title>Google DeepMind 发布实时交互世界模型 Genie 4 / Genie 4: A new generation of world simulation</title>
 <link>https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation</link>
 <guid isPermaLink="true">https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation</guid>
@@ -64,12 +56,20 @@
 <pubDate>Tue, 27 Oct 2026 17:16:52 +0000</pubDate>
 </item>
 <item>
-<title>Latent Space 解读 Anthropic 提交 S-1：拟以代码 AN 上市纳斯达克，H1 2026 营收 16.3B 美元 / [AINews] Anthropic files for $2T IPO in 2 weeks: 1400% growth rate, 48% of revenue through cloud partners, 85% margin, $1B op profit in Q2, $134B cash in bank and $10B lifetime burn</title>
-<link>https://latent.space/p/ainews-anthropic-s1</link>
-<guid isPermaLink="true">https://latent.space/p/ainews-anthropic-s1</guid>
-<description>Latent Space 汇总解读 Anthropic 公开提交的 S-1 文件，公司计划以代码 AN 上市纳斯达克，营收从 2023 年的 41M 美元增至 H1 2026 的 16.3B 美元，Q2 营收 11.6B 美元同比增长 1,368%，营业利润 974M 美元，H1 2026 毛利率达 85%。（Latent Space（RSS））</description>
+<title>Addy Osmani 讲解如何上手 Claude Code Mods / Getting started with Claude Code Mods</title>
+<link>https://x.com/addyosmani/status/2115326629488824753</link>
+<guid isPermaLink="true">https://x.com/addyosmani/status/2115326629488824753</guid>
+<description>Addy Osmani 发布 Claude Code Mods 上手指南，说明 mods 是运行在会话中的 JavaScript/TypeScript 文件，可通过 hooks 观察事件、改写行为或渲染自定义界面。（X：Addy Osmani (@addyosmani)）</description>
 <category>行业动态</category>
-<pubDate>Tue, 27 Oct 2026 07:24:59 +0000</pubDate>
+<pubDate>Wed, 28 Oct 2026 06:15:43 +0000</pubDate>
+</item>
+<item>
+<title>AI编程能力改变招聘标准，Anthropic招聘负责人取消传统编程面试</title>
+<link>https://www.aibase.com/news/31923</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31923</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Wed, 28 Oct 2026 08:56:04 +0000</pubDate>
 </item>
 <item>
 <title>Anthropic 拟以特殊治理结构抵御 IPO 后股东的安全施压 / Anthropic’s elaborate plan to keep Wall Street at bay</title>
@@ -96,44 +96,28 @@
 <pubDate>Tue, 27 Oct 2026 12:37:24 +0000</pubDate>
 </item>
 <item>
-<title>31 岁工程师离世，父母怒告 OpenAI：ChatGPT 教她减药瞒医</title>
-<link>https://www.aibase.com/news/31907</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31907</guid>
+<title>Anthropic IPO 最大赢家或为 Amazon 而非 VC / VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more</title>
+<link>https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more</link>
+<guid isPermaLink="true">https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more</guid>
+<description>TechCrunch 根据 Anthropic 的 S-1 分析，VC 持股均不足 5%，而 Amazon 可能是 IPO 最大财务受益方。Amazon 持有 62 亿美元本金可转债、其自估持仓价值 979 亿美元，另投 100 亿美元无投票权优先股，累计投资约 180 亿美元；Anthropic 还承诺未来 10 年在 AWS 至少消费 1100 亿美元。（TechCrunch：AI（RSS））</description>
+<category>行业动态</category>
+<pubDate>Wed, 28 Oct 2026 01:15:28 +0000</pubDate>
+</item>
+<item>
+<title>DeepSeek V5 惊现官方代码库，外界猜 11 月见真章</title>
+<link>https://www.aibase.com/news/31922</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31922</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Wed, 28 Oct 2026 01:36:42 +0000</pubDate>
+<pubDate>Wed, 28 Oct 2026 08:56:04 +0000</pubDate>
 </item>
 <item>
-<title>LangChain 解析自研设计 agent Content Studio 并开源其 harness / How We Built Our Design Agent</title>
-<link>https://www.langchain.com/blog/design-agent</link>
-<guid isPermaLink="true">https://www.langchain.com/blog/design-agent</guid>
-<description>LangChain 详解自家设计 agent Content Studio 如何在 Slack 中根据一条提示生成视频、幻灯片和社媒图等代码化资产，已累计产出超 3000 件资产、80 多套幻灯片，单次请求模型成本从约 $8 降至约 50 美分。（LangChain：Blog（RSS））</description>
-<category>行业动态</category>
-<pubDate>Tue, 27 Oct 2026 16:45:00 +0000</pubDate>
-</item>
-<item>
-<title>Gemini 集成 Google SynthID 检测，可识别图片、视频和音频是否为 Google AI 生成 / With Google SynthID detection in Gemini, anyone can easily check if an image, video, or audio file was made with AI from Google.</title>
-<link>https://x.com/GeminiApp/status/2115171788812669225</link>
-<guid isPermaLink="true">https://x.com/GeminiApp/status/2115171788812669225</guid>
-<description>Google Gemini 宣布集成 SynthID 检测功能，用户只需在 Gemini 中询问“Is this AI generated?”，即可检查图片、视频或音频文件是否由 Google AI 生成。官方称此举帮助用户更有信心地浏览网络内容。（X：Gemini (@GeminiApp)）</description>
-<category>行业动态</category>
-<pubDate>Tue, 27 Oct 2026 20:00:27 +0000</pubDate>
-</item>
-<item>
-<title>Replit Cloud Agents 开放企业代码库贡献，非技术人员可直接提交经测试的 PR / Anyone can now bring their ideas into the company codebase</title>
-<link>https://replit.com/blog/anyone-can-bring-ideas-to-company-codebase</link>
-<guid isPermaLink="true">https://replit.com/blog/anyone-can-bring-ideas-to-company-codebase</guid>
-<description>Replit 推出 Cloud Agents，面向 Pro 与 Enterprise 客户开放，让设计、客服等非工程人员用自然语言向公司核心代码库提交经测试的 pull request。（Replit：Blog（RSS））</description>
-<category>行业动态</category>
-<pubDate>Tue, 27 Oct 2026 15:30:00 +0000</pubDate>
-</item>
-<item>
-<title>Anthropic 兄妹复盘创业：七人同股同权，才是成功的关键</title>
-<link>https://www.aibase.com/news/31912</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31912</guid>
+<title>​Personal Agent走向真实任务，蚂蚁百灵开源 Ling-3.1-flash-1019</title>
+<link>https://www.aibase.com/news/31918</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31918</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Wed, 28 Oct 2026 01:36:42 +0000</pubDate>
+<pubDate>Wed, 28 Oct 2026 08:56:04 +0000</pubDate>
 </item>
 <item>
 <title>提供聊天反馈会将您的数据提供给Anthropic / Giving chat feedback gives Anthropic your data</title>
@@ -144,28 +128,44 @@
 <pubDate>Tue, 27 Oct 2026 15:58:47 +0000</pubDate>
 </item>
 <item>
-<title>戴上就能AI实时对答！三星首款开放式耳机Galaxy Buds On发布，深度集成Gemini Live</title>
-<link>https://www.aibase.com/news/31913</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31913</guid>
+<title>下一波“大的”要来了？DeepSeek V5 现身官方代码库，新一代旗舰模型预计 11 月登场</title>
+<link>https://www.aibase.com/news/31925</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31925</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Wed, 28 Oct 2026 01:36:42 +0000</pubDate>
+<pubDate>Wed, 28 Oct 2026 08:56:04 +0000</pubDate>
 </item>
 <item>
-<title>借助Claude加速药物研发的初步进展 / Early progress on accelerating drug development with Claude</title>
-<link>https://www.anthropic.com/research/early-progress-drug-development</link>
-<guid isPermaLink="true">https://www.anthropic.com/research/early-progress-drug-development</guid>
+<title>人工智能分析智能指数 v5 / Artificial Analysis Intelligence Index v5</title>
+<link>https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v5</link>
+<guid isPermaLink="true">https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v5</guid>
 <description>Hacker News front page</description>
 <category>多源热议</category>
-<pubDate>Wed, 28 Oct 2026 00:43:01 +0000</pubDate>
+<pubDate>Wed, 28 Oct 2026 05:29:11 +0000</pubDate>
 </item>
 <item>
-<title>甲骨文把 ChatGPT 和 Codex 塞进自家应用，数据库从此能听懂人话</title>
-<link>https://www.aibase.com/news/31908</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31908</guid>
+<title>Apple 使用 M6 芯片更新 MacBook Pro / Apple updates the MacBook Pro with M6 chips</title>
+<link>https://www.theverge.com/tech/1017664/apple-macbook-pro-m6-processor-upgrade</link>
+<guid isPermaLink="true">https://www.theverge.com/tech/1017664/apple-macbook-pro-m6-processor-upgrade</guid>
+<description>The Verge (all)</description>
+<category>值得关注</category>
+<pubDate>Tue, 27 Oct 2026 16:00:00 +0000</pubDate>
+</item>
+<item>
+<title>英国内政部可能因使用 OpenAI 技术而面临调查 / UK Home Office May Face Investigation Over Use of OpenAI Tech</title>
+<link>https://www.wired.com/story/uk-home-office-may-face-investigation-over-use-of-openai-tools</link>
+<guid isPermaLink="true">https://www.wired.com/story/uk-home-office-may-face-investigation-over-use-of-openai-tools</guid>
+<description>Wired</description>
+<category>值得关注</category>
+<pubDate>Tue, 27 Oct 2026 15:10:26 +0000</pubDate>
+</item>
+<item>
+<title>马斯克前员工创立的AI初创公司仅用 12 小时攻破Anthropic办公系统</title>
+<link>https://www.aibase.com/news/31924</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31924</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Wed, 28 Oct 2026 01:36:42 +0000</pubDate>
+<pubDate>Wed, 28 Oct 2026 08:56:04 +0000</pubDate>
 </item>
 </channel>
 </rss>
