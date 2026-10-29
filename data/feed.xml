@@ -5,7 +5,7 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Thu, 29 Oct 2026 00:45:21 +0000</lastBuildDate>
+<lastBuildDate>Thu, 29 Oct 2026 08:50:51 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
 <item>
 <title>Nvidia Nemotron 3.5 Transcribe：支持 40 种语言的开源语音识别（ASR） / NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt</title>
@@ -80,12 +80,28 @@
 <pubDate>Wed, 28 Oct 2026 10:00:00 +0000</pubDate>
 </item>
 <item>
+<title>Addy Osmani 谈你可能对 Claude 过度提示了 / You're probably overprompting Claude</title>
+<link>https://x.com/addyosmani/status/2115688494865465370</link>
+<guid isPermaLink="true">https://x.com/addyosmani/status/2115688494865465370</guid>
+<description>Addy Osmani 撰文称新版 Claude 模型所需提示词比多数人习惯的更少，针对 Opus 5.5 建议用单一明确目标加验证条件让 Claude 自主工作，从 /effort medium 起步按需调整。（X：Addy Osmani (@addyosmani)）</description>
+<category>行业动态</category>
+<pubDate>Thu, 29 Oct 2026 06:13:39 +0000</pubDate>
+</item>
+<item>
 <title>OpenRouter 教程：用 LLM 从 PDF 中抽取表格 / How to Extract Tables from a PDF with an LLM</title>
 <link>https://openrouter.ai/blog/tutorials/extract-tables-from-pdf-llm</link>
 <guid isPermaLink="true">https://openrouter.ai/blog/tutorials/extract-tables-from-pdf-llm</guid>
 <description>OpenRouter 发布教程，讲解如何把 PDF 以文件形式连同严格 JSON schema 发给能读文件的模型，让表格以带类型的行返回，括号亏损、千分位和脚注标记等清理都写进字段描述。（OpenRouter：Announcements（RSS））</description>
 <category>行业动态</category>
 <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>AI 当黑客初显身手：Claude 自主挖洞写利用，53 分钟拿下 Linux 最高权限</title>
+<link>https://www.aibase.com/news/31955</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31955</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Thu, 29 Oct 2026 08:50:51 +0000</pubDate>
 </item>
 <item>
 <title>Ed Zitron 长文解析 Anthropic S-1：称其把散户当作退出流动性 / Exit Liquidity</title>
@@ -96,12 +112,12 @@
 <pubDate>Wed, 28 Oct 2026 17:51:00 +0000</pubDate>
 </item>
 <item>
-<title>使用 GitHub Copilot Fusion 路由和编排模型 / Route and orchestrate models with GitHub Copilot Fusion</title>
-<link>https://github.blog/changelog/2026-10-28-route-and-orchestrate-models-with-github-copilot-fusion</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-10-28-route-and-orchestrate-models-with-github-copilot-fusion</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Wed, 28 Oct 2026 16:00:00 +0000</pubDate>
+<title>犹他州 10 个州政府部门 34 名开发者试点使用 Claude Code / Utah gave Claude Code to 34 developers across 10 state agencies. 80% had a working environment within 30 minutes, 71% reported saving 20+...</title>
+<link>https://x.com/bcherny/status/2115491259381072269</link>
+<guid isPermaLink="true">https://x.com/bcherny/status/2115491259381072269</guid>
+<description>Boris Cherny 介绍犹他州向 10 个州政府部门的 34 名开发者提供了 Claude Code。试点显示 80% 的开发者在 30 分钟内搭好可用环境，71% 的开发者在为期四周的试点结束前报告节省了 20 小时以上时间。该推文引用了 Anthropic 与 GSA 合作将 Claude 以 40% 折扣提供给联邦及各级政府的公告作为背景。（X：Boris Cherny (@bcherny)）</description>
+<category>行业动态</category>
+<pubDate>Wed, 28 Oct 2026 17:09:54 +0000</pubDate>
 </item>
 <item>
 <title>Anthropic S-1 显示 90% 增量毛利，SemiAnalysis 播客详解其中数字</title>
@@ -120,36 +136,20 @@
 <pubDate>Wed, 28 Oct 2026 10:56:24 +0000</pubDate>
 </item>
 <item>
-<title>Google 发布 Gemini 4 Carbon：AA Index v5.0 登顶，网络安全基准领先 / I did say we'd be releasing our models periodically...introducing Gemini 4 Carbon, our next frontier model.</title>
-<link>https://x.com/sundarpichai/status/2115489219804352921</link>
-<guid isPermaLink="true">https://x.com/sundarpichai/status/2115489219804352921</guid>
-<description>Sundar Pichai 宣布 Google 推出 Gemini 4 Carbon，称其在更新后的 Artificial Analysis Intelligence Index v5.0 以 59 分排名第一。（X：Sundar Pichai (@sundarpichai)）</description>
-<category>行业动态</category>
-<pubDate>Wed, 28 Oct 2026 17:01:48 +0000</pubDate>
+<title>使用 GitHub Copilot Fusion 路由和编排模型 / Route and orchestrate models with GitHub Copilot Fusion</title>
+<link>https://github.blog/changelog/2026-10-28-route-and-orchestrate-models-with-github-copilot-fusion</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-28-route-and-orchestrate-models-with-github-copilot-fusion</guid>
+<description>GitHub Changelog</description>
+<category>官方更新</category>
+<pubDate>Wed, 28 Oct 2026 16:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Anthropic IPO 最大赢家或为 Amazon 而非 VC / VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more</title>
-<link>https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more</link>
-<guid isPermaLink="true">https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more</guid>
-<description>TechCrunch 根据 Anthropic 的 S-1 分析，VC 持股均不足 5%，而 Amazon 可能是 IPO 最大财务受益方。Amazon 持有 62 亿美元本金可转债、其自估持仓价值 979 亿美元，另投 100 亿美元无投票权优先股，累计投资约 180 亿美元；Anthropic 还承诺未来 10 年在 AWS 至少消费 1100 亿美元。（TechCrunch：AI（RSS））</description>
-<category>行业动态</category>
-<pubDate>Wed, 28 Oct 2026 01:15:28 +0000</pubDate>
-</item>
-<item>
-<title>犹他州 10 个州政府部门 34 名开发者试点使用 Claude Code / Utah gave Claude Code to 34 developers across 10 state agencies. 80% had a working environment within 30 minutes, 71% reported saving 20+...</title>
-<link>https://x.com/bcherny/status/2115491259381072269</link>
-<guid isPermaLink="true">https://x.com/bcherny/status/2115491259381072269</guid>
-<description>Boris Cherny 介绍犹他州向 10 个州政府部门的 34 名开发者提供了 Claude Code。试点显示 80% 的开发者在 30 分钟内搭好可用环境，71% 的开发者在为期四周的试点结束前报告节省了 20 小时以上时间。该推文引用了 Anthropic 与 GSA 合作将 Claude 以 40% 折扣提供给联邦及各级政府的公告作为背景。（X：Boris Cherny (@bcherny)）</description>
-<category>行业动态</category>
-<pubDate>Wed, 28 Oct 2026 17:09:54 +0000</pubDate>
-</item>
-<item>
-<title>OpenAI被曝将向谷歌采购TPU芯片，算力供应链格局再变</title>
-<link>https://www.aibase.com/news/31933</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31933</guid>
+<title>AI删文件终于可以不用再问了！Claude Code上线全新环境变量，赋予开发者绝对放行权限</title>
+<link>https://www.aibase.com/news/31963</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31963</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Wed, 28 Oct 2026 13:56:38 +0000</pubDate>
+<pubDate>Thu, 29 Oct 2026 08:50:51 +0000</pubDate>
 </item>
 <item>
 <title>GitHub Copilot 应用程序、Universe 发布 / GitHub Copilot app, Universe releases</title>
@@ -160,12 +160,12 @@
 <pubDate>Wed, 28 Oct 2026 15:55:00 +0000</pubDate>
 </item>
 <item>
-<title>配备 PROLED XDR 显示屏和触控功能的 MacBook Pro / MacBook Pro with PROLED XDR Display and Touch</title>
-<link>https://www.apple.com/macbook-pro/proled-xdr-display</link>
-<guid isPermaLink="true">https://www.apple.com/macbook-pro/proled-xdr-display</guid>
-<description>Hacker News front page</description>
-<category>多源热议</category>
-<pubDate>Wed, 28 Oct 2026 17:40:03 +0000</pubDate>
+<title>Anthropic 递给企业一把"监工钥匙"：Claude 能看清每个员工的 AI 开销</title>
+<link>https://www.aibase.com/news/31965</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31965</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Thu, 29 Oct 2026 08:50:51 +0000</pubDate>
 </item>
 </channel>
 </rss>
