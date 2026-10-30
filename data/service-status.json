@@ -1,16 +1,30 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-30T13:58:13.091707Z",
+  "generated_at": "2026-10-30T16:47:55.178723Z",
   "ok": true,
-  "active_count": 0,
+  "active_count": 1,
   "providers": [
     {
       "id": "openai",
       "name": "OpenAI",
       "status_url": "https://status.openai.com/",
       "ok": true,
-      "active_count": 0
+      "active_count": 1
     }
   ],
-  "incidents": []
+  "incidents": [
+    {
+      "id": "01M66KSDH67V5BQ73PE8AD2W8S",
+      "provider": "OpenAI",
+      "title": "Elevated errors for GPT Image 2 API image edits",
+      "title_zh": "Elevated errors for GPT Image 2 API image edits",
+      "status": "monitoring",
+      "impact": "minor",
+      "started_at": "2026-10-30T14:35:28Z",
+      "updated_at": "2026-10-30T16:06:34Z",
+      "message": "We’ve applied a mitigation and are monitoring the affected services to confirm recovery.",
+      "affected_components": [],
+      "url": "https://status.openai.com/incidents/01M66KSDH67V5BQ73PE8AD2W8S"
+    }
+  ]
 }
