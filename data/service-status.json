@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-30T16:47:55.178723Z",
+  "generated_at": "2026-10-30T19:54:27.431341Z",
   "ok": true,
   "active_count": 1,
   "providers": [
@@ -14,17 +14,17 @@
   ],
   "incidents": [
     {
-      "id": "01M66KSDH67V5BQ73PE8AD2W8S",
+      "id": "01M6754SR14HCQ3E9FX426E2N7",
       "provider": "OpenAI",
-      "title": "Elevated errors for GPT Image 2 API image edits",
-      "title_zh": "Elevated errors for GPT Image 2 API image edits",
-      "status": "monitoring",
+      "title": "Elevated errors with search in Dots, ChatGPT Work, and certain ChatGPT thinking experiences",
+      "title_zh": "Elevated errors with search in Dots, ChatGPT Work, and certain ChatGPT thinking experiences",
+      "status": "investigating",
       "impact": "minor",
-      "started_at": "2026-10-30T14:35:28Z",
-      "updated_at": "2026-10-30T16:06:34Z",
-      "message": "We’ve applied a mitigation and are monitoring the affected services to confirm recovery.",
+      "started_at": "2026-10-30T19:38:47Z",
+      "updated_at": "2026-10-30T19:38:47Z",
+      "message": "We’re aware of issues affecting search in Dots, ChatGPT Work, and some ChatGPT thinking experiences. We’re investigating and will share updates here.",
       "affected_components": [],
-      "url": "https://status.openai.com/incidents/01M66KSDH67V5BQ73PE8AD2W8S"
+      "url": "https://status.openai.com/incidents/01M6754SR14HCQ3E9FX426E2N7"
     }
   ]
 }
