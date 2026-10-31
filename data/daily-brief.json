@@ -1,90 +1,8 @@
 {
-  "generated_at": "2026-10-31T15:50:26.377438Z",
+  "generated_at": "2026-10-31T19:12:50.164112Z",
   "window_hours": 24,
-  "total_items": 10,
+  "total_items": 8,
   "items": [
-    {
-      "story_id": "story_3b4867ca19cb",
-      "title": "nemotron-halloween",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
-      "primary_url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "545d3ac79fdabc689e437c9228407971cdff4698",
-          "title": "nemotron-halloween",
-          "title_zh": null,
-          "title_en": "nemotron-halloween",
-          "title_original": "nemotron-halloween",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-30T17:57:24Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "545d3ac79fdabc689e437c9228407971cdff4698",
-          "title": "nemotron-halloween",
-          "title_zh": null,
-          "title_en": "nemotron-halloween",
-          "title_original": "nemotron-halloween",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-30T17:57:24Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7792,
-      "importance": 0.7792,
-      "importance_score": 0.7792,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.79,
-        "recency": 0.729,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-30T17:57:24Z",
-      "latest_at": "2026-10-30T17:57:24Z",
-      "primary_item": {
-        "id": "545d3ac79fdabc689e437c9228407971cdff4698",
-        "title": "nemotron-halloween",
-        "title_zh": null,
-        "title_en": "nemotron-halloween",
-        "title_original": "nemotron-halloween",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-31T15:51:43.485828Z"
-      }
-    },
     {
       "story_id": "story_494ce9a30627",
       "title": "Anthropic IPO 招股文件披露近 9000 亿美元隐性债务",
@@ -130,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.743,
-      "importance": 0.743,
-      "importance_score": 0.743,
+      "score": 0.7359,
+      "importance": 0.7359,
+      "importance_score": 0.7359,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.8358,
+        "recency": 0.7961,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -163,7 +81,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-31T15:51:43.485828Z"
+        "scored_at": "2026-10-31T19:17:53.933310Z"
       }
     },
     {
@@ -211,15 +129,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7416,
-      "importance": 0.7416,
-      "importance_score": 0.7416,
+      "score": 0.7346,
+      "importance": 0.7346,
+      "importance_score": 0.7346,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.811,
+        "recency": 0.7725,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -244,44 +162,44 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-31T15:51:43.485828Z"
+        "scored_at": "2026-10-31T19:17:53.933310Z"
       }
     },
     {
-      "story_id": "story_57d101ca8a1e",
-      "title": "我们接管了 ChatGPT 帐户 / We Took over ChatGPT Accounts",
-      "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
-      "primary_url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
+      "story_id": "story_f00d1511750a",
+      "title": "Malware uses LLMs to rank victims by how much they're worth",
+      "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer",
+      "primary_url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer",
       "source": "Hacker News front page",
       "source_name": "Curated Media",
       "sources": [
         {
-          "id": "d9e4abc1e66aeef3ea38d219dfaf6d043cf533e0",
-          "title": "我们接管了 ChatGPT 帐户 / We Took over ChatGPT Accounts",
-          "title_zh": "我们接管了 ChatGPT 帐户",
-          "title_en": "We Took over ChatGPT Accounts",
-          "title_original": "We Took over ChatGPT Accounts",
+          "id": "84ac23685b0f5f389ca00325130d3d1add6ad39c",
+          "title": "Malware uses LLMs to rank victims by how much they're worth",
+          "title_zh": null,
+          "title_en": "Malware uses LLMs to rank victims by how much they're worth",
+          "title_original": "Malware uses LLMs to rank victims by how much they're worth",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
+          "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer",
           "source": "Hacker News front page",
           "source_name": "Curated Media",
           "site_id": "curated_media",
-          "published_at": "2026-10-31T10:30:11Z"
+          "published_at": "2026-10-31T14:29:03Z"
         },
         {
-          "id": "934d68c05ad88dcc7c0a9b160d855a9498033dbb",
-          "title": "我们接管了 ChatGPT 帐户 / We Took over ChatGPT Accounts",
-          "title_zh": "我们接管了 ChatGPT 帐户",
-          "title_en": "We Took over ChatGPT Accounts",
-          "title_original": "We Took over ChatGPT Accounts",
+          "id": "2fbf6cba9b889328487f1bc849376fbe9494e0bd",
+          "title": "Malware uses LLMs to rank victims by how much they're worth",
+          "title_zh": null,
+          "title_en": "Malware uses LLMs to rank victims by how much they're worth",
+          "title_original": "Malware uses LLMs to rank victims by how much they're worth",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50314699",
+          "url": "https://news.ycombinator.com/item?id=50316531",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-31T10:30:11Z"
+          "published_at": "2026-10-31T14:29:03Z"
         }
       ],
       "source_count": 2,
@@ -291,45 +209,45 @@
       ],
       "items": [
         {
-          "id": "d9e4abc1e66aeef3ea38d219dfaf6d043cf533e0",
-          "title": "我们接管了 ChatGPT 帐户 / We Took over ChatGPT Accounts",
-          "title_zh": "我们接管了 ChatGPT 帐户",
-          "title_en": "We Took over ChatGPT Accounts",
-          "title_original": "We Took over ChatGPT Accounts",
+          "id": "84ac23685b0f5f389ca00325130d3d1add6ad39c",
+          "title": "Malware uses LLMs to rank victims by how much they're worth",
+          "title_zh": null,
+          "title_en": "Malware uses LLMs to rank victims by how much they're worth",
+          "title_original": "Malware uses LLMs to rank victims by how much they're worth",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
+          "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer",
           "source": "Hacker News front page",
           "source_name": "Curated Media",
           "site_id": "curated_media",
-          "published_at": "2026-10-31T10:30:11Z"
+          "published_at": "2026-10-31T14:29:03Z"
         },
         {
-          "id": "934d68c05ad88dcc7c0a9b160d855a9498033dbb",
-          "title": "我们接管了 ChatGPT 帐户 / We Took over ChatGPT Accounts",
-          "title_zh": "我们接管了 ChatGPT 帐户",
-          "title_en": "We Took over ChatGPT Accounts",
-          "title_original": "We Took over ChatGPT Accounts",
+          "id": "2fbf6cba9b889328487f1bc849376fbe9494e0bd",
+          "title": "Malware uses LLMs to rank victims by how much they're worth",
+          "title_zh": null,
+          "title_en": "Malware uses LLMs to rank victims by how much they're worth",
+          "title_original": "Malware uses LLMs to rank victims by how much they're worth",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50314699",
+          "url": "https://news.ycombinator.com/item?id=50316531",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-31T10:30:11Z"
+          "published_at": "2026-10-31T14:29:03Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6562,
-      "importance": 0.6562,
-      "importance_score": 0.6562,
+      "score": 0.6785,
+      "importance": 0.6785,
+      "importance_score": 0.6785,
       "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.5832,
+        "editorial": 0.6192,
         "source_tier": 0.58,
-        "ai_relevance": 0.81,
-        "recency": 0.9258,
+        "ai_relevance": 0.86,
+        "recency": 0.934,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -337,17 +255,17 @@
         "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-31T10:30:11Z",
-      "latest_at": "2026-10-31T10:30:11Z",
+      "earliest_at": "2026-10-31T14:29:03Z",
+      "latest_at": "2026-10-31T14:29:03Z",
       "primary_item": {
-        "id": "d9e4abc1e66aeef3ea38d219dfaf6d043cf533e0",
-        "title": "我们接管了 ChatGPT 帐户 / We Took over ChatGPT Accounts",
-        "title_zh": "我们接管了 ChatGPT 帐户",
-        "title_en": "We Took over ChatGPT Accounts",
-        "title_original": "We Took over ChatGPT Accounts",
+        "id": "84ac23685b0f5f389ca00325130d3d1add6ad39c",
+        "title": "Malware uses LLMs to rank victims by how much they're worth",
+        "title_zh": null,
+        "title_en": "Malware uses LLMs to rank victims by how much they're worth",
+        "title_original": "Malware uses LLMs to rank victims by how much they're worth",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
+        "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer",
         "source": "Hacker News front page",
         "source_name": "Curated Media"
       },
@@ -355,7 +273,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-31T15:51:43.485828Z"
+        "scored_at": "2026-10-31T19:17:53.933310Z"
       }
     },
     {
@@ -432,15 +350,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6284,
-      "importance": 0.6284,
-      "importance_score": 0.6284,
+      "score": 0.6218,
+      "importance": 0.6218,
+      "importance_score": 0.6218,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5832,
         "source_tier": 0.58,
         "ai_relevance": 0.81,
-        "recency": 0.7714,
+        "recency": 0.7347,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -466,44 +384,44 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-31T15:51:43.485828Z"
+        "scored_at": "2026-10-31T19:17:53.933310Z"
       }
     },
     {
-      "story_id": "story_c641336dd047",
-      "title": "为什么 Anthropic 的文件会压垮科技股 / Why Anthropic's Filing Crushed Tech Stocks",
-      "url": "https://www.thebignewsletter.com/p/why-anthropics-filing-crushed-tech",
-      "primary_url": "https://www.thebignewsletter.com/p/why-anthropics-filing-crushed-tech",
+      "story_id": "story_57d101ca8a1e",
+      "title": "我们接管了 ChatGPT 帐户 / We Took over ChatGPT Accounts",
+      "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
+      "primary_url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
       "source": "Hacker News front page",
       "source_name": "Curated Media",
       "sources": [
         {
-          "id": "54e44856cce3227d540e8f08e7fe46ccdb2877b6",
-          "title": "为什么 Anthropic 的文件会压垮科技股 / Why Anthropic's Filing Crushed Tech Stocks",
-          "title_zh": "为什么 Anthropic 的文件会压垮科技股",
-          "title_en": "Why Anthropic's Filing Crushed Tech Stocks",
-          "title_original": "Why Anthropic's Filing Crushed Tech Stocks",
+          "id": "d9e4abc1e66aeef3ea38d219dfaf6d043cf533e0",
+          "title": "我们接管了 ChatGPT 帐户 / We Took over ChatGPT Accounts",
+          "title_zh": "我们接管了 ChatGPT 帐户",
+          "title_en": "We Took over ChatGPT Accounts",
+          "title_original": "We Took over ChatGPT Accounts",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.thebignewsletter.com/p/why-anthropics-filing-crushed-tech",
+          "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
           "source": "Hacker News front page",
           "source_name": "Curated Media",
           "site_id": "curated_media",
-          "published_at": "2026-10-31T12:32:10Z"
+          "published_at": "2026-10-31T10:30:11Z"
         },
         {
-          "id": "dfe7eed54139d118d7b7c88180d08b37272eb148",
-          "title": "为什么 Anthropic 的文件会压垮科技股 / Why Anthropic's Filing Crushed Tech Stocks",
-          "title_zh": "为什么 Anthropic 的文件会压垮科技股",
-          "title_en": "Why Anthropic's Filing Crushed Tech Stocks",
-          "title_original": "Why Anthropic's Filing Crushed Tech Stocks",
+          "id": "934d68c05ad88dcc7c0a9b160d855a9498033dbb",
+          "title": "我们接管了 ChatGPT 帐户 / We Took over ChatGPT Accounts",
+          "title_zh": "我们接管了 ChatGPT 帐户",
+          "title_en": "We Took over ChatGPT Accounts",
+          "title_original": "We Took over ChatGPT Accounts",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50315574",
+          "url": "https://news.ycombinator.com/item?id=50314699",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-31T12:32:10Z"
+          "published_at": "2026-10-31T10:30:11Z"
         }
       ],
       "source_count": 2,
@@ -513,155 +431,45 @@
       ],
       "items": [
         {
-          "id": "54e44856cce3227d540e8f08e7fe46ccdb2877b6",
-          "title": "为什么 Anthropic 的文件会压垮科技股 / Why Anthropic's Filing Crushed Tech Stocks",
-          "title_zh": "为什么 Anthropic 的文件会压垮科技股",
-          "title_en": "Why Anthropic's Filing Crushed Tech Stocks",
-          "title_original": "Why Anthropic's Filing Crushed Tech Stocks",
+          "id": "d9e4abc1e66aeef3ea38d219dfaf6d043cf533e0",
+          "title": "我们接管了 ChatGPT 帐户 / We Took over ChatGPT Accounts",
+          "title_zh": "我们接管了 ChatGPT 帐户",
+          "title_en": "We Took over ChatGPT Accounts",
+          "title_original": "We Took over ChatGPT Accounts",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.thebignewsletter.com/p/why-anthropics-filing-crushed-tech",
+          "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
           "source": "Hacker News front page",
           "source_name": "Curated Media",
           "site_id": "curated_media",
-          "published_at": "2026-10-31T12:32:10Z"
+          "published_at": "2026-10-31T10:30:11Z"
         },
         {
-          "id": "dfe7eed54139d118d7b7c88180d08b37272eb148",
-          "title": "为什么 Anthropic 的文件会压垮科技股 / Why Anthropic's Filing Crushed Tech Stocks",
-          "title_zh": "为什么 Anthropic 的文件会压垮科技股",
-          "title_en": "Why Anthropic's Filing Crushed Tech Stocks",
-          "title_original": "Why Anthropic's Filing Crushed Tech Stocks",
+          "id": "934d68c05ad88dcc7c0a9b160d855a9498033dbb",
+          "title": "我们接管了 ChatGPT 帐户 / We Took over ChatGPT Accounts",
+          "title_zh": "我们接管了 ChatGPT 帐户",
+          "title_en": "We Took over ChatGPT Accounts",
+          "title_original": "We Took over ChatGPT Accounts",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50315574",
+          "url": "https://news.ycombinator.com/item?id=50314699",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-31T12:32:10Z"
+          "published_at": "2026-10-31T10:30:11Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6487,
-      "importance": 0.6487,
-      "importance_score": 0.6487,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.5616,
-        "source_tier": 0.58,
-        "ai_relevance": 0.78,
-        "recency": 0.9534,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-31T12:32:10Z",
-      "latest_at": "2026-10-31T12:32:10Z",
-      "primary_item": {
-        "id": "54e44856cce3227d540e8f08e7fe46ccdb2877b6",
-        "title": "为什么 Anthropic 的文件会压垮科技股 / Why Anthropic's Filing Crushed Tech Stocks",
-        "title_zh": "为什么 Anthropic 的文件会压垮科技股",
-        "title_en": "Why Anthropic's Filing Crushed Tech Stocks",
-        "title_original": "Why Anthropic's Filing Crushed Tech Stocks",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.thebignewsletter.com/p/why-anthropics-filing-crushed-tech",
-        "source": "Hacker News front page",
-        "source_name": "Curated Media"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-31T15:51:43.485828Z"
-      }
-    },
-    {
-      "story_id": "story_4bee7d3c9ae6",
-      "title": "OpenAI 首席执行官表示 PC 拥有 RAM“非常糟糕” / OpenAI CEO says it's 'quite terrible' for your PC to have RAM",
-      "url": "https://www.tomshardware.com/tech-industry/data-centers/openai-ceo-says-its-quite-terrible-for-your-pc-to-have-ram-sam-altman-says-data-centers-offer-better-utilization",
-      "primary_url": "https://www.tomshardware.com/tech-industry/data-centers/openai-ceo-says-its-quite-terrible-for-your-pc-to-have-ram-sam-altman-says-data-centers-offer-better-utilization",
-      "source": "Tom's Hardware",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "8436579a392d65d313c77e2a7d370cf856f92eb1",
-          "title": "OpenAI 首席执行官表示 PC 拥有 RAM“非常糟糕” / OpenAI CEO says it's 'quite terrible' for your PC to have RAM",
-          "title_zh": "OpenAI 首席执行官表示 PC 拥有 RAM“非常糟糕”",
-          "title_en": "OpenAI CEO says it's 'quite terrible' for your PC to have RAM",
-          "title_original": "OpenAI CEO says it's 'quite terrible' for your PC to have RAM",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.tomshardware.com/tech-industry/data-centers/openai-ceo-says-its-quite-terrible-for-your-pc-to-have-ram-sam-altman-says-data-centers-offer-better-utilization",
-          "source": "Tom's Hardware",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-30T16:28:11Z"
-        },
-        {
-          "id": "a81c168d6e83d5d1e9e0f915fa5d18d97e0f7105",
-          "title": "OpenAI 首席执行官表示 PC 拥有 RAM“非常糟糕” / OpenAI CEO says it's 'quite terrible' for your PC to have RAM",
-          "title_zh": "OpenAI 首席执行官表示 PC 拥有 RAM“非常糟糕”",
-          "title_en": "OpenAI CEO says it's 'quite terrible' for your PC to have RAM",
-          "title_original": "OpenAI CEO says it's 'quite terrible' for your PC to have RAM",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.reddit.com/r/technology/comments/1xjmixe/openai_ceo_says_its_quite_terrible_for_your_pc_to",
-          "source": "Reddit (热门)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-30T17:59:02Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Reddit (热门)",
-        "Tom's Hardware"
-      ],
-      "items": [
-        {
-          "id": "8436579a392d65d313c77e2a7d370cf856f92eb1",
-          "title": "OpenAI 首席执行官表示 PC 拥有 RAM“非常糟糕” / OpenAI CEO says it's 'quite terrible' for your PC to have RAM",
-          "title_zh": "OpenAI 首席执行官表示 PC 拥有 RAM“非常糟糕”",
-          "title_en": "OpenAI CEO says it's 'quite terrible' for your PC to have RAM",
-          "title_original": "OpenAI CEO says it's 'quite terrible' for your PC to have RAM",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.tomshardware.com/tech-industry/data-centers/openai-ceo-says-its-quite-terrible-for-your-pc-to-have-ram-sam-altman-says-data-centers-offer-better-utilization",
-          "source": "Tom's Hardware",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-30T16:28:11Z"
-        },
-        {
-          "id": "a81c168d6e83d5d1e9e0f915fa5d18d97e0f7105",
-          "title": "OpenAI 首席执行官表示 PC 拥有 RAM“非常糟糕” / OpenAI CEO says it's 'quite terrible' for your PC to have RAM",
-          "title_zh": "OpenAI 首席执行官表示 PC 拥有 RAM“非常糟糕”",
-          "title_en": "OpenAI CEO says it's 'quite terrible' for your PC to have RAM",
-          "title_original": "OpenAI CEO says it's 'quite terrible' for your PC to have RAM",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.reddit.com/r/technology/comments/1xjmixe/openai_ceo_says_its_quite_terrible_for_your_pc_to",
-          "source": "Reddit (热门)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-30T17:59:02Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.618,
-      "importance": 0.618,
-      "importance_score": 0.618,
+      "score": 0.6483,
+      "importance": 0.6483,
+      "importance_score": 0.6483,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5832,
         "source_tier": 0.58,
         "ai_relevance": 0.81,
-        "recency": 0.7136,
+        "recency": 0.8818,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -669,25 +477,25 @@
         "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-30T16:28:11Z",
-      "latest_at": "2026-10-30T17:59:02Z",
+      "earliest_at": "2026-10-31T10:30:11Z",
+      "latest_at": "2026-10-31T10:30:11Z",
       "primary_item": {
-        "id": "8436579a392d65d313c77e2a7d370cf856f92eb1",
-        "title": "OpenAI 首席执行官表示 PC 拥有 RAM“非常糟糕” / OpenAI CEO says it's 'quite terrible' for your PC to have RAM",
-        "title_zh": "OpenAI 首席执行官表示 PC 拥有 RAM“非常糟糕”",
-        "title_en": "OpenAI CEO says it's 'quite terrible' for your PC to have RAM",
-        "title_original": "OpenAI CEO says it's 'quite terrible' for your PC to have RAM",
+        "id": "d9e4abc1e66aeef3ea38d219dfaf6d043cf533e0",
+        "title": "我们接管了 ChatGPT 帐户 / We Took over ChatGPT Accounts",
+        "title_zh": "我们接管了 ChatGPT 帐户",
+        "title_en": "We Took over ChatGPT Accounts",
+        "title_original": "We Took over ChatGPT Accounts",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.tomshardware.com/tech-industry/data-centers/openai-ceo-says-its-quite-terrible-for-your-pc-to-have-ram-sam-altman-says-data-centers-offer-better-utilization",
-        "source": "Tom's Hardware",
+        "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
+        "source": "Hacker News front page",
         "source_name": "Curated Media"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-31T15:51:43.485828Z"
+        "scored_at": "2026-10-31T19:17:53.933310Z"
       }
     },
     {
@@ -764,15 +572,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6172,
-      "importance": 0.6172,
-      "importance_score": 0.6172,
+      "score": 0.6088,
+      "importance": 0.6088,
+      "importance_score": 0.6088,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5976,
         "source_tier": 0.32,
         "ai_relevance": 0.83,
-        "recency": 0.9805,
+        "recency": 0.9338,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -798,7 +606,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-31T15:51:43.485828Z"
+        "scored_at": "2026-10-31T19:17:53.933310Z"
+      }
+    },
+    {
+      "story_id": "story_c641336dd047",
+      "title": "为什么 Anthropic 的文件会压垮科技股 / Why Anthropic's Filing Crushed Tech Stocks",
+      "url": "https://www.thebignewsletter.com/p/why-anthropics-filing-crushed-tech",
+      "primary_url": "https://www.thebignewsletter.com/p/why-anthropics-filing-crushed-tech",
+      "source": "Hacker News front page",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "54e44856cce3227d540e8f08e7fe46ccdb2877b6",
+          "title": "为什么 Anthropic 的文件会压垮科技股 / Why Anthropic's Filing Crushed Tech Stocks",
+          "title_zh": "为什么 Anthropic 的文件会压垮科技股",
+          "title_en": "Why Anthropic's Filing Crushed Tech Stocks",
+          "title_original": "Why Anthropic's Filing Crushed Tech Stocks",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.thebignewsletter.com/p/why-anthropics-filing-crushed-tech",
+          "source": "Hacker News front page",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-31T12:32:10Z"
+        },
+        {
+          "id": "dfe7eed54139d118d7b7c88180d08b37272eb148",
+          "title": "为什么 Anthropic 的文件会压垮科技股 / Why Anthropic's Filing Crushed Tech Stocks",
+          "title_zh": "为什么 Anthropic 的文件会压垮科技股",
+          "title_en": "Why Anthropic's Filing Crushed Tech Stocks",
+          "title_original": "Why Anthropic's Filing Crushed Tech Stocks",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50315574",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-31T12:32:10Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News front page",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "54e44856cce3227d540e8f08e7fe46ccdb2877b6",
+          "title": "为什么 Anthropic 的文件会压垮科技股 / Why Anthropic's Filing Crushed Tech Stocks",
+          "title_zh": "为什么 Anthropic 的文件会压垮科技股",
+          "title_en": "Why Anthropic's Filing Crushed Tech Stocks",
+          "title_original": "Why Anthropic's Filing Crushed Tech Stocks",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.thebignewsletter.com/p/why-anthropics-filing-crushed-tech",
+          "source": "Hacker News front page",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-31T12:32:10Z"
+        },
+        {
+          "id": "dfe7eed54139d118d7b7c88180d08b37272eb148",
+          "title": "为什么 Anthropic 的文件会压垮科技股 / Why Anthropic's Filing Crushed Tech Stocks",
+          "title_zh": "为什么 Anthropic 的文件会压垮科技股",
+          "title_en": "Why Anthropic's Filing Crushed Tech Stocks",
+          "title_original": "Why Anthropic's Filing Crushed Tech Stocks",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50315574",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-31T12:32:10Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6405,
+      "importance": 0.6405,
+      "importance_score": 0.6405,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5616,
+        "source_tier": 0.58,
+        "ai_relevance": 0.78,
+        "recency": 0.9081,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-31T12:32:10Z",
+      "latest_at": "2026-10-31T12:32:10Z",
+      "primary_item": {
+        "id": "54e44856cce3227d540e8f08e7fe46ccdb2877b6",
+        "title": "为什么 Anthropic 的文件会压垮科技股 / Why Anthropic's Filing Crushed Tech Stocks",
+        "title_zh": "为什么 Anthropic 的文件会压垮科技股",
+        "title_en": "Why Anthropic's Filing Crushed Tech Stocks",
+        "title_original": "Why Anthropic's Filing Crushed Tech Stocks",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.thebignewsletter.com/p/why-anthropics-filing-crushed-tech",
+        "source": "Hacker News front page",
+        "source_name": "Curated Media"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-31T19:17:53.933310Z"
       }
     },
     {
@@ -875,15 +793,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6185,
-      "importance": 0.6185,
-      "importance_score": 0.6185,
+      "score": 0.6118,
+      "importance": 0.6118,
+      "importance_score": 0.6118,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5616,
         "source_tier": 0.58,
         "ai_relevance": 0.78,
-        "recency": 0.7857,
+        "recency": 0.7483,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -908,117 +826,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-31T15:51:43.485828Z"
-      }
-    },
-    {
-      "story_id": "story_0cd0414225e8",
-      "title": "Blackstone 表示，Anthropic 在 IPO 后可能无法获得投资级评级 / Anthropic may not secure investment-grade rating after IPO, Blackstone says",
-      "url": "https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f",
-      "primary_url": "https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f",
-      "source": "Hacker News front page",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "66574aa680752b85a1973004437f3c148e2ced92",
-          "title": "Blackstone 表示，Anthropic 在 IPO 后可能无法获得投资级评级 / Anthropic may not secure investment-grade rating after IPO, Blackstone says",
-          "title_zh": "Blackstone 表示，Anthropic 在 IPO 后可能无法获得投资级评级",
-          "title_en": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
-          "title_original": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f",
-          "source": "Hacker News front page",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-30T17:27:25Z"
-        },
-        {
-          "id": "63ca560be736402b27441f9218ac9fa76187dd26",
-          "title": "Blackstone 表示，Anthropic 在 IPO 后可能无法获得投资级评级 / Anthropic may not secure investment-grade rating after IPO, Blackstone says",
-          "title_zh": "Blackstone 表示，Anthropic 在 IPO 后可能无法获得投资级评级",
-          "title_en": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
-          "title_original": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50307219",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-30T17:27:25Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News front page",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "66574aa680752b85a1973004437f3c148e2ced92",
-          "title": "Blackstone 表示，Anthropic 在 IPO 后可能无法获得投资级评级 / Anthropic may not secure investment-grade rating after IPO, Blackstone says",
-          "title_zh": "Blackstone 表示，Anthropic 在 IPO 后可能无法获得投资级评级",
-          "title_en": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
-          "title_original": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f",
-          "source": "Hacker News front page",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-30T17:27:25Z"
-        },
-        {
-          "id": "63ca560be736402b27441f9218ac9fa76187dd26",
-          "title": "Blackstone 表示，Anthropic 在 IPO 后可能无法获得投资级评级 / Anthropic may not secure investment-grade rating after IPO, Blackstone says",
-          "title_zh": "Blackstone 表示，Anthropic 在 IPO 后可能无法获得投资级评级",
-          "title_en": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
-          "title_original": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50307219",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-30T17:27:25Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6074,
-      "importance": 0.6074,
-      "importance_score": 0.6074,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.5616,
-        "source_tier": 0.58,
-        "ai_relevance": 0.78,
-        "recency": 0.7238,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-30T17:27:25Z",
-      "latest_at": "2026-10-30T17:27:25Z",
-      "primary_item": {
-        "id": "66574aa680752b85a1973004437f3c148e2ced92",
-        "title": "Blackstone 表示，Anthropic 在 IPO 后可能无法获得投资级评级 / Anthropic may not secure investment-grade rating after IPO, Blackstone says",
-        "title_zh": "Blackstone 表示，Anthropic 在 IPO 后可能无法获得投资级评级",
-        "title_en": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
-        "title_original": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f",
-        "source": "Hacker News front page",
-        "source_name": "Curated Media"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-31T15:51:43.485828Z"
+        "scored_at": "2026-10-31T19:17:53.933310Z"
       }
     }
   ]
