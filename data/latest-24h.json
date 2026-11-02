@@ -1,70 +1,76 @@
 {
-  "generated_at": "2026-11-02T00:30:44.340903Z",
+  "generated_at": "2026-11-02T01:45:24.886953Z",
   "window_hours": 24,
-  "total_items": 159,
-  "total_items_ai_raw": 176,
-  "total_items_raw": 888,
-  "total_items_all_mode": 320,
+  "total_items": 182,
+  "total_items_ai_raw": 199,
+  "total_items_raw": 967,
+  "total_items_all_mode": 358,
   "topic_filter": "tech_broad_scoring_v1_0",
   "ai_relevance_threshold": 0.65,
   "tech_relevance_mode": "broad",
-  "archive_total": 32853,
+  "archive_total": 32945,
   "site_count": 17,
-  "source_count": 40,
+  "source_count": 41,
   "site_stats": [
     {
       "site_id": "curated_media",
       "site_name": "Curated Media",
-      "count": 66,
-      "raw_count": 125
+      "count": 69,
+      "raw_count": 132
     },
     {
       "site_id": "techurls",
       "site_name": "TechURLs",
       "count": 36,
-      "raw_count": 213
-    },
-    {
-      "site_id": "sector_sources",
-      "site_name": "Sector Sources",
-      "count": 17,
-      "raw_count": 122
+      "raw_count": 216
     },
     {
       "site_id": "iris",
       "site_name": "Info Flow",
-      "count": 13,
-      "raw_count": 155
+      "count": 21,
+      "raw_count": 184
+    },
+    {
+      "site_id": "sector_sources",
+      "site_name": "Sector Sources",
+      "count": 20,
+      "raw_count": 142
     },
     {
       "site_id": "newsnow",
       "site_name": "NewsNow",
-      "count": 12,
-      "raw_count": 106
+      "count": 14,
+      "raw_count": 109
     },
     {
       "site_id": "buzzing",
       "site_name": "Buzzing",
-      "count": 7,
-      "raw_count": 94
+      "count": 8,
+      "raw_count": 103
+    },
+    {
+      "site_id": "aibase",
+      "site_name": "AIbase",
+      "count": 4,
+      "raw_count": 7
     },
     {
       "site_id": "zeli",
       "site_name": "Zeli",
       "count": 4,
-      "raw_count": 53
+      "raw_count": 52
+    },
+    {
+      "site_id": "opmlrss",
+      "site_name": "OPML RSS",
+      "count": 3,
+      "raw_count": 12
     },
     {
       "site_id": "hackernews",
       "site_name": "Hacker News",
       "count": 3,
       "raw_count": 4
-    },
-    {
-      "site_id": "opmlrss",
-      "site_name": "OPML RSS",
-      "count": 1,
-      "raw_count": 9
     },
     {
       "site_id": "waytoagi",
@@ -76,7 +82,7 @@
       "site_id": "followbuilders",
       "site_name": "Follow Builders",
       "count": 0,
-      "raw_count": 6
+      "raw_count": 5
     },
     {
       "site_id": "official_ai",
@@ -103,12 +109,6 @@
       "raw_count": 0
     },
     {
-      "site_id": "aibase",
-      "site_name": "AIbase",
-      "count": 0,
-      "raw_count": 0
-    },
-    {
       "site_id": "aihot",
       "site_name": "AI HOT",
       "count": 0,
@@ -121,6 +121,339 @@
   "creator_items_all": [],
   "items": [
     {
+      "id": "9f828a6d2bc133c80f5785003b9c3d940b1a53dc",
+      "site_id": "aibase",
+      "site_name": "AIbase",
+      "source": "AIbase",
+      "title": "Anthropic 更新 Claude 限制重制现有电子游戏",
+      "url": "https://www.aibase.com/news/32002",
+      "published_at": "2026-11-02T01:45:24.886953Z",
+      "first_seen_at": "2026-11-02T01:45:24.886953Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
+      "ai_is_related": true,
+      "ai_score": 0.95,
+      "ai_label": "ai_model",
+      "ai_relevance_reason": "trusted_tech_source+strong",
+      "ai_signals": [
+        "ai",
+        "anthropic",
+        "claude"
+      ],
+      "ai_noise": [],
+      "tech_is_related": true,
+      "tech_score": 0.95,
+      "tech_label": "ai_model",
+      "source_tier": "ai_vertical",
+      "source_tier_label": "AI垂直源",
+      "source_tier_rank": 1,
+      "direction": "ai_models_apps",
+      "direction_hits": [
+        {
+          "direction_id": "ai_models_apps",
+          "score": 2.62,
+          "matched_keywords": [
+            "claude",
+            "anthropic",
+            "anthropic"
+          ],
+          "companies": [
+            "anthropic"
+          ]
+        }
+      ],
+      "companies": [
+        "anthropic"
+      ],
+      "title_original": "Anthropic 更新 Claude 限制重制现有电子游戏",
+      "title_en": null,
+      "title_zh": "Anthropic 更新 Claude 限制重制现有电子游戏",
+      "title_bilingual": "Anthropic 更新 Claude 限制重制现有电子游戏"
+    },
+    {
+      "id": "4824d1999917638be460368d60efac64814f471e",
+      "site_id": "aibase",
+      "site_name": "AIbase",
+      "source": "AIbase",
+      "title": "DeepSeek开源Super-agent架构:以经典计算机系统思想突破单会话智能体瓶颈",
+      "url": "https://www.aibase.com/news/32001",
+      "published_at": "2026-11-02T01:45:24.886953Z",
+      "first_seen_at": "2026-11-02T01:45:24.886953Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
+      "ai_is_related": true,
+      "ai_score": 0.95,
+      "ai_label": "ai_model",
+      "ai_relevance_reason": "trusted_tech_source+strong",
+      "ai_signals": [
+        "ai",
+        "deepseek",
+        "开源",
+        "智能体"
+      ],
+      "ai_noise": [],
+      "tech_is_related": true,
+      "tech_score": 0.95,
+      "tech_label": "ai_model",
+      "source_tier": "ai_vertical",
+      "source_tier_label": "AI垂直源",
+      "source_tier_rank": 1,
+      "direction": "ai_models_apps",
+      "direction_hits": [
+        {
+          "direction_id": "ai_models_apps",
+          "score": 3.25,
+          "matched_keywords": [
+            "deepseek",
+            "agent",
+            "智能体",
+            "deepseek"
+          ],
+          "companies": [
+            "deepseek"
+          ]
+        },
+        {
+          "direction_id": "ai_terminal",
+          "score": 1.44,
+          "matched_keywords": [
+            "系统",
+            "agent"
+          ],
+          "companies": []
+        }
+      ],
+      "companies": [
+        "deepseek"
+      ],
+      "title_original": "DeepSeek开源Super-agent架构:以经典计算机系统思想突破单会话智能体瓶颈",
+      "title_en": null,
+      "title_zh": "DeepSeek开源Super-agent架构:以经典计算机系统思想突破单会话智能体瓶颈",
+      "title_bilingual": "DeepSeek开源Super-agent架构:以经典计算机系统思想突破单会话智能体瓶颈"
+    },
+    {
+      "id": "f82ddc0aed5d1d0eaef1fdbd76a27686c1ed4ca1",
+      "site_id": "aibase",
+      "site_name": "AIbase",
+      "source": "AIbase",
+      "title": "GPT-6.2 Astra与Claude 5. 5 新旗舰同日遭曝光，硅谷直接炸锅",
+      "url": "https://www.aibase.com/news/32000",
+      "published_at": "2026-11-02T01:45:24.886953Z",
+      "first_seen_at": "2026-11-02T01:45:24.886953Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
+      "ai_is_related": true,
+      "ai_score": 0.95,
+      "ai_label": "ai_model",
+      "ai_relevance_reason": "trusted_tech_source+strong",
+      "ai_signals": [
+        "ai",
+        "claude",
+        "gpt"
+      ],
+      "ai_noise": [],
+      "tech_is_related": true,
+      "tech_score": 0.95,
+      "tech_label": "ai_model",
+      "source_tier": "ai_vertical",
+      "source_tier_label": "AI垂直源",
+      "source_tier_rank": 1,
+      "direction": "ai_models_apps",
+      "direction_hits": [
+        {
+          "direction_id": "ai_models_apps",
+          "score": 1.56,
+          "matched_keywords": [
+            "gpt",
+            "claude"
+          ],
+          "companies": []
+        }
+      ],
+      "companies": [],
+      "title_original": "GPT-6.2 Astra与Claude 5. 5 新旗舰同日遭曝光，硅谷直接炸锅",
+      "title_en": null,
+      "title_zh": "GPT-6.2 Astra与Claude 5. 5 新旗舰同日遭曝光，硅谷直接炸锅",
+      "title_bilingual": "GPT-6.2 Astra与Claude 5. 5 新旗舰同日遭曝光，硅谷直接炸锅"
+    },
+    {
+      "id": "5ee38e32f9f93a04757f11087257958e5a0a41e7",
+      "site_id": "aibase",
+      "site_name": "AIbase",
+      "source": "AIbase",
+      "title": "OpenAI计划将数据中心更名为“AI计算园区”以应对舆论压力",
+      "url": "https://www.aibase.com/news/31998",
+      "published_at": "2026-11-02T01:45:24.886953Z",
+      "first_seen_at": "2026-11-02T01:45:24.886953Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
+      "ai_is_related": true,
+      "ai_score": 0.95,
+      "ai_label": "ai_product",
+      "ai_relevance_reason": "trusted_tech_source+strong",
+      "ai_signals": [
+        "ai",
+        "openai"
+      ],
+      "ai_noise": [],
+      "tech_is_related": true,
+      "tech_score": 0.95,
+      "tech_label": "ai_product",
+      "source_tier": "ai_vertical",
+      "source_tier_label": "AI垂直源",
+      "source_tier_rank": 1,
+      "direction": "ai_models_apps",
+      "direction_hits": [
+        {
+          "direction_id": "ai_models_apps",
+          "score": 0.75,
+          "matched_keywords": [
+            "openai",
+            "openai"
+          ],
+          "companies": [
+            "openai"
+          ]
+        }
+      ],
+      "companies": [
+        "openai"
+      ],
+      "title_original": "OpenAI计划将数据中心更名为“AI计算园区”以应对舆论压力",
+      "title_en": null,
+      "title_zh": "OpenAI计划将数据中心更名为“AI计算园区”以应对舆论压力",
+      "title_bilingual": "OpenAI计划将数据中心更名为“AI计算园区”以应对舆论压力"
+    },
+    {
+      "id": "7cc5c776354328de80718b3833926b4aa9c62c28",
+      "site_id": "curated_media",
+      "site_name": "Curated Media",
+      "source": "Engadget",
+      "title": "6 Google Maps features that work better on Android Auto vs. CarPlay",
+      "url": "https://www.engadget.com/2300327/google-maps-features-work-better-android-auto-vs-carplay",
+      "published_at": "2026-11-02T01:00:00Z",
+      "first_seen_at": "2026-11-02T01:45:24.886953Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
+      "ai_is_related": true,
+      "ai_score": 0.56,
+      "ai_label": "software_saas",
+      "ai_relevance_reason": "matched_tech_signal",
+      "ai_signals": [
+        "android"
+      ],
+      "ai_noise": [],
+      "tech_is_related": true,
+      "tech_score": 0.56,
+      "tech_label": "software_saas",
+      "source_tier": "ai_media",
+      "source_tier_label": "精选AI媒体",
+      "source_tier_rank": 2,
+      "direction": "ai_terminal",
+      "direction_hits": [
+        {
+          "direction_id": "ai_terminal",
+          "score": 1.56,
+          "matched_keywords": [
+            "ar",
+            "android"
+          ],
+          "companies": []
+        },
+        {
+          "direction_id": "ai_models_apps",
+          "score": 0.75,
+          "matched_keywords": [
+            "google"
+          ],
+          "companies": [
+            "google"
+          ]
+        }
+      ],
+      "companies": [
+        "google"
+      ],
+      "title_original": "6 Google Maps features that work better on Android Auto vs. CarPlay",
+      "title_en": "6 Google Maps features that work better on Android Auto vs. CarPlay",
+      "title_zh": "与 CarPlay 相比，在 Android Auto 上运行效果更好的 6 个 Google 地图功能",
+      "title_bilingual": "与 CarPlay 相比，在 Android Auto 上运行效果更好的 6 个 Google 地图功能 / 6 Google Maps features that work better on Android Auto vs. CarPlay"
+    },
+    {
+      "id": "1d3df3b1714c45f9af9b544de5d9803c6ab07782",
+      "site_id": "curated_media",
+      "site_name": "Curated Media",
+      "source": "Engadget",
+      "title": "How to add and rearrange apps on your Samsung smart TV",
+      "url": "https://www.engadget.com/2300335/how-to-add-rearrange-apps-samsung-smart-tv",
+      "published_at": "2026-11-02T00:45:00Z",
+      "first_seen_at": "2026-11-02T01:45:24.886953Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
+      "ai_is_related": true,
+      "ai_score": 0.56,
+      "ai_label": "software_saas",
+      "ai_relevance_reason": "matched_tech_signal",
+      "ai_signals": [
+        "samsung"
+      ],
+      "ai_noise": [],
+      "tech_is_related": true,
+      "tech_score": 0.56,
+      "tech_label": "software_saas",
+      "source_tier": "ai_media",
+      "source_tier_label": "精选AI媒体",
+      "source_tier_rank": 2,
+      "direction": "ai_terminal",
+      "direction_hits": [
+        {
+          "direction_id": "ai_terminal",
+          "score": 2.31,
+          "matched_keywords": [
+            "samsung",
+            "ar",
+            "samsung"
+          ],
+          "companies": [
+            "samsung"
+          ]
+        }
+      ],
+      "companies": [
+        "samsung"
+      ],
+      "title_original": "How to add and rearrange apps on your Samsung smart TV",
+      "title_en": "How to add and rearrange apps on your Samsung smart TV",
+      "title_zh": "如何在三星智能电视上添加和重新排列应用程序",
+      "title_bilingual": "如何在三星智能电视上添加和重新排列应用程序 / How to add and rearrange apps on your Samsung smart TV"
+    },
+    {
+      "id": "68f1215268361c3bb045d17b679d8acd311c323a",
+      "site_id": "curated_media",
+      "site_name": "Curated Media",
+      "source": "Engadget",
+      "title": "Android Auto could upset your work-life balance with its next update",
+      "url": "https://www.engadget.com/2300324/android-auto-next-update-could-upset-work-life-balance",
+      "published_at": "2026-11-02T00:30:00Z",
+      "first_seen_at": "2026-11-02T01:45:24.886953Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
+      "ai_is_related": true,
+      "ai_score": 0.56,
+      "ai_label": "software_saas",
+      "ai_relevance_reason": "matched_tech_signal",
+      "ai_signals": [
+        "android"
+      ],
+      "ai_noise": [],
+      "tech_is_related": true,
+      "tech_score": 0.56,
+      "tech_label": "software_saas",
+      "source_tier": "ai_media",
+      "source_tier_label": "精选AI媒体",
+      "source_tier_rank": 2,
+      "direction": "",
+      "direction_hits": [],
+      "companies": [],
+      "title_original": "Android Auto could upset your work-life balance with its next update",
+      "title_en": "Android Auto could upset your work-life balance with its next update",
+      "title_zh": "Android Auto 的下一次更新可能会破坏你的工作与生活平衡",
+      "title_bilingual": "Android Auto 的下一次更新可能会破坏你的工作与生活平衡 / Android Auto could upset your work-life balance with its next update"
+    },
+    {
       "id": "7e857e10ad37446497f698b28cba7671c760e840",
       "site_id": "curated_media",
       "site_name": "Curated Media",
@@ -129,7 +462,7 @@
       "url": "https://www.engadget.com/2299525/ipad-widgets-didnt-realize-existed",
       "published_at": "2026-11-02T00:15:00Z",
       "first_seen_at": "2026-11-02T00:30:44.340903Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.56,
       "ai_label": "consumer_hw",
@@ -149,8 +482,8 @@
       "companies": [],
       "title_original": "10 iPad widgets you probably didn't realize existed",
       "title_en": "10 iPad widgets you probably didn't realize existed",
-      "title_zh": null,
-      "title_bilingual": "10 iPad widgets you probably didn't realize existed"
+      "title_zh": "10 个你可能没有意识到的 iPad 小部件",
+      "title_bilingual": "10 个你可能没有意识到的 iPad 小部件 / 10 iPad widgets you probably didn't realize existed"
     },
     {
       "id": "215a475ab6e6a1667006dfecfadf5227f4f4be9f",
@@ -161,7 +494,7 @@
       "url": "https://www.engadget.com/2300320/ai-glasses-replace-prescription-should-they",
       "published_at": "2026-11-02T00:00:00Z",
       "first_seen_at": "2026-11-02T00:30:44.340903Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.56,
       "ai_label": "tech_general",
@@ -181,8 +514,8 @@
       "companies": [],
       "title_original": "AI glasses can replace your prescription glasses, but should they?",
       "title_en": "AI glasses can replace your prescription glasses, but should they?",
-      "title_zh": null,
-      "title_bilingual": "AI glasses can replace your prescription glasses, but should they?"
+      "title_zh": "人工智能眼镜可以取代您的处方眼镜，但它们应该吗？",
+      "title_bilingual": "人工智能眼镜可以取代您的处方眼镜，但它们应该吗？ / AI glasses can replace your prescription glasses, but should they?"
     },
     {
       "id": "38c380a32644ebc6e81a7a74ac4b498b5e664780",
@@ -213,8 +546,8 @@
       "companies": [],
       "title_original": "U.S. workers took home their smallest share of capital since at least 1947",
       "title_en": "U.S. workers took home their smallest share of capital since at least 1947",
-      "title_zh": null,
-      "title_bilingual": "U.S. workers took home their smallest share of capital since at least 1947"
+      "title_zh": "美国工人拿回的资本份额是至少自 1947 年以来的最低水平",
+      "title_bilingual": "美国工人拿回的资本份额是至少自 1947 年以来的最低水平 / U.S. workers took home their smallest share of capital since at least 1947"
     },
     {
       "id": "0558a0890897625b8d6e9545099b1e0a2d7320c9",
@@ -225,7 +558,7 @@
       "url": "https://www.theregister.com/os-platforms/2026/11/01/linus-torvalds-says-linux-kernel-is-out-of-stabilization-phase-and-using-much-healthier-model-for-ai-contributions/5306852",
       "published_at": "2026-11-01T23:11:41Z",
       "first_seen_at": "2026-11-02T00:30:44.340903Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.62,
       "ai_label": "ai_model",
@@ -259,7 +592,7 @@
       "url": "https://www.engadget.com/2300309/how-to-clean-playstation-5-without-damaging",
       "published_at": "2026-11-01T23:00:00Z",
       "first_seen_at": "2026-11-02T00:30:44.340903Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.56,
       "ai_label": "consumer_hw",
@@ -279,8 +612,8 @@
       "companies": [],
       "title_original": "How to clean your PlayStation 5 without damaging it",
       "title_en": "How to clean your PlayStation 5 without damaging it",
-      "title_zh": null,
-      "title_bilingual": "How to clean your PlayStation 5 without damaging it"
+      "title_zh": "如何在不损坏 PlayStation 5 的情况下清洁它",
+      "title_bilingual": "如何在不损坏 PlayStation 5 的情况下清洁它 / How to clean your PlayStation 5 without damaging it"
     },
     {
       "id": "fbb95400846fdeea735f79dacfa95863c00e997b",
@@ -291,7 +624,7 @@
       "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist",
       "published_at": "2026-11-01T22:10:45Z",
       "first_seen_at": "2026-11-02T00:30:44.340903Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.56,
       "ai_label": "tech_general",
@@ -311,8 +644,8 @@
       "companies": [],
       "title_original": "AI delivers 'zero financial payoff' to most companies, Apollo economist says",
       "title_en": "AI delivers 'zero financial payoff' to most companies, Apollo economist says",
-      "title_zh": null,
-      "title_bilingual": "AI delivers 'zero financial payoff' to most companies, Apollo economist says"
+      "title_zh": "阿波罗经济学家称，人工智能对大多数企业而言“毫无经济回报”",
+      "title_bilingual": "阿波罗经济学家称，人工智能对大多数企业而言“毫无经济回报” / AI delivers 'zero financial payoff' to most companies, Apollo economist says"
     },
     {
       "id": "64b57d284fe6cf0ca83a0df2af4600c51ac3172f",
@@ -323,7 +656,7 @@
       "url": "https://www.engadget.com/2300395/which-samsung-s-pens-located-with-smartthings-find",
       "published_at": "2026-11-01T22:00:00Z",
       "first_seen_at": "2026-11-02T00:30:44.340903Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.56,
       "ai_label": "consumer_hw",
@@ -358,8 +691,8 @@
       ],
       "title_original": "Which Samsung S Pens can be located using SmartThings Find?",
       "title_en": "Which Samsung S Pens can be located using SmartThings Find?",
-      "title_zh": null,
-      "title_bilingual": "Which Samsung S Pens can be located using SmartThings Find?"
+      "title_zh": "使用 SmartThings Find 可以找到哪些三星 S Pen？",
+      "title_bilingual": "使用 SmartThings Find 可以找到哪些三星 S Pen？ / Which Samsung S Pens can be located using SmartThings Find?"
     },
     {
       "id": "41c7d8eb677392f5b9ca347f00c27da39b8fd31b",
@@ -370,7 +703,7 @@
       "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses",
       "published_at": "2026-11-01T21:55:23Z",
       "first_seen_at": "2026-11-01T22:17:53.904195Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.81,
       "ai_label": "ai_product",
@@ -414,8 +747,8 @@
       ],
       "title_original": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
       "title_en": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
-      "title_zh": null,
-      "title_bilingual": "OpenAI might rebrand its data centers as ‘AI compute campuses’"
+      "title_zh": "OpenAI 可能会将其数据中心重新命名为“AI 计算园区”",
+      "title_bilingual": "OpenAI 可能会将其数据中心重新命名为“AI 计算园区” / OpenAI might rebrand its data centers as ‘AI compute campuses’"
     },
     {
       "id": "771380279412583dfd5471f2ac6f539c45797e90",
@@ -462,8 +795,8 @@
       ],
       "title_original": "Anthropic updates Claude to stop it from recreating existing video games",
       "title_en": "Anthropic updates Claude to stop it from recreating existing video games",
-      "title_zh": null,
-      "title_bilingual": "Anthropic updates Claude to stop it from recreating existing video games"
+      "title_zh": "Anthropic 更新了 Claude，以阻止其重新创建现有的视频游戏",
+      "title_bilingual": "Anthropic 更新了 Claude，以阻止其重新创建现有的视频游戏 / Anthropic updates Claude to stop it from recreating existing video games"
     },
     {
       "id": "b7ac3a22d7b2a8a74ae6cd675735b9d67b3aaa6c",
@@ -508,8 +841,8 @@
       ],
       "title_original": "Ceramic vs Titanium Apple Watch: Which material is better for overall durability?",
       "title_en": "Ceramic vs Titanium Apple Watch: Which material is better for overall durability?",
-      "title_zh": null,
-      "title_bilingual": "Ceramic vs Titanium Apple Watch: Which material is better for overall durability?"
+      "title_zh": "陶瓷与钛 Apple Watch：哪种材料的整体耐用性更好？",
+      "title_bilingual": "陶瓷与钛 Apple Watch：哪种材料的整体耐用性更好？ / Ceramic vs Titanium Apple Watch: Which material is better for overall durability?"
     },
     {
       "id": "eb9a8f1db27ee191e4cb816572e053bc37a0027d",
@@ -520,7 +853,7 @@
       "url": "https://www.tomshardware.com/tech-industry/cyber-security/new-ai-driven-windows-malware-feeds-stolen-data-to-claude-to-rank-victims-assets-by-value-then-deletes-itself-payload-builds-custom-target-assessment-can-switch-models-if-one-refuses-or-skip-the-ai-step-entirely",
       "published_at": "2026-11-01T21:00:00Z",
       "first_seen_at": "2026-11-02T00:30:44.340903Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.84,
       "ai_label": "ai_model",
@@ -647,7 +980,7 @@
       "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else",
       "published_at": "2026-11-01T20:57:58Z",
       "first_seen_at": "2026-11-01T22:17:53.904195Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.56,
       "ai_label": "tech_general",
@@ -667,8 +1000,8 @@
       "companies": [],
       "title_original": "AI can make tech CEOs’ lives easier. What about everyone else?",
       "title_en": "AI can make tech CEOs’ lives easier. What about everyone else?",
-      "title_zh": null,
-      "title_bilingual": "AI can make tech CEOs’ lives easier. What about everyone else?"
+      "title_zh": "人工智能可以让科技首席执行官的生活变得更轻松。其他人呢？",
+      "title_bilingual": "人工智能可以让科技首席执行官的生活变得更轻松。其他人呢？ / AI can make tech CEOs’ lives easier. What about everyone else?"
     },
     {
       "id": "806fb4b2037484d0aafbcbe9fb320849d0e07316",
@@ -699,8 +1032,8 @@
       "companies": [],
       "title_original": "How to turn on the flashlight on your Android phone without unlocking it",
       "title_en": "How to turn on the flashlight on your Android phone without unlocking it",
-      "title_zh": null,
-      "title_bilingual": "How to turn on the flashlight on your Android phone without unlocking it"
+      "title_zh": "如何在不解锁的情况下打开 Android 手机上的手电筒",
+      "title_bilingual": "如何在不解锁的情况下打开 Android 手机上的手电筒 / How to turn on the flashlight on your Android phone without unlocking it"
     },
     {
       "id": "b3833a48835ef97e261c9c304753e5592940f762",
@@ -883,7 +1216,7 @@
       "url": "https://www.tomshardware.com/pc-components/snag-a-nintendo-switch-2-for-only-usd469-while-stock-lasts-usd30-off-a-system-thats-not-often-on-sale",
       "published_at": "2026-11-01T18:09:28Z",
       "first_seen_at": "2026-11-01T19:29:30.793718Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.59,
       "ai_label": "consumer_hw",
@@ -1056,7 +1389,7 @@
       "url": "https://www.reddit.com/r/frontierairlines/comments/1xl20e8/psa_email_scam",
       "published_at": "2026-11-01T16:46:33Z",
       "first_seen_at": "2026-11-01T19:29:30.793718Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.56,
       "ai_label": "tech_general",
@@ -1130,7 +1463,7 @@
       "url": "https://www.semiconductor-today.com/news_items/2026/oct/seoul-291026.shtml",
       "published_at": "2026-11-01T16:23:26Z",
       "first_seen_at": "2026-11-01T19:29:30.793718Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.81,
       "ai_label": "chip_semi",
@@ -1419,7 +1752,7 @@
       "url": "https://www.bleepingcomputer.com/news/security/alpine-linux-rebuilds-gitlab-after-attempted-rce-attack",
       "published_at": "2026-11-01T15:11:21Z",
       "first_seen_at": "2026-11-01T16:54:01.275473Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.56,
       "ai_label": "software_saas",
@@ -1451,7 +1784,7 @@
       "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/brazilian-lawyers-busted-for-attempting-to-manipulate-courts-ai-with-prompt-injection-hidden-in-filing-courts-ai-flags-hidden-text-that-demanded-superficial-legal-scrutiny-lawyers-fined-usd16-000",
       "published_at": "2026-11-01T15:05:00Z",
       "first_seen_at": "2026-11-01T16:54:01.275473Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.59,
       "ai_label": "tech_general",
@@ -1508,7 +1841,7 @@
       "url": "https://www.bloomberg.com/news/newsletters/2026-11-01/apple-touch-screen-macbook-pro-impressions-software-division-gaming-shake-up",
       "published_at": "2026-11-01T15:00:01Z",
       "first_seen_at": "2026-11-01T16:54:01.275473Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.78,
       "ai_label": "software_saas",
@@ -1560,7 +1893,7 @@
       "url": "https://www.tomshardware.com/pc-components/ssds/biwin-m560-2tb-ssd-review",
       "published_at": "2026-11-01T15:00:00Z",
       "first_seen_at": "2026-11-01T16:54:01.275473Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.56,
       "ai_label": "tech_general",
@@ -1602,7 +1935,7 @@
       "url": "https://the-decoder.com/adobe-is-testing-how-well-ai-agents-can-use-editing-tools-like-a-photoshop-professional-would",
       "published_at": "2026-11-01T14:56:44Z",
       "first_seen_at": "2026-11-01T16:54:01.275473Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.78,
       "ai_label": "ai_model",
@@ -1693,7 +2026,7 @@
       "url": "https://the-decoder.com/empathetic-prompts-can-turn-ai-chatbots-into-seemingly-traumatized-conversational-partners",
       "published_at": "2026-11-01T14:36:49Z",
       "first_seen_at": "2026-11-01T16:54:01.275473Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.59,
       "ai_label": "tech_general",
@@ -1726,7 +2059,7 @@
       "url": "https://www.tomshardware.com/tech-industry/data-centers/sam-altman-travels-to-south-korea-to-meet-samsung-leadership-to-secure-more-ram-for-data-centers-amid-crushing-shortages-openai-ceo-meets-samsung-leadership-to-discuss-future-ai-data-centers",
       "published_at": "2026-11-01T14:21:23Z",
       "first_seen_at": "2026-11-01T16:54:01.275473Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.56,
       "ai_label": "consumer_hw",
@@ -1826,7 +2159,7 @@
       "url": "https://www.tomshardware.com/pc-components/gpus/open-source-usb-tool-unlocks-nvidias-half-speed-gpu-ai-limiter-on-windows-lifts-gpus-fp16-math-performance-up-to-65-percent-uefi-unlocker-covers-rtx-20-30-and-40-series-desktops-and-laptops",
       "published_at": "2026-11-01T14:00:00Z",
       "first_seen_at": "2026-11-01T16:54:01.275473Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.9,
       "ai_label": "chip_semi",
@@ -1994,7 +2327,7 @@
       "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-doubling-pro-usage-limits-and-bringing-work-features-to-chat",
       "published_at": "2026-11-01T13:53:11Z",
       "first_seen_at": "2026-11-01T14:13:02.037701Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.81,
       "ai_label": "ai_product",
@@ -2314,7 +2647,7 @@
       "url": "https://the-decoder.com/chinese-ai-models-are-politically-complex-not-just-government-mouthpieces-study-finds",
       "published_at": "2026-11-01T12:33:01Z",
       "first_seen_at": "2026-11-01T14:13:02.037701Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.56,
       "ai_label": "ai_model",
@@ -2390,7 +2723,7 @@
       "url": "https://the-decoder.com/openai-is-steering-chatgpt-users-toward-more-paid-usage",
       "published_at": "2026-11-01T12:05:04Z",
       "first_seen_at": "2026-11-01T14:13:02.037701Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.86,
       "ai_label": "ai_model",
@@ -2440,7 +2773,7 @@
       "url": "https://www.wired.com/story/the-hollywood-color-nerd-who-shot-knives-out-explains-his-viral-iphone-camera-app",
       "published_at": "2026-11-01T12:00:00Z",
       "first_seen_at": "2026-11-01T14:13:02.037701Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.81,
       "ai_label": "software_saas",
@@ -2488,7 +2821,7 @@
       "url": "https://the-decoder.com/google-wants-video-ai-to-understand-what-people-need-as-they-workgoogle-researchers-are-teaching-a-video-assistant-when-to-offer-help",
       "published_at": "2026-11-01T11:25:21Z",
       "first_seen_at": "2026-11-01T14:13:02.037701Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.56,
       "ai_label": "ai_product",
@@ -2623,15 +2956,15 @@
       "title_bilingual": "挪威让茅屋再次伟大 / Norway makes shithouses great again"
     },
     {
-      "id": "bd1f0326cfd5f2445fe33e1c8515da479e792225",
+      "id": "0e6ba0bbfd4d2fd04616d4ea864889378c45396b",
       "site_id": "curated_media",
       "site_name": "Curated Media",
       "source": "Hacker News front page",
       "title": "Domain hacks with unusual Unicode characters (2018)",
-      "url": "https://xn--69f31l4t57c0mag4b613h.xn--7uh4898msjaso/🆆🆃🅵",
+      "url": "https://shkspr.mobi/blog/2018/11/domain-hacks-with-unusual-unicode-characters",
       "published_at": "2026-11-01T10:44:20Z",
-      "first_seen_at": "2026-11-01T14:13:02.037701Z",
-      "last_seen_at": "2026-11-01T19:29:30.793718Z",
+      "first_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.56,
       "ai_label": "tech_general",
@@ -2705,7 +3038,7 @@
       "url": "https://the-decoder.com/openais-upcoming-chat-and-work-merger-in-chatgpt-signals-the-end-of-all-you-can-prompt-pricing",
       "published_at": "2026-11-01T09:51:06Z",
       "first_seen_at": "2026-11-01T14:13:02.037701Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.89,
       "ai_label": "ai_model",
@@ -2756,7 +3089,7 @@
       "url": "https://www.theregister.com/networks/2026/11/01/landline-phones-will-switch-off-across-britland-in-100-days-no-extensions-openreach/5306673",
       "published_at": "2026-11-01T09:04:00Z",
       "first_seen_at": "2026-11-01T09:37:11.627807Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.56,
       "ai_label": "consumer_hw",
@@ -2788,7 +3121,7 @@
       "url": "https://www.marktechpost.com/2026/11/01/nace-ai-open-sources-drex-max-v1-local-inference",
       "published_at": "2026-11-01T08:10:07Z",
       "first_seen_at": "2026-11-01T09:37:11.627807Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "ai_model",
@@ -2837,7 +3170,7 @@
       "url": "https://www.marktechpost.com/2026/11/01/deepseek-dsh-superagent-router-worker-coding-agent",
       "published_at": "2026-11-01T07:47:17Z",
       "first_seen_at": "2026-11-01T09:37:11.627807Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.83,
       "ai_label": "ai_model",
@@ -2894,7 +3227,7 @@
       "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks",
       "published_at": "2026-11-01T06:06:19Z",
       "first_seen_at": "2026-11-01T09:37:11.627807Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.59,
       "ai_label": "software_saas",
@@ -2927,7 +3260,7 @@
       "url": "https://www.bloomberg.com/news/articles/2026-11-01/deepseek-drops-enhanced-coding-agent-with-aim-to-rival-anthropic",
       "published_at": "2026-11-01T03:48:18Z",
       "first_seen_at": "2026-11-01T09:37:11.627807Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.88,
       "ai_label": "ai_model",
@@ -3045,15 +3378,99 @@
       "title_bilingual": "通过拼写 RAM 中的无线电信号来泄露气隙计算机的秘密 (2024) / Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM (2024)"
     },
     {
+      "id": "e7bc066479f87b508e83a045a3cb2e76afcec37c",
+      "site_id": "opmlrss",
+      "site_name": "OPML RSS",
+      "source": "InfoQ CN",
+      "title": "ChatGPT Pro 额度翻倍：是让步，不是福利？",
+      "url": "https://www.infoq.cn/article/WpTNht7guarWEyejJFV6",
+      "published_at": "2026-11-02T01:16:03Z",
+      "first_seen_at": "2026-11-02T01:45:24.886953Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
+      "ai_is_related": true,
+      "ai_score": 0.75,
+      "ai_label": "ai_model",
+      "ai_relevance_reason": "matched_strong_tech_signal",
+      "ai_signals": [
+        "gpt"
+      ],
+      "ai_noise": [],
+      "tech_is_related": true,
+      "tech_score": 0.75,
+      "tech_label": "ai_model",
+      "source_tier": "user_opml",
+      "source_tier_label": "RSS/OPML",
+      "source_tier_rank": 3,
+      "direction": "",
+      "direction_hits": [],
+      "companies": [],
+      "title_original": "ChatGPT Pro 额度翻倍：是让步，不是福利？",
+      "title_en": null,
+      "title_zh": "ChatGPT Pro 额度翻倍：是让步，不是福利？",
+      "title_bilingual": "ChatGPT Pro 额度翻倍：是让步，不是福利？"
+    },
+    {
+      "id": "c7d9b6bfe5e88381f561fa2df0d73e18da8b8854",
+      "site_id": "opmlrss",
+      "site_name": "OPML RSS",
+      "source": "InfoQ CN",
+      "title": "百度搜索 AI API 千次仅需 4.9 元，低于 DeepSeek；搜索开始 RSI",
+      "url": "https://www.infoq.cn/article/HJgTwfsPAugNBJ2jUefj",
+      "published_at": "2026-11-02T01:12:15Z",
+      "first_seen_at": "2026-11-02T01:45:24.886953Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
+      "ai_is_related": true,
+      "ai_score": 0.84,
+      "ai_label": "ai_model",
+      "ai_relevance_reason": "matched_strong_tech_signal",
+      "ai_signals": [
+        "ai",
+        "api",
+        "deepseek",
+        "百度"
+      ],
+      "ai_noise": [],
+      "tech_is_related": true,
+      "tech_score": 0.84,
+      "tech_label": "ai_model",
+      "source_tier": "user_opml",
+      "source_tier_label": "RSS/OPML",
+      "source_tier_rank": 3,
+      "direction": "ai_models_apps",
+      "direction_hits": [
+        {
+          "direction_id": "ai_models_apps",
+          "score": 0.9,
+          "matched_keywords": [
+            "deepseek",
+            "deepseek",
+            "百度"
+          ],
+          "companies": [
+            "deepseek",
+            "百度"
+          ]
+        }
+      ],
+      "companies": [
+        "deepseek",
+        "百度"
+      ],
+      "title_original": "百度搜索 AI API 千次仅需 4.9 元，低于 DeepSeek；搜索开始 RSI",
+      "title_en": null,
+      "title_zh": "百度搜索 AI API 千次仅需 4.9 元，低于 DeepSeek；搜索开始 RSI",
+      "title_bilingual": "百度搜索 AI API 千次仅需 4.9 元，低于 DeepSeek；搜索开始 RSI"
+    },
+    {
       "id": "e802b34ea0bd2c3860370414227a85a6a3e04e73",
       "site_id": "opmlrss",
       "site_name": "OPML RSS",
       "source": "InfoQ CN",
       "title": "当 AI 能读懂二进制，闭源软件还剩多少护城河？",
       "url": "https://www.infoq.cn/article/8mCjWWFLdjDA2vb51QZs",
-      "published_at": "2026-11-01T17:00:00Z",
+      "published_at": "2026-11-01T09:00:00Z",
       "first_seen_at": "2026-11-01T09:37:11.627807Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.56,
       "ai_label": "software_saas",
@@ -3076,6 +3493,442 @@
       "title_en": null,
       "title_zh": "当 AI 能读懂二进制，闭源软件还剩多少护城河？",
       "title_bilingual": "当 AI 能读懂二进制，闭源软件还剩多少护城河？"
+    },
+    {
+      "id": "20855f2da79331298430a4d4168533d308f8aec3",
+      "site_id": "iris",
+      "site_name": "Info Flow",
+      "source": "V2EX (创意工作者社区)",
+      "title": "[OpenAI] Codex 之前赠送的 6w 多额度有过期时间吗",
+      "url": "https://www.v2ex.com/t/1253662",
+      "published_at": "2026-11-02T01:40:58Z",
+      "first_seen_at": "2026-11-02T01:45:24.886953Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
+      "ai_is_related": true,
+      "ai_score": 0.71,
+      "ai_label": "dev_tool",
+      "ai_relevance_reason": "matched_strong_tech_signal",
+      "ai_signals": [
+        "ai",
+        "codex",
+        "openai"
+      ],
+      "ai_noise": [],
+      "tech_is_related": true,
+      "tech_score": 0.71,
+      "tech_label": "dev_tool",
+      "source_tier": "discussion",
+      "source_tier_label": "热议参考",
+      "source_tier_rank": 5,
+      "direction": "ai_models_apps",
+      "direction_hits": [
+        {
+          "direction_id": "ai_models_apps",
+          "score": 3.19,
+          "matched_keywords": [
+            "code",
+            "openai",
+            "codex",
+            "openai"
+          ],
+          "companies": [
+            "openai"
+          ]
+        }
+      ],
+      "companies": [
+        "openai"
+      ],
+      "title_original": "[OpenAI] Codex 之前赠送的 6w 多额度有过期时间吗",
+      "title_en": null,
+      "title_zh": "[OpenAI] Codex 之前赠送的 6w 多额度有过期时间吗",
+      "title_bilingual": "[OpenAI] Codex 之前赠送的 6w 多额度有过期时间吗"
+    },
+    {
+      "id": "d1ee473215b777609b89189ebf47087306787167",
+      "site_id": "iris",
+      "site_name": "Info Flow",
+      "source": "V2EX (创意工作者社区)",
+      "title": "[程序员] claude 弹出 kyc 已经通过，是更稳定还是距离封禁不远了？",
+      "url": "https://www.v2ex.com/t/1253660",
+      "published_at": "2026-11-02T01:37:39Z",
+      "first_seen_at": "2026-11-02T01:45:24.886953Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
+      "ai_is_related": true,
+      "ai_score": 0.65,
+      "ai_label": "ai_model",
+      "ai_relevance_reason": "matched_strong_tech_signal",
+      "ai_signals": [
+        "claude"
+      ],
+      "ai_noise": [],
+      "tech_is_related": true,
+      "tech_score": 0.65,
+      "tech_label": "ai_model",
+      "source_tier": "discussion",
+      "source_tier_label": "热议参考",
+      "source_tier_rank": 5,
+      "direction": "",
+      "direction_hits": [],
+      "companies": [],
+      "title_original": "[程序员] claude 弹出 kyc 已经通过，是更稳定还是距离封禁不远了？",
+      "title_en": null,
+      "title_zh": "[程序员] claude 弹出 kyc 已经通过，是更稳定还是距离封禁不远了？",
+      "title_bilingual": "[程序员] claude 弹出 kyc 已经通过，是更稳定还是距离封禁不远了？"
+    },
+    {
+      "id": "7da370b5222a7d41745e017a2e37f3f55cb9e6c4",
+      "site_id": "iris",
+      "site_name": "Info Flow",
+      "source": "V2EX (创意工作者社区)",
+      "title": "[分享创造] AgentMesh：把每台设备变成一支 AI 蜂群——多设备蜂群协同系统",
+      "url": "https://www.v2ex.com/t/1253658",
+      "published_at": "2026-11-02T01:34:45Z",
+      "first_seen_at": "2026-11-02T01:45:24.886953Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
+      "ai_is_related": true,
+      "ai_score": 0.65,
+      "ai_label": "ai_model",
+      "ai_relevance_reason": "matched_strong_tech_signal",
+      "ai_signals": [
+        "ai"
+      ],
+      "ai_noise": [],
+      "tech_is_related": true,
+      "tech_score": 0.65,
+      "tech_label": "ai_model",
+      "source_tier": "discussion",
+      "source_tier_label": "热议参考",
+      "source_tier_rank": 5,
+      "direction": "ai_terminal",
+      "direction_hits": [
+        {
+          "direction_id": "ai_terminal",
+          "score": 1.44,
+          "matched_keywords": [
+            "系统",
+            "agent"
+          ],
+          "companies": []
+        }
+      ],
+      "companies": [],
+      "title_original": "[分享创造] AgentMesh：把每台设备变成一支 AI 蜂群——多设备蜂群协同系统",
+      "title_en": null,
+      "title_zh": "[分享创造] AgentMesh：把每台设备变成一支 AI 蜂群——多设备蜂群协同系统",
+      "title_bilingual": "[分享创造] AgentMesh：把每台设备变成一支 AI 蜂群——多设备蜂群协同系统"
+    },
+    {
+      "id": "4f27b90e0e03b848266c44aec0cef19a4797fa7d",
+      "site_id": "iris",
+      "site_name": "Info Flow",
+      "source": "V2EX (创意工作者社区)",
+      "title": "[问与答] 阿里云 Agent 开发者调研报告：近一半人立项在做，但还在持续迭代不到一成",
+      "url": "https://www.v2ex.com/t/1253657",
+      "published_at": "2026-11-02T01:30:31Z",
+      "first_seen_at": "2026-11-02T01:45:24.886953Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
+      "ai_is_related": true,
+      "ai_score": 0.65,
+      "ai_label": "ai_model",
+      "ai_relevance_reason": "matched_strong_tech_signal",
+      "ai_signals": [
+        "阿里"
+      ],
+      "ai_noise": [],
+      "tech_is_related": true,
+      "tech_score": 0.65,
+      "tech_label": "ai_model",
+      "source_tier": "discussion",
+      "source_tier_label": "热议参考",
+      "source_tier_rank": 5,
+      "direction": "ai_models_apps",
+      "direction_hits": [
+        {
+          "direction_id": "ai_models_apps",
+          "score": 0.75,
+          "matched_keywords": [
+            "agent",
+            "阿里"
+          ],
+          "companies": [
+            "阿里"
+          ]
+        }
+      ],
+      "companies": [
+        "阿里"
+      ],
+      "title_original": "[问与答] 阿里云 Agent 开发者调研报告：近一半人立项在做，但还在持续迭代不到一成",
+      "title_en": null,
+      "title_zh": "[问与答] 阿里云 Agent 开发者调研报告：近一半人立项在做，但还在持续迭代不到一成",
+      "title_bilingual": "[问与答] 阿里云 Agent 开发者调研报告：近一半人立项在做，但还在持续迭代不到一成"
+    },
+    {
+      "id": "0cffab8175bd8d22763159bc8e5f7e230e63e4cb",
+      "site_id": "newsnow",
+      "site_name": "NewsNow",
+      "source": "juejin",
+      "title": "半年营收163亿、亏损800亿：Anthropic IPO文件揭开的AI烧钱真相",
+      "url": "https://juejin.cn/post/7702296667303559209",
+      "published_at": "2026-11-02T01:29:35.201000Z",
+      "first_seen_at": "2026-11-02T01:45:24.886953Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
+      "ai_is_related": true,
+      "ai_score": 0.68,
+      "ai_label": "ai_product",
+      "ai_relevance_reason": "matched_strong_tech_signal",
+      "ai_signals": [
+        "ai",
+        "anthropic"
+      ],
+      "ai_noise": [],
+      "tech_is_related": true,
+      "tech_score": 0.68,
+      "tech_label": "ai_product",
+      "source_tier": "discussion",
+      "source_tier_label": "热议参考",
+      "source_tier_rank": 5,
+      "direction": "ai_models_apps",
+      "direction_hits": [
+        {
+          "direction_id": "ai_models_apps",
+          "score": 0.75,
+          "matched_keywords": [
+            "anthropic",
+            "anthropic"
+          ],
+          "companies": [
+            "anthropic"
+          ]
+        }
+      ],
+      "companies": [
+        "anthropic"
+      ],
+      "title_original": "半年营收163亿、亏损800亿：Anthropic IPO文件揭开的AI烧钱真相",
+      "title_en": null,
+      "title_zh": "半年营收163亿、亏损800亿：Anthropic IPO文件揭开的AI烧钱真相",
+      "title_bilingual": "半年营收163亿、亏损800亿：Anthropic IPO文件揭开的AI烧钱真相"
+    },
+    {
+      "id": "9177587ccf679729d13a6425edd35a3c19660e53",
+      "site_id": "newsnow",
+      "site_name": "NewsNow",
+      "source": "juejin",
+      "title": "我把 0.6B 大模型塞进安卓手机：596 秒到 10 秒",
+      "url": "https://juejin.cn/post/7702408998457344026",
+      "published_at": "2026-11-02T01:29:35.201000Z",
+      "first_seen_at": "2026-11-02T01:45:24.886953Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
+      "ai_is_related": true,
+      "ai_score": 0.68,
+      "ai_label": "ai_model",
+      "ai_relevance_reason": "matched_strong_tech_signal",
+      "ai_signals": [
+        "大模型",
+        "手机"
+      ],
+      "ai_noise": [],
+      "tech_is_related": true,
+      "tech_score": 0.68,
+      "tech_label": "ai_model",
+      "source_tier": "discussion",
+      "source_tier_label": "热议参考",
+      "source_tier_rank": 5,
+      "direction": "",
+      "direction_hits": [],
+      "companies": [],
+      "title_original": "我把 0.6B 大模型塞进安卓手机：596 秒到 10 秒",
+      "title_en": null,
+      "title_zh": "我把 0.6B 大模型塞进安卓手机：596 秒到 10 秒",
+      "title_bilingual": "我把 0.6B 大模型塞进安卓手机：596 秒到 10 秒"
+    },
+    {
+      "id": "87180f4fcfe505e564fc4cd064de4e4ca5f6633f",
+      "site_id": "iris",
+      "site_name": "Info Flow",
+      "source": "V2EX (创意工作者社区)",
+      "title": "[推广] Opus 5.5 官价 0.075 折 DeepSeek-V4.1-Flash 2.5 折 拼团限时活动",
+      "url": "https://www.v2ex.com/t/1253655",
+      "published_at": "2026-11-02T01:25:22Z",
+      "first_seen_at": "2026-11-02T01:45:24.886953Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
+      "ai_is_related": true,
+      "ai_score": 0.65,
+      "ai_label": "ai_model",
+      "ai_relevance_reason": "matched_strong_tech_signal",
+      "ai_signals": [
+        "deepseek"
+      ],
+      "ai_noise": [],
+      "tech_is_related": true,
+      "tech_score": 0.65,
+      "tech_label": "ai_model",
+      "source_tier": "discussion",
+      "source_tier_label": "热议参考",
+      "source_tier_rank": 5,
+      "direction": "ai_models_apps",
+      "direction_hits": [
+        {
+          "direction_id": "ai_models_apps",
+          "score": 0.75,
+          "matched_keywords": [
+            "deepseek",
+            "deepseek"
+          ],
+          "companies": [
+            "deepseek"
+          ]
+        }
+      ],
+      "companies": [
+        "deepseek"
+      ],
+      "title_original": "[推广] Opus 5.5 官价 0.075 折 DeepSeek-V4.1-Flash 2.5 折 拼团限时活动",
+      "title_en": null,
+      "title_zh": "[推广] Opus 5.5 官价 0.075 折 DeepSeek-V4.1-Flash 2.5 折 拼团限时活动",
+      "title_bilingual": "[推广] Opus 5.5 官价 0.075 折 DeepSeek-V4.1-Flash 2.5 折 拼团限时活动"
+    },
+    {
+      "id": "f04ec0cb5a6569ff15a4b17dd4ecd2934e7f6776",
+      "site_id": "iris",
+      "site_name": "Info Flow",
+      "source": "V2EX (创意工作者社区)",
+      "title": "[Claude] claude 订阅求助",
+      "url": "https://www.v2ex.com/t/1253645",
+      "published_at": "2026-11-02T01:12:52Z",
+      "first_seen_at": "2026-11-02T01:45:24.886953Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
+      "ai_is_related": true,
+      "ai_score": 0.65,
+      "ai_label": "ai_model",
+      "ai_relevance_reason": "matched_strong_tech_signal",
+      "ai_signals": [
+        "claude"
+      ],
+      "ai_noise": [],
+      "tech_is_related": true,
+      "tech_score": 0.65,
+      "tech_label": "ai_model",
+      "source_tier": "discussion",
+      "source_tier_label": "热议参考",
+      "source_tier_rank": 5,
+      "direction": "",
+      "direction_hits": [],
+      "companies": [],
+      "title_original": "[Claude] claude 订阅求助",
+      "title_en": null,
+      "title_zh": "[Claude] claude 订阅求助",
+      "title_bilingual": "[Claude] claude 订阅求助"
+    },
+    {
+      "id": "afa986da0715a184fb7c65fcd1e41d1f13b835a5",
+      "site_id": "iris",
+      "site_name": "Info Flow",
+      "source": "V2EX (创意工作者社区)",
+      "title": "[Codex] chatgptPro 订阅如何开票报销",
+      "url": "https://www.v2ex.com/t/1253640",
+      "published_at": "2026-11-02T01:00:10Z",
+      "first_seen_at": "2026-11-02T01:45:24.886953Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
+      "ai_is_related": true,
+      "ai_score": 0.68,
+      "ai_label": "ai_model",
+      "ai_relevance_reason": "matched_strong_tech_signal",
+      "ai_signals": [
+        "codex",
+        "gpt"
+      ],
+      "ai_noise": [],
+      "tech_is_related": true,
+      "tech_score": 0.68,
+      "tech_label": "ai_model",
+      "source_tier": "discussion",
+      "source_tier_label": "热议参考",
+      "source_tier_rank": 5,
+      "direction": "ai_models_apps",
+      "direction_hits": [
+        {
+          "direction_id": "ai_models_apps",
+          "score": 2.25,
+          "matched_keywords": [
+            "gpt",
+            "code",
+            "codex"
+          ],
+          "companies": []
+        }
+      ],
+      "companies": [],
+      "title_original": "[Codex] chatgptPro 订阅如何开票报销",
+      "title_en": null,
+      "title_zh": "[Codex] chatgptPro 订阅如何开票报销",
+      "title_bilingual": "[Codex] chatgptPro 订阅如何开票报销"
+    },
+    {
+      "id": "e8eb176cbe7b26c3d2a2eba52c3758188acc22d5",
+      "site_id": "iris",
+      "site_name": "Info Flow",
+      "source": "V2EX (创意工作者社区)",
+      "title": "[推广] ChatGPT Plus/Pro 稳定充值",
+      "url": "https://www.v2ex.com/t/1253639",
+      "published_at": "2026-11-02T00:55:10Z",
+      "first_seen_at": "2026-11-02T01:45:24.886953Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
+      "ai_is_related": true,
+      "ai_score": 0.65,
+      "ai_label": "ai_model",
+      "ai_relevance_reason": "matched_strong_tech_signal",
+      "ai_signals": [
+        "gpt"
+      ],
+      "ai_noise": [],
+      "tech_is_related": true,
+      "tech_score": 0.65,
+      "tech_label": "ai_model",
+      "source_tier": "discussion",
+      "source_tier_label": "热议参考",
+      "source_tier_rank": 5,
+      "direction": "",
+      "direction_hits": [],
+      "companies": [],
+      "title_original": "[推广] ChatGPT Plus/Pro 稳定充值",
+      "title_en": null,
+      "title_zh": "[推广] ChatGPT Plus/Pro 稳定充值",
+      "title_bilingual": "[推广] ChatGPT Plus/Pro 稳定充值"
+    },
+    {
+      "id": "111fc5d91d2395cb2e4e6f3f1db87ac4d305be2e",
+      "site_id": "buzzing",
+      "site_name": "Buzzing",
+      "source": "techcrunch.com",
+      "title": "阿波罗经济学家称，人工智能对大多数企业而言“毫无经济回报”",
+      "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist",
+      "published_at": "2026-11-02T00:37:42.544000Z",
+      "first_seen_at": "2026-11-02T01:45:24.886953Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
+      "ai_is_related": true,
+      "ai_score": 0.7,
+      "ai_label": "tech_general",
+      "ai_relevance_reason": "matched_strong_tech_signal",
+      "ai_signals": [
+        "人工智能"
+      ],
+      "ai_noise": [],
+      "tech_is_related": true,
+      "tech_score": 0.7,
+      "tech_label": "tech_general",
+      "source_tier": "discussion",
+      "source_tier_label": "热议参考",
+      "source_tier_rank": 5,
+      "direction": "",
+      "direction_hits": [],
+      "companies": [],
+      "title_original": "阿波罗经济学家称，人工智能对大多数企业而言“毫无经济回报”",
+      "title_en": null,
+      "title_zh": "阿波罗经济学家称，人工智能对大多数企业而言“毫无经济回报”",
+      "title_bilingual": "阿波罗经济学家称，人工智能对大多数企业而言“毫无经济回报”"
     },
     {
       "id": "49917cec37699d06b38cef7cb83d69a351910de6",
@@ -3183,7 +4036,7 @@
       "url": "https://www.economist.com/business/2026/11/01/hackers-are-running-riot-with-ai-its-makers-want-to-cash-in",
       "published_at": "2026-11-01T22:30:52.665000Z",
       "first_seen_at": "2026-11-02T00:30:44.340903Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.7,
       "ai_label": "dev_tool",
@@ -3215,7 +4068,7 @@
       "url": "https://www.businessinsider.com/openai-ai-data-centers-rebrand-compute-campuses-midterms-2026-11",
       "published_at": "2026-11-01T22:28:08Z",
       "first_seen_at": "2026-11-02T00:30:44.340903Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.73,
       "ai_label": "ai_product",
@@ -3259,8 +4112,8 @@
       ],
       "title_original": "OpenAI wants everyone to call AI data centers 'compute campuses'",
       "title_en": "OpenAI wants everyone to call AI data centers 'compute campuses'",
-      "title_zh": null,
-      "title_bilingual": "OpenAI wants everyone to call AI data centers 'compute campuses'"
+      "title_zh": "OpenAI 希望每个人都将人工智能数据中心称为“计算校园”",
+      "title_bilingual": "OpenAI 希望每个人都将人工智能数据中心称为“计算校园” / OpenAI wants everyone to call AI data centers 'compute campuses'"
     },
     {
       "id": "f07f63db0663c22c9d54d5a2a5b4d3dc49e2f786",
@@ -3271,7 +4124,7 @@
       "url": "https://mashable.com/tech/nov-1-claude-ai-professional-e-degree",
       "published_at": "2026-11-01T22:00:00Z",
       "first_seen_at": "2026-11-01T22:17:53.904195Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.7,
       "ai_label": "ai_model",
@@ -3291,8 +4144,8 @@
       "companies": [],
       "title_original": "Become a Claude power user with this $20 E-Degree",
       "title_en": "Become a Claude power user with this $20 E-Degree",
-      "title_zh": null,
-      "title_bilingual": "Become a Claude power user with this $20 E-Degree"
+      "title_zh": "凭借价值 20 美元的电子学位成为 Claude 高级用户",
+      "title_bilingual": "凭借价值 20 美元的电子学位成为 Claude 高级用户 / Become a Claude power user with this $20 E-Degree"
     },
     {
       "id": "be8af8104d5bae6dcf2f887f43934e0d6f1df69e",
@@ -3303,7 +4156,7 @@
       "url": "https://eva.ac/blog/llms",
       "published_at": "2026-11-01T21:49:04Z",
       "first_seen_at": "2026-11-02T00:30:44.340903Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.68,
       "ai_label": "ai_model",
@@ -3324,8 +4177,8 @@
       "companies": [],
       "title_original": "So I guess everyone uses LLMs to think now",
       "title_en": "So I guess everyone uses LLMs to think now",
-      "title_zh": null,
-      "title_bilingual": "So I guess everyone uses LLMs to think now"
+      "title_zh": "所以我想现在每个人都用LLM来思考",
+      "title_bilingual": "所以我想现在每个人都用LLM来思考 / So I guess everyone uses LLMs to think now"
     },
     {
       "id": "49aa6ec9a2ae081cc44b4e5dc63264173ecbf60b",
@@ -3336,7 +4189,7 @@
       "url": "https://www.techradar.com/pro/intel-and-amd-could-be-about-to-work-together-on-a-mystery-project-ceo-lip-bu-tan-hints-at-future-co-operation-which-could-be-anything-from-software-to-cpu-to-foundry-work",
       "published_at": "2026-11-01T21:40:00Z",
       "first_seen_at": "2026-11-01T22:17:53.904195Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.73,
       "ai_label": "chip_semi",
@@ -3400,7 +4253,7 @@
       "url": "https://www.techmeme.com/261101/p16",
       "published_at": "2026-11-01T21:30:01Z",
       "first_seen_at": "2026-11-01T22:17:53.904195Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.76,
       "ai_label": "software_saas",
@@ -3457,7 +4310,7 @@
       "url": "https://blog.raed.dev/posts/proton-loser-thinking",
       "published_at": "2026-11-01T21:11:57.459000Z",
       "first_seen_at": "2026-11-01T22:17:53.904195Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.7,
       "ai_label": "tech_general",
@@ -3489,7 +4342,7 @@
       "url": "https://www.semiconductor-today.com/news_items/2026/oct/seoul-291026.shtml",
       "published_at": "2026-11-01T20:55:58.886000Z",
       "first_seen_at": "2026-11-01T22:17:53.904195Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.73,
       "ai_label": "chip_semi",
@@ -3522,7 +4375,7 @@
       "url": "https://daringfireball.net/linked/2026/11/01/workos",
       "published_at": "2026-11-01T20:22:56Z",
       "first_seen_at": "2026-11-01T22:17:53.904195Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.67,
       "ai_label": "ai_model",
@@ -3550,8 +4403,8 @@
       "companies": [],
       "title_original": "WorkOS: Let Agents Sign Up for Your App Without a Browser",
       "title_en": "WorkOS: Let Agents Sign Up for Your App Without a Browser",
-      "title_zh": null,
-      "title_bilingual": "WorkOS: Let Agents Sign Up for Your App Without a Browser"
+      "title_zh": "WorkOS：让代理无需浏览器即可注册您的应用程序",
+      "title_bilingual": "WorkOS：让代理无需浏览器即可注册您的应用程序 / WorkOS: Let Agents Sign Up for Your App Without a Browser"
     },
     {
       "id": "566424a8f7ae902eb7bb1ce3bffb9bad2b94498a",
@@ -3562,7 +4415,7 @@
       "url": "https://www.androidpolice.com/samsung-leaving-galaxy-s22-behind",
       "published_at": "2026-11-01T20:00:10Z",
       "first_seen_at": "2026-11-01T22:17:53.904195Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.76,
       "ai_label": "software_saas",
@@ -3600,8 +4453,8 @@
       ],
       "title_original": "Samsung is leaving my Galaxy S22+ behind; I'm taking the hint",
       "title_en": "Samsung is leaving my Galaxy S22+ behind; I'm taking the hint",
-      "title_zh": null,
-      "title_bilingual": "Samsung is leaving my Galaxy S22+ behind; I'm taking the hint"
+      "title_zh": "三星将我的 Galaxy S22+ 抛在身后；我接受暗示",
+      "title_bilingual": "三星将我的 Galaxy S22+ 抛在身后；我接受暗示 / Samsung is leaving my Galaxy S22+ behind; I'm taking the hint"
     },
     {
       "id": "53fb1f8211a20c9b75616923c2c68ea4765756be",
@@ -3657,7 +4510,7 @@
       "url": "https://sspai.com/post/116686",
       "published_at": "2026-11-01T19:14:01.034000Z",
       "first_seen_at": "2026-11-01T19:29:30.793718Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.68,
       "ai_label": "consumer_hw",
@@ -3704,7 +4557,7 @@
       "url": "https://paulfwalsh.substack.com/p/metas-muse-ai-agent-is-a-commercial",
       "published_at": "2026-11-01T18:33:02Z",
       "first_seen_at": "2026-11-02T00:30:44.340903Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "ai_model",
@@ -3750,8 +4603,8 @@
       ],
       "title_original": "Muse AI agent is a commercial surveillance network disguised as an AI assistant",
       "title_en": "Muse AI agent is a commercial surveillance network disguised as an AI assistant",
-      "title_zh": null,
-      "title_bilingual": "Muse AI agent is a commercial surveillance network disguised as an AI assistant"
+      "title_zh": "Muse AI代理是一个伪装成AI助手的商业监控网络",
+      "title_bilingual": "Muse AI代理是一个伪装成AI助手的商业监控网络 / Muse AI agent is a commercial surveillance network disguised as an AI assistant"
     },
     {
       "id": "e992ce27384b037e974bb28f3fe1cfc7ff197fab",
@@ -3762,7 +4615,7 @@
       "url": "https://www.techradar.com/pro/openai-pledges-to-buy-google-ai-chips-in-its-first-move-away-from-depending-solely-on-nvidia",
       "published_at": "2026-11-01T18:20:00Z",
       "first_seen_at": "2026-11-01T19:29:30.793718Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.84,
       "ai_label": "chip_semi",
@@ -3848,7 +4701,7 @@
       "url": "https://www.androidpolice.com/googlebook-wont-win-over-samsung-with-flagship-hardware",
       "published_at": "2026-11-01T18:00:10Z",
       "first_seen_at": "2026-11-01T19:29:30.793718Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.79,
       "ai_label": "software_saas",
@@ -3911,7 +4764,7 @@
       "url": "https://www.techradar.com/computing/macbooks/apples-touchscreen-macbook-pro-has-left-me-utterly-unconvinced-and-i-believe-steve-jobs-would-hate-the-uninspired-thinking-that-got-us-here",
       "published_at": "2026-11-01T18:00:00Z",
       "first_seen_at": "2026-11-01T19:29:30.793718Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.7,
       "ai_label": "consumer_hw",
@@ -3959,7 +4812,7 @@
       "url": "https://www.techradar.com/phones/iphone/iphone-duo-vs-iphone-air",
       "published_at": "2026-11-01T18:00:00Z",
       "first_seen_at": "2026-11-01T19:29:30.793718Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.73,
       "ai_label": "consumer_hw",
@@ -4054,7 +4907,7 @@
       "url": "https://www.dexerto.com/gaming/anthropic-adds-new-claude-rule-banning-recreations-of-existing-games-3423516",
       "published_at": "2026-11-01T17:36:08Z",
       "first_seen_at": "2026-11-01T22:17:53.904195Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.83,
       "ai_label": "ai_model",
@@ -4091,8 +4944,8 @@
       ],
       "title_original": "Anthropic adds new Claude rule banning recreations of existing games",
       "title_en": "Anthropic adds new Claude rule banning recreations of existing games",
-      "title_zh": null,
-      "title_bilingual": "Anthropic adds new Claude rule banning recreations of existing games"
+      "title_zh": "Anthropic 添加了新的Claude规则，禁止重新制作现有游戏",
+      "title_bilingual": "Anthropic 添加了新的Claude规则，禁止重新制作现有游戏 / Anthropic adds new Claude rule banning recreations of existing games"
     },
     {
       "id": "b27732384a9fcc58819ff6636c4a34c34ae595a9",
@@ -4103,7 +4956,7 @@
       "url": "https://tech.slashdot.org/story/26/10/31/0615204/which-tech-companies-started-using-trumps-phrase-super-intelligence",
       "published_at": "2026-11-01T17:34:00Z",
       "first_seen_at": "2026-11-01T19:29:30.793718Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.7,
       "ai_label": "chip_semi",
@@ -4159,7 +5012,7 @@
       "url": "https://www.macrumors.com/2026/11/01/m5-macbook-air-200-off",
       "published_at": "2026-11-01T17:33:43Z",
       "first_seen_at": "2026-11-01T19:29:30.793718Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.79,
       "ai_label": "consumer_hw",
@@ -4205,7 +5058,7 @@
       "url": "https://www.androidpolice.com/tested-gym-trackers-on-galaxy-watch-only-kept-one",
       "published_at": "2026-11-01T17:00:10Z",
       "first_seen_at": "2026-11-01T19:29:30.793718Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.73,
       "ai_label": "software_saas",
@@ -4249,7 +5102,7 @@
       "url": "https://mashable.com/tech/anthropic-expands-text-watermarking-to-older-claude-versions",
       "published_at": "2026-11-01T16:59:47Z",
       "first_seen_at": "2026-11-01T19:29:30.793718Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.75,
       "ai_label": "ai_model",
@@ -4297,7 +5150,7 @@
       "url": "https://huggingface.co/burner22/numbat",
       "published_at": "2026-11-01T16:43:36Z",
       "first_seen_at": "2026-11-01T19:29:30.793718Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.68,
       "ai_label": "ai_product",
@@ -4344,7 +5197,7 @@
       "url": "https://juejin.cn/post/7702438435235168275",
       "published_at": "2026-11-01T16:40:55.906000Z",
       "first_seen_at": "2026-11-01T16:54:01.275473Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.62,
       "ai_label": "ai_model",
@@ -4407,7 +5260,7 @@
       "url": "https://www.techradar.com/pro/security/ai-is-not-creating-the-problem-openai-ceo-sam-altman-says-ai-is-merely-uncovering-all-the-vulnerabilities-weve-accumulated-over-the-years",
       "published_at": "2026-11-01T16:05:00Z",
       "first_seen_at": "2026-11-01T16:54:01.275473Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.73,
       "ai_label": "ai_product",
@@ -4454,7 +5307,7 @@
       "url": "https://www.sabih.dev/game",
       "published_at": "2026-11-01T15:44:47Z",
       "first_seen_at": "2026-11-01T22:17:53.904195Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "consumer_hw",
@@ -4474,8 +5327,8 @@
       "companies": [],
       "title_original": "I vibecoded a 2d pixel game in 6h yesterday",
       "title_en": "I vibecoded a 2d pixel game in 6h yesterday",
-      "title_zh": null,
-      "title_bilingual": "I vibecoded a 2d pixel game in 6h yesterday"
+      "title_zh": "昨天我用了 6 小时 Vibecode 了一个 2D 像素游戏",
+      "title_bilingual": "昨天我用了 6 小时 Vibecode 了一个 2D 像素游戏 / I vibecoded a 2d pixel game in 6h yesterday"
     },
     {
       "id": "c2b48e20973c5ad128810aab970f0dfc56e0453a",
@@ -4486,7 +5339,7 @@
       "url": "https://news.slashdot.org/story/26/11/01/0211213/amid-ai-bans-microsoft-and-openai-plan-a-joyful-hour-of-ai-for-kids",
       "published_at": "2026-11-01T15:34:00Z",
       "first_seen_at": "2026-11-01T16:54:01.275473Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.73,
       "ai_label": "ai_product",
@@ -4533,7 +5386,7 @@
       "url": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
       "published_at": "2026-11-01T15:00:01Z",
       "first_seen_at": "2026-11-01T16:54:01.275473Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.73,
       "ai_label": "ai_product",
@@ -4582,7 +5435,7 @@
       "url": "https://techcrunch.com/2026/11/01/pixel-11-pro-fold-sturdy-rectengale-in-a-wide-wide-world",
       "published_at": "2026-11-01T15:00:00Z",
       "first_seen_at": "2026-11-01T16:54:01.275473Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.7,
       "ai_label": "consumer_hw",
@@ -4860,7 +5713,7 @@
       "url": "https://thenextweb.com/news/palantir-shyam-sankar-anthropic-stuck-in-the-middle-stratechery",
       "published_at": "2026-11-01T14:01:01Z",
       "first_seen_at": "2026-11-01T14:13:02.037701Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.7,
       "ai_label": "ai_product",
@@ -4906,7 +5759,7 @@
       "url": "https://thenextweb.com/news/claude-ultra-max-plan-rename-five-hour-limit",
       "published_at": "2026-11-01T13:54:30Z",
       "first_seen_at": "2026-11-01T14:13:02.037701Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.75,
       "ai_label": "ai_model",
@@ -4996,7 +5849,7 @@
       "url": "https://www.producthunt.com/products/riverside-fm",
       "published_at": "2026-11-01T13:45:29.399000Z",
       "first_seen_at": "2026-11-01T14:13:02.037701Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.62,
       "ai_label": "ai_model",
@@ -5026,7 +5879,7 @@
       "url": "https://www.producthunt.com/products/usage-for-claude",
       "published_at": "2026-11-01T13:45:29.399000Z",
       "first_seen_at": "2026-11-01T14:13:02.037701Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.7,
       "ai_label": "ai_model",
@@ -5057,8 +5910,8 @@
       "companies": [],
       "title_original": "Usage for Claude + ChatGPT 4.0",
       "title_en": "Usage for Claude + ChatGPT 4.0",
-      "title_zh": null,
-      "title_bilingual": "Usage for Claude + ChatGPT 4.0"
+      "title_zh": "Claude + ChatGPT 4.0 的用法",
+      "title_bilingual": "Claude + ChatGPT 4.0 的用法 / Usage for Claude + ChatGPT 4.0"
     },
     {
       "id": "2242c6eeb5c22206204f5f5cdbc32d50814dd992",
@@ -5069,7 +5922,7 @@
       "url": "https://www.producthunt.com/products/agentmash",
       "published_at": "2026-11-01T13:45:29.399000Z",
       "first_seen_at": "2026-11-01T14:13:02.037701Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.62,
       "ai_label": "ai_model",
@@ -5099,7 +5952,7 @@
       "url": "https://www.androidpolice.com/after-editing-100-pictures-google-photos-new-gemini-task-integration-good-horrible",
       "published_at": "2026-11-01T13:45:10Z",
       "first_seen_at": "2026-11-01T14:13:02.037701Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.73,
       "ai_label": "ai_model",
@@ -5150,7 +6003,7 @@
       "url": "https://thenextweb.com/news/claude-code-game-recreation-refusals-developers",
       "published_at": "2026-11-01T13:44:17Z",
       "first_seen_at": "2026-11-01T14:13:02.037701Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.76,
       "ai_label": "ai_model",
@@ -5195,7 +6048,7 @@
       "url": "https://news.ycombinator.com/item?id=50325635",
       "published_at": "2026-11-01T13:43:57Z",
       "first_seen_at": "2026-11-01T14:13:02.037701Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.78,
       "ai_label": "ai_model",
@@ -5239,7 +6092,7 @@
       "url": "https://www.androidpolice.com/tested-one-ui-9-network-guard-against-adguards-private-dns",
       "published_at": "2026-11-01T13:00:10Z",
       "first_seen_at": "2026-11-01T14:13:02.037701Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.76,
       "ai_label": "software_saas",
@@ -5425,7 +6278,7 @@
       "url": "https://www.androidpolice.com/i-gave-gemini-cluttered-mac-downloads-folder-sorted-files-i-search",
       "published_at": "2026-11-01T11:30:10Z",
       "first_seen_at": "2026-11-01T14:13:02.037701Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.73,
       "ai_label": "ai_model",
@@ -5482,7 +6335,7 @@
       "url": "https://thenextweb.com/news/meta-humanoid-robot-fourier-max",
       "published_at": "2026-11-01T11:29:29Z",
       "first_seen_at": "2026-11-01T14:13:02.037701Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.76,
       "ai_label": "robotics",
@@ -5548,7 +6401,7 @@
       "url": "https://thenextweb.com/news/deepseek-super-agent-open-source-coding-agent",
       "published_at": "2026-11-01T11:13:57Z",
       "first_seen_at": "2026-11-01T14:13:02.037701Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.75,
       "ai_label": "ai_model",
@@ -5596,7 +6449,7 @@
       "url": "https://www.androidpolice.com/gemini-netflix-recommendation-decision-paralysis",
       "published_at": "2026-11-01T11:00:10Z",
       "first_seen_at": "2026-11-01T14:13:02.037701Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.69,
       "ai_label": "ai_model",
@@ -5751,7 +6604,7 @@
       "url": "https://www.nytimes.com/2026/11/01/technology/cyril-hilsum-dead.html",
       "published_at": "2026-11-01T10:00:44Z",
       "first_seen_at": "2026-11-01T14:13:02.037701Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.7,
       "ai_label": "consumer_hw",
@@ -5892,7 +6745,7 @@
       "url": "https://juejin.cn/post/7702106290617286682",
       "published_at": "2026-11-01T09:09:27.967000Z",
       "first_seen_at": "2026-11-01T09:37:11.627807Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.78,
       "ai_label": "ai_model",
@@ -5958,7 +6811,7 @@
       "url": "https://juejin.cn/post/7702247558392070171",
       "published_at": "2026-11-01T09:09:27.967000Z",
       "first_seen_at": "2026-11-01T09:37:11.627807Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "ai_model",
@@ -6050,7 +6903,7 @@
       "url": "https://juejin.cn/post/7701975599074656265",
       "published_at": "2026-11-01T09:09:27.967000Z",
       "first_seen_at": "2026-11-01T09:37:11.627807Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.62,
       "ai_label": "ai_model",
@@ -6129,7 +6982,7 @@
       "url": "https://www.bloomberg.com/news/articles/2026-11-01/deepseek-drops-enhanced-coding-agent-with-aim-to-rival-anthropic",
       "published_at": "2026-11-01T09:07:49Z",
       "first_seen_at": "2026-11-01T14:13:02.037701Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.85,
       "ai_label": "ai_model",
@@ -6194,7 +7047,7 @@
       "url": "https://mashable.com/tech/nov-1-free-apple-iphone-17-early-black-friday-deal",
       "published_at": "2026-11-01T09:00:00Z",
       "first_seen_at": "2026-11-01T09:37:11.627807Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.73,
       "ai_label": "software_saas",
@@ -6552,6 +7405,149 @@
       "title_bilingual": "Anthropic 采取措施阻止 Claude 对电子游戏进行逆向工程"
     },
     {
+      "id": "63987699850dbd92946572d7e26652ed3e647c25",
+      "site_id": "sector_sources",
+      "site_name": "Sector Sources",
+      "source": "IT Home",
+      "title": "消息称英伟达尚未提供 24GB 显存版 GeForce RTX 5080 显卡设计套件",
+      "url": "https://www.ithome.com/1/020/883.htm",
+      "published_at": "2026-11-02T01:42:00Z",
+      "first_seen_at": "2026-11-02T01:45:24.886953Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
+      "ai_is_related": true,
+      "ai_score": 0.6,
+      "ai_label": "chip_semi",
+      "ai_relevance_reason": "matched_strong_tech_signal",
+      "ai_signals": [
+        "英伟达"
+      ],
+      "ai_noise": [],
+      "tech_is_related": true,
+      "tech_score": 0.6,
+      "tech_label": "chip_semi",
+      "source_tier": "other",
+      "source_tier_label": "其他来源",
+      "source_tier_rank": 9,
+      "direction": "compute_dc",
+      "direction_hits": [
+        {
+          "direction_id": "compute_dc",
+          "score": 2.38,
+          "matched_keywords": [
+            "rtx",
+            "geforce",
+            "英伟达"
+          ],
+          "companies": [
+            "英伟达"
+          ]
+        },
+        {
+          "direction_id": "semiconductor",
+          "score": 0.75,
+          "matched_keywords": [
+            "co",
+            "英伟达"
+          ],
+          "companies": [
+            "英伟达"
+          ]
+        },
+        {
+          "direction_id": "autonomous_hardware",
+          "score": 0.75,
+          "matched_keywords": [
+            "英伟达"
+          ],
+          "companies": [
+            "英伟达"
+          ]
+        }
+      ],
+      "companies": [
+        "英伟达"
+      ],
+      "title_original": "消息称英伟达尚未提供 24GB 显存版 GeForce RTX 5080 显卡设计套件",
+      "title_en": null,
+      "title_zh": "消息称英伟达尚未提供 24GB 显存版 GeForce RTX 5080 显卡设计套件",
+      "title_bilingual": "消息称英伟达尚未提供 24GB 显存版 GeForce RTX 5080 显卡设计套件"
+    },
+    {
+      "id": "4a64a73711b9c715b5db16a58eb00bb8e2c2069a",
+      "site_id": "sector_sources",
+      "site_name": "Sector Sources",
+      "source": "IT Home",
+      "title": "韩国 2026 年 10 月半导体出口再超 500 亿美元，持续贡献近半出口总额",
+      "url": "https://www.ithome.com/1/020/867.htm",
+      "published_at": "2026-11-02T01:00:45Z",
+      "first_seen_at": "2026-11-02T01:45:24.886953Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
+      "ai_is_related": true,
+      "ai_score": 0.6,
+      "ai_label": "chip_semi",
+      "ai_relevance_reason": "matched_strong_tech_signal",
+      "ai_signals": [
+        "半导体"
+      ],
+      "ai_noise": [],
+      "tech_is_related": true,
+      "tech_score": 0.6,
+      "tech_label": "chip_semi",
+      "source_tier": "other",
+      "source_tier_label": "其他来源",
+      "source_tier_rank": 9,
+      "direction": "semiconductor",
+      "direction_hits": [
+        {
+          "direction_id": "semiconductor",
+          "score": 0.81,
+          "matched_keywords": [
+            "co",
+            "半导体"
+          ],
+          "companies": []
+        }
+      ],
+      "companies": [],
+      "title_original": "韩国 2026 年 10 月半导体出口再超 500 亿美元，持续贡献近半出口总额",
+      "title_en": null,
+      "title_zh": "韩国 2026 年 10 月半导体出口再超 500 亿美元，持续贡献近半出口总额",
+      "title_bilingual": "韩国 2026 年 10 月半导体出口再超 500 亿美元，持续贡献近半出口总额"
+    },
+    {
+      "id": "612d840f40c7474ea4b3cfe88b943550757928af",
+      "site_id": "sector_sources",
+      "site_name": "Sector Sources",
+      "source": "IT Home",
+      "title": "石油巨头沙特阿美收购该国人工智能企业 HUMAIN 49% 股份",
+      "url": "https://www.ithome.com/1/020/863.htm",
+      "published_at": "2026-11-02T00:44:35Z",
+      "first_seen_at": "2026-11-02T01:45:24.886953Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
+      "ai_is_related": true,
+      "ai_score": 0.63,
+      "ai_label": "industry_business",
+      "ai_relevance_reason": "matched_strong_tech_signal",
+      "ai_signals": [
+        "ai",
+        "人工智能"
+      ],
+      "ai_noise": [],
+      "tech_is_related": true,
+      "tech_score": 0.63,
+      "tech_label": "industry_business",
+      "source_tier": "other",
+      "source_tier_label": "其他来源",
+      "source_tier_rank": 9,
+      "direction": "",
+      "direction_hits": [],
+      "companies": [],
+      "title_original": "石油巨头沙特阿美收购该国人工智能企业 HUMAIN 49% 股份",
+      "title_en": null,
+      "title_zh": "石油巨头沙特阿美收购该国人工智能企业 HUMAIN 49% 股份",
+      "title_bilingual": "石油巨头沙特阿美收购该国人工智能企业 HUMAIN 49% 股份"
+    },
+    {
       "id": "9c8a684a90fd4e979010366f63d8e130aa5085b5",
       "site_id": "sector_sources",
       "site_name": "Sector Sources",
@@ -6560,7 +7556,7 @@
       "url": "https://www.ithome.com/1/020/853.htm",
       "published_at": "2026-11-01T23:54:18Z",
       "first_seen_at": "2026-11-02T00:30:44.340903Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.6,
       "ai_label": "consumer_hw",
@@ -6753,7 +7749,7 @@
       "url": "https://techcrunch.com/2026/11/01/pixel-11-pro-fold-sturdy-rectengale-in-a-wide-wide-world",
       "published_at": "2026-11-01T15:00:00Z",
       "first_seen_at": "2026-11-01T16:54:01.275473Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.6,
       "ai_label": "consumer_hw",
@@ -7049,7 +8045,7 @@
       "url": "https://www.leiphone.com/category/industrynews/MK1z0js4sqcp1xca.html",
       "published_at": "2026-11-01T09:46:00Z",
       "first_seen_at": "2026-11-01T14:13:02.037701Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.63,
       "ai_label": "dev_tool",
@@ -7228,7 +8224,7 @@
       "url": "https://www.leiphone.com/category/transportation/oDbG4KXJpt7KOOqy.html",
       "published_at": "2026-11-01T07:13:00Z",
       "first_seen_at": "2026-11-01T09:37:11.627807Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.6,
       "ai_label": "consumer_hw",
@@ -7286,7 +8282,7 @@
       "url": "https://www.leiphone.com/category/transportation/rLaJDB8ySePtzPT2.html",
       "published_at": "2026-11-01T06:36:00Z",
       "first_seen_at": "2026-11-01T09:37:11.627807Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.6,
       "ai_label": "consumer_hw",
@@ -7332,7 +8328,7 @@
       "url": "https://www.leiphone.com/category/industrynews/aRPnyq1gaAiV8dcQ.html",
       "published_at": "2026-11-01T06:29:00Z",
       "first_seen_at": "2026-11-01T09:37:11.627807Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.6,
       "ai_label": "consumer_hw",
@@ -7386,6 +8382,339 @@
   ],
   "items_ai": [
     {
+      "id": "9f828a6d2bc133c80f5785003b9c3d940b1a53dc",
+      "site_id": "aibase",
+      "site_name": "AIbase",
+      "source": "AIbase",
+      "title": "Anthropic 更新 Claude 限制重制现有电子游戏",
+      "url": "https://www.aibase.com/news/32002",
+      "published_at": "2026-11-02T01:45:24.886953Z",
+      "first_seen_at": "2026-11-02T01:45:24.886953Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
+      "ai_is_related": true,
+      "ai_score": 0.95,
+      "ai_label": "ai_model",
+      "ai_relevance_reason": "trusted_tech_source+strong",
+      "ai_signals": [
+        "ai",
+        "anthropic",
+        "claude"
+      ],
+      "ai_noise": [],
+      "tech_is_related": true,
+      "tech_score": 0.95,
+      "tech_label": "ai_model",
+      "source_tier": "ai_vertical",
+      "source_tier_label": "AI垂直源",
+      "source_tier_rank": 1,
+      "direction": "ai_models_apps",
+      "direction_hits": [
+        {
+          "direction_id": "ai_models_apps",
+          "score": 2.62,
+          "matched_keywords": [
+            "claude",
+            "anthropic",
+            "anthropic"
+          ],
+          "companies": [
+            "anthropic"
+          ]
+        }
+      ],
+      "companies": [
+        "anthropic"
+      ],
+      "title_original": "Anthropic 更新 Claude 限制重制现有电子游戏",
+      "title_en": null,
+      "title_zh": "Anthropic 更新 Claude 限制重制现有电子游戏",
+      "title_bilingual": "Anthropic 更新 Claude 限制重制现有电子游戏"
+    },
+    {
+      "id": "4824d1999917638be460368d60efac64814f471e",
+      "site_id": "aibase",
+      "site_name": "AIbase",
+      "source": "AIbase",
+      "title": "DeepSeek开源Super-agent架构:以经典计算机系统思想突破单会话智能体瓶颈",
+      "url": "https://www.aibase.com/news/32001",
+      "published_at": "2026-11-02T01:45:24.886953Z",
+      "first_seen_at": "2026-11-02T01:45:24.886953Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
+      "ai_is_related": true,
+      "ai_score": 0.95,
+      "ai_label": "ai_model",
+      "ai_relevance_reason": "trusted_tech_source+strong",
+      "ai_signals": [
+        "ai",
+        "deepseek",
+        "开源",
+        "智能体"
+      ],
+      "ai_noise": [],
+      "tech_is_related": true,
+      "tech_score": 0.95,
+      "tech_label": "ai_model",
+      "source_tier": "ai_vertical",
+      "source_tier_label": "AI垂直源",
+      "source_tier_rank": 1,
+      "direction": "ai_models_apps",
+      "direction_hits": [
+        {
+          "direction_id": "ai_models_apps",
+          "score": 3.25,
+          "matched_keywords": [
+            "deepseek",
+            "agent",
+            "智能体",
+            "deepseek"
+          ],
+          "companies": [
+            "deepseek"
+          ]
+        },
+        {
+          "direction_id": "ai_terminal",
+          "score": 1.44,
+          "matched_keywords": [
+            "系统",
+            "agent"
+          ],
+          "companies": []
+        }
+      ],
+      "companies": [
+        "deepseek"
+      ],
+      "title_original": "DeepSeek开源Super-agent架构:以经典计算机系统思想突破单会话智能体瓶颈",
+      "title_en": null,
+      "title_zh": "DeepSeek开源Super-agent架构:以经典计算机系统思想突破单会话智能体瓶颈",
+      "title_bilingual": "DeepSeek开源Super-agent架构:以经典计算机系统思想突破单会话智能体瓶颈"
+    },
+    {
+      "id": "f82ddc0aed5d1d0eaef1fdbd76a27686c1ed4ca1",
+      "site_id": "aibase",
+      "site_name": "AIbase",
+      "source": "AIbase",
+      "title": "GPT-6.2 Astra与Claude 5. 5 新旗舰同日遭曝光，硅谷直接炸锅",
+      "url": "https://www.aibase.com/news/32000",
+      "published_at": "2026-11-02T01:45:24.886953Z",
+      "first_seen_at": "2026-11-02T01:45:24.886953Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
+      "ai_is_related": true,
+      "ai_score": 0.95,
+      "ai_label": "ai_model",
+      "ai_relevance_reason": "trusted_tech_source+strong",
+      "ai_signals": [
+        "ai",
+        "claude",
+        "gpt"
+      ],
+      "ai_noise": [],
+      "tech_is_related": true,
+      "tech_score": 0.95,
+      "tech_label": "ai_model",
+      "source_tier": "ai_vertical",
+      "source_tier_label": "AI垂直源",
+      "source_tier_rank": 1,
+      "direction": "ai_models_apps",
+      "direction_hits": [
+        {
+          "direction_id": "ai_models_apps",
+          "score": 1.56,
+          "matched_keywords": [
+            "gpt",
+            "claude"
+          ],
+          "companies": []
+        }
+      ],
+      "companies": [],
+      "title_original": "GPT-6.2 Astra与Claude 5. 5 新旗舰同日遭曝光，硅谷直接炸锅",
+      "title_en": null,
+      "title_zh": "GPT-6.2 Astra与Claude 5. 5 新旗舰同日遭曝光，硅谷直接炸锅",
+      "title_bilingual": "GPT-6.2 Astra与Claude 5. 5 新旗舰同日遭曝光，硅谷直接炸锅"
+    },
+    {
+      "id": "5ee38e32f9f93a04757f11087257958e5a0a41e7",
+      "site_id": "aibase",
+      "site_name": "AIbase",
+      "source": "AIbase",
+      "title": "OpenAI计划将数据中心更名为“AI计算园区”以应对舆论压力",
+      "url": "https://www.aibase.com/news/31998",
+      "published_at": "2026-11-02T01:45:24.886953Z",
+      "first_seen_at": "2026-11-02T01:45:24.886953Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
+      "ai_is_related": true,
+      "ai_score": 0.95,
+      "ai_label": "ai_product",
+      "ai_relevance_reason": "trusted_tech_source+strong",
+      "ai_signals": [
+        "ai",
+        "openai"
+      ],
+      "ai_noise": [],
+      "tech_is_related": true,
+      "tech_score": 0.95,
+      "tech_label": "ai_product",
+      "source_tier": "ai_vertical",
+      "source_tier_label": "AI垂直源",
+      "source_tier_rank": 1,
+      "direction": "ai_models_apps",
+      "direction_hits": [
+        {
+          "direction_id": "ai_models_apps",
+          "score": 0.75,
+          "matched_keywords": [
+            "openai",
+            "openai"
+          ],
+          "companies": [
+            "openai"
+          ]
+        }
+      ],
+      "companies": [
+        "openai"
+      ],
+      "title_original": "OpenAI计划将数据中心更名为“AI计算园区”以应对舆论压力",
+      "title_en": null,
+      "title_zh": "OpenAI计划将数据中心更名为“AI计算园区”以应对舆论压力",
+      "title_bilingual": "OpenAI计划将数据中心更名为“AI计算园区”以应对舆论压力"
+    },
+    {
+      "id": "7cc5c776354328de80718b3833926b4aa9c62c28",
+      "site_id": "curated_media",
+      "site_name": "Curated Media",
+      "source": "Engadget",
+      "title": "6 Google Maps features that work better on Android Auto vs. CarPlay",
+      "url": "https://www.engadget.com/2300327/google-maps-features-work-better-android-auto-vs-carplay",
+      "published_at": "2026-11-02T01:00:00Z",
+      "first_seen_at": "2026-11-02T01:45:24.886953Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
+      "ai_is_related": true,
+      "ai_score": 0.56,
+      "ai_label": "software_saas",
+      "ai_relevance_reason": "matched_tech_signal",
+      "ai_signals": [
+        "android"
+      ],
+      "ai_noise": [],
+      "tech_is_related": true,
+      "tech_score": 0.56,
+      "tech_label": "software_saas",
+      "source_tier": "ai_media",
+      "source_tier_label": "精选AI媒体",
+      "source_tier_rank": 2,
+      "direction": "ai_terminal",
+      "direction_hits": [
+        {
+          "direction_id": "ai_terminal",
+          "score": 1.56,
+          "matched_keywords": [
+            "ar",
+            "android"
+          ],
+          "companies": []
+        },
+        {
+          "direction_id": "ai_models_apps",
+          "score": 0.75,
+          "matched_keywords": [
+            "google"
+          ],
+          "companies": [
+            "google"
+          ]
+        }
+      ],
+      "companies": [
+        "google"
+      ],
+      "title_original": "6 Google Maps features that work better on Android Auto vs. CarPlay",
+      "title_en": "6 Google Maps features that work better on Android Auto vs. CarPlay",
+      "title_zh": "与 CarPlay 相比，在 Android Auto 上运行效果更好的 6 个 Google 地图功能",
+      "title_bilingual": "与 CarPlay 相比，在 Android Auto 上运行效果更好的 6 个 Google 地图功能 / 6 Google Maps features that work better on Android Auto vs. CarPlay"
+    },
+    {
+      "id": "1d3df3b1714c45f9af9b544de5d9803c6ab07782",
+      "site_id": "curated_media",
+      "site_name": "Curated Media",
+      "source": "Engadget",
+      "title": "How to add and rearrange apps on your Samsung smart TV",
+      "url": "https://www.engadget.com/2300335/how-to-add-rearrange-apps-samsung-smart-tv",
+      "published_at": "2026-11-02T00:45:00Z",
+      "first_seen_at": "2026-11-02T01:45:24.886953Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
+      "ai_is_related": true,
+      "ai_score": 0.56,
+      "ai_label": "software_saas",
+      "ai_relevance_reason": "matched_tech_signal",
+      "ai_signals": [
+        "samsung"
+      ],
+      "ai_noise": [],
+      "tech_is_related": true,
+      "tech_score": 0.56,
+      "tech_label": "software_saas",
+      "source_tier": "ai_media",
+      "source_tier_label": "精选AI媒体",
+      "source_tier_rank": 2,
+      "direction": "ai_terminal",
+      "direction_hits": [
+        {
+          "direction_id": "ai_terminal",
+          "score": 2.31,
+          "matched_keywords": [
+            "samsung",
+            "ar",
+            "samsung"
+          ],
+          "companies": [
+            "samsung"
+          ]
+        }
+      ],
+      "companies": [
+        "samsung"
+      ],
+      "title_original": "How to add and rearrange apps on your Samsung smart TV",
+      "title_en": "How to add and rearrange apps on your Samsung smart TV",
+      "title_zh": "如何在三星智能电视上添加和重新排列应用程序",
+      "title_bilingual": "如何在三星智能电视上添加和重新排列应用程序 / How to add and rearrange apps on your Samsung smart TV"
+    },
+    {
+      "id": "68f1215268361c3bb045d17b679d8acd311c323a",
+      "site_id": "curated_media",
+      "site_name": "Curated Media",
+      "source": "Engadget",
+      "title": "Android Auto could upset your work-life balance with its next update",
+      "url": "https://www.engadget.com/2300324/android-auto-next-update-could-upset-work-life-balance",
+      "published_at": "2026-11-02T00:30:00Z",
+      "first_seen_at": "2026-11-02T01:45:24.886953Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
+      "ai_is_related": true,
+      "ai_score": 0.56,
+      "ai_label": "software_saas",
+      "ai_relevance_reason": "matched_tech_signal",
+      "ai_signals": [
+        "android"
+      ],
+      "ai_noise": [],
+      "tech_is_related": true,
+      "tech_score": 0.56,
+      "tech_label": "software_saas",
+      "source_tier": "ai_media",
+      "source_tier_label": "精选AI媒体",
+      "source_tier_rank": 2,
+      "direction": "",
+      "direction_hits": [],
+      "companies": [],
+      "title_original": "Android Auto could upset your work-life balance with its next update",
+      "title_en": "Android Auto could upset your work-life balance with its next update",
+      "title_zh": "Android Auto 的下一次更新可能会破坏你的工作与生活平衡",
+      "title_bilingual": "Android Auto 的下一次更新可能会破坏你的工作与生活平衡 / Android Auto could upset your work-life balance with its next update"
+    },
+    {
       "id": "7e857e10ad37446497f698b28cba7671c760e840",
       "site_id": "curated_media",
       "site_name": "Curated Media",
@@ -7394,7 +8723,7 @@
       "url": "https://www.engadget.com/2299525/ipad-widgets-didnt-realize-existed",
       "published_at": "2026-11-02T00:15:00Z",
       "first_seen_at": "2026-11-02T00:30:44.340903Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.56,
       "ai_label": "consumer_hw",
@@ -7414,8 +8743,8 @@
       "companies": [],
       "title_original": "10 iPad widgets you probably didn't realize existed",
       "title_en": "10 iPad widgets you probably didn't realize existed",
-      "title_zh": null,
-      "title_bilingual": "10 iPad widgets you probably didn't realize existed"
+      "title_zh": "10 个你可能没有意识到的 iPad 小部件",
+      "title_bilingual": "10 个你可能没有意识到的 iPad 小部件 / 10 iPad widgets you probably didn't realize existed"
     },
     {
       "id": "215a475ab6e6a1667006dfecfadf5227f4f4be9f",
@@ -7426,7 +8755,7 @@
       "url": "https://www.engadget.com/2300320/ai-glasses-replace-prescription-should-they",
       "published_at": "2026-11-02T00:00:00Z",
       "first_seen_at": "2026-11-02T00:30:44.340903Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.56,
       "ai_label": "tech_general",
@@ -7446,8 +8775,8 @@
       "companies": [],
       "title_original": "AI glasses can replace your prescription glasses, but should they?",
       "title_en": "AI glasses can replace your prescription glasses, but should they?",
-      "title_zh": null,
-      "title_bilingual": "AI glasses can replace your prescription glasses, but should they?"
+      "title_zh": "人工智能眼镜可以取代您的处方眼镜，但它们应该吗？",
+      "title_bilingual": "人工智能眼镜可以取代您的处方眼镜，但它们应该吗？ / AI glasses can replace your prescription glasses, but should they?"
     },
     {
       "id": "38c380a32644ebc6e81a7a74ac4b498b5e664780",
@@ -7478,8 +8807,8 @@
       "companies": [],
       "title_original": "U.S. workers took home their smallest share of capital since at least 1947",
       "title_en": "U.S. workers took home their smallest share of capital since at least 1947",
-      "title_zh": null,
-      "title_bilingual": "U.S. workers took home their smallest share of capital since at least 1947"
+      "title_zh": "美国工人拿回的资本份额是至少自 1947 年以来的最低水平",
+      "title_bilingual": "美国工人拿回的资本份额是至少自 1947 年以来的最低水平 / U.S. workers took home their smallest share of capital since at least 1947"
     },
     {
       "id": "0558a0890897625b8d6e9545099b1e0a2d7320c9",
@@ -7490,7 +8819,7 @@
       "url": "https://www.theregister.com/os-platforms/2026/11/01/linus-torvalds-says-linux-kernel-is-out-of-stabilization-phase-and-using-much-healthier-model-for-ai-contributions/5306852",
       "published_at": "2026-11-01T23:11:41Z",
       "first_seen_at": "2026-11-02T00:30:44.340903Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.62,
       "ai_label": "ai_model",
@@ -7524,7 +8853,7 @@
       "url": "https://www.engadget.com/2300309/how-to-clean-playstation-5-without-damaging",
       "published_at": "2026-11-01T23:00:00Z",
       "first_seen_at": "2026-11-02T00:30:44.340903Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.56,
       "ai_label": "consumer_hw",
@@ -7544,8 +8873,8 @@
       "companies": [],
       "title_original": "How to clean your PlayStation 5 without damaging it",
       "title_en": "How to clean your PlayStation 5 without damaging it",
-      "title_zh": null,
-      "title_bilingual": "How to clean your PlayStation 5 without damaging it"
+      "title_zh": "如何在不损坏 PlayStation 5 的情况下清洁它",
+      "title_bilingual": "如何在不损坏 PlayStation 5 的情况下清洁它 / How to clean your PlayStation 5 without damaging it"
     },
     {
       "id": "fbb95400846fdeea735f79dacfa95863c00e997b",
@@ -7556,7 +8885,7 @@
       "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist",
       "published_at": "2026-11-01T22:10:45Z",
       "first_seen_at": "2026-11-02T00:30:44.340903Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.56,
       "ai_label": "tech_general",
@@ -7576,8 +8905,8 @@
       "companies": [],
       "title_original": "AI delivers 'zero financial payoff' to most companies, Apollo economist says",
       "title_en": "AI delivers 'zero financial payoff' to most companies, Apollo economist says",
-      "title_zh": null,
-      "title_bilingual": "AI delivers 'zero financial payoff' to most companies, Apollo economist says"
+      "title_zh": "阿波罗经济学家称，人工智能对大多数企业而言“毫无经济回报”",
+      "title_bilingual": "阿波罗经济学家称，人工智能对大多数企业而言“毫无经济回报” / AI delivers 'zero financial payoff' to most companies, Apollo economist says"
     },
     {
       "id": "64b57d284fe6cf0ca83a0df2af4600c51ac3172f",
@@ -7588,7 +8917,7 @@
       "url": "https://www.engadget.com/2300395/which-samsung-s-pens-located-with-smartthings-find",
       "published_at": "2026-11-01T22:00:00Z",
       "first_seen_at": "2026-11-02T00:30:44.340903Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.56,
       "ai_label": "consumer_hw",
@@ -7623,8 +8952,8 @@
       ],
       "title_original": "Which Samsung S Pens can be located using SmartThings Find?",
       "title_en": "Which Samsung S Pens can be located using SmartThings Find?",
-      "title_zh": null,
-      "title_bilingual": "Which Samsung S Pens can be located using SmartThings Find?"
+      "title_zh": "使用 SmartThings Find 可以找到哪些三星 S Pen？",
+      "title_bilingual": "使用 SmartThings Find 可以找到哪些三星 S Pen？ / Which Samsung S Pens can be located using SmartThings Find?"
     },
     {
       "id": "41c7d8eb677392f5b9ca347f00c27da39b8fd31b",
@@ -7635,7 +8964,7 @@
       "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses",
       "published_at": "2026-11-01T21:55:23Z",
       "first_seen_at": "2026-11-01T22:17:53.904195Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.81,
       "ai_label": "ai_product",
@@ -7679,8 +9008,8 @@
       ],
       "title_original": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
       "title_en": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
-      "title_zh": null,
-      "title_bilingual": "OpenAI might rebrand its data centers as ‘AI compute campuses’"
+      "title_zh": "OpenAI 可能会将其数据中心重新命名为“AI 计算园区”",
+      "title_bilingual": "OpenAI 可能会将其数据中心重新命名为“AI 计算园区” / OpenAI might rebrand its data centers as ‘AI compute campuses’"
     },
     {
       "id": "771380279412583dfd5471f2ac6f539c45797e90",
@@ -7727,8 +9056,8 @@
       ],
       "title_original": "Anthropic updates Claude to stop it from recreating existing video games",
       "title_en": "Anthropic updates Claude to stop it from recreating existing video games",
-      "title_zh": null,
-      "title_bilingual": "Anthropic updates Claude to stop it from recreating existing video games"
+      "title_zh": "Anthropic 更新了 Claude，以阻止其重新创建现有的视频游戏",
+      "title_bilingual": "Anthropic 更新了 Claude，以阻止其重新创建现有的视频游戏 / Anthropic updates Claude to stop it from recreating existing video games"
     },
     {
       "id": "b7ac3a22d7b2a8a74ae6cd675735b9d67b3aaa6c",
@@ -7773,8 +9102,8 @@
       ],
       "title_original": "Ceramic vs Titanium Apple Watch: Which material is better for overall durability?",
       "title_en": "Ceramic vs Titanium Apple Watch: Which material is better for overall durability?",
-      "title_zh": null,
-      "title_bilingual": "Ceramic vs Titanium Apple Watch: Which material is better for overall durability?"
+      "title_zh": "陶瓷与钛 Apple Watch：哪种材料的整体耐用性更好？",
+      "title_bilingual": "陶瓷与钛 Apple Watch：哪种材料的整体耐用性更好？ / Ceramic vs Titanium Apple Watch: Which material is better for overall durability?"
     },
     {
       "id": "eb9a8f1db27ee191e4cb816572e053bc37a0027d",
@@ -7785,7 +9114,7 @@
       "url": "https://www.tomshardware.com/tech-industry/cyber-security/new-ai-driven-windows-malware-feeds-stolen-data-to-claude-to-rank-victims-assets-by-value-then-deletes-itself-payload-builds-custom-target-assessment-can-switch-models-if-one-refuses-or-skip-the-ai-step-entirely",
       "published_at": "2026-11-01T21:00:00Z",
       "first_seen_at": "2026-11-02T00:30:44.340903Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.84,
       "ai_label": "ai_model",
@@ -7912,7 +9241,7 @@
       "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else",
       "published_at": "2026-11-01T20:57:58Z",
       "first_seen_at": "2026-11-01T22:17:53.904195Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.56,
       "ai_label": "tech_general",
@@ -7932,8 +9261,8 @@
       "companies": [],
       "title_original": "AI can make tech CEOs’ lives easier. What about everyone else?",
       "title_en": "AI can make tech CEOs’ lives easier. What about everyone else?",
-      "title_zh": null,
-      "title_bilingual": "AI can make tech CEOs’ lives easier. What about everyone else?"
+      "title_zh": "人工智能可以让科技首席执行官的生活变得更轻松。其他人呢？",
+      "title_bilingual": "人工智能可以让科技首席执行官的生活变得更轻松。其他人呢？ / AI can make tech CEOs’ lives easier. What about everyone else?"
     },
     {
       "id": "806fb4b2037484d0aafbcbe9fb320849d0e07316",
@@ -7964,8 +9293,8 @@
       "companies": [],
       "title_original": "How to turn on the flashlight on your Android phone without unlocking it",
       "title_en": "How to turn on the flashlight on your Android phone without unlocking it",
-      "title_zh": null,
-      "title_bilingual": "How to turn on the flashlight on your Android phone without unlocking it"
+      "title_zh": "如何在不解锁的情况下打开 Android 手机上的手电筒",
+      "title_bilingual": "如何在不解锁的情况下打开 Android 手机上的手电筒 / How to turn on the flashlight on your Android phone without unlocking it"
     },
     {
       "id": "b3833a48835ef97e261c9c304753e5592940f762",
@@ -8148,7 +9477,7 @@
       "url": "https://www.tomshardware.com/pc-components/snag-a-nintendo-switch-2-for-only-usd469-while-stock-lasts-usd30-off-a-system-thats-not-often-on-sale",
       "published_at": "2026-11-01T18:09:28Z",
       "first_seen_at": "2026-11-01T19:29:30.793718Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.59,
       "ai_label": "consumer_hw",
@@ -8321,7 +9650,7 @@
       "url": "https://www.reddit.com/r/frontierairlines/comments/1xl20e8/psa_email_scam",
       "published_at": "2026-11-01T16:46:33Z",
       "first_seen_at": "2026-11-01T19:29:30.793718Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.56,
       "ai_label": "tech_general",
@@ -8395,7 +9724,7 @@
       "url": "https://www.semiconductor-today.com/news_items/2026/oct/seoul-291026.shtml",
       "published_at": "2026-11-01T16:23:26Z",
       "first_seen_at": "2026-11-01T19:29:30.793718Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.81,
       "ai_label": "chip_semi",
@@ -8684,7 +10013,7 @@
       "url": "https://www.bleepingcomputer.com/news/security/alpine-linux-rebuilds-gitlab-after-attempted-rce-attack",
       "published_at": "2026-11-01T15:11:21Z",
       "first_seen_at": "2026-11-01T16:54:01.275473Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.56,
       "ai_label": "software_saas",
@@ -8716,7 +10045,7 @@
       "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/brazilian-lawyers-busted-for-attempting-to-manipulate-courts-ai-with-prompt-injection-hidden-in-filing-courts-ai-flags-hidden-text-that-demanded-superficial-legal-scrutiny-lawyers-fined-usd16-000",
       "published_at": "2026-11-01T15:05:00Z",
       "first_seen_at": "2026-11-01T16:54:01.275473Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.59,
       "ai_label": "tech_general",
@@ -8773,7 +10102,7 @@
       "url": "https://www.bloomberg.com/news/newsletters/2026-11-01/apple-touch-screen-macbook-pro-impressions-software-division-gaming-shake-up",
       "published_at": "2026-11-01T15:00:01Z",
       "first_seen_at": "2026-11-01T16:54:01.275473Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.78,
       "ai_label": "software_saas",
@@ -8825,7 +10154,7 @@
       "url": "https://www.tomshardware.com/pc-components/ssds/biwin-m560-2tb-ssd-review",
       "published_at": "2026-11-01T15:00:00Z",
       "first_seen_at": "2026-11-01T16:54:01.275473Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.56,
       "ai_label": "tech_general",
@@ -8867,7 +10196,7 @@
       "url": "https://the-decoder.com/adobe-is-testing-how-well-ai-agents-can-use-editing-tools-like-a-photoshop-professional-would",
       "published_at": "2026-11-01T14:56:44Z",
       "first_seen_at": "2026-11-01T16:54:01.275473Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.78,
       "ai_label": "ai_model",
@@ -8958,7 +10287,7 @@
       "url": "https://the-decoder.com/empathetic-prompts-can-turn-ai-chatbots-into-seemingly-traumatized-conversational-partners",
       "published_at": "2026-11-01T14:36:49Z",
       "first_seen_at": "2026-11-01T16:54:01.275473Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.59,
       "ai_label": "tech_general",
@@ -8991,7 +10320,7 @@
       "url": "https://www.tomshardware.com/tech-industry/data-centers/sam-altman-travels-to-south-korea-to-meet-samsung-leadership-to-secure-more-ram-for-data-centers-amid-crushing-shortages-openai-ceo-meets-samsung-leadership-to-discuss-future-ai-data-centers",
       "published_at": "2026-11-01T14:21:23Z",
       "first_seen_at": "2026-11-01T16:54:01.275473Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.56,
       "ai_label": "consumer_hw",
@@ -9091,7 +10420,7 @@
       "url": "https://www.tomshardware.com/pc-components/gpus/open-source-usb-tool-unlocks-nvidias-half-speed-gpu-ai-limiter-on-windows-lifts-gpus-fp16-math-performance-up-to-65-percent-uefi-unlocker-covers-rtx-20-30-and-40-series-desktops-and-laptops",
       "published_at": "2026-11-01T14:00:00Z",
       "first_seen_at": "2026-11-01T16:54:01.275473Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.9,
       "ai_label": "chip_semi",
@@ -9259,7 +10588,7 @@
       "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-doubling-pro-usage-limits-and-bringing-work-features-to-chat",
       "published_at": "2026-11-01T13:53:11Z",
       "first_seen_at": "2026-11-01T14:13:02.037701Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.81,
       "ai_label": "ai_product",
@@ -9579,7 +10908,7 @@
       "url": "https://the-decoder.com/chinese-ai-models-are-politically-complex-not-just-government-mouthpieces-study-finds",
       "published_at": "2026-11-01T12:33:01Z",
       "first_seen_at": "2026-11-01T14:13:02.037701Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.56,
       "ai_label": "ai_model",
@@ -9655,7 +10984,7 @@
       "url": "https://the-decoder.com/openai-is-steering-chatgpt-users-toward-more-paid-usage",
       "published_at": "2026-11-01T12:05:04Z",
       "first_seen_at": "2026-11-01T14:13:02.037701Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.86,
       "ai_label": "ai_model",
@@ -9705,7 +11034,7 @@
       "url": "https://www.wired.com/story/the-hollywood-color-nerd-who-shot-knives-out-explains-his-viral-iphone-camera-app",
       "published_at": "2026-11-01T12:00:00Z",
       "first_seen_at": "2026-11-01T14:13:02.037701Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.81,
       "ai_label": "software_saas",
@@ -9753,7 +11082,7 @@
       "url": "https://the-decoder.com/google-wants-video-ai-to-understand-what-people-need-as-they-workgoogle-researchers-are-teaching-a-video-assistant-when-to-offer-help",
       "published_at": "2026-11-01T11:25:21Z",
       "first_seen_at": "2026-11-01T14:13:02.037701Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.56,
       "ai_label": "ai_product",
@@ -9888,15 +11217,15 @@
       "title_bilingual": "挪威让茅屋再次伟大 / Norway makes shithouses great again"
     },
     {
-      "id": "bd1f0326cfd5f2445fe33e1c8515da479e792225",
+      "id": "0e6ba0bbfd4d2fd04616d4ea864889378c45396b",
       "site_id": "curated_media",
       "site_name": "Curated Media",
       "source": "Hacker News front page",
       "title": "Domain hacks with unusual Unicode characters (2018)",
-      "url": "https://xn--69f31l4t57c0mag4b613h.xn--7uh4898msjaso/🆆🆃🅵",
+      "url": "https://shkspr.mobi/blog/2018/11/domain-hacks-with-unusual-unicode-characters",
       "published_at": "2026-11-01T10:44:20Z",
-      "first_seen_at": "2026-11-01T14:13:02.037701Z",
-      "last_seen_at": "2026-11-01T19:29:30.793718Z",
+      "first_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.56,
       "ai_label": "tech_general",
@@ -9970,7 +11299,7 @@
       "url": "https://the-decoder.com/openais-upcoming-chat-and-work-merger-in-chatgpt-signals-the-end-of-all-you-can-prompt-pricing",
       "published_at": "2026-11-01T09:51:06Z",
       "first_seen_at": "2026-11-01T14:13:02.037701Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.89,
       "ai_label": "ai_model",
@@ -10021,7 +11350,7 @@
       "url": "https://www.theregister.com/networks/2026/11/01/landline-phones-will-switch-off-across-britland-in-100-days-no-extensions-openreach/5306673",
       "published_at": "2026-11-01T09:04:00Z",
       "first_seen_at": "2026-11-01T09:37:11.627807Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.56,
       "ai_label": "consumer_hw",
@@ -10053,7 +11382,7 @@
       "url": "https://www.marktechpost.com/2026/11/01/nace-ai-open-sources-drex-max-v1-local-inference",
       "published_at": "2026-11-01T08:10:07Z",
       "first_seen_at": "2026-11-01T09:37:11.627807Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "ai_model",
@@ -10102,7 +11431,7 @@
       "url": "https://www.marktechpost.com/2026/11/01/deepseek-dsh-superagent-router-worker-coding-agent",
       "published_at": "2026-11-01T07:47:17Z",
       "first_seen_at": "2026-11-01T09:37:11.627807Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.83,
       "ai_label": "ai_model",
@@ -10159,7 +11488,7 @@
       "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks",
       "published_at": "2026-11-01T06:06:19Z",
       "first_seen_at": "2026-11-01T09:37:11.627807Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.59,
       "ai_label": "software_saas",
@@ -10192,7 +11521,7 @@
       "url": "https://www.bloomberg.com/news/articles/2026-11-01/deepseek-drops-enhanced-coding-agent-with-aim-to-rival-anthropic",
       "published_at": "2026-11-01T03:48:18Z",
       "first_seen_at": "2026-11-01T09:37:11.627807Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.88,
       "ai_label": "ai_model",
@@ -10310,15 +11639,99 @@
       "title_bilingual": "通过拼写 RAM 中的无线电信号来泄露气隙计算机的秘密 (2024) / Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM (2024)"
     },
     {
+      "id": "e7bc066479f87b508e83a045a3cb2e76afcec37c",
+      "site_id": "opmlrss",
+      "site_name": "OPML RSS",
+      "source": "InfoQ CN",
+      "title": "ChatGPT Pro 额度翻倍：是让步，不是福利？",
+      "url": "https://www.infoq.cn/article/WpTNht7guarWEyejJFV6",
+      "published_at": "2026-11-02T01:16:03Z",
+      "first_seen_at": "2026-11-02T01:45:24.886953Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
+      "ai_is_related": true,
+      "ai_score": 0.75,
+      "ai_label": "ai_model",
+      "ai_relevance_reason": "matched_strong_tech_signal",
+      "ai_signals": [
+        "gpt"
+      ],
+      "ai_noise": [],
+      "tech_is_related": true,
+      "tech_score": 0.75,
+      "tech_label": "ai_model",
+      "source_tier": "user_opml",
+      "source_tier_label": "RSS/OPML",
+      "source_tier_rank": 3,
+      "direction": "",
+      "direction_hits": [],
+      "companies": [],
+      "title_original": "ChatGPT Pro 额度翻倍：是让步，不是福利？",
+      "title_en": null,
+      "title_zh": "ChatGPT Pro 额度翻倍：是让步，不是福利？",
+      "title_bilingual": "ChatGPT Pro 额度翻倍：是让步，不是福利？"
+    },
+    {
+      "id": "c7d9b6bfe5e88381f561fa2df0d73e18da8b8854",
+      "site_id": "opmlrss",
+      "site_name": "OPML RSS",
+      "source": "InfoQ CN",
+      "title": "百度搜索 AI API 千次仅需 4.9 元，低于 DeepSeek；搜索开始 RSI",
+      "url": "https://www.infoq.cn/article/HJgTwfsPAugNBJ2jUefj",
+      "published_at": "2026-11-02T01:12:15Z",
+      "first_seen_at": "2026-11-02T01:45:24.886953Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
+      "ai_is_related": true,
+      "ai_score": 0.84,
+      "ai_label": "ai_model",
+      "ai_relevance_reason": "matched_strong_tech_signal",
+      "ai_signals": [
+        "ai",
+        "api",
+        "deepseek",
+        "百度"
+      ],
+      "ai_noise": [],
+      "tech_is_related": true,
+      "tech_score": 0.84,
+      "tech_label": "ai_model",
+      "source_tier": "user_opml",
+      "source_tier_label": "RSS/OPML",
+      "source_tier_rank": 3,
+      "direction": "ai_models_apps",
+      "direction_hits": [
+        {
+          "direction_id": "ai_models_apps",
+          "score": 0.9,
+          "matched_keywords": [
+            "deepseek",
+            "deepseek",
+            "百度"
+          ],
+          "companies": [
+            "deepseek",
+            "百度"
+          ]
+        }
+      ],
+      "companies": [
+        "deepseek",
+        "百度"
+      ],
+      "title_original": "百度搜索 AI API 千次仅需 4.9 元，低于 DeepSeek；搜索开始 RSI",
+      "title_en": null,
+      "title_zh": "百度搜索 AI API 千次仅需 4.9 元，低于 DeepSeek；搜索开始 RSI",
+      "title_bilingual": "百度搜索 AI API 千次仅需 4.9 元，低于 DeepSeek；搜索开始 RSI"
+    },
+    {
       "id": "e802b34ea0bd2c3860370414227a85a6a3e04e73",
       "site_id": "opmlrss",
       "site_name": "OPML RSS",
       "source": "InfoQ CN",
       "title": "当 AI 能读懂二进制，闭源软件还剩多少护城河？",
       "url": "https://www.infoq.cn/article/8mCjWWFLdjDA2vb51QZs",
-      "published_at": "2026-11-01T17:00:00Z",
+      "published_at": "2026-11-01T09:00:00Z",
       "first_seen_at": "2026-11-01T09:37:11.627807Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.56,
       "ai_label": "software_saas",
@@ -10341,6 +11754,442 @@
       "title_en": null,
       "title_zh": "当 AI 能读懂二进制，闭源软件还剩多少护城河？",
       "title_bilingual": "当 AI 能读懂二进制，闭源软件还剩多少护城河？"
+    },
+    {
+      "id": "20855f2da79331298430a4d4168533d308f8aec3",
+      "site_id": "iris",
+      "site_name": "Info Flow",
+      "source": "V2EX (创意工作者社区)",
+      "title": "[OpenAI] Codex 之前赠送的 6w 多额度有过期时间吗",
+      "url": "https://www.v2ex.com/t/1253662",
+      "published_at": "2026-11-02T01:40:58Z",
+      "first_seen_at": "2026-11-02T01:45:24.886953Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
+      "ai_is_related": true,
+      "ai_score": 0.71,
+      "ai_label": "dev_tool",
+      "ai_relevance_reason": "matched_strong_tech_signal",
+      "ai_signals": [
+        "ai",
+        "codex",
+        "openai"
+      ],
+      "ai_noise": [],
+      "tech_is_related": true,
+      "tech_score": 0.71,
+      "tech_label": "dev_tool",
+      "source_tier": "discussion",
+      "source_tier_label": "热议参考",
+      "source_tier_rank": 5,
+      "direction": "ai_models_apps",
+      "direction_hits": [
+        {
+          "direction_id": "ai_models_apps",
+          "score": 3.19,
+          "matched_keywords": [
+            "code",
+            "openai",
+            "codex",
+            "openai"
+          ],
+          "companies": [
+            "openai"
+          ]
+        }
+      ],
+      "companies": [
+        "openai"
+      ],
+      "title_original": "[OpenAI] Codex 之前赠送的 6w 多额度有过期时间吗",
+      "title_en": null,
+      "title_zh": "[OpenAI] Codex 之前赠送的 6w 多额度有过期时间吗",
+      "title_bilingual": "[OpenAI] Codex 之前赠送的 6w 多额度有过期时间吗"
+    },
+    {
+      "id": "d1ee473215b777609b89189ebf47087306787167",
+      "site_id": "iris",
+      "site_name": "Info Flow",
+      "source": "V2EX (创意工作者社区)",
+      "title": "[程序员] claude 弹出 kyc 已经通过，是更稳定还是距离封禁不远了？",
+      "url": "https://www.v2ex.com/t/1253660",
+      "published_at": "2026-11-02T01:37:39Z",
+      "first_seen_at": "2026-11-02T01:45:24.886953Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
+      "ai_is_related": true,
+      "ai_score": 0.65,
+      "ai_label": "ai_model",
+      "ai_relevance_reason": "matched_strong_tech_signal",
+      "ai_signals": [
+        "claude"
+      ],
+      "ai_noise": [],
+      "tech_is_related": true,
+      "tech_score": 0.65,
+      "tech_label": "ai_model",
+      "source_tier": "discussion",
+      "source_tier_label": "热议参考",
+      "source_tier_rank": 5,
+      "direction": "",
+      "direction_hits": [],
+      "companies": [],
+      "title_original": "[程序员] claude 弹出 kyc 已经通过，是更稳定还是距离封禁不远了？",
+      "title_en": null,
+      "title_zh": "[程序员] claude 弹出 kyc 已经通过，是更稳定还是距离封禁不远了？",
+      "title_bilingual": "[程序员] claude 弹出 kyc 已经通过，是更稳定还是距离封禁不远了？"
+    },
+    {
+      "id": "7da370b5222a7d41745e017a2e37f3f55cb9e6c4",
+      "site_id": "iris",
+      "site_name": "Info Flow",
+      "source": "V2EX (创意工作者社区)",
+      "title": "[分享创造] AgentMesh：把每台设备变成一支 AI 蜂群——多设备蜂群协同系统",
+      "url": "https://www.v2ex.com/t/1253658",
+      "published_at": "2026-11-02T01:34:45Z",
+      "first_seen_at": "2026-11-02T01:45:24.886953Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
+      "ai_is_related": true,
+      "ai_score": 0.65,
+      "ai_label": "ai_model",
+      "ai_relevance_reason": "matched_strong_tech_signal",
+      "ai_signals": [
+        "ai"
+      ],
+      "ai_noise": [],
+      "tech_is_related": true,
+      "tech_score": 0.65,
+      "tech_label": "ai_model",
+      "source_tier": "discussion",
+      "source_tier_label": "热议参考",
+      "source_tier_rank": 5,
+      "direction": "ai_terminal",
+      "direction_hits": [
+        {
+          "direction_id": "ai_terminal",
+          "score": 1.44,
+          "matched_keywords": [
+            "系统",
+            "agent"
+          ],
+          "companies": []
+        }
+      ],
+      "companies": [],
+      "title_original": "[分享创造] AgentMesh：把每台设备变成一支 AI 蜂群——多设备蜂群协同系统",
+      "title_en": null,
+      "title_zh": "[分享创造] AgentMesh：把每台设备变成一支 AI 蜂群——多设备蜂群协同系统",
+      "title_bilingual": "[分享创造] AgentMesh：把每台设备变成一支 AI 蜂群——多设备蜂群协同系统"
+    },
+    {
+      "id": "4f27b90e0e03b848266c44aec0cef19a4797fa7d",
+      "site_id": "iris",
+      "site_name": "Info Flow",
+      "source": "V2EX (创意工作者社区)",
+      "title": "[问与答] 阿里云 Agent 开发者调研报告：近一半人立项在做，但还在持续迭代不到一成",
+      "url": "https://www.v2ex.com/t/1253657",
+      "published_at": "2026-11-02T01:30:31Z",
+      "first_seen_at": "2026-11-02T01:45:24.886953Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
+      "ai_is_related": true,
+      "ai_score": 0.65,
+      "ai_label": "ai_model",
+      "ai_relevance_reason": "matched_strong_tech_signal",
+      "ai_signals": [
+        "阿里"
+      ],
+      "ai_noise": [],
+      "tech_is_related": true,
+      "tech_score": 0.65,
+      "tech_label": "ai_model",
+      "source_tier": "discussion",
+      "source_tier_label": "热议参考",
+      "source_tier_rank": 5,
+      "direction": "ai_models_apps",
+      "direction_hits": [
+        {
+          "direction_id": "ai_models_apps",
+          "score": 0.75,
+          "matched_keywords": [
+            "agent",
+            "阿里"
+          ],
+          "companies": [
+            "阿里"
+          ]
+        }
+      ],
+      "companies": [
+        "阿里"
+      ],
+      "title_original": "[问与答] 阿里云 Agent 开发者调研报告：近一半人立项在做，但还在持续迭代不到一成",
+      "title_en": null,
+      "title_zh": "[问与答] 阿里云 Agent 开发者调研报告：近一半人立项在做，但还在持续迭代不到一成",
+      "title_bilingual": "[问与答] 阿里云 Agent 开发者调研报告：近一半人立项在做，但还在持续迭代不到一成"
+    },
+    {
+      "id": "0cffab8175bd8d22763159bc8e5f7e230e63e4cb",
+      "site_id": "newsnow",
+      "site_name": "NewsNow",
+      "source": "juejin",
+      "title": "半年营收163亿、亏损800亿：Anthropic IPO文件揭开的AI烧钱真相",
+      "url": "https://juejin.cn/post/7702296667303559209",
+      "published_at": "2026-11-02T01:29:35.201000Z",
+      "first_seen_at": "2026-11-02T01:45:24.886953Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
+      "ai_is_related": true,
+      "ai_score": 0.68,
+      "ai_label": "ai_product",
+      "ai_relevance_reason": "matched_strong_tech_signal",
+      "ai_signals": [
+        "ai",
+        "anthropic"
+      ],
+      "ai_noise": [],
+      "tech_is_related": true,
+      "tech_score": 0.68,
+      "tech_label": "ai_product",
+      "source_tier": "discussion",
+      "source_tier_label": "热议参考",
+      "source_tier_rank": 5,
+      "direction": "ai_models_apps",
+      "direction_hits": [
+        {
+          "direction_id": "ai_models_apps",
+          "score": 0.75,
+          "matched_keywords": [
+            "anthropic",
+            "anthropic"
+          ],
+          "companies": [
+            "anthropic"
+          ]
+        }
+      ],
+      "companies": [
+        "anthropic"
+      ],
+      "title_original": "半年营收163亿、亏损800亿：Anthropic IPO文件揭开的AI烧钱真相",
+      "title_en": null,
+      "title_zh": "半年营收163亿、亏损800亿：Anthropic IPO文件揭开的AI烧钱真相",
+      "title_bilingual": "半年营收163亿、亏损800亿：Anthropic IPO文件揭开的AI烧钱真相"
+    },
+    {
+      "id": "9177587ccf679729d13a6425edd35a3c19660e53",
+      "site_id": "newsnow",
+      "site_name": "NewsNow",
+      "source": "juejin",
+      "title": "我把 0.6B 大模型塞进安卓手机：596 秒到 10 秒",
+      "url": "https://juejin.cn/post/7702408998457344026",
+      "published_at": "2026-11-02T01:29:35.201000Z",
+      "first_seen_at": "2026-11-02T01:45:24.886953Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
+      "ai_is_related": true,
+      "ai_score": 0.68,
+      "ai_label": "ai_model",
+      "ai_relevance_reason": "matched_strong_tech_signal",
+      "ai_signals": [
+        "大模型",
+        "手机"
+      ],
+      "ai_noise": [],
+      "tech_is_related": true,
+      "tech_score": 0.68,
+      "tech_label": "ai_model",
+      "source_tier": "discussion",
+      "source_tier_label": "热议参考",
+      "source_tier_rank": 5,
+      "direction": "",
+      "direction_hits": [],
+      "companies": [],
+      "title_original": "我把 0.6B 大模型塞进安卓手机：596 秒到 10 秒",
+      "title_en": null,
+      "title_zh": "我把 0.6B 大模型塞进安卓手机：596 秒到 10 秒",
+      "title_bilingual": "我把 0.6B 大模型塞进安卓手机：596 秒到 10 秒"
+    },
+    {
+      "id": "87180f4fcfe505e564fc4cd064de4e4ca5f6633f",
+      "site_id": "iris",
+      "site_name": "Info Flow",
+      "source": "V2EX (创意工作者社区)",
+      "title": "[推广] Opus 5.5 官价 0.075 折 DeepSeek-V4.1-Flash 2.5 折 拼团限时活动",
+      "url": "https://www.v2ex.com/t/1253655",
+      "published_at": "2026-11-02T01:25:22Z",
+      "first_seen_at": "2026-11-02T01:45:24.886953Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
+      "ai_is_related": true,
+      "ai_score": 0.65,
+      "ai_label": "ai_model",
+      "ai_relevance_reason": "matched_strong_tech_signal",
+      "ai_signals": [
+        "deepseek"
+      ],
+      "ai_noise": [],
+      "tech_is_related": true,
+      "tech_score": 0.65,
+      "tech_label": "ai_model",
+      "source_tier": "discussion",
+      "source_tier_label": "热议参考",
+      "source_tier_rank": 5,
+      "direction": "ai_models_apps",
+      "direction_hits": [
+        {
+          "direction_id": "ai_models_apps",
+          "score": 0.75,
+          "matched_keywords": [
+            "deepseek",
+            "deepseek"
+          ],
+          "companies": [
+            "deepseek"
+          ]
+        }
+      ],
+      "companies": [
+        "deepseek"
+      ],
+      "title_original": "[推广] Opus 5.5 官价 0.075 折 DeepSeek-V4.1-Flash 2.5 折 拼团限时活动",
+      "title_en": null,
+      "title_zh": "[推广] Opus 5.5 官价 0.075 折 DeepSeek-V4.1-Flash 2.5 折 拼团限时活动",
+      "title_bilingual": "[推广] Opus 5.5 官价 0.075 折 DeepSeek-V4.1-Flash 2.5 折 拼团限时活动"
+    },
+    {
+      "id": "f04ec0cb5a6569ff15a4b17dd4ecd2934e7f6776",
+      "site_id": "iris",
+      "site_name": "Info Flow",
+      "source": "V2EX (创意工作者社区)",
+      "title": "[Claude] claude 订阅求助",
+      "url": "https://www.v2ex.com/t/1253645",
+      "published_at": "2026-11-02T01:12:52Z",
+      "first_seen_at": "2026-11-02T01:45:24.886953Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
+      "ai_is_related": true,
+      "ai_score": 0.65,
+      "ai_label": "ai_model",
+      "ai_relevance_reason": "matched_strong_tech_signal",
+      "ai_signals": [
+        "claude"
+      ],
+      "ai_noise": [],
+      "tech_is_related": true,
+      "tech_score": 0.65,
+      "tech_label": "ai_model",
+      "source_tier": "discussion",
+      "source_tier_label": "热议参考",
+      "source_tier_rank": 5,
+      "direction": "",
+      "direction_hits": [],
+      "companies": [],
+      "title_original": "[Claude] claude 订阅求助",
+      "title_en": null,
+      "title_zh": "[Claude] claude 订阅求助",
+      "title_bilingual": "[Claude] claude 订阅求助"
+    },
+    {
+      "id": "afa986da0715a184fb7c65fcd1e41d1f13b835a5",
+      "site_id": "iris",
+      "site_name": "Info Flow",
+      "source": "V2EX (创意工作者社区)",
+      "title": "[Codex] chatgptPro 订阅如何开票报销",
+      "url": "https://www.v2ex.com/t/1253640",
+      "published_at": "2026-11-02T01:00:10Z",
+      "first_seen_at": "2026-11-02T01:45:24.886953Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
+      "ai_is_related": true,
+      "ai_score": 0.68,
+      "ai_label": "ai_model",
+      "ai_relevance_reason": "matched_strong_tech_signal",
+      "ai_signals": [
+        "codex",
+        "gpt"
+      ],
+      "ai_noise": [],
+      "tech_is_related": true,
+      "tech_score": 0.68,
+      "tech_label": "ai_model",
+      "source_tier": "discussion",
+      "source_tier_label": "热议参考",
+      "source_tier_rank": 5,
+      "direction": "ai_models_apps",
+      "direction_hits": [
+        {
+          "direction_id": "ai_models_apps",
+          "score": 2.25,
+          "matched_keywords": [
+            "gpt",
+            "code",
+            "codex"
+          ],
+          "companies": []
+        }
+      ],
+      "companies": [],
+      "title_original": "[Codex] chatgptPro 订阅如何开票报销",
+      "title_en": null,
+      "title_zh": "[Codex] chatgptPro 订阅如何开票报销",
+      "title_bilingual": "[Codex] chatgptPro 订阅如何开票报销"
+    },
+    {
+      "id": "e8eb176cbe7b26c3d2a2eba52c3758188acc22d5",
+      "site_id": "iris",
+      "site_name": "Info Flow",
+      "source": "V2EX (创意工作者社区)",
+      "title": "[推广] ChatGPT Plus/Pro 稳定充值",
+      "url": "https://www.v2ex.com/t/1253639",
+      "published_at": "2026-11-02T00:55:10Z",
+      "first_seen_at": "2026-11-02T01:45:24.886953Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
+      "ai_is_related": true,
+      "ai_score": 0.65,
+      "ai_label": "ai_model",
+      "ai_relevance_reason": "matched_strong_tech_signal",
+      "ai_signals": [
+        "gpt"
+      ],
+      "ai_noise": [],
+      "tech_is_related": true,
+      "tech_score": 0.65,
+      "tech_label": "ai_model",
+      "source_tier": "discussion",
+      "source_tier_label": "热议参考",
+      "source_tier_rank": 5,
+      "direction": "",
+      "direction_hits": [],
+      "companies": [],
+      "title_original": "[推广] ChatGPT Plus/Pro 稳定充值",
+      "title_en": null,
+      "title_zh": "[推广] ChatGPT Plus/Pro 稳定充值",
+      "title_bilingual": "[推广] ChatGPT Plus/Pro 稳定充值"
+    },
+    {
+      "id": "111fc5d91d2395cb2e4e6f3f1db87ac4d305be2e",
+      "site_id": "buzzing",
+      "site_name": "Buzzing",
+      "source": "techcrunch.com",
+      "title": "阿波罗经济学家称，人工智能对大多数企业而言“毫无经济回报”",
+      "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist",
+      "published_at": "2026-11-02T00:37:42.544000Z",
+      "first_seen_at": "2026-11-02T01:45:24.886953Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
+      "ai_is_related": true,
+      "ai_score": 0.7,
+      "ai_label": "tech_general",
+      "ai_relevance_reason": "matched_strong_tech_signal",
+      "ai_signals": [
+        "人工智能"
+      ],
+      "ai_noise": [],
+      "tech_is_related": true,
+      "tech_score": 0.7,
+      "tech_label": "tech_general",
+      "source_tier": "discussion",
+      "source_tier_label": "热议参考",
+      "source_tier_rank": 5,
+      "direction": "",
+      "direction_hits": [],
+      "companies": [],
+      "title_original": "阿波罗经济学家称，人工智能对大多数企业而言“毫无经济回报”",
+      "title_en": null,
+      "title_zh": "阿波罗经济学家称，人工智能对大多数企业而言“毫无经济回报”",
+      "title_bilingual": "阿波罗经济学家称，人工智能对大多数企业而言“毫无经济回报”"
     },
     {
       "id": "49917cec37699d06b38cef7cb83d69a351910de6",
@@ -10448,7 +12297,7 @@
       "url": "https://www.economist.com/business/2026/11/01/hackers-are-running-riot-with-ai-its-makers-want-to-cash-in",
       "published_at": "2026-11-01T22:30:52.665000Z",
       "first_seen_at": "2026-11-02T00:30:44.340903Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.7,
       "ai_label": "dev_tool",
@@ -10480,7 +12329,7 @@
       "url": "https://www.businessinsider.com/openai-ai-data-centers-rebrand-compute-campuses-midterms-2026-11",
       "published_at": "2026-11-01T22:28:08Z",
       "first_seen_at": "2026-11-02T00:30:44.340903Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.73,
       "ai_label": "ai_product",
@@ -10524,8 +12373,8 @@
       ],
       "title_original": "OpenAI wants everyone to call AI data centers 'compute campuses'",
       "title_en": "OpenAI wants everyone to call AI data centers 'compute campuses'",
-      "title_zh": null,
-      "title_bilingual": "OpenAI wants everyone to call AI data centers 'compute campuses'"
+      "title_zh": "OpenAI 希望每个人都将人工智能数据中心称为“计算校园”",
+      "title_bilingual": "OpenAI 希望每个人都将人工智能数据中心称为“计算校园” / OpenAI wants everyone to call AI data centers 'compute campuses'"
     },
     {
       "id": "f07f63db0663c22c9d54d5a2a5b4d3dc49e2f786",
@@ -10536,7 +12385,7 @@
       "url": "https://mashable.com/tech/nov-1-claude-ai-professional-e-degree",
       "published_at": "2026-11-01T22:00:00Z",
       "first_seen_at": "2026-11-01T22:17:53.904195Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.7,
       "ai_label": "ai_model",
@@ -10556,8 +12405,8 @@
       "companies": [],
       "title_original": "Become a Claude power user with this $20 E-Degree",
       "title_en": "Become a Claude power user with this $20 E-Degree",
-      "title_zh": null,
-      "title_bilingual": "Become a Claude power user with this $20 E-Degree"
+      "title_zh": "凭借价值 20 美元的电子学位成为 Claude 高级用户",
+      "title_bilingual": "凭借价值 20 美元的电子学位成为 Claude 高级用户 / Become a Claude power user with this $20 E-Degree"
     },
     {
       "id": "be8af8104d5bae6dcf2f887f43934e0d6f1df69e",
@@ -10568,7 +12417,7 @@
       "url": "https://eva.ac/blog/llms",
       "published_at": "2026-11-01T21:49:04Z",
       "first_seen_at": "2026-11-02T00:30:44.340903Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.68,
       "ai_label": "ai_model",
@@ -10589,8 +12438,8 @@
       "companies": [],
       "title_original": "So I guess everyone uses LLMs to think now",
       "title_en": "So I guess everyone uses LLMs to think now",
-      "title_zh": null,
-      "title_bilingual": "So I guess everyone uses LLMs to think now"
+      "title_zh": "所以我想现在每个人都用LLM来思考",
+      "title_bilingual": "所以我想现在每个人都用LLM来思考 / So I guess everyone uses LLMs to think now"
     },
     {
       "id": "49aa6ec9a2ae081cc44b4e5dc63264173ecbf60b",
@@ -10601,7 +12450,7 @@
       "url": "https://www.techradar.com/pro/intel-and-amd-could-be-about-to-work-together-on-a-mystery-project-ceo-lip-bu-tan-hints-at-future-co-operation-which-could-be-anything-from-software-to-cpu-to-foundry-work",
       "published_at": "2026-11-01T21:40:00Z",
       "first_seen_at": "2026-11-01T22:17:53.904195Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.73,
       "ai_label": "chip_semi",
@@ -10665,7 +12514,7 @@
       "url": "https://www.techmeme.com/261101/p16",
       "published_at": "2026-11-01T21:30:01Z",
       "first_seen_at": "2026-11-01T22:17:53.904195Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.76,
       "ai_label": "software_saas",
@@ -10722,7 +12571,7 @@
       "url": "https://blog.raed.dev/posts/proton-loser-thinking",
       "published_at": "2026-11-01T21:11:57.459000Z",
       "first_seen_at": "2026-11-01T22:17:53.904195Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.7,
       "ai_label": "tech_general",
@@ -10754,7 +12603,7 @@
       "url": "https://www.semiconductor-today.com/news_items/2026/oct/seoul-291026.shtml",
       "published_at": "2026-11-01T20:55:58.886000Z",
       "first_seen_at": "2026-11-01T22:17:53.904195Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.73,
       "ai_label": "chip_semi",
@@ -10787,7 +12636,7 @@
       "url": "https://daringfireball.net/linked/2026/11/01/workos",
       "published_at": "2026-11-01T20:22:56Z",
       "first_seen_at": "2026-11-01T22:17:53.904195Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.67,
       "ai_label": "ai_model",
@@ -10815,8 +12664,8 @@
       "companies": [],
       "title_original": "WorkOS: Let Agents Sign Up for Your App Without a Browser",
       "title_en": "WorkOS: Let Agents Sign Up for Your App Without a Browser",
-      "title_zh": null,
-      "title_bilingual": "WorkOS: Let Agents Sign Up for Your App Without a Browser"
+      "title_zh": "WorkOS：让代理无需浏览器即可注册您的应用程序",
+      "title_bilingual": "WorkOS：让代理无需浏览器即可注册您的应用程序 / WorkOS: Let Agents Sign Up for Your App Without a Browser"
     },
     {
       "id": "566424a8f7ae902eb7bb1ce3bffb9bad2b94498a",
@@ -10827,7 +12676,7 @@
       "url": "https://www.androidpolice.com/samsung-leaving-galaxy-s22-behind",
       "published_at": "2026-11-01T20:00:10Z",
       "first_seen_at": "2026-11-01T22:17:53.904195Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.76,
       "ai_label": "software_saas",
@@ -10865,8 +12714,8 @@
       ],
       "title_original": "Samsung is leaving my Galaxy S22+ behind; I'm taking the hint",
       "title_en": "Samsung is leaving my Galaxy S22+ behind; I'm taking the hint",
-      "title_zh": null,
-      "title_bilingual": "Samsung is leaving my Galaxy S22+ behind; I'm taking the hint"
+      "title_zh": "三星将我的 Galaxy S22+ 抛在身后；我接受暗示",
+      "title_bilingual": "三星将我的 Galaxy S22+ 抛在身后；我接受暗示 / Samsung is leaving my Galaxy S22+ behind; I'm taking the hint"
     },
     {
       "id": "53fb1f8211a20c9b75616923c2c68ea4765756be",
@@ -10922,7 +12771,7 @@
       "url": "https://sspai.com/post/116686",
       "published_at": "2026-11-01T19:14:01.034000Z",
       "first_seen_at": "2026-11-01T19:29:30.793718Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.68,
       "ai_label": "consumer_hw",
@@ -10969,7 +12818,7 @@
       "url": "https://paulfwalsh.substack.com/p/metas-muse-ai-agent-is-a-commercial",
       "published_at": "2026-11-01T18:33:02Z",
       "first_seen_at": "2026-11-02T00:30:44.340903Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "ai_model",
@@ -11015,8 +12864,8 @@
       ],
       "title_original": "Muse AI agent is a commercial surveillance network disguised as an AI assistant",
       "title_en": "Muse AI agent is a commercial surveillance network disguised as an AI assistant",
-      "title_zh": null,
-      "title_bilingual": "Muse AI agent is a commercial surveillance network disguised as an AI assistant"
+      "title_zh": "Muse AI代理是一个伪装成AI助手的商业监控网络",
+      "title_bilingual": "Muse AI代理是一个伪装成AI助手的商业监控网络 / Muse AI agent is a commercial surveillance network disguised as an AI assistant"
     },
     {
       "id": "e992ce27384b037e974bb28f3fe1cfc7ff197fab",
@@ -11027,7 +12876,7 @@
       "url": "https://www.techradar.com/pro/openai-pledges-to-buy-google-ai-chips-in-its-first-move-away-from-depending-solely-on-nvidia",
       "published_at": "2026-11-01T18:20:00Z",
       "first_seen_at": "2026-11-01T19:29:30.793718Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.84,
       "ai_label": "chip_semi",
@@ -11113,7 +12962,7 @@
       "url": "https://www.androidpolice.com/googlebook-wont-win-over-samsung-with-flagship-hardware",
       "published_at": "2026-11-01T18:00:10Z",
       "first_seen_at": "2026-11-01T19:29:30.793718Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.79,
       "ai_label": "software_saas",
@@ -11176,7 +13025,7 @@
       "url": "https://www.techradar.com/computing/macbooks/apples-touchscreen-macbook-pro-has-left-me-utterly-unconvinced-and-i-believe-steve-jobs-would-hate-the-uninspired-thinking-that-got-us-here",
       "published_at": "2026-11-01T18:00:00Z",
       "first_seen_at": "2026-11-01T19:29:30.793718Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.7,
       "ai_label": "consumer_hw",
@@ -11224,7 +13073,7 @@
       "url": "https://www.techradar.com/phones/iphone/iphone-duo-vs-iphone-air",
       "published_at": "2026-11-01T18:00:00Z",
       "first_seen_at": "2026-11-01T19:29:30.793718Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.73,
       "ai_label": "consumer_hw",
@@ -11319,7 +13168,7 @@
       "url": "https://www.dexerto.com/gaming/anthropic-adds-new-claude-rule-banning-recreations-of-existing-games-3423516",
       "published_at": "2026-11-01T17:36:08Z",
       "first_seen_at": "2026-11-01T22:17:53.904195Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.83,
       "ai_label": "ai_model",
@@ -11356,8 +13205,8 @@
       ],
       "title_original": "Anthropic adds new Claude rule banning recreations of existing games",
       "title_en": "Anthropic adds new Claude rule banning recreations of existing games",
-      "title_zh": null,
-      "title_bilingual": "Anthropic adds new Claude rule banning recreations of existing games"
+      "title_zh": "Anthropic 添加了新的Claude规则，禁止重新制作现有游戏",
+      "title_bilingual": "Anthropic 添加了新的Claude规则，禁止重新制作现有游戏 / Anthropic adds new Claude rule banning recreations of existing games"
     },
     {
       "id": "b27732384a9fcc58819ff6636c4a34c34ae595a9",
@@ -11368,7 +13217,7 @@
       "url": "https://tech.slashdot.org/story/26/10/31/0615204/which-tech-companies-started-using-trumps-phrase-super-intelligence",
       "published_at": "2026-11-01T17:34:00Z",
       "first_seen_at": "2026-11-01T19:29:30.793718Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.7,
       "ai_label": "chip_semi",
@@ -11424,7 +13273,7 @@
       "url": "https://www.macrumors.com/2026/11/01/m5-macbook-air-200-off",
       "published_at": "2026-11-01T17:33:43Z",
       "first_seen_at": "2026-11-01T19:29:30.793718Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.79,
       "ai_label": "consumer_hw",
@@ -11470,7 +13319,7 @@
       "url": "https://www.androidpolice.com/tested-gym-trackers-on-galaxy-watch-only-kept-one",
       "published_at": "2026-11-01T17:00:10Z",
       "first_seen_at": "2026-11-01T19:29:30.793718Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.73,
       "ai_label": "software_saas",
@@ -11514,7 +13363,7 @@
       "url": "https://mashable.com/tech/anthropic-expands-text-watermarking-to-older-claude-versions",
       "published_at": "2026-11-01T16:59:47Z",
       "first_seen_at": "2026-11-01T19:29:30.793718Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.75,
       "ai_label": "ai_model",
@@ -11562,7 +13411,7 @@
       "url": "https://huggingface.co/burner22/numbat",
       "published_at": "2026-11-01T16:43:36Z",
       "first_seen_at": "2026-11-01T19:29:30.793718Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.68,
       "ai_label": "ai_product",
@@ -11609,7 +13458,7 @@
       "url": "https://juejin.cn/post/7702438435235168275",
       "published_at": "2026-11-01T16:40:55.906000Z",
       "first_seen_at": "2026-11-01T16:54:01.275473Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.62,
       "ai_label": "ai_model",
@@ -11672,7 +13521,7 @@
       "url": "https://www.techradar.com/pro/security/ai-is-not-creating-the-problem-openai-ceo-sam-altman-says-ai-is-merely-uncovering-all-the-vulnerabilities-weve-accumulated-over-the-years",
       "published_at": "2026-11-01T16:05:00Z",
       "first_seen_at": "2026-11-01T16:54:01.275473Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.73,
       "ai_label": "ai_product",
@@ -11719,7 +13568,7 @@
       "url": "https://www.sabih.dev/game",
       "published_at": "2026-11-01T15:44:47Z",
       "first_seen_at": "2026-11-01T22:17:53.904195Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "consumer_hw",
@@ -11739,8 +13588,8 @@
       "companies": [],
       "title_original": "I vibecoded a 2d pixel game in 6h yesterday",
       "title_en": "I vibecoded a 2d pixel game in 6h yesterday",
-      "title_zh": null,
-      "title_bilingual": "I vibecoded a 2d pixel game in 6h yesterday"
+      "title_zh": "昨天我用了 6 小时 Vibecode 了一个 2D 像素游戏",
+      "title_bilingual": "昨天我用了 6 小时 Vibecode 了一个 2D 像素游戏 / I vibecoded a 2d pixel game in 6h yesterday"
     },
     {
       "id": "c2b48e20973c5ad128810aab970f0dfc56e0453a",
@@ -11751,7 +13600,7 @@
       "url": "https://news.slashdot.org/story/26/11/01/0211213/amid-ai-bans-microsoft-and-openai-plan-a-joyful-hour-of-ai-for-kids",
       "published_at": "2026-11-01T15:34:00Z",
       "first_seen_at": "2026-11-01T16:54:01.275473Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.73,
       "ai_label": "ai_product",
@@ -11798,7 +13647,7 @@
       "url": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
       "published_at": "2026-11-01T15:00:01Z",
       "first_seen_at": "2026-11-01T16:54:01.275473Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.73,
       "ai_label": "ai_product",
@@ -11847,7 +13696,7 @@
       "url": "https://techcrunch.com/2026/11/01/pixel-11-pro-fold-sturdy-rectengale-in-a-wide-wide-world",
       "published_at": "2026-11-01T15:00:00Z",
       "first_seen_at": "2026-11-01T16:54:01.275473Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.7,
       "ai_label": "consumer_hw",
@@ -12125,7 +13974,7 @@
       "url": "https://thenextweb.com/news/palantir-shyam-sankar-anthropic-stuck-in-the-middle-stratechery",
       "published_at": "2026-11-01T14:01:01Z",
       "first_seen_at": "2026-11-01T14:13:02.037701Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.7,
       "ai_label": "ai_product",
@@ -12171,7 +14020,7 @@
       "url": "https://thenextweb.com/news/claude-ultra-max-plan-rename-five-hour-limit",
       "published_at": "2026-11-01T13:54:30Z",
       "first_seen_at": "2026-11-01T14:13:02.037701Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.75,
       "ai_label": "ai_model",
@@ -12261,7 +14110,7 @@
       "url": "https://www.producthunt.com/products/riverside-fm",
       "published_at": "2026-11-01T13:45:29.399000Z",
       "first_seen_at": "2026-11-01T14:13:02.037701Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.62,
       "ai_label": "ai_model",
@@ -12291,7 +14140,7 @@
       "url": "https://www.producthunt.com/products/usage-for-claude",
       "published_at": "2026-11-01T13:45:29.399000Z",
       "first_seen_at": "2026-11-01T14:13:02.037701Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.7,
       "ai_label": "ai_model",
@@ -12322,8 +14171,8 @@
       "companies": [],
       "title_original": "Usage for Claude + ChatGPT 4.0",
       "title_en": "Usage for Claude + ChatGPT 4.0",
-      "title_zh": null,
-      "title_bilingual": "Usage for Claude + ChatGPT 4.0"
+      "title_zh": "Claude + ChatGPT 4.0 的用法",
+      "title_bilingual": "Claude + ChatGPT 4.0 的用法 / Usage for Claude + ChatGPT 4.0"
     },
     {
       "id": "2242c6eeb5c22206204f5f5cdbc32d50814dd992",
@@ -12334,7 +14183,7 @@
       "url": "https://www.producthunt.com/products/agentmash",
       "published_at": "2026-11-01T13:45:29.399000Z",
       "first_seen_at": "2026-11-01T14:13:02.037701Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.62,
       "ai_label": "ai_model",
@@ -12364,7 +14213,7 @@
       "url": "https://www.androidpolice.com/after-editing-100-pictures-google-photos-new-gemini-task-integration-good-horrible",
       "published_at": "2026-11-01T13:45:10Z",
       "first_seen_at": "2026-11-01T14:13:02.037701Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.73,
       "ai_label": "ai_model",
@@ -12415,7 +14264,7 @@
       "url": "https://thenextweb.com/news/claude-code-game-recreation-refusals-developers",
       "published_at": "2026-11-01T13:44:17Z",
       "first_seen_at": "2026-11-01T14:13:02.037701Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.76,
       "ai_label": "ai_model",
@@ -12460,7 +14309,7 @@
       "url": "https://news.ycombinator.com/item?id=50325635",
       "published_at": "2026-11-01T13:43:57Z",
       "first_seen_at": "2026-11-01T14:13:02.037701Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.78,
       "ai_label": "ai_model",
@@ -12504,7 +14353,7 @@
       "url": "https://www.androidpolice.com/tested-one-ui-9-network-guard-against-adguards-private-dns",
       "published_at": "2026-11-01T13:00:10Z",
       "first_seen_at": "2026-11-01T14:13:02.037701Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.76,
       "ai_label": "software_saas",
@@ -12690,7 +14539,7 @@
       "url": "https://www.androidpolice.com/i-gave-gemini-cluttered-mac-downloads-folder-sorted-files-i-search",
       "published_at": "2026-11-01T11:30:10Z",
       "first_seen_at": "2026-11-01T14:13:02.037701Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.73,
       "ai_label": "ai_model",
@@ -12747,7 +14596,7 @@
       "url": "https://thenextweb.com/news/meta-humanoid-robot-fourier-max",
       "published_at": "2026-11-01T11:29:29Z",
       "first_seen_at": "2026-11-01T14:13:02.037701Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.76,
       "ai_label": "robotics",
@@ -12813,7 +14662,7 @@
       "url": "https://thenextweb.com/news/deepseek-super-agent-open-source-coding-agent",
       "published_at": "2026-11-01T11:13:57Z",
       "first_seen_at": "2026-11-01T14:13:02.037701Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.75,
       "ai_label": "ai_model",
@@ -12861,7 +14710,7 @@
       "url": "https://www.androidpolice.com/gemini-netflix-recommendation-decision-paralysis",
       "published_at": "2026-11-01T11:00:10Z",
       "first_seen_at": "2026-11-01T14:13:02.037701Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.69,
       "ai_label": "ai_model",
@@ -13016,7 +14865,7 @@
       "url": "https://www.nytimes.com/2026/11/01/technology/cyril-hilsum-dead.html",
       "published_at": "2026-11-01T10:00:44Z",
       "first_seen_at": "2026-11-01T14:13:02.037701Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.7,
       "ai_label": "consumer_hw",
@@ -13157,7 +15006,7 @@
       "url": "https://juejin.cn/post/7702106290617286682",
       "published_at": "2026-11-01T09:09:27.967000Z",
       "first_seen_at": "2026-11-01T09:37:11.627807Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.78,
       "ai_label": "ai_model",
@@ -13223,7 +15072,7 @@
       "url": "https://juejin.cn/post/7702247558392070171",
       "published_at": "2026-11-01T09:09:27.967000Z",
       "first_seen_at": "2026-11-01T09:37:11.627807Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "ai_model",
@@ -13315,7 +15164,7 @@
       "url": "https://juejin.cn/post/7701975599074656265",
       "published_at": "2026-11-01T09:09:27.967000Z",
       "first_seen_at": "2026-11-01T09:37:11.627807Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.62,
       "ai_label": "ai_model",
@@ -13394,7 +15243,7 @@
       "url": "https://www.bloomberg.com/news/articles/2026-11-01/deepseek-drops-enhanced-coding-agent-with-aim-to-rival-anthropic",
       "published_at": "2026-11-01T09:07:49Z",
       "first_seen_at": "2026-11-01T14:13:02.037701Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.85,
       "ai_label": "ai_model",
@@ -13459,7 +15308,7 @@
       "url": "https://mashable.com/tech/nov-1-free-apple-iphone-17-early-black-friday-deal",
       "published_at": "2026-11-01T09:00:00Z",
       "first_seen_at": "2026-11-01T09:37:11.627807Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.73,
       "ai_label": "software_saas",
@@ -13817,6 +15666,149 @@
       "title_bilingual": "Anthropic 采取措施阻止 Claude 对电子游戏进行逆向工程"
     },
     {
+      "id": "63987699850dbd92946572d7e26652ed3e647c25",
+      "site_id": "sector_sources",
+      "site_name": "Sector Sources",
+      "source": "IT Home",
+      "title": "消息称英伟达尚未提供 24GB 显存版 GeForce RTX 5080 显卡设计套件",
+      "url": "https://www.ithome.com/1/020/883.htm",
+      "published_at": "2026-11-02T01:42:00Z",
+      "first_seen_at": "2026-11-02T01:45:24.886953Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
+      "ai_is_related": true,
+      "ai_score": 0.6,
+      "ai_label": "chip_semi",
+      "ai_relevance_reason": "matched_strong_tech_signal",
+      "ai_signals": [
+        "英伟达"
+      ],
+      "ai_noise": [],
+      "tech_is_related": true,
+      "tech_score": 0.6,
+      "tech_label": "chip_semi",
+      "source_tier": "other",
+      "source_tier_label": "其他来源",
+      "source_tier_rank": 9,
+      "direction": "compute_dc",
+      "direction_hits": [
+        {
+          "direction_id": "compute_dc",
+          "score": 2.38,
+          "matched_keywords": [
+            "rtx",
+            "geforce",
+            "英伟达"
+          ],
+          "companies": [
+            "英伟达"
+          ]
+        },
+        {
+          "direction_id": "semiconductor",
+          "score": 0.75,
+          "matched_keywords": [
+            "co",
+            "英伟达"
+          ],
+          "companies": [
+            "英伟达"
+          ]
+        },
+        {
+          "direction_id": "autonomous_hardware",
+          "score": 0.75,
+          "matched_keywords": [
+            "英伟达"
+          ],
+          "companies": [
+            "英伟达"
+          ]
+        }
+      ],
+      "companies": [
+        "英伟达"
+      ],
+      "title_original": "消息称英伟达尚未提供 24GB 显存版 GeForce RTX 5080 显卡设计套件",
+      "title_en": null,
+      "title_zh": "消息称英伟达尚未提供 24GB 显存版 GeForce RTX 5080 显卡设计套件",
+      "title_bilingual": "消息称英伟达尚未提供 24GB 显存版 GeForce RTX 5080 显卡设计套件"
+    },
+    {
+      "id": "4a64a73711b9c715b5db16a58eb00bb8e2c2069a",
+      "site_id": "sector_sources",
+      "site_name": "Sector Sources",
+      "source": "IT Home",
+      "title": "韩国 2026 年 10 月半导体出口再超 500 亿美元，持续贡献近半出口总额",
+      "url": "https://www.ithome.com/1/020/867.htm",
+      "published_at": "2026-11-02T01:00:45Z",
+      "first_seen_at": "2026-11-02T01:45:24.886953Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
+      "ai_is_related": true,
+      "ai_score": 0.6,
+      "ai_label": "chip_semi",
+      "ai_relevance_reason": "matched_strong_tech_signal",
+      "ai_signals": [
+        "半导体"
+      ],
+      "ai_noise": [],
+      "tech_is_related": true,
+      "tech_score": 0.6,
+      "tech_label": "chip_semi",
+      "source_tier": "other",
+      "source_tier_label": "其他来源",
+      "source_tier_rank": 9,
+      "direction": "semiconductor",
+      "direction_hits": [
+        {
+          "direction_id": "semiconductor",
+          "score": 0.81,
+          "matched_keywords": [
+            "co",
+            "半导体"
+          ],
+          "companies": []
+        }
+      ],
+      "companies": [],
+      "title_original": "韩国 2026 年 10 月半导体出口再超 500 亿美元，持续贡献近半出口总额",
+      "title_en": null,
+      "title_zh": "韩国 2026 年 10 月半导体出口再超 500 亿美元，持续贡献近半出口总额",
+      "title_bilingual": "韩国 2026 年 10 月半导体出口再超 500 亿美元，持续贡献近半出口总额"
+    },
+    {
+      "id": "612d840f40c7474ea4b3cfe88b943550757928af",
+      "site_id": "sector_sources",
+      "site_name": "Sector Sources",
+      "source": "IT Home",
+      "title": "石油巨头沙特阿美收购该国人工智能企业 HUMAIN 49% 股份",
+      "url": "https://www.ithome.com/1/020/863.htm",
+      "published_at": "2026-11-02T00:44:35Z",
+      "first_seen_at": "2026-11-02T01:45:24.886953Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
+      "ai_is_related": true,
+      "ai_score": 0.63,
+      "ai_label": "industry_business",
+      "ai_relevance_reason": "matched_strong_tech_signal",
+      "ai_signals": [
+        "ai",
+        "人工智能"
+      ],
+      "ai_noise": [],
+      "tech_is_related": true,
+      "tech_score": 0.63,
+      "tech_label": "industry_business",
+      "source_tier": "other",
+      "source_tier_label": "其他来源",
+      "source_tier_rank": 9,
+      "direction": "",
+      "direction_hits": [],
+      "companies": [],
+      "title_original": "石油巨头沙特阿美收购该国人工智能企业 HUMAIN 49% 股份",
+      "title_en": null,
+      "title_zh": "石油巨头沙特阿美收购该国人工智能企业 HUMAIN 49% 股份",
+      "title_bilingual": "石油巨头沙特阿美收购该国人工智能企业 HUMAIN 49% 股份"
+    },
+    {
       "id": "9c8a684a90fd4e979010366f63d8e130aa5085b5",
       "site_id": "sector_sources",
       "site_name": "Sector Sources",
@@ -13825,7 +15817,7 @@
       "url": "https://www.ithome.com/1/020/853.htm",
       "published_at": "2026-11-01T23:54:18Z",
       "first_seen_at": "2026-11-02T00:30:44.340903Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.6,
       "ai_label": "consumer_hw",
@@ -14018,7 +16010,7 @@
       "url": "https://techcrunch.com/2026/11/01/pixel-11-pro-fold-sturdy-rectengale-in-a-wide-wide-world",
       "published_at": "2026-11-01T15:00:00Z",
       "first_seen_at": "2026-11-01T16:54:01.275473Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.6,
       "ai_label": "consumer_hw",
@@ -14314,7 +16306,7 @@
       "url": "https://www.leiphone.com/category/industrynews/MK1z0js4sqcp1xca.html",
       "published_at": "2026-11-01T09:46:00Z",
       "first_seen_at": "2026-11-01T14:13:02.037701Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.63,
       "ai_label": "dev_tool",
@@ -14493,7 +16485,7 @@
       "url": "https://www.leiphone.com/category/transportation/oDbG4KXJpt7KOOqy.html",
       "published_at": "2026-11-01T07:13:00Z",
       "first_seen_at": "2026-11-01T09:37:11.627807Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.6,
       "ai_label": "consumer_hw",
@@ -14551,7 +16543,7 @@
       "url": "https://www.leiphone.com/category/transportation/rLaJDB8ySePtzPT2.html",
       "published_at": "2026-11-01T06:36:00Z",
       "first_seen_at": "2026-11-01T09:37:11.627807Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.6,
       "ai_label": "consumer_hw",
@@ -14597,7 +16589,7 @@
       "url": "https://www.leiphone.com/category/industrynews/aRPnyq1gaAiV8dcQ.html",
       "published_at": "2026-11-01T06:29:00Z",
       "first_seen_at": "2026-11-01T09:37:11.627807Z",
-      "last_seen_at": "2026-11-02T00:30:44.340903Z",
+      "last_seen_at": "2026-11-02T01:45:24.886953Z",
       "ai_is_related": true,
       "ai_score": 0.6,
       "ai_label": "consumer_hw",
