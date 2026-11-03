@@ -1,16 +1,30 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-02T23:50:03.165875Z",
+  "generated_at": "2026-11-03T02:35:28.808310Z",
   "ok": true,
-  "active_count": 0,
+  "active_count": 1,
   "providers": [
     {
       "id": "openai",
       "name": "OpenAI",
       "status_url": "https://status.openai.com/",
       "ok": true,
-      "active_count": 0
+      "active_count": 1
     }
   ],
-  "incidents": []
+  "incidents": [
+    {
+      "id": "01M6FDZ89W4PKDS19K496J307G",
+      "provider": "OpenAI",
+      "title": "File upload errors in ChatGPT",
+      "title_zh": "File upload errors in ChatGPT",
+      "status": "identified",
+      "impact": "minor",
+      "started_at": "2026-11-03T00:46:58Z",
+      "updated_at": "2026-11-03T02:06:04Z",
+      "message": "We have identified that users are experiencing elevated errors for the impacted services. We are working on implementing a mitigation.",
+      "affected_components": [],
+      "url": "https://status.openai.com/incidents/01M6FDZ89W4PKDS19K496J307G"
+    }
+  ]
 }
