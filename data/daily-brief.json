@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T22:30:53.464977Z",
+  "generated_at": "2026-11-04T23:53:00.958136Z",
   "window_hours": 24,
   "total_items": 19,
   "items": [
@@ -163,15 +163,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.9463,
-      "importance": 0.9463,
-      "importance_score": 0.9463,
+      "score": 0.9432,
+      "importance": 0.9432,
+      "importance_score": 0.9432,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.8907,
+        "recency": 0.8733,
         "story_heat": 1.0
       },
       "category": "official",
@@ -199,7 +199,120 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T22:32:32.237864Z"
+        "scored_at": "2026-11-04T23:55:19.071470Z"
+      }
+    },
+    {
+      "story_id": "story_f06268fdc285",
+      "title": "减少一千条通往根的路径 / A thousand fewer paths to root",
+      "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+      "primary_url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "e847b83d4b78cfeb44f598d593db6aa5d5d80526",
+          "title": "减少一千条通往根的路径 / A thousand fewer paths to root",
+          "title_zh": "减少一千条通往根的路径",
+          "title_en": "A thousand fewer paths to root",
+          "title_original": "A thousand fewer paths to root",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-04T08:00:00Z"
+        },
+        {
+          "id": "19a8b150a86948778ba352ecf261220b290d3c50",
+          "title": "Linux 中的本地提权漏洞 / Local privilege escalation vulnerabilities in Linux",
+          "title_zh": "Linux 中的本地提权漏洞",
+          "title_en": "Local privilege escalation vulnerabilities in Linux",
+          "title_original": "Local privilege escalation vulnerabilities in Linux",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+          "source": "Hacker News front page",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-11-04T23:33:14Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News front page",
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "e847b83d4b78cfeb44f598d593db6aa5d5d80526",
+          "title": "减少一千条通往根的路径 / A thousand fewer paths to root",
+          "title_zh": "减少一千条通往根的路径",
+          "title_en": "A thousand fewer paths to root",
+          "title_original": "A thousand fewer paths to root",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-04T08:00:00Z"
+        },
+        {
+          "id": "19a8b150a86948778ba352ecf261220b290d3c50",
+          "title": "Linux 中的本地提权漏洞 / Local privilege escalation vulnerabilities in Linux",
+          "title_zh": "Linux 中的本地提权漏洞",
+          "title_en": "Local privilege escalation vulnerabilities in Linux",
+          "title_original": "Local privilege escalation vulnerabilities in Linux",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+          "source": "Hacker News front page",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-11-04T23:33:14Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8541,
+      "importance": 0.8541,
+      "importance_score": 0.8541,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.795,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-04T08:00:00Z",
+      "latest_at": "2026-11-04T23:33:14Z",
+      "primary_item": {
+        "id": "e847b83d4b78cfeb44f598d593db6aa5d5d80526",
+        "title": "减少一千条通往根的路径 / A thousand fewer paths to root",
+        "title_zh": "减少一千条通往根的路径",
+        "title_en": "A thousand fewer paths to root",
+        "title_original": "A thousand fewer paths to root",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-04T23:55:19.071470Z"
       }
     },
     {
@@ -247,15 +360,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8162,
-      "importance": 0.8162,
-      "importance_score": 0.8162,
+      "score": 0.8129,
+      "importance": 0.8129,
+      "importance_score": 0.8129,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.79,
-        "recency": 0.9347,
+        "recency": 0.9164,
         "story_heat": 0.0
       },
       "category": "official",
@@ -281,7 +394,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T22:32:32.237864Z"
+        "scored_at": "2026-11-04T23:55:19.071470Z"
       }
     },
     {
@@ -329,15 +442,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8158,
-      "importance": 0.8158,
-      "importance_score": 0.8158,
+      "score": 0.8124,
+      "importance": 0.8124,
+      "importance_score": 0.8124,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.76,
-        "recency": 0.9655,
+        "recency": 0.9466,
         "story_heat": 0.0
       },
       "category": "official",
@@ -363,90 +476,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T22:32:32.237864Z"
-      }
-    },
-    {
-      "story_id": "story_909e1b342a31",
-      "title": "Daybreak Red 现已在 AWS GovCloud（美国东部）推出 / Daybreak Red is now available in AWS GovCloud (US-East)",
-      "url": "https://openai.com/index/daybreak-red-aws-govcloud",
-      "primary_url": "https://openai.com/index/daybreak-red-aws-govcloud",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "9ae15b42a761f5271593ea78bb607bee577e4a74",
-          "title": "Daybreak Red 现已在 AWS GovCloud（美国东部）推出 / Daybreak Red is now available in AWS GovCloud (US-East)",
-          "title_zh": "Daybreak Red 现已在 AWS GovCloud（美国东部）推出",
-          "title_en": "Daybreak Red is now available in AWS GovCloud (US-East)",
-          "title_original": "Daybreak Red is now available in AWS GovCloud (US-East)",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/daybreak-red-aws-govcloud",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-04T07:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "9ae15b42a761f5271593ea78bb607bee577e4a74",
-          "title": "Daybreak Red 现已在 AWS GovCloud（美国东部）推出 / Daybreak Red is now available in AWS GovCloud (US-East)",
-          "title_zh": "Daybreak Red 现已在 AWS GovCloud（美国东部）推出",
-          "title_en": "Daybreak Red is now available in AWS GovCloud (US-East)",
-          "title_original": "Daybreak Red is now available in AWS GovCloud (US-East)",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/daybreak-red-aws-govcloud",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-04T07:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8339,
-      "importance": 0.8339,
-      "importance_score": 0.8339,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.7993,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-04T07:00:00Z",
-      "latest_at": "2026-11-04T07:00:00Z",
-      "primary_item": {
-        "id": "9ae15b42a761f5271593ea78bb607bee577e4a74",
-        "title": "Daybreak Red 现已在 AWS GovCloud（美国东部）推出 / Daybreak Red is now available in AWS GovCloud (US-East)",
-        "title_zh": "Daybreak Red 现已在 AWS GovCloud（美国东部）推出",
-        "title_en": "Daybreak Red is now available in AWS GovCloud (US-East)",
-        "title_original": "Daybreak Red is now available in AWS GovCloud (US-East)",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/daybreak-red-aws-govcloud",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-04T22:32:32.237864Z"
+        "scored_at": "2026-11-04T23:55:19.071470Z"
       }
     },
     {
@@ -494,15 +524,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8135,
-      "importance": 0.8135,
-      "importance_score": 0.8135,
+      "score": 0.8102,
+      "importance": 0.8102,
+      "importance_score": 0.8102,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.76,
-        "recency": 0.953,
+        "recency": 0.9343,
         "story_heat": 0.0
       },
       "category": "official",
@@ -528,30 +558,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T22:32:32.237864Z"
+        "scored_at": "2026-11-04T23:55:19.071470Z"
       }
     },
     {
-      "story_id": "story_f06268fdc285",
-      "title": "减少一千条通往根的路径 / A thousand fewer paths to root",
-      "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
-      "primary_url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+      "story_id": "story_909e1b342a31",
+      "title": "Daybreak Red 现已在 AWS GovCloud（美国东部）推出 / Daybreak Red is now available in AWS GovCloud (US-East)",
+      "url": "https://openai.com/index/daybreak-red-aws-govcloud",
+      "primary_url": "https://openai.com/index/daybreak-red-aws-govcloud",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "e847b83d4b78cfeb44f598d593db6aa5d5d80526",
-          "title": "减少一千条通往根的路径 / A thousand fewer paths to root",
-          "title_zh": "减少一千条通往根的路径",
-          "title_en": "A thousand fewer paths to root",
-          "title_original": "A thousand fewer paths to root",
+          "id": "9ae15b42a761f5271593ea78bb607bee577e4a74",
+          "title": "Daybreak Red 现已在 AWS GovCloud（美国东部）推出 / Daybreak Red is now available in AWS GovCloud (US-East)",
+          "title_zh": "Daybreak Red 现已在 AWS GovCloud（美国东部）推出",
+          "title_en": "Daybreak Red is now available in AWS GovCloud (US-East)",
+          "title_original": "Daybreak Red is now available in AWS GovCloud (US-East)",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+          "url": "https://openai.com/index/daybreak-red-aws-govcloud",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-04T08:00:00Z"
+          "published_at": "2026-11-04T07:00:00Z"
         }
       ],
       "source_count": 1,
@@ -560,31 +590,31 @@
       ],
       "items": [
         {
-          "id": "e847b83d4b78cfeb44f598d593db6aa5d5d80526",
-          "title": "减少一千条通往根的路径 / A thousand fewer paths to root",
-          "title_zh": "减少一千条通往根的路径",
-          "title_en": "A thousand fewer paths to root",
-          "title_original": "A thousand fewer paths to root",
+          "id": "9ae15b42a761f5271593ea78bb607bee577e4a74",
+          "title": "Daybreak Red 现已在 AWS GovCloud（美国东部）推出 / Daybreak Red is now available in AWS GovCloud (US-East)",
+          "title_zh": "Daybreak Red 现已在 AWS GovCloud（美国东部）推出",
+          "title_en": "Daybreak Red is now available in AWS GovCloud (US-East)",
+          "title_original": "Daybreak Red is now available in AWS GovCloud (US-East)",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+          "url": "https://openai.com/index/daybreak-red-aws-govcloud",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-04T08:00:00Z"
+          "published_at": "2026-11-04T07:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.832,
-      "importance": 0.832,
-      "importance_score": 0.832,
+      "score": 0.8311,
+      "importance": 0.8311,
+      "importance_score": 0.8311,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.8109,
+        "ai_relevance": 1.0,
+        "recency": 0.7836,
         "story_heat": 0.0
       },
       "category": "official",
@@ -593,17 +623,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-04T08:00:00Z",
-      "latest_at": "2026-11-04T08:00:00Z",
+      "earliest_at": "2026-11-04T07:00:00Z",
+      "latest_at": "2026-11-04T07:00:00Z",
       "primary_item": {
-        "id": "e847b83d4b78cfeb44f598d593db6aa5d5d80526",
-        "title": "减少一千条通往根的路径 / A thousand fewer paths to root",
-        "title_zh": "减少一千条通往根的路径",
-        "title_en": "A thousand fewer paths to root",
-        "title_original": "A thousand fewer paths to root",
+        "id": "9ae15b42a761f5271593ea78bb607bee577e4a74",
+        "title": "Daybreak Red 现已在 AWS GovCloud（美国东部）推出 / Daybreak Red is now available in AWS GovCloud (US-East)",
+        "title_zh": "Daybreak Red 现已在 AWS GovCloud（美国东部）推出",
+        "title_en": "Daybreak Red is now available in AWS GovCloud (US-East)",
+        "title_original": "Daybreak Red is now available in AWS GovCloud (US-East)",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+        "url": "https://openai.com/index/daybreak-red-aws-govcloud",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       },
@@ -611,7 +641,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T22:32:32.237864Z"
+        "scored_at": "2026-11-04T23:55:19.071470Z"
       }
     },
     {
@@ -659,15 +689,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.82,
-      "importance": 0.82,
-      "importance_score": 0.82,
+      "score": 0.8175,
+      "importance": 0.8175,
+      "importance_score": 0.8175,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7224,
+        "recency": 0.7083,
         "story_heat": 0.0
       },
       "category": "official",
@@ -694,7 +724,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T22:32:32.237864Z"
+        "scored_at": "2026-11-04T23:55:19.071470Z"
       }
     },
     {
@@ -742,15 +772,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7291,
-      "importance": 0.7291,
-      "importance_score": 0.7291,
+      "score": 0.7259,
+      "importance": 0.7259,
+      "importance_score": 0.7259,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.684,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.9014,
+        "recency": 0.8838,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -775,7 +805,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T22:32:32.237864Z"
+        "scored_at": "2026-11-04T23:55:19.071470Z"
       }
     },
     {
@@ -823,15 +853,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7791,
-      "importance": 0.7791,
-      "importance_score": 0.7791,
+      "score": 0.7765,
+      "importance": 0.7765,
+      "importance_score": 0.7765,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.79,
-        "recency": 0.7281,
+        "recency": 0.7138,
         "story_heat": 0.0
       },
       "category": "official",
@@ -857,7 +887,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T22:32:32.237864Z"
+        "scored_at": "2026-11-04T23:55:19.071470Z"
       }
     },
     {
@@ -963,15 +993,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6746,
-      "importance": 0.6746,
-      "importance_score": 0.6746,
+      "score": 0.6718,
+      "importance": 0.6718,
+      "importance_score": 0.6718,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.6048,
         "source_tier": 0.58,
         "ai_relevance": 0.84,
-        "recency": 0.82,
+        "recency": 0.804,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -997,7 +1027,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T22:32:32.237864Z"
+        "scored_at": "2026-11-04T23:55:19.071470Z"
       }
     },
     {
@@ -1073,15 +1103,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6516,
-      "importance": 0.6516,
-      "importance_score": 0.6516,
+      "score": 0.6482,
+      "importance": 0.6482,
+      "importance_score": 0.6482,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5616,
         "source_tier": 0.58,
         "ai_relevance": 0.78,
-        "recency": 0.9698,
+        "recency": 0.9508,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1106,7 +1136,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T22:32:32.237864Z"
+        "scored_at": "2026-11-04T23:55:19.071470Z"
       }
     },
     {
@@ -1212,15 +1242,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.669,
-      "importance": 0.669,
-      "importance_score": 0.669,
+      "score": 0.6657,
+      "importance": 0.6657,
+      "importance_score": 0.6657,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5616,
         "source_tier": 0.58,
         "ai_relevance": 0.78,
-        "recency": 0.9274,
+        "recency": 0.9093,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1245,7 +1275,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T22:32:32.237864Z"
+        "scored_at": "2026-11-04T23:55:19.071470Z"
       }
     },
     {
@@ -1322,15 +1352,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6526,
-      "importance": 0.6526,
-      "importance_score": 0.6526,
+      "score": 0.6494,
+      "importance": 0.6494,
+      "importance_score": 0.6494,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5832,
         "source_tier": 0.58,
         "ai_relevance": 0.81,
-        "recency": 0.9055,
+        "recency": 0.8878,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1356,7 +1386,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T22:32:32.237864Z"
+        "scored_at": "2026-11-04T23:55:19.071470Z"
       }
     },
     {
@@ -1433,15 +1463,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5728,
-      "importance": 0.5728,
-      "importance_score": 0.5728,
+      "score": 0.5703,
+      "importance": 0.5703,
+      "importance_score": 0.5703,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5976,
         "source_tier": 0.32,
         "ai_relevance": 0.83,
-        "recency": 0.7342,
+        "recency": 0.7199,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1467,7 +1497,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T22:32:32.237864Z"
+        "scored_at": "2026-11-04T23:55:19.071470Z"
       }
     },
     {
@@ -1544,15 +1574,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6526,
-      "importance": 0.6526,
-      "importance_score": 0.6526,
+      "score": 0.6491,
+      "importance": 0.6491,
+      "importance_score": 0.6491,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5616,
         "source_tier": 0.58,
         "ai_relevance": 0.78,
-        "recency": 0.9749,
+        "recency": 0.9558,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1577,7 +1607,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T22:32:32.237864Z"
+        "scored_at": "2026-11-04T23:55:19.071470Z"
       }
     },
     {
@@ -1654,15 +1684,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6402,
-      "importance": 0.6402,
-      "importance_score": 0.6402,
+      "score": 0.6372,
+      "importance": 0.6372,
+      "importance_score": 0.6372,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5832,
         "source_tier": 0.58,
         "ai_relevance": 0.81,
-        "recency": 0.8368,
+        "recency": 0.8204,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1688,7 +1718,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T22:32:32.237864Z"
+        "scored_at": "2026-11-04T23:55:19.071470Z"
       }
     },
     {
@@ -1765,15 +1795,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6354,
-      "importance": 0.6354,
-      "importance_score": 0.6354,
+      "score": 0.6321,
+      "importance": 0.6321,
+      "importance_score": 0.6321,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.54,
         "source_tier": 0.58,
         "ai_relevance": 0.75,
-        "recency": 0.949,
+        "recency": 0.9304,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1798,7 +1828,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T22:32:32.237864Z"
+        "scored_at": "2026-11-04T23:55:19.071470Z"
       }
     },
     {
@@ -1875,15 +1905,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.554,
-      "importance": 0.554,
-      "importance_score": 0.554,
+      "score": 0.5509,
+      "importance": 0.5509,
+      "importance_score": 0.5509,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.45,
         "source_tier": 0.58,
         "ai_relevance": 0.56,
-        "recency": 0.8575,
+        "recency": 0.8407,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1908,7 +1938,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T22:32:32.237864Z"
+        "scored_at": "2026-11-04T23:55:19.071470Z"
       }
     },
     {
@@ -1985,15 +2015,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5507,
-      "importance": 0.5507,
-      "importance_score": 0.5507,
+      "score": 0.5477,
+      "importance": 0.5477,
+      "importance_score": 0.5477,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.45,
         "source_tier": 0.58,
         "ai_relevance": 0.56,
-        "recency": 0.8394,
+        "recency": 0.823,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -2018,7 +2048,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T22:32:32.237864Z"
+        "scored_at": "2026-11-04T23:55:19.071470Z"
       }
     }
   ]
