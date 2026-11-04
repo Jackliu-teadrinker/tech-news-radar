@@ -1,15 +1,8 @@
 {
-  "generated_at": "2026-11-04T09:45:22.992147Z",
+  "generated_at": "2026-11-04T15:19:35.500428Z",
   "merge_strategy": "url_or_title_similarity_v0_6",
-  "total_events": 10,
+  "total_events": 8,
   "events": [
-    {
-      "story_id": "story_3ed6ab2743e5",
-      "item_id": "a53116fd0e260c6b981ad5b72d2ac0aa69d21b9f",
-      "merged_into": "story_3ed6ab2743e5",
-      "reason": "canonical_url",
-      "similarity": 1.0
-    },
     {
       "story_id": "story_817ba8f97aef",
       "item_id": "5ae914a4b3d8ec669ac586103dc1d20a41d83467",
@@ -18,23 +11,9 @@
       "similarity": 1.0
     },
     {
-      "story_id": "story_561e7868d6f6",
-      "item_id": "d0907ac5aab2dd1435bd2fa69df2e337449715c3",
-      "merged_into": "story_561e7868d6f6",
-      "reason": "canonical_url",
-      "similarity": 1.0
-    },
-    {
       "story_id": "story_a8b082ecc7e6",
       "item_id": "54f3809efad9f83b5601c20b5c2750327a51afb9",
       "merged_into": "story_a8b082ecc7e6",
-      "reason": "canonical_url",
-      "similarity": 1.0
-    },
-    {
-      "story_id": "story_73fc6a7539af",
-      "item_id": "0045c26ce8c4c96ad619ce0b217b771ad77d7783",
-      "merged_into": "story_73fc6a7539af",
       "reason": "canonical_url",
       "similarity": 1.0
     },
@@ -71,6 +50,13 @@
       "item_id": "29c347950e5d3fb443e2b1a2e3f5a2bb2d6465b6",
       "merged_into": "story_89eba072c02e",
       "reason": "canonical_url",
+      "similarity": 1.0
+    },
+    {
+      "story_id": "story_9deeabc8b9a5",
+      "item_id": "75d6af80cffc48854eec2e937c27c10bb1f8ca32",
+      "merged_into": "story_9deeabc8b9a5",
+      "reason": "title_similarity",
       "similarity": 1.0
     }
   ]
