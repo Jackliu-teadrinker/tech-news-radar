@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-07T00:49:47.733798Z",
+  "generated_at": "2026-11-07T09:09:55.720959Z",
   "ok": true,
   "active_count": 1,
   "providers": [
@@ -18,11 +18,11 @@
       "provider": "OpenAI",
       "title": "Elevated error rates with some U.S. business Mastercards",
       "title_zh": "Elevated error rates with some U.S. business Mastercards",
-      "status": "identified",
+      "status": "monitoring",
       "impact": "none",
       "started_at": "2026-11-06T18:38:43Z",
-      "updated_at": "2026-11-06T22:59:59Z",
-      "message": "**Investigating — We’re seeing payment declines on some U.S. business Mastercards. Affected cards have numbers beginning with 544015, 546400, 543502, 543799, or 512998. Some cards beginning with 513989 are also affected.** **For API customers, this can prevent automatic recharges and one-time credit purchases. If your prepaid balance runs out, your API requests may fail.** **If you use one of these cards, we recommend adding a card from a different issuer before your next payment, even if you haven’t seen a decline. If an API credit purchase has already failed, use the new card to retry the purchase.** **We’re working with our payment partners and will share updates here.**",
+      "updated_at": "2026-11-07T01:29:31Z",
+      "message": "We’ve applied a mitigation and are monitoring the affected services to confirm recovery.",
       "affected_components": [],
       "url": "https://status.openai.com/incidents/01M6S2FV5TZWQ753NHRB7BF5K7"
     }
