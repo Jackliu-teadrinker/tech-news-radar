@@ -1,8 +1,119 @@
 {
-  "generated_at": "2026-11-08T09:24:52.697063Z",
+  "generated_at": "2026-11-08T14:13:23.523794Z",
   "window_hours": 24,
-  "total_items": 4,
+  "total_items": 7,
   "items": [
+    {
+      "story_id": "story_553c073cf47e",
+      "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+      "url": "https://github.com/synchopate/llama-modchip",
+      "primary_url": "https://github.com/synchopate/llama-modchip",
+      "source": "Hacker News front page",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "35fc9aefea2565ff9a7e27a799bf8f2a319cc1b7",
+          "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+          "title_zh": null,
+          "title_en": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+          "title_original": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/synchopate/llama-modchip",
+          "source": "Hacker News front page",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-11-08T10:22:04Z"
+        },
+        {
+          "id": "8f04bec23a1edb9e9568e499ff9df6c3d73d5fbe",
+          "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+          "title_zh": null,
+          "title_en": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+          "title_original": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50411961",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-08T10:22:04Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News front page",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "35fc9aefea2565ff9a7e27a799bf8f2a319cc1b7",
+          "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+          "title_zh": null,
+          "title_en": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+          "title_original": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/synchopate/llama-modchip",
+          "source": "Hacker News front page",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-11-08T10:22:04Z"
+        },
+        {
+          "id": "8f04bec23a1edb9e9568e499ff9df6c3d73d5fbe",
+          "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+          "title_zh": null,
+          "title_en": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+          "title_original": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50411961",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-08T10:22:04Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6723,
+      "importance": 0.6723,
+      "importance_score": 0.6723,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.6048,
+        "source_tier": 0.58,
+        "ai_relevance": 0.84,
+        "recency": 0.9458,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-08T10:22:04Z",
+      "latest_at": "2026-11-08T10:22:04Z",
+      "primary_item": {
+        "id": "35fc9aefea2565ff9a7e27a799bf8f2a319cc1b7",
+        "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+        "title_zh": null,
+        "title_en": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+        "title_original": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.com/synchopate/llama-modchip",
+        "source": "Hacker News front page",
+        "source_name": "Curated Media"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-08T14:14:39.489377Z"
+      }
+    },
     {
       "story_id": "story_928495a51ded",
       "title": "Claude·科德（Claude Code）的“Don't Ask Again”在1,122个公开的GitHub文件中泄露了密码 / Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
@@ -106,15 +217,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.677,
-      "importance": 0.677,
-      "importance_score": 0.677,
+      "score": 0.6669,
+      "importance": 0.6669,
+      "importance_score": 0.6669,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.6048,
         "source_tier": 0.58,
         "ai_relevance": 0.84,
-        "recency": 0.833,
+        "recency": 0.7771,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -140,7 +251,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-08T09:26:16.265603Z"
+        "scored_at": "2026-11-08T14:14:39.489377Z"
       }
     },
     {
@@ -217,15 +328,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6271,
-      "importance": 0.6271,
-      "importance_score": 0.6271,
+      "score": 0.6179,
+      "importance": 0.6179,
+      "importance_score": 0.6179,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5832,
         "source_tier": 0.58,
         "ai_relevance": 0.81,
-        "recency": 0.7642,
+        "recency": 0.713,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -251,7 +362,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-08T09:26:16.265603Z"
+        "scored_at": "2026-11-08T14:14:39.489377Z"
       }
     },
     {
@@ -357,15 +468,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6443,
-      "importance": 0.6443,
-      "importance_score": 0.6443,
+      "score": 0.6348,
+      "importance": 0.6348,
+      "importance_score": 0.6348,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5616,
         "source_tier": 0.58,
         "ai_relevance": 0.78,
-        "recency": 0.7902,
+        "recency": 0.7372,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -390,7 +501,227 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-08T09:26:16.265603Z"
+        "scored_at": "2026-11-08T14:14:39.489377Z"
+      }
+    },
+    {
+      "story_id": "story_44b10c0b36c9",
+      "title": "我不会在我的编码中使用LLM / I will not be using LLMs in my coding",
+      "url": "https://www.polso.info/why-i-will-not-be-using-llms-coding",
+      "primary_url": "https://www.polso.info/why-i-will-not-be-using-llms-coding",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "ac79346a3ad19a65c99641bc0c1849913acd53e7",
+          "title": "我不会在我的编码中使用LLM / I will not be using LLMs in my coding",
+          "title_zh": "我不会在我的编码中使用LLM",
+          "title_en": "I will not be using LLMs in my coding",
+          "title_original": "I will not be using LLMs in my coding",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.polso.info/why-i-will-not-be-using-llms-coding",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-08T12:14:10Z"
+        },
+        {
+          "id": "26b1400c69f444daae639cd3c9d6336d88831910",
+          "title": "我不会在我的编码中使用LLM / I will not be using LLMs in my coding",
+          "title_zh": "我不会在我的编码中使用LLM",
+          "title_en": "I will not be using LLMs in my coding",
+          "title_original": "I will not be using LLMs in my coding",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50412591",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-08T12:14:10Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "ac79346a3ad19a65c99641bc0c1849913acd53e7",
+          "title": "我不会在我的编码中使用LLM / I will not be using LLMs in my coding",
+          "title_zh": "我不会在我的编码中使用LLM",
+          "title_en": "I will not be using LLMs in my coding",
+          "title_original": "I will not be using LLMs in my coding",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.polso.info/why-i-will-not-be-using-llms-coding",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-08T12:14:10Z"
+        },
+        {
+          "id": "26b1400c69f444daae639cd3c9d6336d88831910",
+          "title": "我不会在我的编码中使用LLM / I will not be using LLMs in my coding",
+          "title_zh": "我不会在我的编码中使用LLM",
+          "title_en": "I will not be using LLMs in my coding",
+          "title_original": "I will not be using LLMs in my coding",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50412591",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-08T12:14:10Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5532,
+      "importance": 0.5532,
+      "importance_score": 0.5532,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.4896,
+        "source_tier": 0.32,
+        "ai_relevance": 0.68,
+        "recency": 0.9717,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-08T12:14:10Z",
+      "latest_at": "2026-11-08T12:14:10Z",
+      "primary_item": {
+        "id": "ac79346a3ad19a65c99641bc0c1849913acd53e7",
+        "title": "我不会在我的编码中使用LLM / I will not be using LLMs in my coding",
+        "title_zh": "我不会在我的编码中使用LLM",
+        "title_en": "I will not be using LLMs in my coding",
+        "title_original": "I will not be using LLMs in my coding",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.polso.info/why-i-will-not-be-using-llms-coding",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-08T14:14:39.489377Z"
+      }
+    },
+    {
+      "story_id": "story_0215df93bf8e",
+      "title": "代理内存需要 OpenTelemetry 时刻 / Agent memory needs its OpenTelemetry moment",
+      "url": "https://www.lorekit.io/blog/open-agent-memory-format",
+      "primary_url": "https://www.lorekit.io/blog/open-agent-memory-format",
+      "source": "Hacker News front page",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "bb4389000b60c5a325a936b8fe11edb9f5b8579a",
+          "title": "代理内存需要 OpenTelemetry 时刻 / Agent memory needs its OpenTelemetry moment",
+          "title_zh": "代理内存需要 OpenTelemetry 时刻",
+          "title_en": "Agent memory needs its OpenTelemetry moment",
+          "title_original": "Agent memory needs its OpenTelemetry moment",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.lorekit.io/blog/open-agent-memory-format",
+          "source": "Hacker News front page",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-11-08T08:40:23Z"
+        },
+        {
+          "id": "2446af5c7a1304ab3e182ec39e3c3488ea0f6967",
+          "title": "代理内存需要 OpenTelemetry 时刻 / Agent memory needs its OpenTelemetry moment",
+          "title_zh": "代理内存需要 OpenTelemetry 时刻",
+          "title_en": "Agent memory needs its OpenTelemetry moment",
+          "title_original": "Agent memory needs its OpenTelemetry moment",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50411467",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-08T08:40:23Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News front page",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "bb4389000b60c5a325a936b8fe11edb9f5b8579a",
+          "title": "代理内存需要 OpenTelemetry 时刻 / Agent memory needs its OpenTelemetry moment",
+          "title_zh": "代理内存需要 OpenTelemetry 时刻",
+          "title_en": "Agent memory needs its OpenTelemetry moment",
+          "title_original": "Agent memory needs its OpenTelemetry moment",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.lorekit.io/blog/open-agent-memory-format",
+          "source": "Hacker News front page",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-11-08T08:40:23Z"
+        },
+        {
+          "id": "2446af5c7a1304ab3e182ec39e3c3488ea0f6967",
+          "title": "代理内存需要 OpenTelemetry 时刻 / Agent memory needs its OpenTelemetry moment",
+          "title_zh": "代理内存需要 OpenTelemetry 时刻",
+          "title_en": "Agent memory needs its OpenTelemetry moment",
+          "title_original": "Agent memory needs its OpenTelemetry moment",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50411467",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-08T08:40:23Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6307,
+      "importance": 0.6307,
+      "importance_score": 0.6307,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.54,
+        "source_tier": 0.58,
+        "ai_relevance": 0.75,
+        "recency": 0.923,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-08T08:40:23Z",
+      "latest_at": "2026-11-08T08:40:23Z",
+      "primary_item": {
+        "id": "bb4389000b60c5a325a936b8fe11edb9f5b8579a",
+        "title": "代理内存需要 OpenTelemetry 时刻 / Agent memory needs its OpenTelemetry moment",
+        "title_zh": "代理内存需要 OpenTelemetry 时刻",
+        "title_en": "Agent memory needs its OpenTelemetry moment",
+        "title_original": "Agent memory needs its OpenTelemetry moment",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.lorekit.io/blog/open-agent-memory-format",
+        "source": "Hacker News front page",
+        "source_name": "Curated Media"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-08T14:14:39.489377Z"
       }
     },
     {
@@ -467,15 +798,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6416,
-      "importance": 0.6416,
-      "importance_score": 0.6416,
+      "score": 0.6306,
+      "importance": 0.6306,
+      "importance_score": 0.6306,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5616,
         "source_tier": 0.58,
         "ai_relevance": 0.78,
-        "recency": 0.9141,
+        "recency": 0.8528,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -500,7 +831,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-08T09:26:16.265603Z"
+        "scored_at": "2026-11-08T14:14:39.489377Z"
       }
     }
   ]
