@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T21:00:08.992947Z",
+  "generated_at": "2026-11-10T01:57:43.654968Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8649,
-      "importance": 0.8649,
-      "importance_score": 0.8649,
+      "score": 0.8528,
+      "importance": 0.8528,
+      "importance_score": 0.8528,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9715,
+        "recency": 0.9044,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,173 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-09T21:02:36.862216Z"
+        "scored_at": "2026-11-10T02:08:21.646091Z"
+      }
+    },
+    {
+      "story_id": "story_2b2aad2325b1",
+      "title": "Claude Fable 5.2 in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-11-09-claude-fable-5-2-in-github-copilot",
+      "primary_url": "https://github.blog/changelog/2026-11-09-claude-fable-5-2-in-github-copilot",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "2b16a7a9f935eae9e71325c01e46eed898720acf",
+          "title": "Claude Fable 5.2 in GitHub Copilot",
+          "title_zh": null,
+          "title_en": "Claude Fable 5.2 in GitHub Copilot",
+          "title_original": "Claude Fable 5.2 in GitHub Copilot",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-09-claude-fable-5-2-in-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-09T16:46:43Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "2b16a7a9f935eae9e71325c01e46eed898720acf",
+          "title": "Claude Fable 5.2 in GitHub Copilot",
+          "title_zh": null,
+          "title_en": "Claude Fable 5.2 in GitHub Copilot",
+          "title_original": "Claude Fable 5.2 in GitHub Copilot",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-09-claude-fable-5-2-in-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-09T16:46:43Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8476,
+      "importance": 0.8476,
+      "importance_score": 0.8476,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 1.0,
+        "recency": 0.8758,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-09T16:46:43Z",
+      "latest_at": "2026-11-09T16:46:43Z",
+      "primary_item": {
+        "id": "2b16a7a9f935eae9e71325c01e46eed898720acf",
+        "title": "Claude Fable 5.2 in GitHub Copilot",
+        "title_zh": null,
+        "title_en": "Claude Fable 5.2 in GitHub Copilot",
+        "title_original": "Claude Fable 5.2 in GitHub Copilot",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-11-09-claude-fable-5-2-in-github-copilot",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-10T02:08:21.646091Z"
+      }
+    },
+    {
+      "story_id": "story_81c2a687b5a2",
+      "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+      "url": "https://openai.com/index/control-room",
+      "primary_url": "https://openai.com/index/control-room",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "9f7666cac7c829e5dc72760195dcbf2eded8d707",
+          "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+          "title_zh": null,
+          "title_en": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+          "title_original": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/control-room",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-09T13:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "9f7666cac7c829e5dc72760195dcbf2eded8d707",
+          "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+          "title_zh": null,
+          "title_en": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+          "title_original": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/control-room",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-09T13:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8353,
+      "importance": 0.8353,
+      "importance_score": 0.8353,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.8293,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-09T13:00:00Z",
+      "latest_at": "2026-11-09T13:00:00Z",
+      "primary_item": {
+        "id": "9f7666cac7c829e5dc72760195dcbf2eded8d707",
+        "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+        "title_zh": null,
+        "title_en": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+        "title_original": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/control-room",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-10T02:08:21.646091Z"
       }
     },
     {
@@ -131,15 +297,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8133,
-      "importance": 0.8133,
-      "importance_score": 0.8133,
+      "score": 0.8019,
+      "importance": 0.8019,
+      "importance_score": 0.8019,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.79,
-        "recency": 0.9183,
+        "recency": 0.8548,
         "story_heat": 0.0
       },
       "category": "official",
@@ -165,26 +331,26 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-09T21:02:36.862216Z"
+        "scored_at": "2026-11-10T02:08:21.646091Z"
       }
     },
     {
-      "story_id": "story_e554b8286c64",
-      "title": "Kuken Industries 在几分钟内搜索 70 年的图纸 / Kuken Industries searches 70 years of drawings in minutes",
-      "url": "https://openai.com/index/kuken",
-      "primary_url": "https://openai.com/index/kuken",
+      "story_id": "story_df14dd6e528b",
+      "title": "CodeRabbit scales agentic software development and ships 20x more",
+      "url": "https://openai.com/index/coderabbit-codex-daybreak",
+      "primary_url": "https://openai.com/index/coderabbit-codex-daybreak",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "976f5c8f16a92005f0e52d5133ef3b494aa2232d",
-          "title": "Kuken Industries 在几分钟内搜索 70 年的图纸 / Kuken Industries searches 70 years of drawings in minutes",
-          "title_zh": "Kuken Industries 在几分钟内搜索 70 年的图纸",
-          "title_en": "Kuken Industries searches 70 years of drawings in minutes",
-          "title_original": "Kuken Industries searches 70 years of drawings in minutes",
+          "id": "54b42c0d20e87c61af841220ddb1ed55ddfaccc3",
+          "title": "CodeRabbit scales agentic software development and ships 20x more",
+          "title_zh": null,
+          "title_en": "CodeRabbit scales agentic software development and ships 20x more",
+          "title_original": "CodeRabbit scales agentic software development and ships 20x more",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/kuken",
+          "url": "https://openai.com/index/coderabbit-codex-daybreak",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
@@ -197,14 +363,14 @@
       ],
       "items": [
         {
-          "id": "976f5c8f16a92005f0e52d5133ef3b494aa2232d",
-          "title": "Kuken Industries 在几分钟内搜索 70 年的图纸 / Kuken Industries searches 70 years of drawings in minutes",
-          "title_zh": "Kuken Industries 在几分钟内搜索 70 年的图纸",
-          "title_en": "Kuken Industries searches 70 years of drawings in minutes",
-          "title_original": "Kuken Industries searches 70 years of drawings in minutes",
+          "id": "54b42c0d20e87c61af841220ddb1ed55ddfaccc3",
+          "title": "CodeRabbit scales agentic software development and ships 20x more",
+          "title_zh": null,
+          "title_en": "CodeRabbit scales agentic software development and ships 20x more",
+          "title_original": "CodeRabbit scales agentic software development and ships 20x more",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/kuken",
+          "url": "https://openai.com/index/coderabbit-codex-daybreak",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
@@ -213,15 +379,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8352,
-      "importance": 0.8352,
-      "importance_score": 0.8352,
+      "score": 0.8289,
+      "importance": 0.8289,
+      "importance_score": 0.8289,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.8288,
+        "ai_relevance": 1.0,
+        "recency": 0.7715,
         "story_heat": 0.0
       },
       "category": "official",
@@ -233,14 +399,14 @@
       "earliest_at": "2026-11-09T08:00:00Z",
       "latest_at": "2026-11-09T08:00:00Z",
       "primary_item": {
-        "id": "976f5c8f16a92005f0e52d5133ef3b494aa2232d",
-        "title": "Kuken Industries 在几分钟内搜索 70 年的图纸 / Kuken Industries searches 70 years of drawings in minutes",
-        "title_zh": "Kuken Industries 在几分钟内搜索 70 年的图纸",
-        "title_en": "Kuken Industries searches 70 years of drawings in minutes",
-        "title_original": "Kuken Industries searches 70 years of drawings in minutes",
+        "id": "54b42c0d20e87c61af841220ddb1ed55ddfaccc3",
+        "title": "CodeRabbit scales agentic software development and ships 20x more",
+        "title_zh": null,
+        "title_en": "CodeRabbit scales agentic software development and ships 20x more",
+        "title_original": "CodeRabbit scales agentic software development and ships 20x more",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/kuken",
+        "url": "https://openai.com/index/coderabbit-codex-daybreak",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       },
@@ -248,7 +414,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-09T21:02:36.862216Z"
+        "scored_at": "2026-11-10T02:08:21.646091Z"
       }
     },
     {
@@ -296,15 +462,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8074,
-      "importance": 0.8074,
-      "importance_score": 0.8074,
+      "score": 0.7964,
+      "importance": 0.7964,
+      "importance_score": 0.7964,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.79,
-        "recency": 0.8854,
+        "recency": 0.8242,
         "story_heat": 0.0
       },
       "category": "official",
@@ -330,141 +496,112 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-09T21:02:36.862216Z"
+        "scored_at": "2026-11-10T02:08:21.646091Z"
       }
     },
     {
-      "story_id": "story_774c0e76294c",
-      "title": "​行业最大规模具身模型挑战赛迎来决赛:15支战队将展开48小时真机角逐",
-      "url": "https://www.aibase.com/news/32178",
-      "primary_url": "https://www.aibase.com/news/32178",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_545a875aa516",
+      "title": "Secret scanning detects secrets in GitHub Actions workflow logs",
+      "url": "https://github.blog/changelog/2026-11-09-secret-scanning-detects-secrets-in-github-actions-workflow-logs",
+      "primary_url": "https://github.blog/changelog/2026-11-09-secret-scanning-detects-secrets-in-github-actions-workflow-logs",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "d753d42b6a65cb304e3101e48c75d503d7aab471",
-          "title": "​行业最大规模具身模型挑战赛迎来决赛:15支战队将展开48小时真机角逐",
-          "title_zh": "​行业最大规模具身模型挑战赛迎来决赛:15支战队将展开48小时真机角逐",
-          "title_en": null,
-          "title_original": "​行业最大规模具身模型挑战赛迎来决赛:15支战队将展开48小时真机角逐",
+          "id": "54f90d8c719562032e8d44bbc09276f0b94e565f",
+          "title": "Secret scanning detects secrets in GitHub Actions workflow logs",
+          "title_zh": null,
+          "title_en": "Secret scanning detects secrets in GitHub Actions workflow logs",
+          "title_original": "Secret scanning detects secrets in GitHub Actions workflow logs",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32178",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-09T10:12:16.602326Z"
-        },
-        {
-          "id": "6455e6d66328bbc9f2a8d45ef5ff581da51d8892",
-          "title": "行业最大规模具身模型挑战赛迎来决赛：15支战队将展开48小时真机角逐",
-          "title_zh": "行业最大规模具身模型挑战赛迎来决赛：15支战队将展开48小时真机角逐",
-          "title_en": null,
-          "title_original": "行业最大规模具身模型挑战赛迎来决赛：15支战队将展开48小时真机角逐",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.leiphone.com/category/industrynews/5ejIhKWAtmfZvdqx.html",
-          "source": "雷峰网",
-          "source_name": "Sector Sources",
-          "site_id": "sector_sources",
-          "published_at": "2026-11-09T09:16:00Z"
+          "url": "https://github.blog/changelog/2026-11-09-secret-scanning-detects-secrets-in-github-actions-workflow-logs",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-09T09:01:37Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "AIbase",
-        "雷峰网"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "d753d42b6a65cb304e3101e48c75d503d7aab471",
-          "title": "​行业最大规模具身模型挑战赛迎来决赛:15支战队将展开48小时真机角逐",
-          "title_zh": "​行业最大规模具身模型挑战赛迎来决赛:15支战队将展开48小时真机角逐",
-          "title_en": null,
-          "title_original": "​行业最大规模具身模型挑战赛迎来决赛:15支战队将展开48小时真机角逐",
+          "id": "54f90d8c719562032e8d44bbc09276f0b94e565f",
+          "title": "Secret scanning detects secrets in GitHub Actions workflow logs",
+          "title_zh": null,
+          "title_en": "Secret scanning detects secrets in GitHub Actions workflow logs",
+          "title_original": "Secret scanning detects secrets in GitHub Actions workflow logs",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32178",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-09T10:12:16.602326Z"
-        },
-        {
-          "id": "6455e6d66328bbc9f2a8d45ef5ff581da51d8892",
-          "title": "行业最大规模具身模型挑战赛迎来决赛：15支战队将展开48小时真机角逐",
-          "title_zh": "行业最大规模具身模型挑战赛迎来决赛：15支战队将展开48小时真机角逐",
-          "title_en": null,
-          "title_original": "行业最大规模具身模型挑战赛迎来决赛：15支战队将展开48小时真机角逐",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.leiphone.com/category/industrynews/5ejIhKWAtmfZvdqx.html",
-          "source": "雷峰网",
-          "source_name": "Sector Sources",
-          "site_id": "sector_sources",
-          "published_at": "2026-11-09T09:16:00Z"
+          "url": "https://github.blog/changelog/2026-11-09-secret-scanning-detects-secrets-in-github-actions-workflow-logs",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-09T09:01:37Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7458,
-      "importance": 0.7458,
-      "importance_score": 0.7458,
-      "importance_label": "行业动态",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7769,
+      "importance": 0.7769,
+      "importance_score": 0.7769,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "editorial": 0.684,
-        "source_tier": 0.78,
-        "ai_relevance": 0.95,
-        "recency": 0.8556,
-        "story_heat": 0.25
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.73,
+        "recency": 0.7831,
+        "story_heat": 0.0
       },
-      "category": "industry",
+      "category": "official",
       "reasons": [
-        "multi_source",
-        "high_ai_relevance"
+        "official_source",
+        "high_importance"
       ],
-      "earliest_at": "2026-11-09T09:16:00Z",
-      "latest_at": "2026-11-09T10:12:16.602326Z",
+      "earliest_at": "2026-11-09T09:01:37Z",
+      "latest_at": "2026-11-09T09:01:37Z",
       "primary_item": {
-        "id": "d753d42b6a65cb304e3101e48c75d503d7aab471",
-        "title": "​行业最大规模具身模型挑战赛迎来决赛:15支战队将展开48小时真机角逐",
-        "title_zh": "​行业最大规模具身模型挑战赛迎来决赛:15支战队将展开48小时真机角逐",
-        "title_en": null,
-        "title_original": "​行业最大规模具身模型挑战赛迎来决赛:15支战队将展开48小时真机角逐",
+        "id": "54f90d8c719562032e8d44bbc09276f0b94e565f",
+        "title": "Secret scanning detects secrets in GitHub Actions workflow logs",
+        "title_zh": null,
+        "title_en": "Secret scanning detects secrets in GitHub Actions workflow logs",
+        "title_original": "Secret scanning detects secrets in GitHub Actions workflow logs",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32178",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "url": "https://github.blog/changelog/2026-11-09-secret-scanning-detects-secrets-in-github-actions-workflow-logs",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-09T21:02:36.862216Z"
+        "scored_at": "2026-11-10T02:08:21.646091Z"
       }
     },
     {
-      "story_id": "story_3f0dbd80a497",
-      "title": "DeepSeek 开源智能体应用 Harness 日活突破 154 万：上线不到三月，单日大模型消耗飙升至 92T 词元",
-      "url": "https://www.aibase.com/news/32172",
-      "primary_url": "https://www.aibase.com/news/32172",
+      "story_id": "story_0c517d217bb3",
+      "title": "Anthropic 发布 Claude Fable5.2与 Mythos5.2:1000个子智能体8天写出可启动操作系统",
+      "url": "https://www.aibase.com/news/32190",
+      "primary_url": "https://www.aibase.com/news/32190",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "4b7a80444e22cf178c908b5c55f7886059e5f017",
-          "title": "DeepSeek 开源智能体应用 Harness 日活突破 154 万：上线不到三月，单日大模型消耗飙升至 92T 词元",
-          "title_zh": "DeepSeek 开源智能体应用 Harness 日活突破 154 万：上线不到三月，单日大模型消耗飙升至 92T 词元",
+          "id": "9302925ee315c6e5b64eac0ff8ec7d869432c040",
+          "title": "Anthropic 发布 Claude Fable5.2与 Mythos5.2:1000个子智能体8天写出可启动操作系统",
+          "title_zh": "Anthropic 发布 Claude Fable5.2与 Mythos5.2:1000个子智能体8天写出可启动操作系统",
           "title_en": null,
-          "title_original": "DeepSeek 开源智能体应用 Harness 日活突破 154 万：上线不到三月，单日大模型消耗飙升至 92T 词元",
+          "title_original": "Anthropic 发布 Claude Fable5.2与 Mythos5.2:1000个子智能体8天写出可启动操作系统",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32172",
+          "url": "https://www.aibase.com/news/32190",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-09T10:12:16.602326Z"
+          "published_at": "2026-11-10T01:57:43.654968Z"
         }
       ],
       "source_count": 1,
@@ -473,48 +610,48 @@
       ],
       "items": [
         {
-          "id": "4b7a80444e22cf178c908b5c55f7886059e5f017",
-          "title": "DeepSeek 开源智能体应用 Harness 日活突破 154 万：上线不到三月，单日大模型消耗飙升至 92T 词元",
-          "title_zh": "DeepSeek 开源智能体应用 Harness 日活突破 154 万：上线不到三月，单日大模型消耗飙升至 92T 词元",
+          "id": "9302925ee315c6e5b64eac0ff8ec7d869432c040",
+          "title": "Anthropic 发布 Claude Fable5.2与 Mythos5.2:1000个子智能体8天写出可启动操作系统",
+          "title_zh": "Anthropic 发布 Claude Fable5.2与 Mythos5.2:1000个子智能体8天写出可启动操作系统",
           "title_en": null,
-          "title_original": "DeepSeek 开源智能体应用 Harness 日活突破 154 万：上线不到三月，单日大模型消耗飙升至 92T 词元",
+          "title_original": "Anthropic 发布 Claude Fable5.2与 Mythos5.2:1000个子智能体8天写出可启动操作系统",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32172",
+          "url": "https://www.aibase.com/news/32190",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-09T10:12:16.602326Z"
+          "published_at": "2026-11-10T01:57:43.654968Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7208,
-      "importance": 0.7208,
-      "importance_score": 0.7208,
+      "score": 0.7468,
+      "importance": 0.7468,
+      "importance_score": 0.7468,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.684,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.8556,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-11-09T10:12:16.602326Z",
-      "latest_at": "2026-11-09T10:12:16.602326Z",
+      "earliest_at": "2026-11-10T01:57:43.654968Z",
+      "latest_at": "2026-11-10T01:57:43.654968Z",
       "primary_item": {
-        "id": "4b7a80444e22cf178c908b5c55f7886059e5f017",
-        "title": "DeepSeek 开源智能体应用 Harness 日活突破 154 万：上线不到三月，单日大模型消耗飙升至 92T 词元",
-        "title_zh": "DeepSeek 开源智能体应用 Harness 日活突破 154 万：上线不到三月，单日大模型消耗飙升至 92T 词元",
+        "id": "9302925ee315c6e5b64eac0ff8ec7d869432c040",
+        "title": "Anthropic 发布 Claude Fable5.2与 Mythos5.2:1000个子智能体8天写出可启动操作系统",
+        "title_zh": "Anthropic 发布 Claude Fable5.2与 Mythos5.2:1000个子智能体8天写出可启动操作系统",
         "title_en": null,
-        "title_original": "DeepSeek 开源智能体应用 Harness 日活突破 154 万：上线不到三月，单日大模型消耗飙升至 92T 词元",
+        "title_original": "Anthropic 发布 Claude Fable5.2与 Mythos5.2:1000个子智能体8天写出可启动操作系统",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32172",
+        "url": "https://www.aibase.com/news/32190",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -522,7 +659,392 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-09T21:02:36.862216Z"
+        "scored_at": "2026-11-10T02:08:21.646091Z"
+      }
+    },
+    {
+      "story_id": "story_e554b8286c64",
+      "title": "Kuken Industries 在几分钟内搜索 70 年的图纸 / Kuken Industries searches 70 years of drawings in minutes",
+      "url": "https://openai.com/index/kuken",
+      "primary_url": "https://openai.com/index/kuken",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "976f5c8f16a92005f0e52d5133ef3b494aa2232d",
+          "title": "Kuken Industries 在几分钟内搜索 70 年的图纸 / Kuken Industries searches 70 years of drawings in minutes",
+          "title_zh": "Kuken Industries 在几分钟内搜索 70 年的图纸",
+          "title_en": "Kuken Industries searches 70 years of drawings in minutes",
+          "title_original": "Kuken Industries searches 70 years of drawings in minutes",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/kuken",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-09T08:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "976f5c8f16a92005f0e52d5133ef3b494aa2232d",
+          "title": "Kuken Industries 在几分钟内搜索 70 年的图纸 / Kuken Industries searches 70 years of drawings in minutes",
+          "title_zh": "Kuken Industries 在几分钟内搜索 70 年的图纸",
+          "title_en": "Kuken Industries searches 70 years of drawings in minutes",
+          "title_original": "Kuken Industries searches 70 years of drawings in minutes",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/kuken",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-09T08:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8249,
+      "importance": 0.8249,
+      "importance_score": 0.8249,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.7715,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-09T08:00:00Z",
+      "latest_at": "2026-11-09T08:00:00Z",
+      "primary_item": {
+        "id": "976f5c8f16a92005f0e52d5133ef3b494aa2232d",
+        "title": "Kuken Industries 在几分钟内搜索 70 年的图纸 / Kuken Industries searches 70 years of drawings in minutes",
+        "title_zh": "Kuken Industries 在几分钟内搜索 70 年的图纸",
+        "title_en": "Kuken Industries searches 70 years of drawings in minutes",
+        "title_original": "Kuken Industries searches 70 years of drawings in minutes",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/kuken",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-10T02:08:21.646091Z"
+      }
+    },
+    {
+      "story_id": "story_d0aa7a131ccd",
+      "title": "Anthropic 发布 Fable / Mythos 新版：支持超千个智能体协同，多项硬核性能大升级",
+      "url": "https://www.aibase.com/news/32193",
+      "primary_url": "https://www.aibase.com/news/32193",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "818d4dd04644a1a7ed1e169db1ad1949ef82e162",
+          "title": "Anthropic 发布 Fable / Mythos 新版：支持超千个智能体协同，多项硬核性能大升级",
+          "title_zh": "Anthropic 发布 Fable / Mythos 新版：支持超千个智能体协同，多项硬核性能大升级",
+          "title_en": null,
+          "title_original": "Anthropic 发布 Fable / Mythos 新版：支持超千个智能体协同，多项硬核性能大升级",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32193",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-10T01:57:43.654968Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "818d4dd04644a1a7ed1e169db1ad1949ef82e162",
+          "title": "Anthropic 发布 Fable / Mythos 新版：支持超千个智能体协同，多项硬核性能大升级",
+          "title_zh": "Anthropic 发布 Fable / Mythos 新版：支持超千个智能体协同，多项硬核性能大升级",
+          "title_en": null,
+          "title_original": "Anthropic 发布 Fable / Mythos 新版：支持超千个智能体协同，多项硬核性能大升级",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32193",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-10T01:57:43.654968Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7468,
+      "importance": 0.7468,
+      "importance_score": 0.7468,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.684,
+        "source_tier": 0.78,
+        "ai_relevance": 0.95,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-10T01:57:43.654968Z",
+      "latest_at": "2026-11-10T01:57:43.654968Z",
+      "primary_item": {
+        "id": "818d4dd04644a1a7ed1e169db1ad1949ef82e162",
+        "title": "Anthropic 发布 Fable / Mythos 新版：支持超千个智能体协同，多项硬核性能大升级",
+        "title_zh": "Anthropic 发布 Fable / Mythos 新版：支持超千个智能体协同，多项硬核性能大升级",
+        "title_en": null,
+        "title_original": "Anthropic 发布 Fable / Mythos 新版：支持超千个智能体协同，多项硬核性能大升级",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32193",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-10T02:08:21.646091Z"
+      }
+    },
+    {
+      "story_id": "story_1dd063f5f1d1",
+      "title": "Claude Fable 5.2 在人工分析中获得65分，创下迄今为止的最高分 / Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
+      "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
+      "primary_url": "https://artificialanalysis.ai/models/claude-fable-5-2",
+      "source": "Hacker News front page",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "55be31976761c2ae724b7389ce7c9bef624b6248",
+          "title": "Claude Fable 5.2 在人工分析中获得65分，创下迄今为止的最高分 / Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
+          "title_zh": "Claude Fable 5.2 在人工分析中获得65分，创下迄今为止的最高分",
+          "title_en": "Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
+          "title_original": "Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
+          "source": "Hacker News front page",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-11-09T20:04:55Z"
+        },
+        {
+          "id": "ce253f458a3bf647c6ca500a993d11ced75204cf",
+          "title": "Claude Fable 5.2 在人工分析中获得65分，创下迄今为止的最高分",
+          "title_zh": "Claude Fable 5.2 在人工分析中获得65分，创下迄今为止的最高分",
+          "title_en": null,
+          "title_original": "Claude Fable 5.2 在人工分析中获得65分，创下迄今为止的最高分",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
+          "source": "artificialanalysis.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-09T21:56:55.597000Z"
+        },
+        {
+          "id": "cb684e1db49924718fb72f8f829b305a3af9b33d",
+          "title": "Claude寓言 5.2人工分析得分 65 分，迄今为止最高 / Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
+          "title_zh": "Claude寓言 5.2人工分析得分 65 分，迄今为止最高",
+          "title_en": "Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
+          "title_original": "Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50431144",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-09T20:04:55Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News front page",
+        "artificialanalysis.ai",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "55be31976761c2ae724b7389ce7c9bef624b6248",
+          "title": "Claude Fable 5.2 在人工分析中获得65分，创下迄今为止的最高分 / Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
+          "title_zh": "Claude Fable 5.2 在人工分析中获得65分，创下迄今为止的最高分",
+          "title_en": "Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
+          "title_original": "Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
+          "source": "Hacker News front page",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-11-09T20:04:55Z"
+        },
+        {
+          "id": "ce253f458a3bf647c6ca500a993d11ced75204cf",
+          "title": "Claude Fable 5.2 在人工分析中获得65分，创下迄今为止的最高分",
+          "title_zh": "Claude Fable 5.2 在人工分析中获得65分，创下迄今为止的最高分",
+          "title_en": null,
+          "title_original": "Claude Fable 5.2 在人工分析中获得65分，创下迄今为止的最高分",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
+          "source": "artificialanalysis.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-09T21:56:55.597000Z"
+        },
+        {
+          "id": "cb684e1db49924718fb72f8f829b305a3af9b33d",
+          "title": "Claude寓言 5.2人工分析得分 65 分，迄今为止最高 / Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
+          "title_zh": "Claude寓言 5.2人工分析得分 65 分，迄今为止最高",
+          "title_en": "Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
+          "title_original": "Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50431144",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-09T20:04:55Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.6924,
+      "importance": 0.6924,
+      "importance_score": 0.6924,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.6048,
+        "source_tier": 0.58,
+        "ai_relevance": 0.84,
+        "recency": 0.9186,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-09T20:04:55Z",
+      "latest_at": "2026-11-09T21:56:55.597000Z",
+      "primary_item": {
+        "id": "55be31976761c2ae724b7389ce7c9bef624b6248",
+        "title": "Claude Fable 5.2 在人工分析中获得65分，创下迄今为止的最高分 / Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
+        "title_zh": "Claude Fable 5.2 在人工分析中获得65分，创下迄今为止的最高分",
+        "title_en": "Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
+        "title_original": "Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
+        "source": "Hacker News front page",
+        "source_name": "Curated Media"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-10T02:08:21.646091Z"
+      }
+    },
+    {
+      "story_id": "story_7f5e33ee2307",
+      "title": "Medium 推出全新 AI 写作辅助应用 TK，将大模型深度融入创作流程",
+      "url": "https://www.aibase.com/news/32188",
+      "primary_url": "https://www.aibase.com/news/32188",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "c7563e2a10608c181468b59f98c560dba5a989c8",
+          "title": "Medium 推出全新 AI 写作辅助应用 TK，将大模型深度融入创作流程",
+          "title_zh": "Medium 推出全新 AI 写作辅助应用 TK，将大模型深度融入创作流程",
+          "title_en": null,
+          "title_original": "Medium 推出全新 AI 写作辅助应用 TK，将大模型深度融入创作流程",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32188",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-10T01:57:43.654968Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "c7563e2a10608c181468b59f98c560dba5a989c8",
+          "title": "Medium 推出全新 AI 写作辅助应用 TK，将大模型深度融入创作流程",
+          "title_zh": "Medium 推出全新 AI 写作辅助应用 TK，将大模型深度融入创作流程",
+          "title_en": null,
+          "title_original": "Medium 推出全新 AI 写作辅助应用 TK，将大模型深度融入创作流程",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32188",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-10T01:57:43.654968Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7468,
+      "importance": 0.7468,
+      "importance_score": 0.7468,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.684,
+        "source_tier": 0.78,
+        "ai_relevance": 0.95,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-10T01:57:43.654968Z",
+      "latest_at": "2026-11-10T01:57:43.654968Z",
+      "primary_item": {
+        "id": "c7563e2a10608c181468b59f98c560dba5a989c8",
+        "title": "Medium 推出全新 AI 写作辅助应用 TK，将大模型深度融入创作流程",
+        "title_zh": "Medium 推出全新 AI 写作辅助应用 TK，将大模型深度融入创作流程",
+        "title_en": null,
+        "title_original": "Medium 推出全新 AI 写作辅助应用 TK，将大模型深度融入创作流程",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32188",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-10T02:08:21.646091Z"
       }
     },
     {
@@ -599,15 +1121,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6852,
-      "importance": 0.6852,
-      "importance_score": 0.6852,
+      "score": 0.6731,
+      "importance": 0.6731,
+      "importance_score": 0.6731,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.6192,
         "source_tier": 0.58,
         "ai_relevance": 0.86,
-        "recency": 0.9715,
+        "recency": 0.9044,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -633,7 +1155,419 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-09T21:02:36.862216Z"
+        "scored_at": "2026-11-10T02:08:21.646091Z"
+      }
+    },
+    {
+      "story_id": "story_314909b45180",
+      "title": "Meta 推出轻量主力 Muse Ember：性能持平 Claude 5.5，单次任务成本大降至三分之一",
+      "url": "https://www.aibase.com/news/32194",
+      "primary_url": "https://www.aibase.com/news/32194",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "cc2015f68ed3caa524c54ad2fedb381f34e9fb07",
+          "title": "Meta 推出轻量主力 Muse Ember：性能持平 Claude 5.5，单次任务成本大降至三分之一",
+          "title_zh": "Meta 推出轻量主力 Muse Ember：性能持平 Claude 5.5，单次任务成本大降至三分之一",
+          "title_en": null,
+          "title_original": "Meta 推出轻量主力 Muse Ember：性能持平 Claude 5.5，单次任务成本大降至三分之一",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32194",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-10T01:57:43.654968Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "cc2015f68ed3caa524c54ad2fedb381f34e9fb07",
+          "title": "Meta 推出轻量主力 Muse Ember：性能持平 Claude 5.5，单次任务成本大降至三分之一",
+          "title_zh": "Meta 推出轻量主力 Muse Ember：性能持平 Claude 5.5，单次任务成本大降至三分之一",
+          "title_en": null,
+          "title_original": "Meta 推出轻量主力 Muse Ember：性能持平 Claude 5.5，单次任务成本大降至三分之一",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32194",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-10T01:57:43.654968Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7468,
+      "importance": 0.7468,
+      "importance_score": 0.7468,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.684,
+        "source_tier": 0.78,
+        "ai_relevance": 0.95,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-10T01:57:43.654968Z",
+      "latest_at": "2026-11-10T01:57:43.654968Z",
+      "primary_item": {
+        "id": "cc2015f68ed3caa524c54ad2fedb381f34e9fb07",
+        "title": "Meta 推出轻量主力 Muse Ember：性能持平 Claude 5.5，单次任务成本大降至三分之一",
+        "title_zh": "Meta 推出轻量主力 Muse Ember：性能持平 Claude 5.5，单次任务成本大降至三分之一",
+        "title_en": null,
+        "title_original": "Meta 推出轻量主力 Muse Ember：性能持平 Claude 5.5，单次任务成本大降至三分之一",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32194",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-10T02:08:21.646091Z"
+      }
+    },
+    {
+      "story_id": "story_84cc18b39198",
+      "title": "谷歌Gemini将个人Drive文件和电子邮件转发给人工标注员 / Google Gemini routes personal Drive files and emails to human annotators",
+      "url": "https://github.com/thisisme6598/gemini_files",
+      "primary_url": "https://github.com/thisisme6598/gemini_files",
+      "source": "Hacker News front page",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "e35431ca69652bac523129796b3e1670a4cff68a",
+          "title": "谷歌Gemini将个人Drive文件和电子邮件转发给人工标注员 / Google Gemini routes personal Drive files and emails to human annotators",
+          "title_zh": "谷歌Gemini将个人Drive文件和电子邮件转发给人工标注员",
+          "title_en": "Google Gemini routes personal Drive files and emails to human annotators",
+          "title_original": "Google Gemini routes personal Drive files and emails to human annotators",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/thisisme6598/gemini_files",
+          "source": "Hacker News front page",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-11-09T18:24:38Z"
+        },
+        {
+          "id": "5f10c344602b99ba35e8d8a4c3184bc45e92bda5",
+          "title": "谷歌Gemini将个人Drive文件和电子邮件转发给人工标注员",
+          "title_zh": "谷歌Gemini将个人Drive文件和电子邮件转发给人工标注员",
+          "title_en": null,
+          "title_original": "谷歌Gemini将个人Drive文件和电子邮件转发给人工标注员",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/thisisme6598/gemini_files",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-09T21:40:44.132000Z"
+        },
+        {
+          "id": "92b735d384a29f773d538722cfa1458e34b61468",
+          "title": "Google Gemini 将个人云端硬盘文件和电子邮件路由给人工注释者 / Google Gemini routes personal Drive files and emails to human annotators",
+          "title_zh": "Google Gemini 将个人云端硬盘文件和电子邮件路由给人工注释者",
+          "title_en": "Google Gemini routes personal Drive files and emails to human annotators",
+          "title_original": "Google Gemini routes personal Drive files and emails to human annotators",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50429426",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-09T18:24:38Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News front page",
+        "github.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "e35431ca69652bac523129796b3e1670a4cff68a",
+          "title": "谷歌Gemini将个人Drive文件和电子邮件转发给人工标注员 / Google Gemini routes personal Drive files and emails to human annotators",
+          "title_zh": "谷歌Gemini将个人Drive文件和电子邮件转发给人工标注员",
+          "title_en": "Google Gemini routes personal Drive files and emails to human annotators",
+          "title_original": "Google Gemini routes personal Drive files and emails to human annotators",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/thisisme6598/gemini_files",
+          "source": "Hacker News front page",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-11-09T18:24:38Z"
+        },
+        {
+          "id": "5f10c344602b99ba35e8d8a4c3184bc45e92bda5",
+          "title": "谷歌Gemini将个人Drive文件和电子邮件转发给人工标注员",
+          "title_zh": "谷歌Gemini将个人Drive文件和电子邮件转发给人工标注员",
+          "title_en": null,
+          "title_original": "谷歌Gemini将个人Drive文件和电子邮件转发给人工标注员",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/thisisme6598/gemini_files",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-09T21:40:44.132000Z"
+        },
+        {
+          "id": "92b735d384a29f773d538722cfa1458e34b61468",
+          "title": "Google Gemini 将个人云端硬盘文件和电子邮件路由给人工注释者 / Google Gemini routes personal Drive files and emails to human annotators",
+          "title_zh": "Google Gemini 将个人云端硬盘文件和电子邮件路由给人工注释者",
+          "title_en": "Google Gemini routes personal Drive files and emails to human annotators",
+          "title_original": "Google Gemini routes personal Drive files and emails to human annotators",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50429426",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-09T18:24:38Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.676,
+      "importance": 0.676,
+      "importance_score": 0.676,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.5832,
+        "source_tier": 0.58,
+        "ai_relevance": 0.81,
+        "recency": 0.8967,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-09T18:24:38Z",
+      "latest_at": "2026-11-09T21:40:44.132000Z",
+      "primary_item": {
+        "id": "e35431ca69652bac523129796b3e1670a4cff68a",
+        "title": "谷歌Gemini将个人Drive文件和电子邮件转发给人工标注员 / Google Gemini routes personal Drive files and emails to human annotators",
+        "title_zh": "谷歌Gemini将个人Drive文件和电子邮件转发给人工标注员",
+        "title_en": "Google Gemini routes personal Drive files and emails to human annotators",
+        "title_original": "Google Gemini routes personal Drive files and emails to human annotators",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.com/thisisme6598/gemini_files",
+        "source": "Hacker News front page",
+        "source_name": "Curated Media"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-10T02:08:21.646091Z"
+      }
+    },
+    {
+      "story_id": "story_62e85ea7a40c",
+      "title": "英伟达首席执行官事件成为国家安全问题 / Nvidia CEO's affair becomes a national security problem",
+      "url": "https://arstechnica.com/tech-policy/2026/11/ceo-jensen-huang-admits-affair-as-nvidia-probes-possible-chinese-espionage",
+      "primary_url": "https://arstechnica.com/tech-policy/2026/11/ceo-jensen-huang-admits-affair-as-nvidia-probes-possible-chinese-espionage",
+      "source": "Ars Technica",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "48da533262792b45cb8c67f9d76fab4c28f5243b",
+          "title": "英伟达首席执行官事件成为国家安全问题 / Nvidia CEO's affair becomes a national security problem",
+          "title_zh": "英伟达首席执行官事件成为国家安全问题",
+          "title_en": "Nvidia CEO's affair becomes a national security problem",
+          "title_original": "Nvidia CEO's affair becomes a national security problem",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://arstechnica.com/tech-policy/2026/11/ceo-jensen-huang-admits-affair-as-nvidia-probes-possible-chinese-espionage",
+          "source": "Ars Technica",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-11-09T15:23:20Z"
+        },
+        {
+          "id": "5785f8cb8abd004b53b95113409a254230890bfc",
+          "title": "英伟达调查可能存在的中国间谍活动，首席执行官黄仁勋承认有外遇 / CEO Jensen Huang admits affair as Nvidia probes possible Chinese espionage",
+          "title_zh": "英伟达调查可能存在的中国间谍活动，首席执行官黄仁勋承认有外遇",
+          "title_en": "CEO Jensen Huang admits affair as Nvidia probes possible Chinese espionage",
+          "title_original": "CEO Jensen Huang admits affair as Nvidia probes possible Chinese espionage",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://arstechnica.com/tech-policy/2026/11/ceo-jensen-huang-admits-affair-as-nvidia-probes-possible-chinese-espionage",
+          "source": "Ars Technica",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-09T15:23:20Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Ars Technica"
+      ],
+      "items": [
+        {
+          "id": "48da533262792b45cb8c67f9d76fab4c28f5243b",
+          "title": "英伟达首席执行官事件成为国家安全问题 / Nvidia CEO's affair becomes a national security problem",
+          "title_zh": "英伟达首席执行官事件成为国家安全问题",
+          "title_en": "Nvidia CEO's affair becomes a national security problem",
+          "title_original": "Nvidia CEO's affair becomes a national security problem",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://arstechnica.com/tech-policy/2026/11/ceo-jensen-huang-admits-affair-as-nvidia-probes-possible-chinese-espionage",
+          "source": "Ars Technica",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-11-09T15:23:20Z"
+        },
+        {
+          "id": "5785f8cb8abd004b53b95113409a254230890bfc",
+          "title": "英伟达调查可能存在的中国间谍活动，首席执行官黄仁勋承认有外遇 / CEO Jensen Huang admits affair as Nvidia probes possible Chinese espionage",
+          "title_zh": "英伟达调查可能存在的中国间谍活动，首席执行官黄仁勋承认有外遇",
+          "title_en": "CEO Jensen Huang admits affair as Nvidia probes possible Chinese espionage",
+          "title_original": "CEO Jensen Huang admits affair as Nvidia probes possible Chinese espionage",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://arstechnica.com/tech-policy/2026/11/ceo-jensen-huang-admits-affair-as-nvidia-probes-possible-chinese-espionage",
+          "source": "Ars Technica",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-09T15:23:20Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6441,
+      "importance": 0.6441,
+      "importance_score": 0.6441,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5832,
+        "source_tier": 0.58,
+        "ai_relevance": 0.81,
+        "recency": 0.8584,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-09T15:23:20Z",
+      "latest_at": "2026-11-09T15:23:20Z",
+      "primary_item": {
+        "id": "48da533262792b45cb8c67f9d76fab4c28f5243b",
+        "title": "英伟达首席执行官事件成为国家安全问题 / Nvidia CEO's affair becomes a national security problem",
+        "title_zh": "英伟达首席执行官事件成为国家安全问题",
+        "title_en": "Nvidia CEO's affair becomes a national security problem",
+        "title_original": "Nvidia CEO's affair becomes a national security problem",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://arstechnica.com/tech-policy/2026/11/ceo-jensen-huang-admits-affair-as-nvidia-probes-possible-chinese-espionage",
+        "source": "Ars Technica",
+        "source_name": "Curated Media"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-10T02:08:21.646091Z"
+      }
+    },
+    {
+      "story_id": "story_c837bf0ab0f5",
+      "title": "MiniMax 加码大模型产业：珠海横琴新设科技公司，注册资本 500 万",
+      "url": "https://www.aibase.com/news/32197",
+      "primary_url": "https://www.aibase.com/news/32197",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "1cbf0062e56fd9d0fff6f04e9c769128ef5f6ba9",
+          "title": "MiniMax 加码大模型产业：珠海横琴新设科技公司，注册资本 500 万",
+          "title_zh": "MiniMax 加码大模型产业：珠海横琴新设科技公司，注册资本 500 万",
+          "title_en": null,
+          "title_original": "MiniMax 加码大模型产业：珠海横琴新设科技公司，注册资本 500 万",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32197",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-10T01:57:43.654968Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "1cbf0062e56fd9d0fff6f04e9c769128ef5f6ba9",
+          "title": "MiniMax 加码大模型产业：珠海横琴新设科技公司，注册资本 500 万",
+          "title_zh": "MiniMax 加码大模型产业：珠海横琴新设科技公司，注册资本 500 万",
+          "title_en": null,
+          "title_original": "MiniMax 加码大模型产业：珠海横琴新设科技公司，注册资本 500 万",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32197",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-10T01:57:43.654968Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7468,
+      "importance": 0.7468,
+      "importance_score": 0.7468,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.684,
+        "source_tier": 0.78,
+        "ai_relevance": 0.95,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-10T01:57:43.654968Z",
+      "latest_at": "2026-11-10T01:57:43.654968Z",
+      "primary_item": {
+        "id": "1cbf0062e56fd9d0fff6f04e9c769128ef5f6ba9",
+        "title": "MiniMax 加码大模型产业：珠海横琴新设科技公司，注册资本 500 万",
+        "title_zh": "MiniMax 加码大模型产业：珠海横琴新设科技公司，注册资本 500 万",
+        "title_en": null,
+        "title_original": "MiniMax 加码大模型产业：珠海横琴新设科技公司，注册资本 500 万",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32197",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-10T02:08:21.646091Z"
       }
     },
     {
@@ -710,15 +1644,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6851,
-      "importance": 0.6851,
-      "importance_score": 0.6851,
+      "score": 0.673,
+      "importance": 0.673,
+      "importance_score": 0.673,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.6192,
         "source_tier": 0.58,
         "ai_relevance": 0.86,
-        "recency": 0.9707,
+        "recency": 0.9036,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -744,390 +1678,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-09T21:02:36.862216Z"
-      }
-    },
-    {
-      "story_id": "story_b7889a30c75d",
-      "title": "Google Messages启动主页大改版:集成 Gemini 快捷入口、重构置顶与底部搜索",
-      "url": "https://www.aibase.com/news/32170",
-      "primary_url": "https://www.aibase.com/news/32170",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "1f361be10a908f7d3e797b3b4085ae925ad44cea",
-          "title": "Google Messages启动主页大改版:集成 Gemini 快捷入口、重构置顶与底部搜索",
-          "title_zh": "Google Messages启动主页大改版:集成 Gemini 快捷入口、重构置顶与底部搜索",
-          "title_en": null,
-          "title_original": "Google Messages启动主页大改版:集成 Gemini 快捷入口、重构置顶与底部搜索",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32170",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-09T10:12:16.602326Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "1f361be10a908f7d3e797b3b4085ae925ad44cea",
-          "title": "Google Messages启动主页大改版:集成 Gemini 快捷入口、重构置顶与底部搜索",
-          "title_zh": "Google Messages启动主页大改版:集成 Gemini 快捷入口、重构置顶与底部搜索",
-          "title_en": null,
-          "title_original": "Google Messages启动主页大改版:集成 Gemini 快捷入口、重构置顶与底部搜索",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32170",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-09T10:12:16.602326Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7208,
-      "importance": 0.7208,
-      "importance_score": 0.7208,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.684,
-        "source_tier": 0.78,
-        "ai_relevance": 0.95,
-        "recency": 0.8556,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-09T10:12:16.602326Z",
-      "latest_at": "2026-11-09T10:12:16.602326Z",
-      "primary_item": {
-        "id": "1f361be10a908f7d3e797b3b4085ae925ad44cea",
-        "title": "Google Messages启动主页大改版:集成 Gemini 快捷入口、重构置顶与底部搜索",
-        "title_zh": "Google Messages启动主页大改版:集成 Gemini 快捷入口、重构置顶与底部搜索",
-        "title_en": null,
-        "title_original": "Google Messages启动主页大改版:集成 Gemini 快捷入口、重构置顶与底部搜索",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32170",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-09T21:02:36.862216Z"
-      }
-    },
-    {
-      "story_id": "story_62e85ea7a40c",
-      "title": "英伟达首席执行官事件成为国家安全问题 / Nvidia CEO's affair becomes a national security problem",
-      "url": "https://arstechnica.com/tech-policy/2026/11/ceo-jensen-huang-admits-affair-as-nvidia-probes-possible-chinese-espionage",
-      "primary_url": "https://arstechnica.com/tech-policy/2026/11/ceo-jensen-huang-admits-affair-as-nvidia-probes-possible-chinese-espionage",
-      "source": "Ars Technica",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "48da533262792b45cb8c67f9d76fab4c28f5243b",
-          "title": "英伟达首席执行官事件成为国家安全问题 / Nvidia CEO's affair becomes a national security problem",
-          "title_zh": "英伟达首席执行官事件成为国家安全问题",
-          "title_en": "Nvidia CEO's affair becomes a national security problem",
-          "title_original": "Nvidia CEO's affair becomes a national security problem",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://arstechnica.com/tech-policy/2026/11/ceo-jensen-huang-admits-affair-as-nvidia-probes-possible-chinese-espionage",
-          "source": "Ars Technica",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-11-09T15:23:20Z"
-        },
-        {
-          "id": "5785f8cb8abd004b53b95113409a254230890bfc",
-          "title": "英伟达调查可能存在的中国间谍活动，首席执行官黄仁勋承认有外遇 / CEO Jensen Huang admits affair as Nvidia probes possible Chinese espionage",
-          "title_zh": "英伟达调查可能存在的中国间谍活动，首席执行官黄仁勋承认有外遇",
-          "title_en": "CEO Jensen Huang admits affair as Nvidia probes possible Chinese espionage",
-          "title_original": "CEO Jensen Huang admits affair as Nvidia probes possible Chinese espionage",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://arstechnica.com/tech-policy/2026/11/ceo-jensen-huang-admits-affair-as-nvidia-probes-possible-chinese-espionage",
-          "source": "Ars Technica",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-09T15:23:20Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Ars Technica"
-      ],
-      "items": [
-        {
-          "id": "48da533262792b45cb8c67f9d76fab4c28f5243b",
-          "title": "英伟达首席执行官事件成为国家安全问题 / Nvidia CEO's affair becomes a national security problem",
-          "title_zh": "英伟达首席执行官事件成为国家安全问题",
-          "title_en": "Nvidia CEO's affair becomes a national security problem",
-          "title_original": "Nvidia CEO's affair becomes a national security problem",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://arstechnica.com/tech-policy/2026/11/ceo-jensen-huang-admits-affair-as-nvidia-probes-possible-chinese-espionage",
-          "source": "Ars Technica",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-11-09T15:23:20Z"
-        },
-        {
-          "id": "5785f8cb8abd004b53b95113409a254230890bfc",
-          "title": "英伟达调查可能存在的中国间谍活动，首席执行官黄仁勋承认有外遇 / CEO Jensen Huang admits affair as Nvidia probes possible Chinese espionage",
-          "title_zh": "英伟达调查可能存在的中国间谍活动，首席执行官黄仁勋承认有外遇",
-          "title_en": "CEO Jensen Huang admits affair as Nvidia probes possible Chinese espionage",
-          "title_original": "CEO Jensen Huang admits affair as Nvidia probes possible Chinese espionage",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://arstechnica.com/tech-policy/2026/11/ceo-jensen-huang-admits-affair-as-nvidia-probes-possible-chinese-espionage",
-          "source": "Ars Technica",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-09T15:23:20Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6555,
-      "importance": 0.6555,
-      "importance_score": 0.6555,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.5832,
-        "source_tier": 0.58,
-        "ai_relevance": 0.81,
-        "recency": 0.9221,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-09T15:23:20Z",
-      "latest_at": "2026-11-09T15:23:20Z",
-      "primary_item": {
-        "id": "48da533262792b45cb8c67f9d76fab4c28f5243b",
-        "title": "英伟达首席执行官事件成为国家安全问题 / Nvidia CEO's affair becomes a national security problem",
-        "title_zh": "英伟达首席执行官事件成为国家安全问题",
-        "title_en": "Nvidia CEO's affair becomes a national security problem",
-        "title_original": "Nvidia CEO's affair becomes a national security problem",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://arstechnica.com/tech-policy/2026/11/ceo-jensen-huang-admits-affair-as-nvidia-probes-possible-chinese-espionage",
-        "source": "Ars Technica",
-        "source_name": "Curated Media"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-09T21:02:36.862216Z"
-      }
-    },
-    {
-      "story_id": "story_1dd063f5f1d1",
-      "title": "Claude寓言 5.2人工分析得分 65 分，迄今为止最高 / Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
-      "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
-      "primary_url": "https://artificialanalysis.ai/models/claude-fable-5-2",
-      "source": "Hacker News front page",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "55be31976761c2ae724b7389ce7c9bef624b6248",
-          "title": "Claude寓言 5.2人工分析得分 65 分，迄今为止最高 / Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
-          "title_zh": "Claude寓言 5.2人工分析得分 65 分，迄今为止最高",
-          "title_en": "Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
-          "title_original": "Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
-          "source": "Hacker News front page",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-11-09T20:04:55Z"
-        },
-        {
-          "id": "d157a45df8b4cdb32951288adc7abdf1aa07baa9",
-          "title": "2026 年 11 月 Claude Fable 5.2 人工分析得分 65，迄今为止最高 / November 2026 Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
-          "title_zh": "2026 年 11 月 Claude Fable 5.2 人工分析得分 65，迄今为止最高",
-          "title_en": "November 2026 Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
-          "title_original": "November 2026 Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50431144",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-09T20:04:55Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News front page",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "55be31976761c2ae724b7389ce7c9bef624b6248",
-          "title": "Claude寓言 5.2人工分析得分 65 分，迄今为止最高 / Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
-          "title_zh": "Claude寓言 5.2人工分析得分 65 分，迄今为止最高",
-          "title_en": "Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
-          "title_original": "Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
-          "source": "Hacker News front page",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-11-09T20:04:55Z"
-        },
-        {
-          "id": "d157a45df8b4cdb32951288adc7abdf1aa07baa9",
-          "title": "2026 年 11 月 Claude Fable 5.2 人工分析得分 65，迄今为止最高 / November 2026 Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
-          "title_zh": "2026 年 11 月 Claude Fable 5.2 人工分析得分 65，迄今为止最高",
-          "title_en": "November 2026 Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
-          "title_original": "November 2026 Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50431144",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-09T20:04:55Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6797,
-      "importance": 0.6797,
-      "importance_score": 0.6797,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.6048,
-        "source_tier": 0.58,
-        "ai_relevance": 0.84,
-        "recency": 0.9868,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-09T20:04:55Z",
-      "latest_at": "2026-11-09T20:04:55Z",
-      "primary_item": {
-        "id": "55be31976761c2ae724b7389ce7c9bef624b6248",
-        "title": "Claude寓言 5.2人工分析得分 65 分，迄今为止最高 / Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
-        "title_zh": "Claude寓言 5.2人工分析得分 65 分，迄今为止最高",
-        "title_en": "Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
-        "title_original": "Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
-        "source": "Hacker News front page",
-        "source_name": "Curated Media"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-09T21:02:36.862216Z"
-      }
-    },
-    {
-      "story_id": "story_2c09fe85f3a9",
-      "title": "免费时代要结束？三星 Galaxy AI 准备收每月 4.99 美元",
-      "url": "https://www.aibase.com/news/32187",
-      "primary_url": "https://www.aibase.com/news/32187",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "a9aef4bfdd7669502341ee720a9c948c2c48b223",
-          "title": "免费时代要结束？三星 Galaxy AI 准备收每月 4.99 美元",
-          "title_zh": "免费时代要结束？三星 Galaxy AI 准备收每月 4.99 美元",
-          "title_en": null,
-          "title_original": "免费时代要结束？三星 Galaxy AI 准备收每月 4.99 美元",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32187",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-09T10:12:16.602326Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "a9aef4bfdd7669502341ee720a9c948c2c48b223",
-          "title": "免费时代要结束？三星 Galaxy AI 准备收每月 4.99 美元",
-          "title_zh": "免费时代要结束？三星 Galaxy AI 准备收每月 4.99 美元",
-          "title_en": null,
-          "title_original": "免费时代要结束？三星 Galaxy AI 准备收每月 4.99 美元",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32187",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-09T10:12:16.602326Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7208,
-      "importance": 0.7208,
-      "importance_score": 0.7208,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.684,
-        "source_tier": 0.78,
-        "ai_relevance": 0.95,
-        "recency": 0.8556,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-09T10:12:16.602326Z",
-      "latest_at": "2026-11-09T10:12:16.602326Z",
-      "primary_item": {
-        "id": "a9aef4bfdd7669502341ee720a9c948c2c48b223",
-        "title": "免费时代要结束？三星 Galaxy AI 准备收每月 4.99 美元",
-        "title_zh": "免费时代要结束？三星 Galaxy AI 准备收每月 4.99 美元",
-        "title_en": null,
-        "title_original": "免费时代要结束？三星 Galaxy AI 准备收每月 4.99 美元",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32187",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-09T21:02:36.862216Z"
+        "scored_at": "2026-11-10T02:08:21.646091Z"
       }
     },
     {
@@ -1203,15 +1754,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.648,
-      "importance": 0.648,
-      "importance_score": 0.648,
+      "score": 0.6362,
+      "importance": 0.6362,
+      "importance_score": 0.6362,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5616,
         "source_tier": 0.58,
         "ai_relevance": 0.78,
-        "recency": 0.9494,
+        "recency": 0.8838,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1236,141 +1787,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-09T21:02:36.862216Z"
+        "scored_at": "2026-11-10T02:08:21.646091Z"
       }
     },
     {
-      "story_id": "story_84cc18b39198",
-      "title": "Google Gemini 将个人云端硬盘文件和电子邮件路由给人工注释者 / Google Gemini routes personal Drive files and emails to human annotators",
-      "url": "https://github.com/thisisme6598/gemini_files",
-      "primary_url": "https://github.com/thisisme6598/gemini_files",
-      "source": "Hacker News front page",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "e35431ca69652bac523129796b3e1670a4cff68a",
-          "title": "Google Gemini 将个人云端硬盘文件和电子邮件路由给人工注释者 / Google Gemini routes personal Drive files and emails to human annotators",
-          "title_zh": "Google Gemini 将个人云端硬盘文件和电子邮件路由给人工注释者",
-          "title_en": "Google Gemini routes personal Drive files and emails to human annotators",
-          "title_original": "Google Gemini routes personal Drive files and emails to human annotators",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/thisisme6598/gemini_files",
-          "source": "Hacker News front page",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-11-09T18:24:38Z"
-        },
-        {
-          "id": "92b735d384a29f773d538722cfa1458e34b61468",
-          "title": "Google Gemini 将个人云端硬盘文件和电子邮件路由给人工注释者 / Google Gemini routes personal Drive files and emails to human annotators",
-          "title_zh": "Google Gemini 将个人云端硬盘文件和电子邮件路由给人工注释者",
-          "title_en": "Google Gemini routes personal Drive files and emails to human annotators",
-          "title_original": "Google Gemini routes personal Drive files and emails to human annotators",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50429426",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-09T18:24:38Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News front page",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "e35431ca69652bac523129796b3e1670a4cff68a",
-          "title": "Google Gemini 将个人云端硬盘文件和电子邮件路由给人工注释者 / Google Gemini routes personal Drive files and emails to human annotators",
-          "title_zh": "Google Gemini 将个人云端硬盘文件和电子邮件路由给人工注释者",
-          "title_en": "Google Gemini routes personal Drive files and emails to human annotators",
-          "title_original": "Google Gemini routes personal Drive files and emails to human annotators",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/thisisme6598/gemini_files",
-          "source": "Hacker News front page",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-11-09T18:24:38Z"
-        },
-        {
-          "id": "92b735d384a29f773d538722cfa1458e34b61468",
-          "title": "Google Gemini 将个人云端硬盘文件和电子邮件路由给人工注释者 / Google Gemini routes personal Drive files and emails to human annotators",
-          "title_zh": "Google Gemini 将个人云端硬盘文件和电子邮件路由给人工注释者",
-          "title_en": "Google Gemini routes personal Drive files and emails to human annotators",
-          "title_original": "Google Gemini routes personal Drive files and emails to human annotators",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50429426",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-09T18:24:38Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6629,
-      "importance": 0.6629,
-      "importance_score": 0.6629,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.5832,
-        "source_tier": 0.58,
-        "ai_relevance": 0.81,
-        "recency": 0.9633,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-09T18:24:38Z",
-      "latest_at": "2026-11-09T18:24:38Z",
-      "primary_item": {
-        "id": "e35431ca69652bac523129796b3e1670a4cff68a",
-        "title": "Google Gemini 将个人云端硬盘文件和电子邮件路由给人工注释者 / Google Gemini routes personal Drive files and emails to human annotators",
-        "title_zh": "Google Gemini 将个人云端硬盘文件和电子邮件路由给人工注释者",
-        "title_en": "Google Gemini routes personal Drive files and emails to human annotators",
-        "title_original": "Google Gemini routes personal Drive files and emails to human annotators",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.com/thisisme6598/gemini_files",
-        "source": "Hacker News front page",
-        "source_name": "Curated Media"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-09T21:02:36.862216Z"
-      }
-    },
-    {
-      "story_id": "story_78eaea812a9d",
-      "title": "千问办公2.0发布:定位Team Agent，协作、自动任务、人机共创三线升级",
-      "url": "https://www.aibase.com/news/32184",
-      "primary_url": "https://www.aibase.com/news/32184",
+      "story_id": "story_f0dfa69d0496",
+      "title": "OpenAI 构建中央控制室：实时追踪模型工作负载，确保异常干预后 35 秒内秒级叫停",
+      "url": "https://www.aibase.com/news/32189",
+      "primary_url": "https://www.aibase.com/news/32189",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "ce073b21d9f36a3fb06e9c268114287fc958bad9",
-          "title": "千问办公2.0发布:定位Team Agent，协作、自动任务、人机共创三线升级",
-          "title_zh": "千问办公2.0发布:定位Team Agent，协作、自动任务、人机共创三线升级",
+          "id": "cb8e3f8bfe6c6dd1ac46244777eea2aeb36a7f8e",
+          "title": "OpenAI 构建中央控制室：实时追踪模型工作负载，确保异常干预后 35 秒内秒级叫停",
+          "title_zh": "OpenAI 构建中央控制室：实时追踪模型工作负载，确保异常干预后 35 秒内秒级叫停",
           "title_en": null,
-          "title_original": "千问办公2.0发布:定位Team Agent，协作、自动任务、人机共创三线升级",
+          "title_original": "OpenAI 构建中央控制室：实时追踪模型工作负载，确保异常干预后 35 秒内秒级叫停",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32184",
+          "url": "https://www.aibase.com/news/32189",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-09T10:12:16.602326Z"
+          "published_at": "2026-11-10T01:57:43.654968Z"
         }
       ],
       "source_count": 1,
@@ -1379,48 +1819,48 @@
       ],
       "items": [
         {
-          "id": "ce073b21d9f36a3fb06e9c268114287fc958bad9",
-          "title": "千问办公2.0发布:定位Team Agent，协作、自动任务、人机共创三线升级",
-          "title_zh": "千问办公2.0发布:定位Team Agent，协作、自动任务、人机共创三线升级",
+          "id": "cb8e3f8bfe6c6dd1ac46244777eea2aeb36a7f8e",
+          "title": "OpenAI 构建中央控制室：实时追踪模型工作负载，确保异常干预后 35 秒内秒级叫停",
+          "title_zh": "OpenAI 构建中央控制室：实时追踪模型工作负载，确保异常干预后 35 秒内秒级叫停",
           "title_en": null,
-          "title_original": "千问办公2.0发布:定位Team Agent，协作、自动任务、人机共创三线升级",
+          "title_original": "OpenAI 构建中央控制室：实时追踪模型工作负载，确保异常干预后 35 秒内秒级叫停",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32184",
+          "url": "https://www.aibase.com/news/32189",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-09T10:12:16.602326Z"
+          "published_at": "2026-11-10T01:57:43.654968Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7208,
-      "importance": 0.7208,
-      "importance_score": 0.7208,
+      "score": 0.7468,
+      "importance": 0.7468,
+      "importance_score": 0.7468,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.684,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.8556,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-11-09T10:12:16.602326Z",
-      "latest_at": "2026-11-09T10:12:16.602326Z",
+      "earliest_at": "2026-11-10T01:57:43.654968Z",
+      "latest_at": "2026-11-10T01:57:43.654968Z",
       "primary_item": {
-        "id": "ce073b21d9f36a3fb06e9c268114287fc958bad9",
-        "title": "千问办公2.0发布:定位Team Agent，协作、自动任务、人机共创三线升级",
-        "title_zh": "千问办公2.0发布:定位Team Agent，协作、自动任务、人机共创三线升级",
+        "id": "cb8e3f8bfe6c6dd1ac46244777eea2aeb36a7f8e",
+        "title": "OpenAI 构建中央控制室：实时追踪模型工作负载，确保异常干预后 35 秒内秒级叫停",
+        "title_zh": "OpenAI 构建中央控制室：实时追踪模型工作负载，确保异常干预后 35 秒内秒级叫停",
         "title_en": null,
-        "title_original": "千问办公2.0发布:定位Team Agent，协作、自动任务、人机共创三线升级",
+        "title_original": "OpenAI 构建中央控制室：实时追踪模型工作负载，确保异常干预后 35 秒内秒级叫停",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32184",
+        "url": "https://www.aibase.com/news/32189",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1428,529 +1868,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-09T21:02:36.862216Z"
-      }
-    },
-    {
-      "story_id": "story_147823fd68e3",
-      "title": "古尔曼爆料：Siri 最快明年变身自主代理，正面硬刚 OpenAI 与 Meta",
-      "url": "https://www.aibase.com/news/32175",
-      "primary_url": "https://www.aibase.com/news/32175",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "1b16522c7d5109de18ec7838b76f9d44174c2604",
-          "title": "古尔曼爆料：Siri 最快明年变身自主代理，正面硬刚 OpenAI 与 Meta",
-          "title_zh": "古尔曼爆料：Siri 最快明年变身自主代理，正面硬刚 OpenAI 与 Meta",
-          "title_en": null,
-          "title_original": "古尔曼爆料：Siri 最快明年变身自主代理，正面硬刚 OpenAI 与 Meta",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32175",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-09T10:12:16.602326Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "1b16522c7d5109de18ec7838b76f9d44174c2604",
-          "title": "古尔曼爆料：Siri 最快明年变身自主代理，正面硬刚 OpenAI 与 Meta",
-          "title_zh": "古尔曼爆料：Siri 最快明年变身自主代理，正面硬刚 OpenAI 与 Meta",
-          "title_en": null,
-          "title_original": "古尔曼爆料：Siri 最快明年变身自主代理，正面硬刚 OpenAI 与 Meta",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32175",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-09T10:12:16.602326Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7208,
-      "importance": 0.7208,
-      "importance_score": 0.7208,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.684,
-        "source_tier": 0.78,
-        "ai_relevance": 0.95,
-        "recency": 0.8556,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-09T10:12:16.602326Z",
-      "latest_at": "2026-11-09T10:12:16.602326Z",
-      "primary_item": {
-        "id": "1b16522c7d5109de18ec7838b76f9d44174c2604",
-        "title": "古尔曼爆料：Siri 最快明年变身自主代理，正面硬刚 OpenAI 与 Meta",
-        "title_zh": "古尔曼爆料：Siri 最快明年变身自主代理，正面硬刚 OpenAI 与 Meta",
-        "title_en": null,
-        "title_original": "古尔曼爆料：Siri 最快明年变身自主代理，正面硬刚 OpenAI 与 Meta",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32175",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-09T21:02:36.862216Z"
-      }
-    },
-    {
-      "story_id": "story_e194b1de53fe",
-      "title": "英伟达首席执行官黄仁勋就婚外情一事致员工的信 / Nvidia CEO Jensen Huang's letter to staff about affair",
-      "url": "https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-affair-email-to-company",
-      "primary_url": "https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-affair-email-to-company",
-      "source": "Hacker News front page",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "974eb261ac43b164b0f12a97547a4858ab0a96e9",
-          "title": "英伟达首席执行官黄仁勋就婚外情一事致员工的信 / Nvidia CEO Jensen Huang's letter to staff about affair",
-          "title_zh": "英伟达首席执行官黄仁勋就婚外情一事致员工的信",
-          "title_en": "Nvidia CEO Jensen Huang's letter to staff about affair",
-          "title_original": "Nvidia CEO Jensen Huang's letter to staff about affair",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-affair-email-to-company",
-          "source": "Hacker News front page",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-11-08T22:20:09Z"
-        },
-        {
-          "id": "d11eece6119dcec46f0826d495412f3ce2997580",
-          "title": "英伟达首席执行官黄仁勋就婚外情一事致员工的信",
-          "title_zh": "英伟达首席执行官黄仁勋就婚外情一事致员工的信",
-          "title_en": null,
-          "title_original": "英伟达首席执行官黄仁勋就婚外情一事致员工的信",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-affair-email-to-company",
-          "source": "www.axios.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-08T23:07:59.801000Z"
-        },
-        {
-          "id": "19bcf17e8c69603aa3923a85f862e6b68e96a282",
-          "title": "英伟达首席执行官黄仁勋就婚外情致员工的信 / Nvidia CEO Jensen Huang's letter to staff about affair",
-          "title_zh": "英伟达首席执行官黄仁勋就婚外情致员工的信",
-          "title_en": "Nvidia CEO Jensen Huang's letter to staff about affair",
-          "title_original": "Nvidia CEO Jensen Huang's letter to staff about affair",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50418016",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-08T22:20:09Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News front page",
-        "hackernews",
-        "www.axios.com"
-      ],
-      "items": [
-        {
-          "id": "974eb261ac43b164b0f12a97547a4858ab0a96e9",
-          "title": "英伟达首席执行官黄仁勋就婚外情一事致员工的信 / Nvidia CEO Jensen Huang's letter to staff about affair",
-          "title_zh": "英伟达首席执行官黄仁勋就婚外情一事致员工的信",
-          "title_en": "Nvidia CEO Jensen Huang's letter to staff about affair",
-          "title_original": "Nvidia CEO Jensen Huang's letter to staff about affair",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-affair-email-to-company",
-          "source": "Hacker News front page",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-11-08T22:20:09Z"
-        },
-        {
-          "id": "d11eece6119dcec46f0826d495412f3ce2997580",
-          "title": "英伟达首席执行官黄仁勋就婚外情一事致员工的信",
-          "title_zh": "英伟达首席执行官黄仁勋就婚外情一事致员工的信",
-          "title_en": null,
-          "title_original": "英伟达首席执行官黄仁勋就婚外情一事致员工的信",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-affair-email-to-company",
-          "source": "www.axios.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-08T23:07:59.801000Z"
-        },
-        {
-          "id": "19bcf17e8c69603aa3923a85f862e6b68e96a282",
-          "title": "英伟达首席执行官黄仁勋就婚外情致员工的信 / Nvidia CEO Jensen Huang's letter to staff about affair",
-          "title_zh": "英伟达首席执行官黄仁勋就婚外情致员工的信",
-          "title_en": "Nvidia CEO Jensen Huang's letter to staff about affair",
-          "title_original": "Nvidia CEO Jensen Huang's letter to staff about affair",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50418016",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-08T22:20:09Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.6568,
-      "importance": 0.6568,
-      "importance_score": 0.6568,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.6048,
-        "source_tier": 0.58,
-        "ai_relevance": 0.84,
-        "recency": 0.7209,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-08T22:20:09Z",
-      "latest_at": "2026-11-08T23:07:59.801000Z",
-      "primary_item": {
-        "id": "974eb261ac43b164b0f12a97547a4858ab0a96e9",
-        "title": "英伟达首席执行官黄仁勋就婚外情一事致员工的信 / Nvidia CEO Jensen Huang's letter to staff about affair",
-        "title_zh": "英伟达首席执行官黄仁勋就婚外情一事致员工的信",
-        "title_en": "Nvidia CEO Jensen Huang's letter to staff about affair",
-        "title_original": "Nvidia CEO Jensen Huang's letter to staff about affair",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-affair-email-to-company",
-        "source": "Hacker News front page",
-        "source_name": "Curated Media"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-09T21:02:36.862216Z"
-      }
-    },
-    {
-      "story_id": "story_f54dd1ec0e96",
-      "title": "英伟达首尔 AI Day 全面出击：携手韩国政府及三星、LG、现代等巨头达成多项重磅合作",
-      "url": "https://www.aibase.com/news/32179",
-      "primary_url": "https://www.aibase.com/news/32179",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "5611e0b24730334ce2201865fd02e92895ff9e2b",
-          "title": "英伟达首尔 AI Day 全面出击：携手韩国政府及三星、LG、现代等巨头达成多项重磅合作",
-          "title_zh": "英伟达首尔 AI Day 全面出击：携手韩国政府及三星、LG、现代等巨头达成多项重磅合作",
-          "title_en": null,
-          "title_original": "英伟达首尔 AI Day 全面出击：携手韩国政府及三星、LG、现代等巨头达成多项重磅合作",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32179",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-09T10:12:16.602326Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "5611e0b24730334ce2201865fd02e92895ff9e2b",
-          "title": "英伟达首尔 AI Day 全面出击：携手韩国政府及三星、LG、现代等巨头达成多项重磅合作",
-          "title_zh": "英伟达首尔 AI Day 全面出击：携手韩国政府及三星、LG、现代等巨头达成多项重磅合作",
-          "title_en": null,
-          "title_original": "英伟达首尔 AI Day 全面出击：携手韩国政府及三星、LG、现代等巨头达成多项重磅合作",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32179",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-09T10:12:16.602326Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7208,
-      "importance": 0.7208,
-      "importance_score": 0.7208,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.684,
-        "source_tier": 0.78,
-        "ai_relevance": 0.95,
-        "recency": 0.8556,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-09T10:12:16.602326Z",
-      "latest_at": "2026-11-09T10:12:16.602326Z",
-      "primary_item": {
-        "id": "5611e0b24730334ce2201865fd02e92895ff9e2b",
-        "title": "英伟达首尔 AI Day 全面出击：携手韩国政府及三星、LG、现代等巨头达成多项重磅合作",
-        "title_zh": "英伟达首尔 AI Day 全面出击：携手韩国政府及三星、LG、现代等巨头达成多项重磅合作",
-        "title_en": null,
-        "title_original": "英伟达首尔 AI Day 全面出击：携手韩国政府及三星、LG、现代等巨头达成多项重磅合作",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32179",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-09T21:02:36.862216Z"
-      }
-    },
-    {
-      "story_id": "story_d771da90ea4e",
-      "title": "Show HN：MeowDisplay 是 iPhone 镜像，但方向相反 / Show HN: MeowDisplay Is iPhone Mirroring, but in Reverse",
-      "url": "https://meowdisplay.app",
-      "primary_url": "https://meowdisplay.app",
-      "source": "Hacker News front page",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "1f6a579b56bfc3339fe788115366831f8a508b72",
-          "title": "Show HN：MeowDisplay 是 iPhone 镜像，但方向相反 / Show HN: MeowDisplay Is iPhone Mirroring, but in Reverse",
-          "title_zh": "Show HN：MeowDisplay 是 iPhone 镜像，但方向相反",
-          "title_en": "Show HN: MeowDisplay Is iPhone Mirroring, but in Reverse",
-          "title_original": "Show HN: MeowDisplay Is iPhone Mirroring, but in Reverse",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://meowdisplay.app",
-          "source": "Hacker News front page",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-11-09T18:39:22Z"
-        },
-        {
-          "id": "0566ef701d1d8bf925add60f87268bf32ffa24cc",
-          "title": "Show HN：MeowDisplay 是 iPhone 镜像，但方向相反 / Show HN: MeowDisplay Is iPhone Mirroring, but in Reverse",
-          "title_zh": "Show HN：MeowDisplay 是 iPhone 镜像，但方向相反",
-          "title_en": "Show HN: MeowDisplay Is iPhone Mirroring, but in Reverse",
-          "title_original": "Show HN: MeowDisplay Is iPhone Mirroring, but in Reverse",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50429636",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-09T18:39:22Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News front page",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "1f6a579b56bfc3339fe788115366831f8a508b72",
-          "title": "Show HN：MeowDisplay 是 iPhone 镜像，但方向相反 / Show HN: MeowDisplay Is iPhone Mirroring, but in Reverse",
-          "title_zh": "Show HN：MeowDisplay 是 iPhone 镜像，但方向相反",
-          "title_en": "Show HN: MeowDisplay Is iPhone Mirroring, but in Reverse",
-          "title_original": "Show HN: MeowDisplay Is iPhone Mirroring, but in Reverse",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://meowdisplay.app",
-          "source": "Hacker News front page",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-11-09T18:39:22Z"
-        },
-        {
-          "id": "0566ef701d1d8bf925add60f87268bf32ffa24cc",
-          "title": "Show HN：MeowDisplay 是 iPhone 镜像，但方向相反 / Show HN: MeowDisplay Is iPhone Mirroring, but in Reverse",
-          "title_zh": "Show HN：MeowDisplay 是 iPhone 镜像，但方向相反",
-          "title_en": "Show HN: MeowDisplay Is iPhone Mirroring, but in Reverse",
-          "title_original": "Show HN: MeowDisplay Is iPhone Mirroring, but in Reverse",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50429636",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-09T18:39:22Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6511,
-      "importance": 0.6511,
-      "importance_score": 0.6511,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.5616,
-        "source_tier": 0.58,
-        "ai_relevance": 0.78,
-        "recency": 0.9667,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-09T18:39:22Z",
-      "latest_at": "2026-11-09T18:39:22Z",
-      "primary_item": {
-        "id": "1f6a579b56bfc3339fe788115366831f8a508b72",
-        "title": "Show HN：MeowDisplay 是 iPhone 镜像，但方向相反 / Show HN: MeowDisplay Is iPhone Mirroring, but in Reverse",
-        "title_zh": "Show HN：MeowDisplay 是 iPhone 镜像，但方向相反",
-        "title_en": "Show HN: MeowDisplay Is iPhone Mirroring, but in Reverse",
-        "title_original": "Show HN: MeowDisplay Is iPhone Mirroring, but in Reverse",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://meowdisplay.app",
-        "source": "Hacker News front page",
-        "source_name": "Curated Media"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-09T21:02:36.862216Z"
-      }
-    },
-    {
-      "story_id": "story_dd18db0408ad",
-      "title": "洋红色太阳能电池板可能是农业光伏公司迄今为止最聪明的伎俩 / Magenta solar panels may be agrivoltaics' cleverest trick yet",
-      "url": "https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet",
-      "primary_url": "https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet",
-      "source": "Hacker News front page",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "a85f01a8579b2c3b4a897aa118899035178f3b64",
-          "title": "洋红色太阳能电池板可能是农业光伏公司迄今为止最聪明的伎俩 / Magenta solar panels may be agrivoltaics' cleverest trick yet",
-          "title_zh": "洋红色太阳能电池板可能是农业光伏公司迄今为止最聪明的伎俩",
-          "title_en": "Magenta solar panels may be agrivoltaics' cleverest trick yet",
-          "title_original": "Magenta solar panels may be agrivoltaics' cleverest trick yet",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet",
-          "source": "Hacker News front page",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-11-09T14:31:39Z"
-        },
-        {
-          "id": "234035caa0209360326bedf9d89f7a37d5332d51",
-          "title": "洋红色太阳能电池板可能是农业光伏公司迄今为止最聪明的伎俩 / Magenta solar panels may be agrivoltaics' cleverest trick yet",
-          "title_zh": "洋红色太阳能电池板可能是农业光伏公司迄今为止最聪明的伎俩",
-          "title_en": "Magenta solar panels may be agrivoltaics' cleverest trick yet",
-          "title_original": "Magenta solar panels may be agrivoltaics' cleverest trick yet",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50426175",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-09T14:31:39Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News front page",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "a85f01a8579b2c3b4a897aa118899035178f3b64",
-          "title": "洋红色太阳能电池板可能是农业光伏公司迄今为止最聪明的伎俩 / Magenta solar panels may be agrivoltaics' cleverest trick yet",
-          "title_zh": "洋红色太阳能电池板可能是农业光伏公司迄今为止最聪明的伎俩",
-          "title_en": "Magenta solar panels may be agrivoltaics' cleverest trick yet",
-          "title_original": "Magenta solar panels may be agrivoltaics' cleverest trick yet",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet",
-          "source": "Hacker News front page",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-11-09T14:31:39Z"
-        },
-        {
-          "id": "234035caa0209360326bedf9d89f7a37d5332d51",
-          "title": "洋红色太阳能电池板可能是农业光伏公司迄今为止最聪明的伎俩 / Magenta solar panels may be agrivoltaics' cleverest trick yet",
-          "title_zh": "洋红色太阳能电池板可能是农业光伏公司迄今为止最聪明的伎俩",
-          "title_en": "Magenta solar panels may be agrivoltaics' cleverest trick yet",
-          "title_original": "Magenta solar panels may be agrivoltaics' cleverest trick yet",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50426175",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-09T14:31:39Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.641,
-      "importance": 0.641,
-      "importance_score": 0.641,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.5616,
-        "source_tier": 0.58,
-        "ai_relevance": 0.78,
-        "recency": 0.9107,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-09T14:31:39Z",
-      "latest_at": "2026-11-09T14:31:39Z",
-      "primary_item": {
-        "id": "a85f01a8579b2c3b4a897aa118899035178f3b64",
-        "title": "洋红色太阳能电池板可能是农业光伏公司迄今为止最聪明的伎俩 / Magenta solar panels may be agrivoltaics' cleverest trick yet",
-        "title_zh": "洋红色太阳能电池板可能是农业光伏公司迄今为止最聪明的伎俩",
-        "title_en": "Magenta solar panels may be agrivoltaics' cleverest trick yet",
-        "title_original": "Magenta solar panels may be agrivoltaics' cleverest trick yet",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet",
-        "source": "Hacker News front page",
-        "source_name": "Curated Media"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-09T21:02:36.862216Z"
+        "scored_at": "2026-11-10T02:08:21.646091Z"
       }
     }
   ]
