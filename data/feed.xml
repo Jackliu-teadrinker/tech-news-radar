@@ -5,7 +5,7 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Fri, 13 Nov 2026 09:54:26 +0000</lastBuildDate>
+<lastBuildDate>Fri, 13 Nov 2026 15:17:05 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
 <item>
 <title>Codex CLI 0.168.0</title>
@@ -16,12 +16,20 @@
 <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
-<title>LLMON：一种 LLM 原生标记语言，现在在 Granite 4.1 3B 和 8B 中 / LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B</title>
-<link>https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite</link>
-<guid isPermaLink="true">https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite</guid>
+<title>llama.cpp v1.0.0：为本地人工智能生态系统奠定更坚实的基础 / llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem</title>
+<link>https://huggingface.co/blog/ggml-org/llama-cpp-v1</link>
+<guid isPermaLink="true">https://huggingface.co/blog/ggml-org/llama-cpp-v1</guid>
 <description>Hugging Face Blog</description>
 <category>官方更新</category>
-<pubDate>Thu, 12 Nov 2026 19:07:35 +0000</pubDate>
+<pubDate>Fri, 13 Nov 2026 14:05:22 +0000</pubDate>
+</item>
+<item>
+<title>Amplitude 如何利用 OpenAI 在 1-2 天内改进产品 / How Amplitude ships product improvements in 1–2 days with OpenAI</title>
+<link>https://openai.com/business/customer-stories/amplitude</link>
+<guid isPermaLink="true">https://openai.com/business/customer-stories/amplitude</guid>
+<description>OpenAI News</description>
+<category>官方更新</category>
+<pubDate>Thu, 12 Nov 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
 <title>构建一次，在任何代理上运行：代理技能实用指南 / Build once, run on any agent: A practical guide to agent skills</title>
@@ -30,14 +38,6 @@
 <description>GitHub AI &amp; ML</description>
 <category>官方更新</category>
 <pubDate>Thu, 12 Nov 2026 22:54:52 +0000</pubDate>
-</item>
-<item>
-<title>Amplitude 如何利用 OpenAI 在 1-2 天内改进产品 / How Amplitude ships product improvements in 1–2 days with OpenAI</title>
-<link>https://openai.com/index/amplitude</link>
-<guid isPermaLink="true">https://openai.com/index/amplitude</guid>
-<description>OpenAI News</description>
-<category>官方更新</category>
-<pubDate>Thu, 12 Nov 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Google 搜索借助 Gemini 4 Hydrogen 进行重大升级 / Google Search gets a major upgrade with Gemini 4 Hydrogen</title>
@@ -56,28 +56,28 @@
 <pubDate>Thu, 12 Nov 2026 18:00:50 +0000</pubDate>
 </item>
 <item>
+<title>使用 REST API 管理代码仓库的 AI Scan / Manage AI Scan for repositories using the REST API</title>
+<link>https://github.blog/changelog/2026-11-13-manage-ai-scan-for-repositories-using-the-rest-api</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-11-13-manage-ai-scan-for-repositories-using-the-rest-api</guid>
+<description>GitHub Changelog</description>
+<category>官方更新</category>
+<pubDate>Fri, 13 Nov 2026 12:22:41 +0000</pubDate>
+</item>
+<item>
+<title>LLMON：一种 LLM 原生标记语言，现在在 Granite 4.1 3B 和 8B 中 / LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B</title>
+<link>https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite</link>
+<guid isPermaLink="true">https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite</guid>
+<description>Hugging Face Blog</description>
+<category>官方更新</category>
+<pubDate>Thu, 12 Nov 2026 19:07:35 +0000</pubDate>
+</item>
+<item>
 <title>ARM32 Linux 和 Windows 退役的行动 / Actions for ARM32 Linux &amp; Windows retirement</title>
 <link>https://github.blog/changelog/2026-11-12-actions-for-arm32-linux-windows-retirement</link>
 <guid isPermaLink="true">https://github.blog/changelog/2026-11-12-actions-for-arm32-linux-windows-retirement</guid>
 <description>GitHub Changelog</description>
 <category>官方更新</category>
 <pubDate>Thu, 12 Nov 2026 20:59:36 +0000</pubDate>
-</item>
-<item>
-<title>Gondola 团队利用 Codex 打造更多产品，收入翻倍 / Gondola doubles revenue as its team builds more with Codex</title>
-<link>https://openai.com/business/customer-stories/gondola</link>
-<guid isPermaLink="true">https://openai.com/business/customer-stories/gondola</guid>
-<description>OpenAI News</description>
-<category>官方更新</category>
-<pubDate>Thu, 12 Nov 2026 12:00:00 +0000</pubDate>
-</item>
-<item>
-<title>公共监控警报现在有直接链接 / Public monitoring alerts now have direct links</title>
-<link>https://github.blog/changelog/2026-11-12-public-monitoring-alerts-now-have-direct-links</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-11-12-public-monitoring-alerts-now-have-direct-links</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Thu, 12 Nov 2026 14:37:38 +0000</pubDate>
 </item>
 <item>
 <title>Anthropic 募资 904 亿剑指史上最大 IPO，认购已超六倍</title>
@@ -88,14 +88,6 @@
 <pubDate>Fri, 13 Nov 2026 09:54:26 +0000</pubDate>
 </item>
 <item>
-<title>秘密扫描检测 Cloudflare 服务令牌 / Secret scanning detects Cloudflare service tokens</title>
-<link>https://github.blog/changelog/2026-11-12-secret-scanning-adds-a-detector-for-cloudflare</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-11-12-secret-scanning-adds-a-detector-for-cloudflare</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Thu, 12 Nov 2026 14:38:25 +0000</pubDate>
-</item>
-<item>
 <title>Anthropic 招股遭六倍哄抢，英伟达砸 100 亿抢座</title>
 <link>https://www.aibase.com/news/32307</link>
 <guid isPermaLink="true">https://www.aibase.com/news/32307</guid>
@@ -104,9 +96,25 @@
 <pubDate>Fri, 13 Nov 2026 09:54:26 +0000</pubDate>
 </item>
 <item>
+<title>claude.ai、Claude Code 和 platform.claude.com 上错误率升高 / Elevated errors on claude.ai, Claude Code, and platform.claude.com</title>
+<link>https://status.claude.com/incidents/nn11wk485zfn</link>
+<guid isPermaLink="true">https://status.claude.com/incidents/nn11wk485zfn</guid>
+<description>Hacker News front page</description>
+<category>多源热议</category>
+<pubDate>Fri, 13 Nov 2026 10:59:45 +0000</pubDate>
+</item>
+<item>
 <title>Claude 辅助完成 19 万行代码，成功对三元哥德巴赫猜想进行形式化证明</title>
 <link>https://www.aibase.com/news/32317</link>
 <guid isPermaLink="true">https://www.aibase.com/news/32317</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Fri, 13 Nov 2026 09:54:26 +0000</pubDate>
+</item>
+<item>
+<title>OpenAI 上市前夜再融 150 亿,估值推到 1.25 万亿美元</title>
+<link>https://www.aibase.com/news/32311</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32311</guid>
 <description>AIbase</description>
 <category>行业动态</category>
 <pubDate>Fri, 13 Nov 2026 09:54:26 +0000</pubDate>
@@ -120,36 +128,12 @@
 <pubDate>Fri, 13 Nov 2026 02:46:56 +0000</pubDate>
 </item>
 <item>
-<title>黄仁勋 (Jensen Huang) 不再担任 NVIDIA 首席执行官 / Jensen Huang is out as NVIDIA CEO</title>
-<link>https://www.engadget.com/2314584/jensen-huang-is-out-as-nvidia-ceo</link>
-<guid isPermaLink="true">https://www.engadget.com/2314584/jensen-huang-is-out-as-nvidia-ceo</guid>
-<description>Engadget</description>
-<category>多源热议</category>
-<pubDate>Thu, 12 Nov 2026 14:28:20 +0000</pubDate>
-</item>
-<item>
-<title>OpenAI 上市前夜再融 150 亿,估值推到 1.25 万亿美元</title>
-<link>https://www.aibase.com/news/32311</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32311</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Fri, 13 Nov 2026 09:54:26 +0000</pubDate>
-</item>
-<item>
 <title>英伟达员工联名请愿，要求让黄仁勋回归 / ‘Bring Back THE Boss’: Nvidia Employees Petition for Jensen Huang’s Return</title>
 <link>https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return</link>
 <guid isPermaLink="true">https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return</guid>
 <description>Wired</description>
 <category>值得关注</category>
 <pubDate>Fri, 13 Nov 2026 03:33:44 +0000</pubDate>
-</item>
-<item>
-<title>英伟达宣布首席执行官交接 / NVIDIA Announces CEO Transition</title>
-<link>https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition</link>
-<guid isPermaLink="true">https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition</guid>
-<description>Hacker News front page</description>
-<category>多源热议</category>
-<pubDate>Thu, 12 Nov 2026 14:16:08 +0000</pubDate>
 </item>
 <item>
 <title>“英伟达让詹森辞职是一个错误”：科技领袖对黄仁勋辞职的反应 / ‘It&amp;#8217;s a mistake for Nvidia to let Jensen resign’: reactions from tech leaders on Jensen Huang’s resignation</title>
@@ -166,6 +150,22 @@
 <description>AIbase</description>
 <category>行业动态</category>
 <pubDate>Fri, 13 Nov 2026 09:54:26 +0000</pubDate>
+</item>
+<item>
+<title>无需显卡也能跑！ 40 核老旧服务器硬刚 2.8 万亿参数大模型，傲腾内存成破局利器</title>
+<link>https://www.aibase.com/news/32314</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32314</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Fri, 13 Nov 2026 09:54:26 +0000</pubDate>
+</item>
+<item>
+<title>我正在让大型语言模型（LLM）在小型和旧款设备上运行 / I'm making LLMs work on small and old devices</title>
+<link>https://github.com/hyperionaidev/smolmaxxing</link>
+<guid isPermaLink="true">https://github.com/hyperionaidev/smolmaxxing</guid>
+<description>Hacker News front page</description>
+<category>多源热议</category>
+<pubDate>Thu, 12 Nov 2026 18:16:15 +0000</pubDate>
 </item>
 </channel>
 </rss>
