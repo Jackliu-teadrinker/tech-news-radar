@@ -1,8 +1,91 @@
 {
-  "generated_at": "2026-11-13T15:17:05.516771Z",
+  "generated_at": "2026-11-13T17:59:35.221169Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_a9f8b4a664f6",
+      "title": "Introducing ChatGPT Wallet",
+      "url": "https://openai.com/index/introducing-chatgpt-wallet",
+      "primary_url": "https://openai.com/index/introducing-chatgpt-wallet",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "79d6c8d87c30dafcc370eb46110431b59109dba0",
+          "title": "Introducing ChatGPT Wallet",
+          "title_zh": null,
+          "title_en": "Introducing ChatGPT Wallet",
+          "title_original": "Introducing ChatGPT Wallet",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/introducing-chatgpt-wallet",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-13T15:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "79d6c8d87c30dafcc370eb46110431b59109dba0",
+          "title": "Introducing ChatGPT Wallet",
+          "title_zh": null,
+          "title_en": "Introducing ChatGPT Wallet",
+          "title_original": "Introducing ChatGPT Wallet",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/introducing-chatgpt-wallet",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-13T15:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8624,
+      "importance": 0.8624,
+      "importance_score": 0.8624,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 1.0,
+        "recency": 0.9577,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-13T15:00:00Z",
+      "latest_at": "2026-11-13T15:00:00Z",
+      "primary_item": {
+        "id": "79d6c8d87c30dafcc370eb46110431b59109dba0",
+        "title": "Introducing ChatGPT Wallet",
+        "title_zh": null,
+        "title_en": "Introducing ChatGPT Wallet",
+        "title_original": "Introducing ChatGPT Wallet",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/introducing-chatgpt-wallet",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-13T18:01:49.797034Z"
+      }
+    },
     {
       "story_id": "story_c0e4bca0c953",
       "title": "Codex CLI 0.168.0",
@@ -76,15 +159,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8593,
-      "importance": 0.8593,
-      "importance_score": 0.8593,
+      "score": 0.8538,
+      "importance": 0.8538,
+      "importance_score": 0.8538,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8019,
+        "recency": 0.7712,
         "story_heat": 0.25
       },
       "category": "official",
@@ -112,30 +195,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T15:18:40.418942Z"
+        "scored_at": "2026-11-13T18:01:49.797034Z"
       }
     },
     {
-      "story_id": "story_9113026e72af",
-      "title": "llama.cpp v1.0.0：为本地人工智能生态系统奠定更坚实的基础 / llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
-      "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
-      "primary_url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+      "story_id": "story_65948bc08832",
+      "title": "XYBench：帮助解决问题背后的问题 / XYBench: Helping with the problem behind the question",
+      "url": "https://huggingface.co/blog/allenai/xybench",
+      "primary_url": "https://huggingface.co/blog/allenai/xybench",
       "source": "Hugging Face Blog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "bcbd298040993e9d4bac15c4692e29755582d4bb",
-          "title": "llama.cpp v1.0.0：为本地人工智能生态系统奠定更坚实的基础 / llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
-          "title_zh": "llama.cpp v1.0.0：为本地人工智能生态系统奠定更坚实的基础",
-          "title_en": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
-          "title_original": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+          "id": "0288890466b70d4405f5ca3f04df63e831a672c4",
+          "title": "XYBench：帮助解决问题背后的问题 / XYBench: Helping with the problem behind the question",
+          "title_zh": "XYBench：帮助解决问题背后的问题",
+          "title_en": "XYBench: Helping with the problem behind the question",
+          "title_original": "XYBench: Helping with the problem behind the question",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+          "url": "https://huggingface.co/blog/allenai/xybench",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-13T14:05:22Z"
+          "published_at": "2026-11-13T17:02:35Z"
         }
       ],
       "source_count": 1,
@@ -144,31 +227,31 @@
       ],
       "items": [
         {
-          "id": "bcbd298040993e9d4bac15c4692e29755582d4bb",
-          "title": "llama.cpp v1.0.0：为本地人工智能生态系统奠定更坚实的基础 / llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
-          "title_zh": "llama.cpp v1.0.0：为本地人工智能生态系统奠定更坚实的基础",
-          "title_en": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
-          "title_original": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+          "id": "0288890466b70d4405f5ca3f04df63e831a672c4",
+          "title": "XYBench：帮助解决问题背后的问题 / XYBench: Helping with the problem behind the question",
+          "title_zh": "XYBench：帮助解决问题背后的问题",
+          "title_en": "XYBench: Helping with the problem behind the question",
+          "title_original": "XYBench: Helping with the problem behind the question",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+          "url": "https://huggingface.co/blog/allenai/xybench",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-13T14:05:22Z"
+          "published_at": "2026-11-13T17:02:35Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8249,
-      "importance": 0.8249,
-      "importance_score": 0.8249,
+      "score": 0.8255,
+      "importance": 0.8255,
+      "importance_score": 0.8255,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.79,
-        "recency": 0.9829,
+        "recency": 0.9864,
         "story_heat": 0.0
       },
       "category": "official",
@@ -176,17 +259,17 @@
         "official_source",
         "high_importance"
       ],
-      "earliest_at": "2026-11-13T14:05:22Z",
-      "latest_at": "2026-11-13T14:05:22Z",
+      "earliest_at": "2026-11-13T17:02:35Z",
+      "latest_at": "2026-11-13T17:02:35Z",
       "primary_item": {
-        "id": "bcbd298040993e9d4bac15c4692e29755582d4bb",
-        "title": "llama.cpp v1.0.0：为本地人工智能生态系统奠定更坚实的基础 / llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
-        "title_zh": "llama.cpp v1.0.0：为本地人工智能生态系统奠定更坚实的基础",
-        "title_en": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
-        "title_original": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+        "id": "0288890466b70d4405f5ca3f04df63e831a672c4",
+        "title": "XYBench：帮助解决问题背后的问题 / XYBench: Helping with the problem behind the question",
+        "title_zh": "XYBench：帮助解决问题背后的问题",
+        "title_en": "XYBench: Helping with the problem behind the question",
+        "title_original": "XYBench: Helping with the problem behind the question",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+        "url": "https://huggingface.co/blog/allenai/xybench",
         "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
       },
@@ -194,90 +277,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T15:18:40.418942Z"
-      }
-    },
-    {
-      "story_id": "story_58db6e6cc441",
-      "title": "Amplitude 如何利用 OpenAI 在 1-2 天内改进产品 / How Amplitude ships product improvements in 1–2 days with OpenAI",
-      "url": "https://openai.com/business/customer-stories/amplitude",
-      "primary_url": "https://openai.com/business/customer-stories/amplitude",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "d2e600269211fcf0b2ff48eb378c860934402231",
-          "title": "Amplitude 如何利用 OpenAI 在 1-2 天内改进产品 / How Amplitude ships product improvements in 1–2 days with OpenAI",
-          "title_zh": "Amplitude 如何利用 OpenAI 在 1-2 天内改进产品",
-          "title_en": "How Amplitude ships product improvements in 1–2 days with OpenAI",
-          "title_original": "How Amplitude ships product improvements in 1–2 days with OpenAI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/business/customer-stories/amplitude",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-12T20:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "d2e600269211fcf0b2ff48eb378c860934402231",
-          "title": "Amplitude 如何利用 OpenAI 在 1-2 天内改进产品 / How Amplitude ships product improvements in 1–2 days with OpenAI",
-          "title_zh": "Amplitude 如何利用 OpenAI 在 1-2 天内改进产品",
-          "title_en": "How Amplitude ships product improvements in 1–2 days with OpenAI",
-          "title_original": "How Amplitude ships product improvements in 1–2 days with OpenAI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/business/customer-stories/amplitude",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-12T20:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8222,
-      "importance": 0.8222,
-      "importance_score": 0.8222,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.7569,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-12T20:00:00Z",
-      "latest_at": "2026-11-12T20:00:00Z",
-      "primary_item": {
-        "id": "d2e600269211fcf0b2ff48eb378c860934402231",
-        "title": "Amplitude 如何利用 OpenAI 在 1-2 天内改进产品 / How Amplitude ships product improvements in 1–2 days with OpenAI",
-        "title_zh": "Amplitude 如何利用 OpenAI 在 1-2 天内改进产品",
-        "title_en": "How Amplitude ships product improvements in 1–2 days with OpenAI",
-        "title_original": "How Amplitude ships product improvements in 1–2 days with OpenAI",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/business/customer-stories/amplitude",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-13T15:18:40.418942Z"
+        "scored_at": "2026-11-13T18:01:49.797034Z"
       }
     },
     {
@@ -325,15 +325,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8221,
-      "importance": 0.8221,
-      "importance_score": 0.8221,
+      "score": 0.8167,
+      "importance": 0.8167,
+      "importance_score": 0.8167,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7895,
+        "recency": 0.7592,
         "story_heat": 0.0
       },
       "category": "official",
@@ -360,7 +360,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T15:18:40.418942Z"
+        "scored_at": "2026-11-13T18:01:49.797034Z"
       }
     },
     {
@@ -408,15 +408,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8184,
-      "importance": 0.8184,
-      "importance_score": 0.8184,
+      "score": 0.8133,
+      "importance": 0.8133,
+      "importance_score": 0.8133,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7354,
+        "recency": 0.7072,
         "story_heat": 0.0
       },
       "category": "official",
@@ -443,7 +443,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T15:18:40.418942Z"
+        "scored_at": "2026-11-13T18:01:49.797034Z"
       }
     },
     {
@@ -491,15 +491,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8184,
-      "importance": 0.8184,
-      "importance_score": 0.8184,
+      "score": 0.8133,
+      "importance": 0.8133,
+      "importance_score": 0.8133,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7355,
+        "recency": 0.7073,
         "story_heat": 0.0
       },
       "category": "official",
@@ -526,7 +526,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T15:18:40.418942Z"
+        "scored_at": "2026-11-13T18:01:49.797034Z"
       }
     },
     {
@@ -574,15 +574,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8146,
-      "importance": 0.8146,
-      "importance_score": 0.8146,
+      "score": 0.808,
+      "importance": 0.808,
+      "importance_score": 0.808,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.76,
-        "recency": 0.9589,
+        "recency": 0.9221,
         "story_heat": 0.0
       },
       "category": "official",
@@ -608,7 +608,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T15:18:40.418942Z"
+        "scored_at": "2026-11-13T18:01:49.797034Z"
       }
     },
     {
@@ -656,15 +656,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8245,
-      "importance": 0.8245,
-      "importance_score": 0.8245,
+      "score": 0.8194,
+      "importance": 0.8194,
+      "importance_score": 0.8194,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7474,
+        "recency": 0.7188,
         "story_heat": 0.0
       },
       "category": "official",
@@ -691,7 +691,172 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T15:18:40.418942Z"
+        "scored_at": "2026-11-13T18:01:49.797034Z"
+      }
+    },
+    {
+      "story_id": "story_58db6e6cc441",
+      "title": "Amplitude 如何利用 OpenAI 在 1-2 天内改进产品 / How Amplitude ships product improvements in 1–2 days with OpenAI",
+      "url": "https://openai.com/business/customer-stories/amplitude",
+      "primary_url": "https://openai.com/business/customer-stories/amplitude",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "d2e600269211fcf0b2ff48eb378c860934402231",
+          "title": "Amplitude 如何利用 OpenAI 在 1-2 天内改进产品 / How Amplitude ships product improvements in 1–2 days with OpenAI",
+          "title_zh": "Amplitude 如何利用 OpenAI 在 1-2 天内改进产品",
+          "title_en": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+          "title_original": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/business/customer-stories/amplitude",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-12T20:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "d2e600269211fcf0b2ff48eb378c860934402231",
+          "title": "Amplitude 如何利用 OpenAI 在 1-2 天内改进产品 / How Amplitude ships product improvements in 1–2 days with OpenAI",
+          "title_zh": "Amplitude 如何利用 OpenAI 在 1-2 天内改进产品",
+          "title_en": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+          "title_original": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/business/customer-stories/amplitude",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-12T20:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.817,
+      "importance": 0.817,
+      "importance_score": 0.817,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.7279,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-12T20:00:00Z",
+      "latest_at": "2026-11-12T20:00:00Z",
+      "primary_item": {
+        "id": "d2e600269211fcf0b2ff48eb378c860934402231",
+        "title": "Amplitude 如何利用 OpenAI 在 1-2 天内改进产品 / How Amplitude ships product improvements in 1–2 days with OpenAI",
+        "title_zh": "Amplitude 如何利用 OpenAI 在 1-2 天内改进产品",
+        "title_en": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+        "title_original": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/business/customer-stories/amplitude",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-13T18:01:49.797034Z"
+      }
+    },
+    {
+      "story_id": "story_9113026e72af",
+      "title": "llama.cpp v1.0.0：为本地人工智能生态系统奠定更坚实的基础 / llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+      "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+      "primary_url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "bcbd298040993e9d4bac15c4692e29755582d4bb",
+          "title": "llama.cpp v1.0.0：为本地人工智能生态系统奠定更坚实的基础 / llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+          "title_zh": "llama.cpp v1.0.0：为本地人工智能生态系统奠定更坚实的基础",
+          "title_en": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+          "title_original": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-13T14:05:22Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "bcbd298040993e9d4bac15c4692e29755582d4bb",
+          "title": "llama.cpp v1.0.0：为本地人工智能生态系统奠定更坚实的基础 / llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+          "title_zh": "llama.cpp v1.0.0：为本地人工智能生态系统奠定更坚实的基础",
+          "title_en": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+          "title_original": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-13T14:05:22Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8181,
+      "importance": 0.8181,
+      "importance_score": 0.8181,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.79,
+        "recency": 0.9452,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-13T14:05:22Z",
+      "latest_at": "2026-11-13T14:05:22Z",
+      "primary_item": {
+        "id": "bcbd298040993e9d4bac15c4692e29755582d4bb",
+        "title": "llama.cpp v1.0.0：为本地人工智能生态系统奠定更坚实的基础 / llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+        "title_zh": "llama.cpp v1.0.0：为本地人工智能生态系统奠定更坚实的基础",
+        "title_en": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+        "title_original": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-13T18:01:49.797034Z"
       }
     },
     {
@@ -739,15 +904,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7862,
-      "importance": 0.7862,
-      "importance_score": 0.7862,
+      "score": 0.7809,
+      "importance": 0.7809,
+      "importance_score": 0.7809,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.79,
-        "recency": 0.7679,
+        "recency": 0.7384,
         "story_heat": 0.0
       },
       "category": "official",
@@ -773,7 +938,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T15:18:40.418942Z"
+        "scored_at": "2026-11-13T18:01:49.797034Z"
       }
     },
     {
@@ -821,15 +986,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7334,
-      "importance": 0.7334,
-      "importance_score": 0.7334,
+      "score": 0.727,
+      "importance": 0.727,
+      "importance_score": 0.727,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.684,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.9253,
+        "recency": 0.8898,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -854,7 +1019,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T15:18:40.418942Z"
+        "scored_at": "2026-11-13T18:01:49.797034Z"
       }
     },
     {
@@ -902,15 +1067,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7334,
-      "importance": 0.7334,
-      "importance_score": 0.7334,
+      "score": 0.727,
+      "importance": 0.727,
+      "importance_score": 0.727,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.684,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.9253,
+        "recency": 0.8898,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -935,7 +1100,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T15:18:40.418942Z"
+        "scored_at": "2026-11-13T18:01:49.797034Z"
       }
     },
     {
@@ -1041,15 +1206,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6821,
-      "importance": 0.6821,
-      "importance_score": 0.6821,
+      "score": 0.6756,
+      "importance": 0.6756,
+      "importance_score": 0.6756,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5832,
         "source_tier": 0.58,
         "ai_relevance": 0.81,
-        "recency": 0.9306,
+        "recency": 0.8949,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1075,7 +1240,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T15:18:40.418942Z"
+        "scored_at": "2026-11-13T18:01:49.797034Z"
       }
     },
     {
@@ -1123,15 +1288,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7334,
-      "importance": 0.7334,
-      "importance_score": 0.7334,
+      "score": 0.727,
+      "importance": 0.727,
+      "importance_score": 0.727,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.684,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.9253,
+        "recency": 0.8898,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1156,7 +1321,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T15:18:40.418942Z"
+        "scored_at": "2026-11-13T18:01:49.797034Z"
       }
     },
     {
@@ -1204,15 +1369,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7334,
-      "importance": 0.7334,
-      "importance_score": 0.7334,
+      "score": 0.727,
+      "importance": 0.727,
+      "importance_score": 0.727,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.684,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.9253,
+        "recency": 0.8898,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1237,7 +1402,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T15:18:40.418942Z"
+        "scored_at": "2026-11-13T18:01:49.797034Z"
       }
     },
     {
@@ -1372,15 +1537,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.6631,
-      "importance": 0.6631,
-      "importance_score": 0.6631,
+      "score": 0.6578,
+      "importance": 0.6578,
+      "importance_score": 0.6578,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5616,
         "source_tier": 0.58,
         "ai_relevance": 0.78,
-        "recency": 0.7554,
+        "recency": 0.7264,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1405,7 +1570,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T15:18:40.418942Z"
+        "scored_at": "2026-11-13T18:01:49.797034Z"
       }
     },
     {
@@ -1482,15 +1647,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6242,
-      "importance": 0.6242,
-      "importance_score": 0.6242,
+      "score": 0.6185,
+      "importance": 0.6185,
+      "importance_score": 0.6185,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5616,
         "source_tier": 0.58,
         "ai_relevance": 0.78,
-        "recency": 0.8171,
+        "recency": 0.7858,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1515,7 +1680,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T15:18:40.418942Z"
+        "scored_at": "2026-11-13T18:01:49.797034Z"
       }
     },
     {
@@ -1592,15 +1757,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6168,
-      "importance": 0.6168,
-      "importance_score": 0.6168,
+      "score": 0.6115,
+      "importance": 0.6115,
+      "importance_score": 0.6115,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5616,
         "source_tier": 0.58,
         "ai_relevance": 0.78,
-        "recency": 0.7763,
+        "recency": 0.7465,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1625,7 +1790,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T15:18:40.418942Z"
+        "scored_at": "2026-11-13T18:01:49.797034Z"
       }
     },
     {
@@ -1673,15 +1838,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7334,
-      "importance": 0.7334,
-      "importance_score": 0.7334,
+      "score": 0.727,
+      "importance": 0.727,
+      "importance_score": 0.727,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.684,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.9253,
+        "recency": 0.8898,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1706,228 +1871,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T15:18:40.418942Z"
-      }
-    },
-    {
-      "story_id": "story_ed65cd0cb55d",
-      "title": "无需显卡也能跑！ 40 核老旧服务器硬刚 2.8 万亿参数大模型，傲腾内存成破局利器",
-      "url": "https://www.aibase.com/news/32314",
-      "primary_url": "https://www.aibase.com/news/32314",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "a5364afe70588a4c086bf840f190d495981effff",
-          "title": "无需显卡也能跑！ 40 核老旧服务器硬刚 2.8 万亿参数大模型，傲腾内存成破局利器",
-          "title_zh": "无需显卡也能跑！ 40 核老旧服务器硬刚 2.8 万亿参数大模型，傲腾内存成破局利器",
-          "title_en": null,
-          "title_original": "无需显卡也能跑！ 40 核老旧服务器硬刚 2.8 万亿参数大模型，傲腾内存成破局利器",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32314",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-13T09:54:26.369398Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "a5364afe70588a4c086bf840f190d495981effff",
-          "title": "无需显卡也能跑！ 40 核老旧服务器硬刚 2.8 万亿参数大模型，傲腾内存成破局利器",
-          "title_zh": "无需显卡也能跑！ 40 核老旧服务器硬刚 2.8 万亿参数大模型，傲腾内存成破局利器",
-          "title_en": null,
-          "title_original": "无需显卡也能跑！ 40 核老旧服务器硬刚 2.8 万亿参数大模型，傲腾内存成破局利器",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32314",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-13T09:54:26.369398Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7334,
-      "importance": 0.7334,
-      "importance_score": 0.7334,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.684,
-        "source_tier": 0.78,
-        "ai_relevance": 0.95,
-        "recency": 0.9253,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-13T09:54:26.369398Z",
-      "latest_at": "2026-11-13T09:54:26.369398Z",
-      "primary_item": {
-        "id": "a5364afe70588a4c086bf840f190d495981effff",
-        "title": "无需显卡也能跑！ 40 核老旧服务器硬刚 2.8 万亿参数大模型，傲腾内存成破局利器",
-        "title_zh": "无需显卡也能跑！ 40 核老旧服务器硬刚 2.8 万亿参数大模型，傲腾内存成破局利器",
-        "title_en": null,
-        "title_original": "无需显卡也能跑！ 40 核老旧服务器硬刚 2.8 万亿参数大模型，傲腾内存成破局利器",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32314",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-13T15:18:40.418942Z"
-      }
-    },
-    {
-      "story_id": "story_4eff8fe8966c",
-      "title": "我正在让大型语言模型（LLM）在小型和旧款设备上运行 / I'm making LLMs work on small and old devices",
-      "url": "https://github.com/hyperionaidev/smolmaxxing",
-      "primary_url": "https://github.com/hyperionaidev/smolmaxxing",
-      "source": "Hacker News front page",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "73e27157a0cdbd084c07d3e753d301124c5e8e51",
-          "title": "我正在让大型语言模型（LLM）在小型和旧款设备上运行 / I'm making LLMs work on small and old devices",
-          "title_zh": "我正在让大型语言模型（LLM）在小型和旧款设备上运行",
-          "title_en": "I'm making LLMs work on small and old devices",
-          "title_original": "I'm making LLMs work on small and old devices",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/hyperionaidev/smolmaxxing",
-          "source": "Hacker News front page",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-11-12T15:23:10Z"
-        },
-        {
-          "id": "e8ec99323d40de19b1365be6018de7bf8a7b3e51",
-          "title": "我正在让大型语言模型（LLM）在小型和旧款设备上运行",
-          "title_zh": "我正在让大型语言模型（LLM）在小型和旧款设备上运行",
-          "title_en": null,
-          "title_original": "我正在让大型语言模型（LLM）在小型和旧款设备上运行",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/hyperionaidev/smolmaxxing",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-12T18:16:15.518000Z"
-        },
-        {
-          "id": "d04989be15d9403e04be3b20867a2b3d5fda3262",
-          "title": "我正在让LLM在小型和旧设备上工作 / I'm making LLMs work on small and old devices",
-          "title_zh": "我正在让LLM在小型和旧设备上工作",
-          "title_en": "I'm making LLMs work on small and old devices",
-          "title_original": "I'm making LLMs work on small and old devices",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50468888",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-12T15:23:10Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News front page",
-        "github.com",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "73e27157a0cdbd084c07d3e753d301124c5e8e51",
-          "title": "我正在让大型语言模型（LLM）在小型和旧款设备上运行 / I'm making LLMs work on small and old devices",
-          "title_zh": "我正在让大型语言模型（LLM）在小型和旧款设备上运行",
-          "title_en": "I'm making LLMs work on small and old devices",
-          "title_original": "I'm making LLMs work on small and old devices",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/hyperionaidev/smolmaxxing",
-          "source": "Hacker News front page",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-11-12T15:23:10Z"
-        },
-        {
-          "id": "e8ec99323d40de19b1365be6018de7bf8a7b3e51",
-          "title": "我正在让大型语言模型（LLM）在小型和旧款设备上运行",
-          "title_zh": "我正在让大型语言模型（LLM）在小型和旧款设备上运行",
-          "title_en": null,
-          "title_original": "我正在让大型语言模型（LLM）在小型和旧款设备上运行",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/hyperionaidev/smolmaxxing",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-12T18:16:15.518000Z"
-        },
-        {
-          "id": "d04989be15d9403e04be3b20867a2b3d5fda3262",
-          "title": "我正在让LLM在小型和旧设备上工作 / I'm making LLMs work on small and old devices",
-          "title_zh": "我正在让LLM在小型和旧设备上工作",
-          "title_en": "I'm making LLMs work on small and old devices",
-          "title_original": "I'm making LLMs work on small and old devices",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50468888",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-12T15:23:10Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.642,
-      "importance": 0.642,
-      "importance_score": 0.642,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.5832,
-        "source_tier": 0.58,
-        "ai_relevance": 0.81,
-        "recency": 0.7081,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-12T15:23:10Z",
-      "latest_at": "2026-11-12T18:16:15.518000Z",
-      "primary_item": {
-        "id": "73e27157a0cdbd084c07d3e753d301124c5e8e51",
-        "title": "我正在让大型语言模型（LLM）在小型和旧款设备上运行 / I'm making LLMs work on small and old devices",
-        "title_zh": "我正在让大型语言模型（LLM）在小型和旧款设备上运行",
-        "title_en": "I'm making LLMs work on small and old devices",
-        "title_original": "I'm making LLMs work on small and old devices",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.com/hyperionaidev/smolmaxxing",
-        "source": "Hacker News front page",
-        "source_name": "Curated Media"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-13T15:18:40.418942Z"
+        "scored_at": "2026-11-13T18:01:49.797034Z"
       }
     }
   ]
