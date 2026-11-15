@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T09:49:09.248237Z",
+  "generated_at": "2026-11-15T14:39:18.947576Z",
   "window_hours": 24,
   "total_items": 7,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7313,
-      "importance": 0.7313,
-      "importance_score": 0.7313,
+      "score": 0.7202,
+      "importance": 0.7202,
+      "importance_score": 0.7202,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.684,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.9139,
+        "recency": 0.8522,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -81,7 +81,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-15T09:50:29.228470Z"
+        "scored_at": "2026-11-15T14:40:23.636580Z"
       }
     },
     {
@@ -216,15 +216,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.6923,
-      "importance": 0.6923,
-      "importance_score": 0.6923,
+      "score": 0.682,
+      "importance": 0.682,
+      "importance_score": 0.682,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5832,
         "source_tier": 0.58,
         "ai_relevance": 0.81,
-        "recency": 0.8485,
+        "recency": 0.7913,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -250,139 +250,110 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-15T09:50:29.228470Z"
+        "scored_at": "2026-11-15T14:40:23.636580Z"
       }
     },
     {
-      "story_id": "story_f7d3b237183e",
-      "title": "通过两台配备vLLM的Nvidia DGX工作站，以607.8 tok/s的速度处理GLM-5.3 / Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
-      "url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm",
-      "primary_url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm",
+      "story_id": "story_c965105b93e9",
+      "title": "了解现代LLM中的位置嵌入 / Understanding Positional Embeddings in Modern LLMs",
+      "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
+      "primary_url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
       "source": "Hacker News front page",
       "source_name": "Curated Media",
       "sources": [
         {
-          "id": "d2ace229197503c21e8531298c8b0856581877bc",
-          "title": "通过两台配备vLLM的Nvidia DGX工作站，以607.8 tok/s的速度处理GLM-5.3 / Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
-          "title_zh": "通过两台配备vLLM的Nvidia DGX工作站，以607.8 tok/s的速度处理GLM-5.3",
-          "title_en": "Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
-          "title_original": "Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
+          "id": "c9be298e3f9a71b3701e0e41aebf0e8eccbcc57b",
+          "title": "了解现代LLM中的位置嵌入 / Understanding Positional Embeddings in Modern LLMs",
+          "title_zh": "了解现代LLM中的位置嵌入",
+          "title_en": "Understanding Positional Embeddings in Modern LLMs",
+          "title_original": "Understanding Positional Embeddings in Modern LLMs",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm",
+          "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
           "source": "Hacker News front page",
           "source_name": "Curated Media",
           "site_id": "curated_media",
-          "published_at": "2026-11-14T14:09:25Z"
+          "published_at": "2026-11-15T12:14:06Z"
         },
         {
-          "id": "142c45190f1b0ec524d2add507e28bd2b2e50a0e",
-          "title": "通过两台配备vLLM的Nvidia DGX工作站，以607.8 tok/s的速度处理GLM-5.3",
-          "title_zh": "通过两台配备vLLM的Nvidia DGX工作站，以607.8 tok/s的速度处理GLM-5.3",
-          "title_en": null,
-          "title_original": "通过两台配备vLLM的Nvidia DGX工作站，以607.8 tok/s的速度处理GLM-5.3",
+          "id": "50460e7361d8a4c13500be1beae50e60eadf1785",
+          "title": "了解现代LLM中的位置嵌入 / Understanding Positional Embeddings in Modern LLMs",
+          "title_zh": "了解现代LLM中的位置嵌入",
+          "title_en": "Understanding Positional Embeddings in Modern LLMs",
+          "title_original": "Understanding Positional Embeddings in Modern LLMs",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm",
-          "source": "developer.nvidia.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-14T19:38:56.216000Z"
-        },
-        {
-          "id": "195b954efe87d3eb4915c0f699c2435562f638f9",
-          "title": "通过两个带有 vLLM 的 Nvidia DGX 站以 607.8 tok/s 的速度为 GLM-5.3 提供服务 / Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
-          "title_zh": "通过两个带有 vLLM 的 Nvidia DGX 站以 607.8 tok/s 的速度为 GLM-5.3 提供服务",
-          "title_en": "Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
-          "title_original": "Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50497155",
+          "url": "https://news.ycombinator.com/item?id=50506376",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-14T14:09:25Z"
+          "published_at": "2026-11-15T12:14:06Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 2,
       "source_names": [
         "Hacker News front page",
-        "developer.nvidia.com",
         "hackernews"
       ],
       "items": [
         {
-          "id": "d2ace229197503c21e8531298c8b0856581877bc",
-          "title": "通过两台配备vLLM的Nvidia DGX工作站，以607.8 tok/s的速度处理GLM-5.3 / Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
-          "title_zh": "通过两台配备vLLM的Nvidia DGX工作站，以607.8 tok/s的速度处理GLM-5.3",
-          "title_en": "Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
-          "title_original": "Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
+          "id": "c9be298e3f9a71b3701e0e41aebf0e8eccbcc57b",
+          "title": "了解现代LLM中的位置嵌入 / Understanding Positional Embeddings in Modern LLMs",
+          "title_zh": "了解现代LLM中的位置嵌入",
+          "title_en": "Understanding Positional Embeddings in Modern LLMs",
+          "title_original": "Understanding Positional Embeddings in Modern LLMs",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm",
+          "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
           "source": "Hacker News front page",
           "source_name": "Curated Media",
           "site_id": "curated_media",
-          "published_at": "2026-11-14T14:09:25Z"
+          "published_at": "2026-11-15T12:14:06Z"
         },
         {
-          "id": "142c45190f1b0ec524d2add507e28bd2b2e50a0e",
-          "title": "通过两台配备vLLM的Nvidia DGX工作站，以607.8 tok/s的速度处理GLM-5.3",
-          "title_zh": "通过两台配备vLLM的Nvidia DGX工作站，以607.8 tok/s的速度处理GLM-5.3",
-          "title_en": null,
-          "title_original": "通过两台配备vLLM的Nvidia DGX工作站，以607.8 tok/s的速度处理GLM-5.3",
+          "id": "50460e7361d8a4c13500be1beae50e60eadf1785",
+          "title": "了解现代LLM中的位置嵌入 / Understanding Positional Embeddings in Modern LLMs",
+          "title_zh": "了解现代LLM中的位置嵌入",
+          "title_en": "Understanding Positional Embeddings in Modern LLMs",
+          "title_original": "Understanding Positional Embeddings in Modern LLMs",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm",
-          "source": "developer.nvidia.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-14T19:38:56.216000Z"
-        },
-        {
-          "id": "195b954efe87d3eb4915c0f699c2435562f638f9",
-          "title": "通过两个带有 vLLM 的 Nvidia DGX 站以 607.8 tok/s 的速度为 GLM-5.3 提供服务 / Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
-          "title_zh": "通过两个带有 vLLM 的 Nvidia DGX 站以 607.8 tok/s 的速度为 GLM-5.3 提供服务",
-          "title_en": "Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
-          "title_original": "Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50497155",
+          "url": "https://news.ycombinator.com/item?id=50506376",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-14T14:09:25Z"
+          "published_at": "2026-11-15T12:14:06Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.6709,
-      "importance": 0.6709,
-      "importance_score": 0.6709,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6634,
+      "importance": 0.6634,
+      "importance_score": 0.6634,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.6192,
+        "editorial": 0.5832,
         "source_tier": 0.58,
-        "ai_relevance": 0.86,
-        "recency": 0.7528,
-        "story_heat": 0.5
+        "ai_relevance": 0.81,
+        "recency": 0.9657,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "watch",
       "reasons": [
         "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-11-14T14:09:25Z",
-      "latest_at": "2026-11-14T19:38:56.216000Z",
+      "earliest_at": "2026-11-15T12:14:06Z",
+      "latest_at": "2026-11-15T12:14:06Z",
       "primary_item": {
-        "id": "d2ace229197503c21e8531298c8b0856581877bc",
-        "title": "通过两台配备vLLM的Nvidia DGX工作站，以607.8 tok/s的速度处理GLM-5.3 / Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
-        "title_zh": "通过两台配备vLLM的Nvidia DGX工作站，以607.8 tok/s的速度处理GLM-5.3",
-        "title_en": "Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
-        "title_original": "Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
+        "id": "c9be298e3f9a71b3701e0e41aebf0e8eccbcc57b",
+        "title": "了解现代LLM中的位置嵌入 / Understanding Positional Embeddings in Modern LLMs",
+        "title_zh": "了解现代LLM中的位置嵌入",
+        "title_en": "Understanding Positional Embeddings in Modern LLMs",
+        "title_original": "Understanding Positional Embeddings in Modern LLMs",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm",
+        "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
         "source": "Hacker News front page",
         "source_name": "Curated Media"
       },
@@ -390,7 +361,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-15T09:50:29.228470Z"
+        "scored_at": "2026-11-15T14:40:23.636580Z"
       }
     },
     {
@@ -466,15 +437,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6267,
-      "importance": 0.6267,
-      "importance_score": 0.6267,
+      "score": 0.6175,
+      "importance": 0.6175,
+      "importance_score": 0.6175,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5832,
         "source_tier": 0.58,
         "ai_relevance": 0.81,
-        "recency": 0.762,
+        "recency": 0.7106,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -500,7 +471,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-15T09:50:29.228470Z"
+        "scored_at": "2026-11-15T14:40:23.636580Z"
+      }
+    },
+    {
+      "story_id": "story_54c6e5b391d4",
+      "title": "MacBook Pro 的 OLED PWM 问题：当“更好”的显示屏变得更难用时 / The MacBook Pro's OLED PWM Problem: When a 'Better' Display Becomes Worse to Use",
+      "url": "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use",
+      "primary_url": "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use",
+      "source": "Hacker News front page",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "78947a39206d7365eb9d68915f13c7ee27729749",
+          "title": "MacBook Pro 的 OLED PWM 问题：当“更好”的显示屏变得更难用时 / The MacBook Pro's OLED PWM Problem: When a 'Better' Display Becomes Worse to Use",
+          "title_zh": "MacBook Pro 的 OLED PWM 问题：当“更好”的显示屏变得更难用时",
+          "title_en": "The MacBook Pro's OLED PWM Problem: When a 'Better' Display Becomes Worse to Use",
+          "title_original": "The MacBook Pro's OLED PWM Problem: When a 'Better' Display Becomes Worse to Use",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use",
+          "source": "Hacker News front page",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-11-15T13:15:22Z"
+        },
+        {
+          "id": "ad16a799d667995be9d5907961aa5bc3494b9040",
+          "title": "MacBook Pro 的 OLED PWM 问题：当“更好”的显示屏变得更难用时 / The MacBook Pro's OLED PWM Problem: When a 'Better' Display Becomes Worse to Use",
+          "title_zh": "MacBook Pro 的 OLED PWM 问题：当“更好”的显示屏变得更难用时",
+          "title_en": "The MacBook Pro's OLED PWM Problem: When a 'Better' Display Becomes Worse to Use",
+          "title_original": "The MacBook Pro's OLED PWM Problem: When a 'Better' Display Becomes Worse to Use",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50506719",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-15T13:15:22Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News front page",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "78947a39206d7365eb9d68915f13c7ee27729749",
+          "title": "MacBook Pro 的 OLED PWM 问题：当“更好”的显示屏变得更难用时 / The MacBook Pro's OLED PWM Problem: When a 'Better' Display Becomes Worse to Use",
+          "title_zh": "MacBook Pro 的 OLED PWM 问题：当“更好”的显示屏变得更难用时",
+          "title_en": "The MacBook Pro's OLED PWM Problem: When a 'Better' Display Becomes Worse to Use",
+          "title_original": "The MacBook Pro's OLED PWM Problem: When a 'Better' Display Becomes Worse to Use",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use",
+          "source": "Hacker News front page",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-11-15T13:15:22Z"
+        },
+        {
+          "id": "ad16a799d667995be9d5907961aa5bc3494b9040",
+          "title": "MacBook Pro 的 OLED PWM 问题：当“更好”的显示屏变得更难用时 / The MacBook Pro's OLED PWM Problem: When a 'Better' Display Becomes Worse to Use",
+          "title_zh": "MacBook Pro 的 OLED PWM 问题：当“更好”的显示屏变得更难用时",
+          "title_en": "The MacBook Pro's OLED PWM Problem: When a 'Better' Display Becomes Worse to Use",
+          "title_original": "The MacBook Pro's OLED PWM Problem: When a 'Better' Display Becomes Worse to Use",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50506719",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-15T13:15:22Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6535,
+      "importance": 0.6535,
+      "importance_score": 0.6535,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5616,
+        "source_tier": 0.58,
+        "ai_relevance": 0.78,
+        "recency": 0.98,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-15T13:15:22Z",
+      "latest_at": "2026-11-15T13:15:22Z",
+      "primary_item": {
+        "id": "78947a39206d7365eb9d68915f13c7ee27729749",
+        "title": "MacBook Pro 的 OLED PWM 问题：当“更好”的显示屏变得更难用时 / The MacBook Pro's OLED PWM Problem: When a 'Better' Display Becomes Worse to Use",
+        "title_zh": "MacBook Pro 的 OLED PWM 问题：当“更好”的显示屏变得更难用时",
+        "title_en": "The MacBook Pro's OLED PWM Problem: When a 'Better' Display Becomes Worse to Use",
+        "title_original": "The MacBook Pro's OLED PWM Problem: When a 'Better' Display Becomes Worse to Use",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use",
+        "source": "Hacker News front page",
+        "source_name": "Curated Media"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-15T14:40:23.636580Z"
       }
     },
     {
@@ -606,15 +687,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6394,
-      "importance": 0.6394,
-      "importance_score": 0.6394,
+      "score": 0.6301,
+      "importance": 0.6301,
+      "importance_score": 0.6301,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5616,
         "source_tier": 0.58,
         "ai_relevance": 0.78,
-        "recency": 0.7628,
+        "recency": 0.7114,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -639,117 +720,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-15T09:50:29.228470Z"
-      }
-    },
-    {
-      "story_id": "story_e41159d50cfe",
-      "title": "Show HN：Agweb – 一款专为代理打造的浏览器，不会妨碍您 / Show HN: Agweb – a browser for agents that stays out of your way",
-      "url": "https://github.com/paul-nameless/agweb",
-      "primary_url": "https://github.com/paul-nameless/agweb",
-      "source": "Hacker News front page",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "9e555a7e2bc5cf95b602c2c04284b50ee96b09e5",
-          "title": "Show HN：Agweb – 一款专为代理打造的浏览器，不会妨碍您 / Show HN: Agweb – a browser for agents that stays out of your way",
-          "title_zh": "Show HN：Agweb – 一款专为代理打造的浏览器，不会妨碍您",
-          "title_en": "Show HN: Agweb – a browser for agents that stays out of your way",
-          "title_original": "Show HN: Agweb – a browser for agents that stays out of your way",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/paul-nameless/agweb",
-          "source": "Hacker News front page",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-11-14T14:08:12Z"
-        },
-        {
-          "id": "44ac6481a0513fd306ff2b36e1109fc05add60ca",
-          "title": "Show HN：Agweb – 一款专为代理打造的浏览器，不会妨碍您 / Show HN: Agweb – a browser for agents that stays out of your way",
-          "title_zh": "Show HN：Agweb – 一款专为代理打造的浏览器，不会妨碍您",
-          "title_en": "Show HN: Agweb – a browser for agents that stays out of your way",
-          "title_original": "Show HN: Agweb – a browser for agents that stays out of your way",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50497147",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-14T14:08:12Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News front page",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "9e555a7e2bc5cf95b602c2c04284b50ee96b09e5",
-          "title": "Show HN：Agweb – 一款专为代理打造的浏览器，不会妨碍您 / Show HN: Agweb – a browser for agents that stays out of your way",
-          "title_zh": "Show HN：Agweb – 一款专为代理打造的浏览器，不会妨碍您",
-          "title_en": "Show HN: Agweb – a browser for agents that stays out of your way",
-          "title_original": "Show HN: Agweb – a browser for agents that stays out of your way",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/paul-nameless/agweb",
-          "source": "Hacker News front page",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-11-14T14:08:12Z"
-        },
-        {
-          "id": "44ac6481a0513fd306ff2b36e1109fc05add60ca",
-          "title": "Show HN：Agweb – 一款专为代理打造的浏览器，不会妨碍您 / Show HN: Agweb – a browser for agents that stays out of your way",
-          "title_zh": "Show HN：Agweb – 一款专为代理打造的浏览器，不会妨碍您",
-          "title_en": "Show HN: Agweb – a browser for agents that stays out of your way",
-          "title_original": "Show HN: Agweb – a browser for agents that stays out of your way",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50497147",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-14T14:08:12Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6001,
-      "importance": 0.6001,
-      "importance_score": 0.6001,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.54,
-        "source_tier": 0.58,
-        "ai_relevance": 0.75,
-        "recency": 0.7526,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-14T14:08:12Z",
-      "latest_at": "2026-11-14T14:08:12Z",
-      "primary_item": {
-        "id": "9e555a7e2bc5cf95b602c2c04284b50ee96b09e5",
-        "title": "Show HN：Agweb – 一款专为代理打造的浏览器，不会妨碍您 / Show HN: Agweb – a browser for agents that stays out of your way",
-        "title_zh": "Show HN：Agweb – 一款专为代理打造的浏览器，不会妨碍您",
-        "title_en": "Show HN: Agweb – a browser for agents that stays out of your way",
-        "title_original": "Show HN: Agweb – a browser for agents that stays out of your way",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.com/paul-nameless/agweb",
-        "source": "Hacker News front page",
-        "source_name": "Curated Media"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-15T09:50:29.228470Z"
+        "scored_at": "2026-11-15T14:40:23.636580Z"
       }
     },
     {
@@ -826,15 +797,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5087,
-      "importance": 0.5087,
-      "importance_score": 0.5087,
+      "score": 0.4991,
+      "importance": 0.4991,
+      "importance_score": 0.4991,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7941,
+        "recency": 0.7405,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -856,10 +827,10 @@
         "source_name": "Zeli"
       },
       "persona_id": "pragmatic",
-      "persona_score": 1,
+      "persona_score": 0,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-15T09:50:29.228470Z"
+        "scored_at": "2026-11-15T14:40:23.636580Z"
       }
     }
   ]
