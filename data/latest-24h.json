@@ -1,64 +1,64 @@
 {
-  "generated_at": "2026-11-14T22:41:30.172994Z",
+  "generated_at": "2026-11-15T00:56:30.172701Z",
   "window_hours": 24,
-  "total_items": 188,
-  "total_items_ai_raw": 216,
-  "total_items_raw": 978,
-  "total_items_all_mode": 352,
+  "total_items": 187,
+  "total_items_ai_raw": 219,
+  "total_items_raw": 972,
+  "total_items_all_mode": 359,
   "topic_filter": "tech_broad_scoring_v1_0",
   "ai_relevance_threshold": 0.65,
   "tech_relevance_mode": "broad",
-  "archive_total": 32395,
+  "archive_total": 32192,
   "site_count": 17,
-  "source_count": 42,
+  "source_count": 45,
   "site_stats": [
     {
       "site_id": "curated_media",
       "site_name": "Curated Media",
-      "count": 71,
-      "raw_count": 152
+      "count": 72,
+      "raw_count": 148
     },
     {
       "site_id": "techurls",
       "site_name": "TechURLs",
       "count": 44,
-      "raw_count": 254
+      "raw_count": 259
     },
     {
       "site_id": "iris",
       "site_name": "Info Flow",
       "count": 24,
-      "raw_count": 134
+      "raw_count": 144
     },
     {
       "site_id": "sector_sources",
       "site_name": "Sector Sources",
       "count": 14,
-      "raw_count": 115
+      "raw_count": 116
     },
     {
       "site_id": "newsnow",
       "site_name": "NewsNow",
-      "count": 11,
-      "raw_count": 110
-    },
-    {
-      "site_id": "zeli",
-      "site_name": "Zeli",
-      "count": 10,
-      "raw_count": 69
-    },
-    {
-      "site_id": "followbuilders",
-      "site_name": "Follow Builders",
-      "count": 6,
-      "raw_count": 10
+      "count": 12,
+      "raw_count": 105
     },
     {
       "site_id": "buzzing",
       "site_name": "Buzzing",
-      "count": 6,
-      "raw_count": 113
+      "count": 7,
+      "raw_count": 109
+    },
+    {
+      "site_id": "followbuilders",
+      "site_name": "Follow Builders",
+      "count": 5,
+      "raw_count": 8
+    },
+    {
+      "site_id": "zeli",
+      "site_name": "Zeli",
+      "count": 5,
+      "raw_count": 61
     },
     {
       "site_id": "waytoagi",
@@ -69,18 +69,18 @@
     {
       "site_id": "opmlrss",
       "site_name": "OPML RSS",
-      "count": 0,
-      "raw_count": 6
-    },
-    {
-      "site_id": "aibase",
-      "site_name": "AIbase",
-      "count": 0,
-      "raw_count": 1
+      "count": 1,
+      "raw_count": 7
     },
     {
       "site_id": "hackernews",
       "site_name": "Hacker News",
+      "count": 1,
+      "raw_count": 1
+    },
+    {
+      "site_id": "aibase",
+      "site_name": "AIbase",
       "count": 0,
       "raw_count": 1
     },
@@ -121,6 +121,323 @@
   "creator_items_all": [],
   "items": [
     {
+      "id": "54a9115519a60947ae024fb9b354331a743d0399",
+      "site_id": "curated_media",
+      "site_name": "Curated Media",
+      "source": "Engadget",
+      "title": "What are the limitations of eGPUs vs onboard graphics cards for laptops?",
+      "url": "https://www.engadget.com/2313636/limitations-egpu-vs-onboard-graphics-card-laptop-pc",
+      "published_at": "2026-11-15T00:30:00Z",
+      "first_seen_at": "2026-11-15T00:56:30.172701Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
+      "ai_is_related": true,
+      "ai_score": 0.56,
+      "ai_label": "chip_semi",
+      "ai_relevance_reason": "matched_tech_signal",
+      "ai_signals": [
+        "gpu"
+      ],
+      "ai_noise": [],
+      "tech_is_related": true,
+      "tech_score": 0.56,
+      "tech_label": "chip_semi",
+      "source_tier": "ai_media",
+      "source_tier_label": "精选AI媒体",
+      "source_tier_rank": 2,
+      "direction": "semiconductor",
+      "direction_hits": [
+        {
+          "direction_id": "semiconductor",
+          "score": 0.81,
+          "matched_keywords": [
+            "gpu",
+            "co"
+          ],
+          "companies": []
+        },
+        {
+          "direction_id": "ai_terminal",
+          "score": 0.75,
+          "matched_keywords": [
+            "pc",
+            "ar"
+          ],
+          "companies": []
+        }
+      ],
+      "companies": [],
+      "title_original": "What are the limitations of eGPUs vs onboard graphics cards for laptops?",
+      "title_en": "What are the limitations of eGPUs vs onboard graphics cards for laptops?",
+      "title_zh": "笔记本电脑的 eGPU 与板载显卡相比有哪些限制？",
+      "title_bilingual": "笔记本电脑的 eGPU 与板载显卡相比有哪些限制？ / What are the limitations of eGPUs vs onboard graphics cards for laptops?"
+    },
+    {
+      "id": "382b7bcdaa572e110b9d473056727c52b78dc147",
+      "site_id": "curated_media",
+      "site_name": "Curated Media",
+      "source": "TechCrunch AI",
+      "title": "Where was Nvidia’s security team?",
+      "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team",
+      "published_at": "2026-11-15T00:08:07Z",
+      "first_seen_at": "2026-11-15T00:56:30.172701Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
+      "ai_is_related": true,
+      "ai_score": 0.81,
+      "ai_label": "chip_semi",
+      "ai_relevance_reason": "matched_strong_tech_signal",
+      "ai_signals": [
+        "ai",
+        "nvidia"
+      ],
+      "ai_noise": [],
+      "tech_is_related": true,
+      "tech_score": 0.81,
+      "tech_label": "chip_semi",
+      "source_tier": "ai_media",
+      "source_tier_label": "精选AI媒体",
+      "source_tier_rank": 2,
+      "direction": "compute_dc",
+      "direction_hits": [
+        {
+          "direction_id": "compute_dc",
+          "score": 0.75,
+          "matched_keywords": [
+            "nvidia",
+            "nvidia"
+          ],
+          "companies": [
+            "nvidia"
+          ]
+        },
+        {
+          "direction_id": "semiconductor",
+          "score": 0.75,
+          "matched_keywords": [
+            "co",
+            "nvidia"
+          ],
+          "companies": [
+            "nvidia"
+          ]
+        },
+        {
+          "direction_id": "autonomous_hardware",
+          "score": 0.75,
+          "matched_keywords": [
+            "nvidia"
+          ],
+          "companies": [
+            "nvidia"
+          ]
+        }
+      ],
+      "companies": [
+        "nvidia"
+      ],
+      "title_original": "Where was Nvidia’s security team?",
+      "title_en": "Where was Nvidia’s security team?",
+      "title_zh": "Nvidia 的安全团队在哪里？",
+      "title_bilingual": "Nvidia 的安全团队在哪里？ / Where was Nvidia’s security team?"
+    },
+    {
+      "id": "ec8c1e618b45c5785d52e716ce22ff0f57fd2de5",
+      "site_id": "curated_media",
+      "site_name": "Curated Media",
+      "source": "Bloomberg Tech",
+      "title": "India Stock Market Rebounds as AI Trade Unwinds, Foreign Funds Return",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-15/india-stock-market-rebounds-as-ai-trade-unwinds-foreign-funds-return",
+      "published_at": "2026-11-15T00:00:00Z",
+      "first_seen_at": "2026-11-15T00:56:30.172701Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
+      "ai_is_related": true,
+      "ai_score": 0.56,
+      "ai_label": "tech_general",
+      "ai_relevance_reason": "matched_tech_signal",
+      "ai_signals": [
+        "ai"
+      ],
+      "ai_noise": [],
+      "tech_is_related": true,
+      "tech_score": 0.56,
+      "tech_label": "tech_general",
+      "source_tier": "ai_media",
+      "source_tier_label": "精选AI媒体",
+      "source_tier_rank": 2,
+      "direction": "",
+      "direction_hits": [],
+      "companies": [],
+      "title_original": "India Stock Market Rebounds as AI Trade Unwinds, Foreign Funds Return",
+      "title_en": "India Stock Market Rebounds as AI Trade Unwinds, Foreign Funds Return",
+      "title_zh": "随着人工智能贸易的放松、外国资金的回归，印度股市反弹",
+      "title_bilingual": "随着人工智能贸易的放松、外国资金的回归，印度股市反弹 / India Stock Market Rebounds as AI Trade Unwinds, Foreign Funds Return"
+    },
+    {
+      "id": "c0f6677ee7be8cc7775e082d96da5fce33c7170a",
+      "site_id": "curated_media",
+      "site_name": "Curated Media",
+      "source": "Engadget",
+      "title": "There's a hidden way you can check which services are running on your Android phone",
+      "url": "https://www.engadget.com/2313576/hidden-way-check-which-services-running-on-android-phone",
+      "published_at": "2026-11-15T00:00:00Z",
+      "first_seen_at": "2026-11-15T00:56:30.172701Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
+      "ai_is_related": true,
+      "ai_score": 0.56,
+      "ai_label": "software_saas",
+      "ai_relevance_reason": "matched_tech_signal",
+      "ai_signals": [
+        "android"
+      ],
+      "ai_noise": [],
+      "tech_is_related": true,
+      "tech_score": 0.56,
+      "tech_label": "software_saas",
+      "source_tier": "ai_media",
+      "source_tier_label": "精选AI媒体",
+      "source_tier_rank": 2,
+      "direction": "ai_terminal",
+      "direction_hits": [
+        {
+          "direction_id": "ai_terminal",
+          "score": 1.56,
+          "matched_keywords": [
+            "ar",
+            "android"
+          ],
+          "companies": []
+        }
+      ],
+      "companies": [],
+      "title_original": "There's a hidden way you can check which services are running on your Android phone",
+      "title_en": "There's a hidden way you can check which services are running on your Android phone",
+      "title_zh": "有一种隐藏的方法可以检查 Android 手机上正在运行哪些服务",
+      "title_bilingual": "有一种隐藏的方法可以检查 Android 手机上正在运行哪些服务 / There's a hidden way you can check which services are running on your Android phone"
+    },
+    {
+      "id": "04863017fd5d6ba406b5f78d916d5bbbe0c3e693",
+      "site_id": "curated_media",
+      "site_name": "Curated Media",
+      "source": "Hacker News front page",
+      "title": "Nvidia deliberately kept GPU prices high through circular financing deals",
+      "url": "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html",
+      "published_at": "2026-11-14T22:26:30Z",
+      "first_seen_at": "2026-11-15T00:56:30.172701Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
+      "ai_is_related": true,
+      "ai_score": 0.81,
+      "ai_label": "chip_semi",
+      "ai_relevance_reason": "matched_strong_tech_signal",
+      "ai_signals": [
+        "gpu",
+        "nvidia"
+      ],
+      "ai_noise": [],
+      "tech_is_related": true,
+      "tech_score": 0.81,
+      "tech_label": "chip_semi",
+      "source_tier": "ai_media",
+      "source_tier_label": "精选AI媒体",
+      "source_tier_rank": 2,
+      "direction": "compute_dc",
+      "direction_hits": [
+        {
+          "direction_id": "compute_dc",
+          "score": 2.31,
+          "matched_keywords": [
+            "gpu",
+            "nvidia",
+            "nvidia"
+          ],
+          "companies": [
+            "nvidia"
+          ]
+        },
+        {
+          "direction_id": "semiconductor",
+          "score": 1.56,
+          "matched_keywords": [
+            "gpu",
+            "co",
+            "nvidia"
+          ],
+          "companies": [
+            "nvidia"
+          ]
+        },
+        {
+          "direction_id": "autonomous_hardware",
+          "score": 0.75,
+          "matched_keywords": [
+            "nvidia"
+          ],
+          "companies": [
+            "nvidia"
+          ]
+        }
+      ],
+      "companies": [
+        "nvidia"
+      ],
+      "title_original": "Nvidia deliberately kept GPU prices high through circular financing deals",
+      "title_en": "Nvidia deliberately kept GPU prices high through circular financing deals",
+      "title_zh": "英伟达通过循环融资交易故意维持了GPU的高价",
+      "title_bilingual": "英伟达通过循环融资交易故意维持了GPU的高价 / Nvidia deliberately kept GPU prices high through circular financing deals"
+    },
+    {
+      "id": "2f5a0f2c018be4ded9d798ec193b0beddd531e29",
+      "site_id": "curated_media",
+      "site_name": "Curated Media",
+      "source": "Hacker News front page",
+      "title": "How did Woz write the Apple 1 BASIC before building the computer?",
+      "url": "https://retrocomputing.stackexchange.com/questions/17957",
+      "published_at": "2026-11-14T22:22:49Z",
+      "first_seen_at": "2026-11-15T00:56:30.172701Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
+      "ai_is_related": true,
+      "ai_score": 0.56,
+      "ai_label": "software_saas",
+      "ai_relevance_reason": "matched_tech_signal",
+      "ai_signals": [
+        "asic"
+      ],
+      "ai_noise": [],
+      "tech_is_related": true,
+      "tech_score": 0.56,
+      "tech_label": "software_saas",
+      "source_tier": "ai_media",
+      "source_tier_label": "精选AI媒体",
+      "source_tier_rank": 2,
+      "direction": "semiconductor",
+      "direction_hits": [
+        {
+          "direction_id": "semiconductor",
+          "score": 1.38,
+          "matched_keywords": [
+            "asic",
+            "co"
+          ],
+          "companies": []
+        },
+        {
+          "direction_id": "ai_terminal",
+          "score": 0.75,
+          "matched_keywords": [
+            "apple"
+          ],
+          "companies": [
+            "apple"
+          ]
+        }
+      ],
+      "companies": [
+        "apple"
+      ],
+      "title_original": "How did Woz write the Apple 1 BASIC before building the computer?",
+      "title_en": "How did Woz write the Apple 1 BASIC before building the computer?",
+      "title_zh": "在制造计算机之前，Woz 是如何编写 Apple 1 BASIC 的？",
+      "title_bilingual": "在制造计算机之前，Woz 是如何编写 Apple 1 BASIC 的？ / How did Woz write the Apple 1 BASIC before building the computer?"
+    },
+    {
       "id": "f2a4650bb2abf4d78c6969442d703e63b57241fa",
       "site_id": "curated_media",
       "site_name": "Curated Media",
@@ -129,7 +446,7 @@
       "url": "https://www.engadget.com/2312834/how-to-get-better-results-google-gemini",
       "published_at": "2026-11-14T22:15:00Z",
       "first_seen_at": "2026-11-14T22:41:30.172994Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.78,
       "ai_label": "ai_model",
@@ -178,7 +495,7 @@
       "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang",
       "published_at": "2026-11-14T21:41:22Z",
       "first_seen_at": "2026-11-14T22:41:30.172994Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.81,
       "ai_label": "chip_semi",
@@ -367,7 +684,7 @@
       "url": "https://waytoagi.feishu.cn/wiki/IL5hwypTBitx9DkdO5scTCQdnvh?from=from_copylink",
       "published_at": "2026-11-14T19:51:02.337519Z",
       "first_seen_at": "2026-11-14T19:51:02.337519Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "summary": "Anthropic发布了可落地的在线Agent架构最佳实践，打破了“7×24运行=持续耗Token”的误区。文中给出了队列去重、记忆精简、凭证隔离等实操准则，适合需要处理长周期任务的开发团队做参考。",
       "ai_is_related": true,
       "ai_score": 0.72,
@@ -415,7 +732,7 @@
       "url": "https://waytoagi.feishu.cn/wiki/Bf8zwkbKmiXT6Uk5cubcF2Crnqh?from=from_copylink",
       "published_at": "2026-11-14T19:51:02.337519Z",
       "first_seen_at": "2026-11-14T19:51:02.337519Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "summary": "作者分享了团队用 Hermes 连续实践 4 个月、每天处理 200 多项自动化任务的经验。希望大家在 Personal AI Agent 之外，也会对企业级 Agent OS 的设计、架构以及应用层有一些常规的认识。",
       "ai_is_related": true,
       "ai_score": 0.67,
@@ -479,7 +796,7 @@
       "url": "https://the-decoder.com/anthropic-ceo-amodei-admits-theres-a-huge-uncertainty-in-whats-going-to-happen-next-year-days-before-a-record-ipo",
       "published_at": "2026-11-14T19:05:17Z",
       "first_seen_at": "2026-11-14T19:51:02.337519Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.81,
       "ai_label": "software_saas",
@@ -777,7 +1094,7 @@
       "url": "https://www.crissyfield.de/research/lovable-en",
       "published_at": "2026-11-14T17:43:10Z",
       "first_seen_at": "2026-11-14T19:51:02.337519Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.56,
       "ai_label": "software_saas",
@@ -855,7 +1172,7 @@
       "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it",
       "published_at": "2026-11-14T17:30:00Z",
       "first_seen_at": "2026-11-14T19:51:02.337519Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.56,
       "ai_label": "tech_general",
@@ -887,7 +1204,7 @@
       "url": "https://www.bleepingcomputer.com/news/security/cursor-confirms-security-breach-led-to-malicious-claude-code-extension",
       "published_at": "2026-11-14T17:27:25Z",
       "first_seen_at": "2026-11-14T19:51:02.337519Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.78,
       "ai_label": "ai_model",
@@ -1039,7 +1356,7 @@
       "url": "https://the-decoder.com/gemini-4-carbon-takes-the-matharena-crown-but-costs-15-times-more-than-gpt-6-1-sol",
       "published_at": "2026-11-14T16:48:01Z",
       "first_seen_at": "2026-11-14T19:51:02.337519Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.86,
       "ai_label": "ai_model",
@@ -1089,7 +1406,7 @@
       "url": "https://the-decoder.com/anthropic-says-outdated-prompting-habits-are-slowing-down-claude-opus-5-5",
       "published_at": "2026-11-14T16:42:56Z",
       "first_seen_at": "2026-11-14T19:51:02.337519Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.89,
       "ai_label": "ai_model",
@@ -1140,7 +1457,7 @@
       "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit",
       "published_at": "2026-11-14T16:34:15Z",
       "first_seen_at": "2026-11-14T16:42:01.304008Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.81,
       "ai_label": "chip_semi",
@@ -1208,7 +1525,7 @@
       "url": "https://www.tomshardware.com/pc-components/samsungs-1tb-990-ssd-drops-to-19-cents-per-gb-amid-the-memory-crisis-grab-it-for-usd40-off",
       "published_at": "2026-11-14T16:32:48Z",
       "first_seen_at": "2026-11-14T16:42:01.304008Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.56,
       "ai_label": "consumer_hw",
@@ -1256,7 +1573,7 @@
       "url": "https://www.tomshardware.com/tech-industry/this-week-in-toms-hardware-premium-november-14-2026-mac-studio-versus-dgx-spark-amds-mext-cuts-dram-requirements-in-half-and-the-huang-saga-reaches-critical-mass",
       "published_at": "2026-11-14T16:00:00Z",
       "first_seen_at": "2026-11-14T16:42:01.304008Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.56,
       "ai_label": "tech_general",
@@ -1321,7 +1638,7 @@
       "url": "https://www.bloomberg.com/news/articles/2026-11-14/ai-tools-huang-championed-now-star-in-memes-of-his-downfall",
       "published_at": "2026-11-14T15:57:58Z",
       "first_seen_at": "2026-11-14T16:42:01.304008Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.56,
       "ai_label": "tech_general",
@@ -1353,7 +1670,7 @@
       "url": "https://www.bloomberg.com/news/videos/2026-11-14/anthropic-ipo-tests-investor-appetite-for-ai-video",
       "published_at": "2026-11-14T15:54:39Z",
       "first_seen_at": "2026-11-14T16:42:01.304008Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.81,
       "ai_label": "software_saas",
@@ -1400,7 +1717,7 @@
       "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/u-s-treasury-secretary-questions-whether-nvidia-knowingly-sold-ai-gpus-to-shell-companies-says-company-itself-is-responsible-i-think-it-is-important-that-anyone-at-the-company-there-be-held-accountable-for-that",
       "published_at": "2026-11-14T15:35:48Z",
       "first_seen_at": "2026-11-14T16:42:01.304008Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.84,
       "ai_label": "chip_semi",
@@ -1538,7 +1855,7 @@
       "url": "https://www.bleepingcomputer.com/news/security/us-disrupts-north-korean-campaign-behind-400-million-crypto-theft",
       "published_at": "2026-11-14T15:15:49Z",
       "first_seen_at": "2026-11-14T16:42:01.304008Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.56,
       "ai_label": "tech_general",
@@ -1570,7 +1887,7 @@
       "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/malaysia-plans-new-law-using-data-center-power-consumption-to-catch-ai-gpu-smugglers-but-real-world-tdp-variance-and-lack-of-physical-audits-could-undermine-it-new-law-also-forces-operators-to-pay-for-unused-electricity-capacity",
       "published_at": "2026-11-14T15:10:00Z",
       "first_seen_at": "2026-11-14T16:42:01.304008Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.59,
       "ai_label": "chip_semi",
@@ -1648,7 +1965,7 @@
       "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
       "published_at": "2026-11-14T15:04:15Z",
       "first_seen_at": "2026-11-14T19:51:02.337519Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.78,
       "ai_label": "ai_model",
@@ -1695,7 +2012,7 @@
       "url": "https://www.tomshardware.com/desktops/gaming-pcs/amds-fastest-gaming-cpu-and-the-radeon-rx-9070-just-hit-a-massive-usd550-discount-32gb-ddr5-ram-and-1tb-ssd-round-off-usd1-749-99-gaming-rig",
       "published_at": "2026-11-14T15:00:00Z",
       "first_seen_at": "2026-11-14T16:42:01.304008Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.56,
       "ai_label": "tech_general",
@@ -1762,7 +2079,7 @@
       "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
       "published_at": "2026-11-14T15:00:00Z",
       "first_seen_at": "2026-11-14T16:42:01.304008Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.81,
       "ai_label": "ai_product",
@@ -1809,7 +2126,7 @@
       "url": "https://www.bloomberg.com/news/articles/2026-11-14/italy-fines-meta-805-million-over-access-to-users-photos",
       "published_at": "2026-11-14T14:53:25Z",
       "first_seen_at": "2026-11-14T16:42:01.304008Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.56,
       "ai_label": "ai_product",
@@ -1865,7 +2182,7 @@
       "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/researchers-allege-deepseek-kimi-and-other-chinese-ai-models-were-trained-on-export-controlled-nvidia-blackwell-chips-statistical-analysis-on-model-weights-reveals-high-correlation-to-nvidia-hardware",
       "published_at": "2026-11-14T14:50:00Z",
       "first_seen_at": "2026-11-14T16:42:01.304008Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.89,
       "ai_label": "ai_model",
@@ -2047,7 +2364,7 @@
       "url": "https://www.bloomberg.com/news/videos/2026-11-14/nvidia-looks-for-a-new-era-after-huang-video",
       "published_at": "2026-11-14T14:25:34Z",
       "first_seen_at": "2026-11-14T16:42:01.304008Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.78,
       "ai_label": "chip_semi",
@@ -2114,7 +2431,7 @@
       "url": "https://www.theverge.com/transportation/1033844/tesla-personal-cybercab-orders-299-subscription-fine-print",
       "published_at": "2026-11-14T14:18:36Z",
       "first_seen_at": "2026-11-14T16:42:01.304008Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.78,
       "ai_label": "tech_general",
@@ -2331,7 +2648,7 @@
       "url": "https://github.com/FURSOY/fursoy-cpu",
       "published_at": "2026-11-14T14:06:34Z",
       "first_seen_at": "2026-11-14T16:42:01.304008Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.56,
       "ai_label": "dev_tool",
@@ -2415,7 +2732,7 @@
       "url": "https://www.tomshardware.com/tech-industry/pentagon-struggles-to-account-for-usd31-billion-in-missing-f-35-aircraft-parts-weeks-after-shipment-was-swiped-by-china-tracking-of-estimated-26-million-parts-is-outdated-inaccurate-and-incomplete-says-watchdog",
       "published_at": "2026-11-14T14:00:00Z",
       "first_seen_at": "2026-11-14T16:42:01.304008Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.56,
       "ai_label": "tech_general",
@@ -2457,7 +2774,7 @@
       "url": "https://www.bloomberg.com/news/videos/2026-11-14/couples-are-bringing-ai-into-their-arguments-video",
       "published_at": "2026-11-14T13:57:52Z",
       "first_seen_at": "2026-11-14T14:03:07.410142Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.56,
       "ai_label": "tech_general",
@@ -2489,7 +2806,7 @@
       "url": "https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14",
       "published_at": "2026-11-14T13:48:06Z",
       "first_seen_at": "2026-11-14T16:42:01.304008Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.59,
       "ai_label": "software_saas",
@@ -2724,7 +3041,7 @@
       "url": "https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom",
       "published_at": "2026-11-14T13:00:00Z",
       "first_seen_at": "2026-11-14T14:03:07.410142Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.59,
       "ai_label": "tech_general",
@@ -3083,7 +3400,7 @@
       "url": "https://the-decoder.com/openai-reassigns-robotics-researchers-to-other-teams-as-general-purpose-models-might-make-specialized-robotics-ai-unnecessary",
       "published_at": "2026-11-14T11:40:51Z",
       "first_seen_at": "2026-11-14T14:03:07.410142Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.89,
       "ai_label": "ai_model",
@@ -3142,7 +3459,7 @@
       "url": "https://www.wired.com/story/audit-all-the-cloud-storage-links-youve-shared",
       "published_at": "2026-11-14T11:30:00Z",
       "first_seen_at": "2026-11-14T14:03:07.410142Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.56,
       "ai_label": "software_saas",
@@ -3174,7 +3491,7 @@
       "url": "https://the-decoder.com/anthropic-can-already-retrain-mythos-with-a-fraction-of-the-compute-originally-needed-says-former-researcher-coxon",
       "published_at": "2026-11-14T11:21:41Z",
       "first_seen_at": "2026-11-14T14:03:07.410142Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.81,
       "ai_label": "ai_product",
@@ -3282,7 +3599,7 @@
       "url": "https://www.wired.com/story/no-pilots-few-air-traffic-controllers-what-could-go-wrong",
       "published_at": "2026-11-14T11:00:00Z",
       "first_seen_at": "2026-11-14T14:03:07.410142Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.56,
       "ai_label": "tech_general",
@@ -3314,7 +3631,7 @@
       "url": "https://www.theregister.com/saas/2026/11/14/microsofts-school-email-bill-gives-rivals-something-to-smile-about/5309296",
       "published_at": "2026-11-14T10:27:00Z",
       "first_seen_at": "2026-11-14T14:03:07.410142Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.56,
       "ai_label": "tech_general",
@@ -3346,7 +3663,7 @@
       "url": "https://www.marktechpost.com/2026/11/14/stanford-memorilla-memory-system-16-memory-tokens",
       "published_at": "2026-11-14T10:21:21Z",
       "first_seen_at": "2026-11-14T14:03:07.410142Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.84,
       "ai_label": "ai_model",
@@ -3390,7 +3707,7 @@
       "url": "https://the-decoder.com/runways-open-source-praxis-1-turns-video-ai-into-a-robot-controller",
       "published_at": "2026-11-14T09:45:45Z",
       "first_seen_at": "2026-11-14T14:03:07.410142Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.62,
       "ai_label": "robotics",
@@ -3424,7 +3741,7 @@
       "url": "https://www.marktechpost.com/2026/11/13/vercel-ui-sdk-agent-ui-behaviors",
       "published_at": "2026-11-14T06:38:14Z",
       "first_seen_at": "2026-11-14T09:18:55.832115Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.81,
       "ai_label": "ai_model",
@@ -3467,7 +3784,7 @@
       "url": "https://x.com/garrytan/status/2121464508225053153",
       "published_at": "2026-11-14T04:45:28Z",
       "first_seen_at": "2026-11-14T09:18:55.832115Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.88,
       "ai_label": "ai_model",
@@ -3521,7 +3838,7 @@
       "url": "https://x.com/garrytan/status/2121463161069228382",
       "published_at": "2026-11-14T04:40:07Z",
       "first_seen_at": "2026-11-14T09:18:55.832115Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.63,
       "ai_label": "tech_general",
@@ -3625,7 +3942,7 @@
       "url": "https://x.com/petergyang/status/2121431117526134923",
       "published_at": "2026-11-14T02:32:47Z",
       "first_seen_at": "2026-11-14T09:18:55.832115Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.85,
       "ai_label": "chip_semi",
@@ -3692,7 +4009,7 @@
       "url": "https://x.com/petergyang/status/2121430386685395022",
       "published_at": "2026-11-14T02:29:53Z",
       "first_seen_at": "2026-11-14T09:18:55.832115Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.9,
       "ai_label": "ai_model",
@@ -3740,7 +4057,7 @@
       "url": "https://x.com/amasad/status/2121428406764204199",
       "published_at": "2026-11-14T02:22:01Z",
       "first_seen_at": "2026-11-14T09:18:55.832115Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.82,
       "ai_label": "ai_model",
@@ -3772,113 +4089,302 @@
       "title_bilingual": "与 @Visa 在代理商务方面的合作非常愉快。更多功能和用例即将推出！ https://t.co/R15wSaMQ7c / It's been great partnering with @Visa on agentic commerce. More features and use cases are coming! https://t.co/R15wSaMQ7c"
     },
     {
-      "id": "c5b743948a819fcba19feec0519ba495b299dbeb",
-      "site_id": "curated_media",
-      "site_name": "Curated Media",
-      "source": "Bloomberg Tech",
-      "title": "White House Urges Easing Liability to Encourage AI Disclosure",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-14/white-house-urges-easing-liability-to-encourage-ai-disclosure",
-      "published_at": "2026-11-14T00:34:34Z",
-      "first_seen_at": "2026-11-14T09:18:55.832115Z",
-      "last_seen_at": "2026-11-14T14:03:07.410142Z",
+      "id": "d7f2c2a3683c7ae831d456bd47a7ba0450f344c1",
+      "site_id": "opmlrss",
+      "site_name": "OPML RSS",
+      "source": "Simon Willison",
+      "title": "datasette-llm 0.1a11",
+      "url": "https://simonwillison.net/2026/Nov/14/datasette-llm",
+      "published_at": "2026-11-14T23:59:28Z",
+      "first_seen_at": "2026-11-15T00:56:30.172701Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
-      "ai_score": 0.56,
-      "ai_label": "tech_general",
-      "ai_relevance_reason": "matched_tech_signal",
+      "ai_score": 0.75,
+      "ai_label": "ai_model",
+      "ai_relevance_reason": "matched_strong_tech_signal",
       "ai_signals": [
-        "ai"
+        "llm"
       ],
       "ai_noise": [],
       "tech_is_related": true,
-      "tech_score": 0.56,
-      "tech_label": "tech_general",
-      "source_tier": "ai_media",
-      "source_tier_label": "精选AI媒体",
-      "source_tier_rank": 2,
+      "tech_score": 0.75,
+      "tech_label": "ai_model",
+      "source_tier": "user_opml",
+      "source_tier_label": "RSS/OPML",
+      "source_tier_rank": 3,
       "direction": "",
       "direction_hits": [],
       "companies": [],
-      "title_original": "White House Urges Easing Liability to Encourage AI Disclosure",
-      "title_en": "White House Urges Easing Liability to Encourage AI Disclosure",
-      "title_zh": "白宫敦促减轻责任以鼓励人工智能披露",
-      "title_bilingual": "白宫敦促减轻责任以鼓励人工智能披露 / White House Urges Easing Liability to Encourage AI Disclosure"
-    },
-    {
-      "id": "6537bd75f4af70dd3f81e62b8638d7819a8b0953",
-      "site_id": "curated_media",
-      "site_name": "Curated Media",
-      "source": "Hacker News front page",
-      "title": "Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update",
-      "url": "https://unsloth.ai/docs/models/qwen3.8",
-      "published_at": "2026-11-14T00:06:04Z",
-      "first_seen_at": "2026-11-14T09:18:55.832115Z",
-      "last_seen_at": "2026-11-14T16:42:01.304008Z",
-      "ai_is_related": true,
-      "ai_score": 0.56,
-      "ai_label": "tech_general",
-      "ai_relevance_reason": "matched_tech_signal",
-      "ai_signals": [
-        "ai"
-      ],
-      "ai_noise": [],
-      "tech_is_related": true,
-      "tech_score": 0.56,
-      "tech_label": "tech_general",
-      "source_tier": "ai_media",
-      "source_tier_label": "精选AI媒体",
-      "source_tier_rank": 2,
-      "direction": "",
-      "direction_hits": [],
-      "companies": [],
-      "title_original": "Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update",
-      "title_en": "Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update",
-      "title_zh": "Unsloth Qwen 3.8-27B 量化——Dynamic v3.1 更新",
-      "title_bilingual": "Unsloth Qwen 3.8-27B 量化——Dynamic v3.1 更新 / Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update"
-    },
-    {
-      "id": "9b0f77a057594e598fac008ee392fd8501a8067b",
-      "site_id": "followbuilders",
-      "site_name": "Follow Builders",
-      "source": "Follow Builders · X · Amjad Masad",
-      "title": "Worked with the owner of the StandWithJensen page, which is built and hosted on Replit, to raise the rate limit. It should now scale! Feel free to share @GavinSBaker https://t.co/7fMPobz2ud",
-      "url": "https://x.com/amasad/status/2121389001546567837",
-      "published_at": "2026-11-13T23:45:26Z",
-      "first_seen_at": "2026-11-14T09:18:55.832115Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
-      "ai_is_related": true,
-      "ai_score": 0.63,
-      "ai_label": "tech_general",
-      "ai_relevance_reason": "matched_tech_signal",
-      "ai_signals": [
-        "ai"
-      ],
-      "ai_noise": [],
-      "tech_is_related": true,
-      "tech_score": 0.63,
-      "tech_label": "tech_general",
-      "source_tier": "builders",
-      "source_tier_label": "Builders/X源",
-      "source_tier_rank": 2,
-      "direction": "",
-      "direction_hits": [],
-      "companies": [],
-      "title_original": "Worked with the owner of the StandWithJensen page, which is built and hosted on Replit, to raise the rate limit. It should now scale! Feel free to share @GavinSBaker https://t.co/7fMPobz2ud",
-      "title_en": "Worked with the owner of the StandWithJensen page, which is built and hosted on Replit, to raise the rate limit. It should now scale! Feel free to share @GavinSBaker https://t.co/7fMPobz2ud",
+      "title_original": "datasette-llm 0.1a11",
+      "title_en": "datasette-llm 0.1a11",
       "title_zh": null,
-      "title_bilingual": "Worked with the owner of the StandWithJensen page, which is built and hosted on Replit, to raise the rate limit. It should now scale! Feel free to share @GavinSBaker https://t.co/7fMPobz2ud"
+      "title_bilingual": "datasette-llm 0.1a11"
     },
     {
-      "id": "9d7fbbcd756de74e6b9bef0ae4d5f8a1e0cbfd96",
-      "site_id": "curated_media",
-      "site_name": "Curated Media",
-      "source": "Bloomberg Tech",
-      "title": "Colette Kress Will Face Scrutiny at Nvidia",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-13/colette-kress-will-face-scrutiny-at-nvidia-video",
-      "published_at": "2026-11-13T23:23:54Z",
-      "first_seen_at": "2026-11-13T23:48:15.740118Z",
-      "last_seen_at": "2026-11-14T14:03:07.410142Z",
+      "id": "f94540e998c14dfcc1208bf02a5c3d94f57e2cce",
+      "site_id": "buzzing",
+      "site_name": "Buzzing",
+      "source": "www.techspot.com",
+      "title": "英伟达通过循环融资交易故意维持了GPU的高价",
+      "url": "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html",
+      "published_at": "2026-11-15T00:41:01.386000Z",
+      "first_seen_at": "2026-11-15T00:56:30.172701Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
-      "ai_score": 0.78,
+      "ai_score": 0.73,
+      "ai_label": "chip_semi",
+      "ai_relevance_reason": "matched_strong_tech_signal",
+      "ai_signals": [
+        "gpu",
+        "英伟达"
+      ],
+      "ai_noise": [],
+      "tech_is_related": true,
+      "tech_score": 0.73,
+      "tech_label": "chip_semi",
+      "source_tier": "discussion",
+      "source_tier_label": "热议参考",
+      "source_tier_rank": 5,
+      "direction": "semiconductor",
+      "direction_hits": [
+        {
+          "direction_id": "semiconductor",
+          "score": 1.84,
+          "matched_keywords": [
+            "gpu",
+            "co",
+            "nvidia",
+            "英伟达"
+          ],
+          "companies": [
+            "nvidia",
+            "英伟达"
+          ]
+        },
+        {
+          "direction_id": "compute_dc",
+          "score": 1.76,
+          "matched_keywords": [
+            "gpu",
+            "nvidia",
+            "nvidia",
+            "英伟达"
+          ],
+          "companies": [
+            "nvidia",
+            "英伟达"
+          ]
+        },
+        {
+          "direction_id": "autonomous_hardware",
+          "score": 0.9,
+          "matched_keywords": [
+            "nvidia",
+            "英伟达"
+          ],
+          "companies": [
+            "nvidia",
+            "英伟达"
+          ]
+        }
+      ],
+      "companies": [
+        "nvidia",
+        "英伟达"
+      ],
+      "title_original": "英伟达通过循环融资交易故意维持了GPU的高价",
+      "title_en": null,
+      "title_zh": "英伟达通过循环融资交易故意维持了GPU的高价",
+      "title_bilingual": "英伟达通过循环融资交易故意维持了GPU的高价"
+    },
+    {
+      "id": "816d2fdd39abd16b595ac76c4e468e02089eb4f0",
+      "site_id": "hackernews",
+      "site_name": "Hacker News",
+      "source": "HN Algolia · AI 24h",
+      "title": "DeepSeek's New LLM Engine Just Made GPUs 3x More Valuable [video]",
+      "url": "https://www.youtube.com/watch?v=2K_Rm8cho1I",
+      "published_at": "2026-11-15T00:07:46Z",
+      "first_seen_at": "2026-11-15T00:56:30.172701Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
+      "ai_is_related": true,
+      "ai_score": 0.86,
+      "ai_label": "ai_model",
+      "ai_relevance_reason": "matched_strong_tech_signal",
+      "ai_signals": [
+        "ai",
+        "deepseek",
+        "gpu",
+        "llm"
+      ],
+      "ai_noise": [],
+      "tech_is_related": true,
+      "tech_score": 0.86,
+      "tech_label": "ai_model",
+      "source_tier": "discussion",
+      "source_tier_label": "热议参考",
+      "source_tier_rank": 5,
+      "direction": "ai_models_apps",
+      "direction_hits": [
+        {
+          "direction_id": "ai_models_apps",
+          "score": 2.44,
+          "matched_keywords": [
+            "deepseek",
+            "llm",
+            "deepseek"
+          ],
+          "companies": [
+            "deepseek"
+          ]
+        },
+        {
+          "direction_id": "semiconductor",
+          "score": 0.81,
+          "matched_keywords": [
+            "gpu",
+            "co"
+          ],
+          "companies": []
+        }
+      ],
+      "companies": [
+        "deepseek"
+      ],
+      "title_original": "DeepSeek's New LLM Engine Just Made GPUs 3x More Valuable [video]",
+      "title_en": "DeepSeek's New LLM Engine Just Made GPUs 3x More Valuable [video]",
+      "title_zh": "DeepSeek 的全新 LLM 引擎使 GPU 的价值提高了 3 倍 [视频]",
+      "title_bilingual": "DeepSeek 的全新 LLM 引擎使 GPU 的价值提高了 3 倍 [视频] / DeepSeek's New LLM Engine Just Made GPUs 3x More Valuable [video]"
+    },
+    {
+      "id": "d7be47a4c8cb5bd54474bb7f2e367c26119cb08d",
+      "site_id": "techurls",
+      "site_name": "TechURLs",
+      "source": "Android Police",
+      "title": "Android Auto with Gemini needs a 5-minute privacy check before anyone rides shotgun",
+      "url": "https://www.androidpolice.com/gemini-android-auto-privacy-tweak",
+      "published_at": "2026-11-15T00:00:10Z",
+      "first_seen_at": "2026-11-15T00:56:30.172701Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
+      "ai_is_related": true,
+      "ai_score": 0.73,
+      "ai_label": "ai_model",
+      "ai_relevance_reason": "matched_strong_tech_signal",
+      "ai_signals": [
+        "android",
+        "gemini"
+      ],
+      "ai_noise": [],
+      "tech_is_related": true,
+      "tech_score": 0.73,
+      "tech_label": "ai_model",
+      "source_tier": "discussion",
+      "source_tier_label": "热议参考",
+      "source_tier_rank": 5,
+      "direction": "ai_models_apps",
+      "direction_hits": [
+        {
+          "direction_id": "ai_models_apps",
+          "score": 0.75,
+          "matched_keywords": [
+            "gemini",
+            "gemini"
+          ],
+          "companies": [
+            "gemini"
+          ]
+        }
+      ],
+      "companies": [
+        "gemini"
+      ],
+      "title_original": "Android Auto with Gemini needs a 5-minute privacy check before anyone rides shotgun",
+      "title_en": "Android Auto with Gemini needs a 5-minute privacy check before anyone rides shotgun",
+      "title_zh": "Android Auto with Gemini 在任何人使用之前需要进行 5 分钟的隐私检查",
+      "title_bilingual": "Android Auto with Gemini 在任何人使用之前需要进行 5 分钟的隐私检查 / Android Auto with Gemini needs a 5-minute privacy check before anyone rides shotgun"
+    },
+    {
+      "id": "137b9ef7013d49ab740ea2865617fe4865965b71",
+      "site_id": "newsnow",
+      "site_name": "NewsNow",
+      "source": "hackernews",
+      "title": "Nvidia deliberately kept GPU prices high through circular financing deals",
+      "url": "https://news.ycombinator.com/item?id=50501631",
+      "published_at": "2026-11-14T22:26:30Z",
+      "first_seen_at": "2026-11-15T00:56:30.172701Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
+      "ai_is_related": true,
+      "ai_score": 0.68,
+      "ai_label": "chip_semi",
+      "ai_relevance_reason": "matched_strong_tech_signal",
+      "ai_signals": [
+        "gpu",
+        "nvidia"
+      ],
+      "ai_noise": [],
+      "tech_is_related": true,
+      "tech_score": 0.68,
+      "tech_label": "chip_semi",
+      "source_tier": "discussion",
+      "source_tier_label": "热议参考",
+      "source_tier_rank": 5,
+      "direction": "compute_dc",
+      "direction_hits": [
+        {
+          "direction_id": "compute_dc",
+          "score": 2.31,
+          "matched_keywords": [
+            "gpu",
+            "nvidia",
+            "nvidia"
+          ],
+          "companies": [
+            "nvidia"
+          ]
+        },
+        {
+          "direction_id": "semiconductor",
+          "score": 1.56,
+          "matched_keywords": [
+            "gpu",
+            "co",
+            "nvidia"
+          ],
+          "companies": [
+            "nvidia"
+          ]
+        },
+        {
+          "direction_id": "autonomous_hardware",
+          "score": 0.75,
+          "matched_keywords": [
+            "nvidia"
+          ],
+          "companies": [
+            "nvidia"
+          ]
+        }
+      ],
+      "companies": [
+        "nvidia"
+      ],
+      "title_original": "Nvidia deliberately kept GPU prices high through circular financing deals",
+      "title_en": "Nvidia deliberately kept GPU prices high through circular financing deals",
+      "title_zh": "Nvidia通过循环融资交易刻意保持GPU高价",
+      "title_bilingual": "Nvidia通过循环融资交易刻意保持GPU高价 / Nvidia deliberately kept GPU prices high through circular financing deals"
+    },
+    {
+      "id": "5a926bb6ae8564d33a10608c9a2f11afd6c931cf",
+      "site_id": "techurls",
+      "site_name": "TechURLs",
+      "source": "Techmeme",
+      "title": "Unlike other larger-than-life tech founders, Jensen Huang lacked super-voting shares in Nvidia, making it easier for him to lose control of the company (Forbes)",
+      "url": "https://www.techmeme.com/261114/p20",
+      "published_at": "2026-11-14T22:05:01Z",
+      "first_seen_at": "2026-11-15T00:56:30.172701Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
+      "ai_is_related": true,
+      "ai_score": 0.7,
       "ai_label": "chip_semi",
       "ai_relevance_reason": "matched_strong_tech_signal",
       "ai_signals": [
@@ -3886,11 +4392,11 @@
       ],
       "ai_noise": [],
       "tech_is_related": true,
-      "tech_score": 0.78,
+      "tech_score": 0.7,
       "tech_label": "chip_semi",
-      "source_tier": "ai_media",
-      "source_tier_label": "精选AI媒体",
-      "source_tier_rank": 2,
+      "source_tier": "discussion",
+      "source_tier_label": "热议参考",
+      "source_tier_rank": 5,
       "direction": "compute_dc",
       "direction_hits": [
         {
@@ -3929,90 +4435,67 @@
       "companies": [
         "nvidia"
       ],
-      "title_original": "Colette Kress Will Face Scrutiny at Nvidia",
-      "title_en": "Colette Kress Will Face Scrutiny at Nvidia",
-      "title_zh": "科莱特·克雷斯 (Colette Kress) 将在 Nvidia 面临审查",
-      "title_bilingual": "科莱特·克雷斯 (Colette Kress) 将在 Nvidia 面临审查 / Colette Kress Will Face Scrutiny at Nvidia"
+      "title_original": "Unlike other larger-than-life tech founders, Jensen Huang lacked super-voting shares in Nvidia, making it easier for him to lose control of the company (Forbes)",
+      "title_en": "Unlike other larger-than-life tech founders, Jensen Huang lacked super-voting shares in Nvidia, making it easier for him to lose control of the company (Forbes)",
+      "title_zh": null,
+      "title_bilingual": "Unlike other larger-than-life tech founders, Jensen Huang lacked super-voting shares in Nvidia, making it easier for him to lose control of the company (Forbes)"
     },
     {
-      "id": "e91c3b61ed62a96aba818f6d7991afc1d40605e7",
-      "site_id": "curated_media",
-      "site_name": "Curated Media",
-      "source": "Bloomberg Tech",
-      "title": "Modine Shares Gain Most in Six Years After Samsung Buyout Talks",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-13/modine-shares-gain-most-in-six-years-after-samsung-buyout-talks",
-      "published_at": "2026-11-13T23:03:51Z",
-      "first_seen_at": "2026-11-13T23:48:15.740118Z",
-      "last_seen_at": "2026-11-14T09:18:55.832115Z",
+      "id": "1de961cffcb9e680f6c3a5d1e95b7784add13ba4",
+      "site_id": "techurls",
+      "site_name": "TechURLs",
+      "source": "Android Police",
+      "title": "I used Gemini to track my credit card bills; I never missed a payment ever again",
+      "url": "https://www.androidpolice.com/gemini-track-credit-card-bills-payments",
+      "published_at": "2026-11-14T22:00:10Z",
+      "first_seen_at": "2026-11-15T00:56:30.172701Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
-      "ai_score": 0.59,
-      "ai_label": "consumer_hw",
-      "ai_relevance_reason": "matched_tech_signal",
+      "ai_score": 0.76,
+      "ai_label": "ai_model",
+      "ai_relevance_reason": "matched_strong_tech_signal",
       "ai_signals": [
         "ai",
-        "samsung"
+        "android",
+        "gemini"
       ],
       "ai_noise": [],
       "tech_is_related": true,
-      "tech_score": 0.59,
-      "tech_label": "consumer_hw",
-      "source_tier": "ai_media",
-      "source_tier_label": "精选AI媒体",
-      "source_tier_rank": 2,
+      "tech_score": 0.76,
+      "tech_label": "ai_model",
+      "source_tier": "discussion",
+      "source_tier_label": "热议参考",
+      "source_tier_rank": 5,
       "direction": "ai_terminal",
       "direction_hits": [
         {
           "direction_id": "ai_terminal",
-          "score": 2.31,
+          "score": 1.0,
           "matched_keywords": [
-            "samsung",
             "ar",
-            "samsung"
+            "android"
+          ],
+          "companies": []
+        },
+        {
+          "direction_id": "ai_models_apps",
+          "score": 0.75,
+          "matched_keywords": [
+            "gemini",
+            "gemini"
           ],
           "companies": [
-            "samsung"
+            "gemini"
           ]
         }
       ],
       "companies": [
-        "samsung"
+        "gemini"
       ],
-      "title_original": "Modine Shares Gain Most in Six Years After Samsung Buyout Talks",
-      "title_en": "Modine Shares Gain Most in Six Years After Samsung Buyout Talks",
-      "title_zh": "三星收购谈判后莫丁股价六年来涨幅最大",
-      "title_bilingual": "三星收购谈判后莫丁股价六年来涨幅最大 / Modine Shares Gain Most in Six Years After Samsung Buyout Talks"
-    },
-    {
-      "id": "531df777c81d4a9f07379f234eeb8f752ce4d824",
-      "site_id": "curated_media",
-      "site_name": "Curated Media",
-      "source": "TechCrunch AI",
-      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
-      "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say",
-      "published_at": "2026-11-13T22:43:00Z",
-      "first_seen_at": "2026-11-13T23:48:15.740118Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
-      "ai_is_related": true,
-      "ai_score": 0.56,
-      "ai_label": "industry_business",
-      "ai_relevance_reason": "matched_tech_signal",
-      "ai_signals": [
-        "ai"
-      ],
-      "ai_noise": [],
-      "tech_is_related": true,
-      "tech_score": 0.56,
-      "tech_label": "industry_business",
-      "source_tier": "ai_media",
-      "source_tier_label": "精选AI媒体",
-      "source_tier_rank": 2,
-      "direction": "",
-      "direction_hits": [],
-      "companies": [],
-      "title_original": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
-      "title_en": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
-      "title_zh": "风险投资家和创始人表示，黄仁勋的离职导致人工智能初创公司资金出现巨大缺口",
-      "title_bilingual": "风险投资家和创始人表示，黄仁勋的离职导致人工智能初创公司资金出现巨大缺口 / Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say"
+      "title_original": "I used Gemini to track my credit card bills; I never missed a payment ever again",
+      "title_en": "I used Gemini to track my credit card bills; I never missed a payment ever again",
+      "title_zh": "我使用 Gemini 来追踪我的信用卡账单；我再也没有错过付款",
+      "title_bilingual": "我使用 Gemini 来追踪我的信用卡账单；我再也没有错过付款 / I used Gemini to track my credit card bills; I never missed a payment ever again"
     },
     {
       "id": "513621aef39494027890f805c1c1ad382b301e15",
@@ -4023,7 +4506,7 @@
       "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
       "published_at": "2026-11-14T21:13:58.862000Z",
       "first_seen_at": "2026-11-14T22:41:30.172994Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.73,
       "ai_label": "ai_model",
@@ -4071,7 +4554,7 @@
       "url": "https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee",
       "published_at": "2026-11-14T20:04:44Z",
       "first_seen_at": "2026-11-14T22:41:30.172994Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.7,
       "ai_label": "tech_general",
@@ -4118,7 +4601,7 @@
       "url": "https://www.businessinsider.com/intelligence-jensen-huang-downfall-shaky-nvidia-china-spy-gpus-2026-11",
       "published_at": "2026-11-14T20:00:34Z",
       "first_seen_at": "2026-11-14T22:41:30.172994Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.7,
       "ai_label": "chip_semi",
@@ -4192,7 +4675,7 @@
       "url": "https://www.androidpolice.com/replaced-learning-apps-with-gemini-guided-learning-remembers-progress-adapts-to-pace",
       "published_at": "2026-11-14T20:00:10Z",
       "first_seen_at": "2026-11-14T22:41:30.172994Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.73,
       "ai_label": "ai_model",
@@ -4248,7 +4731,7 @@
       "url": "https://www.techmeme.com/261114/p18",
       "published_at": "2026-11-14T19:55:01Z",
       "first_seen_at": "2026-11-14T22:41:30.172994Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.7,
       "ai_label": "chip_semi",
@@ -4315,7 +4798,7 @@
       "url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm",
       "published_at": "2026-11-14T19:38:56.216000Z",
       "first_seen_at": "2026-11-14T19:51:02.337519Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.78,
       "ai_label": "ai_model",
@@ -4395,7 +4878,7 @@
       "url": "https://juejin.cn/post/7707462833181753353",
       "published_at": "2026-11-14T19:30:17.963000Z",
       "first_seen_at": "2026-11-14T19:51:02.337519Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.62,
       "ai_label": "ai_model",
@@ -4496,7 +4979,7 @@
       "url": "https://www.techmeme.com/261114/p17",
       "published_at": "2026-11-14T19:01:14Z",
       "first_seen_at": "2026-11-14T19:51:02.337519Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.7,
       "ai_label": "chip_semi",
@@ -4572,7 +5055,7 @@
       "url": "https://www.techmeme.com/261114/p15",
       "published_at": "2026-11-14T18:05:02Z",
       "first_seen_at": "2026-11-14T19:51:02.337519Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.57,
       "ai_label": "ai_model",
@@ -4607,7 +5090,7 @@
       "url": "https://techcrunch.com/2026/11/14/got-an-iphone-duo-these-9-settings-make-it-easier-to-use",
       "published_at": "2026-11-14T18:00:00Z",
       "first_seen_at": "2026-11-14T19:51:02.337519Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.7,
       "ai_label": "consumer_hw",
@@ -4653,7 +5136,7 @@
       "url": "https://www.techradar.com/phones/iphone/the-iphone-duo-has-transformed-how-i-code-with-my-mac-and-this-game-changing-app-unlocked-its-productivity-potential",
       "published_at": "2026-11-14T18:00:00Z",
       "first_seen_at": "2026-11-14T19:51:02.337519Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.7,
       "ai_label": "software_saas",
@@ -4701,7 +5184,7 @@
       "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/rogue-claude-ai-tasked-with-renumbering-pages-accidentally-deletes-law-professors-entire-syllabus-one-year-of-lecture-notes-youre-right-to-be-angry-i-deleted-your-files-through-my-own-carelessness-humbled-agent-admits",
       "published_at": "2026-11-14T17:51:13Z",
       "first_seen_at": "2026-11-14T19:51:02.337519Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "ai_model",
@@ -4808,7 +5291,7 @@
       "url": "https://www.v2ex.com/t/1257137",
       "published_at": "2026-11-14T17:41:27Z",
       "first_seen_at": "2026-11-14T19:51:02.337519Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "ai_model",
@@ -4840,7 +5323,7 @@
       "url": "https://daringfireball.net/linked/2026/11/14/patrick-mcgee-on-johny-srouji-and-nvidia",
       "published_at": "2026-11-14T17:40:39Z",
       "first_seen_at": "2026-11-14T19:51:02.337519Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.7,
       "ai_label": "chip_semi",
@@ -4906,7 +5389,7 @@
       "url": "https://www.businessinsider.com/petition-reinstate-jensen-huang-nvidia-elon-musk-2026-11",
       "published_at": "2026-11-14T17:28:05Z",
       "first_seen_at": "2026-11-14T19:51:02.337519Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.7,
       "ai_label": "chip_semi",
@@ -4973,7 +5456,7 @@
       "url": "https://www.v2ex.com/t/1257136",
       "published_at": "2026-11-14T17:17:38Z",
       "first_seen_at": "2026-11-14T19:51:02.337519Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.68,
       "ai_label": "ai_model",
@@ -5017,7 +5500,7 @@
       "url": "https://www.businessinsider.com/nvidia-new-ceo-candidates-replace-jensen-huang-2026-11",
       "published_at": "2026-11-14T16:37:13Z",
       "first_seen_at": "2026-11-14T19:51:02.337519Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.7,
       "ai_label": "chip_semi",
@@ -5084,7 +5567,7 @@
       "url": "https://www.v2ex.com/t/1257132",
       "published_at": "2026-11-14T16:32:42Z",
       "first_seen_at": "2026-11-14T16:42:01.304008Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "consumer_hw",
@@ -5130,7 +5613,7 @@
       "url": "https://www.v2ex.com/t/1257131",
       "published_at": "2026-11-14T16:24:00Z",
       "first_seen_at": "2026-11-14T16:42:01.304008Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.68,
       "ai_label": "consumer_hw",
@@ -5178,7 +5661,7 @@
       "url": "https://www.techmeme.com/261114/p12",
       "published_at": "2026-11-14T16:01:26Z",
       "first_seen_at": "2026-11-14T19:51:02.337519Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.7,
       "ai_label": "tech_general",
@@ -5226,7 +5709,7 @@
       "url": "https://www.androidpolice.com/gemini-true-power-comes-from-the-tweaks-nobody-wants-to-talk-about",
       "published_at": "2026-11-14T16:00:10Z",
       "first_seen_at": "2026-11-14T19:51:02.337519Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.73,
       "ai_label": "ai_model",
@@ -5273,7 +5756,7 @@
       "url": "https://daringfireball.net/linked/2026/11/14/microsoft-outage",
       "published_at": "2026-11-14T16:00:00Z",
       "first_seen_at": "2026-11-14T19:51:02.337519Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.73,
       "ai_label": "ai_model",
@@ -5325,7 +5808,7 @@
       "url": "https://www.v2ex.com/t/1257126",
       "published_at": "2026-11-14T15:38:08Z",
       "first_seen_at": "2026-11-14T16:42:01.304008Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.67,
       "ai_label": "ai_model",
@@ -5375,7 +5858,7 @@
       "url": "https://www.v2ex.com/t/1257123",
       "published_at": "2026-11-14T15:29:52Z",
       "first_seen_at": "2026-11-14T16:42:01.304008Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "ai_model",
@@ -5407,7 +5890,7 @@
       "url": "https://www.macrumors.com/2026/11/14/early-apple-black-friday-deals-2",
       "published_at": "2026-11-14T15:25:16Z",
       "first_seen_at": "2026-11-14T16:42:01.304008Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.76,
       "ai_label": "software_saas",
@@ -5458,7 +5941,7 @@
       "url": "https://news.ycombinator.com/item?id=50497589",
       "published_at": "2026-11-14T15:04:15Z",
       "first_seen_at": "2026-11-14T19:51:02.337519Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "ai_model",
@@ -5552,7 +6035,7 @@
       "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
       "published_at": "2026-11-14T15:00:00Z",
       "first_seen_at": "2026-11-14T16:42:01.304008Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.73,
       "ai_label": "ai_product",
@@ -5599,7 +6082,7 @@
       "url": "https://www.v2ex.com/t/1257115",
       "published_at": "2026-11-14T14:44:59Z",
       "first_seen_at": "2026-11-14T16:42:01.304008Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "ai_model",
@@ -5755,7 +6238,7 @@
       "url": "https://www.producthunt.com/products/openai",
       "published_at": "2026-11-14T14:03:57.522000Z",
       "first_seen_at": "2026-11-14T14:03:07.410142Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "ai_model",
@@ -5802,7 +6285,7 @@
       "url": "https://www.producthunt.com/products/gemini-robotics-2-5",
       "published_at": "2026-11-14T14:03:57.522000Z",
       "first_seen_at": "2026-11-14T14:03:07.410142Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.73,
       "ai_label": "ai_model",
@@ -5859,7 +6342,7 @@
       "url": "https://www.macrumors.com/2026/11/14/top-stories-apple-new-software-approach",
       "published_at": "2026-11-14T14:00:08Z",
       "first_seen_at": "2026-11-14T16:42:01.304008Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.7,
       "ai_label": "software_saas",
@@ -5958,7 +6441,7 @@
       "url": "https://www.androidpolice.com/heres-how-to-play-world-of-warcraft-forever-on-your-smartphone",
       "published_at": "2026-11-14T13:45:10Z",
       "first_seen_at": "2026-11-14T14:03:07.410142Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.73,
       "ai_label": "software_saas",
@@ -6002,7 +6485,7 @@
       "url": "https://www.netmeister.org/blog/claude-delusion.html",
       "published_at": "2026-11-14T13:36:17Z",
       "first_seen_at": "2026-11-14T16:42:01.304008Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "ai_model",
@@ -6034,7 +6517,7 @@
       "url": "https://juejin.cn/post/7707184266060300322",
       "published_at": "2026-11-14T13:35:02.193000Z",
       "first_seen_at": "2026-11-14T14:03:07.410142Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.68,
       "ai_label": "ai_model",
@@ -6202,7 +6685,7 @@
       "url": "https://debarshibasak.github.io/readables/blogs/agent-first-development",
       "published_at": "2026-11-14T12:38:43Z",
       "first_seen_at": "2026-11-14T22:41:30.172994Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.62,
       "ai_label": "ai_model",
@@ -6251,7 +6734,7 @@
       "url": "https://www.economist.com/business/2026/11/14/the-bottom-line-newsletter-nvidia-will-never-be-the-same",
       "published_at": "2026-11-14T12:29:45.854000Z",
       "first_seen_at": "2026-11-14T14:03:07.410142Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.7,
       "ai_label": "chip_semi",
@@ -6408,7 +6891,7 @@
       "url": "https://www.androidpolice.com/top-shot-motion-photo",
       "published_at": "2026-11-14T11:30:10Z",
       "first_seen_at": "2026-11-14T14:03:07.410142Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.76,
       "ai_label": "software_saas",
@@ -6552,7 +7035,7 @@
       "url": "https://www.androidpolice.com/i-used-pixel-10s-magic-cue-galaxys-now-nudge-side-by-side-one-showed-up-when-i-needed-it",
       "published_at": "2026-11-14T11:00:10Z",
       "first_seen_at": "2026-11-14T14:03:07.410142Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.78,
       "ai_label": "software_saas",
@@ -6597,7 +7080,7 @@
       "url": "https://www.vox.com/future-perfect/510882/nvidia-jensen-huang-spy-ai-security-openai-anthropic",
       "published_at": "2026-11-14T11:00:00Z",
       "first_seen_at": "2026-11-14T14:03:07.410142Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.73,
       "ai_label": "chip_semi",
@@ -6682,7 +7165,7 @@
       "url": "https://yro.slashdot.org/story/26/11/14/0211248/ex-nvidia-ceo-misled-company-leaders-on-affair-with-chinese-businesswoman",
       "published_at": "2026-11-14T11:00:00Z",
       "first_seen_at": "2026-11-14T14:03:07.410142Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.73,
       "ai_label": "chip_semi",
@@ -6750,7 +7233,7 @@
       "url": "https://claude.com/resources/articles/claude-meetings",
       "published_at": "2026-11-14T10:44:27.205000Z",
       "first_seen_at": "2026-11-14T14:03:07.410142Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.7,
       "ai_label": "ai_model",
@@ -6782,7 +7265,7 @@
       "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
       "published_at": "2026-11-14T10:32:03.584000Z",
       "first_seen_at": "2026-11-14T14:03:07.410142Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.75,
       "ai_label": "chip_semi",
@@ -7014,7 +7497,7 @@
       "url": "https://mashable.com/life/chatgpt-wedding-vows",
       "published_at": "2026-11-14T10:00:00Z",
       "first_seen_at": "2026-11-14T14:03:07.410142Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.7,
       "ai_label": "ai_model",
@@ -7128,7 +7611,7 @@
       "url": "https://juejin.cn/post/7707118655453282313",
       "published_at": "2026-11-14T09:04:09.379000Z",
       "first_seen_at": "2026-11-14T09:18:55.832115Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.68,
       "ai_label": "ai_model",
@@ -7175,7 +7658,7 @@
       "url": "https://juejin.cn/post/7707128656847536162",
       "published_at": "2026-11-14T09:04:09.379000Z",
       "first_seen_at": "2026-11-14T09:18:55.832115Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "ai_model",
@@ -7430,7 +7913,7 @@
       "url": "https://www.techmeme.com/261114/p7",
       "published_at": "2026-11-14T07:30:08Z",
       "first_seen_at": "2026-11-14T09:18:55.832115Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.76,
       "ai_label": "chip_semi",
@@ -7669,7 +8152,7 @@
       "url": "https://twitter.com/willdepue/status/2120992457630326841",
       "published_at": "2026-11-14T06:50:21Z",
       "first_seen_at": "2026-11-14T22:41:30.172994Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.68,
       "ai_label": "ai_model",
@@ -7716,7 +8199,7 @@
       "url": "https://www.androidpolice.com/google-pixel-11-pro-most-pointless-feature-useful-upgrade",
       "published_at": "2026-11-14T06:32:41Z",
       "first_seen_at": "2026-11-14T09:18:55.832115Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.73,
       "ai_label": "software_saas",
@@ -7817,7 +8300,7 @@
       "url": "https://www.androidpolice.com/android-xr-smart-glasses-will-hide-faces-from-gemini-ban-real-time-facial-recognition",
       "published_at": "2026-11-14T04:29:17Z",
       "first_seen_at": "2026-11-14T09:18:55.832115Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.73,
       "ai_label": "ai_model",
@@ -8100,7 +8583,7 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-director-sold-nearly-1b-160000846.html",
       "published_at": "2026-11-14T02:21:36Z",
       "first_seen_at": "2026-11-14T09:18:55.832115Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "chip_semi",
@@ -8479,273 +8962,112 @@
       "title_bilingual": "Sources and messages: Jensen Huang misled several Nvidia leaders, including general counsel Tim Teter, about the nature of his relationship with Alice Huang (Reuters)"
     },
     {
-      "id": "2757876d89a1a1213b20af43f8187a6dd7539802",
-      "site_id": "zeli",
-      "site_name": "Zeli",
-      "source": "Hacker News · 24h最热",
-      "title": "DeepSeek V4 Pro 0813",
-      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-0813",
-      "published_at": "2026-11-14T00:50:33Z",
-      "first_seen_at": "2026-11-14T14:03:07.410142Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "id": "fc0b3328e2b03fe9198271af7c8c26e45eb35b18",
+      "site_id": "sector_sources",
+      "site_name": "Sector Sources",
+      "source": "IT Home",
+      "title": "IT早报 1115：SpaceX 首次完成“筷子夹星舰飞船”；百万级 CAR-T 抗癌药首次进医保；古尔曼重申苹果 iPhone 18 明年春发布；比亚迪辟谣收购某数字能源...",
+      "url": "https://www.ithome.com/1/027/257.htm",
+      "published_at": "2026-11-14T23:55:12Z",
+      "first_seen_at": "2026-11-15T00:56:30.172701Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
-      "ai_score": 0.68,
+      "ai_score": 0.6,
       "ai_label": "ai_model",
       "ai_relevance_reason": "matched_strong_tech_signal",
       "ai_signals": [
-        "deepseek",
-        "huggingface"
+        "iphone"
       ],
       "ai_noise": [],
       "tech_is_related": true,
-      "tech_score": 0.68,
+      "tech_score": 0.6,
       "tech_label": "ai_model",
-      "source_tier": "discussion",
-      "source_tier_label": "热议参考",
-      "source_tier_rank": 5,
-      "direction": "ai_models_apps",
-      "direction_hits": [
-        {
-          "direction_id": "ai_models_apps",
-          "score": 0.75,
-          "matched_keywords": [
-            "deepseek",
-            "deepseek"
-          ],
-          "companies": [
-            "deepseek"
-          ]
-        }
-      ],
-      "companies": [
-        "deepseek"
-      ],
-      "title_original": "DeepSeek V4 Pro 0813",
-      "title_en": "DeepSeek V4 Pro 0813",
-      "title_zh": null,
-      "title_bilingual": "DeepSeek V4 Pro 0813"
-    },
-    {
-      "id": "7ccce7da72a56e428ea096d7d2dda4d8f6e20dce",
-      "site_id": "zeli",
-      "site_name": "Zeli",
-      "source": "Hacker News · 24h最热",
-      "title": "Show HN: Light control for MacBook charger status light (open-source)",
-      "url": "https://github.com/Getterbetter/ember/releases/tag/v1.0.1",
-      "published_at": "2026-11-14T00:44:58Z",
-      "first_seen_at": "2026-11-14T19:51:02.337519Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
-      "ai_is_related": true,
-      "ai_score": 0.68,
-      "ai_label": "dev_tool",
-      "ai_relevance_reason": "matched_strong_tech_signal",
-      "ai_signals": [
-        "macbook",
-        "open-source"
-      ],
-      "ai_noise": [],
-      "tech_is_related": true,
-      "tech_score": 0.68,
-      "tech_label": "dev_tool",
-      "source_tier": "discussion",
-      "source_tier_label": "热议参考",
-      "source_tier_rank": 5,
+      "source_tier": "other",
+      "source_tier_label": "其他来源",
+      "source_tier_rank": 9,
       "direction": "ai_terminal",
       "direction_hits": [
         {
           "direction_id": "ai_terminal",
-          "score": 2.25,
+          "score": 2.4,
           "matched_keywords": [
-            "mac",
-            "macbook",
-            "ar"
+            "iphone",
+            "ar",
+            "iphone",
+            "苹果"
           ],
-          "companies": []
-        }
-      ],
-      "companies": [],
-      "title_original": "Show HN: Light control for MacBook charger status light (open-source)",
-      "title_en": "Show HN: Light control for MacBook charger status light (open-source)",
-      "title_zh": "Show HN：MacBook 充电器状态灯的灯光控制（开源）",
-      "title_bilingual": "Show HN：MacBook 充电器状态灯的灯光控制（开源） / Show HN: Light control for MacBook charger status light (open-source)"
-    },
-    {
-      "id": "76abc41f40f7e79c7bfa6e291d5b831ebc766f96",
-      "site_id": "zeli",
-      "site_name": "Zeli",
-      "source": "Hacker News · 24h最热",
-      "title": "Tesla Opens Cybercab Orders to 'Select Customers' at $29,990 Plus $299 per Month",
-      "url": "https://insideevs.com/news/815473/tesla-cybercab-pricing-sales-announced",
-      "published_at": "2026-11-14T00:33:50Z",
-      "first_seen_at": "2026-11-14T14:03:07.410142Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
-      "ai_is_related": true,
-      "ai_score": 0.65,
-      "ai_label": "tech_general",
-      "ai_relevance_reason": "matched_strong_tech_signal",
-      "ai_signals": [
-        "tesla"
-      ],
-      "ai_noise": [],
-      "tech_is_related": true,
-      "tech_score": 0.65,
-      "tech_label": "tech_general",
-      "source_tier": "discussion",
-      "source_tier_label": "热议参考",
-      "source_tier_rank": 5,
-      "direction": "autonomous_vehicle",
-      "direction_hits": [
+          "companies": [
+            "iphone",
+            "苹果"
+          ]
+        },
+        {
+          "direction_id": "energy_hardware",
+          "score": 0.75,
+          "matched_keywords": [
+            "比亚迪"
+          ],
+          "companies": [
+            "比亚迪"
+          ]
+        },
         {
           "direction_id": "autonomous_vehicle",
-          "score": 2.38,
+          "score": 0.75,
           "matched_keywords": [
-            "tesla",
-            "cyber",
-            "tesla"
+            "比亚迪",
+            "比亚迪"
           ],
           "companies": [
-            "tesla"
+            "比亚迪"
           ]
         }
       ],
       "companies": [
-        "tesla"
+        "iphone",
+        "比亚迪",
+        "苹果"
       ],
-      "title_original": "Tesla Opens Cybercab Orders to 'Select Customers' at $29,990 Plus $299 per Month",
-      "title_en": "Tesla Opens Cybercab Orders to 'Select Customers' at $29,990 Plus $299 per Month",
-      "title_zh": "Tesla 向“精选客户”开放 Cyber​​cab 订单，价格为 29,990 美元，每月另加 299 美元",
-      "title_bilingual": "Tesla 向“精选客户”开放 Cyber​​cab 订单，价格为 29,990 美元，每月另加 299 美元 / Tesla Opens Cybercab Orders to 'Select Customers' at $29,990 Plus $299 per Month"
+      "title_original": "IT早报 1115：SpaceX 首次完成“筷子夹星舰飞船”；百万级 CAR-T 抗癌药首次进医保；古尔曼重申苹果 iPhone 18 明年春发布；比亚迪辟谣收购某数字能源...",
+      "title_en": null,
+      "title_zh": "IT早报 1115：SpaceX 首次完成“筷子夹星舰飞船”；百万级 CAR-T 抗癌药首次进医保；古尔曼重申苹果 iPhone 18 明年春发布；比亚迪辟谣收购某数字能源...",
+      "title_bilingual": "IT早报 1115：SpaceX 首次完成“筷子夹星舰飞船”；百万级 CAR-T 抗癌药首次进医保；古尔曼重申苹果 iPhone 18 明年春发布；比亚迪辟谣收购某数字能源..."
     },
     {
-      "id": "66d12209692eec3def727ca53357b4e371faa565",
-      "site_id": "zeli",
-      "site_name": "Zeli",
-      "source": "Hacker News · 24h最热",
-      "title": "Anthropic upgrades Claude Code Projects to run parallel AI workers",
-      "url": "https://claude.com/resources/articles/projects-redesigned",
-      "published_at": "2026-11-14T00:28:11Z",
-      "first_seen_at": "2026-11-14T09:18:55.832115Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "id": "10f207a48dcb8bc7244786e3cdd601a083e807b9",
+      "site_id": "sector_sources",
+      "site_name": "Sector Sources",
+      "source": "IT Home",
+      "title": "一天暴涨 6 万：请愿恢复黄仁勋英伟达 CEO 职务人数突破 12 万人，马斯克也参与签名",
+      "url": "https://www.ithome.com/1/027/252.htm",
+      "published_at": "2026-11-14T23:18:00Z",
+      "first_seen_at": "2026-11-15T00:56:30.172701Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
-      "ai_score": 0.73,
-      "ai_label": "ai_model",
-      "ai_relevance_reason": "matched_strong_tech_signal",
-      "ai_signals": [
-        "ai",
-        "anthropic",
-        "claude"
-      ],
-      "ai_noise": [],
-      "tech_is_related": true,
-      "tech_score": 0.73,
-      "tech_label": "ai_model",
-      "source_tier": "discussion",
-      "source_tier_label": "热议参考",
-      "source_tier_rank": 5,
-      "direction": "ai_models_apps",
-      "direction_hits": [
-        {
-          "direction_id": "ai_models_apps",
-          "score": 4.38,
-          "matched_keywords": [
-            "claude",
-            "code",
-            "anthropic",
-            "claude code",
-            "anthropic"
-          ],
-          "companies": [
-            "anthropic"
-          ]
-        }
-      ],
-      "companies": [
-        "anthropic"
-      ],
-      "title_original": "Anthropic upgrades Claude Code Projects to run parallel AI workers",
-      "title_en": "Anthropic upgrades Claude Code Projects to run parallel AI workers",
-      "title_zh": "Anthropic 升级 Claude 代码项目以运行并行 AI 工作人员",
-      "title_bilingual": "Anthropic 升级 Claude 代码项目以运行并行 AI 工作人员 / Anthropic upgrades Claude Code Projects to run parallel AI workers"
-    },
-    {
-      "id": "138c6146545e8a19b2c834b4d89dfdcb084f8d04",
-      "site_id": "techurls",
-      "site_name": "TechURLs",
-      "source": "Android Police",
-      "title": "3 apps that turn my Pixel's launcher from good into great",
-      "url": "https://www.androidpolice.com/these-3-apps-fix-everything-i-dislike-about-the-pixel-launcher",
-      "published_at": "2026-11-14T00:00:10Z",
-      "first_seen_at": "2026-11-14T09:18:55.832115Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
-      "ai_is_related": true,
-      "ai_score": 0.73,
-      "ai_label": "software_saas",
-      "ai_relevance_reason": "matched_strong_tech_signal",
-      "ai_signals": [
-        "android",
-        "pixel"
-      ],
-      "ai_noise": [],
-      "tech_is_related": true,
-      "tech_score": 0.73,
-      "tech_label": "software_saas",
-      "source_tier": "discussion",
-      "source_tier_label": "热议参考",
-      "source_tier_rank": 5,
-      "direction": "ai_terminal",
-      "direction_hits": [
-        {
-          "direction_id": "ai_terminal",
-          "score": 1.19,
-          "matched_keywords": [
-            "pixel",
-            "android"
-          ],
-          "companies": []
-        }
-      ],
-      "companies": [],
-      "title_original": "3 apps that turn my Pixel's launcher from good into great",
-      "title_en": "3 apps that turn my Pixel's launcher from good into great",
-      "title_zh": "3 个应用让我的 Pixel 启动器变得出色",
-      "title_bilingual": "3 个应用让我的 Pixel 启动器变得出色 / 3 apps that turn my Pixel's launcher from good into great"
-    },
-    {
-      "id": "345ba07ca669cca19caddb3d2a5176bb56b0608c",
-      "site_id": "techurls",
-      "site_name": "TechURLs",
-      "source": "Techmeme",
-      "title": "ASI, developer of AI tool SMART, says the FAA outage \"is not based on or a result of the SMART system, any product of ASI, or our integration with FAA and ATC\" (Asi/@airspaceintel)",
-      "url": "https://www.techmeme.com/261113/p34",
-      "published_at": "2026-11-13T23:35:00Z",
-      "first_seen_at": "2026-11-13T23:48:15.740118Z",
-      "last_seen_at": "2026-11-13T23:48:15.740118Z",
-      "ai_is_related": true,
-      "ai_score": 0.76,
+      "ai_score": 0.63,
       "ai_label": "chip_semi",
       "ai_relevance_reason": "matched_strong_tech_signal",
       "ai_signals": [
-        "ai",
-        "developer",
-        "intel"
+        "英伟达",
+        "黄仁勋"
       ],
       "ai_noise": [],
       "tech_is_related": true,
-      "tech_score": 0.76,
+      "tech_score": 0.63,
       "tech_label": "chip_semi",
-      "source_tier": "discussion",
-      "source_tier_label": "热议参考",
-      "source_tier_rank": 5,
+      "source_tier": "other",
+      "source_tier_label": "其他来源",
+      "source_tier_rank": 9,
       "direction": "compute_dc",
       "direction_hits": [
         {
           "direction_id": "compute_dc",
           "score": 0.75,
           "matched_keywords": [
-            "intel"
+            "英伟达"
           ],
           "companies": [
-            "intel"
+            "英伟达"
           ]
         },
         {
@@ -8753,130 +9075,30 @@
           "score": 0.75,
           "matched_keywords": [
             "co",
-            "intel"
+            "英伟达"
           ],
           "companies": [
-            "intel"
-          ]
-        }
-      ],
-      "companies": [
-        "intel"
-      ],
-      "title_original": "ASI, developer of AI tool SMART, says the FAA outage \"is not based on or a result of the SMART system, any product of ASI, or our integration with FAA and ATC\" (Asi/@airspaceintel)",
-      "title_en": "ASI, developer of AI tool SMART, says the FAA outage \"is not based on or a result of the SMART system, any product of ASI, or our integration with FAA and ATC\" (Asi/@airspaceintel)",
-      "title_zh": null,
-      "title_bilingual": "ASI, developer of AI tool SMART, says the FAA outage \"is not based on or a result of the SMART system, any product of ASI, or our integration with FAA and ATC\" (Asi/@airspaceintel)"
-    },
-    {
-      "id": "a66035c06176fcc9e542576f5bc77bc04c716310",
-      "site_id": "zeli",
-      "site_name": "Zeli",
-      "source": "Hacker News · 24h最热",
-      "title": "An open letter to the Nvidia Board of Directors",
-      "url": "https://standwithjensen.com",
-      "published_at": "2026-11-13T23:34:06Z",
-      "first_seen_at": "2026-11-14T09:18:55.832115Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
-      "ai_is_related": true,
-      "ai_score": 0.65,
-      "ai_label": "chip_semi",
-      "ai_relevance_reason": "matched_strong_tech_signal",
-      "ai_signals": [
-        "nvidia"
-      ],
-      "ai_noise": [],
-      "tech_is_related": true,
-      "tech_score": 0.65,
-      "tech_label": "chip_semi",
-      "source_tier": "discussion",
-      "source_tier_label": "热议参考",
-      "source_tier_rank": 5,
-      "direction": "compute_dc",
-      "direction_hits": [
-        {
-          "direction_id": "compute_dc",
-          "score": 0.75,
-          "matched_keywords": [
-            "nvidia",
-            "nvidia"
-          ],
-          "companies": [
-            "nvidia"
-          ]
-        },
-        {
-          "direction_id": "semiconductor",
-          "score": 0.75,
-          "matched_keywords": [
-            "co",
-            "nvidia"
-          ],
-          "companies": [
-            "nvidia"
+            "英伟达"
           ]
         },
         {
           "direction_id": "autonomous_hardware",
           "score": 0.75,
           "matched_keywords": [
-            "nvidia"
+            "英伟达"
           ],
           "companies": [
-            "nvidia"
+            "英伟达"
           ]
         }
       ],
       "companies": [
-        "nvidia"
+        "英伟达"
       ],
-      "title_original": "An open letter to the Nvidia Board of Directors",
-      "title_en": "An open letter to the Nvidia Board of Directors",
-      "title_zh": "致 Nvidia 董事会的公开信",
-      "title_bilingual": "致 Nvidia 董事会的公开信 / An open letter to the Nvidia Board of Directors"
-    },
-    {
-      "id": "aa4839b1ba2d5eaba0ed87cbc530b162d40fc44f",
-      "site_id": "techurls",
-      "site_name": "TechURLs",
-      "source": "Android Police",
-      "title": "Pixel Weather finally lets you flag inaccurate conditions",
-      "url": "https://www.androidpolice.com/you-can-report-inaccurate-weather-conditions-in-pixel-weather",
-      "published_at": "2026-11-13T22:48:55Z",
-      "first_seen_at": "2026-11-13T23:48:15.740118Z",
-      "last_seen_at": "2026-11-14T19:51:02.337519Z",
-      "ai_is_related": true,
-      "ai_score": 0.73,
-      "ai_label": "software_saas",
-      "ai_relevance_reason": "matched_strong_tech_signal",
-      "ai_signals": [
-        "android",
-        "pixel"
-      ],
-      "ai_noise": [],
-      "tech_is_related": true,
-      "tech_score": 0.73,
-      "tech_label": "software_saas",
-      "source_tier": "discussion",
-      "source_tier_label": "热议参考",
-      "source_tier_rank": 5,
-      "direction": "ai_terminal",
-      "direction_hits": [
-        {
-          "direction_id": "ai_terminal",
-          "score": 1.19,
-          "matched_keywords": [
-            "pixel",
-            "android"
-          ],
-          "companies": []
-        }
-      ],
-      "companies": [],
-      "title_original": "Pixel Weather finally lets you flag inaccurate conditions",
-      "title_en": "Pixel Weather finally lets you flag inaccurate conditions",
-      "title_zh": "Pixel Weather 终于可以标记不准确的情况",
-      "title_bilingual": "Pixel Weather 终于可以标记不准确的情况 / Pixel Weather finally lets you flag inaccurate conditions"
+      "title_original": "一天暴涨 6 万：请愿恢复黄仁勋英伟达 CEO 职务人数突破 12 万人，马斯克也参与签名",
+      "title_en": null,
+      "title_zh": "一天暴涨 6 万：请愿恢复黄仁勋英伟达 CEO 职务人数突破 12 万人，马斯克也参与签名",
+      "title_bilingual": "一天暴涨 6 万：请愿恢复黄仁勋英伟达 CEO 职务人数突破 12 万人，马斯克也参与签名"
     },
     {
       "id": "d8420d12d6f74e87d2b47e01e7d6d2ca50a7e19e",
@@ -8887,7 +9109,7 @@
       "url": "https://www.ithome.com/1/027/247.htm",
       "published_at": "2026-11-14T15:28:14Z",
       "first_seen_at": "2026-11-14T16:42:01.304008Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.63,
       "ai_label": "chip_semi",
@@ -8954,7 +9176,7 @@
       "url": "https://www.ithome.com/1/027/233.htm",
       "published_at": "2026-11-14T13:31:05Z",
       "first_seen_at": "2026-11-14T14:03:07.410142Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.63,
       "ai_label": "chip_semi",
@@ -9021,7 +9243,7 @@
       "url": "https://www.ithome.com/1/027/228.htm",
       "published_at": "2026-11-14T12:45:55Z",
       "first_seen_at": "2026-11-14T14:03:07.410142Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.63,
       "ai_label": "chip_semi",
@@ -9468,7 +9690,7 @@
       "url": "https://www.leiphone.com/category/industrynews/cqPXhF38rM4VcVa7.html",
       "published_at": "2026-11-14T05:45:00Z",
       "first_seen_at": "2026-11-14T09:18:55.832115Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.63,
       "ai_label": "ai_model",
@@ -9516,129 +9738,327 @@
       "title_en": null,
       "title_zh": "百度词元所发布首日：供应商暴增超100家，客户新增超1000家",
       "title_bilingual": "百度词元所发布首日：供应商暴增超100家，客户新增超1000家"
-    },
-    {
-      "id": "8c471bbd0803bb71f35f64f6544f9a70bc741371",
-      "site_id": "sector_sources",
-      "site_name": "Sector Sources",
-      "source": "IT Home",
-      "title": "要让 GPT-6 Astra 等通用 AI 当机器人“大脑”：OpenAI 宣布重组具身智能团队",
-      "url": "https://www.ithome.com/1/027/004.htm",
-      "published_at": "2026-11-13T23:17:38Z",
-      "first_seen_at": "2026-11-13T23:48:15.740118Z",
-      "last_seen_at": "2026-11-13T23:48:15.740118Z",
-      "ai_is_related": true,
-      "ai_score": 0.78,
-      "ai_label": "ai_model",
-      "ai_relevance_reason": "matched_strong_tech_signal",
-      "ai_signals": [
-        "ai",
-        "gpt",
-        "openai",
-        "具身",
-        "具身智能",
-        "机器人"
-      ],
-      "ai_noise": [],
-      "tech_is_related": true,
-      "tech_score": 0.78,
-      "tech_label": "ai_model",
-      "source_tier": "other",
-      "source_tier_label": "其他来源",
-      "source_tier_rank": 9,
-      "direction": "ai_models_apps",
-      "direction_hits": [
-        {
-          "direction_id": "ai_models_apps",
-          "score": 2.31,
-          "matched_keywords": [
-            "gpt",
-            "openai",
-            "openai"
-          ],
-          "companies": [
-            "openai"
-          ]
-        }
-      ],
-      "companies": [
-        "openai"
-      ],
-      "title_original": "要让 GPT-6 Astra 等通用 AI 当机器人“大脑”：OpenAI 宣布重组具身智能团队",
-      "title_en": null,
-      "title_zh": "要让 GPT-6 Astra 等通用 AI 当机器人“大脑”：OpenAI 宣布重组具身智能团队",
-      "title_bilingual": "要让 GPT-6 Astra 等通用 AI 当机器人“大脑”：OpenAI 宣布重组具身智能团队"
-    },
-    {
-      "id": "4b8452b6c67697ff0e5dc9297457ad9da91393b0",
-      "site_id": "sector_sources",
-      "site_name": "Sector Sources",
-      "source": "IT Home",
-      "title": "路透社：Arm 掌门人哈斯进入接棒黄仁勋候选视野，曾在英伟达工作 7 年",
-      "url": "https://www.ithome.com/1/027/002.htm",
-      "published_at": "2026-11-13T23:07:34Z",
-      "first_seen_at": "2026-11-13T23:48:15.740118Z",
-      "last_seen_at": "2026-11-13T23:48:15.740118Z",
-      "ai_is_related": true,
-      "ai_score": 0.63,
-      "ai_label": "chip_semi",
-      "ai_relevance_reason": "matched_strong_tech_signal",
-      "ai_signals": [
-        "英伟达",
-        "黄仁勋"
-      ],
-      "ai_noise": [],
-      "tech_is_related": true,
-      "tech_score": 0.63,
-      "tech_label": "chip_semi",
-      "source_tier": "other",
-      "source_tier_label": "其他来源",
-      "source_tier_rank": 9,
-      "direction": "compute_dc",
-      "direction_hits": [
-        {
-          "direction_id": "compute_dc",
-          "score": 0.75,
-          "matched_keywords": [
-            "英伟达"
-          ],
-          "companies": [
-            "英伟达"
-          ]
-        },
-        {
-          "direction_id": "semiconductor",
-          "score": 0.75,
-          "matched_keywords": [
-            "co",
-            "英伟达"
-          ],
-          "companies": [
-            "英伟达"
-          ]
-        },
-        {
-          "direction_id": "autonomous_hardware",
-          "score": 0.75,
-          "matched_keywords": [
-            "英伟达"
-          ],
-          "companies": [
-            "英伟达"
-          ]
-        }
-      ],
-      "companies": [
-        "英伟达"
-      ],
-      "title_original": "路透社：Arm 掌门人哈斯进入接棒黄仁勋候选视野，曾在英伟达工作 7 年",
-      "title_en": null,
-      "title_zh": "路透社：Arm 掌门人哈斯进入接棒黄仁勋候选视野，曾在英伟达工作 7 年",
-      "title_bilingual": "路透社：Arm 掌门人哈斯进入接棒黄仁勋候选视野，曾在英伟达工作 7 年"
     }
   ],
   "items_ai": [
     {
+      "id": "54a9115519a60947ae024fb9b354331a743d0399",
+      "site_id": "curated_media",
+      "site_name": "Curated Media",
+      "source": "Engadget",
+      "title": "What are the limitations of eGPUs vs onboard graphics cards for laptops?",
+      "url": "https://www.engadget.com/2313636/limitations-egpu-vs-onboard-graphics-card-laptop-pc",
+      "published_at": "2026-11-15T00:30:00Z",
+      "first_seen_at": "2026-11-15T00:56:30.172701Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
+      "ai_is_related": true,
+      "ai_score": 0.56,
+      "ai_label": "chip_semi",
+      "ai_relevance_reason": "matched_tech_signal",
+      "ai_signals": [
+        "gpu"
+      ],
+      "ai_noise": [],
+      "tech_is_related": true,
+      "tech_score": 0.56,
+      "tech_label": "chip_semi",
+      "source_tier": "ai_media",
+      "source_tier_label": "精选AI媒体",
+      "source_tier_rank": 2,
+      "direction": "semiconductor",
+      "direction_hits": [
+        {
+          "direction_id": "semiconductor",
+          "score": 0.81,
+          "matched_keywords": [
+            "gpu",
+            "co"
+          ],
+          "companies": []
+        },
+        {
+          "direction_id": "ai_terminal",
+          "score": 0.75,
+          "matched_keywords": [
+            "pc",
+            "ar"
+          ],
+          "companies": []
+        }
+      ],
+      "companies": [],
+      "title_original": "What are the limitations of eGPUs vs onboard graphics cards for laptops?",
+      "title_en": "What are the limitations of eGPUs vs onboard graphics cards for laptops?",
+      "title_zh": "笔记本电脑的 eGPU 与板载显卡相比有哪些限制？",
+      "title_bilingual": "笔记本电脑的 eGPU 与板载显卡相比有哪些限制？ / What are the limitations of eGPUs vs onboard graphics cards for laptops?"
+    },
+    {
+      "id": "382b7bcdaa572e110b9d473056727c52b78dc147",
+      "site_id": "curated_media",
+      "site_name": "Curated Media",
+      "source": "TechCrunch AI",
+      "title": "Where was Nvidia’s security team?",
+      "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team",
+      "published_at": "2026-11-15T00:08:07Z",
+      "first_seen_at": "2026-11-15T00:56:30.172701Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
+      "ai_is_related": true,
+      "ai_score": 0.81,
+      "ai_label": "chip_semi",
+      "ai_relevance_reason": "matched_strong_tech_signal",
+      "ai_signals": [
+        "ai",
+        "nvidia"
+      ],
+      "ai_noise": [],
+      "tech_is_related": true,
+      "tech_score": 0.81,
+      "tech_label": "chip_semi",
+      "source_tier": "ai_media",
+      "source_tier_label": "精选AI媒体",
+      "source_tier_rank": 2,
+      "direction": "compute_dc",
+      "direction_hits": [
+        {
+          "direction_id": "compute_dc",
+          "score": 0.75,
+          "matched_keywords": [
+            "nvidia",
+            "nvidia"
+          ],
+          "companies": [
+            "nvidia"
+          ]
+        },
+        {
+          "direction_id": "semiconductor",
+          "score": 0.75,
+          "matched_keywords": [
+            "co",
+            "nvidia"
+          ],
+          "companies": [
+            "nvidia"
+          ]
+        },
+        {
+          "direction_id": "autonomous_hardware",
+          "score": 0.75,
+          "matched_keywords": [
+            "nvidia"
+          ],
+          "companies": [
+            "nvidia"
+          ]
+        }
+      ],
+      "companies": [
+        "nvidia"
+      ],
+      "title_original": "Where was Nvidia’s security team?",
+      "title_en": "Where was Nvidia’s security team?",
+      "title_zh": "Nvidia 的安全团队在哪里？",
+      "title_bilingual": "Nvidia 的安全团队在哪里？ / Where was Nvidia’s security team?"
+    },
+    {
+      "id": "ec8c1e618b45c5785d52e716ce22ff0f57fd2de5",
+      "site_id": "curated_media",
+      "site_name": "Curated Media",
+      "source": "Bloomberg Tech",
+      "title": "India Stock Market Rebounds as AI Trade Unwinds, Foreign Funds Return",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-15/india-stock-market-rebounds-as-ai-trade-unwinds-foreign-funds-return",
+      "published_at": "2026-11-15T00:00:00Z",
+      "first_seen_at": "2026-11-15T00:56:30.172701Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
+      "ai_is_related": true,
+      "ai_score": 0.56,
+      "ai_label": "tech_general",
+      "ai_relevance_reason": "matched_tech_signal",
+      "ai_signals": [
+        "ai"
+      ],
+      "ai_noise": [],
+      "tech_is_related": true,
+      "tech_score": 0.56,
+      "tech_label": "tech_general",
+      "source_tier": "ai_media",
+      "source_tier_label": "精选AI媒体",
+      "source_tier_rank": 2,
+      "direction": "",
+      "direction_hits": [],
+      "companies": [],
+      "title_original": "India Stock Market Rebounds as AI Trade Unwinds, Foreign Funds Return",
+      "title_en": "India Stock Market Rebounds as AI Trade Unwinds, Foreign Funds Return",
+      "title_zh": "随着人工智能贸易的放松、外国资金的回归，印度股市反弹",
+      "title_bilingual": "随着人工智能贸易的放松、外国资金的回归，印度股市反弹 / India Stock Market Rebounds as AI Trade Unwinds, Foreign Funds Return"
+    },
+    {
+      "id": "c0f6677ee7be8cc7775e082d96da5fce33c7170a",
+      "site_id": "curated_media",
+      "site_name": "Curated Media",
+      "source": "Engadget",
+      "title": "There's a hidden way you can check which services are running on your Android phone",
+      "url": "https://www.engadget.com/2313576/hidden-way-check-which-services-running-on-android-phone",
+      "published_at": "2026-11-15T00:00:00Z",
+      "first_seen_at": "2026-11-15T00:56:30.172701Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
+      "ai_is_related": true,
+      "ai_score": 0.56,
+      "ai_label": "software_saas",
+      "ai_relevance_reason": "matched_tech_signal",
+      "ai_signals": [
+        "android"
+      ],
+      "ai_noise": [],
+      "tech_is_related": true,
+      "tech_score": 0.56,
+      "tech_label": "software_saas",
+      "source_tier": "ai_media",
+      "source_tier_label": "精选AI媒体",
+      "source_tier_rank": 2,
+      "direction": "ai_terminal",
+      "direction_hits": [
+        {
+          "direction_id": "ai_terminal",
+          "score": 1.56,
+          "matched_keywords": [
+            "ar",
+            "android"
+          ],
+          "companies": []
+        }
+      ],
+      "companies": [],
+      "title_original": "There's a hidden way you can check which services are running on your Android phone",
+      "title_en": "There's a hidden way you can check which services are running on your Android phone",
+      "title_zh": "有一种隐藏的方法可以检查 Android 手机上正在运行哪些服务",
+      "title_bilingual": "有一种隐藏的方法可以检查 Android 手机上正在运行哪些服务 / There's a hidden way you can check which services are running on your Android phone"
+    },
+    {
+      "id": "04863017fd5d6ba406b5f78d916d5bbbe0c3e693",
+      "site_id": "curated_media",
+      "site_name": "Curated Media",
+      "source": "Hacker News front page",
+      "title": "Nvidia deliberately kept GPU prices high through circular financing deals",
+      "url": "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html",
+      "published_at": "2026-11-14T22:26:30Z",
+      "first_seen_at": "2026-11-15T00:56:30.172701Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
+      "ai_is_related": true,
+      "ai_score": 0.81,
+      "ai_label": "chip_semi",
+      "ai_relevance_reason": "matched_strong_tech_signal",
+      "ai_signals": [
+        "gpu",
+        "nvidia"
+      ],
+      "ai_noise": [],
+      "tech_is_related": true,
+      "tech_score": 0.81,
+      "tech_label": "chip_semi",
+      "source_tier": "ai_media",
+      "source_tier_label": "精选AI媒体",
+      "source_tier_rank": 2,
+      "direction": "compute_dc",
+      "direction_hits": [
+        {
+          "direction_id": "compute_dc",
+          "score": 2.31,
+          "matched_keywords": [
+            "gpu",
+            "nvidia",
+            "nvidia"
+          ],
+          "companies": [
+            "nvidia"
+          ]
+        },
+        {
+          "direction_id": "semiconductor",
+          "score": 1.56,
+          "matched_keywords": [
+            "gpu",
+            "co",
+            "nvidia"
+          ],
+          "companies": [
+            "nvidia"
+          ]
+        },
+        {
+          "direction_id": "autonomous_hardware",
+          "score": 0.75,
+          "matched_keywords": [
+            "nvidia"
+          ],
+          "companies": [
+            "nvidia"
+          ]
+        }
+      ],
+      "companies": [
+        "nvidia"
+      ],
+      "title_original": "Nvidia deliberately kept GPU prices high through circular financing deals",
+      "title_en": "Nvidia deliberately kept GPU prices high through circular financing deals",
+      "title_zh": "英伟达通过循环融资交易故意维持了GPU的高价",
+      "title_bilingual": "英伟达通过循环融资交易故意维持了GPU的高价 / Nvidia deliberately kept GPU prices high through circular financing deals"
+    },
+    {
+      "id": "2f5a0f2c018be4ded9d798ec193b0beddd531e29",
+      "site_id": "curated_media",
+      "site_name": "Curated Media",
+      "source": "Hacker News front page",
+      "title": "How did Woz write the Apple 1 BASIC before building the computer?",
+      "url": "https://retrocomputing.stackexchange.com/questions/17957",
+      "published_at": "2026-11-14T22:22:49Z",
+      "first_seen_at": "2026-11-15T00:56:30.172701Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
+      "ai_is_related": true,
+      "ai_score": 0.56,
+      "ai_label": "software_saas",
+      "ai_relevance_reason": "matched_tech_signal",
+      "ai_signals": [
+        "asic"
+      ],
+      "ai_noise": [],
+      "tech_is_related": true,
+      "tech_score": 0.56,
+      "tech_label": "software_saas",
+      "source_tier": "ai_media",
+      "source_tier_label": "精选AI媒体",
+      "source_tier_rank": 2,
+      "direction": "semiconductor",
+      "direction_hits": [
+        {
+          "direction_id": "semiconductor",
+          "score": 1.38,
+          "matched_keywords": [
+            "asic",
+            "co"
+          ],
+          "companies": []
+        },
+        {
+          "direction_id": "ai_terminal",
+          "score": 0.75,
+          "matched_keywords": [
+            "apple"
+          ],
+          "companies": [
+            "apple"
+          ]
+        }
+      ],
+      "companies": [
+        "apple"
+      ],
+      "title_original": "How did Woz write the Apple 1 BASIC before building the computer?",
+      "title_en": "How did Woz write the Apple 1 BASIC before building the computer?",
+      "title_zh": "在制造计算机之前，Woz 是如何编写 Apple 1 BASIC 的？",
+      "title_bilingual": "在制造计算机之前，Woz 是如何编写 Apple 1 BASIC 的？ / How did Woz write the Apple 1 BASIC before building the computer?"
+    },
+    {
       "id": "f2a4650bb2abf4d78c6969442d703e63b57241fa",
       "site_id": "curated_media",
       "site_name": "Curated Media",
@@ -9647,7 +10067,7 @@
       "url": "https://www.engadget.com/2312834/how-to-get-better-results-google-gemini",
       "published_at": "2026-11-14T22:15:00Z",
       "first_seen_at": "2026-11-14T22:41:30.172994Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.78,
       "ai_label": "ai_model",
@@ -9696,7 +10116,7 @@
       "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang",
       "published_at": "2026-11-14T21:41:22Z",
       "first_seen_at": "2026-11-14T22:41:30.172994Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.81,
       "ai_label": "chip_semi",
@@ -9885,7 +10305,7 @@
       "url": "https://waytoagi.feishu.cn/wiki/IL5hwypTBitx9DkdO5scTCQdnvh?from=from_copylink",
       "published_at": "2026-11-14T19:51:02.337519Z",
       "first_seen_at": "2026-11-14T19:51:02.337519Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "summary": "Anthropic发布了可落地的在线Agent架构最佳实践，打破了“7×24运行=持续耗Token”的误区。文中给出了队列去重、记忆精简、凭证隔离等实操准则，适合需要处理长周期任务的开发团队做参考。",
       "ai_is_related": true,
       "ai_score": 0.72,
@@ -9933,7 +10353,7 @@
       "url": "https://waytoagi.feishu.cn/wiki/Bf8zwkbKmiXT6Uk5cubcF2Crnqh?from=from_copylink",
       "published_at": "2026-11-14T19:51:02.337519Z",
       "first_seen_at": "2026-11-14T19:51:02.337519Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "summary": "作者分享了团队用 Hermes 连续实践 4 个月、每天处理 200 多项自动化任务的经验。希望大家在 Personal AI Agent 之外，也会对企业级 Agent OS 的设计、架构以及应用层有一些常规的认识。",
       "ai_is_related": true,
       "ai_score": 0.67,
@@ -9997,7 +10417,7 @@
       "url": "https://the-decoder.com/anthropic-ceo-amodei-admits-theres-a-huge-uncertainty-in-whats-going-to-happen-next-year-days-before-a-record-ipo",
       "published_at": "2026-11-14T19:05:17Z",
       "first_seen_at": "2026-11-14T19:51:02.337519Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.81,
       "ai_label": "software_saas",
@@ -10295,7 +10715,7 @@
       "url": "https://www.crissyfield.de/research/lovable-en",
       "published_at": "2026-11-14T17:43:10Z",
       "first_seen_at": "2026-11-14T19:51:02.337519Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.56,
       "ai_label": "software_saas",
@@ -10373,7 +10793,7 @@
       "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it",
       "published_at": "2026-11-14T17:30:00Z",
       "first_seen_at": "2026-11-14T19:51:02.337519Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.56,
       "ai_label": "tech_general",
@@ -10405,7 +10825,7 @@
       "url": "https://www.bleepingcomputer.com/news/security/cursor-confirms-security-breach-led-to-malicious-claude-code-extension",
       "published_at": "2026-11-14T17:27:25Z",
       "first_seen_at": "2026-11-14T19:51:02.337519Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.78,
       "ai_label": "ai_model",
@@ -10557,7 +10977,7 @@
       "url": "https://the-decoder.com/gemini-4-carbon-takes-the-matharena-crown-but-costs-15-times-more-than-gpt-6-1-sol",
       "published_at": "2026-11-14T16:48:01Z",
       "first_seen_at": "2026-11-14T19:51:02.337519Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.86,
       "ai_label": "ai_model",
@@ -10607,7 +11027,7 @@
       "url": "https://the-decoder.com/anthropic-says-outdated-prompting-habits-are-slowing-down-claude-opus-5-5",
       "published_at": "2026-11-14T16:42:56Z",
       "first_seen_at": "2026-11-14T19:51:02.337519Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.89,
       "ai_label": "ai_model",
@@ -10658,7 +11078,7 @@
       "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit",
       "published_at": "2026-11-14T16:34:15Z",
       "first_seen_at": "2026-11-14T16:42:01.304008Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.81,
       "ai_label": "chip_semi",
@@ -10726,7 +11146,7 @@
       "url": "https://www.tomshardware.com/pc-components/samsungs-1tb-990-ssd-drops-to-19-cents-per-gb-amid-the-memory-crisis-grab-it-for-usd40-off",
       "published_at": "2026-11-14T16:32:48Z",
       "first_seen_at": "2026-11-14T16:42:01.304008Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.56,
       "ai_label": "consumer_hw",
@@ -10774,7 +11194,7 @@
       "url": "https://www.tomshardware.com/tech-industry/this-week-in-toms-hardware-premium-november-14-2026-mac-studio-versus-dgx-spark-amds-mext-cuts-dram-requirements-in-half-and-the-huang-saga-reaches-critical-mass",
       "published_at": "2026-11-14T16:00:00Z",
       "first_seen_at": "2026-11-14T16:42:01.304008Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.56,
       "ai_label": "tech_general",
@@ -10839,7 +11259,7 @@
       "url": "https://www.bloomberg.com/news/articles/2026-11-14/ai-tools-huang-championed-now-star-in-memes-of-his-downfall",
       "published_at": "2026-11-14T15:57:58Z",
       "first_seen_at": "2026-11-14T16:42:01.304008Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.56,
       "ai_label": "tech_general",
@@ -10871,7 +11291,7 @@
       "url": "https://www.bloomberg.com/news/videos/2026-11-14/anthropic-ipo-tests-investor-appetite-for-ai-video",
       "published_at": "2026-11-14T15:54:39Z",
       "first_seen_at": "2026-11-14T16:42:01.304008Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.81,
       "ai_label": "software_saas",
@@ -10918,7 +11338,7 @@
       "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/u-s-treasury-secretary-questions-whether-nvidia-knowingly-sold-ai-gpus-to-shell-companies-says-company-itself-is-responsible-i-think-it-is-important-that-anyone-at-the-company-there-be-held-accountable-for-that",
       "published_at": "2026-11-14T15:35:48Z",
       "first_seen_at": "2026-11-14T16:42:01.304008Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.84,
       "ai_label": "chip_semi",
@@ -11056,7 +11476,7 @@
       "url": "https://www.bleepingcomputer.com/news/security/us-disrupts-north-korean-campaign-behind-400-million-crypto-theft",
       "published_at": "2026-11-14T15:15:49Z",
       "first_seen_at": "2026-11-14T16:42:01.304008Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.56,
       "ai_label": "tech_general",
@@ -11088,7 +11508,7 @@
       "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/malaysia-plans-new-law-using-data-center-power-consumption-to-catch-ai-gpu-smugglers-but-real-world-tdp-variance-and-lack-of-physical-audits-could-undermine-it-new-law-also-forces-operators-to-pay-for-unused-electricity-capacity",
       "published_at": "2026-11-14T15:10:00Z",
       "first_seen_at": "2026-11-14T16:42:01.304008Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.59,
       "ai_label": "chip_semi",
@@ -11166,7 +11586,7 @@
       "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
       "published_at": "2026-11-14T15:04:15Z",
       "first_seen_at": "2026-11-14T19:51:02.337519Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.78,
       "ai_label": "ai_model",
@@ -11213,7 +11633,7 @@
       "url": "https://www.tomshardware.com/desktops/gaming-pcs/amds-fastest-gaming-cpu-and-the-radeon-rx-9070-just-hit-a-massive-usd550-discount-32gb-ddr5-ram-and-1tb-ssd-round-off-usd1-749-99-gaming-rig",
       "published_at": "2026-11-14T15:00:00Z",
       "first_seen_at": "2026-11-14T16:42:01.304008Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.56,
       "ai_label": "tech_general",
@@ -11280,7 +11700,7 @@
       "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
       "published_at": "2026-11-14T15:00:00Z",
       "first_seen_at": "2026-11-14T16:42:01.304008Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.81,
       "ai_label": "ai_product",
@@ -11327,7 +11747,7 @@
       "url": "https://www.bloomberg.com/news/articles/2026-11-14/italy-fines-meta-805-million-over-access-to-users-photos",
       "published_at": "2026-11-14T14:53:25Z",
       "first_seen_at": "2026-11-14T16:42:01.304008Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.56,
       "ai_label": "ai_product",
@@ -11383,7 +11803,7 @@
       "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/researchers-allege-deepseek-kimi-and-other-chinese-ai-models-were-trained-on-export-controlled-nvidia-blackwell-chips-statistical-analysis-on-model-weights-reveals-high-correlation-to-nvidia-hardware",
       "published_at": "2026-11-14T14:50:00Z",
       "first_seen_at": "2026-11-14T16:42:01.304008Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.89,
       "ai_label": "ai_model",
@@ -11565,7 +11985,7 @@
       "url": "https://www.bloomberg.com/news/videos/2026-11-14/nvidia-looks-for-a-new-era-after-huang-video",
       "published_at": "2026-11-14T14:25:34Z",
       "first_seen_at": "2026-11-14T16:42:01.304008Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.78,
       "ai_label": "chip_semi",
@@ -11632,7 +12052,7 @@
       "url": "https://www.theverge.com/transportation/1033844/tesla-personal-cybercab-orders-299-subscription-fine-print",
       "published_at": "2026-11-14T14:18:36Z",
       "first_seen_at": "2026-11-14T16:42:01.304008Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.78,
       "ai_label": "tech_general",
@@ -11849,7 +12269,7 @@
       "url": "https://github.com/FURSOY/fursoy-cpu",
       "published_at": "2026-11-14T14:06:34Z",
       "first_seen_at": "2026-11-14T16:42:01.304008Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.56,
       "ai_label": "dev_tool",
@@ -11933,7 +12353,7 @@
       "url": "https://www.tomshardware.com/tech-industry/pentagon-struggles-to-account-for-usd31-billion-in-missing-f-35-aircraft-parts-weeks-after-shipment-was-swiped-by-china-tracking-of-estimated-26-million-parts-is-outdated-inaccurate-and-incomplete-says-watchdog",
       "published_at": "2026-11-14T14:00:00Z",
       "first_seen_at": "2026-11-14T16:42:01.304008Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.56,
       "ai_label": "tech_general",
@@ -11975,7 +12395,7 @@
       "url": "https://www.bloomberg.com/news/videos/2026-11-14/couples-are-bringing-ai-into-their-arguments-video",
       "published_at": "2026-11-14T13:57:52Z",
       "first_seen_at": "2026-11-14T14:03:07.410142Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.56,
       "ai_label": "tech_general",
@@ -12007,7 +12427,7 @@
       "url": "https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14",
       "published_at": "2026-11-14T13:48:06Z",
       "first_seen_at": "2026-11-14T16:42:01.304008Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.59,
       "ai_label": "software_saas",
@@ -12242,7 +12662,7 @@
       "url": "https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom",
       "published_at": "2026-11-14T13:00:00Z",
       "first_seen_at": "2026-11-14T14:03:07.410142Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.59,
       "ai_label": "tech_general",
@@ -12601,7 +13021,7 @@
       "url": "https://the-decoder.com/openai-reassigns-robotics-researchers-to-other-teams-as-general-purpose-models-might-make-specialized-robotics-ai-unnecessary",
       "published_at": "2026-11-14T11:40:51Z",
       "first_seen_at": "2026-11-14T14:03:07.410142Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.89,
       "ai_label": "ai_model",
@@ -12660,7 +13080,7 @@
       "url": "https://www.wired.com/story/audit-all-the-cloud-storage-links-youve-shared",
       "published_at": "2026-11-14T11:30:00Z",
       "first_seen_at": "2026-11-14T14:03:07.410142Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.56,
       "ai_label": "software_saas",
@@ -12692,7 +13112,7 @@
       "url": "https://the-decoder.com/anthropic-can-already-retrain-mythos-with-a-fraction-of-the-compute-originally-needed-says-former-researcher-coxon",
       "published_at": "2026-11-14T11:21:41Z",
       "first_seen_at": "2026-11-14T14:03:07.410142Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.81,
       "ai_label": "ai_product",
@@ -12800,7 +13220,7 @@
       "url": "https://www.wired.com/story/no-pilots-few-air-traffic-controllers-what-could-go-wrong",
       "published_at": "2026-11-14T11:00:00Z",
       "first_seen_at": "2026-11-14T14:03:07.410142Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.56,
       "ai_label": "tech_general",
@@ -12832,7 +13252,7 @@
       "url": "https://www.theregister.com/saas/2026/11/14/microsofts-school-email-bill-gives-rivals-something-to-smile-about/5309296",
       "published_at": "2026-11-14T10:27:00Z",
       "first_seen_at": "2026-11-14T14:03:07.410142Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.56,
       "ai_label": "tech_general",
@@ -12864,7 +13284,7 @@
       "url": "https://www.marktechpost.com/2026/11/14/stanford-memorilla-memory-system-16-memory-tokens",
       "published_at": "2026-11-14T10:21:21Z",
       "first_seen_at": "2026-11-14T14:03:07.410142Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.84,
       "ai_label": "ai_model",
@@ -12908,7 +13328,7 @@
       "url": "https://the-decoder.com/runways-open-source-praxis-1-turns-video-ai-into-a-robot-controller",
       "published_at": "2026-11-14T09:45:45Z",
       "first_seen_at": "2026-11-14T14:03:07.410142Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.62,
       "ai_label": "robotics",
@@ -12942,7 +13362,7 @@
       "url": "https://www.marktechpost.com/2026/11/13/vercel-ui-sdk-agent-ui-behaviors",
       "published_at": "2026-11-14T06:38:14Z",
       "first_seen_at": "2026-11-14T09:18:55.832115Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.81,
       "ai_label": "ai_model",
@@ -12985,7 +13405,7 @@
       "url": "https://x.com/garrytan/status/2121464508225053153",
       "published_at": "2026-11-14T04:45:28Z",
       "first_seen_at": "2026-11-14T09:18:55.832115Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.88,
       "ai_label": "ai_model",
@@ -13039,7 +13459,7 @@
       "url": "https://x.com/garrytan/status/2121463161069228382",
       "published_at": "2026-11-14T04:40:07Z",
       "first_seen_at": "2026-11-14T09:18:55.832115Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.63,
       "ai_label": "tech_general",
@@ -13143,7 +13563,7 @@
       "url": "https://x.com/petergyang/status/2121431117526134923",
       "published_at": "2026-11-14T02:32:47Z",
       "first_seen_at": "2026-11-14T09:18:55.832115Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.85,
       "ai_label": "chip_semi",
@@ -13210,7 +13630,7 @@
       "url": "https://x.com/petergyang/status/2121430386685395022",
       "published_at": "2026-11-14T02:29:53Z",
       "first_seen_at": "2026-11-14T09:18:55.832115Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.9,
       "ai_label": "ai_model",
@@ -13258,7 +13678,7 @@
       "url": "https://x.com/amasad/status/2121428406764204199",
       "published_at": "2026-11-14T02:22:01Z",
       "first_seen_at": "2026-11-14T09:18:55.832115Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.82,
       "ai_label": "ai_model",
@@ -13290,113 +13710,302 @@
       "title_bilingual": "与 @Visa 在代理商务方面的合作非常愉快。更多功能和用例即将推出！ https://t.co/R15wSaMQ7c / It's been great partnering with @Visa on agentic commerce. More features and use cases are coming! https://t.co/R15wSaMQ7c"
     },
     {
-      "id": "c5b743948a819fcba19feec0519ba495b299dbeb",
-      "site_id": "curated_media",
-      "site_name": "Curated Media",
-      "source": "Bloomberg Tech",
-      "title": "White House Urges Easing Liability to Encourage AI Disclosure",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-14/white-house-urges-easing-liability-to-encourage-ai-disclosure",
-      "published_at": "2026-11-14T00:34:34Z",
-      "first_seen_at": "2026-11-14T09:18:55.832115Z",
-      "last_seen_at": "2026-11-14T14:03:07.410142Z",
+      "id": "d7f2c2a3683c7ae831d456bd47a7ba0450f344c1",
+      "site_id": "opmlrss",
+      "site_name": "OPML RSS",
+      "source": "Simon Willison",
+      "title": "datasette-llm 0.1a11",
+      "url": "https://simonwillison.net/2026/Nov/14/datasette-llm",
+      "published_at": "2026-11-14T23:59:28Z",
+      "first_seen_at": "2026-11-15T00:56:30.172701Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
-      "ai_score": 0.56,
-      "ai_label": "tech_general",
-      "ai_relevance_reason": "matched_tech_signal",
+      "ai_score": 0.75,
+      "ai_label": "ai_model",
+      "ai_relevance_reason": "matched_strong_tech_signal",
       "ai_signals": [
-        "ai"
+        "llm"
       ],
       "ai_noise": [],
       "tech_is_related": true,
-      "tech_score": 0.56,
-      "tech_label": "tech_general",
-      "source_tier": "ai_media",
-      "source_tier_label": "精选AI媒体",
-      "source_tier_rank": 2,
+      "tech_score": 0.75,
+      "tech_label": "ai_model",
+      "source_tier": "user_opml",
+      "source_tier_label": "RSS/OPML",
+      "source_tier_rank": 3,
       "direction": "",
       "direction_hits": [],
       "companies": [],
-      "title_original": "White House Urges Easing Liability to Encourage AI Disclosure",
-      "title_en": "White House Urges Easing Liability to Encourage AI Disclosure",
-      "title_zh": "白宫敦促减轻责任以鼓励人工智能披露",
-      "title_bilingual": "白宫敦促减轻责任以鼓励人工智能披露 / White House Urges Easing Liability to Encourage AI Disclosure"
-    },
-    {
-      "id": "6537bd75f4af70dd3f81e62b8638d7819a8b0953",
-      "site_id": "curated_media",
-      "site_name": "Curated Media",
-      "source": "Hacker News front page",
-      "title": "Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update",
-      "url": "https://unsloth.ai/docs/models/qwen3.8",
-      "published_at": "2026-11-14T00:06:04Z",
-      "first_seen_at": "2026-11-14T09:18:55.832115Z",
-      "last_seen_at": "2026-11-14T16:42:01.304008Z",
-      "ai_is_related": true,
-      "ai_score": 0.56,
-      "ai_label": "tech_general",
-      "ai_relevance_reason": "matched_tech_signal",
-      "ai_signals": [
-        "ai"
-      ],
-      "ai_noise": [],
-      "tech_is_related": true,
-      "tech_score": 0.56,
-      "tech_label": "tech_general",
-      "source_tier": "ai_media",
-      "source_tier_label": "精选AI媒体",
-      "source_tier_rank": 2,
-      "direction": "",
-      "direction_hits": [],
-      "companies": [],
-      "title_original": "Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update",
-      "title_en": "Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update",
-      "title_zh": "Unsloth Qwen 3.8-27B 量化——Dynamic v3.1 更新",
-      "title_bilingual": "Unsloth Qwen 3.8-27B 量化——Dynamic v3.1 更新 / Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update"
-    },
-    {
-      "id": "9b0f77a057594e598fac008ee392fd8501a8067b",
-      "site_id": "followbuilders",
-      "site_name": "Follow Builders",
-      "source": "Follow Builders · X · Amjad Masad",
-      "title": "Worked with the owner of the StandWithJensen page, which is built and hosted on Replit, to raise the rate limit. It should now scale! Feel free to share @GavinSBaker https://t.co/7fMPobz2ud",
-      "url": "https://x.com/amasad/status/2121389001546567837",
-      "published_at": "2026-11-13T23:45:26Z",
-      "first_seen_at": "2026-11-14T09:18:55.832115Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
-      "ai_is_related": true,
-      "ai_score": 0.63,
-      "ai_label": "tech_general",
-      "ai_relevance_reason": "matched_tech_signal",
-      "ai_signals": [
-        "ai"
-      ],
-      "ai_noise": [],
-      "tech_is_related": true,
-      "tech_score": 0.63,
-      "tech_label": "tech_general",
-      "source_tier": "builders",
-      "source_tier_label": "Builders/X源",
-      "source_tier_rank": 2,
-      "direction": "",
-      "direction_hits": [],
-      "companies": [],
-      "title_original": "Worked with the owner of the StandWithJensen page, which is built and hosted on Replit, to raise the rate limit. It should now scale! Feel free to share @GavinSBaker https://t.co/7fMPobz2ud",
-      "title_en": "Worked with the owner of the StandWithJensen page, which is built and hosted on Replit, to raise the rate limit. It should now scale! Feel free to share @GavinSBaker https://t.co/7fMPobz2ud",
+      "title_original": "datasette-llm 0.1a11",
+      "title_en": "datasette-llm 0.1a11",
       "title_zh": null,
-      "title_bilingual": "Worked with the owner of the StandWithJensen page, which is built and hosted on Replit, to raise the rate limit. It should now scale! Feel free to share @GavinSBaker https://t.co/7fMPobz2ud"
+      "title_bilingual": "datasette-llm 0.1a11"
     },
     {
-      "id": "9d7fbbcd756de74e6b9bef0ae4d5f8a1e0cbfd96",
-      "site_id": "curated_media",
-      "site_name": "Curated Media",
-      "source": "Bloomberg Tech",
-      "title": "Colette Kress Will Face Scrutiny at Nvidia",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-13/colette-kress-will-face-scrutiny-at-nvidia-video",
-      "published_at": "2026-11-13T23:23:54Z",
-      "first_seen_at": "2026-11-13T23:48:15.740118Z",
-      "last_seen_at": "2026-11-14T14:03:07.410142Z",
+      "id": "f94540e998c14dfcc1208bf02a5c3d94f57e2cce",
+      "site_id": "buzzing",
+      "site_name": "Buzzing",
+      "source": "www.techspot.com",
+      "title": "英伟达通过循环融资交易故意维持了GPU的高价",
+      "url": "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html",
+      "published_at": "2026-11-15T00:41:01.386000Z",
+      "first_seen_at": "2026-11-15T00:56:30.172701Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
-      "ai_score": 0.78,
+      "ai_score": 0.73,
+      "ai_label": "chip_semi",
+      "ai_relevance_reason": "matched_strong_tech_signal",
+      "ai_signals": [
+        "gpu",
+        "英伟达"
+      ],
+      "ai_noise": [],
+      "tech_is_related": true,
+      "tech_score": 0.73,
+      "tech_label": "chip_semi",
+      "source_tier": "discussion",
+      "source_tier_label": "热议参考",
+      "source_tier_rank": 5,
+      "direction": "semiconductor",
+      "direction_hits": [
+        {
+          "direction_id": "semiconductor",
+          "score": 1.84,
+          "matched_keywords": [
+            "gpu",
+            "co",
+            "nvidia",
+            "英伟达"
+          ],
+          "companies": [
+            "nvidia",
+            "英伟达"
+          ]
+        },
+        {
+          "direction_id": "compute_dc",
+          "score": 1.76,
+          "matched_keywords": [
+            "gpu",
+            "nvidia",
+            "nvidia",
+            "英伟达"
+          ],
+          "companies": [
+            "nvidia",
+            "英伟达"
+          ]
+        },
+        {
+          "direction_id": "autonomous_hardware",
+          "score": 0.9,
+          "matched_keywords": [
+            "nvidia",
+            "英伟达"
+          ],
+          "companies": [
+            "nvidia",
+            "英伟达"
+          ]
+        }
+      ],
+      "companies": [
+        "nvidia",
+        "英伟达"
+      ],
+      "title_original": "英伟达通过循环融资交易故意维持了GPU的高价",
+      "title_en": null,
+      "title_zh": "英伟达通过循环融资交易故意维持了GPU的高价",
+      "title_bilingual": "英伟达通过循环融资交易故意维持了GPU的高价"
+    },
+    {
+      "id": "816d2fdd39abd16b595ac76c4e468e02089eb4f0",
+      "site_id": "hackernews",
+      "site_name": "Hacker News",
+      "source": "HN Algolia · AI 24h",
+      "title": "DeepSeek's New LLM Engine Just Made GPUs 3x More Valuable [video]",
+      "url": "https://www.youtube.com/watch?v=2K_Rm8cho1I",
+      "published_at": "2026-11-15T00:07:46Z",
+      "first_seen_at": "2026-11-15T00:56:30.172701Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
+      "ai_is_related": true,
+      "ai_score": 0.86,
+      "ai_label": "ai_model",
+      "ai_relevance_reason": "matched_strong_tech_signal",
+      "ai_signals": [
+        "ai",
+        "deepseek",
+        "gpu",
+        "llm"
+      ],
+      "ai_noise": [],
+      "tech_is_related": true,
+      "tech_score": 0.86,
+      "tech_label": "ai_model",
+      "source_tier": "discussion",
+      "source_tier_label": "热议参考",
+      "source_tier_rank": 5,
+      "direction": "ai_models_apps",
+      "direction_hits": [
+        {
+          "direction_id": "ai_models_apps",
+          "score": 2.44,
+          "matched_keywords": [
+            "deepseek",
+            "llm",
+            "deepseek"
+          ],
+          "companies": [
+            "deepseek"
+          ]
+        },
+        {
+          "direction_id": "semiconductor",
+          "score": 0.81,
+          "matched_keywords": [
+            "gpu",
+            "co"
+          ],
+          "companies": []
+        }
+      ],
+      "companies": [
+        "deepseek"
+      ],
+      "title_original": "DeepSeek's New LLM Engine Just Made GPUs 3x More Valuable [video]",
+      "title_en": "DeepSeek's New LLM Engine Just Made GPUs 3x More Valuable [video]",
+      "title_zh": "DeepSeek 的全新 LLM 引擎使 GPU 的价值提高了 3 倍 [视频]",
+      "title_bilingual": "DeepSeek 的全新 LLM 引擎使 GPU 的价值提高了 3 倍 [视频] / DeepSeek's New LLM Engine Just Made GPUs 3x More Valuable [video]"
+    },
+    {
+      "id": "d7be47a4c8cb5bd54474bb7f2e367c26119cb08d",
+      "site_id": "techurls",
+      "site_name": "TechURLs",
+      "source": "Android Police",
+      "title": "Android Auto with Gemini needs a 5-minute privacy check before anyone rides shotgun",
+      "url": "https://www.androidpolice.com/gemini-android-auto-privacy-tweak",
+      "published_at": "2026-11-15T00:00:10Z",
+      "first_seen_at": "2026-11-15T00:56:30.172701Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
+      "ai_is_related": true,
+      "ai_score": 0.73,
+      "ai_label": "ai_model",
+      "ai_relevance_reason": "matched_strong_tech_signal",
+      "ai_signals": [
+        "android",
+        "gemini"
+      ],
+      "ai_noise": [],
+      "tech_is_related": true,
+      "tech_score": 0.73,
+      "tech_label": "ai_model",
+      "source_tier": "discussion",
+      "source_tier_label": "热议参考",
+      "source_tier_rank": 5,
+      "direction": "ai_models_apps",
+      "direction_hits": [
+        {
+          "direction_id": "ai_models_apps",
+          "score": 0.75,
+          "matched_keywords": [
+            "gemini",
+            "gemini"
+          ],
+          "companies": [
+            "gemini"
+          ]
+        }
+      ],
+      "companies": [
+        "gemini"
+      ],
+      "title_original": "Android Auto with Gemini needs a 5-minute privacy check before anyone rides shotgun",
+      "title_en": "Android Auto with Gemini needs a 5-minute privacy check before anyone rides shotgun",
+      "title_zh": "Android Auto with Gemini 在任何人使用之前需要进行 5 分钟的隐私检查",
+      "title_bilingual": "Android Auto with Gemini 在任何人使用之前需要进行 5 分钟的隐私检查 / Android Auto with Gemini needs a 5-minute privacy check before anyone rides shotgun"
+    },
+    {
+      "id": "137b9ef7013d49ab740ea2865617fe4865965b71",
+      "site_id": "newsnow",
+      "site_name": "NewsNow",
+      "source": "hackernews",
+      "title": "Nvidia deliberately kept GPU prices high through circular financing deals",
+      "url": "https://news.ycombinator.com/item?id=50501631",
+      "published_at": "2026-11-14T22:26:30Z",
+      "first_seen_at": "2026-11-15T00:56:30.172701Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
+      "ai_is_related": true,
+      "ai_score": 0.68,
+      "ai_label": "chip_semi",
+      "ai_relevance_reason": "matched_strong_tech_signal",
+      "ai_signals": [
+        "gpu",
+        "nvidia"
+      ],
+      "ai_noise": [],
+      "tech_is_related": true,
+      "tech_score": 0.68,
+      "tech_label": "chip_semi",
+      "source_tier": "discussion",
+      "source_tier_label": "热议参考",
+      "source_tier_rank": 5,
+      "direction": "compute_dc",
+      "direction_hits": [
+        {
+          "direction_id": "compute_dc",
+          "score": 2.31,
+          "matched_keywords": [
+            "gpu",
+            "nvidia",
+            "nvidia"
+          ],
+          "companies": [
+            "nvidia"
+          ]
+        },
+        {
+          "direction_id": "semiconductor",
+          "score": 1.56,
+          "matched_keywords": [
+            "gpu",
+            "co",
+            "nvidia"
+          ],
+          "companies": [
+            "nvidia"
+          ]
+        },
+        {
+          "direction_id": "autonomous_hardware",
+          "score": 0.75,
+          "matched_keywords": [
+            "nvidia"
+          ],
+          "companies": [
+            "nvidia"
+          ]
+        }
+      ],
+      "companies": [
+        "nvidia"
+      ],
+      "title_original": "Nvidia deliberately kept GPU prices high through circular financing deals",
+      "title_en": "Nvidia deliberately kept GPU prices high through circular financing deals",
+      "title_zh": "Nvidia通过循环融资交易刻意保持GPU高价",
+      "title_bilingual": "Nvidia通过循环融资交易刻意保持GPU高价 / Nvidia deliberately kept GPU prices high through circular financing deals"
+    },
+    {
+      "id": "5a926bb6ae8564d33a10608c9a2f11afd6c931cf",
+      "site_id": "techurls",
+      "site_name": "TechURLs",
+      "source": "Techmeme",
+      "title": "Unlike other larger-than-life tech founders, Jensen Huang lacked super-voting shares in Nvidia, making it easier for him to lose control of the company (Forbes)",
+      "url": "https://www.techmeme.com/261114/p20",
+      "published_at": "2026-11-14T22:05:01Z",
+      "first_seen_at": "2026-11-15T00:56:30.172701Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
+      "ai_is_related": true,
+      "ai_score": 0.7,
       "ai_label": "chip_semi",
       "ai_relevance_reason": "matched_strong_tech_signal",
       "ai_signals": [
@@ -13404,11 +14013,11 @@
       ],
       "ai_noise": [],
       "tech_is_related": true,
-      "tech_score": 0.78,
+      "tech_score": 0.7,
       "tech_label": "chip_semi",
-      "source_tier": "ai_media",
-      "source_tier_label": "精选AI媒体",
-      "source_tier_rank": 2,
+      "source_tier": "discussion",
+      "source_tier_label": "热议参考",
+      "source_tier_rank": 5,
       "direction": "compute_dc",
       "direction_hits": [
         {
@@ -13447,90 +14056,67 @@
       "companies": [
         "nvidia"
       ],
-      "title_original": "Colette Kress Will Face Scrutiny at Nvidia",
-      "title_en": "Colette Kress Will Face Scrutiny at Nvidia",
-      "title_zh": "科莱特·克雷斯 (Colette Kress) 将在 Nvidia 面临审查",
-      "title_bilingual": "科莱特·克雷斯 (Colette Kress) 将在 Nvidia 面临审查 / Colette Kress Will Face Scrutiny at Nvidia"
+      "title_original": "Unlike other larger-than-life tech founders, Jensen Huang lacked super-voting shares in Nvidia, making it easier for him to lose control of the company (Forbes)",
+      "title_en": "Unlike other larger-than-life tech founders, Jensen Huang lacked super-voting shares in Nvidia, making it easier for him to lose control of the company (Forbes)",
+      "title_zh": null,
+      "title_bilingual": "Unlike other larger-than-life tech founders, Jensen Huang lacked super-voting shares in Nvidia, making it easier for him to lose control of the company (Forbes)"
     },
     {
-      "id": "e91c3b61ed62a96aba818f6d7991afc1d40605e7",
-      "site_id": "curated_media",
-      "site_name": "Curated Media",
-      "source": "Bloomberg Tech",
-      "title": "Modine Shares Gain Most in Six Years After Samsung Buyout Talks",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-13/modine-shares-gain-most-in-six-years-after-samsung-buyout-talks",
-      "published_at": "2026-11-13T23:03:51Z",
-      "first_seen_at": "2026-11-13T23:48:15.740118Z",
-      "last_seen_at": "2026-11-14T09:18:55.832115Z",
+      "id": "1de961cffcb9e680f6c3a5d1e95b7784add13ba4",
+      "site_id": "techurls",
+      "site_name": "TechURLs",
+      "source": "Android Police",
+      "title": "I used Gemini to track my credit card bills; I never missed a payment ever again",
+      "url": "https://www.androidpolice.com/gemini-track-credit-card-bills-payments",
+      "published_at": "2026-11-14T22:00:10Z",
+      "first_seen_at": "2026-11-15T00:56:30.172701Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
-      "ai_score": 0.59,
-      "ai_label": "consumer_hw",
-      "ai_relevance_reason": "matched_tech_signal",
+      "ai_score": 0.76,
+      "ai_label": "ai_model",
+      "ai_relevance_reason": "matched_strong_tech_signal",
       "ai_signals": [
         "ai",
-        "samsung"
+        "android",
+        "gemini"
       ],
       "ai_noise": [],
       "tech_is_related": true,
-      "tech_score": 0.59,
-      "tech_label": "consumer_hw",
-      "source_tier": "ai_media",
-      "source_tier_label": "精选AI媒体",
-      "source_tier_rank": 2,
+      "tech_score": 0.76,
+      "tech_label": "ai_model",
+      "source_tier": "discussion",
+      "source_tier_label": "热议参考",
+      "source_tier_rank": 5,
       "direction": "ai_terminal",
       "direction_hits": [
         {
           "direction_id": "ai_terminal",
-          "score": 2.31,
+          "score": 1.0,
           "matched_keywords": [
-            "samsung",
             "ar",
-            "samsung"
+            "android"
+          ],
+          "companies": []
+        },
+        {
+          "direction_id": "ai_models_apps",
+          "score": 0.75,
+          "matched_keywords": [
+            "gemini",
+            "gemini"
           ],
           "companies": [
-            "samsung"
+            "gemini"
           ]
         }
       ],
       "companies": [
-        "samsung"
+        "gemini"
       ],
-      "title_original": "Modine Shares Gain Most in Six Years After Samsung Buyout Talks",
-      "title_en": "Modine Shares Gain Most in Six Years After Samsung Buyout Talks",
-      "title_zh": "三星收购谈判后莫丁股价六年来涨幅最大",
-      "title_bilingual": "三星收购谈判后莫丁股价六年来涨幅最大 / Modine Shares Gain Most in Six Years After Samsung Buyout Talks"
-    },
-    {
-      "id": "531df777c81d4a9f07379f234eeb8f752ce4d824",
-      "site_id": "curated_media",
-      "site_name": "Curated Media",
-      "source": "TechCrunch AI",
-      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
-      "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say",
-      "published_at": "2026-11-13T22:43:00Z",
-      "first_seen_at": "2026-11-13T23:48:15.740118Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
-      "ai_is_related": true,
-      "ai_score": 0.56,
-      "ai_label": "industry_business",
-      "ai_relevance_reason": "matched_tech_signal",
-      "ai_signals": [
-        "ai"
-      ],
-      "ai_noise": [],
-      "tech_is_related": true,
-      "tech_score": 0.56,
-      "tech_label": "industry_business",
-      "source_tier": "ai_media",
-      "source_tier_label": "精选AI媒体",
-      "source_tier_rank": 2,
-      "direction": "",
-      "direction_hits": [],
-      "companies": [],
-      "title_original": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
-      "title_en": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
-      "title_zh": "风险投资家和创始人表示，黄仁勋的离职导致人工智能初创公司资金出现巨大缺口",
-      "title_bilingual": "风险投资家和创始人表示，黄仁勋的离职导致人工智能初创公司资金出现巨大缺口 / Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say"
+      "title_original": "I used Gemini to track my credit card bills; I never missed a payment ever again",
+      "title_en": "I used Gemini to track my credit card bills; I never missed a payment ever again",
+      "title_zh": "我使用 Gemini 来追踪我的信用卡账单；我再也没有错过付款",
+      "title_bilingual": "我使用 Gemini 来追踪我的信用卡账单；我再也没有错过付款 / I used Gemini to track my credit card bills; I never missed a payment ever again"
     },
     {
       "id": "513621aef39494027890f805c1c1ad382b301e15",
@@ -13541,7 +14127,7 @@
       "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
       "published_at": "2026-11-14T21:13:58.862000Z",
       "first_seen_at": "2026-11-14T22:41:30.172994Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.73,
       "ai_label": "ai_model",
@@ -13589,7 +14175,7 @@
       "url": "https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee",
       "published_at": "2026-11-14T20:04:44Z",
       "first_seen_at": "2026-11-14T22:41:30.172994Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.7,
       "ai_label": "tech_general",
@@ -13636,7 +14222,7 @@
       "url": "https://www.businessinsider.com/intelligence-jensen-huang-downfall-shaky-nvidia-china-spy-gpus-2026-11",
       "published_at": "2026-11-14T20:00:34Z",
       "first_seen_at": "2026-11-14T22:41:30.172994Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.7,
       "ai_label": "chip_semi",
@@ -13710,7 +14296,7 @@
       "url": "https://www.androidpolice.com/replaced-learning-apps-with-gemini-guided-learning-remembers-progress-adapts-to-pace",
       "published_at": "2026-11-14T20:00:10Z",
       "first_seen_at": "2026-11-14T22:41:30.172994Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.73,
       "ai_label": "ai_model",
@@ -13766,7 +14352,7 @@
       "url": "https://www.techmeme.com/261114/p18",
       "published_at": "2026-11-14T19:55:01Z",
       "first_seen_at": "2026-11-14T22:41:30.172994Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.7,
       "ai_label": "chip_semi",
@@ -13833,7 +14419,7 @@
       "url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm",
       "published_at": "2026-11-14T19:38:56.216000Z",
       "first_seen_at": "2026-11-14T19:51:02.337519Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.78,
       "ai_label": "ai_model",
@@ -13913,7 +14499,7 @@
       "url": "https://juejin.cn/post/7707462833181753353",
       "published_at": "2026-11-14T19:30:17.963000Z",
       "first_seen_at": "2026-11-14T19:51:02.337519Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.62,
       "ai_label": "ai_model",
@@ -14014,7 +14600,7 @@
       "url": "https://www.techmeme.com/261114/p17",
       "published_at": "2026-11-14T19:01:14Z",
       "first_seen_at": "2026-11-14T19:51:02.337519Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.7,
       "ai_label": "chip_semi",
@@ -14090,7 +14676,7 @@
       "url": "https://www.techmeme.com/261114/p15",
       "published_at": "2026-11-14T18:05:02Z",
       "first_seen_at": "2026-11-14T19:51:02.337519Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.57,
       "ai_label": "ai_model",
@@ -14125,7 +14711,7 @@
       "url": "https://techcrunch.com/2026/11/14/got-an-iphone-duo-these-9-settings-make-it-easier-to-use",
       "published_at": "2026-11-14T18:00:00Z",
       "first_seen_at": "2026-11-14T19:51:02.337519Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.7,
       "ai_label": "consumer_hw",
@@ -14171,7 +14757,7 @@
       "url": "https://www.techradar.com/phones/iphone/the-iphone-duo-has-transformed-how-i-code-with-my-mac-and-this-game-changing-app-unlocked-its-productivity-potential",
       "published_at": "2026-11-14T18:00:00Z",
       "first_seen_at": "2026-11-14T19:51:02.337519Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.7,
       "ai_label": "software_saas",
@@ -14219,7 +14805,7 @@
       "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/rogue-claude-ai-tasked-with-renumbering-pages-accidentally-deletes-law-professors-entire-syllabus-one-year-of-lecture-notes-youre-right-to-be-angry-i-deleted-your-files-through-my-own-carelessness-humbled-agent-admits",
       "published_at": "2026-11-14T17:51:13Z",
       "first_seen_at": "2026-11-14T19:51:02.337519Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "ai_model",
@@ -14326,7 +14912,7 @@
       "url": "https://www.v2ex.com/t/1257137",
       "published_at": "2026-11-14T17:41:27Z",
       "first_seen_at": "2026-11-14T19:51:02.337519Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "ai_model",
@@ -14358,7 +14944,7 @@
       "url": "https://daringfireball.net/linked/2026/11/14/patrick-mcgee-on-johny-srouji-and-nvidia",
       "published_at": "2026-11-14T17:40:39Z",
       "first_seen_at": "2026-11-14T19:51:02.337519Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.7,
       "ai_label": "chip_semi",
@@ -14424,7 +15010,7 @@
       "url": "https://www.businessinsider.com/petition-reinstate-jensen-huang-nvidia-elon-musk-2026-11",
       "published_at": "2026-11-14T17:28:05Z",
       "first_seen_at": "2026-11-14T19:51:02.337519Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.7,
       "ai_label": "chip_semi",
@@ -14491,7 +15077,7 @@
       "url": "https://www.v2ex.com/t/1257136",
       "published_at": "2026-11-14T17:17:38Z",
       "first_seen_at": "2026-11-14T19:51:02.337519Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.68,
       "ai_label": "ai_model",
@@ -14535,7 +15121,7 @@
       "url": "https://www.businessinsider.com/nvidia-new-ceo-candidates-replace-jensen-huang-2026-11",
       "published_at": "2026-11-14T16:37:13Z",
       "first_seen_at": "2026-11-14T19:51:02.337519Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.7,
       "ai_label": "chip_semi",
@@ -14602,7 +15188,7 @@
       "url": "https://www.v2ex.com/t/1257132",
       "published_at": "2026-11-14T16:32:42Z",
       "first_seen_at": "2026-11-14T16:42:01.304008Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "consumer_hw",
@@ -14648,7 +15234,7 @@
       "url": "https://www.v2ex.com/t/1257131",
       "published_at": "2026-11-14T16:24:00Z",
       "first_seen_at": "2026-11-14T16:42:01.304008Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.68,
       "ai_label": "consumer_hw",
@@ -14696,7 +15282,7 @@
       "url": "https://www.techmeme.com/261114/p12",
       "published_at": "2026-11-14T16:01:26Z",
       "first_seen_at": "2026-11-14T19:51:02.337519Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.7,
       "ai_label": "tech_general",
@@ -14744,7 +15330,7 @@
       "url": "https://www.androidpolice.com/gemini-true-power-comes-from-the-tweaks-nobody-wants-to-talk-about",
       "published_at": "2026-11-14T16:00:10Z",
       "first_seen_at": "2026-11-14T19:51:02.337519Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.73,
       "ai_label": "ai_model",
@@ -14791,7 +15377,7 @@
       "url": "https://daringfireball.net/linked/2026/11/14/microsoft-outage",
       "published_at": "2026-11-14T16:00:00Z",
       "first_seen_at": "2026-11-14T19:51:02.337519Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.73,
       "ai_label": "ai_model",
@@ -14843,7 +15429,7 @@
       "url": "https://www.v2ex.com/t/1257126",
       "published_at": "2026-11-14T15:38:08Z",
       "first_seen_at": "2026-11-14T16:42:01.304008Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.67,
       "ai_label": "ai_model",
@@ -14893,7 +15479,7 @@
       "url": "https://www.v2ex.com/t/1257123",
       "published_at": "2026-11-14T15:29:52Z",
       "first_seen_at": "2026-11-14T16:42:01.304008Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "ai_model",
@@ -14925,7 +15511,7 @@
       "url": "https://www.macrumors.com/2026/11/14/early-apple-black-friday-deals-2",
       "published_at": "2026-11-14T15:25:16Z",
       "first_seen_at": "2026-11-14T16:42:01.304008Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.76,
       "ai_label": "software_saas",
@@ -14976,7 +15562,7 @@
       "url": "https://news.ycombinator.com/item?id=50497589",
       "published_at": "2026-11-14T15:04:15Z",
       "first_seen_at": "2026-11-14T19:51:02.337519Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "ai_model",
@@ -15070,7 +15656,7 @@
       "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
       "published_at": "2026-11-14T15:00:00Z",
       "first_seen_at": "2026-11-14T16:42:01.304008Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.73,
       "ai_label": "ai_product",
@@ -15117,7 +15703,7 @@
       "url": "https://www.v2ex.com/t/1257115",
       "published_at": "2026-11-14T14:44:59Z",
       "first_seen_at": "2026-11-14T16:42:01.304008Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "ai_model",
@@ -15273,7 +15859,7 @@
       "url": "https://www.producthunt.com/products/openai",
       "published_at": "2026-11-14T14:03:57.522000Z",
       "first_seen_at": "2026-11-14T14:03:07.410142Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "ai_model",
@@ -15320,7 +15906,7 @@
       "url": "https://www.producthunt.com/products/gemini-robotics-2-5",
       "published_at": "2026-11-14T14:03:57.522000Z",
       "first_seen_at": "2026-11-14T14:03:07.410142Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.73,
       "ai_label": "ai_model",
@@ -15377,7 +15963,7 @@
       "url": "https://www.macrumors.com/2026/11/14/top-stories-apple-new-software-approach",
       "published_at": "2026-11-14T14:00:08Z",
       "first_seen_at": "2026-11-14T16:42:01.304008Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.7,
       "ai_label": "software_saas",
@@ -15476,7 +16062,7 @@
       "url": "https://www.androidpolice.com/heres-how-to-play-world-of-warcraft-forever-on-your-smartphone",
       "published_at": "2026-11-14T13:45:10Z",
       "first_seen_at": "2026-11-14T14:03:07.410142Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.73,
       "ai_label": "software_saas",
@@ -15520,7 +16106,7 @@
       "url": "https://www.netmeister.org/blog/claude-delusion.html",
       "published_at": "2026-11-14T13:36:17Z",
       "first_seen_at": "2026-11-14T16:42:01.304008Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "ai_model",
@@ -15552,7 +16138,7 @@
       "url": "https://juejin.cn/post/7707184266060300322",
       "published_at": "2026-11-14T13:35:02.193000Z",
       "first_seen_at": "2026-11-14T14:03:07.410142Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.68,
       "ai_label": "ai_model",
@@ -15720,7 +16306,7 @@
       "url": "https://debarshibasak.github.io/readables/blogs/agent-first-development",
       "published_at": "2026-11-14T12:38:43Z",
       "first_seen_at": "2026-11-14T22:41:30.172994Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.62,
       "ai_label": "ai_model",
@@ -15769,7 +16355,7 @@
       "url": "https://www.economist.com/business/2026/11/14/the-bottom-line-newsletter-nvidia-will-never-be-the-same",
       "published_at": "2026-11-14T12:29:45.854000Z",
       "first_seen_at": "2026-11-14T14:03:07.410142Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.7,
       "ai_label": "chip_semi",
@@ -15926,7 +16512,7 @@
       "url": "https://www.androidpolice.com/top-shot-motion-photo",
       "published_at": "2026-11-14T11:30:10Z",
       "first_seen_at": "2026-11-14T14:03:07.410142Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.76,
       "ai_label": "software_saas",
@@ -16070,7 +16656,7 @@
       "url": "https://www.androidpolice.com/i-used-pixel-10s-magic-cue-galaxys-now-nudge-side-by-side-one-showed-up-when-i-needed-it",
       "published_at": "2026-11-14T11:00:10Z",
       "first_seen_at": "2026-11-14T14:03:07.410142Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.78,
       "ai_label": "software_saas",
@@ -16115,7 +16701,7 @@
       "url": "https://www.vox.com/future-perfect/510882/nvidia-jensen-huang-spy-ai-security-openai-anthropic",
       "published_at": "2026-11-14T11:00:00Z",
       "first_seen_at": "2026-11-14T14:03:07.410142Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.73,
       "ai_label": "chip_semi",
@@ -16200,7 +16786,7 @@
       "url": "https://yro.slashdot.org/story/26/11/14/0211248/ex-nvidia-ceo-misled-company-leaders-on-affair-with-chinese-businesswoman",
       "published_at": "2026-11-14T11:00:00Z",
       "first_seen_at": "2026-11-14T14:03:07.410142Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.73,
       "ai_label": "chip_semi",
@@ -16268,7 +16854,7 @@
       "url": "https://claude.com/resources/articles/claude-meetings",
       "published_at": "2026-11-14T10:44:27.205000Z",
       "first_seen_at": "2026-11-14T14:03:07.410142Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.7,
       "ai_label": "ai_model",
@@ -16300,7 +16886,7 @@
       "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
       "published_at": "2026-11-14T10:32:03.584000Z",
       "first_seen_at": "2026-11-14T14:03:07.410142Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.75,
       "ai_label": "chip_semi",
@@ -16532,7 +17118,7 @@
       "url": "https://mashable.com/life/chatgpt-wedding-vows",
       "published_at": "2026-11-14T10:00:00Z",
       "first_seen_at": "2026-11-14T14:03:07.410142Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.7,
       "ai_label": "ai_model",
@@ -16646,7 +17232,7 @@
       "url": "https://juejin.cn/post/7707118655453282313",
       "published_at": "2026-11-14T09:04:09.379000Z",
       "first_seen_at": "2026-11-14T09:18:55.832115Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.68,
       "ai_label": "ai_model",
@@ -16693,7 +17279,7 @@
       "url": "https://juejin.cn/post/7707128656847536162",
       "published_at": "2026-11-14T09:04:09.379000Z",
       "first_seen_at": "2026-11-14T09:18:55.832115Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "ai_model",
@@ -16948,7 +17534,7 @@
       "url": "https://www.techmeme.com/261114/p7",
       "published_at": "2026-11-14T07:30:08Z",
       "first_seen_at": "2026-11-14T09:18:55.832115Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.76,
       "ai_label": "chip_semi",
@@ -17187,7 +17773,7 @@
       "url": "https://twitter.com/willdepue/status/2120992457630326841",
       "published_at": "2026-11-14T06:50:21Z",
       "first_seen_at": "2026-11-14T22:41:30.172994Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.68,
       "ai_label": "ai_model",
@@ -17234,7 +17820,7 @@
       "url": "https://www.androidpolice.com/google-pixel-11-pro-most-pointless-feature-useful-upgrade",
       "published_at": "2026-11-14T06:32:41Z",
       "first_seen_at": "2026-11-14T09:18:55.832115Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.73,
       "ai_label": "software_saas",
@@ -17335,7 +17921,7 @@
       "url": "https://www.androidpolice.com/android-xr-smart-glasses-will-hide-faces-from-gemini-ban-real-time-facial-recognition",
       "published_at": "2026-11-14T04:29:17Z",
       "first_seen_at": "2026-11-14T09:18:55.832115Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.73,
       "ai_label": "ai_model",
@@ -17618,7 +18204,7 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-director-sold-nearly-1b-160000846.html",
       "published_at": "2026-11-14T02:21:36Z",
       "first_seen_at": "2026-11-14T09:18:55.832115Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "chip_semi",
@@ -17997,273 +18583,112 @@
       "title_bilingual": "Sources and messages: Jensen Huang misled several Nvidia leaders, including general counsel Tim Teter, about the nature of his relationship with Alice Huang (Reuters)"
     },
     {
-      "id": "2757876d89a1a1213b20af43f8187a6dd7539802",
-      "site_id": "zeli",
-      "site_name": "Zeli",
-      "source": "Hacker News · 24h最热",
-      "title": "DeepSeek V4 Pro 0813",
-      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-0813",
-      "published_at": "2026-11-14T00:50:33Z",
-      "first_seen_at": "2026-11-14T14:03:07.410142Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "id": "fc0b3328e2b03fe9198271af7c8c26e45eb35b18",
+      "site_id": "sector_sources",
+      "site_name": "Sector Sources",
+      "source": "IT Home",
+      "title": "IT早报 1115：SpaceX 首次完成“筷子夹星舰飞船”；百万级 CAR-T 抗癌药首次进医保；古尔曼重申苹果 iPhone 18 明年春发布；比亚迪辟谣收购某数字能源...",
+      "url": "https://www.ithome.com/1/027/257.htm",
+      "published_at": "2026-11-14T23:55:12Z",
+      "first_seen_at": "2026-11-15T00:56:30.172701Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
-      "ai_score": 0.68,
+      "ai_score": 0.6,
       "ai_label": "ai_model",
       "ai_relevance_reason": "matched_strong_tech_signal",
       "ai_signals": [
-        "deepseek",
-        "huggingface"
+        "iphone"
       ],
       "ai_noise": [],
       "tech_is_related": true,
-      "tech_score": 0.68,
+      "tech_score": 0.6,
       "tech_label": "ai_model",
-      "source_tier": "discussion",
-      "source_tier_label": "热议参考",
-      "source_tier_rank": 5,
-      "direction": "ai_models_apps",
-      "direction_hits": [
-        {
-          "direction_id": "ai_models_apps",
-          "score": 0.75,
-          "matched_keywords": [
-            "deepseek",
-            "deepseek"
-          ],
-          "companies": [
-            "deepseek"
-          ]
-        }
-      ],
-      "companies": [
-        "deepseek"
-      ],
-      "title_original": "DeepSeek V4 Pro 0813",
-      "title_en": "DeepSeek V4 Pro 0813",
-      "title_zh": null,
-      "title_bilingual": "DeepSeek V4 Pro 0813"
-    },
-    {
-      "id": "7ccce7da72a56e428ea096d7d2dda4d8f6e20dce",
-      "site_id": "zeli",
-      "site_name": "Zeli",
-      "source": "Hacker News · 24h最热",
-      "title": "Show HN: Light control for MacBook charger status light (open-source)",
-      "url": "https://github.com/Getterbetter/ember/releases/tag/v1.0.1",
-      "published_at": "2026-11-14T00:44:58Z",
-      "first_seen_at": "2026-11-14T19:51:02.337519Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
-      "ai_is_related": true,
-      "ai_score": 0.68,
-      "ai_label": "dev_tool",
-      "ai_relevance_reason": "matched_strong_tech_signal",
-      "ai_signals": [
-        "macbook",
-        "open-source"
-      ],
-      "ai_noise": [],
-      "tech_is_related": true,
-      "tech_score": 0.68,
-      "tech_label": "dev_tool",
-      "source_tier": "discussion",
-      "source_tier_label": "热议参考",
-      "source_tier_rank": 5,
+      "source_tier": "other",
+      "source_tier_label": "其他来源",
+      "source_tier_rank": 9,
       "direction": "ai_terminal",
       "direction_hits": [
         {
           "direction_id": "ai_terminal",
-          "score": 2.25,
+          "score": 2.4,
           "matched_keywords": [
-            "mac",
-            "macbook",
-            "ar"
+            "iphone",
+            "ar",
+            "iphone",
+            "苹果"
           ],
-          "companies": []
-        }
-      ],
-      "companies": [],
-      "title_original": "Show HN: Light control for MacBook charger status light (open-source)",
-      "title_en": "Show HN: Light control for MacBook charger status light (open-source)",
-      "title_zh": "Show HN：MacBook 充电器状态灯的灯光控制（开源）",
-      "title_bilingual": "Show HN：MacBook 充电器状态灯的灯光控制（开源） / Show HN: Light control for MacBook charger status light (open-source)"
-    },
-    {
-      "id": "76abc41f40f7e79c7bfa6e291d5b831ebc766f96",
-      "site_id": "zeli",
-      "site_name": "Zeli",
-      "source": "Hacker News · 24h最热",
-      "title": "Tesla Opens Cybercab Orders to 'Select Customers' at $29,990 Plus $299 per Month",
-      "url": "https://insideevs.com/news/815473/tesla-cybercab-pricing-sales-announced",
-      "published_at": "2026-11-14T00:33:50Z",
-      "first_seen_at": "2026-11-14T14:03:07.410142Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
-      "ai_is_related": true,
-      "ai_score": 0.65,
-      "ai_label": "tech_general",
-      "ai_relevance_reason": "matched_strong_tech_signal",
-      "ai_signals": [
-        "tesla"
-      ],
-      "ai_noise": [],
-      "tech_is_related": true,
-      "tech_score": 0.65,
-      "tech_label": "tech_general",
-      "source_tier": "discussion",
-      "source_tier_label": "热议参考",
-      "source_tier_rank": 5,
-      "direction": "autonomous_vehicle",
-      "direction_hits": [
+          "companies": [
+            "iphone",
+            "苹果"
+          ]
+        },
+        {
+          "direction_id": "energy_hardware",
+          "score": 0.75,
+          "matched_keywords": [
+            "比亚迪"
+          ],
+          "companies": [
+            "比亚迪"
+          ]
+        },
         {
           "direction_id": "autonomous_vehicle",
-          "score": 2.38,
+          "score": 0.75,
           "matched_keywords": [
-            "tesla",
-            "cyber",
-            "tesla"
+            "比亚迪",
+            "比亚迪"
           ],
           "companies": [
-            "tesla"
+            "比亚迪"
           ]
         }
       ],
       "companies": [
-        "tesla"
+        "iphone",
+        "比亚迪",
+        "苹果"
       ],
-      "title_original": "Tesla Opens Cybercab Orders to 'Select Customers' at $29,990 Plus $299 per Month",
-      "title_en": "Tesla Opens Cybercab Orders to 'Select Customers' at $29,990 Plus $299 per Month",
-      "title_zh": "Tesla 向“精选客户”开放 Cyber​​cab 订单，价格为 29,990 美元，每月另加 299 美元",
-      "title_bilingual": "Tesla 向“精选客户”开放 Cyber​​cab 订单，价格为 29,990 美元，每月另加 299 美元 / Tesla Opens Cybercab Orders to 'Select Customers' at $29,990 Plus $299 per Month"
+      "title_original": "IT早报 1115：SpaceX 首次完成“筷子夹星舰飞船”；百万级 CAR-T 抗癌药首次进医保；古尔曼重申苹果 iPhone 18 明年春发布；比亚迪辟谣收购某数字能源...",
+      "title_en": null,
+      "title_zh": "IT早报 1115：SpaceX 首次完成“筷子夹星舰飞船”；百万级 CAR-T 抗癌药首次进医保；古尔曼重申苹果 iPhone 18 明年春发布；比亚迪辟谣收购某数字能源...",
+      "title_bilingual": "IT早报 1115：SpaceX 首次完成“筷子夹星舰飞船”；百万级 CAR-T 抗癌药首次进医保；古尔曼重申苹果 iPhone 18 明年春发布；比亚迪辟谣收购某数字能源..."
     },
     {
-      "id": "66d12209692eec3def727ca53357b4e371faa565",
-      "site_id": "zeli",
-      "site_name": "Zeli",
-      "source": "Hacker News · 24h最热",
-      "title": "Anthropic upgrades Claude Code Projects to run parallel AI workers",
-      "url": "https://claude.com/resources/articles/projects-redesigned",
-      "published_at": "2026-11-14T00:28:11Z",
-      "first_seen_at": "2026-11-14T09:18:55.832115Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "id": "10f207a48dcb8bc7244786e3cdd601a083e807b9",
+      "site_id": "sector_sources",
+      "site_name": "Sector Sources",
+      "source": "IT Home",
+      "title": "一天暴涨 6 万：请愿恢复黄仁勋英伟达 CEO 职务人数突破 12 万人，马斯克也参与签名",
+      "url": "https://www.ithome.com/1/027/252.htm",
+      "published_at": "2026-11-14T23:18:00Z",
+      "first_seen_at": "2026-11-15T00:56:30.172701Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
-      "ai_score": 0.73,
-      "ai_label": "ai_model",
-      "ai_relevance_reason": "matched_strong_tech_signal",
-      "ai_signals": [
-        "ai",
-        "anthropic",
-        "claude"
-      ],
-      "ai_noise": [],
-      "tech_is_related": true,
-      "tech_score": 0.73,
-      "tech_label": "ai_model",
-      "source_tier": "discussion",
-      "source_tier_label": "热议参考",
-      "source_tier_rank": 5,
-      "direction": "ai_models_apps",
-      "direction_hits": [
-        {
-          "direction_id": "ai_models_apps",
-          "score": 4.38,
-          "matched_keywords": [
-            "claude",
-            "code",
-            "anthropic",
-            "claude code",
-            "anthropic"
-          ],
-          "companies": [
-            "anthropic"
-          ]
-        }
-      ],
-      "companies": [
-        "anthropic"
-      ],
-      "title_original": "Anthropic upgrades Claude Code Projects to run parallel AI workers",
-      "title_en": "Anthropic upgrades Claude Code Projects to run parallel AI workers",
-      "title_zh": "Anthropic 升级 Claude 代码项目以运行并行 AI 工作人员",
-      "title_bilingual": "Anthropic 升级 Claude 代码项目以运行并行 AI 工作人员 / Anthropic upgrades Claude Code Projects to run parallel AI workers"
-    },
-    {
-      "id": "138c6146545e8a19b2c834b4d89dfdcb084f8d04",
-      "site_id": "techurls",
-      "site_name": "TechURLs",
-      "source": "Android Police",
-      "title": "3 apps that turn my Pixel's launcher from good into great",
-      "url": "https://www.androidpolice.com/these-3-apps-fix-everything-i-dislike-about-the-pixel-launcher",
-      "published_at": "2026-11-14T00:00:10Z",
-      "first_seen_at": "2026-11-14T09:18:55.832115Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
-      "ai_is_related": true,
-      "ai_score": 0.73,
-      "ai_label": "software_saas",
-      "ai_relevance_reason": "matched_strong_tech_signal",
-      "ai_signals": [
-        "android",
-        "pixel"
-      ],
-      "ai_noise": [],
-      "tech_is_related": true,
-      "tech_score": 0.73,
-      "tech_label": "software_saas",
-      "source_tier": "discussion",
-      "source_tier_label": "热议参考",
-      "source_tier_rank": 5,
-      "direction": "ai_terminal",
-      "direction_hits": [
-        {
-          "direction_id": "ai_terminal",
-          "score": 1.19,
-          "matched_keywords": [
-            "pixel",
-            "android"
-          ],
-          "companies": []
-        }
-      ],
-      "companies": [],
-      "title_original": "3 apps that turn my Pixel's launcher from good into great",
-      "title_en": "3 apps that turn my Pixel's launcher from good into great",
-      "title_zh": "3 个应用让我的 Pixel 启动器变得出色",
-      "title_bilingual": "3 个应用让我的 Pixel 启动器变得出色 / 3 apps that turn my Pixel's launcher from good into great"
-    },
-    {
-      "id": "345ba07ca669cca19caddb3d2a5176bb56b0608c",
-      "site_id": "techurls",
-      "site_name": "TechURLs",
-      "source": "Techmeme",
-      "title": "ASI, developer of AI tool SMART, says the FAA outage \"is not based on or a result of the SMART system, any product of ASI, or our integration with FAA and ATC\" (Asi/@airspaceintel)",
-      "url": "https://www.techmeme.com/261113/p34",
-      "published_at": "2026-11-13T23:35:00Z",
-      "first_seen_at": "2026-11-13T23:48:15.740118Z",
-      "last_seen_at": "2026-11-13T23:48:15.740118Z",
-      "ai_is_related": true,
-      "ai_score": 0.76,
+      "ai_score": 0.63,
       "ai_label": "chip_semi",
       "ai_relevance_reason": "matched_strong_tech_signal",
       "ai_signals": [
-        "ai",
-        "developer",
-        "intel"
+        "英伟达",
+        "黄仁勋"
       ],
       "ai_noise": [],
       "tech_is_related": true,
-      "tech_score": 0.76,
+      "tech_score": 0.63,
       "tech_label": "chip_semi",
-      "source_tier": "discussion",
-      "source_tier_label": "热议参考",
-      "source_tier_rank": 5,
+      "source_tier": "other",
+      "source_tier_label": "其他来源",
+      "source_tier_rank": 9,
       "direction": "compute_dc",
       "direction_hits": [
         {
           "direction_id": "compute_dc",
           "score": 0.75,
           "matched_keywords": [
-            "intel"
+            "英伟达"
           ],
           "companies": [
-            "intel"
+            "英伟达"
           ]
         },
         {
@@ -18271,130 +18696,30 @@
           "score": 0.75,
           "matched_keywords": [
             "co",
-            "intel"
+            "英伟达"
           ],
           "companies": [
-            "intel"
-          ]
-        }
-      ],
-      "companies": [
-        "intel"
-      ],
-      "title_original": "ASI, developer of AI tool SMART, says the FAA outage \"is not based on or a result of the SMART system, any product of ASI, or our integration with FAA and ATC\" (Asi/@airspaceintel)",
-      "title_en": "ASI, developer of AI tool SMART, says the FAA outage \"is not based on or a result of the SMART system, any product of ASI, or our integration with FAA and ATC\" (Asi/@airspaceintel)",
-      "title_zh": null,
-      "title_bilingual": "ASI, developer of AI tool SMART, says the FAA outage \"is not based on or a result of the SMART system, any product of ASI, or our integration with FAA and ATC\" (Asi/@airspaceintel)"
-    },
-    {
-      "id": "a66035c06176fcc9e542576f5bc77bc04c716310",
-      "site_id": "zeli",
-      "site_name": "Zeli",
-      "source": "Hacker News · 24h最热",
-      "title": "An open letter to the Nvidia Board of Directors",
-      "url": "https://standwithjensen.com",
-      "published_at": "2026-11-13T23:34:06Z",
-      "first_seen_at": "2026-11-14T09:18:55.832115Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
-      "ai_is_related": true,
-      "ai_score": 0.65,
-      "ai_label": "chip_semi",
-      "ai_relevance_reason": "matched_strong_tech_signal",
-      "ai_signals": [
-        "nvidia"
-      ],
-      "ai_noise": [],
-      "tech_is_related": true,
-      "tech_score": 0.65,
-      "tech_label": "chip_semi",
-      "source_tier": "discussion",
-      "source_tier_label": "热议参考",
-      "source_tier_rank": 5,
-      "direction": "compute_dc",
-      "direction_hits": [
-        {
-          "direction_id": "compute_dc",
-          "score": 0.75,
-          "matched_keywords": [
-            "nvidia",
-            "nvidia"
-          ],
-          "companies": [
-            "nvidia"
-          ]
-        },
-        {
-          "direction_id": "semiconductor",
-          "score": 0.75,
-          "matched_keywords": [
-            "co",
-            "nvidia"
-          ],
-          "companies": [
-            "nvidia"
+            "英伟达"
           ]
         },
         {
           "direction_id": "autonomous_hardware",
           "score": 0.75,
           "matched_keywords": [
-            "nvidia"
+            "英伟达"
           ],
           "companies": [
-            "nvidia"
+            "英伟达"
           ]
         }
       ],
       "companies": [
-        "nvidia"
+        "英伟达"
       ],
-      "title_original": "An open letter to the Nvidia Board of Directors",
-      "title_en": "An open letter to the Nvidia Board of Directors",
-      "title_zh": "致 Nvidia 董事会的公开信",
-      "title_bilingual": "致 Nvidia 董事会的公开信 / An open letter to the Nvidia Board of Directors"
-    },
-    {
-      "id": "aa4839b1ba2d5eaba0ed87cbc530b162d40fc44f",
-      "site_id": "techurls",
-      "site_name": "TechURLs",
-      "source": "Android Police",
-      "title": "Pixel Weather finally lets you flag inaccurate conditions",
-      "url": "https://www.androidpolice.com/you-can-report-inaccurate-weather-conditions-in-pixel-weather",
-      "published_at": "2026-11-13T22:48:55Z",
-      "first_seen_at": "2026-11-13T23:48:15.740118Z",
-      "last_seen_at": "2026-11-14T19:51:02.337519Z",
-      "ai_is_related": true,
-      "ai_score": 0.73,
-      "ai_label": "software_saas",
-      "ai_relevance_reason": "matched_strong_tech_signal",
-      "ai_signals": [
-        "android",
-        "pixel"
-      ],
-      "ai_noise": [],
-      "tech_is_related": true,
-      "tech_score": 0.73,
-      "tech_label": "software_saas",
-      "source_tier": "discussion",
-      "source_tier_label": "热议参考",
-      "source_tier_rank": 5,
-      "direction": "ai_terminal",
-      "direction_hits": [
-        {
-          "direction_id": "ai_terminal",
-          "score": 1.19,
-          "matched_keywords": [
-            "pixel",
-            "android"
-          ],
-          "companies": []
-        }
-      ],
-      "companies": [],
-      "title_original": "Pixel Weather finally lets you flag inaccurate conditions",
-      "title_en": "Pixel Weather finally lets you flag inaccurate conditions",
-      "title_zh": "Pixel Weather 终于可以标记不准确的情况",
-      "title_bilingual": "Pixel Weather 终于可以标记不准确的情况 / Pixel Weather finally lets you flag inaccurate conditions"
+      "title_original": "一天暴涨 6 万：请愿恢复黄仁勋英伟达 CEO 职务人数突破 12 万人，马斯克也参与签名",
+      "title_en": null,
+      "title_zh": "一天暴涨 6 万：请愿恢复黄仁勋英伟达 CEO 职务人数突破 12 万人，马斯克也参与签名",
+      "title_bilingual": "一天暴涨 6 万：请愿恢复黄仁勋英伟达 CEO 职务人数突破 12 万人，马斯克也参与签名"
     },
     {
       "id": "d8420d12d6f74e87d2b47e01e7d6d2ca50a7e19e",
@@ -18405,7 +18730,7 @@
       "url": "https://www.ithome.com/1/027/247.htm",
       "published_at": "2026-11-14T15:28:14Z",
       "first_seen_at": "2026-11-14T16:42:01.304008Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.63,
       "ai_label": "chip_semi",
@@ -18472,7 +18797,7 @@
       "url": "https://www.ithome.com/1/027/233.htm",
       "published_at": "2026-11-14T13:31:05Z",
       "first_seen_at": "2026-11-14T14:03:07.410142Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.63,
       "ai_label": "chip_semi",
@@ -18539,7 +18864,7 @@
       "url": "https://www.ithome.com/1/027/228.htm",
       "published_at": "2026-11-14T12:45:55Z",
       "first_seen_at": "2026-11-14T14:03:07.410142Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.63,
       "ai_label": "chip_semi",
@@ -18986,7 +19311,7 @@
       "url": "https://www.leiphone.com/category/industrynews/cqPXhF38rM4VcVa7.html",
       "published_at": "2026-11-14T05:45:00Z",
       "first_seen_at": "2026-11-14T09:18:55.832115Z",
-      "last_seen_at": "2026-11-14T22:41:30.172994Z",
+      "last_seen_at": "2026-11-15T00:56:30.172701Z",
       "ai_is_related": true,
       "ai_score": 0.63,
       "ai_label": "ai_model",
@@ -19034,125 +19359,6 @@
       "title_en": null,
       "title_zh": "百度词元所发布首日：供应商暴增超100家，客户新增超1000家",
       "title_bilingual": "百度词元所发布首日：供应商暴增超100家，客户新增超1000家"
-    },
-    {
-      "id": "8c471bbd0803bb71f35f64f6544f9a70bc741371",
-      "site_id": "sector_sources",
-      "site_name": "Sector Sources",
-      "source": "IT Home",
-      "title": "要让 GPT-6 Astra 等通用 AI 当机器人“大脑”：OpenAI 宣布重组具身智能团队",
-      "url": "https://www.ithome.com/1/027/004.htm",
-      "published_at": "2026-11-13T23:17:38Z",
-      "first_seen_at": "2026-11-13T23:48:15.740118Z",
-      "last_seen_at": "2026-11-13T23:48:15.740118Z",
-      "ai_is_related": true,
-      "ai_score": 0.78,
-      "ai_label": "ai_model",
-      "ai_relevance_reason": "matched_strong_tech_signal",
-      "ai_signals": [
-        "ai",
-        "gpt",
-        "openai",
-        "具身",
-        "具身智能",
-        "机器人"
-      ],
-      "ai_noise": [],
-      "tech_is_related": true,
-      "tech_score": 0.78,
-      "tech_label": "ai_model",
-      "source_tier": "other",
-      "source_tier_label": "其他来源",
-      "source_tier_rank": 9,
-      "direction": "ai_models_apps",
-      "direction_hits": [
-        {
-          "direction_id": "ai_models_apps",
-          "score": 2.31,
-          "matched_keywords": [
-            "gpt",
-            "openai",
-            "openai"
-          ],
-          "companies": [
-            "openai"
-          ]
-        }
-      ],
-      "companies": [
-        "openai"
-      ],
-      "title_original": "要让 GPT-6 Astra 等通用 AI 当机器人“大脑”：OpenAI 宣布重组具身智能团队",
-      "title_en": null,
-      "title_zh": "要让 GPT-6 Astra 等通用 AI 当机器人“大脑”：OpenAI 宣布重组具身智能团队",
-      "title_bilingual": "要让 GPT-6 Astra 等通用 AI 当机器人“大脑”：OpenAI 宣布重组具身智能团队"
-    },
-    {
-      "id": "4b8452b6c67697ff0e5dc9297457ad9da91393b0",
-      "site_id": "sector_sources",
-      "site_name": "Sector Sources",
-      "source": "IT Home",
-      "title": "路透社：Arm 掌门人哈斯进入接棒黄仁勋候选视野，曾在英伟达工作 7 年",
-      "url": "https://www.ithome.com/1/027/002.htm",
-      "published_at": "2026-11-13T23:07:34Z",
-      "first_seen_at": "2026-11-13T23:48:15.740118Z",
-      "last_seen_at": "2026-11-13T23:48:15.740118Z",
-      "ai_is_related": true,
-      "ai_score": 0.63,
-      "ai_label": "chip_semi",
-      "ai_relevance_reason": "matched_strong_tech_signal",
-      "ai_signals": [
-        "英伟达",
-        "黄仁勋"
-      ],
-      "ai_noise": [],
-      "tech_is_related": true,
-      "tech_score": 0.63,
-      "tech_label": "chip_semi",
-      "source_tier": "other",
-      "source_tier_label": "其他来源",
-      "source_tier_rank": 9,
-      "direction": "compute_dc",
-      "direction_hits": [
-        {
-          "direction_id": "compute_dc",
-          "score": 0.75,
-          "matched_keywords": [
-            "英伟达"
-          ],
-          "companies": [
-            "英伟达"
-          ]
-        },
-        {
-          "direction_id": "semiconductor",
-          "score": 0.75,
-          "matched_keywords": [
-            "co",
-            "英伟达"
-          ],
-          "companies": [
-            "英伟达"
-          ]
-        },
-        {
-          "direction_id": "autonomous_hardware",
-          "score": 0.75,
-          "matched_keywords": [
-            "英伟达"
-          ],
-          "companies": [
-            "英伟达"
-          ]
-        }
-      ],
-      "companies": [
-        "英伟达"
-      ],
-      "title_original": "路透社：Arm 掌门人哈斯进入接棒黄仁勋候选视野，曾在英伟达工作 7 年",
-      "title_en": null,
-      "title_zh": "路透社：Arm 掌门人哈斯进入接棒黄仁勋候选视野，曾在英伟达工作 7 年",
-      "title_bilingual": "路透社：Arm 掌门人哈斯进入接棒黄仁勋候选视野，曾在英伟达工作 7 年"
     }
   ],
   "all_mode_data_url": "data/latest-24h-all.json",
