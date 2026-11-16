@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T10:06:43.285523Z",
+  "generated_at": "2026-11-16T16:55:35.128473Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
@@ -32,7 +32,7 @@
       "url": "https://waytoagi.feishu.cn/wiki/BizswjaO7irZ7gkMuhyce8oqnUc?from=from_copylink"
     }
   ],
-  "count_7d": 38,
+  "count_7d": 31,
   "updates_7d": [
     {
       "date": "2026-11-15",
@@ -219,48 +219,6 @@
       "title": "10秒出4K，MiniMax还开源了！H3 Image上线！",
       "summary": "MiniMax开源SOTA级生图模型H3 Image，支持原生4K大图输出，最多可接入16张参考图联动创作。文中展示了地图视角生成、白模补光影材质、多人按色板换装、角色多视图绘制等丰富案例，适配游戏分镜、插画、产品可视化等创作需求。做视觉创作、AI 绘图的创作者可以直接上手调试。",
       "url": "https://waytoagi.feishu.cn/wiki/H769wCNcWiN05pkAA7Icx8Eon3b?from=from_copylink"
-    },
-    {
-      "date": "2026-11-10",
-      "title": "用 Seedream 5.5 画 LLM 原理图：同一张图连续改 30 轮",
-      "summary": "作者用豆包里的 Seedream 5.5，给 LLM 推理和后训练画了三张原理图。第一张定稿之后，又在同一个对话里对它连续提了 30 轮修改，每轮改一两处。看看最终生成的效果如何！",
-      "url": "https://waytoagi.feishu.cn/wiki/KBvtwX1URiNs9OkTDwzcOcVNnlf?from=from_copylink"
-    },
-    {
-      "date": "2026-11-10",
-      "title": "开源清理系统垃圾skill，终于有空间了",
-      "summary": "C 盘又红了，明明没装多少东西，AI 工具留下的模型、临时文件和开发缓存却越攒越多。自己删怕把环境搞坏，装清理软件又不放心。作者把系统盘排查、AI 缓存清理和装模型前的配置检查，做成了一个豆包工作 Skill。有需要可以试试！",
-      "url": "https://waytoagi.feishu.cn/wiki/VvSgwokAJiI1SfkFQQOcFul3n6b?from=from_copylink"
-    },
-    {
-      "date": "2026-11-10",
-      "title": "实测还在灰度的GPT 6.2 sol，Opus5.5的审美霸权时代要结束了",
-      "summary": "作者在灰度到 GPT-6.2 Sol 后，连跑了代码动画、交互式 3D、网站设计和 AI 剪辑等案例，还放出了成片供大家对照。",
-      "url": "https://waytoagi.feishu.cn/wiki/P8cpwN7m1iA3L2kMMo7chz5ynGf?from=from_copylink"
-    },
-    {
-      "date": "2026-11-10",
-      "title": "如何写一个 AI 短剧剧本：短剧和电影短片两套写法，附我在用的剧本技能",
-      "summary": "作者这篇文章把 AI 短剧和电影短片的写法区别细细拆解了下：短剧要让观众想追下一集，短片则要把故事和情绪完整收住。作者从一句话判断选题，到拆分集、排镜头、写台词，用一部 69 集短剧和一部 4 分钟短片带着你完整走一遍，还给到了审稿清单、提示词和剧本 Skill。",
-      "url": "https://waytoagi.feishu.cn/wiki/OeMHwaKvaiOKTQky67Qcb5Gbnkb?from=from_copylink"
-    },
-    {
-      "date": "2026-11-10",
-      "title": "Seedream 5.5 完整测评报告",
-      "summary": "Seedream 5.5 到底能解决多少？这份测评用 20 张同题实测，结合第三方盲测，把多轮改图、写实质感、文字排版和透明素材逐项摊开看，也没藏着限色设计、像素风容易翻车的问题。",
-      "url": "https://waytoagi.feishu.cn/wiki/XVQcw6KTziAICvkRzbXc345Ynzf?from=from_copylink"
-    },
-    {
-      "date": "2026-11-10",
-      "title": "MiniMax H3-Image 开源：让 4K 图像生成进入 10 秒时代",
-      "summary": "MiniMax 开源 H3-Image 图像模型，10秒就能产出4096×4096的4K高清图，兼顾细节真实感、出色指令理解，最多支持16张参考图，而且还是同档位主流工具的5至7折。不管是二次微调的开发者，还是追求高效出图的创作者，都能拿到高性价比的视觉生成方案。",
-      "url": "https://waytoagi.feishu.cn/wiki/SqFqweYOuidH5fkJg1Acko3inYg?from=from_copylink"
-    },
-    {
-      "date": "2026-11-10",
-      "title": "Latent Space 对谈斯坦福「The Modern Software Developer」课程老师：AI 时代，工程师该学什么？",
-      "summary": "当 Agent 一句话就能写出能跑的代码，工程师还该练什么？斯坦福 CS146S 的老师一边教学生，一边在真实团队部署 Agent，把这个问题带进了开源贡献、维护者审阅和团队协作。一起看看下一代工程师的竞争力到底在哪里！",
-      "url": "https://waytoagi.feishu.cn/wiki/UFPwwKj1iiKGdZkzTVbc63KYnEf?from=from_copylink"
     }
   ],
   "warning": null,
