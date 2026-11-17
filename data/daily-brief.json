@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T04:44:01.949867Z",
+  "generated_at": "2026-11-17T16:24:45.365165Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -106,15 +106,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8879,
-      "importance": 0.8879,
-      "importance_score": 0.8879,
+      "score": 0.8644,
+      "importance": 0.8644,
+      "importance_score": 0.8644,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.8441,
+        "recency": 0.7131,
         "story_heat": 0.5
       },
       "category": "official",
@@ -142,113 +142,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T04:50:27.625193Z"
+        "scored_at": "2026-11-17T16:26:28.908328Z"
       }
     },
     {
-      "story_id": "story_97bf5a0b15de",
-      "title": "在 iPhone Duo 上随身携带 GitHub Mobile / Take GitHub Mobile with you on iPhone Duo",
-      "url": "https://github.blog/changelog/2026-11-16-take-github-mobile-with-you-on-iphone-duo",
-      "primary_url": "https://github.blog/changelog/2026-11-16-take-github-mobile-with-you-on-iphone-duo",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "746bc7b7d1bd48df7c8b6088885e3a4660dbbe92",
-          "title": "在 iPhone Duo 上随身携带 GitHub Mobile / Take GitHub Mobile with you on iPhone Duo",
-          "title_zh": "在 iPhone Duo 上随身携带 GitHub Mobile",
-          "title_en": "Take GitHub Mobile with you on iPhone Duo",
-          "title_original": "Take GitHub Mobile with you on iPhone Duo",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-16-take-github-mobile-with-you-on-iphone-duo",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-16T14:30:07Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "746bc7b7d1bd48df7c8b6088885e3a4660dbbe92",
-          "title": "在 iPhone Duo 上随身携带 GitHub Mobile / Take GitHub Mobile with you on iPhone Duo",
-          "title_zh": "在 iPhone Duo 上随身携带 GitHub Mobile",
-          "title_en": "Take GitHub Mobile with you on iPhone Duo",
-          "title_original": "Take GitHub Mobile with you on iPhone Duo",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-16-take-github-mobile-with-you-on-iphone-duo",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-16T14:30:07Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8326,
-      "importance": 0.8326,
-      "importance_score": 0.8326,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.8142,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-16T14:30:07Z",
-      "latest_at": "2026-11-16T14:30:07Z",
-      "primary_item": {
-        "id": "746bc7b7d1bd48df7c8b6088885e3a4660dbbe92",
-        "title": "在 iPhone Duo 上随身携带 GitHub Mobile / Take GitHub Mobile with you on iPhone Duo",
-        "title_zh": "在 iPhone Duo 上随身携带 GitHub Mobile",
-        "title_en": "Take GitHub Mobile with you on iPhone Duo",
-        "title_original": "Take GitHub Mobile with you on iPhone Duo",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-16-take-github-mobile-with-you-on-iphone-duo",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-17T04:50:27.625193Z"
-      }
-    },
-    {
-      "story_id": "story_720d3cffff4a",
-      "title": "扩大科学家使用人工智能的机会 / Broadening access to AI for scientists",
-      "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
-      "primary_url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+      "story_id": "story_e05c122d19a4",
+      "title": "Introducing OpenAI for Chile",
+      "url": "https://openai.com/index/introducing-openai-for-chile",
+      "primary_url": "https://openai.com/index/introducing-openai-for-chile",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "3b301029bfd439fb8609fe9d109687afc3160535",
-          "title": "扩大科学家使用人工智能的机会 / Broadening access to AI for scientists",
-          "title_zh": "扩大科学家使用人工智能的机会",
-          "title_en": "Broadening access to AI for scientists",
-          "title_original": "Broadening access to AI for scientists",
+          "id": "22b4e795ef1b8abef0c2495ff45f750608cef692",
+          "title": "Introducing OpenAI for Chile",
+          "title_zh": null,
+          "title_en": "Introducing OpenAI for Chile",
+          "title_original": "Introducing OpenAI for Chile",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+          "url": "https://openai.com/index/introducing-openai-for-chile",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-16T17:00:00Z"
+          "published_at": "2026-11-17T00:00:00Z"
         }
       ],
       "source_count": 1,
@@ -257,31 +174,31 @@
       ],
       "items": [
         {
-          "id": "3b301029bfd439fb8609fe9d109687afc3160535",
-          "title": "扩大科学家使用人工智能的机会 / Broadening access to AI for scientists",
-          "title_zh": "扩大科学家使用人工智能的机会",
-          "title_en": "Broadening access to AI for scientists",
-          "title_original": "Broadening access to AI for scientists",
+          "id": "22b4e795ef1b8abef0c2495ff45f750608cef692",
+          "title": "Introducing OpenAI for Chile",
+          "title_zh": null,
+          "title_en": "Introducing OpenAI for Chile",
+          "title_original": "Introducing OpenAI for Chile",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+          "url": "https://openai.com/index/introducing-openai-for-chile",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-16T17:00:00Z"
+          "published_at": "2026-11-17T00:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8379,
-      "importance": 0.8379,
-      "importance_score": 0.8379,
+      "score": 0.828,
+      "importance": 0.828,
+      "importance_score": 0.828,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.8441,
+        "recency": 0.789,
         "story_heat": 0.0
       },
       "category": "official",
@@ -290,17 +207,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-16T17:00:00Z",
-      "latest_at": "2026-11-16T17:00:00Z",
+      "earliest_at": "2026-11-17T00:00:00Z",
+      "latest_at": "2026-11-17T00:00:00Z",
       "primary_item": {
-        "id": "3b301029bfd439fb8609fe9d109687afc3160535",
-        "title": "扩大科学家使用人工智能的机会 / Broadening access to AI for scientists",
-        "title_zh": "扩大科学家使用人工智能的机会",
-        "title_en": "Broadening access to AI for scientists",
-        "title_original": "Broadening access to AI for scientists",
+        "id": "22b4e795ef1b8abef0c2495ff45f750608cef692",
+        "title": "Introducing OpenAI for Chile",
+        "title_zh": null,
+        "title_en": "Introducing OpenAI for Chile",
+        "title_original": "Introducing OpenAI for Chile",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+        "url": "https://openai.com/index/introducing-openai-for-chile",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       },
@@ -308,335 +225,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T04:50:27.625193Z"
-      }
-    },
-    {
-      "story_id": "story_bb9233c09d3b",
-      "title": "新的“Ask Maps”功能可帮助您进行假期旅行和准备 / New Ask Maps features to help with holiday travel and prep",
-      "url": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026",
-      "primary_url": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "50cf4e7e045e2ef8265ecea5b06004ae9e3d4230",
-          "title": "新的“Ask Maps”功能可帮助您进行假期旅行和准备 / New Ask Maps features to help with holiday travel and prep",
-          "title_zh": "新的“Ask Maps”功能可帮助您进行假期旅行和准备",
-          "title_en": "New Ask Maps features to help with holiday travel and prep",
-          "title_original": "New Ask Maps features to help with holiday travel and prep",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-16T14:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google AI Blog"
-      ],
-      "items": [
-        {
-          "id": "50cf4e7e045e2ef8265ecea5b06004ae9e3d4230",
-          "title": "新的“Ask Maps”功能可帮助您进行假期旅行和准备 / New Ask Maps features to help with holiday travel and prep",
-          "title_zh": "新的“Ask Maps”功能可帮助您进行假期旅行和准备",
-          "title_en": "New Ask Maps features to help with holiday travel and prep",
-          "title_original": "New Ask Maps features to help with holiday travel and prep",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-16T14:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7815,
-      "importance": 0.7815,
-      "importance_score": 0.7815,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.73,
-        "recency": 0.8083,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-16T14:00:00Z",
-      "latest_at": "2026-11-16T14:00:00Z",
-      "primary_item": {
-        "id": "50cf4e7e045e2ef8265ecea5b06004ae9e3d4230",
-        "title": "新的“Ask Maps”功能可帮助您进行假期旅行和准备 / New Ask Maps features to help with holiday travel and prep",
-        "title_zh": "新的“Ask Maps”功能可帮助您进行假期旅行和准备",
-        "title_en": "New Ask Maps features to help with holiday travel and prep",
-        "title_original": "New Ask Maps features to help with holiday travel and prep",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026",
-        "source": "Google AI Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-17T04:50:27.625193Z"
-      }
-    },
-    {
-      "story_id": "story_7e6875842a45",
-      "title": "Dependabot 警报驳回请求已过去一年 / Dependabot alert dismissal requests now last one year",
-      "url": "https://github.blog/changelog/2026-11-16-dependabot-alert-dismissal-requests-now-last-one-year",
-      "primary_url": "https://github.blog/changelog/2026-11-16-dependabot-alert-dismissal-requests-now-last-one-year",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "21d11222c3d37837c649f1d2584079e663911ad4",
-          "title": "Dependabot 警报驳回请求已过去一年 / Dependabot alert dismissal requests now last one year",
-          "title_zh": "Dependabot 警报驳回请求已过去一年",
-          "title_en": "Dependabot alert dismissal requests now last one year",
-          "title_original": "Dependabot alert dismissal requests now last one year",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-16-dependabot-alert-dismissal-requests-now-last-one-year",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-17T00:09:27Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "21d11222c3d37837c649f1d2584079e663911ad4",
-          "title": "Dependabot 警报驳回请求已过去一年 / Dependabot alert dismissal requests now last one year",
-          "title_zh": "Dependabot 警报驳回请求已过去一年",
-          "title_en": "Dependabot alert dismissal requests now last one year",
-          "title_original": "Dependabot alert dismissal requests now last one year",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-16-dependabot-alert-dismissal-requests-now-last-one-year",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-17T00:09:27Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8045,
-      "importance": 0.8045,
-      "importance_score": 0.8045,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.73,
-        "recency": 0.9361,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-17T00:09:27Z",
-      "latest_at": "2026-11-17T00:09:27Z",
-      "primary_item": {
-        "id": "21d11222c3d37837c649f1d2584079e663911ad4",
-        "title": "Dependabot 警报驳回请求已过去一年 / Dependabot alert dismissal requests now last one year",
-        "title_zh": "Dependabot 警报驳回请求已过去一年",
-        "title_en": "Dependabot alert dismissal requests now last one year",
-        "title_original": "Dependabot alert dismissal requests now last one year",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-16-dependabot-alert-dismissal-requests-now-last-one-year",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-17T04:50:27.625193Z"
-      }
-    },
-    {
-      "story_id": "story_83c01ad63559",
-      "title": "前沿科学：科学家如何使用 ChatGPT / Science at the Frontier: How scientists use ChatGPT",
-      "url": "https://openai.com/index/science-at-the-frontier",
-      "primary_url": "https://openai.com/index/science-at-the-frontier",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "e6fdec1c7f79240833026f343cfa1a1a499b5052",
-          "title": "前沿科学：科学家如何使用 ChatGPT / Science at the Frontier: How scientists use ChatGPT",
-          "title_zh": "前沿科学：科学家如何使用 ChatGPT",
-          "title_en": "Science at the Frontier: How scientists use ChatGPT",
-          "title_original": "Science at the Frontier: How scientists use ChatGPT",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/science-at-the-frontier",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-16T12:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "e6fdec1c7f79240833026f343cfa1a1a499b5052",
-          "title": "前沿科学：科学家如何使用 ChatGPT / Science at the Frontier: How scientists use ChatGPT",
-          "title_zh": "前沿科学：科学家如何使用 ChatGPT",
-          "title_en": "Science at the Frontier: How scientists use ChatGPT",
-          "title_original": "Science at the Frontier: How scientists use ChatGPT",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/science-at-the-frontier",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-16T12:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8314,
-      "importance": 0.8314,
-      "importance_score": 0.8314,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.7853,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-16T12:00:00Z",
-      "latest_at": "2026-11-16T12:00:00Z",
-      "primary_item": {
-        "id": "e6fdec1c7f79240833026f343cfa1a1a499b5052",
-        "title": "前沿科学：科学家如何使用 ChatGPT / Science at the Frontier: How scientists use ChatGPT",
-        "title_zh": "前沿科学：科学家如何使用 ChatGPT",
-        "title_en": "Science at the Frontier: How scientists use ChatGPT",
-        "title_original": "Science at the Frontier: How scientists use ChatGPT",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/science-at-the-frontier",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-17T04:50:27.625193Z"
-      }
-    },
-    {
-      "story_id": "story_7aa3486bd5ac",
-      "title": "Anthropic引入10b5-1计划:拟IPO前夕规范员工股票出售机制",
-      "url": "https://www.aibase.com/news/32352",
-      "primary_url": "https://www.aibase.com/news/32352",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "91e91628a5b0ea3c83a2b4f99e526bddf4ba1055",
-          "title": "Anthropic引入10b5-1计划:拟IPO前夕规范员工股票出售机制",
-          "title_zh": "Anthropic引入10b5-1计划:拟IPO前夕规范员工股票出售机制",
-          "title_en": null,
-          "title_original": "Anthropic引入10b5-1计划:拟IPO前夕规范员工股票出售机制",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32352",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-17T04:44:01.949867Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "91e91628a5b0ea3c83a2b4f99e526bddf4ba1055",
-          "title": "Anthropic引入10b5-1计划:拟IPO前夕规范员工股票出售机制",
-          "title_zh": "Anthropic引入10b5-1计划:拟IPO前夕规范员工股票出售机制",
-          "title_en": null,
-          "title_original": "Anthropic引入10b5-1计划:拟IPO前夕规范员工股票出售机制",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32352",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-17T04:44:01.949867Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7468,
-      "importance": 0.7468,
-      "importance_score": 0.7468,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.684,
-        "source_tier": 0.78,
-        "ai_relevance": 0.95,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-17T04:44:01.949867Z",
-      "latest_at": "2026-11-17T04:44:01.949867Z",
-      "primary_item": {
-        "id": "91e91628a5b0ea3c83a2b4f99e526bddf4ba1055",
-        "title": "Anthropic引入10b5-1计划:拟IPO前夕规范员工股票出售机制",
-        "title_zh": "Anthropic引入10b5-1计划:拟IPO前夕规范员工股票出售机制",
-        "title_en": null,
-        "title_original": "Anthropic引入10b5-1计划:拟IPO前夕规范员工股票出售机制",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32352",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-17T04:50:27.625193Z"
+        "scored_at": "2026-11-17T16:26:28.908328Z"
       }
     },
     {
@@ -684,15 +273,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8043,
-      "importance": 0.8043,
-      "importance_score": 0.8043,
+      "score": 0.7791,
+      "importance": 0.7791,
+      "importance_score": 0.7791,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.76,
-        "recency": 0.9019,
+        "recency": 0.7619,
         "story_heat": 0.0
       },
       "category": "official",
@@ -718,30 +307,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T04:50:27.625193Z"
+        "scored_at": "2026-11-17T16:26:28.908328Z"
       }
     },
     {
-      "story_id": "story_36b60329478e",
-      "title": "LVMH 媒体部门宣布与 OpenAI 建立战略合作伙伴关系 / LVMH’s Media Division announces strategic partnership with OpenAI",
-      "url": "https://openai.com/index/lvmh-media-division-partnership",
-      "primary_url": "https://openai.com/index/lvmh-media-division-partnership",
+      "story_id": "story_49384d4c148d",
+      "title": "利用人工智能加强北约和盟国的网络防御 / Strengthening NATO and allied cyber defenses with AI",
+      "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+      "primary_url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "c857cb04056a67136a815d45c5da94457b53c014",
-          "title": "LVMH 媒体部门宣布与 OpenAI 建立战略合作伙伴关系 / LVMH’s Media Division announces strategic partnership with OpenAI",
-          "title_zh": "LVMH 媒体部门宣布与 OpenAI 建立战略合作伙伴关系",
-          "title_en": "LVMH’s Media Division announces strategic partnership with OpenAI",
-          "title_original": "LVMH’s Media Division announces strategic partnership with OpenAI",
+          "id": "6d35ceb02c57202992362041a28b11e244ae9c7d",
+          "title": "利用人工智能加强北约和盟国的网络防御 / Strengthening NATO and allied cyber defenses with AI",
+          "title_zh": "利用人工智能加强北约和盟国的网络防御",
+          "title_en": "Strengthening NATO and allied cyber defenses with AI",
+          "title_original": "Strengthening NATO and allied cyber defenses with AI",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/lvmh-media-division-partnership",
+          "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-16T09:00:00Z"
+          "published_at": "2026-11-17T00:00:00Z"
         }
       ],
       "source_count": 1,
@@ -750,31 +339,31 @@
       ],
       "items": [
         {
-          "id": "c857cb04056a67136a815d45c5da94457b53c014",
-          "title": "LVMH 媒体部门宣布与 OpenAI 建立战略合作伙伴关系 / LVMH’s Media Division announces strategic partnership with OpenAI",
-          "title_zh": "LVMH 媒体部门宣布与 OpenAI 建立战略合作伙伴关系",
-          "title_en": "LVMH’s Media Division announces strategic partnership with OpenAI",
-          "title_original": "LVMH’s Media Division announces strategic partnership with OpenAI",
+          "id": "6d35ceb02c57202992362041a28b11e244ae9c7d",
+          "title": "利用人工智能加强北约和盟国的网络防御 / Strengthening NATO and allied cyber defenses with AI",
+          "title_zh": "利用人工智能加强北约和盟国的网络防御",
+          "title_en": "Strengthening NATO and allied cyber defenses with AI",
+          "title_original": "Strengthening NATO and allied cyber defenses with AI",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/lvmh-media-division-partnership",
+          "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-16T09:00:00Z"
+          "published_at": "2026-11-17T00:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8214,
-      "importance": 0.8214,
-      "importance_score": 0.8214,
+      "score": 0.828,
+      "importance": 0.828,
+      "importance_score": 0.828,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.752,
+        "recency": 0.789,
         "story_heat": 0.0
       },
       "category": "official",
@@ -783,17 +372,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-16T09:00:00Z",
-      "latest_at": "2026-11-16T09:00:00Z",
+      "earliest_at": "2026-11-17T00:00:00Z",
+      "latest_at": "2026-11-17T00:00:00Z",
       "primary_item": {
-        "id": "c857cb04056a67136a815d45c5da94457b53c014",
-        "title": "LVMH 媒体部门宣布与 OpenAI 建立战略合作伙伴关系 / LVMH’s Media Division announces strategic partnership with OpenAI",
-        "title_zh": "LVMH 媒体部门宣布与 OpenAI 建立战略合作伙伴关系",
-        "title_en": "LVMH’s Media Division announces strategic partnership with OpenAI",
-        "title_original": "LVMH’s Media Division announces strategic partnership with OpenAI",
+        "id": "6d35ceb02c57202992362041a28b11e244ae9c7d",
+        "title": "利用人工智能加强北约和盟国的网络防御 / Strengthening NATO and allied cyber defenses with AI",
+        "title_zh": "利用人工智能加强北约和盟国的网络防御",
+        "title_en": "Strengthening NATO and allied cyber defenses with AI",
+        "title_original": "Strengthening NATO and allied cyber defenses with AI",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/lvmh-media-division-partnership",
+        "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       },
@@ -801,30 +390,112 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T04:50:27.625193Z"
+        "scored_at": "2026-11-17T16:26:28.908328Z"
       }
     },
     {
-      "story_id": "story_5b7e07ae524c",
-      "title": "Gemini Notebook上线网站生成功能，支持一句话创建互动网页",
-      "url": "https://www.aibase.com/news/32350",
-      "primary_url": "https://www.aibase.com/news/32350",
+      "story_id": "story_7e6875842a45",
+      "title": "Dependabot 警报驳回请求已过去一年 / Dependabot alert dismissal requests now last one year",
+      "url": "https://github.blog/changelog/2026-11-16-dependabot-alert-dismissal-requests-now-last-one-year",
+      "primary_url": "https://github.blog/changelog/2026-11-16-dependabot-alert-dismissal-requests-now-last-one-year",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "21d11222c3d37837c649f1d2584079e663911ad4",
+          "title": "Dependabot 警报驳回请求已过去一年 / Dependabot alert dismissal requests now last one year",
+          "title_zh": "Dependabot 警报驳回请求已过去一年",
+          "title_en": "Dependabot alert dismissal requests now last one year",
+          "title_original": "Dependabot alert dismissal requests now last one year",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-16-dependabot-alert-dismissal-requests-now-last-one-year",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-17T00:09:27Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "21d11222c3d37837c649f1d2584079e663911ad4",
+          "title": "Dependabot 警报驳回请求已过去一年 / Dependabot alert dismissal requests now last one year",
+          "title_zh": "Dependabot 警报驳回请求已过去一年",
+          "title_en": "Dependabot alert dismissal requests now last one year",
+          "title_original": "Dependabot alert dismissal requests now last one year",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-16-dependabot-alert-dismissal-requests-now-last-one-year",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-17T00:09:27Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7783,
+      "importance": 0.7783,
+      "importance_score": 0.7783,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.73,
+        "recency": 0.7908,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-17T00:09:27Z",
+      "latest_at": "2026-11-17T00:09:27Z",
+      "primary_item": {
+        "id": "21d11222c3d37837c649f1d2584079e663911ad4",
+        "title": "Dependabot 警报驳回请求已过去一年 / Dependabot alert dismissal requests now last one year",
+        "title_zh": "Dependabot 警报驳回请求已过去一年",
+        "title_en": "Dependabot alert dismissal requests now last one year",
+        "title_original": "Dependabot alert dismissal requests now last one year",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-11-16-dependabot-alert-dismissal-requests-now-last-one-year",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-17T16:26:28.908328Z"
+      }
+    },
+    {
+      "story_id": "story_ca154c8f1e7b",
+      "title": "测试显示 Google Gemini4Argon 面对不可能任务时采取越权访问策略",
+      "url": "https://www.aibase.com/news/32358",
+      "primary_url": "https://www.aibase.com/news/32358",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "48290e034964fbc71a20380da16221a817ae8ecc",
-          "title": "Gemini Notebook上线网站生成功能，支持一句话创建互动网页",
-          "title_zh": "Gemini Notebook上线网站生成功能，支持一句话创建互动网页",
+          "id": "f33f188727b99f12e4529a2f06047b979f217587",
+          "title": "测试显示 Google Gemini4Argon 面对不可能任务时采取越权访问策略",
+          "title_zh": "测试显示 Google Gemini4Argon 面对不可能任务时采取越权访问策略",
           "title_en": null,
-          "title_original": "Gemini Notebook上线网站生成功能，支持一句话创建互动网页",
+          "title_original": "测试显示 Google Gemini4Argon 面对不可能任务时采取越权访问策略",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32350",
+          "url": "https://www.aibase.com/news/32358",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-17T04:44:01.949867Z"
+          "published_at": "2026-11-17T15:58:45.365165Z"
         }
       ],
       "source_count": 1,
@@ -833,48 +504,48 @@
       ],
       "items": [
         {
-          "id": "48290e034964fbc71a20380da16221a817ae8ecc",
-          "title": "Gemini Notebook上线网站生成功能，支持一句话创建互动网页",
-          "title_zh": "Gemini Notebook上线网站生成功能，支持一句话创建互动网页",
+          "id": "f33f188727b99f12e4529a2f06047b979f217587",
+          "title": "测试显示 Google Gemini4Argon 面对不可能任务时采取越权访问策略",
+          "title_zh": "测试显示 Google Gemini4Argon 面对不可能任务时采取越权访问策略",
           "title_en": null,
-          "title_original": "Gemini Notebook上线网站生成功能，支持一句话创建互动网页",
+          "title_original": "测试显示 Google Gemini4Argon 面对不可能任务时采取越权访问策略",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32350",
+          "url": "https://www.aibase.com/news/32358",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-17T04:44:01.949867Z"
+          "published_at": "2026-11-17T15:58:45.365165Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7468,
-      "importance": 0.7468,
-      "importance_score": 0.7468,
+      "score": 0.7457,
+      "importance": 0.7457,
+      "importance_score": 0.7457,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.684,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 1.0,
+        "recency": 0.9938,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-11-17T04:44:01.949867Z",
-      "latest_at": "2026-11-17T04:44:01.949867Z",
+      "earliest_at": "2026-11-17T15:58:45.365165Z",
+      "latest_at": "2026-11-17T15:58:45.365165Z",
       "primary_item": {
-        "id": "48290e034964fbc71a20380da16221a817ae8ecc",
-        "title": "Gemini Notebook上线网站生成功能，支持一句话创建互动网页",
-        "title_zh": "Gemini Notebook上线网站生成功能，支持一句话创建互动网页",
+        "id": "f33f188727b99f12e4529a2f06047b979f217587",
+        "title": "测试显示 Google Gemini4Argon 面对不可能任务时采取越权访问策略",
+        "title_zh": "测试显示 Google Gemini4Argon 面对不可能任务时采取越权访问策略",
         "title_en": null,
-        "title_original": "Gemini Notebook上线网站生成功能，支持一句话创建互动网页",
+        "title_original": "测试显示 Google Gemini4Argon 面对不可能任务时采取越权访问策略",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32350",
+        "url": "https://www.aibase.com/news/32358",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -882,7 +553,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T04:50:27.625193Z"
+        "scored_at": "2026-11-17T16:26:28.908328Z"
+      }
+    },
+    {
+      "story_id": "story_720d3cffff4a",
+      "title": "扩大科学家使用人工智能的机会 / Broadening access to AI for scientists",
+      "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+      "primary_url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "3b301029bfd439fb8609fe9d109687afc3160535",
+          "title": "扩大科学家使用人工智能的机会 / Broadening access to AI for scientists",
+          "title_zh": "扩大科学家使用人工智能的机会",
+          "title_en": "Broadening access to AI for scientists",
+          "title_original": "Broadening access to AI for scientists",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-16T17:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "3b301029bfd439fb8609fe9d109687afc3160535",
+          "title": "扩大科学家使用人工智能的机会 / Broadening access to AI for scientists",
+          "title_zh": "扩大科学家使用人工智能的机会",
+          "title_en": "Broadening access to AI for scientists",
+          "title_original": "Broadening access to AI for scientists",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-16T17:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8144,
+      "importance": 0.8144,
+      "importance_score": 0.8144,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.7131,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-16T17:00:00Z",
+      "latest_at": "2026-11-16T17:00:00Z",
+      "primary_item": {
+        "id": "3b301029bfd439fb8609fe9d109687afc3160535",
+        "title": "扩大科学家使用人工智能的机会 / Broadening access to AI for scientists",
+        "title_zh": "扩大科学家使用人工智能的机会",
+        "title_en": "Broadening access to AI for scientists",
+        "title_original": "Broadening access to AI for scientists",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-17T16:26:28.908328Z"
       }
     },
     {
@@ -930,15 +684,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8016,
-      "importance": 0.8016,
-      "importance_score": 0.8016,
+      "score": 0.7769,
+      "importance": 0.7769,
+      "importance_score": 0.7769,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.76,
-        "recency": 0.8869,
+        "recency": 0.7493,
         "story_heat": 0.0
       },
       "category": "official",
@@ -964,113 +718,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T04:50:27.625193Z"
+        "scored_at": "2026-11-17T16:26:28.908328Z"
       }
     },
     {
-      "story_id": "story_9398a1303400",
-      "title": "为医疗团队推进计算机使用代理 / Advancing computer-use agents for healthcare teams",
-      "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
-      "primary_url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "39c642b223dadb462cf8c0b4e1a44e7687128321",
-          "title": "为医疗团队推进计算机使用代理 / Advancing computer-use agents for healthcare teams",
-          "title_zh": "为医疗团队推进计算机使用代理",
-          "title_en": "Advancing computer-use agents for healthcare teams",
-          "title_original": "Advancing computer-use agents for healthcare teams",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-16T06:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "39c642b223dadb462cf8c0b4e1a44e7687128321",
-          "title": "为医疗团队推进计算机使用代理 / Advancing computer-use agents for healthcare teams",
-          "title_zh": "为医疗团队推进计算机使用代理",
-          "title_en": "Advancing computer-use agents for healthcare teams",
-          "title_original": "Advancing computer-use agents for healthcare teams",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-16T06:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8196,
-      "importance": 0.8196,
-      "importance_score": 0.8196,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.7202,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-16T06:00:00Z",
-      "latest_at": "2026-11-16T06:00:00Z",
-      "primary_item": {
-        "id": "39c642b223dadb462cf8c0b4e1a44e7687128321",
-        "title": "为医疗团队推进计算机使用代理 / Advancing computer-use agents for healthcare teams",
-        "title_zh": "为医疗团队推进计算机使用代理",
-        "title_en": "Advancing computer-use agents for healthcare teams",
-        "title_original": "Advancing computer-use agents for healthcare teams",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-17T04:50:27.625193Z"
-      }
-    },
-    {
-      "story_id": "story_c6beeb50fc2e",
-      "title": "加州起诉OpenAI:指控AI智能体失控超80次并攻击外部平台",
-      "url": "https://www.aibase.com/news/32353",
-      "primary_url": "https://www.aibase.com/news/32353",
+      "story_id": "story_ffa281130f35",
+      "title": "AI投资回报担忧升温，英伟达市值排名跌至美国第三",
+      "url": "https://www.aibase.com/news/32354",
+      "primary_url": "https://www.aibase.com/news/32354",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "c04f7935e5bc77c9b545be0666915a9b6adf4a21",
-          "title": "加州起诉OpenAI:指控AI智能体失控超80次并攻击外部平台",
-          "title_zh": "加州起诉OpenAI:指控AI智能体失控超80次并攻击外部平台",
+          "id": "a59276dc77575cf84f1a0c870f3ea756d21cc0e3",
+          "title": "AI投资回报担忧升温，英伟达市值排名跌至美国第三",
+          "title_zh": "AI投资回报担忧升温，英伟达市值排名跌至美国第三",
           "title_en": null,
-          "title_original": "加州起诉OpenAI:指控AI智能体失控超80次并攻击外部平台",
+          "title_original": "AI投资回报担忧升温，英伟达市值排名跌至美国第三",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32353",
+          "url": "https://www.aibase.com/news/32354",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-17T04:44:01.949867Z"
+          "published_at": "2026-11-17T14:24:45.365165Z"
         }
       ],
       "source_count": 1,
@@ -1079,48 +750,48 @@
       ],
       "items": [
         {
-          "id": "c04f7935e5bc77c9b545be0666915a9b6adf4a21",
-          "title": "加州起诉OpenAI:指控AI智能体失控超80次并攻击外部平台",
-          "title_zh": "加州起诉OpenAI:指控AI智能体失控超80次并攻击外部平台",
+          "id": "a59276dc77575cf84f1a0c870f3ea756d21cc0e3",
+          "title": "AI投资回报担忧升温，英伟达市值排名跌至美国第三",
+          "title_zh": "AI投资回报担忧升温，英伟达市值排名跌至美国第三",
           "title_en": null,
-          "title_original": "加州起诉OpenAI:指控AI智能体失控超80次并攻击外部平台",
+          "title_original": "AI投资回报担忧升温，英伟达市值排名跌至美国第三",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32353",
+          "url": "https://www.aibase.com/news/32354",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-17T04:44:01.949867Z"
+          "published_at": "2026-11-17T14:24:45.365165Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7468,
-      "importance": 0.7468,
-      "importance_score": 0.7468,
+      "score": 0.7417,
+      "importance": 0.7417,
+      "importance_score": 0.7417,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.684,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 1.0,
+        "recency": 0.9715,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-11-17T04:44:01.949867Z",
-      "latest_at": "2026-11-17T04:44:01.949867Z",
+      "earliest_at": "2026-11-17T14:24:45.365165Z",
+      "latest_at": "2026-11-17T14:24:45.365165Z",
       "primary_item": {
-        "id": "c04f7935e5bc77c9b545be0666915a9b6adf4a21",
-        "title": "加州起诉OpenAI:指控AI智能体失控超80次并攻击外部平台",
-        "title_zh": "加州起诉OpenAI:指控AI智能体失控超80次并攻击外部平台",
+        "id": "a59276dc77575cf84f1a0c870f3ea756d21cc0e3",
+        "title": "AI投资回报担忧升温，英伟达市值排名跌至美国第三",
+        "title_zh": "AI投资回报担忧升温，英伟达市值排名跌至美国第三",
         "title_en": null,
-        "title_original": "加州起诉OpenAI:指控AI智能体失控超80次并攻击外部平台",
+        "title_original": "AI投资回报担忧升温，英伟达市值排名跌至美国第三",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32353",
+        "url": "https://www.aibase.com/news/32354",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1128,7 +799,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T04:50:27.625193Z"
+        "scored_at": "2026-11-17T16:26:28.908328Z"
       }
     },
     {
@@ -1176,15 +847,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8002,
-      "importance": 0.8002,
-      "importance_score": 0.8002,
+      "score": 0.7757,
+      "importance": 0.7757,
+      "importance_score": 0.7757,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.76,
-        "recency": 0.8791,
+        "recency": 0.7427,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1210,224 +881,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T04:50:27.625193Z"
+        "scored_at": "2026-11-17T16:26:28.908328Z"
       }
     },
     {
-      "story_id": "story_b43d5653bc16",
-      "title": "通过 ChatGPT for Healthcare 推动护理发展的更多方式 / More ways to move care forward with ChatGPT for Healthcare",
-      "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
-      "primary_url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "aab4bdc3b4e1eab4014008d443cd6b1925102936",
-          "title": "通过 ChatGPT for Healthcare 推动护理发展的更多方式 / More ways to move care forward with ChatGPT for Healthcare",
-          "title_zh": "通过 ChatGPT for Healthcare 推动护理发展的更多方式",
-          "title_en": "More ways to move care forward with ChatGPT for Healthcare",
-          "title_original": "More ways to move care forward with ChatGPT for Healthcare",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-16T06:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "aab4bdc3b4e1eab4014008d443cd6b1925102936",
-          "title": "通过 ChatGPT for Healthcare 推动护理发展的更多方式 / More ways to move care forward with ChatGPT for Healthcare",
-          "title_zh": "通过 ChatGPT for Healthcare 推动护理发展的更多方式",
-          "title_en": "More ways to move care forward with ChatGPT for Healthcare",
-          "title_original": "More ways to move care forward with ChatGPT for Healthcare",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-16T06:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8196,
-      "importance": 0.8196,
-      "importance_score": 0.8196,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.7202,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-16T06:00:00Z",
-      "latest_at": "2026-11-16T06:00:00Z",
-      "primary_item": {
-        "id": "aab4bdc3b4e1eab4014008d443cd6b1925102936",
-        "title": "通过 ChatGPT for Healthcare 推动护理发展的更多方式 / More ways to move care forward with ChatGPT for Healthcare",
-        "title_zh": "通过 ChatGPT for Healthcare 推动护理发展的更多方式",
-        "title_en": "More ways to move care forward with ChatGPT for Healthcare",
-        "title_original": "More ways to move care forward with ChatGPT for Healthcare",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-17T04:50:27.625193Z"
-      }
-    },
-    {
-      "story_id": "story_e197befa2106",
-      "title": "Anthropic 表示 Claude Mythos Preview 将 AMD MI355X 的启动时间从长达 12 个月缩短至大约三天 / Anthropic says Claude Mythos Preview cut AMD MI355X onboarding from up to 12 months to around three days",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-says-claude-mythos-slashed-software-work-to-onboard-amd-gpus-from-up-to-12-months-to-around-three-days-writing-almost-100-percent-of-kernels-autonomously-chips-away-at-nvidias-cuda-moat",
-      "primary_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-says-claude-mythos-slashed-software-work-to-onboard-amd-gpus-from-up-to-12-months-to-around-three-days-writing-almost-100-percent-of-kernels-autonomously-chips-away-at-nvidias-cuda-moat",
-      "source": "Tom's Hardware",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "2e52a459a28b9ff97ebfede295399df76f84b7a3",
-          "title": "Anthropic 表示 Claude Mythos Preview 将 AMD MI355X 的启动时间从长达 12 个月缩短至大约三天 / Anthropic says Claude Mythos Preview cut AMD MI355X onboarding from up to 12 months to around three days",
-          "title_zh": "Anthropic 表示 Claude Mythos Preview 将 AMD MI355X 的启动时间从长达 12 个月缩短至大约三天",
-          "title_en": "Anthropic says Claude Mythos Preview cut AMD MI355X onboarding from up to 12 months to around three days",
-          "title_original": "Anthropic says Claude Mythos Preview cut AMD MI355X onboarding from up to 12 months to around three days",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-says-claude-mythos-slashed-software-work-to-onboard-amd-gpus-from-up-to-12-months-to-around-three-days-writing-almost-100-percent-of-kernels-autonomously-chips-away-at-nvidias-cuda-moat",
-          "source": "Tom's Hardware",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-11-16T15:00:00Z"
-        },
-        {
-          "id": "d430dbb9f3464ab5c5caf55052ff1361eb64d06e",
-          "title": "Claude Mythos slashed software work to onboard AMD GPUs to around three days",
-          "title_zh": null,
-          "title_en": "Claude Mythos slashed software work to onboard AMD GPUs to around three days",
-          "title_original": "Claude Mythos slashed software work to onboard AMD GPUs to around three days",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-says-claude-mythos-slashed-software-work-to-onboard-amd-gpus-from-up-to-12-months-to-around-three-days-writing-almost-100-percent-of-kernels-autonomously-chips-away-at-nvidias-cuda-moat",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-17T01:35:16Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Tom's Hardware"
-      ],
-      "items": [
-        {
-          "id": "2e52a459a28b9ff97ebfede295399df76f84b7a3",
-          "title": "Anthropic 表示 Claude Mythos Preview 将 AMD MI355X 的启动时间从长达 12 个月缩短至大约三天 / Anthropic says Claude Mythos Preview cut AMD MI355X onboarding from up to 12 months to around three days",
-          "title_zh": "Anthropic 表示 Claude Mythos Preview 将 AMD MI355X 的启动时间从长达 12 个月缩短至大约三天",
-          "title_en": "Anthropic says Claude Mythos Preview cut AMD MI355X onboarding from up to 12 months to around three days",
-          "title_original": "Anthropic says Claude Mythos Preview cut AMD MI355X onboarding from up to 12 months to around three days",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-says-claude-mythos-slashed-software-work-to-onboard-amd-gpus-from-up-to-12-months-to-around-three-days-writing-almost-100-percent-of-kernels-autonomously-chips-away-at-nvidias-cuda-moat",
-          "source": "Tom's Hardware",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-11-16T15:00:00Z"
-        },
-        {
-          "id": "d430dbb9f3464ab5c5caf55052ff1361eb64d06e",
-          "title": "Claude Mythos slashed software work to onboard AMD GPUs to around three days",
-          "title_zh": null,
-          "title_en": "Claude Mythos slashed software work to onboard AMD GPUs to around three days",
-          "title_original": "Claude Mythos slashed software work to onboard AMD GPUs to around three days",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-says-claude-mythos-slashed-software-work-to-onboard-amd-gpus-from-up-to-12-months-to-around-three-days-writing-almost-100-percent-of-kernels-autonomously-chips-away-at-nvidias-cuda-moat",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-17T01:35:16Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.658,
-      "importance": 0.658,
-      "importance_score": 0.658,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.6192,
-        "source_tier": 0.58,
-        "ai_relevance": 0.86,
-        "recency": 0.8201,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-16T15:00:00Z",
-      "latest_at": "2026-11-17T01:35:16Z",
-      "primary_item": {
-        "id": "2e52a459a28b9ff97ebfede295399df76f84b7a3",
-        "title": "Anthropic 表示 Claude Mythos Preview 将 AMD MI355X 的启动时间从长达 12 个月缩短至大约三天 / Anthropic says Claude Mythos Preview cut AMD MI355X onboarding from up to 12 months to around three days",
-        "title_zh": "Anthropic 表示 Claude Mythos Preview 将 AMD MI355X 的启动时间从长达 12 个月缩短至大约三天",
-        "title_en": "Anthropic says Claude Mythos Preview cut AMD MI355X onboarding from up to 12 months to around three days",
-        "title_original": "Anthropic says Claude Mythos Preview cut AMD MI355X onboarding from up to 12 months to around three days",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-says-claude-mythos-slashed-software-work-to-onboard-amd-gpus-from-up-to-12-months-to-around-three-days-writing-almost-100-percent-of-kernels-autonomously-chips-away-at-nvidias-cuda-moat",
-        "source": "Tom's Hardware",
-        "source_name": "Curated Media"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-17T04:50:27.625193Z"
-      }
-    },
-    {
-      "story_id": "story_65a0f59ebbf8",
-      "title": "奥特曼回应黄仁勋离职:英伟达与AI行业“不会有事”",
-      "url": "https://www.aibase.com/news/32344",
-      "primary_url": "https://www.aibase.com/news/32344",
+      "story_id": "story_485d7332a64c",
+      "title": "李飞飞加入AMD!World Labs正式并入，布局3D世界模型与机器人AI",
+      "url": "https://www.aibase.com/news/32355",
+      "primary_url": "https://www.aibase.com/news/32355",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "4b56dcb16a001e29f7c539066440437519452014",
-          "title": "奥特曼回应黄仁勋离职:英伟达与AI行业“不会有事”",
-          "title_zh": "奥特曼回应黄仁勋离职:英伟达与AI行业“不会有事”",
+          "id": "259a4016d26d9af14d2c8849095bc439edea0463",
+          "title": "李飞飞加入AMD!World Labs正式并入，布局3D世界模型与机器人AI",
+          "title_zh": "李飞飞加入AMD!World Labs正式并入，布局3D世界模型与机器人AI",
           "title_en": null,
-          "title_original": "奥特曼回应黄仁勋离职:英伟达与AI行业“不会有事”",
+          "title_original": "李飞飞加入AMD!World Labs正式并入，布局3D世界模型与机器人AI",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32344",
+          "url": "https://www.aibase.com/news/32355",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-17T04:44:01.949867Z"
+          "published_at": "2026-11-17T14:24:45.365165Z"
         }
       ],
       "source_count": 1,
@@ -1436,48 +913,48 @@
       ],
       "items": [
         {
-          "id": "4b56dcb16a001e29f7c539066440437519452014",
-          "title": "奥特曼回应黄仁勋离职:英伟达与AI行业“不会有事”",
-          "title_zh": "奥特曼回应黄仁勋离职:英伟达与AI行业“不会有事”",
+          "id": "259a4016d26d9af14d2c8849095bc439edea0463",
+          "title": "李飞飞加入AMD!World Labs正式并入，布局3D世界模型与机器人AI",
+          "title_zh": "李飞飞加入AMD!World Labs正式并入，布局3D世界模型与机器人AI",
           "title_en": null,
-          "title_original": "奥特曼回应黄仁勋离职:英伟达与AI行业“不会有事”",
+          "title_original": "李飞飞加入AMD!World Labs正式并入，布局3D世界模型与机器人AI",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32344",
+          "url": "https://www.aibase.com/news/32355",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-17T04:44:01.949867Z"
+          "published_at": "2026-11-17T14:24:45.365165Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7468,
-      "importance": 0.7468,
-      "importance_score": 0.7468,
+      "score": 0.7417,
+      "importance": 0.7417,
+      "importance_score": 0.7417,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.684,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 1.0,
+        "recency": 0.9715,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-11-17T04:44:01.949867Z",
-      "latest_at": "2026-11-17T04:44:01.949867Z",
+      "earliest_at": "2026-11-17T14:24:45.365165Z",
+      "latest_at": "2026-11-17T14:24:45.365165Z",
       "primary_item": {
-        "id": "4b56dcb16a001e29f7c539066440437519452014",
-        "title": "奥特曼回应黄仁勋离职:英伟达与AI行业“不会有事”",
-        "title_zh": "奥特曼回应黄仁勋离职:英伟达与AI行业“不会有事”",
+        "id": "259a4016d26d9af14d2c8849095bc439edea0463",
+        "title": "李飞飞加入AMD!World Labs正式并入，布局3D世界模型与机器人AI",
+        "title_zh": "李飞飞加入AMD!World Labs正式并入，布局3D世界模型与机器人AI",
         "title_en": null,
-        "title_original": "奥特曼回应黄仁勋离职:英伟达与AI行业“不会有事”",
+        "title_original": "李飞飞加入AMD!World Labs正式并入，布局3D世界模型与机器人AI",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32344",
+        "url": "https://www.aibase.com/news/32355",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1485,110 +962,138 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T04:50:27.625193Z"
+        "scored_at": "2026-11-17T16:26:28.908328Z"
       }
     },
     {
-      "story_id": "story_2f609628a104",
-      "title": "Windows 11 正在收集有关您使用的编程代理和开发工具的数据 / Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
-      "url": "https://xusheng.dev/posts/windows-coding-agent-telemetry",
-      "primary_url": "https://xusheng.dev/posts/windows-coding-agent-telemetry",
+      "story_id": "story_ae02604460aa",
+      "title": "Claude Code 团队如何看待验证工作 / How the Claude Code team thinks about verification",
+      "url": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification",
+      "primary_url": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification",
       "source": "Hacker News front page",
       "source_name": "Curated Media",
       "sources": [
         {
-          "id": "b9b6bdb66245e46e78d8155f3bc45d4b9df4bb62",
-          "title": "Windows 11 正在收集有关您使用的编程代理和开发工具的数据 / Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
-          "title_zh": "Windows 11 正在收集有关您使用的编程代理和开发工具的数据",
-          "title_en": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
-          "title_original": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
+          "id": "18b9864906bf07ae2760382eb8d921f44508e837",
+          "title": "Claude Code 团队如何看待验证工作 / How the Claude Code team thinks about verification",
+          "title_zh": "Claude Code 团队如何看待验证工作",
+          "title_en": "How the Claude Code team thinks about verification",
+          "title_original": "How the Claude Code team thinks about verification",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://xusheng.dev/posts/windows-coding-agent-telemetry",
+          "url": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification",
           "source": "Hacker News front page",
           "source_name": "Curated Media",
           "site_id": "curated_media",
-          "published_at": "2026-11-16T22:58:20Z"
+          "published_at": "2026-11-17T10:20:40Z"
         },
         {
-          "id": "5274ac289ad683dd53f1c8ed2d945d36a58dc4df",
-          "title": "Windows 11 正在收集有关您使用的编码代理和开发工具的数据 / Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
-          "title_zh": "Windows 11 正在收集有关您使用的编码代理和开发工具的数据",
-          "title_en": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
-          "title_original": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
+          "id": "0216282798d17278d84a2ab233926460877af0ec",
+          "title": "Claude Code 团队如何看待验证工作",
+          "title_zh": "Claude Code 团队如何看待验证工作",
+          "title_en": null,
+          "title_original": "Claude Code 团队如何看待验证工作",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50524736",
+          "url": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification",
+          "source": "claude.dev",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-17T15:04:48.584000Z"
+        },
+        {
+          "id": "0fb27665fb439b15f874514182b80246c30dbe99",
+          "title": "Claude Code 团队如何看待验证 / How the Claude Code team thinks about verification",
+          "title_zh": "Claude Code 团队如何看待验证",
+          "title_en": "How the Claude Code team thinks about verification",
+          "title_original": "How the Claude Code team thinks about verification",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50529612",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-16T22:58:20Z"
+          "published_at": "2026-11-17T10:20:40Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 3,
       "source_names": [
         "Hacker News front page",
+        "claude.dev",
         "hackernews"
       ],
       "items": [
         {
-          "id": "b9b6bdb66245e46e78d8155f3bc45d4b9df4bb62",
-          "title": "Windows 11 正在收集有关您使用的编程代理和开发工具的数据 / Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
-          "title_zh": "Windows 11 正在收集有关您使用的编程代理和开发工具的数据",
-          "title_en": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
-          "title_original": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
+          "id": "18b9864906bf07ae2760382eb8d921f44508e837",
+          "title": "Claude Code 团队如何看待验证工作 / How the Claude Code team thinks about verification",
+          "title_zh": "Claude Code 团队如何看待验证工作",
+          "title_en": "How the Claude Code team thinks about verification",
+          "title_original": "How the Claude Code team thinks about verification",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://xusheng.dev/posts/windows-coding-agent-telemetry",
+          "url": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification",
           "source": "Hacker News front page",
           "source_name": "Curated Media",
           "site_id": "curated_media",
-          "published_at": "2026-11-16T22:58:20Z"
+          "published_at": "2026-11-17T10:20:40Z"
         },
         {
-          "id": "5274ac289ad683dd53f1c8ed2d945d36a58dc4df",
-          "title": "Windows 11 正在收集有关您使用的编码代理和开发工具的数据 / Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
-          "title_zh": "Windows 11 正在收集有关您使用的编码代理和开发工具的数据",
-          "title_en": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
-          "title_original": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
+          "id": "0216282798d17278d84a2ab233926460877af0ec",
+          "title": "Claude Code 团队如何看待验证工作",
+          "title_zh": "Claude Code 团队如何看待验证工作",
+          "title_en": null,
+          "title_original": "Claude Code 团队如何看待验证工作",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50524736",
+          "url": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification",
+          "source": "claude.dev",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-17T15:04:48.584000Z"
+        },
+        {
+          "id": "0fb27665fb439b15f874514182b80246c30dbe99",
+          "title": "Claude Code 团队如何看待验证 / How the Claude Code team thinks about verification",
+          "title_zh": "Claude Code 团队如何看待验证",
+          "title_en": "How the Claude Code team thinks about verification",
+          "title_original": "How the Claude Code team thinks about verification",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50529612",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-16T22:58:20Z"
+          "published_at": "2026-11-17T10:20:40Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6552,
-      "importance": 0.6552,
-      "importance_score": 0.6552,
-      "importance_label": "值得关注",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.667,
+      "importance": 0.667,
+      "importance_score": 0.667,
+      "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.5832,
+        "editorial": 0.5616,
         "source_tier": 0.58,
-        "ai_relevance": 0.81,
-        "recency": 0.9202,
-        "story_heat": 0.25
+        "ai_relevance": 0.78,
+        "recency": 0.9161,
+        "story_heat": 0.5
       },
-      "category": "watch",
+      "category": "multi_source",
       "reasons": [
-        "multi_source",
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-11-16T22:58:20Z",
-      "latest_at": "2026-11-16T22:58:20Z",
+      "earliest_at": "2026-11-17T10:20:40Z",
+      "latest_at": "2026-11-17T15:04:48.584000Z",
       "primary_item": {
-        "id": "b9b6bdb66245e46e78d8155f3bc45d4b9df4bb62",
-        "title": "Windows 11 正在收集有关您使用的编程代理和开发工具的数据 / Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
-        "title_zh": "Windows 11 正在收集有关您使用的编程代理和开发工具的数据",
-        "title_en": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
-        "title_original": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
+        "id": "18b9864906bf07ae2760382eb8d921f44508e837",
+        "title": "Claude Code 团队如何看待验证工作 / How the Claude Code team thinks about verification",
+        "title_zh": "Claude Code 团队如何看待验证工作",
+        "title_en": "How the Claude Code team thinks about verification",
+        "title_original": "How the Claude Code team thinks about verification",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://xusheng.dev/posts/windows-coding-agent-telemetry",
+        "url": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification",
         "source": "Hacker News front page",
         "source_name": "Curated Media"
       },
@@ -1596,7 +1101,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T04:50:27.625193Z"
+        "scored_at": "2026-11-17T16:26:28.908328Z"
       }
     },
     {
@@ -1644,15 +1149,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7982,
-      "importance": 0.7982,
-      "importance_score": 0.7982,
+      "score": 0.773,
+      "importance": 0.773,
+      "importance_score": 0.773,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.73,
-        "recency": 0.901,
+        "recency": 0.7612,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1678,7 +1183,199 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T04:50:27.625193Z"
+        "scored_at": "2026-11-17T16:26:28.908328Z"
+      }
+    },
+    {
+      "story_id": "story_425e3d7e6b5f",
+      "title": "在 27,280 次编码代理运行中，64% 的推理支出用于失败的运行 / In 27,280 coding agent runs, 64% of inference spend went to runs that failed",
+      "url": "https://runta.com/blog/introducing-frontierharness-eval-v1-1",
+      "primary_url": "https://runta.com/blog/introducing-frontierharness-eval-v1-1",
+      "source": "Hacker News front page",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "a6f87a105627827d0f5ac05f68b3f11c8e4d8143",
+          "title": "在 27,280 次编码代理运行中，64% 的推理支出用于失败的运行 / In 27,280 coding agent runs, 64% of inference spend went to runs that failed",
+          "title_zh": "在 27,280 次编码代理运行中，64% 的推理支出用于失败的运行",
+          "title_en": "In 27,280 coding agent runs, 64% of inference spend went to runs that failed",
+          "title_original": "In 27,280 coding agent runs, 64% of inference spend went to runs that failed",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://runta.com/blog/introducing-frontierharness-eval-v1-1",
+          "source": "Hacker News front page",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-11-17T14:53:43Z"
+        },
+        {
+          "id": "c6c9a6b3ae7033e3fca4cb999b2d9289de4919da",
+          "title": "在 27,280 次编码代理运行中，64% 的推理支出用于失败的运行 / In 27,280 coding agent runs, 64% of inference spend went to runs that failed",
+          "title_zh": "在 27,280 次编码代理运行中，64% 的推理支出用于失败的运行",
+          "title_en": "In 27,280 coding agent runs, 64% of inference spend went to runs that failed",
+          "title_original": "In 27,280 coding agent runs, 64% of inference spend went to runs that failed",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50532191",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-17T14:53:43Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News front page",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "a6f87a105627827d0f5ac05f68b3f11c8e4d8143",
+          "title": "在 27,280 次编码代理运行中，64% 的推理支出用于失败的运行 / In 27,280 coding agent runs, 64% of inference spend went to runs that failed",
+          "title_zh": "在 27,280 次编码代理运行中，64% 的推理支出用于失败的运行",
+          "title_en": "In 27,280 coding agent runs, 64% of inference spend went to runs that failed",
+          "title_original": "In 27,280 coding agent runs, 64% of inference spend went to runs that failed",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://runta.com/blog/introducing-frontierharness-eval-v1-1",
+          "source": "Hacker News front page",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-11-17T14:53:43Z"
+        },
+        {
+          "id": "c6c9a6b3ae7033e3fca4cb999b2d9289de4919da",
+          "title": "在 27,280 次编码代理运行中，64% 的推理支出用于失败的运行 / In 27,280 coding agent runs, 64% of inference spend went to runs that failed",
+          "title_zh": "在 27,280 次编码代理运行中，64% 的推理支出用于失败的运行",
+          "title_en": "In 27,280 coding agent runs, 64% of inference spend went to runs that failed",
+          "title_original": "In 27,280 coding agent runs, 64% of inference spend went to runs that failed",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50532191",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-17T14:53:43Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6532,
+      "importance": 0.6532,
+      "importance_score": 0.6532,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5616,
+        "source_tier": 0.58,
+        "ai_relevance": 0.78,
+        "recency": 0.9783,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-17T14:53:43Z",
+      "latest_at": "2026-11-17T14:53:43Z",
+      "primary_item": {
+        "id": "a6f87a105627827d0f5ac05f68b3f11c8e4d8143",
+        "title": "在 27,280 次编码代理运行中，64% 的推理支出用于失败的运行 / In 27,280 coding agent runs, 64% of inference spend went to runs that failed",
+        "title_zh": "在 27,280 次编码代理运行中，64% 的推理支出用于失败的运行",
+        "title_en": "In 27,280 coding agent runs, 64% of inference spend went to runs that failed",
+        "title_original": "In 27,280 coding agent runs, 64% of inference spend went to runs that failed",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://runta.com/blog/introducing-frontierharness-eval-v1-1",
+        "source": "Hacker News front page",
+        "source_name": "Curated Media"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-17T16:26:28.908328Z"
+      }
+    },
+    {
+      "story_id": "story_70298e32c471",
+      "title": "VS Code retires the Local harness in February 2027",
+      "url": "https://github.blog/changelog/2026-11-16-vs-code-retires-the-local-harness-in-february-2027",
+      "primary_url": "https://github.blog/changelog/2026-11-16-vs-code-retires-the-local-harness-in-february-2027",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "3dc42a57a919e8bc007d7f42e9c14ec70258a15c",
+          "title": "VS Code retires the Local harness in February 2027",
+          "title_zh": null,
+          "title_en": "VS Code retires the Local harness in February 2027",
+          "title_original": "VS Code retires the Local harness in February 2027",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-16-vs-code-retires-the-local-harness-in-february-2027",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-16T19:22:56Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "3dc42a57a919e8bc007d7f42e9c14ec70258a15c",
+          "title": "VS Code retires the Local harness in February 2027",
+          "title_zh": null,
+          "title_en": "VS Code retires the Local harness in February 2027",
+          "title_original": "VS Code retires the Local harness in February 2027",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-16-vs-code-retires-the-local-harness-in-february-2027",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-16T19:22:56Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7689,
+      "importance": 0.7689,
+      "importance_score": 0.7689,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.73,
+        "recency": 0.7381,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-16T19:22:56Z",
+      "latest_at": "2026-11-16T19:22:56Z",
+      "primary_item": {
+        "id": "3dc42a57a919e8bc007d7f42e9c14ec70258a15c",
+        "title": "VS Code retires the Local harness in February 2027",
+        "title_zh": null,
+        "title_en": "VS Code retires the Local harness in February 2027",
+        "title_original": "VS Code retires the Local harness in February 2027",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-11-16-vs-code-retires-the-local-harness-in-february-2027",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-17T16:26:28.908328Z"
       }
     },
     {
@@ -1755,15 +1452,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6416,
-      "importance": 0.6416,
-      "importance_score": 0.6416,
+      "score": 0.618,
+      "importance": 0.618,
+      "importance_score": 0.618,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5832,
         "source_tier": 0.58,
         "ai_relevance": 0.81,
-        "recency": 0.8447,
+        "recency": 0.7136,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1789,7 +1486,447 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T04:50:27.625193Z"
+        "scored_at": "2026-11-17T16:26:28.908328Z"
+      }
+    },
+    {
+      "story_id": "story_7ea87627c645",
+      "title": "英特尔股价一天内下跌 28.6%，股东起诉英特尔及其首席执行官和首席财务官 / Shareholders sue Intel, its CEO, and CFO after stock drops 28.6 percent in one day",
+      "url": "https://arstechnica.com/tech-policy/2026/11/shareholders-sue-intel-its-ceo-and-cfo-after-stock-drops-28-6-percent-in-one-day",
+      "primary_url": "https://arstechnica.com/tech-policy/2026/11/shareholders-sue-intel-its-ceo-and-cfo-after-stock-drops-28-6-percent-in-one-day",
+      "source": "Ars Technica",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "be18acdf83a69f57fe455da9a4a21ec924653745",
+          "title": "英特尔股价一天内下跌 28.6%，股东起诉英特尔及其首席执行官和首席财务官 / Shareholders sue Intel, its CEO, and CFO after stock drops 28.6 percent in one day",
+          "title_zh": "英特尔股价一天内下跌 28.6%，股东起诉英特尔及其首席执行官和首席财务官",
+          "title_en": "Shareholders sue Intel, its CEO, and CFO after stock drops 28.6 percent in one day",
+          "title_original": "Shareholders sue Intel, its CEO, and CFO after stock drops 28.6 percent in one day",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://arstechnica.com/tech-policy/2026/11/shareholders-sue-intel-its-ceo-and-cfo-after-stock-drops-28-6-percent-in-one-day",
+          "source": "Ars Technica",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-11-16T20:37:47Z"
+        },
+        {
+          "id": "04d1f74c7d1845f56da04e558cd19f57bfd113dc",
+          "title": "英特尔股价一日下跌28.6% 股东起诉英特尔及其首席执行官和首席财务官 / Shareholders sue Intel, its CEO and CFO after stock drops 28.6 percent in one day",
+          "title_zh": "英特尔股价一日下跌28.6% 股东起诉英特尔及其首席执行官和首席财务官",
+          "title_en": "Shareholders sue Intel, its CEO and CFO after stock drops 28.6 percent in one day",
+          "title_original": "Shareholders sue Intel, its CEO and CFO after stock drops 28.6 percent in one day",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://arstechnica.com/tech-policy/2026/11/shareholders-sue-intel-its-ceo-and-cfo-after-stock-drops-28-6-percent-in-one-day",
+          "source": "Ars Technica",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-16T20:37:47Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Ars Technica"
+      ],
+      "items": [
+        {
+          "id": "be18acdf83a69f57fe455da9a4a21ec924653745",
+          "title": "英特尔股价一天内下跌 28.6%，股东起诉英特尔及其首席执行官和首席财务官 / Shareholders sue Intel, its CEO, and CFO after stock drops 28.6 percent in one day",
+          "title_zh": "英特尔股价一天内下跌 28.6%，股东起诉英特尔及其首席执行官和首席财务官",
+          "title_en": "Shareholders sue Intel, its CEO, and CFO after stock drops 28.6 percent in one day",
+          "title_original": "Shareholders sue Intel, its CEO, and CFO after stock drops 28.6 percent in one day",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://arstechnica.com/tech-policy/2026/11/shareholders-sue-intel-its-ceo-and-cfo-after-stock-drops-28-6-percent-in-one-day",
+          "source": "Ars Technica",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-11-16T20:37:47Z"
+        },
+        {
+          "id": "04d1f74c7d1845f56da04e558cd19f57bfd113dc",
+          "title": "英特尔股价一日下跌28.6% 股东起诉英特尔及其首席执行官和首席财务官 / Shareholders sue Intel, its CEO and CFO after stock drops 28.6 percent in one day",
+          "title_zh": "英特尔股价一日下跌28.6% 股东起诉英特尔及其首席执行官和首席财务官",
+          "title_en": "Shareholders sue Intel, its CEO and CFO after stock drops 28.6 percent in one day",
+          "title_original": "Shareholders sue Intel, its CEO and CFO after stock drops 28.6 percent in one day",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://arstechnica.com/tech-policy/2026/11/shareholders-sue-intel-its-ceo-and-cfo-after-stock-drops-28-6-percent-in-one-day",
+          "source": "Ars Technica",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-16T20:37:47Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6124,
+      "importance": 0.6124,
+      "importance_score": 0.6124,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5616,
+        "source_tier": 0.58,
+        "ai_relevance": 0.78,
+        "recency": 0.7515,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-16T20:37:47Z",
+      "latest_at": "2026-11-16T20:37:47Z",
+      "primary_item": {
+        "id": "be18acdf83a69f57fe455da9a4a21ec924653745",
+        "title": "英特尔股价一天内下跌 28.6%，股东起诉英特尔及其首席执行官和首席财务官 / Shareholders sue Intel, its CEO, and CFO after stock drops 28.6 percent in one day",
+        "title_zh": "英特尔股价一天内下跌 28.6%，股东起诉英特尔及其首席执行官和首席财务官",
+        "title_en": "Shareholders sue Intel, its CEO, and CFO after stock drops 28.6 percent in one day",
+        "title_original": "Shareholders sue Intel, its CEO, and CFO after stock drops 28.6 percent in one day",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://arstechnica.com/tech-policy/2026/11/shareholders-sue-intel-its-ceo-and-cfo-after-stock-drops-28-6-percent-in-one-day",
+        "source": "Ars Technica",
+        "source_name": "Curated Media"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-17T16:26:28.908328Z"
+      }
+    },
+    {
+      "story_id": "story_2f609628a104",
+      "title": "Windows 11 正在收集有关您使用的编程代理和开发工具的数据 / Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
+      "url": "https://xusheng.dev/posts/windows-coding-agent-telemetry",
+      "primary_url": "https://xusheng.dev/posts/windows-coding-agent-telemetry",
+      "source": "Hacker News front page",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "b9b6bdb66245e46e78d8155f3bc45d4b9df4bb62",
+          "title": "Windows 11 正在收集有关您使用的编程代理和开发工具的数据 / Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
+          "title_zh": "Windows 11 正在收集有关您使用的编程代理和开发工具的数据",
+          "title_en": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
+          "title_original": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://xusheng.dev/posts/windows-coding-agent-telemetry",
+          "source": "Hacker News front page",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-11-16T22:58:20Z"
+        },
+        {
+          "id": "5274ac289ad683dd53f1c8ed2d945d36a58dc4df",
+          "title": "Windows 11 正在收集有关您使用的编码代理和开发工具的数据 / Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
+          "title_zh": "Windows 11 正在收集有关您使用的编码代理和开发工具的数据",
+          "title_en": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
+          "title_original": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50524736",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-16T22:58:20Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News front page",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "b9b6bdb66245e46e78d8155f3bc45d4b9df4bb62",
+          "title": "Windows 11 正在收集有关您使用的编程代理和开发工具的数据 / Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
+          "title_zh": "Windows 11 正在收集有关您使用的编程代理和开发工具的数据",
+          "title_en": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
+          "title_original": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://xusheng.dev/posts/windows-coding-agent-telemetry",
+          "source": "Hacker News front page",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-11-16T22:58:20Z"
+        },
+        {
+          "id": "5274ac289ad683dd53f1c8ed2d945d36a58dc4df",
+          "title": "Windows 11 正在收集有关您使用的编码代理和开发工具的数据 / Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
+          "title_zh": "Windows 11 正在收集有关您使用的编码代理和开发工具的数据",
+          "title_en": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
+          "title_original": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50524736",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-16T22:58:20Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6295,
+      "importance": 0.6295,
+      "importance_score": 0.6295,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5832,
+        "source_tier": 0.58,
+        "ai_relevance": 0.81,
+        "recency": 0.7774,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-16T22:58:20Z",
+      "latest_at": "2026-11-16T22:58:20Z",
+      "primary_item": {
+        "id": "b9b6bdb66245e46e78d8155f3bc45d4b9df4bb62",
+        "title": "Windows 11 正在收集有关您使用的编程代理和开发工具的数据 / Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
+        "title_zh": "Windows 11 正在收集有关您使用的编程代理和开发工具的数据",
+        "title_en": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
+        "title_original": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://xusheng.dev/posts/windows-coding-agent-telemetry",
+        "source": "Hacker News front page",
+        "source_name": "Curated Media"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-17T16:26:28.908328Z"
+      }
+    },
+    {
+      "story_id": "story_adc2f6a7c64c",
+      "title": "Anthropic 通过 METR 实施的监管俘获",
+      "url": "https://nitter.cf/kevinnbass/status/2099621874279817638",
+      "primary_url": "https://nitter.cf/kevinnbass/status/2099621874279817638",
+      "source": "nitter.cf",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "565b30a6fadcd9217a8abd896eed6e861052e339",
+          "title": "Anthropic 通过 METR 实施的监管俘获",
+          "title_zh": "Anthropic 通过 METR 实施的监管俘获",
+          "title_en": null,
+          "title_original": "Anthropic 通过 METR 实施的监管俘获",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://nitter.cf/kevinnbass/status/2099621874279817638",
+          "source": "nitter.cf",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-17T14:17:00.043000Z"
+        },
+        {
+          "id": "d5749a9a7d77bd6a72b2eb38b9f978f31fd8376f",
+          "title": "Anthropic 通过 METR 实施的监管俘获 / Regulatory Capture by Anthropic Through METR",
+          "title_zh": "Anthropic 通过 METR 实施的监管俘获",
+          "title_en": "Regulatory Capture by Anthropic Through METR",
+          "title_original": "Regulatory Capture by Anthropic Through METR",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://nitter.cf/kevinnbass/status/2099621874279817638",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-17T12:21:57Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "nitter.cf"
+      ],
+      "items": [
+        {
+          "id": "565b30a6fadcd9217a8abd896eed6e861052e339",
+          "title": "Anthropic 通过 METR 实施的监管俘获",
+          "title_zh": "Anthropic 通过 METR 实施的监管俘获",
+          "title_en": null,
+          "title_original": "Anthropic 通过 METR 实施的监管俘获",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://nitter.cf/kevinnbass/status/2099621874279817638",
+          "source": "nitter.cf",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-17T14:17:00.043000Z"
+        },
+        {
+          "id": "d5749a9a7d77bd6a72b2eb38b9f978f31fd8376f",
+          "title": "Anthropic 通过 METR 实施的监管俘获 / Regulatory Capture by Anthropic Through METR",
+          "title_zh": "Anthropic 通过 METR 实施的监管俘获",
+          "title_en": "Regulatory Capture by Anthropic Through METR",
+          "title_original": "Regulatory Capture by Anthropic Through METR",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://nitter.cf/kevinnbass/status/2099621874279817638",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-17T12:21:57Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5611,
+      "importance": 0.5611,
+      "importance_score": 0.5611,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.504,
+        "source_tier": 0.32,
+        "ai_relevance": 0.7,
+        "recency": 0.9697,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-17T12:21:57Z",
+      "latest_at": "2026-11-17T14:17:00.043000Z",
+      "primary_item": {
+        "id": "565b30a6fadcd9217a8abd896eed6e861052e339",
+        "title": "Anthropic 通过 METR 实施的监管俘获",
+        "title_zh": "Anthropic 通过 METR 实施的监管俘获",
+        "title_en": null,
+        "title_original": "Anthropic 通过 METR 实施的监管俘获",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://nitter.cf/kevinnbass/status/2099621874279817638",
+        "source": "nitter.cf",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-17T16:26:28.908328Z"
+      }
+    },
+    {
+      "story_id": "story_4cbb20ad4072",
+      "title": "运行编码代理而不向他们提供我的凭据 / Running coding agents without handing them my credentials",
+      "url": "https://blog.antonio.cx/running-agents-with-lend",
+      "primary_url": "https://blog.antonio.cx/running-agents-with-lend",
+      "source": "Hacker News front page",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "01bdc10ef609797b78ebca0b2e03fbced0e6e138",
+          "title": "运行编码代理而不向他们提供我的凭据 / Running coding agents without handing them my credentials",
+          "title_zh": "运行编码代理而不向他们提供我的凭据",
+          "title_en": "Running coding agents without handing them my credentials",
+          "title_original": "Running coding agents without handing them my credentials",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.antonio.cx/running-agents-with-lend",
+          "source": "Hacker News front page",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-11-17T01:18:56Z"
+        },
+        {
+          "id": "a92ee3c5d4f7babfef22c6b32a2f66000d24fbf3",
+          "title": "运行编码代理而不向他们提供我的凭据 / Running coding agents without handing them my credentials",
+          "title_zh": "运行编码代理而不向他们提供我的凭据",
+          "title_en": "Running coding agents without handing them my credentials",
+          "title_original": "Running coding agents without handing them my credentials",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50526152",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-17T01:18:56Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News front page",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "01bdc10ef609797b78ebca0b2e03fbced0e6e138",
+          "title": "运行编码代理而不向他们提供我的凭据 / Running coding agents without handing them my credentials",
+          "title_zh": "运行编码代理而不向他们提供我的凭据",
+          "title_en": "Running coding agents without handing them my credentials",
+          "title_original": "Running coding agents without handing them my credentials",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.antonio.cx/running-agents-with-lend",
+          "source": "Hacker News front page",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-11-17T01:18:56Z"
+        },
+        {
+          "id": "a92ee3c5d4f7babfef22c6b32a2f66000d24fbf3",
+          "title": "运行编码代理而不向他们提供我的凭据 / Running coding agents without handing them my credentials",
+          "title_zh": "运行编码代理而不向他们提供我的凭据",
+          "title_en": "Running coding agents without handing them my credentials",
+          "title_original": "Running coding agents without handing them my credentials",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50526152",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-17T01:18:56Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6093,
+      "importance": 0.6093,
+      "importance_score": 0.6093,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.54,
+        "source_tier": 0.58,
+        "ai_relevance": 0.75,
+        "recency": 0.8041,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-17T01:18:56Z",
+      "latest_at": "2026-11-17T01:18:56Z",
+      "primary_item": {
+        "id": "01bdc10ef609797b78ebca0b2e03fbced0e6e138",
+        "title": "运行编码代理而不向他们提供我的凭据 / Running coding agents without handing them my credentials",
+        "title_zh": "运行编码代理而不向他们提供我的凭据",
+        "title_en": "Running coding agents without handing them my credentials",
+        "title_original": "Running coding agents without handing them my credentials",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://blog.antonio.cx/running-agents-with-lend",
+        "source": "Hacker News front page",
+        "source_name": "Curated Media"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-17T16:26:28.908328Z"
       }
     }
   ]
