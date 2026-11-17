@@ -1,16 +1,30 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-17T16:49:21.001281Z",
+  "generated_at": "2026-11-17T23:37:23.911619Z",
   "ok": true,
-  "active_count": 0,
+  "active_count": 1,
   "providers": [
     {
       "id": "openai",
       "name": "OpenAI",
       "status_url": "https://status.openai.com/",
       "ok": true,
-      "active_count": 0
+      "active_count": 1
     }
   ],
-  "incidents": []
+  "incidents": [
+    {
+      "id": "01M7N9VNR6X5SEC90M1YCDB36D",
+      "provider": "OpenAI",
+      "title": "Costs API data is delayed",
+      "title_zh": "Costs API data is delayed",
+      "status": "monitoring",
+      "impact": "minor",
+      "started_at": "2026-11-17T17:46:15Z",
+      "updated_at": "2026-11-17T19:53:49Z",
+      "message": "We've pushed a fix and are monitoring the recovery.",
+      "affected_components": [],
+      "url": "https://status.openai.com/incidents/01M7N9VNR6X5SEC90M1YCDB36D"
+    }
+  ]
 }
