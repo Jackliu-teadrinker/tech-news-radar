@@ -1,16 +1,30 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-19T13:47:48.773639Z",
+  "generated_at": "2026-11-19T16:29:23.843340Z",
   "ok": true,
-  "active_count": 0,
+  "active_count": 1,
   "providers": [
     {
       "id": "openai",
       "name": "OpenAI",
       "status_url": "https://status.openai.com/",
       "ok": true,
-      "active_count": 0
+      "active_count": 1
     }
   ],
-  "incidents": []
+  "incidents": [
+    {
+      "id": "01M7T8MRF9SDBDNQ62Z6V156ZZ",
+      "provider": "OpenAI",
+      "title": "Elevated error rates for gpt-6 Luna API requests",
+      "title_zh": "Elevated error rates for gpt-6 Luna API requests",
+      "status": "monitoring",
+      "impact": "major",
+      "started_at": "2026-11-19T16:01:12Z",
+      "updated_at": "2026-11-19T16:21:41Z",
+      "message": "We’ve applied a mitigation and are monitoring the affected services to confirm recovery.",
+      "affected_components": [],
+      "url": "https://status.openai.com/incidents/01M7T8MRF9SDBDNQ62Z6V156ZZ"
+    }
+  ]
 }
