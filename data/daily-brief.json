@@ -1,8 +1,91 @@
 {
-  "generated_at": "2026-11-20T16:00:25.715441Z",
+  "generated_at": "2026-11-20T21:55:55.095399Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_070a320473bf",
+      "title": "Combatting adversarial distillation",
+      "url": "https://openai.com/index/combatting-adversarial-distillation",
+      "primary_url": "https://openai.com/index/combatting-adversarial-distillation",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "2dc91bf67ac1fa3b6b207e89864afed6725256e5",
+          "title": "Combatting adversarial distillation",
+          "title_zh": null,
+          "title_en": "Combatting adversarial distillation",
+          "title_original": "Combatting adversarial distillation",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/combatting-adversarial-distillation",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-20T10:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "2dc91bf67ac1fa3b6b207e89864afed6725256e5",
+          "title": "Combatting adversarial distillation",
+          "title_zh": null,
+          "title_en": "Combatting adversarial distillation",
+          "title_original": "Combatting adversarial distillation",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/combatting-adversarial-distillation",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-20T10:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8375,
+      "importance": 0.8375,
+      "importance_score": 0.8375,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.8417,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-20T10:00:00Z",
+      "latest_at": "2026-11-20T10:00:00Z",
+      "primary_item": {
+        "id": "2dc91bf67ac1fa3b6b207e89864afed6725256e5",
+        "title": "Combatting adversarial distillation",
+        "title_zh": null,
+        "title_en": "Combatting adversarial distillation",
+        "title_original": "Combatting adversarial distillation",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/combatting-adversarial-distillation",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-20T22:08:33.561661Z"
+      }
+    },
     {
       "story_id": "story_ef0476de7328",
       "title": "Codex CLI 0.171.0",
@@ -48,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8329,
-      "importance": 0.8329,
-      "importance_score": 0.8329,
+      "score": 0.8211,
+      "importance": 0.8211,
+      "importance_score": 0.8211,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7936,
+        "recency": 0.7285,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,63 +166,145 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T16:03:42.023554Z"
+        "scored_at": "2026-11-20T22:08:33.561661Z"
       }
     },
     {
-      "story_id": "story_f4a0bde39164",
-      "title": "在 Gemini API 中引入工具检索 / Introducing Tool Retrieval in the Gemini API",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval",
-      "primary_url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval",
-      "source": "Google AI Blog",
+      "story_id": "story_7ae3ed731fb7",
+      "title": "GitHub Enterprise Server 3.23 release candidate",
+      "url": "https://github.blog/changelog/2026-11-20-github-enterprise-server-3-23-release-candidate",
+      "primary_url": "https://github.blog/changelog/2026-11-20-github-enterprise-server-3-23-release-candidate",
+      "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "444177bedc11242e1974b553efabf05c74e3673c",
-          "title": "在 Gemini API 中引入工具检索 / Introducing Tool Retrieval in the Gemini API",
-          "title_zh": "在 Gemini API 中引入工具检索",
-          "title_en": "Introducing Tool Retrieval in the Gemini API",
-          "title_original": "Introducing Tool Retrieval in the Gemini API",
+          "id": "2d2c3114d1b50d1c68a55c9fd985f46ad4180ff0",
+          "title": "GitHub Enterprise Server 3.23 release candidate",
+          "title_zh": null,
+          "title_en": "GitHub Enterprise Server 3.23 release candidate",
+          "title_original": "GitHub Enterprise Server 3.23 release candidate",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval",
-          "source": "Google AI Blog",
+          "url": "https://github.blog/changelog/2026-11-20-github-enterprise-server-3-23-release-candidate",
+          "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-19T18:00:00Z"
+          "published_at": "2026-11-20T20:41:26Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Google AI Blog"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "444177bedc11242e1974b553efabf05c74e3673c",
-          "title": "在 Gemini API 中引入工具检索 / Introducing Tool Retrieval in the Gemini API",
-          "title_zh": "在 Gemini API 中引入工具检索",
-          "title_en": "Introducing Tool Retrieval in the Gemini API",
-          "title_original": "Introducing Tool Retrieval in the Gemini API",
+          "id": "2d2c3114d1b50d1c68a55c9fd985f46ad4180ff0",
+          "title": "GitHub Enterprise Server 3.23 release candidate",
+          "title_zh": null,
+          "title_en": "GitHub Enterprise Server 3.23 release candidate",
+          "title_original": "GitHub Enterprise Server 3.23 release candidate",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval",
-          "source": "Google AI Blog",
+          "url": "https://github.blog/changelog/2026-11-20-github-enterprise-server-3-23-release-candidate",
+          "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-19T18:00:00Z"
+          "published_at": "2026-11-20T20:41:26Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.821,
-      "importance": 0.821,
-      "importance_score": 0.821,
+      "score": 0.8128,
+      "importance": 0.8128,
+      "importance_score": 0.8128,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.73,
+        "recency": 0.9822,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-20T20:41:26Z",
+      "latest_at": "2026-11-20T20:41:26Z",
+      "primary_item": {
+        "id": "2d2c3114d1b50d1c68a55c9fd985f46ad4180ff0",
+        "title": "GitHub Enterprise Server 3.23 release candidate",
+        "title_zh": null,
+        "title_en": "GitHub Enterprise Server 3.23 release candidate",
+        "title_original": "GitHub Enterprise Server 3.23 release candidate",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-11-20-github-enterprise-server-3-23-release-candidate",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-20T22:08:33.561661Z"
+      }
+    },
+    {
+      "story_id": "story_cf02b813d300",
+      "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+      "url": "https://openai.com/business/customer-stories/hebbia",
+      "primary_url": "https://openai.com/business/customer-stories/hebbia",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "d8b5c1321aebfdcc617a5f81c78222112ec1122b",
+          "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+          "title_zh": null,
+          "title_en": "Hebbia sees improvements in financial research with GPT-6 Astra",
+          "title_original": "Hebbia sees improvements in financial research with GPT-6 Astra",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/business/customer-stories/hebbia",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-20T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "d8b5c1321aebfdcc617a5f81c78222112ec1122b",
+          "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+          "title_zh": null,
+          "title_en": "Hebbia sees improvements in financial research with GPT-6 Astra",
+          "title_original": "Hebbia sees improvements in financial research with GPT-6 Astra",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/business/customer-stories/hebbia",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-20T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8211,
+      "importance": 0.8211,
+      "importance_score": 0.8211,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7278,
+        "recency": 0.7285,
         "story_heat": 0.0
       },
       "category": "official",
@@ -148,25 +313,272 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-19T18:00:00Z",
-      "latest_at": "2026-11-19T18:00:00Z",
+      "earliest_at": "2026-11-20T00:00:00Z",
+      "latest_at": "2026-11-20T00:00:00Z",
       "primary_item": {
-        "id": "444177bedc11242e1974b553efabf05c74e3673c",
-        "title": "在 Gemini API 中引入工具检索 / Introducing Tool Retrieval in the Gemini API",
-        "title_zh": "在 Gemini API 中引入工具检索",
-        "title_en": "Introducing Tool Retrieval in the Gemini API",
-        "title_original": "Introducing Tool Retrieval in the Gemini API",
+        "id": "d8b5c1321aebfdcc617a5f81c78222112ec1122b",
+        "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+        "title_zh": null,
+        "title_en": "Hebbia sees improvements in financial research with GPT-6 Astra",
+        "title_original": "Hebbia sees improvements in financial research with GPT-6 Astra",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval",
-        "source": "Google AI Blog",
+        "url": "https://openai.com/business/customer-stories/hebbia",
+        "source": "OpenAI News",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T16:03:42.023554Z"
+        "scored_at": "2026-11-20T22:08:33.561661Z"
+      }
+    },
+    {
+      "story_id": "story_4cb47a4337cf",
+      "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+      "url": "https://huggingface.co/blog/inkling2mini",
+      "primary_url": "https://huggingface.co/blog/inkling2mini",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "4a5c11918a234fb33203471958054421c3f53925",
+          "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+          "title_zh": null,
+          "title_en": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+          "title_original": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/inkling2mini",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-20T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "4a5c11918a234fb33203471958054421c3f53925",
+          "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+          "title_zh": null,
+          "title_en": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+          "title_original": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/inkling2mini",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-20T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7791,
+      "importance": 0.7791,
+      "importance_score": 0.7791,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.79,
+        "recency": 0.7285,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-20T00:00:00Z",
+      "latest_at": "2026-11-20T00:00:00Z",
+      "primary_item": {
+        "id": "4a5c11918a234fb33203471958054421c3f53925",
+        "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+        "title_zh": null,
+        "title_en": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+        "title_original": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/inkling2mini",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-20T22:08:33.561661Z"
+      }
+    },
+    {
+      "story_id": "story_7c2ff4173eed",
+      "title": "Pin your favorite repositories to your dashboard",
+      "url": "https://github.blog/changelog/2026-11-20-pin-your-favorite-repositories-to-your-dashboard",
+      "primary_url": "https://github.blog/changelog/2026-11-20-pin-your-favorite-repositories-to-your-dashboard",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "9e7b5ac6e5db201967f08363d6537f188ec45466",
+          "title": "Pin your favorite repositories to your dashboard",
+          "title_zh": null,
+          "title_en": "Pin your favorite repositories to your dashboard",
+          "title_original": "Pin your favorite repositories to your dashboard",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-20-pin-your-favorite-repositories-to-your-dashboard",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-20T14:12:05Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "9e7b5ac6e5db201967f08363d6537f188ec45466",
+          "title": "Pin your favorite repositories to your dashboard",
+          "title_zh": null,
+          "title_en": "Pin your favorite repositories to your dashboard",
+          "title_original": "Pin your favorite repositories to your dashboard",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-20-pin-your-favorite-repositories-to-your-dashboard",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-20T14:12:05Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.797,
+      "importance": 0.797,
+      "importance_score": 0.797,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.73,
+        "recency": 0.8944,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-20T14:12:05Z",
+      "latest_at": "2026-11-20T14:12:05Z",
+      "primary_item": {
+        "id": "9e7b5ac6e5db201967f08363d6537f188ec45466",
+        "title": "Pin your favorite repositories to your dashboard",
+        "title_zh": null,
+        "title_en": "Pin your favorite repositories to your dashboard",
+        "title_original": "Pin your favorite repositories to your dashboard",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-11-20-pin-your-favorite-repositories-to-your-dashboard",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-20T22:08:33.561661Z"
+      }
+    },
+    {
+      "story_id": "story_feb750f07c00",
+      "title": "Can AI help scientists identify promising drug candidates?",
+      "url": "https://openai.com/index/introducing-medchembench",
+      "primary_url": "https://openai.com/index/introducing-medchembench",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "d2f2da5dc70862cc52dbbc23e73f844115b47634",
+          "title": "Can AI help scientists identify promising drug candidates?",
+          "title_zh": null,
+          "title_en": "Can AI help scientists identify promising drug candidates?",
+          "title_original": "Can AI help scientists identify promising drug candidates?",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/introducing-medchembench",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-20T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "d2f2da5dc70862cc52dbbc23e73f844115b47634",
+          "title": "Can AI help scientists identify promising drug candidates?",
+          "title_zh": null,
+          "title_en": "Can AI help scientists identify promising drug candidates?",
+          "title_original": "Can AI help scientists identify promising drug candidates?",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/introducing-medchembench",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-20T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8171,
+      "importance": 0.8171,
+      "importance_score": 0.8171,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.7285,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-20T00:00:00Z",
+      "latest_at": "2026-11-20T00:00:00Z",
+      "primary_item": {
+        "id": "d2f2da5dc70862cc52dbbc23e73f844115b47634",
+        "title": "Can AI help scientists identify promising drug candidates?",
+        "title_zh": null,
+        "title_en": "Can AI help scientists identify promising drug candidates?",
+        "title_original": "Can AI help scientists identify promising drug candidates?",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/introducing-medchembench",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-20T22:08:33.561661Z"
       }
     },
     {
@@ -214,15 +626,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7909,
-      "importance": 0.7909,
-      "importance_score": 0.7909,
+      "score": 0.7791,
+      "importance": 0.7791,
+      "importance_score": 0.7791,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.79,
-        "recency": 0.7936,
+        "recency": 0.7285,
         "story_heat": 0.0
       },
       "category": "official",
@@ -248,253 +660,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T16:03:42.023554Z"
-      }
-    },
-    {
-      "story_id": "story_8bfa75615929",
-      "title": "GitHub Desktop 现在支持每个主机多个帐户 / GitHub Desktop now supports multiple accounts per host",
-      "url": "https://github.blog/changelog/2026-11-19-github-desktop-now-supports-multiple-accounts-per-host",
-      "primary_url": "https://github.blog/changelog/2026-11-19-github-desktop-now-supports-multiple-accounts-per-host",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "4153f14f8744315b507c166df3e939c015d28122",
-          "title": "GitHub Desktop 现在支持每个主机多个帐户 / GitHub Desktop now supports multiple accounts per host",
-          "title_zh": "GitHub Desktop 现在支持每个主机多个帐户",
-          "title_en": "GitHub Desktop now supports multiple accounts per host",
-          "title_original": "GitHub Desktop now supports multiple accounts per host",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-19-github-desktop-now-supports-multiple-accounts-per-host",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-20T02:06:01Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "4153f14f8744315b507c166df3e939c015d28122",
-          "title": "GitHub Desktop 现在支持每个主机多个帐户 / GitHub Desktop now supports multiple accounts per host",
-          "title_zh": "GitHub Desktop 现在支持每个主机多个帐户",
-          "title_en": "GitHub Desktop now supports multiple accounts per host",
-          "title_original": "GitHub Desktop now supports multiple accounts per host",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-19-github-desktop-now-supports-multiple-accounts-per-host",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-20T02:06:01Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7833,
-      "importance": 0.7833,
-      "importance_score": 0.7833,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.73,
-        "recency": 0.8181,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-20T02:06:01Z",
-      "latest_at": "2026-11-20T02:06:01Z",
-      "primary_item": {
-        "id": "4153f14f8744315b507c166df3e939c015d28122",
-        "title": "GitHub Desktop 现在支持每个主机多个帐户 / GitHub Desktop now supports multiple accounts per host",
-        "title_zh": "GitHub Desktop 现在支持每个主机多个帐户",
-        "title_en": "GitHub Desktop now supports multiple accounts per host",
-        "title_original": "GitHub Desktop now supports multiple accounts per host",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-19-github-desktop-now-supports-multiple-accounts-per-host",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-20T16:03:42.023554Z"
-      }
-    },
-    {
-      "story_id": "story_5c21545858a7",
-      "title": "公共预览版中拉取请求概述的改进 / Improvements on the pull request overview in public preview",
-      "url": "https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview",
-      "primary_url": "https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "55c28a98855c92957202c130c8939308b0edf0e2",
-          "title": "公共预览版中拉取请求概述的改进 / Improvements on the pull request overview in public preview",
-          "title_zh": "公共预览版中拉取请求概述的改进",
-          "title_en": "Improvements on the pull request overview in public preview",
-          "title_original": "Improvements on the pull request overview in public preview",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-20T00:02:21Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "55c28a98855c92957202c130c8939308b0edf0e2",
-          "title": "公共预览版中拉取请求概述的改进 / Improvements on the pull request overview in public preview",
-          "title_zh": "公共预览版中拉取请求概述的改进",
-          "title_en": "Improvements on the pull request overview in public preview",
-          "title_original": "Improvements on the pull request overview in public preview",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-20T00:02:21Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7789,
-      "importance": 0.7789,
-      "importance_score": 0.7789,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.73,
-        "recency": 0.7941,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-20T00:02:21Z",
-      "latest_at": "2026-11-20T00:02:21Z",
-      "primary_item": {
-        "id": "55c28a98855c92957202c130c8939308b0edf0e2",
-        "title": "公共预览版中拉取请求概述的改进 / Improvements on the pull request overview in public preview",
-        "title_zh": "公共预览版中拉取请求概述的改进",
-        "title_en": "Improvements on the pull request overview in public preview",
-        "title_original": "Improvements on the pull request overview in public preview",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-20T16:03:42.023554Z"
-      }
-    },
-    {
-      "story_id": "story_c2ba68bd6600",
-      "title": "沃尔特·艾萨克森 (Walter Isaacson) 谈人工智能时代的好奇心和创造力。 / Walter Isaacson on curiosity and creativity in the AI age.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson",
-      "primary_url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "e9bc71a8a5203d8ba03168cce65b8c17e9fe51da",
-          "title": "沃尔特·艾萨克森 (Walter Isaacson) 谈人工智能时代的好奇心和创造力。 / Walter Isaacson on curiosity and creativity in the AI age.",
-          "title_zh": "沃尔特·艾萨克森 (Walter Isaacson) 谈人工智能时代的好奇心和创造力。",
-          "title_en": "Walter Isaacson on curiosity and creativity in the AI age.",
-          "title_original": "Walter Isaacson on curiosity and creativity in the AI age.",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-19T17:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google AI Blog"
-      ],
-      "items": [
-        {
-          "id": "e9bc71a8a5203d8ba03168cce65b8c17e9fe51da",
-          "title": "沃尔特·艾萨克森 (Walter Isaacson) 谈人工智能时代的好奇心和创造力。 / Walter Isaacson on curiosity and creativity in the AI age.",
-          "title_zh": "沃尔特·艾萨克森 (Walter Isaacson) 谈人工智能时代的好奇心和创造力。",
-          "title_en": "Walter Isaacson on curiosity and creativity in the AI age.",
-          "title_original": "Walter Isaacson on curiosity and creativity in the AI age.",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-19T17:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7711,
-      "importance": 0.7711,
-      "importance_score": 0.7711,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.76,
-        "recency": 0.7173,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-19T17:00:00Z",
-      "latest_at": "2026-11-19T17:00:00Z",
-      "primary_item": {
-        "id": "e9bc71a8a5203d8ba03168cce65b8c17e9fe51da",
-        "title": "沃尔特·艾萨克森 (Walter Isaacson) 谈人工智能时代的好奇心和创造力。 / Walter Isaacson on curiosity and creativity in the AI age.",
-        "title_zh": "沃尔特·艾萨克森 (Walter Isaacson) 谈人工智能时代的好奇心和创造力。",
-        "title_en": "Walter Isaacson on curiosity and creativity in the AI age.",
-        "title_original": "Walter Isaacson on curiosity and creativity in the AI age.",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson",
-        "source": "Google AI Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-20T16:03:42.023554Z"
+        "scored_at": "2026-11-20T22:08:33.561661Z"
       }
     },
     {
@@ -542,15 +708,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7404,
-      "importance": 0.7404,
-      "importance_score": 0.7404,
+      "score": 0.7262,
+      "importance": 0.7262,
+      "importance_score": 0.7262,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.684,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.9644,
+        "recency": 0.8853,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -575,30 +741,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T16:03:42.023554Z"
+        "scored_at": "2026-11-20T22:08:33.561661Z"
       }
     },
     {
-      "story_id": "story_99c3c3718f01",
-      "title": "Azure DevOps 的企业实时迁移全面可用 / Enterprise Live Migrations from Azure DevOps generally available",
-      "url": "https://github.blog/changelog/2026-11-19-enterprise-live-migrations-from-azure-devops-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-11-19-enterprise-live-migrations-from-azure-devops-generally-available",
+      "story_id": "story_8bfa75615929",
+      "title": "GitHub Desktop 现在支持每个主机多个帐户 / GitHub Desktop now supports multiple accounts per host",
+      "url": "https://github.blog/changelog/2026-11-19-github-desktop-now-supports-multiple-accounts-per-host",
+      "primary_url": "https://github.blog/changelog/2026-11-19-github-desktop-now-supports-multiple-accounts-per-host",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "2fa244df4937d160d117c1567dbb5fafb1257489",
-          "title": "Azure DevOps 的企业实时迁移全面可用 / Enterprise Live Migrations from Azure DevOps generally available",
-          "title_zh": "Azure DevOps 的企业实时迁移全面可用",
-          "title_en": "Enterprise Live Migrations from Azure DevOps generally available",
-          "title_original": "Enterprise Live Migrations from Azure DevOps generally available",
+          "id": "4153f14f8744315b507c166df3e939c015d28122",
+          "title": "GitHub Desktop 现在支持每个主机多个帐户 / GitHub Desktop now supports multiple accounts per host",
+          "title_zh": "GitHub Desktop 现在支持每个主机多个帐户",
+          "title_en": "GitHub Desktop now supports multiple accounts per host",
+          "title_original": "GitHub Desktop now supports multiple accounts per host",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-19-enterprise-live-migrations-from-azure-devops-generally-available",
+          "url": "https://github.blog/changelog/2026-11-19-github-desktop-now-supports-multiple-accounts-per-host",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-19T18:50:57Z"
+          "published_at": "2026-11-20T02:06:01Z"
         }
       ],
       "source_count": 1,
@@ -607,31 +773,31 @@
       ],
       "items": [
         {
-          "id": "2fa244df4937d160d117c1567dbb5fafb1257489",
-          "title": "Azure DevOps 的企业实时迁移全面可用 / Enterprise Live Migrations from Azure DevOps generally available",
-          "title_zh": "Azure DevOps 的企业实时迁移全面可用",
-          "title_en": "Enterprise Live Migrations from Azure DevOps generally available",
-          "title_original": "Enterprise Live Migrations from Azure DevOps generally available",
+          "id": "4153f14f8744315b507c166df3e939c015d28122",
+          "title": "GitHub Desktop 现在支持每个主机多个帐户 / GitHub Desktop now supports multiple accounts per host",
+          "title_zh": "GitHub Desktop 现在支持每个主机多个帐户",
+          "title_en": "GitHub Desktop now supports multiple accounts per host",
+          "title_original": "GitHub Desktop now supports multiple accounts per host",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-19-enterprise-live-migrations-from-azure-devops-generally-available",
+          "url": "https://github.blog/changelog/2026-11-19-github-desktop-now-supports-multiple-accounts-per-host",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-19T18:50:57Z"
+          "published_at": "2026-11-20T02:06:01Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7746,
-      "importance": 0.7746,
-      "importance_score": 0.7746,
+      "score": 0.7712,
+      "importance": 0.7712,
+      "importance_score": 0.7712,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.76,
-        "recency": 0.7367,
+        "ai_relevance": 0.73,
+        "recency": 0.751,
         "story_heat": 0.0
       },
       "category": "official",
@@ -639,17 +805,17 @@
         "official_source",
         "high_importance"
       ],
-      "earliest_at": "2026-11-19T18:50:57Z",
-      "latest_at": "2026-11-19T18:50:57Z",
+      "earliest_at": "2026-11-20T02:06:01Z",
+      "latest_at": "2026-11-20T02:06:01Z",
       "primary_item": {
-        "id": "2fa244df4937d160d117c1567dbb5fafb1257489",
-        "title": "Azure DevOps 的企业实时迁移全面可用 / Enterprise Live Migrations from Azure DevOps generally available",
-        "title_zh": "Azure DevOps 的企业实时迁移全面可用",
-        "title_en": "Enterprise Live Migrations from Azure DevOps generally available",
-        "title_original": "Enterprise Live Migrations from Azure DevOps generally available",
+        "id": "4153f14f8744315b507c166df3e939c015d28122",
+        "title": "GitHub Desktop 现在支持每个主机多个帐户 / GitHub Desktop now supports multiple accounts per host",
+        "title_zh": "GitHub Desktop 现在支持每个主机多个帐户",
+        "title_en": "GitHub Desktop now supports multiple accounts per host",
+        "title_original": "GitHub Desktop now supports multiple accounts per host",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-19-enterprise-live-migrations-from-azure-devops-generally-available",
+        "url": "https://github.blog/changelog/2026-11-19-github-desktop-now-supports-multiple-accounts-per-host",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -657,7 +823,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T16:03:42.023554Z"
+        "scored_at": "2026-11-20T22:08:33.561661Z"
       }
     },
     {
@@ -705,15 +871,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7404,
-      "importance": 0.7404,
-      "importance_score": 0.7404,
+      "score": 0.7262,
+      "importance": 0.7262,
+      "importance_score": 0.7262,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.684,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.9644,
+        "recency": 0.8853,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -738,7 +904,309 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T16:03:42.023554Z"
+        "scored_at": "2026-11-20T22:08:33.561661Z"
+      }
+    },
+    {
+      "story_id": "story_aad164d82eda",
+      "title": "消息人士称，英伟达的会计处理正接受美国证券交易委员会（SEC）的调查 / Nvidia accounting under SEC investigation, sources say",
+      "url": "https://finance.yahoo.com/markets/article/nvidia-stock-extends-25-trillion-rout-as-sec-probe-reportedly-investigates-its-accounting-194945274.html",
+      "primary_url": "https://finance.yahoo.com/markets/article/nvidia-stock-extends-25-trillion-rout-as-sec-probe-reportedly-investigates-its-accounting-194945274.html",
+      "source": "Hacker News front page",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "8b4fa0d6ad5f1bda4bbfda54bfe2afe33f0a330c",
+          "title": "消息人士称，英伟达的会计处理正接受美国证券交易委员会（SEC）的调查 / Nvidia accounting under SEC investigation, sources say",
+          "title_zh": "消息人士称，英伟达的会计处理正接受美国证券交易委员会（SEC）的调查",
+          "title_en": "Nvidia accounting under SEC investigation, sources say",
+          "title_original": "Nvidia accounting under SEC investigation, sources say",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://finance.yahoo.com/markets/article/nvidia-stock-extends-25-trillion-rout-as-sec-probe-reportedly-investigates-its-accounting-194945274.html",
+          "source": "Hacker News front page",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-11-20T20:22:41Z"
+        },
+        {
+          "id": "104ffa85330b2ca3866bb157c8cff3cd2b1de88a",
+          "title": "消息人士称，英伟达的会计处理正接受美国证券交易委员会（SEC）的调查",
+          "title_zh": "消息人士称，英伟达的会计处理正接受美国证券交易委员会（SEC）的调查",
+          "title_en": null,
+          "title_original": "消息人士称，英伟达的会计处理正接受美国证券交易委员会（SEC）的调查",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://finance.yahoo.com/markets/article/nvidia-stock-extends-25-trillion-rout-as-sec-probe-reportedly-investigates-its-accounting-194945274.html",
+          "source": "finance.yahoo.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-20T21:44:50.794000Z"
+        },
+        {
+          "id": "d58715fd59cd91abd3401e1010b5f64482cef8c1",
+          "title": "Nvidia accounting under SEC investigation, sources say",
+          "title_zh": null,
+          "title_en": "Nvidia accounting under SEC investigation, sources say",
+          "title_original": "Nvidia accounting under SEC investigation, sources say",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50581438",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-20T20:22:41Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News front page",
+        "finance.yahoo.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "8b4fa0d6ad5f1bda4bbfda54bfe2afe33f0a330c",
+          "title": "消息人士称，英伟达的会计处理正接受美国证券交易委员会（SEC）的调查 / Nvidia accounting under SEC investigation, sources say",
+          "title_zh": "消息人士称，英伟达的会计处理正接受美国证券交易委员会（SEC）的调查",
+          "title_en": "Nvidia accounting under SEC investigation, sources say",
+          "title_original": "Nvidia accounting under SEC investigation, sources say",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://finance.yahoo.com/markets/article/nvidia-stock-extends-25-trillion-rout-as-sec-probe-reportedly-investigates-its-accounting-194945274.html",
+          "source": "Hacker News front page",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-11-20T20:22:41Z"
+        },
+        {
+          "id": "104ffa85330b2ca3866bb157c8cff3cd2b1de88a",
+          "title": "消息人士称，英伟达的会计处理正接受美国证券交易委员会（SEC）的调查",
+          "title_zh": "消息人士称，英伟达的会计处理正接受美国证券交易委员会（SEC）的调查",
+          "title_en": null,
+          "title_original": "消息人士称，英伟达的会计处理正接受美国证券交易委员会（SEC）的调查",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://finance.yahoo.com/markets/article/nvidia-stock-extends-25-trillion-rout-as-sec-probe-reportedly-investigates-its-accounting-194945274.html",
+          "source": "finance.yahoo.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-20T21:44:50.794000Z"
+        },
+        {
+          "id": "d58715fd59cd91abd3401e1010b5f64482cef8c1",
+          "title": "Nvidia accounting under SEC investigation, sources say",
+          "title_zh": null,
+          "title_en": "Nvidia accounting under SEC investigation, sources say",
+          "title_original": "Nvidia accounting under SEC investigation, sources say",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50581438",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-20T20:22:41Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.6781,
+      "importance": 0.6781,
+      "importance_score": 0.6781,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.5616,
+        "source_tier": 0.58,
+        "ai_relevance": 0.78,
+        "recency": 0.9778,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-20T20:22:41Z",
+      "latest_at": "2026-11-20T21:44:50.794000Z",
+      "primary_item": {
+        "id": "8b4fa0d6ad5f1bda4bbfda54bfe2afe33f0a330c",
+        "title": "消息人士称，英伟达的会计处理正接受美国证券交易委员会（SEC）的调查 / Nvidia accounting under SEC investigation, sources say",
+        "title_zh": "消息人士称，英伟达的会计处理正接受美国证券交易委员会（SEC）的调查",
+        "title_en": "Nvidia accounting under SEC investigation, sources say",
+        "title_original": "Nvidia accounting under SEC investigation, sources say",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://finance.yahoo.com/markets/article/nvidia-stock-extends-25-trillion-rout-as-sec-probe-reportedly-investigates-its-accounting-194945274.html",
+        "source": "Hacker News front page",
+        "source_name": "Curated Media"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-20T22:08:33.561661Z"
+      }
+    },
+    {
+      "story_id": "story_5c21545858a7",
+      "title": "公共预览版中拉取请求概述的改进 / Improvements on the pull request overview in public preview",
+      "url": "https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview",
+      "primary_url": "https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "55c28a98855c92957202c130c8939308b0edf0e2",
+          "title": "公共预览版中拉取请求概述的改进 / Improvements on the pull request overview in public preview",
+          "title_zh": "公共预览版中拉取请求概述的改进",
+          "title_en": "Improvements on the pull request overview in public preview",
+          "title_original": "Improvements on the pull request overview in public preview",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-20T00:02:21Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "55c28a98855c92957202c130c8939308b0edf0e2",
+          "title": "公共预览版中拉取请求概述的改进 / Improvements on the pull request overview in public preview",
+          "title_zh": "公共预览版中拉取请求概述的改进",
+          "title_en": "Improvements on the pull request overview in public preview",
+          "title_original": "Improvements on the pull request overview in public preview",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-20T00:02:21Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7672,
+      "importance": 0.7672,
+      "importance_score": 0.7672,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.73,
+        "recency": 0.729,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-20T00:02:21Z",
+      "latest_at": "2026-11-20T00:02:21Z",
+      "primary_item": {
+        "id": "55c28a98855c92957202c130c8939308b0edf0e2",
+        "title": "公共预览版中拉取请求概述的改进 / Improvements on the pull request overview in public preview",
+        "title_zh": "公共预览版中拉取请求概述的改进",
+        "title_en": "Improvements on the pull request overview in public preview",
+        "title_original": "Improvements on the pull request overview in public preview",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-20T22:08:33.561661Z"
+      }
+    },
+    {
+      "story_id": "story_5f36994b06bd",
+      "title": "敲钟前夜收到联名信：90 位大奖得主质疑 Anthropic 安全人设",
+      "url": "https://www.aibase.com/news/32438",
+      "primary_url": "https://www.aibase.com/news/32438",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "7e86a929c1a37aa532fbce60fe56784ae6f58168",
+          "title": "敲钟前夜收到联名信：90 位大奖得主质疑 Anthropic 安全人设",
+          "title_zh": "敲钟前夜收到联名信：90 位大奖得主质疑 Anthropic 安全人设",
+          "title_en": null,
+          "title_original": "敲钟前夜收到联名信：90 位大奖得主质疑 Anthropic 安全人设",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32438",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-20T13:29:52.709909Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "7e86a929c1a37aa532fbce60fe56784ae6f58168",
+          "title": "敲钟前夜收到联名信：90 位大奖得主质疑 Anthropic 安全人设",
+          "title_zh": "敲钟前夜收到联名信：90 位大奖得主质疑 Anthropic 安全人设",
+          "title_en": null,
+          "title_original": "敲钟前夜收到联名信：90 位大奖得主质疑 Anthropic 安全人设",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32438",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-20T13:29:52.709909Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7262,
+      "importance": 0.7262,
+      "importance_score": 0.7262,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.684,
+        "source_tier": 0.78,
+        "ai_relevance": 0.95,
+        "recency": 0.8853,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-20T13:29:52.709909Z",
+      "latest_at": "2026-11-20T13:29:52.709909Z",
+      "primary_item": {
+        "id": "7e86a929c1a37aa532fbce60fe56784ae6f58168",
+        "title": "敲钟前夜收到联名信：90 位大奖得主质疑 Anthropic 安全人设",
+        "title_zh": "敲钟前夜收到联名信：90 位大奖得主质疑 Anthropic 安全人设",
+        "title_en": null,
+        "title_original": "敲钟前夜收到联名信：90 位大奖得主质疑 Anthropic 安全人设",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32438",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-20T22:08:33.561661Z"
       }
     },
     {
@@ -844,15 +1312,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6901,
-      "importance": 0.6901,
-      "importance_score": 0.6901,
+      "score": 0.6757,
+      "importance": 0.6757,
+      "importance_score": 0.6757,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5832,
         "source_tier": 0.58,
         "ai_relevance": 0.81,
-        "recency": 0.9753,
+        "recency": 0.8953,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -878,170 +1346,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T16:03:42.023554Z"
-      }
-    },
-    {
-      "story_id": "story_98815cd1b0b3",
-      "title": "红帽企业 Linux 运行器镜像现已全面上市 / Red Hat Enterprise Linux runner images now generally available",
-      "url": "https://github.blog/changelog/2026-11-19-red-hat-enterprise-linux-runner-images-now-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-11-19-red-hat-enterprise-linux-runner-images-now-generally-available",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "95b2e4b00ea9e815ab7b8adcae7d6757a5235dea",
-          "title": "红帽企业 Linux 运行器镜像现已全面上市 / Red Hat Enterprise Linux runner images now generally available",
-          "title_zh": "红帽企业 Linux 运行器镜像现已全面上市",
-          "title_en": "Red Hat Enterprise Linux runner images now generally available",
-          "title_original": "Red Hat Enterprise Linux runner images now generally available",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-19-red-hat-enterprise-linux-runner-images-now-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-19T18:48:46Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "95b2e4b00ea9e815ab7b8adcae7d6757a5235dea",
-          "title": "红帽企业 Linux 运行器镜像现已全面上市 / Red Hat Enterprise Linux runner images now generally available",
-          "title_zh": "红帽企业 Linux 运行器镜像现已全面上市",
-          "title_en": "Red Hat Enterprise Linux runner images now generally available",
-          "title_original": "Red Hat Enterprise Linux runner images now generally available",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-19-red-hat-enterprise-linux-runner-images-now-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-19T18:48:46Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7745,
-      "importance": 0.7745,
-      "importance_score": 0.7745,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.76,
-        "recency": 0.7363,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-19T18:48:46Z",
-      "latest_at": "2026-11-19T18:48:46Z",
-      "primary_item": {
-        "id": "95b2e4b00ea9e815ab7b8adcae7d6757a5235dea",
-        "title": "红帽企业 Linux 运行器镜像现已全面上市 / Red Hat Enterprise Linux runner images now generally available",
-        "title_zh": "红帽企业 Linux 运行器镜像现已全面上市",
-        "title_en": "Red Hat Enterprise Linux runner images now generally available",
-        "title_original": "Red Hat Enterprise Linux runner images now generally available",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-19-red-hat-enterprise-linux-runner-images-now-generally-available",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-20T16:03:42.023554Z"
-      }
-    },
-    {
-      "story_id": "story_5f36994b06bd",
-      "title": "敲钟前夜收到联名信：90 位大奖得主质疑 Anthropic 安全人设",
-      "url": "https://www.aibase.com/news/32438",
-      "primary_url": "https://www.aibase.com/news/32438",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "7e86a929c1a37aa532fbce60fe56784ae6f58168",
-          "title": "敲钟前夜收到联名信：90 位大奖得主质疑 Anthropic 安全人设",
-          "title_zh": "敲钟前夜收到联名信：90 位大奖得主质疑 Anthropic 安全人设",
-          "title_en": null,
-          "title_original": "敲钟前夜收到联名信：90 位大奖得主质疑 Anthropic 安全人设",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32438",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-20T13:29:52.709909Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "7e86a929c1a37aa532fbce60fe56784ae6f58168",
-          "title": "敲钟前夜收到联名信：90 位大奖得主质疑 Anthropic 安全人设",
-          "title_zh": "敲钟前夜收到联名信：90 位大奖得主质疑 Anthropic 安全人设",
-          "title_en": null,
-          "title_original": "敲钟前夜收到联名信：90 位大奖得主质疑 Anthropic 安全人设",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32438",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-20T13:29:52.709909Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7404,
-      "importance": 0.7404,
-      "importance_score": 0.7404,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.684,
-        "source_tier": 0.78,
-        "ai_relevance": 0.95,
-        "recency": 0.9644,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-20T13:29:52.709909Z",
-      "latest_at": "2026-11-20T13:29:52.709909Z",
-      "primary_item": {
-        "id": "7e86a929c1a37aa532fbce60fe56784ae6f58168",
-        "title": "敲钟前夜收到联名信：90 位大奖得主质疑 Anthropic 安全人设",
-        "title_zh": "敲钟前夜收到联名信：90 位大奖得主质疑 Anthropic 安全人设",
-        "title_en": null,
-        "title_original": "敲钟前夜收到联名信：90 位大奖得主质疑 Anthropic 安全人设",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32438",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-20T16:03:42.023554Z"
+        "scored_at": "2026-11-20T22:08:33.561661Z"
       }
     },
     {
@@ -1089,15 +1394,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7404,
-      "importance": 0.7404,
-      "importance_score": 0.7404,
+      "score": 0.7262,
+      "importance": 0.7262,
+      "importance_score": 0.7262,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.684,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.9644,
+        "recency": 0.8853,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1122,12 +1427,12 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T16:03:42.023554Z"
+        "scored_at": "2026-11-20T22:08:33.561661Z"
       }
     },
     {
       "story_id": "story_f4a132de0520",
-      "title": "Anthropic 创纪录的 IPO 未能阻止人工智能抛售，全球股市暴跌 / Global stock markets slump as Anthropic's record IPO fails to stem AI sell-off",
+      "title": "Anthropic创纪录的IPO未能遏制人工智能股的抛售潮，全球股市应声下跌 / Global stock markets slump as Anthropic's record IPO fails to stem AI sell-off",
       "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
       "primary_url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
       "source": "Hacker News front page",
@@ -1135,8 +1440,8 @@
       "sources": [
         {
           "id": "420cd49f1941de8ed6676c0bbcf423a059d4d0b8",
-          "title": "Anthropic 创纪录的 IPO 未能阻止人工智能抛售，全球股市暴跌 / Global stock markets slump as Anthropic's record IPO fails to stem AI sell-off",
-          "title_zh": "Anthropic 创纪录的 IPO 未能阻止人工智能抛售，全球股市暴跌",
+          "title": "Anthropic创纪录的IPO未能遏制人工智能股的抛售潮，全球股市应声下跌 / Global stock markets slump as Anthropic's record IPO fails to stem AI sell-off",
+          "title_zh": "Anthropic创纪录的IPO未能遏制人工智能股的抛售潮，全球股市应声下跌",
           "title_en": "Global stock markets slump as Anthropic's record IPO fails to stem AI sell-off",
           "title_original": "Global stock markets slump as Anthropic's record IPO fails to stem AI sell-off",
           "summary": null,
@@ -1146,6 +1451,20 @@
           "source_name": "Curated Media",
           "site_id": "curated_media",
           "published_at": "2026-11-20T13:29:59Z"
+        },
+        {
+          "id": "09e19c64d1b83d0efea39d47a626ebd3e5f9b7ae",
+          "title": "Anthropic创纪录的IPO未能遏制人工智能股的抛售潮，全球股市应声下跌",
+          "title_zh": "Anthropic创纪录的IPO未能遏制人工智能股的抛售潮，全球股市应声下跌",
+          "title_en": null,
+          "title_original": "Anthropic创纪录的IPO未能遏制人工智能股的抛售潮，全球股市应声下跌",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+          "source": "www.theguardian.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-20T16:08:55.353000Z"
         },
         {
           "id": "c9aaef019cbf5017f215180e4bb1e48ba48ba0e3",
@@ -1162,16 +1481,17 @@
           "published_at": "2026-11-20T13:29:59Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 3,
       "source_names": [
         "Hacker News front page",
-        "hackernews"
+        "hackernews",
+        "www.theguardian.com"
       ],
       "items": [
         {
           "id": "420cd49f1941de8ed6676c0bbcf423a059d4d0b8",
-          "title": "Anthropic 创纪录的 IPO 未能阻止人工智能抛售，全球股市暴跌 / Global stock markets slump as Anthropic's record IPO fails to stem AI sell-off",
-          "title_zh": "Anthropic 创纪录的 IPO 未能阻止人工智能抛售，全球股市暴跌",
+          "title": "Anthropic创纪录的IPO未能遏制人工智能股的抛售潮，全球股市应声下跌 / Global stock markets slump as Anthropic's record IPO fails to stem AI sell-off",
+          "title_zh": "Anthropic创纪录的IPO未能遏制人工智能股的抛售潮，全球股市应声下跌",
           "title_en": "Global stock markets slump as Anthropic's record IPO fails to stem AI sell-off",
           "title_original": "Global stock markets slump as Anthropic's record IPO fails to stem AI sell-off",
           "summary": null,
@@ -1181,6 +1501,20 @@
           "source_name": "Curated Media",
           "site_id": "curated_media",
           "published_at": "2026-11-20T13:29:59Z"
+        },
+        {
+          "id": "09e19c64d1b83d0efea39d47a626ebd3e5f9b7ae",
+          "title": "Anthropic创纪录的IPO未能遏制人工智能股的抛售潮，全球股市应声下跌",
+          "title_zh": "Anthropic创纪录的IPO未能遏制人工智能股的抛售潮，全球股市应声下跌",
+          "title_en": null,
+          "title_original": "Anthropic创纪录的IPO未能遏制人工智能股的抛售潮，全球股市应声下跌",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+          "source": "www.theguardian.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-20T16:08:55.353000Z"
         },
         {
           "id": "c9aaef019cbf5017f215180e4bb1e48ba48ba0e3",
@@ -1197,30 +1531,30 @@
           "published_at": "2026-11-20T13:29:59Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6632,
-      "importance": 0.6632,
-      "importance_score": 0.6632,
-      "importance_label": "值得关注",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.6739,
+      "importance": 0.6739,
+      "importance_score": 0.6739,
+      "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5832,
         "source_tier": 0.58,
         "ai_relevance": 0.81,
-        "recency": 0.9644,
-        "story_heat": 0.25
+        "recency": 0.8854,
+        "story_heat": 0.5
       },
-      "category": "watch",
+      "category": "multi_source",
       "reasons": [
         "multi_source",
         "high_ai_relevance"
       ],
       "earliest_at": "2026-11-20T13:29:59Z",
-      "latest_at": "2026-11-20T13:29:59Z",
+      "latest_at": "2026-11-20T16:08:55.353000Z",
       "primary_item": {
         "id": "420cd49f1941de8ed6676c0bbcf423a059d4d0b8",
-        "title": "Anthropic 创纪录的 IPO 未能阻止人工智能抛售，全球股市暴跌 / Global stock markets slump as Anthropic's record IPO fails to stem AI sell-off",
-        "title_zh": "Anthropic 创纪录的 IPO 未能阻止人工智能抛售，全球股市暴跌",
+        "title": "Anthropic创纪录的IPO未能遏制人工智能股的抛售潮，全球股市应声下跌 / Global stock markets slump as Anthropic's record IPO fails to stem AI sell-off",
+        "title_zh": "Anthropic创纪录的IPO未能遏制人工智能股的抛售潮，全球股市应声下跌",
         "title_en": "Global stock markets slump as Anthropic's record IPO fails to stem AI sell-off",
         "title_original": "Global stock markets slump as Anthropic's record IPO fails to stem AI sell-off",
         "summary": null,
@@ -1233,647 +1567,146 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T16:03:42.023554Z"
+        "scored_at": "2026-11-20T22:08:33.561661Z"
       }
     },
     {
-      "story_id": "story_cba6afa118a5",
-      "title": "Anthropic 的 IPO 可能会向慈善机构捐赠 156B 美元 / Anthropic’s IPO could deliver $156B to charity",
-      "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity",
-      "primary_url": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity",
-      "source": "TechCrunch AI",
-      "source_name": "Curated Media",
+      "story_id": "story_c0f18f4c2f9b",
+      "title": "Anthropic Shares Tank After Huge IPO As the Nasdaq Erases 2026 Gains",
+      "url": "https://news.slashdot.org/story/26/11/20/1934244/anthropic-shares-tank-after-huge-ipo-as-the-nasdaq-erases-2026-gains",
+      "primary_url": "https://news.slashdot.org/story/26/11/20/1934244/anthropic-shares-tank-after-huge-ipo-as-the-nasdaq-erases-2026-gains",
+      "source": "Slashdot",
+      "source_name": "TechURLs",
       "sources": [
         {
-          "id": "32a10deeb8468475f2b24888fcff5e02d493881a",
-          "title": "Anthropic 的 IPO 可能会向慈善机构捐赠 156B 美元 / Anthropic’s IPO could deliver $156B to charity",
-          "title_zh": "Anthropic 的 IPO 可能会向慈善机构捐赠 156B 美元",
-          "title_en": "Anthropic’s IPO could deliver $156B to charity",
-          "title_original": "Anthropic’s IPO could deliver $156B to charity",
+          "id": "d881189130388ecfd4e493aba95707c738c642c1",
+          "title": "Anthropic Shares Tank After Huge IPO As the Nasdaq Erases 2026 Gains",
+          "title_zh": null,
+          "title_en": "Anthropic Shares Tank After Huge IPO As the Nasdaq Erases 2026 Gains",
+          "title_original": "Anthropic Shares Tank After Huge IPO As the Nasdaq Erases 2026 Gains",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-11-19T19:10:45Z"
-        },
-        {
-          "id": "d9e2e1b01559772660549adf83a7e38b6345e46a",
-          "title": "Anthropic 的 IPO 将为慈善事业带来 1560 亿美元的收益 / Anthropic’s IPO could deliver $156 billion to charity",
-          "title_zh": "Anthropic 的 IPO 将为慈善事业带来 1560 亿美元的收益",
-          "title_en": "Anthropic’s IPO could deliver $156 billion to charity",
-          "title_original": "Anthropic’s IPO could deliver $156 billion to charity",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity",
-          "source": "TechCrunch",
+          "url": "https://news.slashdot.org/story/26/11/20/1934244/anthropic-shares-tank-after-huge-ipo-as-the-nasdaq-erases-2026-gains",
+          "source": "Slashdot",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-11-19T19:10:45Z"
+          "published_at": "2026-11-20T21:00:00Z"
+        },
+        {
+          "id": "b11f44c526275e2813bc4aaae82730f00f5498dc",
+          "title": "Anthropic上市后股价暴跌，纳斯达克指数抹去2026年以来的涨幅",
+          "title_zh": "Anthropic上市后股价暴跌，纳斯达克指数抹去2026年以来的涨幅",
+          "title_en": null,
+          "title_original": "Anthropic上市后股价暴跌，纳斯达克指数抹去2026年以来的涨幅",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394",
+          "source": "www.nbcnews.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-20T19:36:57.777000Z"
+        },
+        {
+          "id": "966fa3a46d9bb4c5407857e91539bcba45901d2a",
+          "title": "Anthropic上市后股价暴跌，纳斯达克指数抹去2026年以来的涨幅 / Anthropic shares tank after IPO as the Nasdaq erases 2026 gains",
+          "title_zh": "Anthropic上市后股价暴跌，纳斯达克指数抹去2026年以来的涨幅",
+          "title_en": "Anthropic shares tank after IPO as the Nasdaq erases 2026 gains",
+          "title_original": "Anthropic shares tank after IPO as the Nasdaq erases 2026 gains",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-20T17:44:01Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 3,
       "source_names": [
-        "TechCrunch",
-        "TechCrunch AI"
+        "Hacker News · 24h最热",
+        "Slashdot",
+        "www.nbcnews.com"
       ],
       "items": [
         {
-          "id": "32a10deeb8468475f2b24888fcff5e02d493881a",
-          "title": "Anthropic 的 IPO 可能会向慈善机构捐赠 156B 美元 / Anthropic’s IPO could deliver $156B to charity",
-          "title_zh": "Anthropic 的 IPO 可能会向慈善机构捐赠 156B 美元",
-          "title_en": "Anthropic’s IPO could deliver $156B to charity",
-          "title_original": "Anthropic’s IPO could deliver $156B to charity",
+          "id": "d881189130388ecfd4e493aba95707c738c642c1",
+          "title": "Anthropic Shares Tank After Huge IPO As the Nasdaq Erases 2026 Gains",
+          "title_zh": null,
+          "title_en": "Anthropic Shares Tank After Huge IPO As the Nasdaq Erases 2026 Gains",
+          "title_original": "Anthropic Shares Tank After Huge IPO As the Nasdaq Erases 2026 Gains",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-11-19T19:10:45Z"
-        },
-        {
-          "id": "d9e2e1b01559772660549adf83a7e38b6345e46a",
-          "title": "Anthropic 的 IPO 将为慈善事业带来 1560 亿美元的收益 / Anthropic’s IPO could deliver $156 billion to charity",
-          "title_zh": "Anthropic 的 IPO 将为慈善事业带来 1560 亿美元的收益",
-          "title_en": "Anthropic’s IPO could deliver $156 billion to charity",
-          "title_original": "Anthropic’s IPO could deliver $156 billion to charity",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity",
-          "source": "TechCrunch",
+          "url": "https://news.slashdot.org/story/26/11/20/1934244/anthropic-shares-tank-after-huge-ipo-as-the-nasdaq-erases-2026-gains",
+          "source": "Slashdot",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-11-19T19:10:45Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6228,
-      "importance": 0.6228,
-      "importance_score": 0.6228,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.5832,
-        "source_tier": 0.58,
-        "ai_relevance": 0.81,
-        "recency": 0.7402,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-19T19:10:45Z",
-      "latest_at": "2026-11-19T19:10:45Z",
-      "primary_item": {
-        "id": "32a10deeb8468475f2b24888fcff5e02d493881a",
-        "title": "Anthropic 的 IPO 可能会向慈善机构捐赠 156B 美元 / Anthropic’s IPO could deliver $156B to charity",
-        "title_zh": "Anthropic 的 IPO 可能会向慈善机构捐赠 156B 美元",
-        "title_en": "Anthropic’s IPO could deliver $156B to charity",
-        "title_original": "Anthropic’s IPO could deliver $156B to charity",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity",
-        "source": "TechCrunch AI",
-        "source_name": "Curated Media"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-20T16:03:42.023554Z"
-      }
-    },
-    {
-      "story_id": "story_9f4cc375e61b",
-      "title": "Anthropic在纳斯达克上市首日市值突破2万亿美元 / Anthropic hits $2T in Nasdaq debut",
-      "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19",
-      "primary_url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19",
-      "source": "Hacker News front page",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "ea953e621816c1421c6c8fc0f94c09003fcb59fe",
-          "title": "Anthropic在纳斯达克上市首日市值突破2万亿美元 / Anthropic hits $2T in Nasdaq debut",
-          "title_zh": "Anthropic在纳斯达克上市首日市值突破2万亿美元",
-          "title_en": "Anthropic hits $2T in Nasdaq debut",
-          "title_original": "Anthropic hits $2T in Nasdaq debut",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19",
-          "source": "Hacker News front page",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-11-19T17:02:40Z"
+          "published_at": "2026-11-20T21:00:00Z"
         },
         {
-          "id": "ba59d45aff8a47a8d408129c772fc374b836003c",
-          "title": "Anthropic在纳斯达克上市首日市值突破2万亿美元",
-          "title_zh": "Anthropic在纳斯达克上市首日市值突破2万亿美元",
+          "id": "b11f44c526275e2813bc4aaae82730f00f5498dc",
+          "title": "Anthropic上市后股价暴跌，纳斯达克指数抹去2026年以来的涨幅",
+          "title_zh": "Anthropic上市后股价暴跌，纳斯达克指数抹去2026年以来的涨幅",
           "title_en": null,
-          "title_original": "Anthropic在纳斯达克上市首日市值突破2万亿美元",
+          "title_original": "Anthropic上市后股价暴跌，纳斯达克指数抹去2026年以来的涨幅",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19",
-          "source": "www.reuters.com",
+          "url": "https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394",
+          "source": "www.nbcnews.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-11-19T18:19:45.063000Z"
+          "published_at": "2026-11-20T19:36:57.777000Z"
         },
         {
-          "id": "e2d103a7fdb3b74264ce7a7fb357617429fa4219",
-          "title": "Anthropic 在纳斯达克首次亮相就突破 2T 美元 / Anthropic hits $2T in Nasdaq debut",
-          "title_zh": "Anthropic 在纳斯达克首次亮相就突破 2T 美元",
-          "title_en": "Anthropic hits $2T in Nasdaq debut",
-          "title_original": "Anthropic hits $2T in Nasdaq debut",
+          "id": "966fa3a46d9bb4c5407857e91539bcba45901d2a",
+          "title": "Anthropic上市后股价暴跌，纳斯达克指数抹去2026年以来的涨幅 / Anthropic shares tank after IPO as the Nasdaq erases 2026 gains",
+          "title_zh": "Anthropic上市后股价暴跌，纳斯达克指数抹去2026年以来的涨幅",
+          "title_en": "Anthropic shares tank after IPO as the Nasdaq erases 2026 gains",
+          "title_original": "Anthropic shares tank after IPO as the Nasdaq erases 2026 gains",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50562754",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-19T17:02:40Z"
-        },
-        {
-          "id": "82f7f71db83136ed823dfd92f50ab621cfeecd4f",
-          "title": "Anthropic 在纳斯达克首次亮相 / Anthropic’s Nasdaq debut",
-          "title_zh": "Anthropic 在纳斯达克首次亮相",
-          "title_en": "Anthropic’s Nasdaq debut",
-          "title_original": "Anthropic’s Nasdaq debut",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50562754",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-19T17:02:40Z"
+          "url": "https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-20T17:44:01Z"
         }
       ],
-      "source_count": 4,
-      "source_names": [
-        "Hacker News front page",
-        "hackernews",
-        "www.reuters.com"
-      ],
-      "items": [
-        {
-          "id": "ea953e621816c1421c6c8fc0f94c09003fcb59fe",
-          "title": "Anthropic在纳斯达克上市首日市值突破2万亿美元 / Anthropic hits $2T in Nasdaq debut",
-          "title_zh": "Anthropic在纳斯达克上市首日市值突破2万亿美元",
-          "title_en": "Anthropic hits $2T in Nasdaq debut",
-          "title_original": "Anthropic hits $2T in Nasdaq debut",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19",
-          "source": "Hacker News front page",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-11-19T17:02:40Z"
-        },
-        {
-          "id": "ba59d45aff8a47a8d408129c772fc374b836003c",
-          "title": "Anthropic在纳斯达克上市首日市值突破2万亿美元",
-          "title_zh": "Anthropic在纳斯达克上市首日市值突破2万亿美元",
-          "title_en": null,
-          "title_original": "Anthropic在纳斯达克上市首日市值突破2万亿美元",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19",
-          "source": "www.reuters.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-19T18:19:45.063000Z"
-        },
-        {
-          "id": "e2d103a7fdb3b74264ce7a7fb357617429fa4219",
-          "title": "Anthropic 在纳斯达克首次亮相就突破 2T 美元 / Anthropic hits $2T in Nasdaq debut",
-          "title_zh": "Anthropic 在纳斯达克首次亮相就突破 2T 美元",
-          "title_en": "Anthropic hits $2T in Nasdaq debut",
-          "title_original": "Anthropic hits $2T in Nasdaq debut",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50562754",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-19T17:02:40Z"
-        },
-        {
-          "id": "82f7f71db83136ed823dfd92f50ab621cfeecd4f",
-          "title": "Anthropic 在纳斯达克首次亮相 / Anthropic’s Nasdaq debut",
-          "title_zh": "Anthropic 在纳斯达克首次亮相",
-          "title_en": "Anthropic’s Nasdaq debut",
-          "title_original": "Anthropic’s Nasdaq debut",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50562754",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-19T17:02:40Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.6563,
-      "importance": 0.6563,
-      "importance_score": 0.6563,
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.6017,
+      "importance": 0.6017,
+      "importance_score": 0.6017,
       "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.5616,
-        "source_tier": 0.58,
-        "ai_relevance": 0.78,
-        "recency": 0.7178,
-        "story_heat": 0.75
+        "editorial": 0.5256,
+        "source_tier": 0.32,
+        "ai_relevance": 0.73,
+        "recency": 0.9866,
+        "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-19T17:02:40Z",
-      "latest_at": "2026-11-19T18:19:45.063000Z",
+      "earliest_at": "2026-11-20T17:44:01Z",
+      "latest_at": "2026-11-20T21:00:00Z",
       "primary_item": {
-        "id": "ea953e621816c1421c6c8fc0f94c09003fcb59fe",
-        "title": "Anthropic在纳斯达克上市首日市值突破2万亿美元 / Anthropic hits $2T in Nasdaq debut",
-        "title_zh": "Anthropic在纳斯达克上市首日市值突破2万亿美元",
-        "title_en": "Anthropic hits $2T in Nasdaq debut",
-        "title_original": "Anthropic hits $2T in Nasdaq debut",
+        "id": "d881189130388ecfd4e493aba95707c738c642c1",
+        "title": "Anthropic Shares Tank After Huge IPO As the Nasdaq Erases 2026 Gains",
+        "title_zh": null,
+        "title_en": "Anthropic Shares Tank After Huge IPO As the Nasdaq Erases 2026 Gains",
+        "title_original": "Anthropic Shares Tank After Huge IPO As the Nasdaq Erases 2026 Gains",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19",
-        "source": "Hacker News front page",
-        "source_name": "Curated Media"
+        "url": "https://news.slashdot.org/story/26/11/20/1934244/anthropic-shares-tank-after-huge-ipo-as-the-nasdaq-erases-2026-gains",
+        "source": "Slashdot",
+        "source_name": "TechURLs"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T16:03:42.023554Z"
-      }
-    },
-    {
-      "story_id": "story_3e2b533093c4",
-      "title": "报告称，Meta 的人工智能代理 Muse 正在混淆对话，可能会泄露私人数据 / Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says",
-      "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says",
-      "primary_url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says",
-      "source": "TechCrunch AI",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "9b9377324de9e3b92e86338ffcf5ab4a4bb5c69b",
-          "title": "报告称，Meta 的人工智能代理 Muse 正在混淆对话，可能会泄露私人数据 / Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says",
-          "title_zh": "报告称，Meta 的人工智能代理 Muse 正在混淆对话，可能会泄露私人数据",
-          "title_en": "Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says",
-          "title_original": "Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-11-19T17:38:40Z"
-        },
-        {
-          "id": "93a31f43e6764662948d87d666c700c3b71ce76e",
-          "title": "报告称，Meta 的人工智能代理 Muse 正在混淆对话并暴露私人数据 / Meta’s AI agent Muse is mixing up conversations and exposing private data, report says",
-          "title_zh": "报告称，Meta 的人工智能代理 Muse 正在混淆对话并暴露私人数据",
-          "title_en": "Meta’s AI agent Muse is mixing up conversations and exposing private data, report says",
-          "title_original": "Meta’s AI agent Muse is mixing up conversations and exposing private data, report says",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says",
-          "source": "TechCrunch",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-19T17:38:40Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "TechCrunch",
-        "TechCrunch AI"
-      ],
-      "items": [
-        {
-          "id": "9b9377324de9e3b92e86338ffcf5ab4a4bb5c69b",
-          "title": "报告称，Meta 的人工智能代理 Muse 正在混淆对话，可能会泄露私人数据 / Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says",
-          "title_zh": "报告称，Meta 的人工智能代理 Muse 正在混淆对话，可能会泄露私人数据",
-          "title_en": "Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says",
-          "title_original": "Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-11-19T17:38:40Z"
-        },
-        {
-          "id": "93a31f43e6764662948d87d666c700c3b71ce76e",
-          "title": "报告称，Meta 的人工智能代理 Muse 正在混淆对话并暴露私人数据 / Meta’s AI agent Muse is mixing up conversations and exposing private data, report says",
-          "title_zh": "报告称，Meta 的人工智能代理 Muse 正在混淆对话并暴露私人数据",
-          "title_en": "Meta’s AI agent Muse is mixing up conversations and exposing private data, report says",
-          "title_original": "Meta’s AI agent Muse is mixing up conversations and exposing private data, report says",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says",
-          "source": "TechCrunch",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-19T17:38:40Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6199,
-      "importance": 0.6199,
-      "importance_score": 0.6199,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.5832,
-        "source_tier": 0.58,
-        "ai_relevance": 0.81,
-        "recency": 0.724,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-19T17:38:40Z",
-      "latest_at": "2026-11-19T17:38:40Z",
-      "primary_item": {
-        "id": "9b9377324de9e3b92e86338ffcf5ab4a4bb5c69b",
-        "title": "报告称，Meta 的人工智能代理 Muse 正在混淆对话，可能会泄露私人数据 / Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says",
-        "title_zh": "报告称，Meta 的人工智能代理 Muse 正在混淆对话，可能会泄露私人数据",
-        "title_en": "Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says",
-        "title_original": "Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says",
-        "source": "TechCrunch AI",
-        "source_name": "Curated Media"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-20T16:03:42.023554Z"
-      }
-    },
-    {
-      "story_id": "story_74fc3039f67b",
-      "title": "Claude Fable 5.2 解决了黑洞物理学中的两个未解问题 / Claude solves two open problems in the physics of black holes",
-      "url": "https://www.anthropic.com/research/claude-black-hole-physics",
-      "primary_url": "https://www.anthropic.com/research/claude-black-hole-physics",
-      "source": "Hacker News front page",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "40ad6f4dd74a2e736ed9d27c8eaa870659f241cc",
-          "title": "Claude Fable 5.2 解决了黑洞物理学中的两个未解问题 / Claude solves two open problems in the physics of black holes",
-          "title_zh": "Claude Fable 5.2 解决了黑洞物理学中的两个未解问题",
-          "title_en": "Claude solves two open problems in the physics of black holes",
-          "title_original": "Claude solves two open problems in the physics of black holes",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.anthropic.com/research/claude-black-hole-physics",
-          "source": "Hacker News front page",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-11-19T17:30:44Z"
-        },
-        {
-          "id": "291360acfe40fdf6d9e4ad08206e746be8509ab8",
-          "title": "Claude Fable 5.2 解决了黑洞物理学中的两个未解问题",
-          "title_zh": "Claude Fable 5.2 解决了黑洞物理学中的两个未解问题",
-          "title_en": null,
-          "title_original": "Claude Fable 5.2 解决了黑洞物理学中的两个未解问题",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.anthropic.com/research/claude-black-hole-physics",
-          "source": "www.anthropic.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-19T18:52:01.592000Z"
-        },
-        {
-          "id": "2ae9291fb81a0e5803f216f8e5a031a04110f55d",
-          "title": "Claude解决了黑洞物理学中的两个悬而未决的问题 / Claude solves two open problems in the physics of black holes",
-          "title_zh": "Claude解决了黑洞物理学中的两个悬而未决的问题",
-          "title_en": "Claude solves two open problems in the physics of black holes",
-          "title_original": "Claude solves two open problems in the physics of black holes",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50563148",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-19T17:30:44Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News front page",
-        "hackernews",
-        "www.anthropic.com"
-      ],
-      "items": [
-        {
-          "id": "40ad6f4dd74a2e736ed9d27c8eaa870659f241cc",
-          "title": "Claude Fable 5.2 解决了黑洞物理学中的两个未解问题 / Claude solves two open problems in the physics of black holes",
-          "title_zh": "Claude Fable 5.2 解决了黑洞物理学中的两个未解问题",
-          "title_en": "Claude solves two open problems in the physics of black holes",
-          "title_original": "Claude solves two open problems in the physics of black holes",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.anthropic.com/research/claude-black-hole-physics",
-          "source": "Hacker News front page",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-11-19T17:30:44Z"
-        },
-        {
-          "id": "291360acfe40fdf6d9e4ad08206e746be8509ab8",
-          "title": "Claude Fable 5.2 解决了黑洞物理学中的两个未解问题",
-          "title_zh": "Claude Fable 5.2 解决了黑洞物理学中的两个未解问题",
-          "title_en": null,
-          "title_original": "Claude Fable 5.2 解决了黑洞物理学中的两个未解问题",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.anthropic.com/research/claude-black-hole-physics",
-          "source": "www.anthropic.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-19T18:52:01.592000Z"
-        },
-        {
-          "id": "2ae9291fb81a0e5803f216f8e5a031a04110f55d",
-          "title": "Claude解决了黑洞物理学中的两个悬而未决的问题 / Claude solves two open problems in the physics of black holes",
-          "title_zh": "Claude解决了黑洞物理学中的两个悬而未决的问题",
-          "title_en": "Claude solves two open problems in the physics of black holes",
-          "title_original": "Claude solves two open problems in the physics of black holes",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50563148",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-19T17:30:44Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.653,
-      "importance": 0.653,
-      "importance_score": 0.653,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.5976,
-        "source_tier": 0.58,
-        "ai_relevance": 0.83,
-        "recency": 0.7226,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-19T17:30:44Z",
-      "latest_at": "2026-11-19T18:52:01.592000Z",
-      "primary_item": {
-        "id": "40ad6f4dd74a2e736ed9d27c8eaa870659f241cc",
-        "title": "Claude Fable 5.2 解决了黑洞物理学中的两个未解问题 / Claude solves two open problems in the physics of black holes",
-        "title_zh": "Claude Fable 5.2 解决了黑洞物理学中的两个未解问题",
-        "title_en": "Claude solves two open problems in the physics of black holes",
-        "title_original": "Claude solves two open problems in the physics of black holes",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.anthropic.com/research/claude-black-hole-physics",
-        "source": "Hacker News front page",
-        "source_name": "Curated Media"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-20T16:03:42.023554Z"
-      }
-    },
-    {
-      "story_id": "story_d6102855438b",
-      "title": "Anthropic 以 111 美元的价格在纳斯达克上市，比 IPO 价格高出 33% / Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
-      "url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price",
-      "primary_url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price",
-      "source": "TechCrunch AI",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "5b7a09cacbbf179dd493914d752671d963bb20f4",
-          "title": "Anthropic 以 111 美元的价格在纳斯达克上市，比 IPO 价格高出 33% / Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
-          "title_zh": "Anthropic 以 111 美元的价格在纳斯达克上市，比 IPO 价格高出 33%",
-          "title_en": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
-          "title_original": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-11-19T16:59:23Z"
-        },
-        {
-          "id": "46a37553a9dc8e9217ec566a52e16c37db4a2d63",
-          "title": "Anthropic 以 111 美元的价格在纳斯达克上市，比 IPO 价格高出 33% / Anthropic hits NASDAQ exchanges at $111, 33 percent above IPO price",
-          "title_zh": "Anthropic 以 111 美元的价格在纳斯达克上市，比 IPO 价格高出 33%",
-          "title_en": "Anthropic hits NASDAQ exchanges at $111, 33 percent above IPO price",
-          "title_original": "Anthropic hits NASDAQ exchanges at $111, 33 percent above IPO price",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price",
-          "source": "TechCrunch",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-19T16:59:23Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "TechCrunch",
-        "TechCrunch AI"
-      ],
-      "items": [
-        {
-          "id": "5b7a09cacbbf179dd493914d752671d963bb20f4",
-          "title": "Anthropic 以 111 美元的价格在纳斯达克上市，比 IPO 价格高出 33% / Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
-          "title_zh": "Anthropic 以 111 美元的价格在纳斯达克上市，比 IPO 价格高出 33%",
-          "title_en": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
-          "title_original": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-11-19T16:59:23Z"
-        },
-        {
-          "id": "46a37553a9dc8e9217ec566a52e16c37db4a2d63",
-          "title": "Anthropic 以 111 美元的价格在纳斯达克上市，比 IPO 价格高出 33% / Anthropic hits NASDAQ exchanges at $111, 33 percent above IPO price",
-          "title_zh": "Anthropic 以 111 美元的价格在纳斯达克上市，比 IPO 价格高出 33%",
-          "title_en": "Anthropic hits NASDAQ exchanges at $111, 33 percent above IPO price",
-          "title_original": "Anthropic hits NASDAQ exchanges at $111, 33 percent above IPO price",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price",
-          "source": "TechCrunch",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-19T16:59:23Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6187,
-      "importance": 0.6187,
-      "importance_score": 0.6187,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.5832,
-        "source_tier": 0.58,
-        "ai_relevance": 0.81,
-        "recency": 0.7172,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-19T16:59:23Z",
-      "latest_at": "2026-11-19T16:59:23Z",
-      "primary_item": {
-        "id": "5b7a09cacbbf179dd493914d752671d963bb20f4",
-        "title": "Anthropic 以 111 美元的价格在纳斯达克上市，比 IPO 价格高出 33% / Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
-        "title_zh": "Anthropic 以 111 美元的价格在纳斯达克上市，比 IPO 价格高出 33%",
-        "title_en": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
-        "title_original": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price",
-        "source": "TechCrunch AI",
-        "source_name": "Curated Media"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-20T16:03:42.023554Z"
+        "scored_at": "2026-11-20T22:08:33.561661Z"
       }
     },
     {
@@ -1950,15 +1783,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5568,
-      "importance": 0.5568,
-      "importance_score": 0.5568,
+      "score": 0.5429,
+      "importance": 0.5429,
+      "importance_score": 0.5429,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.504,
         "source_tier": 0.32,
         "ai_relevance": 0.7,
-        "recency": 0.9458,
+        "recency": 0.8682,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1983,7 +1816,146 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T16:03:42.023554Z"
+        "scored_at": "2026-11-20T22:08:33.561661Z"
+      }
+    },
+    {
+      "story_id": "story_93fefdd1d817",
+      "title": "Gemini 4 Neon 荣登《Models Engineering》指数榜首 / Gemini 4 Neon is the new #1 on the Models Engineering Index",
+      "url": "https://git-aarvin.github.io/mei",
+      "primary_url": "https://git-aarvin.github.io/mei",
+      "source": "Hacker News front page",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "28e8052723d18dac5d0c83480a4d3e666a5772c2",
+          "title": "Gemini 4 Neon 荣登《Models Engineering》指数榜首 / Gemini 4 Neon is the new #1 on the Models Engineering Index",
+          "title_zh": "Gemini 4 Neon 荣登《Models Engineering》指数榜首",
+          "title_en": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
+          "title_original": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://git-aarvin.github.io/mei",
+          "source": "Hacker News front page",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-11-19T23:35:35Z"
+        },
+        {
+          "id": "9c34041c569aa30f47dbb48916dede275ebbcdda",
+          "title": "Gemini 4 Neon 荣登《Models Engineering》指数榜首",
+          "title_zh": "Gemini 4 Neon 荣登《Models Engineering》指数榜首",
+          "title_en": null,
+          "title_original": "Gemini 4 Neon 荣登《Models Engineering》指数榜首",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://git-aarvin.github.io/mei",
+          "source": "git-aarvin.github.io",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-20T02:03:27.774000Z"
+        },
+        {
+          "id": "b280abcc5f29024c9fde06f1467498c5014e2983",
+          "title": "Gemini 4 Neon 成为模型工程指数新的第一名 / Gemini 4 Neon is the new #1 on the Models Engineering Index",
+          "title_zh": "Gemini 4 Neon 成为模型工程指数新的第一名",
+          "title_en": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
+          "title_original": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50568130",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-19T23:35:35Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News front page",
+        "git-aarvin.github.io",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "28e8052723d18dac5d0c83480a4d3e666a5772c2",
+          "title": "Gemini 4 Neon 荣登《Models Engineering》指数榜首 / Gemini 4 Neon is the new #1 on the Models Engineering Index",
+          "title_zh": "Gemini 4 Neon 荣登《Models Engineering》指数榜首",
+          "title_en": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
+          "title_original": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://git-aarvin.github.io/mei",
+          "source": "Hacker News front page",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-11-19T23:35:35Z"
+        },
+        {
+          "id": "9c34041c569aa30f47dbb48916dede275ebbcdda",
+          "title": "Gemini 4 Neon 荣登《Models Engineering》指数榜首",
+          "title_zh": "Gemini 4 Neon 荣登《Models Engineering》指数榜首",
+          "title_en": null,
+          "title_original": "Gemini 4 Neon 荣登《Models Engineering》指数榜首",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://git-aarvin.github.io/mei",
+          "source": "git-aarvin.github.io",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-20T02:03:27.774000Z"
+        },
+        {
+          "id": "b280abcc5f29024c9fde06f1467498c5014e2983",
+          "title": "Gemini 4 Neon 成为模型工程指数新的第一名 / Gemini 4 Neon is the new #1 on the Models Engineering Index",
+          "title_zh": "Gemini 4 Neon 成为模型工程指数新的第一名",
+          "title_en": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
+          "title_original": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50568130",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-19T23:35:35Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.6324,
+      "importance": 0.6324,
+      "importance_score": 0.6324,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.5616,
+        "source_tier": 0.58,
+        "ai_relevance": 0.78,
+        "recency": 0.7243,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-19T23:35:35Z",
+      "latest_at": "2026-11-20T02:03:27.774000Z",
+      "primary_item": {
+        "id": "28e8052723d18dac5d0c83480a4d3e666a5772c2",
+        "title": "Gemini 4 Neon 荣登《Models Engineering》指数榜首 / Gemini 4 Neon is the new #1 on the Models Engineering Index",
+        "title_zh": "Gemini 4 Neon 荣登《Models Engineering》指数榜首",
+        "title_en": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
+        "title_original": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://git-aarvin.github.io/mei",
+        "source": "Hacker News front page",
+        "source_name": "Curated Media"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-20T22:08:33.561661Z"
       }
     }
   ]
