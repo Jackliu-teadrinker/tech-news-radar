@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-22T22:23:07.902343Z",
+  "generated_at": "2026-11-22T23:45:57.246182Z",
   "window_hours": 24,
-  "total_items": 5,
+  "total_items": 7,
   "items": [
     {
       "story_id": "story_91d25aa0bb33",
@@ -77,15 +77,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8453,
-      "importance": 0.8453,
-      "importance_score": 0.8453,
+      "score": 0.8427,
+      "importance": 0.8427,
+      "importance_score": 0.8427,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7238,
+        "recency": 0.7095,
         "story_heat": 0.25
       },
       "category": "official",
@@ -113,7 +113,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-22T22:24:22.603945Z"
+        "scored_at": "2026-11-22T23:47:35.812144Z"
       }
     },
     {
@@ -219,15 +219,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6698,
-      "importance": 0.6698,
-      "importance_score": 0.6698,
+      "score": 0.6666,
+      "importance": 0.6666,
+      "importance_score": 0.6666,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.576,
         "source_tier": 0.58,
         "ai_relevance": 0.8,
-        "recency": 0.8853,
+        "recency": 0.8678,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -253,7 +253,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-22T22:24:22.603945Z"
+        "scored_at": "2026-11-22T23:47:35.812144Z"
       }
     },
     {
@@ -329,15 +329,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6256,
-      "importance": 0.6256,
-      "importance_score": 0.6256,
+      "score": 0.6227,
+      "importance": 0.6227,
+      "importance_score": 0.6227,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5616,
         "source_tier": 0.58,
         "ai_relevance": 0.78,
-        "recency": 0.8254,
+        "recency": 0.8091,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -362,7 +362,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-22T22:24:22.603945Z"
+        "scored_at": "2026-11-22T23:47:35.812144Z"
       }
     },
     {
@@ -468,15 +468,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6504,
-      "importance": 0.6504,
-      "importance_score": 0.6504,
+      "score": 0.6474,
+      "importance": 0.6474,
+      "importance_score": 0.6474,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5616,
         "source_tier": 0.58,
         "ai_relevance": 0.78,
-        "recency": 0.8238,
+        "recency": 0.8075,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -501,7 +501,227 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-22T22:24:22.603945Z"
+        "scored_at": "2026-11-22T23:47:35.812144Z"
+      }
+    },
+    {
+      "story_id": "story_7d934bf2f17d",
+      "title": "代理群尝试解决 P 与 NP 问题 / Agent swarm trying to solve P vs. NP",
+      "url": "https://pequalnp.com",
+      "primary_url": "https://pequalnp.com",
+      "source": "Hacker News front page",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "8898ae00d6ef0ede6a8f0dbc9cf622adafc17513",
+          "title": "代理群尝试解决 P 与 NP 问题 / Agent swarm trying to solve P vs. NP",
+          "title_zh": "代理群尝试解决 P 与 NP 问题",
+          "title_en": "Agent swarm trying to solve P vs. NP",
+          "title_original": "Agent swarm trying to solve P vs. NP",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://pequalnp.com",
+          "source": "Hacker News front page",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-11-22T21:53:45Z"
+        },
+        {
+          "id": "3badd349e5e291c3575fc3c2809c206297042b85",
+          "title": "代理群尝试解决 P 与 NP 问题 / Agent swarm trying to solve P vs. NP",
+          "title_zh": "代理群尝试解决 P 与 NP 问题",
+          "title_en": "Agent swarm trying to solve P vs. NP",
+          "title_original": "Agent swarm trying to solve P vs. NP",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50604314",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-22T21:53:45Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News front page",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "8898ae00d6ef0ede6a8f0dbc9cf622adafc17513",
+          "title": "代理群尝试解决 P 与 NP 问题 / Agent swarm trying to solve P vs. NP",
+          "title_zh": "代理群尝试解决 P 与 NP 问题",
+          "title_en": "Agent swarm trying to solve P vs. NP",
+          "title_original": "Agent swarm trying to solve P vs. NP",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://pequalnp.com",
+          "source": "Hacker News front page",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-11-22T21:53:45Z"
+        },
+        {
+          "id": "3badd349e5e291c3575fc3c2809c206297042b85",
+          "title": "代理群尝试解决 P 与 NP 问题 / Agent swarm trying to solve P vs. NP",
+          "title_zh": "代理群尝试解决 P 与 NP 问题",
+          "title_en": "Agent swarm trying to solve P vs. NP",
+          "title_original": "Agent swarm trying to solve P vs. NP",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50604314",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-22T21:53:45Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6398,
+      "importance": 0.6398,
+      "importance_score": 0.6398,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.54,
+        "source_tier": 0.58,
+        "ai_relevance": 0.75,
+        "recency": 0.9734,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-22T21:53:45Z",
+      "latest_at": "2026-11-22T21:53:45Z",
+      "primary_item": {
+        "id": "8898ae00d6ef0ede6a8f0dbc9cf622adafc17513",
+        "title": "代理群尝试解决 P 与 NP 问题 / Agent swarm trying to solve P vs. NP",
+        "title_zh": "代理群尝试解决 P 与 NP 问题",
+        "title_en": "Agent swarm trying to solve P vs. NP",
+        "title_original": "Agent swarm trying to solve P vs. NP",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://pequalnp.com",
+        "source": "Hacker News front page",
+        "source_name": "Curated Media"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-22T23:47:35.812144Z"
+      }
+    },
+    {
+      "story_id": "story_cd67deee14c2",
+      "title": "《Inkling、Qwen 和 Unsloth 入门指南：本地人工智能》 / A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+      "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+      "primary_url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+      "source": "Hacker News front page",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "3948b443a07c48c124559a009087790fc82065e7",
+          "title": "《Inkling、Qwen 和 Unsloth 入门指南：本地人工智能》 / A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+          "title_zh": "《Inkling、Qwen 和 Unsloth 入门指南：本地人工智能》",
+          "title_en": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+          "title_original": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+          "source": "Hacker News front page",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-11-22T21:01:16Z"
+        },
+        {
+          "id": "fa621fcc18a3efeb20d42fb6c68e68aed3083f68",
+          "title": "《Inkling、Qwen 和 Unsloth 入门指南：本地人工智能》",
+          "title_zh": "《Inkling、Qwen 和 Unsloth 入门指南：本地人工智能》",
+          "title_en": null,
+          "title_original": "《Inkling、Qwen 和 Unsloth 入门指南：本地人工智能》",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+          "source": "www.gpupartner.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-22T23:23:39.823000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News front page",
+        "www.gpupartner.com"
+      ],
+      "items": [
+        {
+          "id": "3948b443a07c48c124559a009087790fc82065e7",
+          "title": "《Inkling、Qwen 和 Unsloth 入门指南：本地人工智能》 / A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+          "title_zh": "《Inkling、Qwen 和 Unsloth 入门指南：本地人工智能》",
+          "title_en": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+          "title_original": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+          "source": "Hacker News front page",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-11-22T21:01:16Z"
+        },
+        {
+          "id": "fa621fcc18a3efeb20d42fb6c68e68aed3083f68",
+          "title": "《Inkling、Qwen 和 Unsloth 入门指南：本地人工智能》",
+          "title_zh": "《Inkling、Qwen 和 Unsloth 入门指南：本地人工智能》",
+          "title_en": null,
+          "title_original": "《Inkling、Qwen 和 Unsloth 入门指南：本地人工智能》",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+          "source": "www.gpupartner.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-22T23:23:39.823000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5786,
+      "importance": 0.5786,
+      "importance_score": 0.5786,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.45,
+        "source_tier": 0.58,
+        "ai_relevance": 0.59,
+        "recency": 0.9611,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-22T21:01:16Z",
+      "latest_at": "2026-11-22T23:23:39.823000Z",
+      "primary_item": {
+        "id": "3948b443a07c48c124559a009087790fc82065e7",
+        "title": "《Inkling、Qwen 和 Unsloth 入门指南：本地人工智能》 / A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+        "title_zh": "《Inkling、Qwen 和 Unsloth 入门指南：本地人工智能》",
+        "title_en": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+        "title_original": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+        "source": "Hacker News front page",
+        "source_name": "Curated Media"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-22T23:47:35.812144Z"
       }
     },
     {
@@ -578,15 +798,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.534,
-      "importance": 0.534,
-      "importance_score": 0.534,
+      "score": 0.5314,
+      "importance": 0.5314,
+      "importance_score": 0.5314,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.45,
         "source_tier": 0.58,
         "ai_relevance": 0.56,
-        "recency": 0.7468,
+        "recency": 0.7321,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -611,7 +831,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-22T22:24:22.603945Z"
+        "scored_at": "2026-11-22T23:47:35.812144Z"
       }
     }
   ]
