@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T18:48:32.579340Z",
+  "generated_at": "2026-11-24T23:36:28.236114Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8588,
-      "importance": 0.8588,
-      "importance_score": 0.8588,
+      "score": 0.8473,
+      "importance": 0.8473,
+      "importance_score": 0.8473,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.9602,
+        "recency": 0.896,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,112 +83,82 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-24T18:49:58.909124Z"
+        "scored_at": "2026-11-24T23:37:49.098058Z"
       }
     },
     {
-      "story_id": "story_50849ba4d70a",
-      "title": "OpenAI and Cisco introduce Shirudo",
-      "url": "https://openai.com/index/introducing-shirudo",
-      "primary_url": "https://openai.com/index/introducing-shirudo",
+      "story_id": "story_94d1586a7d4f",
+      "title": "GPT-6 模型展示了内在的蛋白质设计能力 / GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+      "primary_url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "e49ae394ba7181b0e741586310bf0c39190db59d",
-          "title": "OpenAI and Cisco introduce Shirudo",
-          "title_zh": null,
-          "title_en": "OpenAI and Cisco introduce Shirudo",
-          "title_original": "OpenAI and Cisco introduce Shirudo",
+          "id": "7043964a27bd9665773c1658acb9f5dd6e8636cb",
+          "title": "GPT-6 模型展示了内在的蛋白质设计能力 / GPT-6 models demonstrate intrinsic protein-design capabilities",
+          "title_zh": "GPT-6 模型展示了内在的蛋白质设计能力",
+          "title_en": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+          "title_original": "GPT-6 models demonstrate intrinsic protein-design capabilities",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/introducing-shirudo",
+          "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-23T21:20:00Z"
-        },
-        {
-          "id": "9af5fce20d535af3387645144beb41201e5d27ae",
-          "title": "Shirudo：OpenAI 和 Cisco 的开源运行时，用于屏蔽未打补丁的 Linux / Shirudo: OpenAI and Cisco's open-source runtime for shielding unpatched Linux",
-          "title_zh": "Shirudo：OpenAI 和 Cisco 的开源运行时，用于屏蔽未打补丁的 Linux",
-          "title_en": "Shirudo: OpenAI and Cisco's open-source runtime for shielding unpatched Linux",
-          "title_original": "Shirudo: OpenAI and Cisco's open-source runtime for shielding unpatched Linux",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/introducing-shirudo",
-          "source": "Hacker News front page",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-11-23T21:30:41Z"
+          "published_at": "2026-11-24T13:00:00Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "Hacker News front page",
         "OpenAI News"
       ],
       "items": [
         {
-          "id": "e49ae394ba7181b0e741586310bf0c39190db59d",
-          "title": "OpenAI and Cisco introduce Shirudo",
-          "title_zh": null,
-          "title_en": "OpenAI and Cisco introduce Shirudo",
-          "title_original": "OpenAI and Cisco introduce Shirudo",
+          "id": "7043964a27bd9665773c1658acb9f5dd6e8636cb",
+          "title": "GPT-6 模型展示了内在的蛋白质设计能力 / GPT-6 models demonstrate intrinsic protein-design capabilities",
+          "title_zh": "GPT-6 模型展示了内在的蛋白质设计能力",
+          "title_en": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+          "title_original": "GPT-6 models demonstrate intrinsic protein-design capabilities",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/introducing-shirudo",
+          "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-23T21:20:00Z"
-        },
-        {
-          "id": "9af5fce20d535af3387645144beb41201e5d27ae",
-          "title": "Shirudo：OpenAI 和 Cisco 的开源运行时，用于屏蔽未打补丁的 Linux / Shirudo: OpenAI and Cisco's open-source runtime for shielding unpatched Linux",
-          "title_zh": "Shirudo：OpenAI 和 Cisco 的开源运行时，用于屏蔽未打补丁的 Linux",
-          "title_en": "Shirudo: OpenAI and Cisco's open-source runtime for shielding unpatched Linux",
-          "title_original": "Shirudo: OpenAI and Cisco's open-source runtime for shielding unpatched Linux",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/introducing-shirudo",
-          "source": "Hacker News front page",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-11-23T21:30:41Z"
+          "published_at": "2026-11-24T13:00:00Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.843,
-      "importance": 0.843,
-      "importance_score": 0.843,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8444,
+      "importance": 0.8444,
+      "importance_score": 0.8444,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.7334,
-        "story_heat": 0.25
+        "ai_relevance": 1.0,
+        "recency": 0.858,
+        "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-23T21:20:00Z",
-      "latest_at": "2026-11-23T21:30:41Z",
+      "earliest_at": "2026-11-24T13:00:00Z",
+      "latest_at": "2026-11-24T13:00:00Z",
       "primary_item": {
-        "id": "e49ae394ba7181b0e741586310bf0c39190db59d",
-        "title": "OpenAI and Cisco introduce Shirudo",
-        "title_zh": null,
-        "title_en": "OpenAI and Cisco introduce Shirudo",
-        "title_original": "OpenAI and Cisco introduce Shirudo",
+        "id": "7043964a27bd9665773c1658acb9f5dd6e8636cb",
+        "title": "GPT-6 模型展示了内在的蛋白质设计能力 / GPT-6 models demonstrate intrinsic protein-design capabilities",
+        "title_zh": "GPT-6 模型展示了内在的蛋白质设计能力",
+        "title_en": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+        "title_original": "GPT-6 models demonstrate intrinsic protein-design capabilities",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/introducing-shirudo",
+        "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       },
@@ -196,7 +166,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-24T18:49:58.909124Z"
+        "scored_at": "2026-11-24T23:37:49.098058Z"
       }
     },
     {
@@ -244,15 +214,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8272,
-      "importance": 0.8272,
-      "importance_score": 0.8272,
+      "score": 0.818,
+      "importance": 0.818,
+      "importance_score": 0.818,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7621,
+        "recency": 0.7111,
         "story_heat": 0.0
       },
       "category": "official",
@@ -279,7 +249,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-24T18:49:58.909124Z"
+        "scored_at": "2026-11-24T23:37:49.098058Z"
       }
     },
     {
@@ -327,15 +297,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8223,
-      "importance": 0.8223,
-      "importance_score": 0.8223,
+      "score": 0.8106,
+      "importance": 0.8106,
+      "importance_score": 0.8106,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.79,
-        "recency": 0.9682,
+        "recency": 0.9034,
         "story_heat": 0.0
       },
       "category": "official",
@@ -361,7 +331,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-24T18:49:58.909124Z"
+        "scored_at": "2026-11-24T23:37:49.098058Z"
+      }
+    },
+    {
+      "story_id": "story_8c7ce3fbf64d",
+      "title": "与 Astra 一起寻找遥远的行星 / Searching for distant planets with Astra",
+      "url": "https://openai.com/index/searching-for-distant-planets-with-astra",
+      "primary_url": "https://openai.com/index/searching-for-distant-planets-with-astra",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "a199fd5e20bd2b13b5e740bb7bf4e90941e27c4c",
+          "title": "与 Astra 一起寻找遥远的行星 / Searching for distant planets with Astra",
+          "title_zh": "与 Astra 一起寻找遥远的行星",
+          "title_en": "Searching for distant planets with Astra",
+          "title_original": "Searching for distant planets with Astra",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/searching-for-distant-planets-with-astra",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-24T11:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "a199fd5e20bd2b13b5e740bb7bf4e90941e27c4c",
+          "title": "与 Astra 一起寻找遥远的行星 / Searching for distant planets with Astra",
+          "title_zh": "与 Astra 一起寻找遥远的行星",
+          "title_en": "Searching for distant planets with Astra",
+          "title_original": "Searching for distant planets with Astra",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/searching-for-distant-planets-with-astra",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-24T11:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.836,
+      "importance": 0.836,
+      "importance_score": 0.836,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.8335,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-24T11:00:00Z",
+      "latest_at": "2026-11-24T11:00:00Z",
+      "primary_item": {
+        "id": "a199fd5e20bd2b13b5e740bb7bf4e90941e27c4c",
+        "title": "与 Astra 一起寻找遥远的行星 / Searching for distant planets with Astra",
+        "title_zh": "与 Astra 一起寻找遥远的行星",
+        "title_en": "Searching for distant planets with Astra",
+        "title_original": "Searching for distant planets with Astra",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/searching-for-distant-planets-with-astra",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-24T23:37:49.098058Z"
       }
     },
     {
@@ -409,15 +462,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8106,
-      "importance": 0.8106,
-      "importance_score": 0.8106,
+      "score": 0.7989,
+      "importance": 0.7989,
+      "importance_score": 0.7989,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.73,
-        "recency": 0.9698,
+        "recency": 0.9048,
         "story_heat": 0.0
       },
       "category": "official",
@@ -443,26 +496,26 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-24T18:49:58.909124Z"
+        "scored_at": "2026-11-24T23:37:49.098058Z"
       }
     },
     {
-      "story_id": "story_a79795d0bbb6",
-      "title": "How iFood scales coding agents across 15,000 repositories",
-      "url": "https://openai.com/index/ifood",
-      "primary_url": "https://openai.com/index/ifood",
+      "story_id": "story_5565a9b5f458",
+      "title": "Clay 借助 Codex 和 ChatGPT 帮助销售团队获胜 / Clay helps sales teams win with Codex and ChatGPT",
+      "url": "https://openai.com/business/customer-stories/clay-plugins-openai",
+      "primary_url": "https://openai.com/business/customer-stories/clay-plugins-openai",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "0bb0c467202d7dd2c470c60ec0004253715ed985",
-          "title": "How iFood scales coding agents across 15,000 repositories",
-          "title_zh": null,
-          "title_en": "How iFood scales coding agents across 15,000 repositories",
-          "title_original": "How iFood scales coding agents across 15,000 repositories",
+          "id": "d8f67b8fdef8cc970ab209b5f58bfaad7c3388f7",
+          "title": "Clay 借助 Codex 和 ChatGPT 帮助销售团队获胜 / Clay helps sales teams win with Codex and ChatGPT",
+          "title_zh": "Clay 借助 Codex 和 ChatGPT 帮助销售团队获胜",
+          "title_en": "Clay helps sales teams win with Codex and ChatGPT",
+          "title_original": "Clay helps sales teams win with Codex and ChatGPT",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/ifood",
+          "url": "https://openai.com/business/customer-stories/clay-plugins-openai",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
@@ -475,14 +528,14 @@
       ],
       "items": [
         {
-          "id": "0bb0c467202d7dd2c470c60ec0004253715ed985",
-          "title": "How iFood scales coding agents across 15,000 repositories",
-          "title_zh": null,
-          "title_en": "How iFood scales coding agents across 15,000 repositories",
-          "title_original": "How iFood scales coding agents across 15,000 repositories",
+          "id": "d8f67b8fdef8cc970ab209b5f58bfaad7c3388f7",
+          "title": "Clay 借助 Codex 和 ChatGPT 帮助销售团队获胜 / Clay helps sales teams win with Codex and ChatGPT",
+          "title_zh": "Clay 借助 Codex 和 ChatGPT 帮助销售团队获胜",
+          "title_en": "Clay helps sales teams win with Codex and ChatGPT",
+          "title_original": "Clay helps sales teams win with Codex and ChatGPT",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/ifood",
+          "url": "https://openai.com/business/customer-stories/clay-plugins-openai",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
@@ -491,15 +544,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8272,
-      "importance": 0.8272,
-      "importance_score": 0.8272,
+      "score": 0.818,
+      "importance": 0.818,
+      "importance_score": 0.818,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7621,
+        "recency": 0.7111,
         "story_heat": 0.0
       },
       "category": "official",
@@ -511,14 +564,14 @@
       "earliest_at": "2026-11-24T00:00:00Z",
       "latest_at": "2026-11-24T00:00:00Z",
       "primary_item": {
-        "id": "0bb0c467202d7dd2c470c60ec0004253715ed985",
-        "title": "How iFood scales coding agents across 15,000 repositories",
-        "title_zh": null,
-        "title_en": "How iFood scales coding agents across 15,000 repositories",
-        "title_original": "How iFood scales coding agents across 15,000 repositories",
+        "id": "d8f67b8fdef8cc970ab209b5f58bfaad7c3388f7",
+        "title": "Clay 借助 Codex 和 ChatGPT 帮助销售团队获胜 / Clay helps sales teams win with Codex and ChatGPT",
+        "title_zh": "Clay 借助 Codex 和 ChatGPT 帮助销售团队获胜",
+        "title_en": "Clay helps sales teams win with Codex and ChatGPT",
+        "title_original": "Clay helps sales teams win with Codex and ChatGPT",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/ifood",
+        "url": "https://openai.com/business/customer-stories/clay-plugins-openai",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       },
@@ -526,7 +579,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-24T18:49:58.909124Z"
+        "scored_at": "2026-11-24T23:37:49.098058Z"
       }
     },
     {
@@ -603,15 +656,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7397,
-      "importance": 0.7397,
-      "importance_score": 0.7397,
+      "score": 0.7298,
+      "importance": 0.7298,
+      "importance_score": 0.7298,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.684,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.8219,
+        "recency": 0.7669,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -637,89 +690,341 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-24T18:49:58.909124Z"
+        "scored_at": "2026-11-24T23:37:49.098058Z"
       }
     },
     {
-      "story_id": "story_c4c2ceef94f4",
-      "title": "问题状态和代码仓库板处于公共预览状态 / Issue statuses and repository boards are in public preview",
-      "url": "https://github.blog/changelog/2026-11-23-issue-statuses-and-repository-boards-are-in-public-preview",
-      "primary_url": "https://github.blog/changelog/2026-11-23-issue-statuses-and-repository-boards-are-in-public-preview",
-      "source": "GitHub Changelog",
+      "story_id": "story_a79795d0bbb6",
+      "title": "iFood 如何在 15,000 个代码仓库中扩展编码代理 / How iFood scales coding agents across 15,000 repositories",
+      "url": "https://openai.com/index/ifood",
+      "primary_url": "https://openai.com/index/ifood",
+      "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "12ede07f3f701aadaf7c8c928c0f2f8fa887d17f",
-          "title": "问题状态和代码仓库板处于公共预览状态 / Issue statuses and repository boards are in public preview",
-          "title_zh": "问题状态和代码仓库板处于公共预览状态",
-          "title_en": "Issue statuses and repository boards are in public preview",
-          "title_original": "Issue statuses and repository boards are in public preview",
+          "id": "0bb0c467202d7dd2c470c60ec0004253715ed985",
+          "title": "iFood 如何在 15,000 个代码仓库中扩展编码代理 / How iFood scales coding agents across 15,000 repositories",
+          "title_zh": "iFood 如何在 15,000 个代码仓库中扩展编码代理",
+          "title_en": "How iFood scales coding agents across 15,000 repositories",
+          "title_original": "How iFood scales coding agents across 15,000 repositories",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-23-issue-statuses-and-repository-boards-are-in-public-preview",
-          "source": "GitHub Changelog",
+          "url": "https://openai.com/index/ifood",
+          "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-23T20:37:11Z"
+          "published_at": "2026-11-24T00:00:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub Changelog"
+        "OpenAI News"
       ],
       "items": [
         {
-          "id": "12ede07f3f701aadaf7c8c928c0f2f8fa887d17f",
-          "title": "问题状态和代码仓库板处于公共预览状态 / Issue statuses and repository boards are in public preview",
-          "title_zh": "问题状态和代码仓库板处于公共预览状态",
-          "title_en": "Issue statuses and repository boards are in public preview",
-          "title_original": "Issue statuses and repository boards are in public preview",
+          "id": "0bb0c467202d7dd2c470c60ec0004253715ed985",
+          "title": "iFood 如何在 15,000 个代码仓库中扩展编码代理 / How iFood scales coding agents across 15,000 repositories",
+          "title_zh": "iFood 如何在 15,000 个代码仓库中扩展编码代理",
+          "title_en": "How iFood scales coding agents across 15,000 repositories",
+          "title_original": "How iFood scales coding agents across 15,000 repositories",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-23-issue-statuses-and-repository-boards-are-in-public-preview",
-          "source": "GitHub Changelog",
+          "url": "https://openai.com/index/ifood",
+          "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-23T20:37:11Z"
+          "published_at": "2026-11-24T00:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7667,
-      "importance": 0.7667,
-      "importance_score": 0.7667,
+      "score": 0.818,
+      "importance": 0.818,
+      "importance_score": 0.818,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.73,
-        "recency": 0.7258,
+        "ai_relevance": 1.0,
+        "recency": 0.7111,
         "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
+        "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-23T20:37:11Z",
-      "latest_at": "2026-11-23T20:37:11Z",
+      "earliest_at": "2026-11-24T00:00:00Z",
+      "latest_at": "2026-11-24T00:00:00Z",
       "primary_item": {
-        "id": "12ede07f3f701aadaf7c8c928c0f2f8fa887d17f",
-        "title": "问题状态和代码仓库板处于公共预览状态 / Issue statuses and repository boards are in public preview",
-        "title_zh": "问题状态和代码仓库板处于公共预览状态",
-        "title_en": "Issue statuses and repository boards are in public preview",
-        "title_original": "Issue statuses and repository boards are in public preview",
+        "id": "0bb0c467202d7dd2c470c60ec0004253715ed985",
+        "title": "iFood 如何在 15,000 个代码仓库中扩展编码代理 / How iFood scales coding agents across 15,000 repositories",
+        "title_zh": "iFood 如何在 15,000 个代码仓库中扩展编码代理",
+        "title_en": "How iFood scales coding agents across 15,000 repositories",
+        "title_original": "How iFood scales coding agents across 15,000 repositories",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-23-issue-statuses-and-repository-boards-are-in-public-preview",
-        "source": "GitHub Changelog",
+        "url": "https://openai.com/index/ifood",
+        "source": "OpenAI News",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-24T18:49:58.909124Z"
+        "scored_at": "2026-11-24T23:37:49.098058Z"
+      }
+    },
+    {
+      "story_id": "story_b0f72f7fca51",
+      "title": "Intentful 如何利用点来为成长腾出更多时间 / How Intentful uses dots to make more time for growth",
+      "url": "https://openai.com/business/customer-stories/intentful-dots",
+      "primary_url": "https://openai.com/business/customer-stories/intentful-dots",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "df8e11a97736256966bd166bfaff4c1c76d13599",
+          "title": "Intentful 如何利用点来为成长腾出更多时间 / How Intentful uses dots to make more time for growth",
+          "title_zh": "Intentful 如何利用点来为成长腾出更多时间",
+          "title_en": "How Intentful uses dots to make more time for growth",
+          "title_original": "How Intentful uses dots to make more time for growth",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/business/customer-stories/intentful-dots",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-24T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "df8e11a97736256966bd166bfaff4c1c76d13599",
+          "title": "Intentful 如何利用点来为成长腾出更多时间 / How Intentful uses dots to make more time for growth",
+          "title_zh": "Intentful 如何利用点来为成长腾出更多时间",
+          "title_en": "How Intentful uses dots to make more time for growth",
+          "title_original": "How Intentful uses dots to make more time for growth",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/business/customer-stories/intentful-dots",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-24T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.814,
+      "importance": 0.814,
+      "importance_score": 0.814,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.7111,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-24T00:00:00Z",
+      "latest_at": "2026-11-24T00:00:00Z",
+      "primary_item": {
+        "id": "df8e11a97736256966bd166bfaff4c1c76d13599",
+        "title": "Intentful 如何利用点来为成长腾出更多时间 / How Intentful uses dots to make more time for growth",
+        "title_zh": "Intentful 如何利用点来为成长腾出更多时间",
+        "title_en": "How Intentful uses dots to make more time for growth",
+        "title_original": "How Intentful uses dots to make more time for growth",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/business/customer-stories/intentful-dots",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-24T23:37:49.098058Z"
+      }
+    },
+    {
+      "story_id": "story_1a312c9291f9",
+      "title": "麻省理工学院顶尖物理学家：Anthropic员工公开谈论“统治世界” / Top MIT Physicist: Anthropic Staff Openly Talk About 'Taking over the World'",
+      "url": "https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist",
+      "primary_url": "https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist",
+      "source": "Hacker News front page",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "400b8a85bc6986cb607b1c3d2bead66717cf4f4b",
+          "title": "麻省理工学院顶尖物理学家：Anthropic员工公开谈论“统治世界” / Top MIT Physicist: Anthropic Staff Openly Talk About 'Taking over the World'",
+          "title_zh": "麻省理工学院顶尖物理学家：Anthropic员工公开谈论“统治世界”",
+          "title_en": "Top MIT Physicist: Anthropic Staff Openly Talk About 'Taking over the World'",
+          "title_original": "Top MIT Physicist: Anthropic Staff Openly Talk About 'Taking over the World'",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist",
+          "source": "Hacker News front page",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-11-24T17:10:45Z"
+        },
+        {
+          "id": "4c315fe495724ca72961889a0c5a73f6ce09c9b3",
+          "title": "麻省理工学院顶尖物理学家：Anthropic员工公开谈论“统治世界”",
+          "title_zh": "麻省理工学院顶尖物理学家：Anthropic员工公开谈论“统治世界”",
+          "title_en": null,
+          "title_original": "麻省理工学院顶尖物理学家：Anthropic员工公开谈论“统治世界”",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist",
+          "source": "novaramedia.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-24T18:45:00.306000Z"
+        },
+        {
+          "id": "b3d8ccffa52555ddd74a90df9cc77c70f5016888",
+          "title": "麻省理工学院顶尖物理学家：Anthropic员工公开谈论“统治世界” / Anthropic Staff Openly Talk About ‘Taking Over the World’, Claims Max Tegmark",
+          "title_zh": "麻省理工学院顶尖物理学家：Anthropic员工公开谈论“统治世界”",
+          "title_en": "Anthropic Staff Openly Talk About ‘Taking Over the World’, Claims Max Tegmark",
+          "title_original": "Anthropic Staff Openly Talk About ‘Taking Over the World’, Claims Max Tegmark",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-24T17:10:45Z"
+        },
+        {
+          "id": "4a9e3bc76d458ea5eecf6865aff663116fcc1e7d",
+          "title": "麻省理工学院顶级物理学家：人类工作人员公开谈论“接管世界” / Top MIT Physicist: Anthropic Staff Openly Talk About 'Taking over the World'",
+          "title_zh": "麻省理工学院顶级物理学家：人类工作人员公开谈论“接管世界”",
+          "title_en": "Top MIT Physicist: Anthropic Staff Openly Talk About 'Taking over the World'",
+          "title_original": "Top MIT Physicist: Anthropic Staff Openly Talk About 'Taking over the World'",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50631210",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-24T17:10:45Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "Hacker News front page",
+        "Hacker News · 24h最热",
+        "hackernews",
+        "novaramedia.com"
+      ],
+      "items": [
+        {
+          "id": "400b8a85bc6986cb607b1c3d2bead66717cf4f4b",
+          "title": "麻省理工学院顶尖物理学家：Anthropic员工公开谈论“统治世界” / Top MIT Physicist: Anthropic Staff Openly Talk About 'Taking over the World'",
+          "title_zh": "麻省理工学院顶尖物理学家：Anthropic员工公开谈论“统治世界”",
+          "title_en": "Top MIT Physicist: Anthropic Staff Openly Talk About 'Taking over the World'",
+          "title_original": "Top MIT Physicist: Anthropic Staff Openly Talk About 'Taking over the World'",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist",
+          "source": "Hacker News front page",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-11-24T17:10:45Z"
+        },
+        {
+          "id": "4c315fe495724ca72961889a0c5a73f6ce09c9b3",
+          "title": "麻省理工学院顶尖物理学家：Anthropic员工公开谈论“统治世界”",
+          "title_zh": "麻省理工学院顶尖物理学家：Anthropic员工公开谈论“统治世界”",
+          "title_en": null,
+          "title_original": "麻省理工学院顶尖物理学家：Anthropic员工公开谈论“统治世界”",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist",
+          "source": "novaramedia.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-24T18:45:00.306000Z"
+        },
+        {
+          "id": "b3d8ccffa52555ddd74a90df9cc77c70f5016888",
+          "title": "麻省理工学院顶尖物理学家：Anthropic员工公开谈论“统治世界” / Anthropic Staff Openly Talk About ‘Taking Over the World’, Claims Max Tegmark",
+          "title_zh": "麻省理工学院顶尖物理学家：Anthropic员工公开谈论“统治世界”",
+          "title_en": "Anthropic Staff Openly Talk About ‘Taking Over the World’, Claims Max Tegmark",
+          "title_original": "Anthropic Staff Openly Talk About ‘Taking Over the World’, Claims Max Tegmark",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-24T17:10:45Z"
+        },
+        {
+          "id": "4a9e3bc76d458ea5eecf6865aff663116fcc1e7d",
+          "title": "麻省理工学院顶级物理学家：人类工作人员公开谈论“接管世界” / Top MIT Physicist: Anthropic Staff Openly Talk About 'Taking over the World'",
+          "title_zh": "麻省理工学院顶级物理学家：人类工作人员公开谈论“接管世界”",
+          "title_en": "Top MIT Physicist: Anthropic Staff Openly Talk About 'Taking over the World'",
+          "title_original": "Top MIT Physicist: Anthropic Staff Openly Talk About 'Taking over the World'",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50631210",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-24T17:10:45Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.6911,
+      "importance": 0.6911,
+      "importance_score": 0.6911,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.5616,
+        "source_tier": 0.58,
+        "ai_relevance": 0.78,
+        "recency": 0.9113,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-24T17:10:45Z",
+      "latest_at": "2026-11-24T18:45:00.306000Z",
+      "primary_item": {
+        "id": "400b8a85bc6986cb607b1c3d2bead66717cf4f4b",
+        "title": "麻省理工学院顶尖物理学家：Anthropic员工公开谈论“统治世界” / Top MIT Physicist: Anthropic Staff Openly Talk About 'Taking over the World'",
+        "title_zh": "麻省理工学院顶尖物理学家：Anthropic员工公开谈论“统治世界”",
+        "title_en": "Top MIT Physicist: Anthropic Staff Openly Talk About 'Taking over the World'",
+        "title_original": "Top MIT Physicist: Anthropic Staff Openly Talk About 'Taking over the World'",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist",
+        "source": "Hacker News front page",
+        "source_name": "Curated Media"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-24T23:37:49.098058Z"
       }
     },
     {
@@ -767,15 +1072,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.732,
-      "importance": 0.732,
-      "importance_score": 0.732,
+      "score": 0.7209,
+      "importance": 0.7209,
+      "importance_score": 0.7209,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.684,
         "source_tier": 0.78,
         "ai_relevance": 0.95,
-        "recency": 0.9177,
+        "recency": 0.8563,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -800,147 +1105,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-24T18:49:58.909124Z"
-      }
-    },
-    {
-      "story_id": "story_415acf837f45",
-      "title": "LLM 代理是为其母公司工作的，而不是为你工作的 / LLM agents work for their parent companies, not for you",
-      "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you",
-      "primary_url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you",
-      "source": "Hacker News front page",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "4add4741f35a43347b4a336a781599fe613bccaa",
-          "title": "LLM 代理是为其母公司工作的，而不是为你工作的 / LLM agents work for their parent companies, not for you",
-          "title_zh": "LLM 代理是为其母公司工作的，而不是为你工作的",
-          "title_en": "LLM agents work for their parent companies, not for you",
-          "title_original": "LLM agents work for their parent companies, not for you",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you",
-          "source": "Hacker News front page",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-11-24T12:40:15Z"
-        },
-        {
-          "id": "2ed3ece3e269bac078bc99a3c37d6afb24cc06c0",
-          "title": "LLM 代理是为其母公司工作的，而不是为你工作的",
-          "title_zh": "LLM 代理是为其母公司工作的，而不是为你工作的",
-          "title_en": null,
-          "title_original": "LLM 代理是为其母公司工作的，而不是为你工作的",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you",
-          "source": "michaelharley.net",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-24T13:40:57.654000Z"
-        },
-        {
-          "id": "d1fce9ffee8c33ab25b8fedce088dbc2b9074721",
-          "title": "LLM agents work for their parent companies, not for you",
-          "title_zh": null,
-          "title_en": "LLM agents work for their parent companies, not for you",
-          "title_original": "LLM agents work for their parent companies, not for you",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50627340",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-24T12:40:15Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News front page",
-        "hackernews",
-        "michaelharley.net"
-      ],
-      "items": [
-        {
-          "id": "4add4741f35a43347b4a336a781599fe613bccaa",
-          "title": "LLM 代理是为其母公司工作的，而不是为你工作的 / LLM agents work for their parent companies, not for you",
-          "title_zh": "LLM 代理是为其母公司工作的，而不是为你工作的",
-          "title_en": "LLM agents work for their parent companies, not for you",
-          "title_original": "LLM agents work for their parent companies, not for you",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you",
-          "source": "Hacker News front page",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-11-24T12:40:15Z"
-        },
-        {
-          "id": "2ed3ece3e269bac078bc99a3c37d6afb24cc06c0",
-          "title": "LLM 代理是为其母公司工作的，而不是为你工作的",
-          "title_zh": "LLM 代理是为其母公司工作的，而不是为你工作的",
-          "title_en": null,
-          "title_original": "LLM 代理是为其母公司工作的，而不是为你工作的",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you",
-          "source": "michaelharley.net",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-24T13:40:57.654000Z"
-        },
-        {
-          "id": "d1fce9ffee8c33ab25b8fedce088dbc2b9074721",
-          "title": "LLM agents work for their parent companies, not for you",
-          "title_zh": null,
-          "title_en": "LLM agents work for their parent companies, not for you",
-          "title_original": "LLM agents work for their parent companies, not for you",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50627340",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-24T12:40:15Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.6751,
-      "importance": 0.6751,
-      "importance_score": 0.6751,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.576,
-        "source_tier": 0.58,
-        "ai_relevance": 0.8,
-        "recency": 0.9152,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-24T12:40:15Z",
-      "latest_at": "2026-11-24T13:40:57.654000Z",
-      "primary_item": {
-        "id": "4add4741f35a43347b4a336a781599fe613bccaa",
-        "title": "LLM 代理是为其母公司工作的，而不是为你工作的 / LLM agents work for their parent companies, not for you",
-        "title_zh": "LLM 代理是为其母公司工作的，而不是为你工作的",
-        "title_en": "LLM agents work for their parent companies, not for you",
-        "title_original": "LLM agents work for their parent companies, not for you",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you",
-        "source": "Hacker News front page",
-        "source_name": "Curated Media"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-24T18:49:58.909124Z"
+        "scored_at": "2026-11-24T23:37:49.098058Z"
       }
     },
     {
@@ -1017,15 +1182,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6745,
-      "importance": 0.6745,
-      "importance_score": 0.6745,
+      "score": 0.663,
+      "importance": 0.663,
+      "importance_score": 0.663,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.6048,
         "source_tier": 0.58,
         "ai_relevance": 0.84,
-        "recency": 0.9582,
+        "recency": 0.894,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1051,7 +1216,396 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-24T18:49:58.909124Z"
+        "scored_at": "2026-11-24T23:37:49.098058Z"
+      }
+    },
+    {
+      "story_id": "story_e08f5bc1b5a4",
+      "title": "据报道，黄仁勋告诉英伟达员工，特朗普让他重新受聘“不是真的” / Jensen Huang reportedly tells Nvidia staff it&#8217;s ‘not true’ Trump got him rehired",
+      "url": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
+      "primary_url": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
+      "source": "The Verge (all)",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "d27d15d4c62106cd40ead7be4c33b87ddd676ed1",
+          "title": "据报道，黄仁勋告诉英伟达员工，特朗普让他重新受聘“不是真的” / Jensen Huang reportedly tells Nvidia staff it&#8217;s ‘not true’ Trump got him rehired",
+          "title_zh": "据报道，黄仁勋告诉英伟达员工，特朗普让他重新受聘“不是真的”",
+          "title_en": "Jensen Huang reportedly tells Nvidia staff it&#8217;s ‘not true’ Trump got him rehired",
+          "title_original": "Jensen Huang reportedly tells Nvidia staff it&#8217;s ‘not true’ Trump got him rehired",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
+          "source": "The Verge (all)",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-11-24T20:02:03Z"
+        },
+        {
+          "id": "bbadfdbe1120c65383989271f0b7f1355debd70c",
+          "title": "据报道，黄仁勋告诉英伟达员工，特朗普让他重新受聘“不是真的” / Jensen Huang reportedly tells Nvidia staff it’s ‘not true’ Trump got him rehired",
+          "title_zh": "据报道，黄仁勋告诉英伟达员工，特朗普让他重新受聘“不是真的”",
+          "title_en": "Jensen Huang reportedly tells Nvidia staff it’s ‘not true’ Trump got him rehired",
+          "title_original": "Jensen Huang reportedly tells Nvidia staff it’s ‘not true’ Trump got him rehired",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-24T20:02:03Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Verge",
+        "The Verge (all)"
+      ],
+      "items": [
+        {
+          "id": "d27d15d4c62106cd40ead7be4c33b87ddd676ed1",
+          "title": "据报道，黄仁勋告诉英伟达员工，特朗普让他重新受聘“不是真的” / Jensen Huang reportedly tells Nvidia staff it&#8217;s ‘not true’ Trump got him rehired",
+          "title_zh": "据报道，黄仁勋告诉英伟达员工，特朗普让他重新受聘“不是真的”",
+          "title_en": "Jensen Huang reportedly tells Nvidia staff it&#8217;s ‘not true’ Trump got him rehired",
+          "title_original": "Jensen Huang reportedly tells Nvidia staff it&#8217;s ‘not true’ Trump got him rehired",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
+          "source": "The Verge (all)",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-11-24T20:02:03Z"
+        },
+        {
+          "id": "bbadfdbe1120c65383989271f0b7f1355debd70c",
+          "title": "据报道，黄仁勋告诉英伟达员工，特朗普让他重新受聘“不是真的” / Jensen Huang reportedly tells Nvidia staff it’s ‘not true’ Trump got him rehired",
+          "title_zh": "据报道，黄仁勋告诉英伟达员工，特朗普让他重新受聘“不是真的”",
+          "title_en": "Jensen Huang reportedly tells Nvidia staff it’s ‘not true’ Trump got him rehired",
+          "title_original": "Jensen Huang reportedly tells Nvidia staff it’s ‘not true’ Trump got him rehired",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-24T20:02:03Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.648,
+      "importance": 0.648,
+      "importance_score": 0.648,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5616,
+        "source_tier": 0.58,
+        "ai_relevance": 0.78,
+        "recency": 0.9497,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-24T20:02:03Z",
+      "latest_at": "2026-11-24T20:02:03Z",
+      "primary_item": {
+        "id": "d27d15d4c62106cd40ead7be4c33b87ddd676ed1",
+        "title": "据报道，黄仁勋告诉英伟达员工，特朗普让他重新受聘“不是真的” / Jensen Huang reportedly tells Nvidia staff it&#8217;s ‘not true’ Trump got him rehired",
+        "title_zh": "据报道，黄仁勋告诉英伟达员工，特朗普让他重新受聘“不是真的”",
+        "title_en": "Jensen Huang reportedly tells Nvidia staff it&#8217;s ‘not true’ Trump got him rehired",
+        "title_original": "Jensen Huang reportedly tells Nvidia staff it&#8217;s ‘not true’ Trump got him rehired",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
+        "source": "The Verge (all)",
+        "source_name": "Curated Media"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-24T23:37:49.098058Z"
+      }
+    },
+    {
+      "story_id": "story_415acf837f45",
+      "title": "LLM 代理是为其母公司工作的，而不是为你工作的 / LLM agents work for their parent companies, not for you",
+      "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you",
+      "primary_url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you",
+      "source": "Hacker News front page",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "4add4741f35a43347b4a336a781599fe613bccaa",
+          "title": "LLM 代理是为其母公司工作的，而不是为你工作的 / LLM agents work for their parent companies, not for you",
+          "title_zh": "LLM 代理是为其母公司工作的，而不是为你工作的",
+          "title_en": "LLM agents work for their parent companies, not for you",
+          "title_original": "LLM agents work for their parent companies, not for you",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you",
+          "source": "Hacker News front page",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-11-24T12:40:15Z"
+        },
+        {
+          "id": "2ed3ece3e269bac078bc99a3c37d6afb24cc06c0",
+          "title": "LLM 代理是为其母公司工作的，而不是为你工作的",
+          "title_zh": "LLM 代理是为其母公司工作的，而不是为你工作的",
+          "title_en": null,
+          "title_original": "LLM 代理是为其母公司工作的，而不是为你工作的",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you",
+          "source": "michaelharley.net",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-24T13:40:57.654000Z"
+        },
+        {
+          "id": "d1fce9ffee8c33ab25b8fedce088dbc2b9074721",
+          "title": "LLM 代理人为他们的母公司工作，而不是为您工作 / LLM agents work for their parent companies, not for you",
+          "title_zh": "LLM 代理人为他们的母公司工作，而不是为您工作",
+          "title_en": "LLM agents work for their parent companies, not for you",
+          "title_original": "LLM agents work for their parent companies, not for you",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50627340",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-24T12:40:15Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News front page",
+        "hackernews",
+        "michaelharley.net"
+      ],
+      "items": [
+        {
+          "id": "4add4741f35a43347b4a336a781599fe613bccaa",
+          "title": "LLM 代理是为其母公司工作的，而不是为你工作的 / LLM agents work for their parent companies, not for you",
+          "title_zh": "LLM 代理是为其母公司工作的，而不是为你工作的",
+          "title_en": "LLM agents work for their parent companies, not for you",
+          "title_original": "LLM agents work for their parent companies, not for you",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you",
+          "source": "Hacker News front page",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-11-24T12:40:15Z"
+        },
+        {
+          "id": "2ed3ece3e269bac078bc99a3c37d6afb24cc06c0",
+          "title": "LLM 代理是为其母公司工作的，而不是为你工作的",
+          "title_zh": "LLM 代理是为其母公司工作的，而不是为你工作的",
+          "title_en": null,
+          "title_original": "LLM 代理是为其母公司工作的，而不是为你工作的",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you",
+          "source": "michaelharley.net",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-24T13:40:57.654000Z"
+        },
+        {
+          "id": "d1fce9ffee8c33ab25b8fedce088dbc2b9074721",
+          "title": "LLM 代理人为他们的母公司工作，而不是为您工作 / LLM agents work for their parent companies, not for you",
+          "title_zh": "LLM 代理人为他们的母公司工作，而不是为您工作",
+          "title_en": "LLM agents work for their parent companies, not for you",
+          "title_original": "LLM agents work for their parent companies, not for you",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50627340",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-24T12:40:15Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.6641,
+      "importance": 0.6641,
+      "importance_score": 0.6641,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.576,
+        "source_tier": 0.58,
+        "ai_relevance": 0.8,
+        "recency": 0.8539,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-24T12:40:15Z",
+      "latest_at": "2026-11-24T13:40:57.654000Z",
+      "primary_item": {
+        "id": "4add4741f35a43347b4a336a781599fe613bccaa",
+        "title": "LLM 代理是为其母公司工作的，而不是为你工作的 / LLM agents work for their parent companies, not for you",
+        "title_zh": "LLM 代理是为其母公司工作的，而不是为你工作的",
+        "title_en": "LLM agents work for their parent companies, not for you",
+        "title_original": "LLM agents work for their parent companies, not for you",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you",
+        "source": "Hacker News front page",
+        "source_name": "Curated Media"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-24T23:37:49.098058Z"
+      }
+    },
+    {
+      "story_id": "story_7ecdd45b9759",
+      "title": "英伟达前合作伙伴Megaspeed遭美国商务部出口禁令 / Ex-Nvidia partner Megaspeed hit with U.S. Commerce Department export ban",
+      "url": "https://www.upi.com/Top_News/US/2026/11/24/NVIDIA-partner-Megaspeed/1701795520063",
+      "primary_url": "https://www.upi.com/Top_News/US/2026/11/24/NVIDIA-partner-Megaspeed/1701795520063",
+      "source": "Hacker News front page",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "91a8d03b157ef798bcc4f19d83394cebc4e9b72e",
+          "title": "英伟达前合作伙伴Megaspeed遭美国商务部出口禁令 / Ex-Nvidia partner Megaspeed hit with U.S. Commerce Department export ban",
+          "title_zh": "英伟达前合作伙伴Megaspeed遭美国商务部出口禁令",
+          "title_en": "Ex-Nvidia partner Megaspeed hit with U.S. Commerce Department export ban",
+          "title_original": "Ex-Nvidia partner Megaspeed hit with U.S. Commerce Department export ban",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.upi.com/Top_News/US/2026/11/24/NVIDIA-partner-Megaspeed/1701795520063",
+          "source": "Hacker News front page",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-11-24T16:08:29Z"
+        },
+        {
+          "id": "1e2d0364a9f5e0f02a56d99bf6fcdf51ab103f57",
+          "title": "英伟达前合作伙伴Megaspeed遭美国商务部出口禁令",
+          "title_zh": "英伟达前合作伙伴Megaspeed遭美国商务部出口禁令",
+          "title_en": null,
+          "title_original": "英伟达前合作伙伴Megaspeed遭美国商务部出口禁令",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.upi.com/Top_News/US/2026/11/24/NVIDIA-partner-Megaspeed/1701795520063",
+          "source": "www.upi.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-24T20:20:41.786000Z"
+        },
+        {
+          "id": "2bc1e63bf68d6f6ee9213970e1d0c349d7fa6da3",
+          "title": "英伟达前合作伙伴 Megaspeed 遭遇美国商务部出口禁令 / Ex-Nvidia partner Megaspeed hit with U.S. Commerce Department export ban",
+          "title_zh": "英伟达前合作伙伴 Megaspeed 遭遇美国商务部出口禁令",
+          "title_en": "Ex-Nvidia partner Megaspeed hit with U.S. Commerce Department export ban",
+          "title_original": "Ex-Nvidia partner Megaspeed hit with U.S. Commerce Department export ban",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50630245",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-24T16:08:29Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News front page",
+        "hackernews",
+        "www.upi.com"
+      ],
+      "items": [
+        {
+          "id": "91a8d03b157ef798bcc4f19d83394cebc4e9b72e",
+          "title": "英伟达前合作伙伴Megaspeed遭美国商务部出口禁令 / Ex-Nvidia partner Megaspeed hit with U.S. Commerce Department export ban",
+          "title_zh": "英伟达前合作伙伴Megaspeed遭美国商务部出口禁令",
+          "title_en": "Ex-Nvidia partner Megaspeed hit with U.S. Commerce Department export ban",
+          "title_original": "Ex-Nvidia partner Megaspeed hit with U.S. Commerce Department export ban",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.upi.com/Top_News/US/2026/11/24/NVIDIA-partner-Megaspeed/1701795520063",
+          "source": "Hacker News front page",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-11-24T16:08:29Z"
+        },
+        {
+          "id": "1e2d0364a9f5e0f02a56d99bf6fcdf51ab103f57",
+          "title": "英伟达前合作伙伴Megaspeed遭美国商务部出口禁令",
+          "title_zh": "英伟达前合作伙伴Megaspeed遭美国商务部出口禁令",
+          "title_en": null,
+          "title_original": "英伟达前合作伙伴Megaspeed遭美国商务部出口禁令",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.upi.com/Top_News/US/2026/11/24/NVIDIA-partner-Megaspeed/1701795520063",
+          "source": "www.upi.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-24T20:20:41.786000Z"
+        },
+        {
+          "id": "2bc1e63bf68d6f6ee9213970e1d0c349d7fa6da3",
+          "title": "英伟达前合作伙伴 Megaspeed 遭遇美国商务部出口禁令 / Ex-Nvidia partner Megaspeed hit with U.S. Commerce Department export ban",
+          "title_zh": "英伟达前合作伙伴 Megaspeed 遭遇美国商务部出口禁令",
+          "title_en": "Ex-Nvidia partner Megaspeed hit with U.S. Commerce Department export ban",
+          "title_original": "Ex-Nvidia partner Megaspeed hit with U.S. Commerce Department export ban",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50630245",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-24T16:08:29Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.6637,
+      "importance": 0.6637,
+      "importance_score": 0.6637,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.5616,
+        "source_tier": 0.58,
+        "ai_relevance": 0.78,
+        "recency": 0.8978,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-24T16:08:29Z",
+      "latest_at": "2026-11-24T20:20:41.786000Z",
+      "primary_item": {
+        "id": "91a8d03b157ef798bcc4f19d83394cebc4e9b72e",
+        "title": "英伟达前合作伙伴Megaspeed遭美国商务部出口禁令 / Ex-Nvidia partner Megaspeed hit with U.S. Commerce Department export ban",
+        "title_zh": "英伟达前合作伙伴Megaspeed遭美国商务部出口禁令",
+        "title_en": "Ex-Nvidia partner Megaspeed hit with U.S. Commerce Department export ban",
+        "title_original": "Ex-Nvidia partner Megaspeed hit with U.S. Commerce Department export ban",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.upi.com/Top_News/US/2026/11/24/NVIDIA-partner-Megaspeed/1701795520063",
+        "source": "Hacker News front page",
+        "source_name": "Curated Media"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-24T23:37:49.098058Z"
       }
     },
     {
@@ -1157,15 +1711,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6649,
-      "importance": 0.6649,
-      "importance_score": 0.6649,
+      "score": 0.654,
+      "importance": 0.654,
+      "importance_score": 0.654,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5616,
         "source_tier": 0.58,
         "ai_relevance": 0.78,
-        "recency": 0.9044,
+        "recency": 0.8439,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1190,338 +1744,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-24T18:49:58.909124Z"
-      }
-    },
-    {
-      "story_id": "story_1d314a481be1",
-      "title": "Anthropic 推出 Claude Ship，让 AI 代理审查、修复和批准代码更改 / Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
-      "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes",
-      "primary_url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes",
-      "source": "TechCrunch AI",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "31f91168dc3496984e419cb9ae7643ca5f21e5ad",
-          "title": "Anthropic 推出 Claude Ship，让 AI 代理审查、修复和批准代码更改 / Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
-          "title_zh": "Anthropic 推出 Claude Ship，让 AI 代理审查、修复和批准代码更改",
-          "title_en": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
-          "title_original": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-11-23T22:05:50Z"
-        },
-        {
-          "id": "ec0831bcb408209f71a6e7cba02ccd9e6cb3ee2a",
-          "title": "Anthropic 推出 Claude Ship，代理立即审查、修复和批准代码更改 / Anthropic launches Claude Ship, agents review, fix, & approve code changes now",
-          "title_zh": "Anthropic 推出 Claude Ship，代理立即审查、修复和批准代码更改",
-          "title_en": "Anthropic launches Claude Ship, agents review, fix, & approve code changes now",
-          "title_original": "Anthropic launches Claude Ship, agents review, fix, & approve code changes now",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-11-23T23:39:44Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "HN Algolia · AI 24h",
-        "TechCrunch AI"
-      ],
-      "items": [
-        {
-          "id": "31f91168dc3496984e419cb9ae7643ca5f21e5ad",
-          "title": "Anthropic 推出 Claude Ship，让 AI 代理审查、修复和批准代码更改 / Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
-          "title_zh": "Anthropic 推出 Claude Ship，让 AI 代理审查、修复和批准代码更改",
-          "title_en": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
-          "title_original": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-11-23T22:05:50Z"
-        },
-        {
-          "id": "ec0831bcb408209f71a6e7cba02ccd9e6cb3ee2a",
-          "title": "Anthropic 推出 Claude Ship，代理立即审查、修复和批准代码更改 / Anthropic launches Claude Ship, agents review, fix, & approve code changes now",
-          "title_zh": "Anthropic 推出 Claude Ship，代理立即审查、修复和批准代码更改",
-          "title_en": "Anthropic launches Claude Ship, agents review, fix, & approve code changes now",
-          "title_original": "Anthropic launches Claude Ship, agents review, fix, & approve code changes now",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-11-23T23:39:44Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6521,
-      "importance": 0.6521,
-      "importance_score": 0.6521,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.6336,
-        "source_tier": 0.58,
-        "ai_relevance": 0.88,
-        "recency": 0.7415,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-23T22:05:50Z",
-      "latest_at": "2026-11-23T23:39:44Z",
-      "primary_item": {
-        "id": "31f91168dc3496984e419cb9ae7643ca5f21e5ad",
-        "title": "Anthropic 推出 Claude Ship，让 AI 代理审查、修复和批准代码更改 / Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
-        "title_zh": "Anthropic 推出 Claude Ship，让 AI 代理审查、修复和批准代码更改",
-        "title_en": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
-        "title_original": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes",
-        "source": "TechCrunch AI",
-        "source_name": "Curated Media"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-24T18:49:58.909124Z"
-      }
-    },
-    {
-      "story_id": "story_1a312c9291f9",
-      "title": "麻省理工学院顶级物理学家：人类工作人员公开谈论“接管世界” / Top MIT Physicist: Anthropic Staff Openly Talk About 'Taking over the World'",
-      "url": "https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist",
-      "primary_url": "https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist",
-      "source": "Hacker News front page",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "400b8a85bc6986cb607b1c3d2bead66717cf4f4b",
-          "title": "麻省理工学院顶级物理学家：人类工作人员公开谈论“接管世界” / Top MIT Physicist: Anthropic Staff Openly Talk About 'Taking over the World'",
-          "title_zh": "麻省理工学院顶级物理学家：人类工作人员公开谈论“接管世界”",
-          "title_en": "Top MIT Physicist: Anthropic Staff Openly Talk About 'Taking over the World'",
-          "title_original": "Top MIT Physicist: Anthropic Staff Openly Talk About 'Taking over the World'",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist",
-          "source": "Hacker News front page",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-11-24T17:10:45Z"
-        },
-        {
-          "id": "4a9e3bc76d458ea5eecf6865aff663116fcc1e7d",
-          "title": "麻省理工学院顶级物理学家：人类工作人员公开谈论“接管世界” / Top MIT Physicist: Anthropic Staff Openly Talk About 'Taking over the World'",
-          "title_zh": "麻省理工学院顶级物理学家：人类工作人员公开谈论“接管世界”",
-          "title_en": "Top MIT Physicist: Anthropic Staff Openly Talk About 'Taking over the World'",
-          "title_original": "Top MIT Physicist: Anthropic Staff Openly Talk About 'Taking over the World'",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50631210",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-24T17:10:45Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News front page",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "400b8a85bc6986cb607b1c3d2bead66717cf4f4b",
-          "title": "麻省理工学院顶级物理学家：人类工作人员公开谈论“接管世界” / Top MIT Physicist: Anthropic Staff Openly Talk About 'Taking over the World'",
-          "title_zh": "麻省理工学院顶级物理学家：人类工作人员公开谈论“接管世界”",
-          "title_en": "Top MIT Physicist: Anthropic Staff Openly Talk About 'Taking over the World'",
-          "title_original": "Top MIT Physicist: Anthropic Staff Openly Talk About 'Taking over the World'",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist",
-          "source": "Hacker News front page",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-11-24T17:10:45Z"
-        },
-        {
-          "id": "4a9e3bc76d458ea5eecf6865aff663116fcc1e7d",
-          "title": "麻省理工学院顶级物理学家：人类工作人员公开谈论“接管世界” / Top MIT Physicist: Anthropic Staff Openly Talk About 'Taking over the World'",
-          "title_zh": "麻省理工学院顶级物理学家：人类工作人员公开谈论“接管世界”",
-          "title_en": "Top MIT Physicist: Anthropic Staff Openly Talk About 'Taking over the World'",
-          "title_original": "Top MIT Physicist: Anthropic Staff Openly Talk About 'Taking over the World'",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50631210",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-24T17:10:45Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6529,
-      "importance": 0.6529,
-      "importance_score": 0.6529,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.5616,
-        "source_tier": 0.58,
-        "ai_relevance": 0.78,
-        "recency": 0.9767,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-24T17:10:45Z",
-      "latest_at": "2026-11-24T17:10:45Z",
-      "primary_item": {
-        "id": "400b8a85bc6986cb607b1c3d2bead66717cf4f4b",
-        "title": "麻省理工学院顶级物理学家：人类工作人员公开谈论“接管世界” / Top MIT Physicist: Anthropic Staff Openly Talk About 'Taking over the World'",
-        "title_zh": "麻省理工学院顶级物理学家：人类工作人员公开谈论“接管世界”",
-        "title_en": "Top MIT Physicist: Anthropic Staff Openly Talk About 'Taking over the World'",
-        "title_original": "Top MIT Physicist: Anthropic Staff Openly Talk About 'Taking over the World'",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist",
-        "source": "Hacker News front page",
-        "source_name": "Curated Media"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-24T18:49:58.909124Z"
-      }
-    },
-    {
-      "story_id": "story_7ecdd45b9759",
-      "title": "英伟达前合作伙伴 Megaspeed 遭遇美国商务部出口禁令 / Ex-Nvidia partner Megaspeed hit with U.S. Commerce Department export ban",
-      "url": "https://www.upi.com/Top_News/US/2026/11/24/NVIDIA-partner-Megaspeed/1701795520063",
-      "primary_url": "https://www.upi.com/Top_News/US/2026/11/24/NVIDIA-partner-Megaspeed/1701795520063",
-      "source": "Hacker News front page",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "91a8d03b157ef798bcc4f19d83394cebc4e9b72e",
-          "title": "英伟达前合作伙伴 Megaspeed 遭遇美国商务部出口禁令 / Ex-Nvidia partner Megaspeed hit with U.S. Commerce Department export ban",
-          "title_zh": "英伟达前合作伙伴 Megaspeed 遭遇美国商务部出口禁令",
-          "title_en": "Ex-Nvidia partner Megaspeed hit with U.S. Commerce Department export ban",
-          "title_original": "Ex-Nvidia partner Megaspeed hit with U.S. Commerce Department export ban",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.upi.com/Top_News/US/2026/11/24/NVIDIA-partner-Megaspeed/1701795520063",
-          "source": "Hacker News front page",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-11-24T16:08:29Z"
-        },
-        {
-          "id": "2bc1e63bf68d6f6ee9213970e1d0c349d7fa6da3",
-          "title": "英伟达前合作伙伴 Megaspeed 遭遇美国商务部出口禁令 / Ex-Nvidia partner Megaspeed hit with U.S. Commerce Department export ban",
-          "title_zh": "英伟达前合作伙伴 Megaspeed 遭遇美国商务部出口禁令",
-          "title_en": "Ex-Nvidia partner Megaspeed hit with U.S. Commerce Department export ban",
-          "title_original": "Ex-Nvidia partner Megaspeed hit with U.S. Commerce Department export ban",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50630245",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-24T16:08:29Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News front page",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "91a8d03b157ef798bcc4f19d83394cebc4e9b72e",
-          "title": "英伟达前合作伙伴 Megaspeed 遭遇美国商务部出口禁令 / Ex-Nvidia partner Megaspeed hit with U.S. Commerce Department export ban",
-          "title_zh": "英伟达前合作伙伴 Megaspeed 遭遇美国商务部出口禁令",
-          "title_en": "Ex-Nvidia partner Megaspeed hit with U.S. Commerce Department export ban",
-          "title_original": "Ex-Nvidia partner Megaspeed hit with U.S. Commerce Department export ban",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.upi.com/Top_News/US/2026/11/24/NVIDIA-partner-Megaspeed/1701795520063",
-          "source": "Hacker News front page",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-11-24T16:08:29Z"
-        },
-        {
-          "id": "2bc1e63bf68d6f6ee9213970e1d0c349d7fa6da3",
-          "title": "英伟达前合作伙伴 Megaspeed 遭遇美国商务部出口禁令 / Ex-Nvidia partner Megaspeed hit with U.S. Commerce Department export ban",
-          "title_zh": "英伟达前合作伙伴 Megaspeed 遭遇美国商务部出口禁令",
-          "title_en": "Ex-Nvidia partner Megaspeed hit with U.S. Commerce Department export ban",
-          "title_original": "Ex-Nvidia partner Megaspeed hit with U.S. Commerce Department export ban",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50630245",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-24T16:08:29Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6503,
-      "importance": 0.6503,
-      "importance_score": 0.6503,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.5616,
-        "source_tier": 0.58,
-        "ai_relevance": 0.78,
-        "recency": 0.9622,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-24T16:08:29Z",
-      "latest_at": "2026-11-24T16:08:29Z",
-      "primary_item": {
-        "id": "91a8d03b157ef798bcc4f19d83394cebc4e9b72e",
-        "title": "英伟达前合作伙伴 Megaspeed 遭遇美国商务部出口禁令 / Ex-Nvidia partner Megaspeed hit with U.S. Commerce Department export ban",
-        "title_zh": "英伟达前合作伙伴 Megaspeed 遭遇美国商务部出口禁令",
-        "title_en": "Ex-Nvidia partner Megaspeed hit with U.S. Commerce Department export ban",
-        "title_original": "Ex-Nvidia partner Megaspeed hit with U.S. Commerce Department export ban",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.upi.com/Top_News/US/2026/11/24/NVIDIA-partner-Megaspeed/1701795520063",
-        "source": "Hacker News front page",
-        "source_name": "Curated Media"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-24T18:49:58.909124Z"
+        "scored_at": "2026-11-24T23:37:49.098058Z"
       }
     },
     {
@@ -1598,15 +1821,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5557,
-      "importance": 0.5557,
-      "importance_score": 0.5557,
+      "score": 0.5444,
+      "importance": 0.5444,
+      "importance_score": 0.5444,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.504,
         "source_tier": 0.32,
         "ai_relevance": 0.7,
-        "recency": 0.9394,
+        "recency": 0.8765,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1631,7 +1854,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-24T18:49:58.909124Z"
+        "scored_at": "2026-11-24T23:37:49.098058Z"
       }
     },
     {
@@ -1708,15 +1931,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5437,
-      "importance": 0.5437,
-      "importance_score": 0.5437,
+      "score": 0.5321,
+      "importance": 0.5321,
+      "importance_score": 0.5321,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4752,
         "source_tier": 0.32,
         "ai_relevance": 0.66,
-        "recency": 0.9651,
+        "recency": 0.9005,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1741,338 +1964,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-24T18:49:58.909124Z"
+        "scored_at": "2026-11-24T23:37:49.098058Z"
       }
     },
     {
-      "story_id": "story_67784e2abd0c",
-      "title": "显示 HN：Juncts，一个 DM 收件箱，可容纳 Claude 和 ChatGPT 可以使用的 5 个应用程序 / Show HN: Juncts, one DM inbox for five apps that Claude and ChatGPT can work in",
-      "url": "https://juncts.com/app?demo=1",
-      "primary_url": "https://juncts.com/app?demo=1",
-      "source": "Hacker News front page",
-      "source_name": "Curated Media",
+      "story_id": "story_073143c4dc0f",
+      "title": "Anthropic在盘前交易中跌破83美元的IPO发行价 / Anthropic breaks below $83 IPO price",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading",
+      "primary_url": "https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
       "sources": [
         {
-          "id": "6c524e0d350c9a2c5b60e8fdcea1a2b196dd24ed",
-          "title": "显示 HN：Juncts，一个 DM 收件箱，可容纳 Claude 和 ChatGPT 可以使用的 5 个应用程序 / Show HN: Juncts, one DM inbox for five apps that Claude and ChatGPT can work in",
-          "title_zh": "显示 HN：Juncts，一个 DM 收件箱，可容纳 Claude 和 ChatGPT 可以使用的 5 个应用程序",
-          "title_en": "Show HN: Juncts, one DM inbox for five apps that Claude and ChatGPT can work in",
-          "title_original": "Show HN: Juncts, one DM inbox for five apps that Claude and ChatGPT can work in",
+          "id": "618a8839949bc97c466441be2169cfb28f98ab39",
+          "title": "Anthropic在盘前交易中跌破83美元的IPO发行价 / Anthropic breaks below $83 IPO price",
+          "title_zh": "Anthropic在盘前交易中跌破83美元的IPO发行价",
+          "title_en": "Anthropic breaks below $83 IPO price",
+          "title_original": "Anthropic breaks below $83 IPO price",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://juncts.com/app?demo=1",
-          "source": "Hacker News front page",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-11-24T03:16:58Z"
+          "url": "https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-24T13:23:47Z"
         },
         {
-          "id": "10ea7af7d44b557f156ba9c06c3299302da4afa4",
-          "title": "显示 HN：Juncts，一个 DM 收件箱，可容纳 Claude 和 ChatGPT 可以使用的 5 个应用程序 / Show HN: Juncts, one DM inbox for five apps that Claude and ChatGPT can work in",
-          "title_zh": "显示 HN：Juncts，一个 DM 收件箱，可容纳 Claude 和 ChatGPT 可以使用的 5 个应用程序",
-          "title_en": "Show HN: Juncts, one DM inbox for five apps that Claude and ChatGPT can work in",
-          "title_original": "Show HN: Juncts, one DM inbox for five apps that Claude and ChatGPT can work in",
+          "id": "7b048212c2bc952683a7cc50504f3d0c0b2cd699",
+          "title": "Anthropic 跌破 83 美元 IPO 价格 / Anthropic breaks below $83 IPO price",
+          "title_zh": "Anthropic 跌破 83 美元 IPO 价格",
+          "title_en": "Anthropic breaks below $83 IPO price",
+          "title_original": "Anthropic breaks below $83 IPO price",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50623175",
+          "url": "https://news.ycombinator.com/item?id=50627836",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-24T03:16:58Z"
+          "published_at": "2026-11-24T13:23:47Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News front page",
+        "Hacker News · 24h最热",
         "hackernews"
       ],
       "items": [
         {
-          "id": "6c524e0d350c9a2c5b60e8fdcea1a2b196dd24ed",
-          "title": "显示 HN：Juncts，一个 DM 收件箱，可容纳 Claude 和 ChatGPT 可以使用的 5 个应用程序 / Show HN: Juncts, one DM inbox for five apps that Claude and ChatGPT can work in",
-          "title_zh": "显示 HN：Juncts，一个 DM 收件箱，可容纳 Claude 和 ChatGPT 可以使用的 5 个应用程序",
-          "title_en": "Show HN: Juncts, one DM inbox for five apps that Claude and ChatGPT can work in",
-          "title_original": "Show HN: Juncts, one DM inbox for five apps that Claude and ChatGPT can work in",
+          "id": "618a8839949bc97c466441be2169cfb28f98ab39",
+          "title": "Anthropic在盘前交易中跌破83美元的IPO发行价 / Anthropic breaks below $83 IPO price",
+          "title_zh": "Anthropic在盘前交易中跌破83美元的IPO发行价",
+          "title_en": "Anthropic breaks below $83 IPO price",
+          "title_original": "Anthropic breaks below $83 IPO price",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://juncts.com/app?demo=1",
-          "source": "Hacker News front page",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-11-24T03:16:58Z"
+          "url": "https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-24T13:23:47Z"
         },
         {
-          "id": "10ea7af7d44b557f156ba9c06c3299302da4afa4",
-          "title": "显示 HN：Juncts，一个 DM 收件箱，可容纳 Claude 和 ChatGPT 可以使用的 5 个应用程序 / Show HN: Juncts, one DM inbox for five apps that Claude and ChatGPT can work in",
-          "title_zh": "显示 HN：Juncts，一个 DM 收件箱，可容纳 Claude 和 ChatGPT 可以使用的 5 个应用程序",
-          "title_en": "Show HN: Juncts, one DM inbox for five apps that Claude and ChatGPT can work in",
-          "title_original": "Show HN: Juncts, one DM inbox for five apps that Claude and ChatGPT can work in",
+          "id": "7b048212c2bc952683a7cc50504f3d0c0b2cd699",
+          "title": "Anthropic 跌破 83 美元 IPO 价格 / Anthropic breaks below $83 IPO price",
+          "title_zh": "Anthropic 跌破 83 美元 IPO 价格",
+          "title_en": "Anthropic breaks below $83 IPO price",
+          "title_original": "Anthropic breaks below $83 IPO price",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50623175",
+          "url": "https://news.ycombinator.com/item?id=50627836",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-24T03:16:58Z"
+          "published_at": "2026-11-24T13:23:47Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6417,
-      "importance": 0.6417,
-      "importance_score": 0.6417,
+      "score": 0.5211,
+      "importance": 0.5211,
+      "importance_score": 0.5211,
       "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.5976,
-        "source_tier": 0.58,
-        "ai_relevance": 0.83,
-        "recency": 0.7991,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-24T03:16:58Z",
-      "latest_at": "2026-11-24T03:16:58Z",
-      "primary_item": {
-        "id": "6c524e0d350c9a2c5b60e8fdcea1a2b196dd24ed",
-        "title": "显示 HN：Juncts，一个 DM 收件箱，可容纳 Claude 和 ChatGPT 可以使用的 5 个应用程序 / Show HN: Juncts, one DM inbox for five apps that Claude and ChatGPT can work in",
-        "title_zh": "显示 HN：Juncts，一个 DM 收件箱，可容纳 Claude 和 ChatGPT 可以使用的 5 个应用程序",
-        "title_en": "Show HN: Juncts, one DM inbox for five apps that Claude and ChatGPT can work in",
-        "title_original": "Show HN: Juncts, one DM inbox for five apps that Claude and ChatGPT can work in",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://juncts.com/app?demo=1",
-        "source": "Hacker News front page",
-        "source_name": "Curated Media"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-24T18:49:58.909124Z"
-      }
-    },
-    {
-      "story_id": "story_bf71e11337d7",
-      "title": "特朗普政府对英伟达丑闻中心的新加坡公司 Megaspeed 实施制裁 / Trump Administration Imposes Sanctions on Megaspeed, Singaporean Firm at Center of Nvidia Scandal",
-      "url": "https://www.nytimes.com/2026/11/23/business/trump-administration-megaspeed-trade-blacklist-nvidia.html",
-      "primary_url": "https://www.nytimes.com/2026/11/23/business/trump-administration-megaspeed-trade-blacklist-nvidia.html",
-      "source": "New York Times",
-      "source_name": "TechURLs",
-      "sources": [
-        {
-          "id": "7d467ef91691e2d017b2720018b6cb79ba4e1ac6",
-          "title": "特朗普政府对英伟达丑闻中心的新加坡公司 Megaspeed 实施制裁 / Trump Administration Imposes Sanctions on Megaspeed, Singaporean Firm at Center of Nvidia Scandal",
-          "title_zh": "特朗普政府对英伟达丑闻中心的新加坡公司 Megaspeed 实施制裁",
-          "title_en": "Trump Administration Imposes Sanctions on Megaspeed, Singaporean Firm at Center of Nvidia Scandal",
-          "title_original": "Trump Administration Imposes Sanctions on Megaspeed, Singaporean Firm at Center of Nvidia Scandal",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.nytimes.com/2026/11/23/business/trump-administration-megaspeed-trade-blacklist-nvidia.html",
-          "source": "New York Times",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-23T22:18:30Z"
-        },
-        {
-          "id": "b4d9d6046b55567e15657ec7f148d1f02e3c32c3",
-          "title": "特朗普政府将制裁英伟达丑闻中心的新加坡公司 / Trump Administration to Sanction Singaporean Firm at Center of Nvidia Scandal",
-          "title_zh": "特朗普政府将制裁英伟达丑闻中心的新加坡公司",
-          "title_en": "Trump Administration to Sanction Singaporean Firm at Center of Nvidia Scandal",
-          "title_original": "Trump Administration to Sanction Singaporean Firm at Center of Nvidia Scandal",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.nytimes.com/2026/11/23/technology/trump-administration-megaspeed-trade-blacklist-nvidia.html",
-          "source": "New York Times",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-23T21:07:02Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "New York Times"
-      ],
-      "items": [
-        {
-          "id": "7d467ef91691e2d017b2720018b6cb79ba4e1ac6",
-          "title": "特朗普政府对英伟达丑闻中心的新加坡公司 Megaspeed 实施制裁 / Trump Administration Imposes Sanctions on Megaspeed, Singaporean Firm at Center of Nvidia Scandal",
-          "title_zh": "特朗普政府对英伟达丑闻中心的新加坡公司 Megaspeed 实施制裁",
-          "title_en": "Trump Administration Imposes Sanctions on Megaspeed, Singaporean Firm at Center of Nvidia Scandal",
-          "title_original": "Trump Administration Imposes Sanctions on Megaspeed, Singaporean Firm at Center of Nvidia Scandal",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.nytimes.com/2026/11/23/business/trump-administration-megaspeed-trade-blacklist-nvidia.html",
-          "source": "New York Times",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-23T22:18:30Z"
-        },
-        {
-          "id": "b4d9d6046b55567e15657ec7f148d1f02e3c32c3",
-          "title": "特朗普政府将制裁英伟达丑闻中心的新加坡公司 / Trump Administration to Sanction Singaporean Firm at Center of Nvidia Scandal",
-          "title_zh": "特朗普政府将制裁英伟达丑闻中心的新加坡公司",
-          "title_en": "Trump Administration to Sanction Singaporean Firm at Center of Nvidia Scandal",
-          "title_original": "Trump Administration to Sanction Singaporean Firm at Center of Nvidia Scandal",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.nytimes.com/2026/11/23/technology/trump-administration-megaspeed-trade-blacklist-nvidia.html",
-          "source": "New York Times",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-23T21:07:02Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5205,
-      "importance": 0.5205,
-      "importance_score": 0.5205,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.504,
+        "editorial": 0.468,
         "source_tier": 0.32,
-        "ai_relevance": 0.7,
-        "recency": 0.7438,
+        "ai_relevance": 0.65,
+        "recency": 0.8629,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-23T21:07:02Z",
-      "latest_at": "2026-11-23T22:18:30Z",
+      "earliest_at": "2026-11-24T13:23:47Z",
+      "latest_at": "2026-11-24T13:23:47Z",
       "primary_item": {
-        "id": "7d467ef91691e2d017b2720018b6cb79ba4e1ac6",
-        "title": "特朗普政府对英伟达丑闻中心的新加坡公司 Megaspeed 实施制裁 / Trump Administration Imposes Sanctions on Megaspeed, Singaporean Firm at Center of Nvidia Scandal",
-        "title_zh": "特朗普政府对英伟达丑闻中心的新加坡公司 Megaspeed 实施制裁",
-        "title_en": "Trump Administration Imposes Sanctions on Megaspeed, Singaporean Firm at Center of Nvidia Scandal",
-        "title_original": "Trump Administration Imposes Sanctions on Megaspeed, Singaporean Firm at Center of Nvidia Scandal",
+        "id": "618a8839949bc97c466441be2169cfb28f98ab39",
+        "title": "Anthropic在盘前交易中跌破83美元的IPO发行价 / Anthropic breaks below $83 IPO price",
+        "title_zh": "Anthropic在盘前交易中跌破83美元的IPO发行价",
+        "title_en": "Anthropic breaks below $83 IPO price",
+        "title_original": "Anthropic breaks below $83 IPO price",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.nytimes.com/2026/11/23/business/trump-administration-megaspeed-trade-blacklist-nvidia.html",
-        "source": "New York Times",
-        "source_name": "TechURLs"
+        "url": "https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-24T18:49:58.909124Z"
-      }
-    },
-    {
-      "story_id": "story_c0b13c148043",
-      "title": "潜在内省：LLM可以检测先验概念注入 / Latent Introspection: LLMs Can Detect Prior Concept Injections",
-      "url": "https://arxiv.org/abs/2602.20031",
-      "primary_url": "https://arxiv.org/abs/2602.20031",
-      "source": "Hacker News front page",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "7c2ae00baacc6e66c35d712cb6cc774415947a01",
-          "title": "潜在内省：LLM可以检测先验概念注入 / Latent Introspection: LLMs Can Detect Prior Concept Injections",
-          "title_zh": "潜在内省：LLM可以检测先验概念注入",
-          "title_en": "Latent Introspection: LLMs Can Detect Prior Concept Injections",
-          "title_original": "Latent Introspection: LLMs Can Detect Prior Concept Injections",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://arxiv.org/abs/2602.20031",
-          "source": "Hacker News front page",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-11-23T22:29:48Z"
-        },
-        {
-          "id": "b115a3811dc101d307c09d51709d3decb90cdb21",
-          "title": "潜在内省：LLM可以检测先验概念注入 / Latent Introspection: LLMs Can Detect Prior Concept Injections",
-          "title_zh": "潜在内省：LLM可以检测先验概念注入",
-          "title_en": "Latent Introspection: LLMs Can Detect Prior Concept Injections",
-          "title_original": "Latent Introspection: LLMs Can Detect Prior Concept Injections",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50620328",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-23T22:29:48Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News front page",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "7c2ae00baacc6e66c35d712cb6cc774415947a01",
-          "title": "潜在内省：LLM可以检测先验概念注入 / Latent Introspection: LLMs Can Detect Prior Concept Injections",
-          "title_zh": "潜在内省：LLM可以检测先验概念注入",
-          "title_en": "Latent Introspection: LLMs Can Detect Prior Concept Injections",
-          "title_original": "Latent Introspection: LLMs Can Detect Prior Concept Injections",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://arxiv.org/abs/2602.20031",
-          "source": "Hacker News front page",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-11-23T22:29:48Z"
-        },
-        {
-          "id": "b115a3811dc101d307c09d51709d3decb90cdb21",
-          "title": "潜在内省：LLM可以检测先验概念注入 / Latent Introspection: LLMs Can Detect Prior Concept Injections",
-          "title_zh": "潜在内省：LLM可以检测先验概念注入",
-          "title_en": "Latent Introspection: LLMs Can Detect Prior Concept Injections",
-          "title_original": "Latent Introspection: LLMs Can Detect Prior Concept Injections",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50620328",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-23T22:29:48Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6238,
-      "importance": 0.6238,
-      "importance_score": 0.6238,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.5832,
-        "source_tier": 0.58,
-        "ai_relevance": 0.81,
-        "recency": 0.7458,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-23T22:29:48Z",
-      "latest_at": "2026-11-23T22:29:48Z",
-      "primary_item": {
-        "id": "7c2ae00baacc6e66c35d712cb6cc774415947a01",
-        "title": "潜在内省：LLM可以检测先验概念注入 / Latent Introspection: LLMs Can Detect Prior Concept Injections",
-        "title_zh": "潜在内省：LLM可以检测先验概念注入",
-        "title_en": "Latent Introspection: LLMs Can Detect Prior Concept Injections",
-        "title_original": "Latent Introspection: LLMs Can Detect Prior Concept Injections",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://arxiv.org/abs/2602.20031",
-        "source": "Hacker News front page",
-        "source_name": "Curated Media"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-24T18:49:58.909124Z"
+        "scored_at": "2026-11-24T23:37:49.098058Z"
       }
     }
   ]
